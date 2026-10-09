@@ -1,0 +1,869 @@
+SOIL SURVEY OF ELLIS COUNTY, KANSAS
+
+United States Department of Agriculture, Soil Conservation Service, in cooperation with the Kansas Agricultural Experiment Station — Issued August 1975.
+
+> A clean reading edition of the official federal soil survey of Ellis County, Kansas (fieldwork 1961–1968; issued August 1975), a work of the United States Government and so in the public domain. The prose of the report is reprinted whole — how the survey was made, the general soil map and associations, every soil series description, use and management, and the closing account of the county itself (history, climate, water, farming, and community facilities in 1970). The fold-out soil maps, map-sheet diagrams, and the guide to mapping units cannot survive as running text and are not reproduced; the dense numerical engineering tables survive in the scan only as scrambled columns and are likewise omitted. Both omissions are stated here rather than hidden.
+
+
+* * *
+
+
+
+How to Use This Soil Survey
+
+HIS SOIL SURVEY contains infor-
+
+mation that can be applied in managing farms and ranches; in selecting sites for roads, ponds, buildings, and other structures; and in judging the suitability of tracts of land for farming, industry, and recreation.
+
+Locating Soils
+
+All the soils of Ellis County are shown on the detailed map on the back of this publication. This map consists of many sheets made from aerial photographs. Each sheet is numbered to correspond with a number on the Index to Map Sheets.
+
+On each sheet of the detailed map, soil areas are outlined and are identified by symbol. All areas marked with the same symbol are the same kind of soil. The soil symbol is inside the area if there is enough room; otherwise, it is outside and a pointer shows where the symbol belongs.
+
+Finding and Using Information
+
+The “Guide to Mapping Units” can be used to find information. This guide lists all of the gsoil8 of the county in alphabetic order by map symbol and gives the capability classification of each. It also shows the page where each soil is described and the page for the windbreak suitability group and range site in which the soil has been placed.
+
+Individual colored maps showing the relative suitability or degree of limitation of soils for many specific purposes can be developed by using the soil map and information in the text. Translucent material can be used as an overlay over the soil map and colored to show soils that have the same limitation or suitability. For example, soils that have a slight limitation for a given use can be colored green, those with a moderate
+
+Cover:
+
+limitation can be colored yellow, and those with a severe limitation can he colored red.
+
+Farmers and those who work with farmers can learn about the use and management of the soils from the soil descriptions and from the discussions of the capability units, the range sites, and the windbreak suitability groups.
+
+Foresters and others can refer to the section “Windbreaks,” where the soils of the county are grouped according to their suitability for trees.
+
+Game managers, sportsmen, and others can find information about soils and wildlife in the section ‘Fish and Wildlife Management.”
+
+Ranchers and others can find, under “Range,” groupings of the soils according to their suitability for range, and also the name of many of the plants that grow on each range site.
+
+Community planners and others can read about soil properties that affect the choice of sites for dwellings, industrial buildings, schools, and parks in the section “Engineering Uses of the Soils.”
+
+Engineers and builders can find, under “Engineering Uses of the Soils,” tables that contain test data, estimates of soil properties, and information about soil features that affect engineering practices.
+
+Scientists and others can read about how the soils were formed and how they are classified in the section “Formation and Classification of the Soils.”
+
+Students, teachers, and others can find information about soils and their management in various parts of the text.
+
+Newcomers in Ellis County may be especially interested in the section ‘‘General Soil Map,” where broad patterns of soils are described. They may also be interested in the information about the county given in the section “General Nature of the County.”
+
+Wheat and oil production on Harney silt loam,
+
+0 to 1 percent slopes. A small pothole is near center of photo.
+
+
+
+Contents of the Original Volume
+
+Contents
+
+Page How this survey was made... 1 General soil map _.... 2 1. Rosbury-Eltree-Hord associaGON oo ee IP Ns, 2 2. Mento-Brownell-Wakeen assoCIATION: 2c! ce ne nas en heen, 3
+
+3. Armo-Bogue-Heizer association 5 4. Corinth-Harney association 6
+
+5. Campus-Harney-Carlson asgociation
+
+6. Harney-Carlson-Armo association
+
+7. Harney-Wakeen-Nibson ciation Descriptions of the soils Alluvial land Anselmo series Armo series _.. Boel series Bogue series Brownell series _.__ Campus series _._..... Canlon series __._. Carlson series Corinth series _. Crete series _____ Detroit series ____ Eltree series __.
+
+asso-
+
+Hilly land Holdrege series.... Hord series _._-. Inavale series McCook series __... Mento series __...... Munjor series New Cambria series _. Nibson series Penden series
+
+Roxbury series _... tebe tea teeae tht ND as Ds 36 Wakeen series 36 Wann series eee eee 38 Use and management of the soils _.._____ 39 General management of dryland SOUS yess iat 2) lean Sas | Bete ce tan 39 Capability grouping Yield predictions ____.. Trrigation RANnGe; sol fi Aiea a ee het ce Range sites and condition classes _.. 44 Descriptions of the range sites ____. 45 Windbreaks __._... Bit de ieee ch elie ts 50 Windbreak suitability groups __......... 51
+
+Fish and wildlife management _........ 51
+
+Engineering uses of the soils _......... 51 Engineering classification systems _.. 54 Estimated soil properties significant
+
+to engineering _... «BB Interpretations of engineering properties of the soilg W.-W. 55
+
+Engineering test data Recreation
+
+Formation and classification of the soils... 74
+
+Factors of soil formation _.. 74 Parent material _..._._.. __.. 18 Climate 2 ee 78 Plant and animal life _. 18 Rel 6h? ei ol Ie ae ete 719 Time _... 19
+
+Classification of the soils _..0.. 19
+
+General nature of the county 80
+
+History and population
+
+Relief and drainage ___....
+
+Climate 0
+
+Water supply
+
+Farming
+
+Industry 2a
+
+Transportation and markets _._.. 83
+
+Community facilities
+
+Literature cited GlosSary) 22 i peu es
+
+Guide to mapping units.._______.Following 86
+
+Issued August 1975
+
+SOIL SURVEY OF ELLIS COUNTY, KANSAS
+
+BY ROBERT K. GLOVER, LARRY D. ZAVESKY, WILLIAM R. SWAFFORD, AND QUINTEN L. MARKLEY, SOIL CONSERVATION SERVICE
+
+UNITED STATES DEPARTMENT OF AGRICULTURE, SOIL CONSERVATION SERVICE, IN COOPERATION WITH KANSAS AGRICULTURAL EXPERIMENT STATION
+
+LLIS COUNTY, located in the north-central part of
+
+Kansas (fig. 1), has an area of 576,000 acres, or about 900 square miles. Hays is the county seat. In 1970 the county had a population of 15,396.
+
+Figure 1.—Lecation of Ellis County in Kansas.
+
+The farm income of the county is derived mainly from the sale of livestock and livestock products, wheat, and grain sorghum. Small amounts of alfalfa, barley, corn, rye, oats, and native hay are also produced. Beef cattle have increased in number in the last 10 years, as has the number of cattle fed out in feed yards. In 1966 there were 305,416 acres of cropland and 238,540 acres of pasture and range. The remaining 32,044 acres was woodland, cities, lakes, and roads (11).
+
+The average size of farms increased from 560 acres in 1959 to 640 acres in 1964. The farm income, though rather unsteady in total receipts since 1958, has changed in the proportion of income from field crops and from livestock. Of the total farm income in 1958, 67 percent was from field crops. Wheat earned half of the total farm income, and livestock earned 33 percent. In 1968, 45 percent of the total income was from field crops and 55 percent was from livestock. In that year wheat earned only 30 percent of the total farm income.
+
+Although some farms still produce only field crops, most farms are now diversified to produce some livestock, mostly beef cattle. The number of dairy animals has declined in the county since 1958, but the amount of milk produced in the county exceeds the needs of the
+
+1Ttalic numbers in parentheses refer to Literature Cited, p. 83.
+
+population, and the surplus is shipped to other areas.
+
+Irrigation, although important to some individual farms, is practiced on only about 1.6 percent of the total cropland. Outside the Cedar Bluffs Irrigation District, irrigation is practiced only along major streams where water from streams or wells can be obtained. Most of the soils along the major streams are well suited to irrigation, but some are better suited than others. They have good potential if underground water can be located to irrigate them.
+
+The climate of Ellis County is characterized by moderately low rainfall, rapid evaporation, and seasonal high winds. Most of the rainfall is in spring and summer, favoring the production of dryland wheat and grain sorghum. The distribution of rainfall during the growing period, however, limits or enhances the yield of these crops.
+
+Oil production is the most important nonagricultural industry in the county. The assessed valuation indicates that oil production has been decreasing, however, since its peak in 1959.
+
+How This Survey Was Made
+
+Soil scientists made this survey to learn what kinds of soil are in Ellis County, where they are located, and how they can be used. The soil scientists went into the county knowing they likely would find many soils they had already seen and perhaps some they had not. They observed the steepness, length, and shape of slopes, the size and speed of streams, the kinds of native plants or crops, the kinds of rock, and many facts about the soils. They dug many holes to expose soil profiles. A profile is the sequence of natural layers, or horizons, in a soil; it extends from the surface down into the parent material that has not been changed much by leaching or by the action of plant roots.
+
+The soil scientists made comparisons among the profiles they studied, and they compared these profiles with those in counties nearby and in places more distant. They classified and named the soils according to uniform procedures. The soil series and the soil phase are the categories of soil classification most used in a local survey.
+
+Soils that have profiles almost alike make up a soil series. Except for different textures in the surface layer, all the soils of one series have major horizons
+
+2 SOIL SURVEY
+
+that are similar in thickness, arrangement, and other important characteristics. Each soil series is named for a town or other geographic feature near the place where a soil of that series was first observed and mapped. Harney and Mento, for example, are the names of two soil series. All the soils in the United States having the same series name are essentially alike in those characteristics that affect their behavior in the undisturbed landscape.
+
+Soils of one series can differ in texture of the surface layer and in slope, stoniness, or some other characteristic that affects use of the soils by man. On the basis of such differences, a soil series is divided into phases. The name of a soil phase indicates a feature that affects management. For example, Harney silt loam, 1 to 3 percent slopes, is one of several phases of the Harney series.
+
+After a guide for classifying and naming the soils had been worked out, the soil scientists drew boundaries of the individual soils on aerial photographs. These photographs show woodlands, buildings, field borders, trees, and other details that help in drawing boundaries accurately. The soil map at the back of this survey was prepared from aerial photographs.
+
+The areas shown on a soil map are called mapping units. On most maps detailed enough to be useful in planning the management of farms and fields, a mapping unit is nearly equivalent to a soil phase. It is not exactly equivalent, because it is not practical to show on such a map all the small, scattered bits of soil of some kind that have been seen within an area that is dominantly of a recognized soil phase.
+
+Some mapping units are made up of soils of different series, or of different phases within one series. One such kind of mapping unit is shown on the soil map of Ellis County: the soil complex.
+
+A soil complex consists of areas of two or more soils, so intricately mixed or so smal] in size that they cannot be shown separately on the soil map. Each area of a complex contains some of each of the two or more dominant soils, and the pattern and relative proportions are about the same in all areas. Generally, the name of a soil complex consists of the names of the dominant soils, joined by a hyphen. Heizer-Armo complex is an example.
+
+In most areas surveyed there are places where the soil material is so rocky, so shallow, so severely eroded, or so variable that it has not been classified by soil series. These places are shown on the soil map and are described in the survey, but they are called land types and are given descriptive names. Rough broken land is a land type in this county.
+
+While a soil survey is in progress, soil scientists take soil samples needed for laboratory measurements and for engineering tests. Laboratory data from the same kinds of soil in other places are also assembled. Data on yields of crops under defined practices are assembled from farm records and from field or plot experiments on the same kinds of soil. Yields under defined management are estimated for all the soils.
+
+Soil scientists observe how soils behave when used as a growing place for native and cultivated plants, and as material for structures, foundations for structures,
+
+or covering for structures. They relate this behavior to properties of the soils. For example, they observe that filter fields for onsite disposal of sewage fail on a given kind of soil, and they relate this to the slow permeability of the soil or to a high water table. They see that streets, road pavements, and foundations for houses are cracked on a named kind of soil and they relate this failure to the high shrink-swell potential of the soil material. Thus, they use observation and knowledge of soil properties, together with available research data, to predict limitations or suitability of soils for present and potential uses.
+
+After data have been collected and tested for the key, or benchmark, soils in a survey area, the soil scientists set up trial groups of soils. They test these groups by further study and by consultation with farmers, agronomists, engineers, and others. They then adjust the groups according to the results of their studies and consultation. Thus, the groups that are finally evolved reflect up-to-date knowledge of the soils and their behavior under current methods of use and management.
+
+General Soil Map
+
+The general soil map at the back of this survey shows, in color, the soil associations in Ellis County. A soil association is a landscape that has a distinctive proportional pattern of soils. It normally consists of one or more major soils and at least one minor soil, and it is named for the major soils. The soils in one association may occur in another, but in a different pattern.
+
+A map showing soil associations is useful to people who want a general idea of the soils in a county, who want to compare different parts of a county, or who want to know the location of large tracts that are suitable for a certain kind of land use. Such a map is a useful general guide in managing a watershed, a wooded tract, or a wildlife area, or in planning engineering works, recreational facilities, and community developments. It is not a suitable map for planning the management of a farm or field or for selecting the exact location of a road, building, or similar structure, because the soils in any one association ordinarily differ in slope, depth, stoniness, drainage, and other characteristics that affect their management.
+
+The soil associations in Ellis County are discussed in the following pages.
+
+
+
+1. Roxbury-Eliree-Hord association
+
+Deep, nearly level to strongly sloping, well-drained soils that have a loam to silty clay loam subsoil; on flood plains, stream terraces, and valley sides
+
+This association is along the major streams of the county. The soils on the flood plains and terraces are nearly level to gently undulating, and the soils on the valley sides are nearly level to strongly sloping.
+
+This association covers about 12 percent of the county, About 24 percent is Roxbury soils, 16 percent is Eltree soils, 11 percent is Hord soils, and 40 percent is minor soils (fig. 2).
+
+ELLIS COUNTY, KANSAS
+
+Figure 2.—Pattern of soils and underlying material in the Roxbury-Eltree-Hord association,
+
+Roxbury soils are nearly level to gently undulating soils on terraces. The surface layer typically is grayishbrown silt loam about 24 inches thick. The next layer is grayish-brown light silty clay loam about 26 inches thick. It is underlain at a depth of about 50 inches by light brownish-gray light silty clay loam. Roxbury soils are calcareous and have high available water capacity.
+
+Eltree soils are nearly level to strongly sloping soils on high terraces and valley sides. The surface layer is grayish-brown silt loam about 26 inches thick. The upper part of the subsoil is grayish-brown heavy silt loam about 9 inches thick. The lower part of the subsoil is light brownish-gray light silty clay loam about 14 inches thick. The underlying material is pale-brown light silty clay loam. Eltree soils are calcareous and have high available water capacity.
+
+Hord soils are nearly level to gently undulating soils on terraces. The surface layer igs very dark grayishbrown silt loam about 18 inches thick. The upper part of the subsoil is dark grayish-brown light silty clay loam about 10 inches thick. The lower part of the subsoil is light brownish-gray light silty clay loam about 15 inches thick. The underlying material is pale-brown heavy silt loam. Hord soils have high available water capacity.
+
+Minor soils in this association are Alluvial land, broken, and Anselmo, Boel, Detroit, Holdrege, Inavale, McCook, Munjor, New Cambria, and Wann soils. The
+
+channels and banks of Big Creek are occupied by Alluvial land, broken. Inavale, McCook, and Munjor soils are on the flood plains and low terraces near the channels of streams, and Detroit and New Cambria soils are on the higher terraces. Sloping Anselmo and Holdrege soils are associated with Eltree soils on valley side slopes. The somewhat poorly drained Boel and Wenn soils are in areas that have a fluctuating water table.
+
+Water erosion is a hazard on the sloping soils, and soil blowing is a hazard on fields left bare of vegetation. The soils on the flood plains and low terraces are subject to flooding.
+
+Most of this association is cultivated. Some areas of the sandy, wet, or strongly sloping soils are in native grass. The arable soils of this association are among the most desirable for crops in the county, and the potential production is high for wheat, sorghum, and alfalfa,
+
+The soils in this association have good potential for i jeston if water ig available. Some areas are irrigated.
+
+2. Mento-Brownell-W akeen association Deep and moderately deep, nearly level to strongly
+
+sloping, well-drained soils that have a very gravelly loam to silty clay loam subsoil; on uplands
+
+This association is on uplands that are dissected by
+
+4 SOIL SURVEY
+
+Figure 3.—Pattern of soils and underlying material in the Mento-Brownell-Wakeen association.
+
+drainageways. The areas along the drainageways are gently sloping to strongly sloping.
+
+This association covers about 23 percent of the county. About 37 percent is Mento soils, 31 percent is Brownell soils, 10 percent is Wakeen soils, and 22 percent is of minor soils (fig. 3).
+
+Mento soils are deep, nearly level to sloping soils on uplands. The surface layer is typically dark grayishbrown silt loam about 9 inches thick. The subsoil is 22 inches thick. The upper part is grayish-brown heavy silty clay loam about 6 inches thick; the next layer is grayish-brown, calcareous heavy silty clay loam about 6 inches thick; and the lower layer is pale-brown, caleareous silty clay loam about 10 inches thick. The underlying material is 86 inches thick. The upper part of the underlying material is pale-brown, calcareous light silty clay loam about 10 inches thick; and the lower part is 26 inches of white, calcareous clay loam that has many fragments of chalk or limestone of sand and gravel size. Below is bedded chalky limestone. Mento soils have high available water capacity.
+
+Brownell soils are moderately deep, gently sloping to strongly sloping soils on uplands. The surface layer is typically very dark gray gravelly loam about 7 inches thick. The subsoil is dark-gray very gravelly loam about 8 inches thick that contains common chalky limestone fragments 14 inch to 2 inches in diameter. The underlying material is very pale brown channery loam about 15 inches thick that contains many coarse chalky limestone fragments 3 to 6 inches in diameter. Bedded chalky limestone is at a depth of 30 inches. Brownell soils have low available water capacity and are calcareous throughout.
+
+Wakeen soils are moderately deep, gently sloping to strongly sloping soils on uplands. The surface layer is typically 17 inches thick. The upper part is dark grayish-brown silt loam about 5 inches thick; the middle part is dark grayish-brown light silty clay loam about 5 inches thick; and the lower 7 inches is grayish-brown silty clay loam. The subsoil is very pale brown silty clay loam 12 inches thick. The underlying material is very pale brown silty clay loam 7 inches thick. Thinly bed-
+
+ELLIS COUNTY, KANSAS 5
+
+Figure 4.—Pattern of soils and underlying material in the Armo-Bogue-Heizer association.
+
+ded, brownish-yellow chalk bedrock is at a depth of about 36 inches. Wakeen soils are caleareous and have moderate available water capacity.
+
+Minor soils in this association are Alluvial land, wet, and Armo, Bogue, Corinth, Harney, Heizer, and Roxbury soils. Harney soils are on the higher crests near Mento soils. Armo, Bogue, and Corinth soils are below the Brownell soils but above the floors of drainageways., Heizer soils are in steep areas below Mento, Brownell, and Wakeen soils. Roxbury soils are on the floors of the drainageways where a water table is not present. The Roxbury soils are frequently flooded. Alluvial land, wet, is on the floors of drainageways where a water table is present.
+
+Water erosion is a hazard on the sloping soils, and soil blowing is a hazard on fields left bare of vegetation. Iron chlorosis is a management concern if sorghum is planted on Wakeen and Armo soils, because of the high lime content. Overgrazing is the main management concern on range.
+
+About 55 percent of this association is in wheat and sorghum. The other 45 percent is native range, to which the soils are well suited.
+
+3. Armo-Bogue-Heizer association Deep to shallow, gently sloping to moderately steep,
+
+well drained and moderately well drained soils that have a channery loam to clay subsoil or substratum; on uplands
+
+This association is on uplands. Many drainageways and small streams dissect the landscape.
+
+This association covers about 14 percent of the county. About 46 percent is Armo soils, 19 percent is Bogue soils, 10 percent is Heizer soils, and 25 percent is minor soils and land types (fig. 4).
+
+Armo soils are deep, well-drained, gently sloping to strongly sloping soils. They are mostly sloping to strongly sloping and are on side slopes below Heizer soils and above Bogue soils. The surface layer is typically dark grayish-brown heavy loam in the upper 10 inches and grayish-brown silt loam in the lower 5 inches. The subsoil is pale-brown light clay loam about 18 inches thick. The upper 13 inches of the underlying material is pale-brown light clay loam, and the next 10 inches is pale-brown silt loam. The lower layer of the underlying material, below a depth of about 51 inches, is a bed of fine and medium gravel that contains loam in about 30 percent of the interstices. Armo soils are calcareous and have high available water capacity.
+
+Bogue soils are moderately deep, moderately well drained, sloping to moderately steep soils. The surface layer is gray clay about 6 inches thick. The subsoil is
+
+“Orne, nNOS
+
+L rine \N ce Lia NS
+
+Pag
+
+aoa Lor, vais
+
+Figure 5.—Pattern of soils and underlying material in the Corinth-Harney association.
+
+gray clay 11 inches thick. The underlying material is gray clay in the upper 6 inches and dark-gray, weathered clay shale in the lower 9 inches. Clay shale is at a depth of about 32 inches. Bogue soils have low available water capacity.
+
+Heizer soils are shallow, well-drained, strongly sloping to moderately steep soils. Steep limestone bluffs are in some areas. The surface layer is dark-gray gravelly loam about 6 inches thick. The next layer is gray channery loam 3 inches thick. The underlying material is light brownish-gray channery loam about 5 inches thick. Below this is white chalky limestone. Heizer soils are calcareous and have very low available water capacity.
+
+Minor soils and land types in this association are Alluvial land, clayey; Hilly land; Brownell, Corinth, Harney, Mento, New Cambria, Roxbury, and Wakeen soils; and shallow soils that have a texture similar to that of Bogue soils. Alluvial land, clayey, is on the floors of intermittent drainageways that drain areas of Bogue soils. New Cambria and Roxbury soils are on the floors of the larger drainageways. The Roxbury soils are frequently flooded. Hilly land is on the valley walls adjacent to streams. Harney soils are in a complex with Armo soils. Corinth soils are below Bogue soils on uplands, and the shallow clays are intermixed with Bogue
+
+soils. Brownell, Mento, and Wakeen soils are above the Armo and Heizer soils.
+
+Erosion is a hazard in all cultivated areas and in areas of range that are overgrazed. Overgrazing is the main management concern in areas used as range.
+
+About 95 percent of this association is used for range. A few areas of gently sloping to sloping Armo soils on uplands are used for wheat and grain sorghum, but most of the cultivated areas produce livestock forage.
+
+4, Corinth-Harney association
+
+Moderately deep and deep, nearly level to strongly sloping, well-drained soils that have a silty clay loam to silty clay subsoil; on uplands
+
+This association is on ridgetops, hill crests, and side slopes on uplands.
+
+This association covers about 4 percent of the county. About 71 percent is Corinth soils, 17 percent is Harney soils, and 12 percent is minor soils (fig. 5).
+
+Corinth soils are moderately deep, gently sloping to strongly sloping soils on uplands. The surface layer is grayish-brown silty clay loam about 9 inches thick. The subsoil is 13 inches thick. The upper layer is light brownish-gray heavy silty clay loam 7 inches thick, and the lower layer is light yellowish-brown heavy silty
+
+ELLIS COUNTY, KANSAS
+
+Figure 6.—Pattern of soils and underlying material in the Campus-Harney-Carlson association.
+
+clay loam 6 inches thick. The underlying material is 8 inches of brownish-yellow heavy silty clay loam that is underlain by light yellowish-brown, platy, calcareous shale. Cornith soils are calcareous and have moderate available water capacity.
+
+Harney soils are deep, nearly level to sloping soils on uplands. The surface layer is 10 inches thick. The upper 6 inches is dark grayish-brown silt loam, and the lower 4 inches is dark grayish-brown light silty clay loam. The subsoil is about 30 inches thick. The upper 9 inches is grayish-brown heavy silty clay loam; the next 11 inches is grayish-brown light silty clay; and the lower 10 inches is light brownish-gray, calcareous heavy silty clay loam. The underlying material is light brownish-gray, calcareous light silty clay loam. Harney soils have high available water capacity.
+
+Minor soils in this association are Bogue, Nibson, and Roxbury soils. Roxbury soils are frequently flooded and occur on the floor of intermittent drainageways and small creeks that incise the uplands. Bogue soils are above Corinth soils, and Nibson soils are below Corinth soils.
+
+Water erosion is a hazard on the sloping soils, and soil blowing is a hazard on all fields left bare of vegetation. Iron chlorosis igs a concern on Corinth soils if sorghum is planted, because of the high lime content of
+
+these soils. Overgrazing is the main concern on range.
+
+About 70 percent of this association is cultivated. Wheat and sorghum are the main crops. The strongly sloping soils are mostly in native grass.
+
+
+
+3. Campus-Harney-Carlson association
+
+Moderately deep and deep, nearly level to moderately steep, well-drained soils that have a loam to silty clay subsoil or substratum; on uplands
+
+This association is on tablelands, ridgetops, and side slopes that are cut by widely spaced intermittent drainageways.
+
+This association covers about 7 percent of the county. About 35 percent is Campus soils, 20 percent Harney soils, 12 percent is Carlson soils, and 38 percent is minor soils (fig. 6).
+
+Campus soils are moderately deep, sloping to strongly sloping soils on ridgetops and side slopes and along drainageways. The surface layer is dark grayishbrown loam, about 9 inches thick, that contains many caliche fragments 14 to 1 inch in diameter. The next layer is light-gray clay loam, about 10 inches thick, that has many caliche fragments 14 to 1 inch in diameter. The underlying material is white loam, about 14 inches thick, that has many caliche fragments 14 to 1 inch in diameter. White, partly consolidated
+
+8 SOIL SURVEY
+
+caliche is at a depth of about 33 inches. Campus soils are calcareous and have low available water capacity.
+
+Harney soils are deep. They are nearly level to gently sloping soils on tablelands and sloping soils on side slopes above drainageways. The surface layer is about 10 inches thick. The upper part is dark grayish-brown silt loam 6 inches thick, and the lower part is dark grayish-brown light silty clay loam 4 inches thick. The subsoil is about 30 inches thick. The upper 9 inches is grayish-brown heavy silty clay loam; the next 11 inches is grayish-brown light silty clay; and the lower 10 inches is light brownish-gray, caleareous heavy silty clay loam. The underlying material is light brownish-gray, calcareous light silty clay loam, Harney soils have high available water capacity.
+
+Carlson soils are deep, nearly level to sloping soils on uplands. The surface layer is dark-gray silt loam about 8 inches thick. The subsoil is about 15 inches thick. The upper 4 inches is dark grayish-brown silty clay loam; the next 6 inches is brown heavy silty clay loam, and the lower 5 inches is grayish-brown, calcareous silty clay loam. The underlying material is very pale brown, calcareous clay loam. Carlson soils have high available water capacity.
+
+Minor soils in this association are Armo, Canlon, Penden, and Mento soils; Rough broken land; Alluvial land, wet; and Roxbury silt loam, frequently flooded. Canlon soils are downslope from Campus soils and are associated with outcrops of caliche. Penden soils are strongly sloping to moderately steep and are downslope from Canlon and Campus soils on side slopes. Mento soils are on the ridgetops on tablelands near Harney and Carlson soils. Rough broken land and Armo soils are below Campus and Penden soils. Roxbury silt loam, frequently flooded, and Alluvial land, wet, are on floors of intermittent drainageways.
+
+Water erosion is a hazard on the sloping cultivated soils, and soil blowing is a hazard on soils left bare of vegetation. Overgrazing is the main management concern on range. Overgrazed range is susceptible to soil blowing and water erosion. Iron chlorosis is a concern where sorghum ig planted on the Campus soils, because Campus soils have a high lime content, which reduces the availability of iron in the soil.
+
+About 45 percent of this association is cultivated. The principal crops are wheat and sorghum. The remaining 55 percent of the acreage is strongly sloping to moderately steep and is used for range. The deep soils of this association have good potential for irrigation if water is available.
+
+
+
+6. Harney-Carlson-Armo association
+
+Deep, nearly level to strongly sloping, well-drained soils that have a clay loam to silty clay subsoil; on uplands
+
+This association is nearly level to gently sloping in broad areas on uplands and gently sloping to strongly sloping on sides of widely spaced drainageways that dissect these areas.
+
+The soil association covers 82 percent of the county. About 66 percent is Harney soils, 14 percent is Carlson soils, 18 percent is Armo soils, and 7 percent is minor soils (fig. 7).
+
+Harney soils are nearly level to sloping. A few small depressions occur where the soils are nearly level. The surface layer is about 10 inches thick. The upper 6 inches is dark grayish-brown silt loam, and the lower 4 inches is dark grayish-brown light silty clay loam; the subsoil is 30 inches thick. The upper 9 inches is grayish-brown heavy silty clay loam; the next 11 inches is grayish-brown light silty clay; and the lower 10 inches is light brownish-gray, calcareous heavy silty clay loam. The underlying material is light brownish-gray calcareous light silty clay loam. Harney soils have high available water capacity.
+
+Carlson soils are nearly level to sloping. The surface layer is dark-gray silt loam about 8 inches thick. The subsoil is about 15 inches thick. The upper 4 inches is dark grayish-brown silty clay loam; the next 6 inches is brown heavy silty clay loam; and the lower 5 inches is grayish-brown, calcareous silty clay loam. The underlying material is very pale brown, calcareous clay loam. Carlson soils have high available water capacity.
+
+Armo soils are gently sloping on tablelands and sloping to strongly sloping along intermittent drainageways. The surface layer is typically dark grayishbrown heavy loam in the upper 10 inches and grayishbrown silt loam in the lower 5 inches. The subsoil is pale-brown light clay loam about 183 inches thick. The upper 18 inches of the underlying material is palebrown light clay loam; the next 10 inches is palebrown silt loam; and the lower part is a bed of fine and medium gravel that has 30 percent of the interstices filled with loam. Armo soils are calcareous and have high available water capacity.
+
+Minor soils in this association are Roxbury silt loam, frequently flooded, and Hord silt loam. The Roxbury soil is on the flood plains of the intermittent drainageways and small streams. The Hord soil is above the Roxbury soil.
+
+Water erosion is a hazard on the sloping soils, and soil blowing is a hazard on fields left bare of vegetation. Iron chlorosis, because of the high lime content of the Armo soils, lowers the production of sorghum. Overgrazing is the main management concern on range.
+
+About 85 percent of this association is cultivated. Some areas of the strongly sloping soils are in native grass. The arable soils of this association are among the most desirable upland soils for crops in the county. The potential production is high for wheat and sorghum. Alfalfa can also be grown. These soils have a good potential for irrigation if water is available, and some areas are irrigated.
+
+
+
+7. Harney-Wakeen-Nibson association
+
+Deep to shallow, nearly level to strongly sloping, well drained and somewhat excessively drained soils that have a silty clay loam and silty clay subsoil; on upands
+
+This association is nearly level to sloping on tablelands and gently sloping to strongly sloping on sides of drainageways that incise these tablelands.
+
+This association covers 8 percent of the county. About 48 percent is Harney soils, 19 percent is
+
+ELLIS COUNTY, KANSAS 9
+
+Figure 7.—Pattern of soils and underlying material in the Harney-Carlson-Armo association.
+
+Wakeen soils, 17 percent is Nibson soils, and 21 percent is minor soils (fig. 8).
+
+Harney soils are deep, well-drained, nearly level to sloping soils on uplands. The surface layer is about 10 inches thick. The upper 6 inches is dark grayishbrown silt loam, and the lower 4 inches is dark grayish-brown light silty clay loam. The subsoil is 30 inches thick. The upper 9 inches is grayish-brown heavy silty clay loam; the next 11 inches is grayishbrown light silty clay; and the lower 10 inches is light brownish-gray, calcareous heavy silty clay loam. The underlying material is light brownish-gray, calcareous light silty clay loam. Harney soils have high available water capacity. About 60 percent of the acreage of these soils is underlain by chalky limestone bedrock at a depth of 3 to 5 feet and is highly calcareous below the subsoil.
+
+Wakeen soils are moderately well drained, gently sloping to strongly sloping soils on uplands. The surface layer is about 17 inches thick. The upper part is dark grayish-brown silt loam about 5 inches thick, the next 5 inches is dark grayish-brown light silty clay loam, and the lower part is grayish-brown silty clay loam about 7 inches thick. The subsoil is very pale brown silty clay loam 12 inches thick. The underlying material is about 7 inches of very pale brown silty clay loam that is underlain by bedded brownish-yellow
+
+chalk at a depth of about 86 inches. Wakeen soils are calcareous and have moderate available water capacity.
+
+Nibson soils are shallow, somewhat excessively drained, sloping to strongly sloping soils on sides of drainageways. The surface layer is dark grayishbrown heavy silt loam about 7 inches thick. The subsoil is 7 inches thick. The upper part is grayish-brown silty clay loam 3 inches thick, and the lower part is light yellowish-brown silty clay loam 4 inches thick. The underlying material is 5 inches of pale-yellow weathered shale and limestone of silty clay loam texture. Below this is pale-yellow shale and limestone. Nibson soils are calcareous and have very low available water capacity.
+
+Minor soils in this association are Armo and Mento soils, Hilly land, and Roxbury silt loam, frequently flooded. Armo soils are below the Nibson soils in the larger drainageways. Mento soils are intermingled with Harney and Wakeen soils on tablelands and are nearly level to gently sloping. Hilly land is on valley sides below the Nibson soils. Roxbury silt loam, frequently flooded, is on the floor of small streams and intermittent drainageways.
+
+Water erosion ig a hazard in sloping, cultivated areas, and soil blowing is a hazard in cultivated areas
+
+10 SOIL SURVEY
+
+Figure 8.—Pattern of soils and underlying material in the Harney-Wakeen-Nibson association.
+
+left bare of vegetation. Overgrazing is the main concern on range.
+
+About 65 percent of this association is cultivated. Wheat and sorghum are the principal crops. The remaining 35 percent is in native grass and is used as range. Most areas of the Nibson soils are used for range.
+
+Descriptions of the Soils
+
+This section describes the soil series and mapping units in Ellis County. Each soil series is described in detail, and then, briefly, each mapping unit in that series. Unless it is specifically mentioned otherwise, it is to be assumed that what is stated about the soil series holds true for the mapping units in that series. Thus, to get full information about any one mapping unit, it is necessary to read both the description of the mapping unit and the description of the soil series to which it belongs.
+
+An important part of the description of each soil series is the soil profile, that is, the sequence of layers from the surface downward to rock or other underlying material. Each series contains two descriptions of this profile. The first is brief and in terms familiar
+
+to the layman. The second is much more detailed and is for those who need to make thorough and precise studies of soils. The profile described in the series is representative for mapping units in that series. If the profile of a given mapping unit is different from the one described for the series, these differences are stated in describing the mapping unit, or they are differences that are apparent in the name of the mapping unit. Color terms are for dry soil unless otherwise stated.
+
+As mentioned in the section “How This Survey Was Made,” not all mapping units are members of a soil series. Hilly land for example, does not belong to a soil series, but nevertheless is listed in alphabetic order along with the soil series.
+
+Following the name of each mapping unit is a symbol in parentheses. This symbol] identifies the mapping unit on the detailed soil map. Listed at the end of each description of a mapping unit is the capability unit, range site, and windbreak suitability group in which the mapping unit has been placed. The page for the description of each capability unit or other interpretative group can be learned by referring to the “Guide to Mapping Units” at the back of this survey.
+
+The acreage and proportionate extent of each map-
+
+ELLIS COUNTY, KANSAS
+
+TABLE 1.—Approzimate acreage and proportionate extent of the soils
+
+Soil Area | Extent Acres Percent
+
+Soil Area | Extent
+
+Borrow pits 112 () Total: ee he ate ee tol MN 576,000 100.0
+
+1 Less than 0.05 percent.
+
+ping unit are shown in table 1. Many of the terms used in describing soils can be found in the Glossary, and more detailed information about the terminology and methods of soil mapping can be obtained from the Soil Survey Manual (9).
+
+Alluvial Land
+
+Alluvial land consists of sediment deposited by streams on flood plains. Its properties are variable. Areas are variously suitable for range, recreation, and wildlife habitat.
+
+Alluvial land, broken (Ab).—This land type is on the channel and banks of Big Creek. The banks are moderately steep and broken in most places, but some banks are vertical. The soil on the banks is loamy. The narrow flood plain along the channel consists of nearly level to gently sloping loamy soils and sandbars. Areas range from 100 to 300 feet in width. The channel is 25 to 65 feet wide.
+
+Included with this land type in mapping were small areas of Roxbury, McCook, and Hord soils.
+
+Alluvial land, broken, has limited use for grazing. The vegetation varies from one area to another. Western wheatgrass, Virginia wildrye, Canadian wildrye, switchgrass, and annual grasses and weeds are the principal range forage. American elm, Siberian elm, cottonwood, green ash, and a few mulberry and hackberry trees are scattered along the channel.
+
+Flooding is a hazard to use. The channel and banks
+
+are susceptible to erosion. Water for livestock is available from the creek. Other uses are recreation and wildlife habitat. Capability unit VIIw-1; range site and windbreak suitability group not assigned.
+
+Alluvial land, clayey (0 to 2 percent slopes) (Ac).— This land type consists of nearly level to gently undulating clayey soils on narrow flood plains along meandering intermittent streams. The streams drain areas of soils that formed in material weathered from clay shale. In places these clayey soils have layers of sandy or gravelly material below a depth of 2 feet. The soils are calcareous within 15 inches of the surface. Areas range from 100 to 500 feet in width.
+
+Included with this land type in mapping were some small areas of Bogue and New Cambria soils.
+
+Most areas are in native grass and are well suited to grazing. The soils are subject to flooding, and the areas are cut up by meandering, shallowly entrenched to deeply entrenched stream channels. Most of the adjoining soils are-sloping to moderately steep and are not suited to cultivation.
+
+The practices effective in producing adequate forage for livestock are proper rate of stocking, deferred grazing, rotation grazing, cross fencing, and properly distributing salt and water. Suitable sites for water impoundment are generally available. Capability unit VIw-1; Clay Lowland range site; windbreak suitability group 1.
+
+Alluvial land, wet (0 to 1 percent slopes) (Ad).—This land type consists of clayey, loamy, and sandy soils
+
+12 SOIL SURVEY
+
+that formed in alluvium. The clayey and loamy soils range from shallow to deep over sand. In about 20 to 30 percent of the soils, the water table fluctuates between the surface and a depth of 2 feet. These soils have a black surface layer, mottling around root channels, and more prominent mottles in the lower layers. In about 40 to 50 percent of the area of the soils, the water table fluctuates between depths of 2 and 4 feet. These soils are mottled only in the lower layers. In the remaining 25 to 30 percent of the area, the water table is below a depth of 4 feet.
+
+Included with this land type in mapping were some small areas of Roxbury silt loam, frequently flooded.
+
+The soils in this mapping unit are well suited to grazing and wildlife habitat. Most areas support an excellent growth of tall grasses, but the wetter areas support mostly cattails, rushes, and sedges.
+
+Among the practices needed to maintain good range ig a proper rate of stocking. Fencing for separate use and management is beneficial. Capability unit Vw-1; Wetland range site; windbreak suitability group not assigned.
+
+Anselmo Series
+
+The Anselmo series consists of deep, well-drained soils that formed in moderately coarse textured outwash. These gently sloping to sloping soils are on valley sides or old high terraces.
+
+In a representative profile the surface layer is dark grayish-brown fine sandy loam about 10 inches thick. The subsoil is dark-brown and brown, very friable sandy loam 15 inches thick. The underlying material is brown sandy loam in the upper part and pale-brown loamy sand in the lower part.
+
+Permeability is moderately rapid, and available water capacity is moderate. Most areas of these soils are cultivated, but some of the most sloping areas are in native grass.
+
+Representative profile of Anselmo fine sandy loam, 2 to 6 percent slopes, in a cultivated field, 1,500 feet east and 150 feet south of the northwest corner of sec. 21, T. 11 S8., R. 16 W.:
+
+Al—0 to 10 inches, dark grayish-brown (10YR 4/2) fine sandy loam, very dark grayish brown (10YR 3/2) moist; moderate, medium, granular structure; slightly hard, very friable; common fine roots; slightly acid; gradual, smooth boundary.
+
+B21—10 to 16 inches, dark-brown (10YR 4/3) sandy loam, dark brown (10YR 3/8) moist; weak, fine, subangular blocky structure; slightly hard, very friable; common fine roots; neutral; gradual, smooth boundary.
+
+B22—16 to 25 inches, brown (10YR 5/8) light sandy loam, dark brown (10YR 4/8) moist; weak, medium; subangular blocky structure; slightly hard, very friable; few fine roots; mildly alkaline; gradual, smooth boundary.
+
+Ci—25 to 85 inches, brown (10YR 5/3) sandy loam, dark brown (10YR 4/3) moist; massive; slightly hard, friable; few fine roots; mildly alkaline; gradual, smooth boundary.
+
+C2—385 to 60 inches, pale-brown (10YR 6/3) loamy sand, brown (10YR 5/3) moist; massive; soft, very friable; weakly effervescent; mildly alkaline.
+
+The solum ranges from 15 to 40 inches in thickness. The Al horizon ranges from 7 to 14 inches in thickness and from
+
+loamy fine sand to loam in texture. It ranges from very dark grayish brown to grayish brown in color. The B horizon ranges from 8 to 30 inches in thickness and from sandy loam to fine sandy loam in texture. The C horizon ranges from sandy loam to loamy sand. It is calcareous below a depth of 80 inches and is weakly to strongly effervescent.
+
+Anselmo soils are in positions on the landscape similar to those of Eltree and Holdrege soils. They are leached of lime to a greater depth, are coarser textured in all horizons, and have a thinner A horizon than Eltree soils. They are coarser textured in all horizons than Holdrege soils and formed in outwash rather than in loess.
+
+Anselmo fine sandy loam, 2 to 6 percent slopes (Ae).— This soil has convex slopes.
+
+Included with this soil in mapping were some areas of soils that are similar to this Anselmo soil but are calcareous between depths of 15 and 30 inches. Also included were small areas of Armo, Eltree, Harney, and Roxbury soils; small areas of Hilly land that has slopes of about 6 percent; and small eroded areas, which are shown on the soil map by a symbol.
+
+Runoff is slow to moderate. Water erosion is a hazard, and soil blowing also is a hazard if the soil is dry and lacks a plant cover. Inadequate rainfall is a limitation to all crops.
+
+About 75 percent of the acreage of this soil is cultivated. Wheat and sorghum are the main dryland crops. Minimum tilling, stubble mulching, contouring, and terracing are effective. This soil is suitable for land leveling for flood or sprinkler irrigation. Capability unit IIJe-3; Sandy range site; windbreak suitability group 2.
+
+Armo Series
+
+The Armo series consists of deep, calcareous, welldrained soils that formed in medium-textured local colluvium derived from chalky limestone (fig. 9). These gently sloping to strongly sloping soils are on side slopes and tablelands and along drainageways on uplands.
+
+In a representative profile the surface layer is about 15 inches thick. The upper 10 inches is dark grayishbrown heavy loam, and the lower 5 inches is grayishbrown silt loam. The subsoil is pale-brown, friable light clay loam about 18 inches thick. The upper 13 inches of the underlying material is pale-brown light clay loam; thin lenses of loamy sand make up about 25 percent of this horizon. The next part of the underlying material is pale-brown silt loam but is about 40 percent interbedded strata of gravelly loamy sand in which the sand particles are mostly chalk. Below a depth of about 51 inches is a bed of fine and medium gravel in which 30 percent of the interstices are filled with loam.
+
+Permeability is moderate, and available water capacity is high. Most areas of the gently sloping and sloping soils are cultivated. Most areas of the strongly sloping soils are in native grass.
+
+Representative profile of Armo loam, 3 to 7 percent slopes, in native grass, 1,400 feet east and 3,500 feet ae be the southwest corner of sec. 28, T. 11 S.,
+
+A1—0 to 10 inches, dark grayish-brown (10YR 4/2) heavy loam, very dark brown (10YR 2/2) moist; weak,
+
+ELLIS COUNTY, KANSAS 13
+
+Figure 9.—Profile of an Armo loam.
+
+thin, platy structure in upper 2 inches parting to moderate, fine and medium, granular; slightly hard, friable; many fine grass roots; few fragments of chalk 2 millimeters to 2 centimeters in diameter; strongly effervescent; mildly alkaline; gradual, smooth boundary.
+
+A38—10 to 15 inches, grayish-brown (10YR 5/2) silt loam, dark grayish brown (10YR 4/2) moist; weak, coarse, subangular blocky to weak, medium, granular structure; hard, friable; common fine grass roots; few chalk fragments as in horizon above;
+
+strongly effervescent; smooth boundary.
+
+B2—15 to 28 inches, pale-brown (10YR 6/8) light clay loam, yellowish brown (10YR 5/4) moist; weak, fine, granular structure; slightly hard, friable; few fine grass roots; violently effervescent; moderately alkaline; gradual, wavy boundary.
+
+Clca—28 to 41 inches, pale-brown (10YR 6/3) light clay loam, yellowish brown (10YR 5/4) moist; massive; very hard, friable; few fine grass roots; few nests of worm casts and granules; thin lenses of lighter colored coarse loamy sand make up 25 percent of horizon; common soft masses of calcium carbonate 5 to 15 millimeters in diameter; violently effervescent; moderately alkaline; gradual, wavy boundary.
+
+C2—41 to 51 inches, pale-brown (10YR 6/3) silt loam, yellowish brown (10YR 5/4) moist; massive; hard, friable; few fine roots; strata of gravelly loamy sand make up about 40 percent of horizon; sand particles and pebbles mostly chalk; violently effervescent; moderately alkaline; clear, wavy boundary.
+
+TIC3—51 to 60 inches, bed of fine and medium gravel; 30 percent of interstices filled with loam; most pebbles are chalk,
+
+mildly alkaline; gradual,
+
+The solum ranges from 20 to 40 inches in thickness. The profile is calcareous throughout in most places, but in a few piace it is nonealcareous to a depth of 7 inches. The Al
+
+orizon ranges from 7 to 20 inches in thickness and is loam, silt loam, or silty clay loam. It ranges from brown to very dark grayish brown in color, The B horizon ranges from 10 to 20 inches in thickness and from loam to light clay loam in texture. It ranges from very pale brown to grayish brown in color, The C horizon is silt loam to light clay loam irregularly stratified with layers of coarse loamy sand and gravelly loamy sand. The sand and gravel is mostly chalk fragments, which make up 15 to 40 percent of the material below the B2 horizon.
+
+Armo loam, 3 to 7 percent slopes, eroded, has an A horizon that is less than 7 inches thick, but the soil is included in the Armo series.
+
+Armo soils are near Eltree, Bogue, Wakeen, Heizer, Nibson, Harney, and Crete soils. They have a thinner A horizon, are less silty, and contain more chalky sand and gravel below the B horizon than Eltree soils. They are less clayey and are deeper to bedrock than Bogue soils and are deeper to bedded chalk and limestone than Wakeen, Nibson, and Heizer soils. They lack the clayey B2t horizon of Harney and Crete soils and have a higher concentration of carbonate in the A and B horizons.
+
+Armo loam, 1 to 3 percent slopes (Am).—This soil is on erosional uplands on tablelands, on side slopes, and in scattered areas near the middle and lower parts of broad ridges. Slopes are plane to convex. This soil has a profile similar to the one described as representative for the series, but the surface layer is neutral and is about 17 inches thick, and the surface layer and subsoil contain less chalky sand and gravel.
+
+Included with this soil in mapping were small areas of Eltree, Penden, Carlson, and Harney soils. Also included were small eroded areas, which are shown on the soil map by a symbol.
+
+Runoff is medium. Water erosion is the main hazard, but soil blowing also is a hazard if the soil is left bare. Iron chlorosis is a management concern if sorghum is planted on these soils, because of the high lime content.
+
+About 90 percent of the acreage of this soil is cultivated. Wheat and sorghum are the main crops, but a small amount of alfalfa is also grown. About 10 percent of this soil is in native grass and is used for range. A small acreage is irrigated. Terracing and contour farming help to control water erosion, Good
+
+14 SOIL SURVEY
+
+management of crop residue through stubble mulching helps to reduce soil blowing, increase the intake of water, and maintain good tilth. Capability unit Ile—4; Limy Upland range site; windbreak suitability group 3.
+
+Armo loam, 3 to 7 percent slopes (An).—This soil is on erosional uplands, on ridges, on side slopes, and along drainageways of the uplands. Slopes are plane to convex. This soil has the profile described as representative for the series.
+
+Included with this soil in mapping were small areas of Eltree, Penden, Harney, Wakeen, Bogue, and Brownell soils. Also included were small eroded areas, rock outcrops, and sandy spots, which are shown on the soil map by a symbol.
+
+Runoff is medium to rapid. Water erosion is the main hazard, but soil blowing also is a hazard if the soil is left bare for any extended period, such as for summer fallow or between crops. Iron chlorosis affects production of sorghum, because of the high content of lime in the soil.
+
+About 60 percent of this soil is cultivated. Wheat and sorghum are the main crops, but some alfalfa is also grown. About 40 percent of this soil is in native grass and is used for range. Terracing, contour farming, and stubble mulching help to control water erosion. Good management of crop residue, by keeping it on the surface, helps to reduce soil blowing, increase the intake of water, and maintain organic-matter content and good tilth. Capability unit IIe-6; Limy Upland range site; windbreak suitability group 3.
+
+Armo loam, 3 to 7 percent slopes, eroded (Ac).—This soil is on knolls and along drainageways. It has a profile similar to the one described as representative for the series, but the surface layer is about 5 inches thick. In many places the surface layer is a mixture of the original surface layer and the subsoil. In some places the soil lacks gravel and sand in the underlying material.
+
+Included in mapping were some small areas of Eltree, Penden, Bogue, Brownell, Corinth, and Wakeen soils and of Hilly land.
+
+Runoff is rapid. Water erosion is the main management concern, but soil blowing also is a hazard if the soil is left bare. Iron chlorosis may affect sorghum planted on this soil, because of the high lime content.
+
+About 75 percent of this soil is cultivated, and wheat and sorghum are the main crops. Most of the rest formerly was cultivated but has been reseeded to grass. The soil is better suited to tame or native grasses than to most other crops because of the eroded condition and the hazard of further erosion. Terracing, contour farming, and stubble mulching or good residue management help to reduce erosion, increase the intake of water, and improve tilth. Seeding to tame or native grasses or grass-legume mixtures helps to control erosion. Capability unit IVe-4; Limy Upland range site; windbreak suitability group 3.
+
+Armo loam, 7 to 15 percent slopes (Ar).—This soil is on sides of small valleys, on knolls, and on narrow ridgetops. It has a profile similar to the one described as representative for the series, but the surface layer
+
+is about 10 inches thick and the subsoil is about 10 inches thick.
+
+Included in mapping were some smal] areas of Penden, Eltree, Bogue, Brownell, Campus, Corinth, Heizer, New Cambria, and Wakeen soils; Hilly land; Roxbury silt loam, frequently flooded; and Armo loam, 3 to 7 percent slopes, eroded. Also included were small eroded spots and rock outcrops, which are shown on the soil map by a symbol.
+
+Runoff is rapid, and water erosion is a hazard. Continued overgrazing can result in severe water erosion.
+
+Most of this soil is in native grass and is used for range. The soil is well suited to native grasses but must be managed to prevent continued overgrazing and to maintain the desirable species. Management practices must include proper rate of stocking, deferred grazing, and rotation grazing. Suitable sites for stock-water impoundments are generally available. Capability unit VIe-1; Limy Upland range site; windbreak suitability group 3.
+
+Boel Series
+
+The Boel series consists of deep, somewhat poorly drained soils that formed in coarse-textured alluvium. These soils are on flood plains along permanent streams. They are nearly level to gently undulating.
+
+In a representative profile the surface layer is dark grayish-brown fine sandy loam about 10 inches thick. The next layer is grayish-brown,, very friable loamy sand about 7 inches thick that has a few faint mottles in the lower part. The upper 26 inches of the underlying material is light-gray loamy sand mottled with strong brown and reddish brown. This material is underlain, at a depth of 43 inches, by light-gray silt loam that contains thin strata of fine sandy loam and loamy fine sand and is saturated with water most of the time. _
+
+Permeability is moderately rapid above the water table, which fluctuates between depths of 2 and 6 feet during most growing seasons. Available water capacity is low. Most areas of these soils are in native range or hay meadow and are well suited to these uses.
+
+Representative profile of Boel fine sandy loam, in native grass, 3,080 feet south and 2,380 feet east of the northwest corner of sec. 10, T. 11 8., R. 20 W.:
+
+A1—0 to 10 inches, dark grayish-brown (10YR 4/2) fine sandy loam, very dark brown (10YR 2/2) moist; weak, medium, granular structure; soft, very friable; many fine to coarse roots; strongly effervescent; mildly alkaline; gradual, smooth boundary.
+
+AC—10 to 17 inches, grayish-brown (10YR 5/2) loamy sand, very dark grayish brown (10YR 3/2) moist; few, faint, brown mottles in lower half of horizon; single grained; loose, very friable; many fine and medium roots; strongly effervescent; mildly alkaline; gradual, smooth boundary.
+
+C1—17 to 43 inches, light-gray (10YR 7/2) light loamy sand, pale brown (10YR 6/3) moist; common, distinct, medium, strong-brown (7.5YR 5/6) and reddish-brown (5YR 6/4) mottles; single grained; loose when dry and moist; few fine roots; strongly effervescent; mildly alkaline; gradual, smooth
+
+boundary,
+
+TIC2—43 to 60 inches, light-gray (10YR 6/1) silt loam, gray (10YR 5/1) moist; massive; few thin strata that are more clayey or more coarse; saturated with
+
+ELLIS COUNTY, KANSAS 15
+
+water most of the time; few, small, soft carbonate OneeUONe: violently effervescent; moderately alkaine.
+
+The Al horizon ranges from very dark gray to grayish brown in color. It is dominantly fine sandy loam, but it is silt loam, loam, or sand in some places. Reaction ranges from neutral to moderately alkaline. The AC horizon has a color that is between those of the A and C horizons, and it ranges from light sandy loam to loamy. sand in texture. Distinct mottling occurs at a depth of less than 40 inches. The C horizon ranges from loamy sand to coarse sand. The IIC2 horizon is absent in some places.
+
+Boel soils are near Munjor and Wann soils. They are coarser textured in the A and C horizons and are not so well drained as Munjor soils. They have a coarser texture than Wann soils, especially below the A horizon,
+
+Boel fine sandy loam (0 to 2 percent slopes) (Bf).— This soil is nearly level to gently undulating and is on flood plains adjacent to permanent streams. The water table generally fluctuates between depths of 2 and 6 feet, but it is at a depth of 1 to 2 feet during cool, excessively wet periods.
+
+Included with this soil in mapping were small areas of Wann, Munjor, Inavale, and McCook soils.
+
+Wetness caused by the high water table and flooding is a limitation to the use of this soil.
+
+Most areas of this soil are in native grass and are used for range or hay meadow. This soil is among the soils best suited to range. Proper rate of stocking, deferred grazing, and rotation grazing help to maintain good range condition. Fencing of areas for separate management is desirable. Capability unit IIIw-2; Subirrigated range site; windbreak suitability group 1.
+
+Bogue Series
+
+The Bogue series consists of moderately deep, modertely well drained soils that formed in material weathered from clay shale. These soils are sloping to moderately steep and are on uplands.
+
+In a representative profile the surface layer is gray clay about 6 inches thick. The subsoil is gray, extremely firm clay about 11 inches thick. The underlying material is about 15 inches thick. The upper 6 inches is gray clay, and the lower 9 inches is dark-gray weathered clay shale that is underlain by clay shale at a depth of 32 inches (fig. 10).
+
+Permeability is very slow, and available water capacity is low. Most areas of these soils are in native grass and are used for range.
+
+Representative profile of Bogue clay, 3 to 8 percent slopes, in native grass, 1,550 feet east and 450 feet on of the northwest corner of sec. 17, T. 12 S., R. 16
+
+A1—0 to 6 inches, gray (5Y 5/1) clay, dark gray (5Y 4/1) moist; weak, very thick, platy structure parting to weak, medium, subangular blocky; very hard, very firm; many fine grass roots; few fragments of calcite; moderately alkaline; gradual, smooth boundary.
+
+B1—6 to 10 inches, gray (5Y 5/1) clay, dark gray (5Y 4/1) moist; few, fine, distinct, very dark (5Y 8/1) moist mottles on vertical ped faces; weak, coarse, blocky structure; extremely hard, extremely firm; common fine grass roots; few fine fragments of calcite or chalk; mildly alkaline; gradual, wavy boundary.
+
+B2-—10 to 17 inches, gray (5Y 5/1) clay, dark gray (5Y 4/1) moist and very dark gray (2.5Y 3/1) moist in equal
+
+Figure 10.—Profile of Bogue clay.
+
+parts in fine indefinite pattern; few, fine, distinct, dark yellowish-brown (10YR 4/4, moist) mottles; weak, coarse, blocky structure; extremely hard, extremely firm; common fine grass roots; few slickenside faces intersect and are inclined 20 to 30 degrees from horizontal; moderately alkaline; gradual, wavy boundary.
+
+C1—17 to 23 inches, gray (5Y 5/1) clay, dark gray (5Y 4/1) and black (5Y 2/1) moist in equal parts in medium indefinite pattern; moderate, thin, platy structure; extremely hard, extremely firm; few fine roots; common small shale fragments of yellowish brown (10YR 5/6) moist and few horizontal and oblique strata 5 to 10 millimeters thick of yellowish brown (10YR 5/4) moist; very strongly acid; gradual, smooth boundary.
+
+C2—23 to 32 inches, dark gray (5Y 4/1) weathered clay shale, common horizontal strata 1 to 2 centimeters thick of yellowish brown (10YR 5/7) and black (5Y 2/1) moist; moderate, medium, platy struc-
+
+16 SOIL SURVEY
+
+ture; extremely hard, extremely firm; very few roots; very strongly acid; gradual, smooth boundary.
+
+R-—32 to 57 inches, clay shale that has the same colors as in the C2 horizon; no roots observed; few oblique fractures or joints; very strongly acid.
+
+The solum is typically 15 to 17 inches in thickness but ranges from 12 to 23 inches. Depth to shale is typically 28 to 33 inches but ranges from 20 to 40 inches. The solum ranges from neutral to moderately alkaline, and the C and R horizons range from medium acid to very strongly acid.
+
+Bogue soils are near Armo, Corinth, Heizer, and New Cambria soils and Alluvial land, clayey. They contain more clay and are shallower to clay shale bedrock than Armo and New Cambria soils and Alluvial land, clayey. They are about the same depth to bedrock as Corinth soils but contain more clay throughout and contain less carbonates. Bogue soils are deeper and contain more clay throughout the profile than Heizer soils.
+
+Bogue clay, 3 to 8 percent slopes (Bg).—This soil is on erosional uplands. It has the profile described as representative for the series.
+
+Included with this soil in mapping were small areas of New Cambria, Bogue, Armo, and Corinth soils; Alluvial Jand, clayey; and areas of soils similar to Bogue soils but less than 20 inches deep over unweathered clay shale.
+
+Runoff is rapid. Water erosion is the main hazard, but soil blowing also is a hazard if range is overgrazed for extensive periods.
+
+Most areas of this soil are in native grass and are used as range. The soil is difficult to revegetate in eroded areas. Proper rate of stocking, deferred grazing, and rotation grazing are effective in producing adequate forage for livestock and in controlling erosion. Fencing for better use of range is desirable. Suitable sites for water impoundment are available. Capability unit VIe-2; Blue Shale range site; windbreak suitability group 4.
+
+Bogue-Armo complex (5 to 25 percent slopes) (Bo).— This complex is in gently rolling to hilly areas on uplands that are dissected by drainageways. About 40 percent of this complex is Bogue clay, and 30 percent is Armo loam. The rest is Corinth soils; Alluvial land, clayey; and soils similar to Bogue clay but less than 20 inches deep over clay shale.
+
+Runoff is rapid. Water erosion is the main hazard, but soil blowing also is a hazard where the range has been overgrazed for several years.
+
+This complex is mostly in native grass and is used for range. Stocking at a proper rate and fencing for better use of range through rotation or deferred grazing are effective in controlling erosion and producing adequate forage for livestock. Suitable sites are available for the impoundment of water. Both soils in capability unit VIIs-1; Bogue soils in Blue Shale range site and windbreak suitability group 4; Armo soils in Limy Upland range site and windbreak suitability group 8.
+
+Brownell Series
+
+The Brownell series consists of moderately deep, welldrained soils that formed in gravelly and channery local outwash derived from chalky limestones. These soils are on. knolls, ridges, and side slopes on uplands (fig.
+
+Figure 11.—Profile of Brownell gravelly loam.
+
+In a representative profile the surface layer is very dark gray gravelly loam about 7 inches thick. The subsoil is dark-gray, friable very gravelly loam about 8 inches thick. It is porous and contains common chalky limestone fragments 14 inch to 2 inches in diameter. The underlying material is very pale brown channery loam 15 inches thick. It has many coarse fragments of soft chalky limestone 8 to 6 inches in diameter. Loamy material fills the interstices. Chalky limestone is at a depth of about 30 inches.
+
+Permeability is moderate, and available water ca-
+
+ELLIS COUNTY, KANSAS 17
+
+pacity is low. Most areas of these soils are in native grass and are used for range.
+
+Representative profile of Brownell gravelly loam, 2 to 10 percent slopes, in native grass, 600 feet east and 180 feet north of the southwest corner of sec. 32, T. 11 S., R. 17 W.:
+
+Al—0 to 7 inches, very dark gray (10YR 3/1) gravelly loam, very dark brown (10YR 2/2) moist; strong, fine and medium, granular structure; slightly hard, friable; many fine and medium roots; porous; common worm casts; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+B2—7 to 15 inches, dark-gray (10YR 4/1) very gravelly loam, very dark grayish brown (10YR 3/2) moist; moderate, fine, granular structure; slightly hard, friable; many fine and medium roots; porous; common worm casts; common chalky limestone fragments % inch to 2 inches in diameter; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+C1—15 to 30 inches, very pale brown (10YR 8/4) channery loam, very pale brown (10YR 8/3) moist; weak, coarse, subangular blocky structure; slightly hard, friable; few fine roots; porous; few worm casts; many coarse fragments of soft chalky limestone 3 to 6 inches in diameter, loamy material fills interstices between fragments; violently effervescent; moderately alkaline; abrupt boundary.
+
+R—30 to 60 inches, very pale brown (LOYR 8/8) chalky limestone.
+
+The solum is typically 12 to 18 inches in thickness but ranges from 10 to 20 inches. The A horizon ranges from 4 to 10 inches in thickness and from loam to gravelly loam in texture. The A horizon ranges from very dark gray to grayish brown in color. The B horizon ranges from gravelly loam to channery loam. The content of gravel and channery fragments ranges from 50 to 65 percent, and the fragments range from % inch to 4 inches in diameter. The C horizon ranges from very gravelly loam to channery loam and is 50 to 80 percent gravelly and channery fragments 1 inch to 6 inches in diameter. Depth to chalky limestone ranges from 20 to 40 inches.
+
+Brownell soils are near Heizer, Wakeen, and Mento soils. They are deeper to chalky limestone than Heizer soils. They contain more gravel and channery fragments than Wakeen soils. They are shallower over chalky limestone than Mento soils and lack the B2t horizon of those soils,
+
+Brownell gravelly loam, 2 to 10 percent slopes (Br).— This soil is on erosional uplands, knolls, ridgetops, and side slopes.
+
+Included with this soil in mapping were small areas of Wakeen, Heizer, Mento, and Armo soils. Also included were small areas of soils that are similar to Brownell soils but that have a surface layer of light brownish gray and rock outcrops, which are shown on the soil map by a symbol.
+
+Runoff is rapid. Water erosion and soil blowing are hazards if the range is overgrazed for long periods.
+
+Most areas of this soil are in native grass. The soil is better suited to native grass and grazing than to most other uses. Proper rate of stocking, deferred grazing, rotation grazing, and proper placement of salt and water help to maintain and improve native range. Suitable sites for water impoundment are available. Capability unit Vle-8; Limy Upland range site; windbreak suitability group 3.
+
+Campus Series
+
+The Campus series consists of moderately deep, calcareous, well-drained soils that formed in caliche and
+
+unconsolidated outwash. These soils are sloping to strongly sloping and are on ridgetops and side slopes and along drainageways on uplands.
+
+In a representative profile the surface layer is dark grayish-brown loam about 9 inches thick. It contains many fragments of caliche 14 to 1 inch in diameter. The next layer is light-gray, friable light clay loam about 10 inches thick and has many caliche fragments Y, to 1 inch in diameter. The underlying material is white loam about 14 inches thick and has many caliche fragments 14 to 1 inch in diameter and common masses of segregated lime. About 25 to 50 percent, by volume, of this layer is lime. White caliche and unconsolidated outwash is at a depth of about 33 inches. This material is hard when dry.
+
+Permeability is moderate, and available water capacity is low. Most of the strongly sloping areas and 40 percent of the sloping areas are in native grass. The other 60 percent of the sloping areas are cultivated.
+
+Representative profile of Campus loam in an area of Campus-Carlson complex, 3 to 7 percent slopes, in a cultivated field 2,590 feet east and 100 feet north of the southwest corner of sec. 7, T. 12 S., R. 20 W.:
+
+A1l—0 to 9 inches, dark grayish-brown (10YR 4/2) loam, very dark grayish brown (10YR 3/2) moist; moderate, fine, granular structure; slightly hard, friable; few fine roots; many open pores; common worm casts; many caliche fragments %4 to 1 inch in diameter; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+AC—9 to 19 inches, light-gray (10YR 7/2) light clay loam, grayish brown (10YR 5/2) moist; moderate, fine, granular structure; slightly hard, friable; few fine roots; common open pores, few worm casts; many caliche fragments 44 to 1 inch in diameter; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+Cca—19 to 33 inches, white (10YR 8/2) loam, light gray (10YR 7/2) moist; massive; hard, friable; many open pores; many caliche fragments %4 to 1 inch in diameter and common masses of segregated lime; violently effervescent; moderately alkaline; diffuse, wavy boundary.
+
+R—33 to 60 inches, white (10YR 8/2), partially consolidated caliche; loam in fractures and between pebbles and fragments of caliche; hard.
+
+The Al horizon ranges from sandy loam to silty clay loam in texture and from dark gray to brown in color. The Al horizon generally is calcareous throughout, but it is noncaleareous to a depth of 7 inches in a few places. The depth to caliche ranges from 20 to 40 inches..
+
+Campus soils are near Canlon, Penden, and Carlson soils. They are deeper to caliche than Canlon soils. They are Jess clayey and shallower to caliche than Penden soils. They are less clayey than Carlson soils and lack the B2t horizon of those soils.
+
+Campus-Carlson complex, 3 to 7 percent slopes (Cc).— This complex is on erosional uplands. About 55 percent is Campus soils, 26 percent is Carlson soils, and 19 percent is included soils. The Campus soils oceur on knolls and ridgetops and the Carlson soils occur on ridgetops and along shallow drainageways. A Campus soil in this complex has the profile described as representative for the Campus series.
+
+Included with these soils in mapping were small areas of Canlon soils and areas of soils that are similar to Campus soils except for having a lighter colored surface layer. Also included were small areas of soils similar to Carlson soils, except that the material below
+
+18 SOIL SURVEY
+
+the subsoil is less than 20 percent lime, by volume, and small eroded spots and rock outcrops, which are shown on the soil map by a symbol.
+
+Runoff is rapid. Water erosion is the main hazard, but soil blowing also is a hazard if the soil is left bare.
+
+About 80 percent of this complex is in wheat and sorghums, and the other 20 percent is in native grass and is used for range. Use of contour farming, terraces, and waterways helps to control water erosion (fig. 12). Stubble mulching helps to reduce water erosion and soil blowing, increases the intake of water, and helps to maintain good tilth. Iron chlorosis is a management concern if sorghum is planted on Campus soils, because of the high lime content in the soil. Both soils in capability unit IVe-2; Campus soils in Limy Upland range site and windbreak suitability group 3; Carlson soils in Loamy Upland range site and windbreak suitability group 2.
+
+Campus-Penden complex, 5 to 15 percent slopes (Cd).— This complex is on erosional uplands. It is on sides of small valleys and in drainageways. In most places Campus soils occur above the Penden soils on the side slopes. About 44 percent of this complex is Campus soils, 835 percent is Penden soils, and 21 percent is included soils.
+
+Included with these soils in mapping were small areas of Harney and Canlon soils and Roxbury silt loam, frequently flooded. Also included were small areas of rock outcrops, which are shown on the soil map by a symbol.
+
+Runoff is rapid. Water erosion and soil blowing are hazards in overgrazed areas.
+
+All of this complex is in native grass and is used for range. A few areas that were formerly cultivated have been reseeded to native grasses. Proper rate of stocking, deferred grazing, and rotation grazing help to maintain or improve range. Fencing and proper placement of salt and water for more uniform grazing is
+
+desirable. Suitable sites for water impoundments are available in most areas. Capability unit VIle-1; Limy Upland range site; windbreak suitability group 3.
+
+Canlon Series
+
+The Canlon series consists of shallow, well-drained soils that formed in residuum derived from caliche. These soils are sloping to moderately steep and are on narrow ridgetops and sides of ridges above or below ledges of outcropping caliche.
+
+In a representative profile the surface layer is grayish-brown loam about 4 inches thick. It is calcareous and contains a few scattered fragments of caliche. The next layer is light-gray, friable loam about 4 inches thick. It is caleareous and contains many fragments of caliche 14, inch to 114 inches in diameter. The underlying material is white loam about 5 inches thick. It is calcareous and contains many small to large fragments of caliche. Below is white caliche.
+
+Permeability is moderate, and available water capacity is very low. All of the acreage of these soils is in native grass and is used for range.
+
+A representative profile of Canlon loam, in native grass, in an area of Canlon complex, 100 feet north and 2,700 feet east of the southwest corner of sec. 4, T. 128., R. 20 W.:
+
+A1—0 to 4 inches, grayish-brown (10YR 5/2) loam, very dark grayish brown (10YR 8/2) moist; moderate, fine, granular structure; slightly hard, friable; many fine and medium roots; few nests of worm casts; a few scattered fragments of caliche; calcareous, violently effervescent: moderately alkaline; clear, smooth boundary.
+
+AC—4 to 8 inches, light-gray (10YR 6/1) loam, gray (10YR 5/1) moist; weak, fine and medium, granular structure; slightly hard, friable; common fine and medium roots; few worm casts; many fragments of ealiche % inch to 114 inches in diameter; calcareous, violently effervescent; moderately alkaline; clear, smooth boundary.
+
+Figure 12.—Grassed waterway in drainageway on Campus-Carlson complex, 3 to 7 percent slopes.
+
+ELLIS COUNTY, KANSAS 19
+
+C—8 to 13 inches, white (10YR 8/2) loam, light gray (10YR 7/2) moist; massive; hard, friable; few fine roots; many small to large fragments of caliche; most of the fine material is lime; calcareous, violently effervescent; moderately alkaline; abrupt boundary.
+
+R—13 to 60 inches, white (10YR 8/2) caliche.
+
+The Al horizon ranges from dark grayish brown to very pale brown in color and from 3 to 6 inches in thickness, It ranges from fine sandy loam to silt loam in texture. In most places the soil is calcareous throughout, but the Al horizon is noncaleareous in a few places. Reaction is mildly alkaline or moderately alkaline. The AC horizon is intermediate in color and texture between those of the A and C horizons. The C horizon ranges from light brownish gray to very pale brown in color and from fine sandy loam to silt loam in texture.
+
+Canlon soils are near Campus, Penden, and Carlson soils. They are shallower to caliche than Campus, Penden, and Carlson soils. They are less clayey than Penden and Carlson soils. They lack the B2t horizon of Carlson soils.
+
+Canlon complex (5 to 25 percent slopes) (Ce).—This complex is on a narrow rim of a bluff of outcropping caliche. About 42 percent is Canlon loam, 20 percent is Campus loam, and 88 percent is included soils.
+
+Included with these soils in mapping were small areas of Penden soils; outcrops of caliche; Alluvial land, wet; and loamy alluvial soils in small drainageways. Also included are soils similar to Canlon soils except that the surface layer is 7 inches or more in thickness and dark grayish brown or darker in color. There is also a small acreage of soils that have caliche at a depth of less than 10 inches.
+
+Runoff is rapid. Water erosion and soil blowing are hazards if the range is overgrazed.
+
+All of the complex is in native grass and is used for range. A few small areas formerly cultivated have been reseeded to native grass. Proper rate of stocking, deferred grazing, and rotation grazing help to maintain and improve range. Suitable sites for water impoundment are available in most places. Both soils in capability unit VIIs-2; Canlon soils in Shallow Limy range site and windbreak suitability group 4; Campus soils in Limy Upland range site and windbreak suitability group 3.
+
+Carlson Series
+
+The Carlson series consists of deep, well-drained soils that formed in thin deposits of moderately fine textured loess over highly calcareous loamy colluvium derived from chalky limestone and caleareous unconsolidated outwash. These soils are nearly level to sloping and are on broad tablelands, ridgetops, and side slopes on uplands.
+
+In a representative profile the surface layer is darkgray silt loam about 8 inches thick. The subsoil is about 15 inches thick. The upper 4 inches is dark grayish-brown, firm silty clay loam; the next 6 inches is brown, firm heavy silty clay loam; and the lower 5 inches is grayish-brown, firm, calcareous silty clay loam. The underlying material is very pale brown, calcareous clay loam.
+
+Permeability is moderately slow, and available water capacity is high. About 90 percent of the acreage of these soils is cultivated. The remaining 10 percent, most of which is sloping, is in native grass and is used for range.
+
+Representative profile of Carlson silt loam, in a cultivated field, in an area of Harney-Carlson silt loams, 1 to 3 percent slopes, 600 feet east and 2,040 es! north of the southwest corner of sec. 8, T. 12 S.,
+
+A1—0 to 8 inches, dark-gray (10YR 4/1) silt loam, very dark grayish brown (10YR 3/2) moist; moderate, medium, granular structure; hard, friable; few fine roots; few open pores; neutral; clear, smooth boundary.
+
+B1—8 to 12 inches, dark grayish-brown (10YR 4/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate, fine, subangular blocky structure; hard, firm; few fine roots; few nests of worm casts; few open pores; mildly alkaline; clear, smooth boundary.
+
+B2t—12 to 18 inches, brown (10YR 5/8) heavy silty clay loam, dark brown (10YR 4/3) moist; moderate, medium, subangular blocky structure; hard, firm; few fine roots; few open pores; moderately alkaline; clear, wavy boundary.
+
+B3ca—18 to 23 inches, grayish-brown (10YR 5/2) light silty clay loam, dark grayish brown (10YR 4/2) moist; weak, medium, subangular blocky structure; hard, firm; few fine roots; few open pores; common lime-
+
+Figure 13.—Harney-Carlson silt loams, 1 10 3 percent slopes, are on upper terraces. Campus loam is on terrace ridge in foreground.
+
+20 SOIL SURVEY
+
+Figure 14.—Profile of Corinth silty clay loam, 3 to 7 percent slopes.
+
+stone fragments minute to % inch in diameter; weakly effervescent; moderately alkaline; clear, smooth boundary.
+
+Cca—23 to 60 inches, very pale brown (10YR 8/3) clay loam, light yellowish brown (10YR 6/4) moist; weak, coarse, prismatic structure; hard, friable; common open pores; a few soft lime masses; violently effervescent; moderately alkaline.
+
+The solum ranges from 18 to 36 inches in thickness. Depth to free carbonates in the form of films, threads, or soft masses ranges from 17 to 24 inches. The A horizon ranges from loam to silty clay loam in texture and from dark gray to brown in color. The B2t horizon ranges from dark grayish brown to light yellowish brown in color and from clay loam to light silty clay in texture, The Cea horizon generally ranges from loam to silty clay loam, but in some places it is loamy sand or sandy loam. It ranges from light brownish gray to very pale brown in color.
+
+Carlson soils are near Canlon, Campus, Harney, and Armo soils. They are more clayey than Campus and Armo soils and contain a B2t horizon that those soils lack. They have a higher concentration of lime below the B2t horizon hen Harney soils. They are deeper than Canlon and Campus soils.
+
+In this county Carlson soils are mapped only in complexes with Campus and Harney soils (fig. 13).
+
+Corinth Series
+
+The Corinth series consists of moderately deep, well-drained soils that formed in material weathered from calcareous shale. These soils are gently sloping to strongly sloping and are on ridgetops and sides of ridges on uplands.
+
+In a representative profile the surface layer is grayish-brown silty clay loam about 9 inches thick. The subsoil is 18 inches thick. The upper 7 inches is light brownish-gray, firm heavy silty clay loam; and the lower 6 inches is light yellowish-brown, firm heavy silty clay loam. The underlying material is 8 inches of brownish-yellow heavy silty clay loam that is underlain by light yellowish-brown, platy, calcareous shale. The shale contains numerous seams of gypsum (fig. 14).
+
+Permeability is moderately slow, and available water capacity is moderate. Most areas of the gently sloping and sloping soils are cultivated. Most areas of the strongly sloping soils are in native grass and are used for range.
+
+Representative profile of Corinth silty clay loam, 3 to 7 percent slopes, in native grass, 1,640 feet west and 3,090 feet north of the southeast corner of sec. 10, T.128S, R. 16 W.:
+
+Al1—0 to 5 inches, grayish-brown (2.5Y 5/2) silty clay loam; dark grayish brown (10YR 4/2) moist; moderate, fine, granular structure; hard, firm; numerous roots; few worm casts; few flat pieces of calcite; strongly effervescent; mildly alkaline; clear, smooth boundary.
+
+A12—5 to 9 inches, grayish-brown (2.5Y 5/3) silty clay loam, dark grayish brown (2.5Y 4/3) moist; moderate, fine and very fine, subangular blocky structure; hard, firm; many roots; few worm casts; few flat pieces of calcite; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+B21—9 to 16 inches, light brownish-gray (2.5Y 6/3) heavy silty clay loam, dark grayish brown (2.5Y 4/3) moist; moderate, fine and very fine, subangular blocky structure; very hard, firm; many roots; few worm casts; few flat pieces of calcite; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+B22—16 to 22 inches, light yellowish-brown (2.5Y 6/3) heavy silty clay loam, olive brown (2.5Y 4/3) moist; moderate, fine, subangular blocky structure; very hard, firm; few roots, soft, platy fragments of calcareous shale; few flat pieces of calcite; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+ELLIS COUNTY, KANSAS 21
+
+C—22 to 30 inches, brownish-yellow (10YR 6/6) heavy silty clay loam, yellowish brown (10YR 5/6) moist; weak, fine, subangular blocky structure; very hard, firm; several, soft, platy fragments of calcareous shale; several flat pieces of calcite; few roots; violently effervescent; moderately alkaline; gradual, smooth boundary.
+
+R—30 to 47 inches, mixed light yellowish-brown (10YR 6/4) and brown (10YR 4/3), weathered, platy shale, yellowish brown (10YR 5/4) and brown (10YR 4/3) moist; few roots; numerous thin seams of lightgray (N 7/0) gypsum.
+
+The soil ranges from 15 to 30 inches in thickness. Depth to unweathered caleareous shale is typically 26 to 34 inches but ranges from 20 to 40 inches. The profile is calcareous throughout in most places but is nonealcareous to a depth of 6 inches in some places. The A horizon igs grayish brown to light brownish gray. It generally is silty clay loam, but in some places it is silt loam or clay loam. The B horizon ranges from brown to light yellowish brown in color. It is silty clay loam or silty clay that ranges from 35 to 45 percent in content of clay but typically has a clay content of 37 to 43 percent. The C horizon is brownish yellow or olive yellow in color and silty clay loam or silty clay in texture.
+
+Corinth soils are near Harney, Bogue, Nibson, and New Cambria soils and Roxbury soils. They are shallower and have a lighter colored surface layer than Harney, New Cambria, and Roxbury soils. They are deeper to shale and contain more clay than Nibson soils. They contain less clay and more free carbonates than Bogue soils.
+
+Corinth silty clay loam, 1 to 3 percent slopes (Cm).— This soil is on ridgetops and sides of ridges on uplands. It has a profile similar to the one described as representative for the series, but the surface layer is slightly thicker.
+
+Included with this soil in mapping were small areas of Harney soils. Also included were areas of soils similar to Corinth soils except that the surface layer and subsoil formed in loess and are noncalcareous.
+
+Runoff is medium, Water erosion is the main hazard, but soil blowing also is a hazard if the soil is left bare. Iron chlorosis is a concern if sorghum is planted, because of the high lime content in the soil.
+
+Most areas of this soil are cultivated. Wheat and sorghum are the main crops. Terraces, waterways, and contour farming help to control water erosion. Good management of crop residue through stubble mulching helps to reduce soil blowing, increase the intake of water, and maintain good tilth. A small acreage of thig soil is in native grass and is used for range. Capability unit IIIe-9; Limy Upland range site; windbreak suitability group 3.
+
+Corinth silty clay loam, 3 to 7 percent slopes (Cn).— This soil is on ridgetops and sides of small drainageways in the uplands. It has the profile described as representative for the series.
+
+Included with this soil in mapping were small areas of Harney, Nibson, and Bogue soils. Some of the Harney soils have a surface layer of silty clay loam and are eroded. Also included were areas of soils similar to Corinth soils, except that the surface layer is eroded and light brownish-gray heavy silty clay loam is exposed. These eroded areas are shown on the soil map by a special symbol.
+
+Runoff is medium to rapid. Water erosion is the main hazard, but soil blowing is a concern if the soil is left bare. Iron chlorosis is a concern if sorghum is planted, because of the high lime content in the soil.
+
+About half of the acreage of this soil is cultivated, and half is in native grass, to which it is well suited. Wheat and sorghum are the main crops. Terraces, waterways, and contour farming help to reduce water erosion, Good management of crop residue through stubble mulching helps to control soil blowing, increase water intake, and maintain the content of organic matter and good tilth. Good management practices on range include proper stocking, rotation grazing, deferred grazing, proper placement of salt and water, and cross fencing to attain more uniform grazing. Capability unit [Ve-3; Limy Upland range site; windbreak suitability group 3.
+
+Corinth silty clay loam, 7 to 15 percent slopes (Co).— This soil is on sides of drainageways. It has a profile similar to the one described as representative for the series, but the surface layer is 2 to 4 inches thinner.
+
+Included with this soil in mapping were small areas of Wakeen, Nibson, and Bogue soils; Roxbury silt loam, frequently flooded; and Alluvial land, clayey. Also included were areas of soils similar to Corinth soils except that the surface layer is light brownishgray heavy silty clay loam and is eroded. These eroded areas are shown on the soil map by a special symbol.
+
+Runoff is rapid. Water erosion is the main hazard, but soil blowing also is a hazard if range is overgrazed or if cultivated areas are left unprotected.
+
+Most areas of this soil are in native grass and are used for range. Small formerly cultivated areas have been reseeded to native grass. Good range management includes proper stocking, deferred grazing, rotation grazing, and cross fencing. Proper placement of salt and water helps to attain uniform grazing. Capability unit VIle-1; Limy Upland range site; windbreak suitability group 3.
+
+Crete Series
+
+The Crete series consists of deep, moderately well drained soils that formed in loess on uplands. These soils are nearly level or slightly depressional.
+
+In a representative profile the surface layer is very dark gray silty clay loam about 12 inches thick. The subsoil is about 29 inches thick. The upper 4 inches is dark-gray, firm silty clay loam. Then, in sequence, are 13 inches of dark grayish-brown, very firm silty clay; 5 inches of grayish-brown, very firm silty clay that contains some hard lime concretions that are minute to 14 inch in diameter; and 7 inches of grayish-brown, firm silty clay loam that contains many masses of lime 14 inch in diameter. The underlying material is pale-brown silty clay loam.
+
+Permeability is slow, and available water capacity is high. Most areas of these soils are in wheat and sorghum. A few small areas are in native grass.
+
+Representative profile of Crete silty clay loam, 0 to 1 percent slopes, in native grass, 1,815 feet east and 700 feet south of the northwest corner of sec. 34, T.138S., R. 16 W.:
+
+A1—0 to 12 inches, very dark gray (10YR 3/1) silty clay
+
+loam, black (10YR 2/1) moist; moderate, fine, granular structure; hard, friable; porous; many fine and
+
+22 SOIL SURVEY
+
+medium roots; few worm casts; slightly acid; clear, smooth boundary.
+
+B1—12 to 16 inches, dark-gray (10YR 4/1) silty clay loam, very dark brown (10YR 2/2) moist; moderate, fine and very fine, subangular blocky structure; hard, firm; common fine and medium roots; few worm casts; slightly acid; clear, smooth boundary.
+
