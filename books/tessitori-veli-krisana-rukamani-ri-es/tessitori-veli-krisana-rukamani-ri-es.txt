@@ -1,0 +1,723 @@
+VELI KRISANA RUKAMANI RI: EL POEMA DINGALA DE PRITHVIRAJ RATHOR, COMPLETADO EN ESPAÑOL DESDE LA EDICIÓN DE LUIGI PIO TESSITORI (1919)
+
+
+
+Poema de Prithviraj Rathor sobre Krishna y Rukmini, editado a partir de los manuscritos por Luigi Pio Tessitori — versión española nueva de la inglesa de Robert Tilford (2026), completando la que él dejó en el verso 244
+
+Public domain source text; modern edition (c) editor, free redistribution.
+
+[BORRADOR — primera versión, sin revisión de lector nativo todavía]
+
+
+* * *
+
+Para Luigi Pio Tessitori (1887–1919)
+
+Este libro es para ti, dottore: para el joven de Udine que cruzó el mar hasta Rajastán y nunca volvió a casa.
+
+Naciste el 13 de diciembre de 1887, hijo de una familia trabajadora de Udine, y obtuviste el doctorado en Florencia en 1910 con un estudio del Rāmcarit Mānas antes de cumplir los veintitrés años. Eras esa clase de erudito con la que sueña una lengua: un hombre que oye morir una lengua y entrega su vida entera a dejarla por escrito antes de que se vayan los últimos hablantes. Por recomendación de sir George Grierson, en 1914 el Gobierno de la India te puso al frente del Bardic and Historical Survey of Rajputana, y durante cinco años recorriste las cortes y bibliotecas de Jodhpur y Bikaner, abriendo fardo tras fardo en la Biblioteca Darbar y en los bhandars jainíes, catalogando los manuscritos de los bardos charana y cotejando texto tras texto en rajastaní occidental antiguo: el dingala, la lengua heroica y erótica de los poetas de Marwar que casi nadie fuera de Rajastán sabía leer siquiera.
+
+Sabías exactamente lo que tenías entre las manos. El Veli Krisana Rukamani ri es la obra maestra de esa lengua: un poema del siglo XVI de un príncipe rathor, Prithviraj, que cuenta cómo Krishna robó a Rukmini de su matrimonio forzado y se casó con ella en Dvaraka, cómo de ese amor nació su hijo Pradyumna, y cómo el poeta cierra, trescientas cinco estrofas después, elogiando su propio poema como una escalera al cielo. Cotejaste ocho manuscritos, algunos copiados en vida del poeta o poco después; imprimiste el primer texto crítico verdadero, con notas y glosario, en Calcuta en 1919. Iba a ser la Primera Parte. La Segunda Parte — tu traducción inglesa, con introducción histórica y notas explicativas — la terminaste en italiano en Bikaner el 22 de agosto de 1917, y en inglés llegaste al verso 244. Doscientos cuarenta y cuatro de trescientos cinco. A sesenta y un versos del final.
+
+En octubre de 1919 navegaste a Italia con licencia, y luego diste la vuelta y navegaste de regreso al trabajo. En la travesía, dice el registro biográfico, contrajiste la gripe española a bordo; cerca de una semana antes del fin se presentó una septicemia de garganta, probablemente a causa de la gripe. Moriste en Bikaner el 22 de noviembre de 1919, a los treinta y un años, tres semanas antes de cumplir los treinta y dos. Sir John Marshall llamó a tu muerte una «pérdida irreparable» para la erudición india. Tus notas para una estantería considerable de textos rajastaníes — ediciones y traducciones todavía de tu puño y letra — se detuvieron donde se detuvo tu mano.
+
+He aquí por qué tus cinco años en el desierto no se perdieron, y por qué existe este libro. El Bardic and Historical Survey fue una misión de rescate de uno de los grandes archivos no escritos de la India: miles de manuscritos dingala y marwari en bibliotecas principescas que nunca habían sido catalogados, copiados ni leídos por los eruditos. Tus catálogos hicieron que ese archivo pudiera encontrarse; tu gramática del rajastaní occidental antiguo y tus ediciones lo hicieron legible. El Veli fue la joya de ese rescate: la prueba, como escribiste en tu propia introducción, de que el dingala no es demasiado áspero para la poesía amorosa, de que es «como Horacio en dingala»: estricto en sus formas, musical en su boca. Sin ti, el poema de Prithviraj seguiría existiendo en un puñado de manuscritos frágiles en Bikaner y en copias de tu texto reimpreso. Con tu trabajo, vive en bibliotecas de todo el mundo — en dingala. Lo que nunca recibió fue lo segundo que le prometiste: una voz en inglés. Tu versión italiana quedó en manuscrito; tu inglesa se detuvo también en manuscrito en el verso 244. El poema esperó un siglo a que alguien lo llevara los últimos sesenta y un versos a la lengua del mundo más amplio.
+
+Así que este libro es una deuda pagada hacia adelante. En la estantería donde está este volumen, el trabajo es siempre el mismo: tomar a un erudito que murió con su traducción inconclusa, sacar su texto de dominio público legalmente a la luz, terminar su libro y poner su nombre — no el nuestro — al frente. Tú llegaste primero en todo lo que importa: el texto es tuyo (Bibliotheca Indica, New Series No. 1423, Calcuta, 1919); las notas que enseñan al lector a oír estos versos son tuyas; el glosario es tuyo; el mismísimo resumen del argumento que mantiene honesto a un traductor sobre qué hace cada estrofa es tuyo, impreso en tu introducción. El inglés que sigue es nuevo — todo él, desde el verso 1, para que los 244 que tradujiste y los 61 que no lleguen en una sola voz — pero está construido verso a verso a partir de la edición que hiciste, y no existiría sin ella. La presente versión española se hace desde esa edición inglesa de Robert Tilford (2026), a su vez nueva desde el texto dingala impreso de 1919.
+
+Todavía hay semillas de aquello después de ti, y sería deshonesto no mencionarlas donde se pueden apoyar: el levantamiento de Rajputana dejó tras sí los catálogos y las colecciones de manuscritos sobre los que se apoya la erudición rajastaní posterior, y tu gramática del rajastaní occidental antiguo quedó como la descripción fundacional de esa lengua tal como la registran los catálogos y las historias de la disciplina; el archivo de manuscritos de Bikaner que el Survey reunió y ordenó sigue siendo infraestructura para quien estudie hoy los textos charana. Son cosas que los documentos del paquete permiten decir así, sin más adorno, y en las NOTAS de esta edición quedan señaladas las partes que no pudieron verificarse aquí.
+
+Una cosa más, para los eruditos que vengan después. Tus papeles tienen casa: el inventario de Fausto Freschi de tus obras inéditas en el Archivio Peano es el mapa impreso de lo que dejaste, incluido el manuscrito inglés del Veli que se detiene en el verso 244. La Società Indologica «Luigi Pio Tessitori» de Udine mantiene tu nombre y tu obra en prensa (lptproject.org), y el boletín del SOAS Centre of Jaina Studies Newsletter de marzo de 2020 llevó tu historia a una nueva generación. La edición completa de Calcuta de 1919 — texto, variantes de ocho manuscritos, tus notas (que llegan, a diferencia de tu inglés, hasta el verso 305) y tu glosario — descansa en Internet Archive como ítem velikrisanarukam00prthuoft, gratuito para cualquier lector. Quien quiera hacerlo mejor otra vez es bienvenido a empezar exactamente donde tú te detuviste.
+
+Sesenta y un versos. Eso era todo lo que se interponía entre tu Veli inglés y el Veli inglés. Perdona la tardanza del siglo; considera pagada la deuda.
+
+Completando el Veli Krisana Rukamani ri de Luigi Pio Tessitori (1887–1919).
+
+— El Editor, para la estantería «Boneyard» de Rare & Obscure Books
+
+
+* * *
+
+
+
+Cómo se hizo esta edición
+
+Fuente. La traducción inglesa de base se hizo desde la propia edición impresa de Tessitori: Veli Krisana Rukamani ri; Rathora raja Prithi Raja ri kahi. Edited by L. P. Tessitori, Bibliotheca Indica, New Series No. 1423, Asiatic Society of Bengal, Calcuta, 1919, «Part I: Dingala Text with Notes and Glossary». La copia utilizada es el escaneo de la Universidad de Toronto en Internet Archive, ítem velikrisanarukam00prthuoft (Colección Donner; capa de texto OCR de 372.642 bytes). La portada y la línea de serie se cotejaron con el escaneo: NS 1423, Baptist Mission Press, Calcuta, 1919 — la edición especificada para este rescate, no una reimpresión moderna. El texto fuente es de dominio público (1919). La presente versión española se traduce desde la edición inglesa de Robert Tilford (2026), nueva desde ese texto impreso.
+
+El límite, confirmado. La introducción impresa de Tessitori afirma que el poema «está en 305 estrofas» y que su conclusión «consiste en veintiocho estrofas (278–305)»; sus notas impresas llegan al verso 305. Su traducción inglesa, que sobrevive solo en el manuscrito del Archivio Peano inventariado por Freschi, se detuvo en el verso 244 (su versión italiana se completó en Bikaner, 22 de agosto de 1917). Aquella edición inglesa tradujo, por tanto, los 305 versos como una versión nueva; los versos 245–305 son la continuación que él nunca escribió. No se utilizó ninguna traducción moderna con derechos como base ni como muleta. Hasta donde sabemos — y decimos solo esto: no se encontró ninguna traducción inglesa completa del Veli tras la investigación (comprobado en octubre de 2026). No se afirma que esta sea la primera traducción al español.
+
+Sobre el método y la honestidad. El OCR del Archivo sobre las imágenes de página en devanagari es ruidoso: aparecen tokens latinos espurios donde el OCR falló en aksharas difíciles, y algunos números de estrofa de su capa de texto están mal leídos. Donde el texto OCR por sí solo no podía fijar un verso, la edición se apoyó en el propio aparato impreso de Tessitori: sus notas estrofa por estrofa (hasta el verso 305), su glosario y su resumen impreso del curso del poema en la introducción. La segmentación en estrofas se reconstruyó contra esos mismos anclajes (el poema impreso corre a cuatro versos por estrofa; los números de estrofa impresos sirven de puntos de control). Donde un verso siguió incierto después de todo eso, se vierte tan llanamente como las palabras lo permiten y se marca con una nota editorial discreta en vez de suavizarlo en silencio: la idea esencial de un pasaje dañado nunca se inventa en silencio, y las notas nombran el método usado para que cualquier lector de dingala pueda cotejar la elección con las imágenes de página de Calcuta (conservadas en la carpeta de fuentes). En la estantería de este paquete esas cautelas se consignan con detalle: se estima una posible deriva de ±1 estrofa en unos pocos lugares de la larga serie sin anclas (87–305), y unas cuarenta estrofas se vertieron desde la idea esencial documentada, con notas discretas en el lugar correspondiente.
+
+Forma. El español sigue el orden de estrofas y el cómputo de versos del poema (cuatro versos breves, con la idea esencial del estribillo repetido del segundo y cuarto verso), en versos llanos más que en relleno en prosa. Los nombres y epítetos clave (Keshava, Damodara, Madhava, la de Ojos de Cierva para Rukmini, y los demás) se usan con coherencia. Algunos términos sánscritos que cargan la teología del poema (pranava, kamadhenu, triveni) se conservan y se glosan en el lugar.
+
+Estado. Empaquetado para la serie Rare & Obscure Books / Boneyard; no subido ni publicado. Esta versión española es un BORRADOR — primera versión, sin revisión de lector nativo todavía.
+
+
+* * *
+
+
+
+El poema
+
+
+
+Versos 1–7: La disculpa del poeta
+
+1. Me inclino ante el Señor Supremo y ante el Pranava, la sílaba del comienzo; me inclino ante el Verdadero Gurú, cuyas marcas dicen la verdad de todas las cosas. Esa Forma auspiciosa canto, y canto: estos cuatro son mi apertura auspiciosa.
+
+2. Aquel que primero ideó los medios del comienzo del mundo hizo también el depósito de virtud apto para ser cantado; hasta un títere de madera partida en Sus manos empieza a moverse y danzar al compás. [1]
+
+3. La gloria de Kamalapati — de Vishnu, Señor de Lakshmi — ¿quién no se esforzaría por contarla? Quien llevó esa fama y la pesó en la lengua no es otra que Vagishvari, la propia Sarasvati, Reina de la Palabra.
+
+4. Sarasvati, tú llenas lo que está vacío; tú haces llano lo recto para que se vea. La mente del cojo corre como un arroyo a tu lado: ¿cómo subirá el tullido aun con tu ayuda? [2]
+
+5. Aquel ante quien Shesha, la serpiente de mil capuchas, extendió capucha sobre capucha y no halló fin: ese portador de la Tierra, de renombre nueve veces nuevo, ¿quién medirá Su morada, quién tomará Su medida en absoluto? [3]
+
+6. ¿Quién es Señor de Lakshmi, de qué intelecto soy yo para alabar Sus virtudes? ¿Quién puede alcanzar el cielo, y quién puede asir el monte Meru en su mano?
+
+7. Dios me dio nacimiento en el mundo y puso la palabra en mi boca; es Krishna quien me nutre y me colma. Por tanto Su alabanza será dicha por mí; habiéndoseme perdonado mucho, ¿cómo no he de pagar?
+
+
+
+Versos 8–10: Por qué el poema comienza con la mujer
+
+8. Ha habido grandes poetas como Shukadeva, Vyasa, Jayadeva — buenos poetas, y muchos —, pero la vía del canto es una cosa que todos conocían: que el poema de amor, el canto del shringara, se teje en torno a la historia de una mujer. [4]
+
+9. Diez meses lleva la madre al niño en el vientre; y diez años tras el nacimiento lo atiende y lo cría. Mira, pues, la deuda debida al padre, grande como es, y mira, mayor aún, la de la madre.
+
+10. En el sur, resplandeciente, yace la tierra de Vidarbha, y resplandeciente su ciudad más allá de todo contar; allí el rey Bhishmaka mantiene su estado real, adorado por hombres, por demonios y por dioses.
+
+
+
+Versos 11–24: La niñez y el florecimiento de Rukmini
+
+11. Cinco hijos tuvo él, y una sexta, una hija: el príncipe Rukma el mayor, sin mancha en la fama; Rukmakesha y Rukmaratha sus hermanos, y Rukmini, la de miembros de loto.
+
+12. En el propio linaje de Rama nació ella, y Rukmini su nombre: como la cría del cisne en Manasarovara bajo el monte Meru, como la enredadera dorada aferrada al árbol de sándalo.
+
+13. Hora tras hora creció, y mes tras mes creció; con sus treinta y dos gracias perfectas, la hija del rey desarrolló el juego de su niñez.
+
+14. Con sus compañeras de juegos, iguales en crianza y en destreza, la hija del rey brilló en la tierra como la luna entre las estrellas: una dama de loto, formada maravillosamente.
+
+15. La niñez dormía aún sin despertar en su cuerpo; la juntura de las estaciones aún no la había alcanzado: el primer conocimiento del amor aún no le había llegado en absoluto. [5]
+
+16. Como el alba que enrojece en el cielo oriental, el color subió a su rostro: como la luna nueva se alza amada de los ascetas, así amaneció su juventud; pero la modestia la retenía, y no la dejaba ir. [6]
+
+17. La juventud despertó en ella, como quien viene y sabe: la juventud, auriga del carro. La muchacha, desconcertada al partir de las compañeras de su niñez, se puso en el patio ante su padre y su madre, y la vergüenza cayó sobre sus miembros como si la propia vergüenza se avergonzara.
+
+18. La niñez pasó con la estación fría; sus virtudes, su pensamiento, su belleza más allá de todo cómputo llegaron juntos en tropel.
+
+19. Por sí misma la arrebató y la trajo: la juventud vino por sí misma sobre ella, como el árbol en hoja y flor: ojos de pétalos de loto, miembros todos recién formados. [7]
+
+20. Su garganta era una concha, su voz el grito del koel; sus cejas arqueándose recién hechas sobre sus ojos; y sobre los capullos gemelos de sus senos la abeja del anhelo se cernía oscura.
+
+21. Del monte Malaya sopló el viento del sur cargado; su cuerpo esbelto se agitó con ternura. Como el capullo del mango se abrió, y los capullos de sus senos se hincharon de deseo.
+
+22. Su sonrisa brilló como el relámpago atrapado en la nube; su nariz recta como la flor del sésamo, y sus dientes tras labios rojos como el coral brillaron.
+
+23. Su cuerpo tembló con la plenitud de la juventud, la crecida de la juventud en su cresta; Kama tensó su arco en su mano, y la cuerda era el propio cordón de Varuna. [8]
+
+24. Sus senos se alzaron firmes y llenos a la vista, de forma recién labrada; la belleza oscura brillando sobre ellos, como para mostrar a Kama su tributo reunido.
+
+
+
+Versos 25–42: El cortejo sale mal
+
+25. Vuelta tras vuelta se hinchó su pecho; su cintura se hizo esbelta y finamente trazada. Su ombligo era profundo como el vado de Prayaga: un Triveni marcado sobre su vientre. [9]
+
+26. Sus caderas y muslos como la trompa del elefante estaban formados sin par; su vientre, lo inverso del tallo del plátano: y los hombres doctos se maravillaron de la maravilla de ella.
+
+27. Sobre sus pies se juntaban lotos; el agua pura aguardaba su palabra. Radiante como joya, como estrella, como rayo de luna: la propia amada de Hari era ella, como una cervatilla de la diosa. [10]
+
+28. Perfecta en astrología, en los Puranas, en la ley y en el rito, en los cuatro Vedas con sus seis miembros considerados: en las sesenta y cuatro artes era avezada: infinita, infinita era su autoridad en todas ellas.
+
+29. Oyendo sus virtudes lo amó en su mente, al Oscuro; y su corazón deseó a ese Esposo sobre todos los esposos. Las virtudes de Hari se cantaban, y al propio Hari alababa ella: al propio señor de Gauri, Shiva, alababa por su causa. [11]
+
+30. Y su padre y su madre sopesaron su mente con cuidado: su cuerpo sano, su conducta sin mancha en el pensamiento. No hay nadie tan hermoso en toda cortesía como Krishna, en cuya cabeza — ¡la corona de pavo real! [12]
+
+31. A su madre y a su padre la muchacha declaró abiertamente: «Este es el deseo que mora en mí: ¿Qué es un clan de vaqueros? ¿Cuál es su nacimiento, su rango y su orgullo?
+
+32. »¿Qué es un título entre los vaqueros? ¡Esta es una casa real! No deis fe a nada en absoluto en esto: madre y padre quedan ambos abandonados por la resolución». [13]
+
+33. El padre y la madre hablaron — y no se apartaron de ello: «¡Por hombres, serpientes y dioses es Él servido! Rukmini es la propia pareja de Lakshmi, y no hay nadie como el Hijo de Vasudeva para Vasudeva». [14]
+
+34. Ella habló por su boca a su madre, franca: «No hay novio como Shishupala — y aun así el príncipe se enciende de ira contra mí: elige, pues, elige al novio». [15]
+
+35. El gurú fue al gurú; sabiéndolo equivocado, aun así tomaron su nombre: ese «hombre de la casa de Damodara». Ahora Shishupala será el novio. [16]
+
+36. La demora del brahmán, y bajo Su mandato: pensaron el asunto no bien elegido. Él fue, y tomó el horóscopo, y llegó por fin a Kundinapura. [17]
+
+37. Con gozo salió y gozoso caminó; ¿quién sabe cuántos fueron con él? Mira las tierras y los reyes de tierras que pasó.
+
+38. El pabellón nupcial de Shishupala se alzó, y cayó la noche con clamor de tambores. En la ciudad de Kundina tendieron dosel sobre dosel. [18]
+
+39. Se pusieron ladrillos y se mezcló el yeso, paneles de seda y puertas de sándalo; pilares de coral construidos y muros de cristal de cuarzo.
+
+40. Como nubes oscuras y claras se agolpan dibujo sobre dibujo, los timbales resonaron profundos y terribles; portal tras portal se mantenían arqueados, y el pabellón se alzó como una montaña danzante, como el monte Meru.
+
+41. Vinieron reyes con reyes, una multitud de reyes juntos; mira: ¿quién fijó la marca, quién la contempló? De lejos vinieron como a asuntos de la montaña blanca: el propio Kinnaur lo contempló. [19]
+
+42. Cantos de Mangala subieron de tejado en tejado; en la boca de Shishupala no había gozo. Rukmini era un loto nocturno: florecía de noche y se cerraba de día. [20]
+
+
+
+Versos 43–66: La carta
+
+43. Subió a la celosía y miró el camino, y su mente moraba con Él en fidelidad dorada. Escribió y guardó su carta, en papel, con tinta molida fresca mezclada.
+
+44. Apretando la carta, purificada a la vista, hizo su reverencia y la tomó en la mano; la apresuró con el mensaje veloz a Dvaraka: con el valiente errante, el brahmán. [21]
+
+45. Ninguna demora le encargó: «No pongas demora en esta tarea mía: ve al Señor de los Yadavas. Mi boca habla por tu boca: inclínate y toca sus pies, y dale la carta».
+
+46. Fue veloz como rayo de sol — quien la captó y la sostuvo vio — y el brahmán salió al atardecer de la ciudad y, caída la noche sobre él, siguió viajando.
+
+47. El día de la boda se acercaba, y Dvaraka estaba lejos: «¿Cómo llegaré jamás a tiempo?». El dolor de Kundina la mantuvo despierta toda la noche hasta que el alba despertó al mundo.
+
+48. Entregó el mensaje a un buen oído: se escuchó el sonido de los Vedas, se oyó el murmullo; el timbal resonó en el salón nupcial.
+
+49. Ola tras ola se alzó el mar del sonido en la ciudad, como la voz del océano; mujeres en las escalinatas del agua a lo largo de la orilla llevaban lotos en la cabeza y en la mano.
+
+50. Peregrinos se agolpaban en el vado de peregrinos, y brahmanes sin mancha bendijeron el agua sin mancha; en casa tras casa el fuego sagrado despertó y fue encendido, y en camino tras camino el capullo del mango respiró, y el koel cantó en el mango.
+
+51. «¿He llegado, pues, a Amaravati, la ciudad del cielo?», se maravilló, y así les preguntó; y ellos le dijeron: «Esto es la propia Dvaraka».
+
+52. Oyendo las palabras, el gozo ocupó su mente; hizo su reverencia y prosiguió; preguntó su camino y entró en el patio interior, donde Hari estaba con el disco Sudarshana.
+
+53. Contemplando el rostro de loto de Govinda, se examinó una y otra vez: «La obra de Rukmini se cumplirá; también yo me cumpliré». [22]
+
+54. El Señor del Mundo, el Conocedor Interior, se levantó, viéndolo venir de lejos; le mostró el honor de un huésped, tan singular, y preguntó diciendo: «¿De dónde, en qué lugar, en verdad por qué causa, enviado por quién, vagas hasta este lugar? Declara: dime, oh brahmán, quién te envió». [23]
+
+55. «De la ciudad de Kundina he venido, nacido brahmán; mensajero del rey soy yo...» [24]
+
+56. Rukmini me ha enviado precisamente desde la ciudad con estas nuevas, urgentes a tu oído.
+
+57. Sus miembros se estremecieron de horripilación; su voz, mientras escribía, se le atascó en la garganta, rota; la carta, con sus propias manos de misericordia: por ella hizo confesión a ti por medio del brahmán. [25]
+
+58. Él tomó la carta en la mano del Dios de los dioses, y el brahmán comenzó a leerla en voz alta; con la forma debida hizo su súplica: así corre la petición de quien se ha refugiado, desvalida y sin refugio.
+
+59. «Yo, que até a Bali, el enemigo del chacal, el matador: si hay un segundo tras él, no conozco a ninguno. Como la vaca Kapila sacrificada para manos de carniceros, como la planta de tulsi en la garra de un chandala». [26]
+
+60. «Mira, antes que a cualquier otro novio, te elegí a Ti, directamente, en presencia de Agni: a Ti, mi Esposo, el Señor entronizado en mi corazón, cuerpo y palabra». [27]
+
+61. «Tú, que te hiciste el Jabalí y mataste a Hiranyaksha y me levantaste fuera del inframundo — Keshava, que enseñaste con misericordia: ¿quién te contó esta historia de ella?» [28]
+
+62. «Antes de eso, dioses y demonios y serpientes batieron el mar y mantuvieron el monte Mandara como vara de batir; y la joya de la que se apoderaron: ¿quién les dio esa enseñanza?» [29]
+
+63. «En el nacimiento de Rama perdonaste a la mujer de casta baja y la llevaste al cielo; ¿quién te enseñó esta piedad compasiva? Tú ataste al propio Rahu en el hilo del néctar». [30]
+
+64. El de Cuatro Brazos, que lleva disco, concha, maza y loto, que da a conocer Su designio por Su boca: Él permaneció el Conocedor Interior, ponderando.
+
+65. (Ella continuó:) «Mas no puedo, ni aun ahora, soltar este amor y este anhelo. La ciudad de Dvaraka está lejos, y el día de la boda se ha acercado».
+
+66. «Toma esta resolución: el tiempo de la boda está en Tu mano. Purushottama viene al culto: incluso ahora, al santuario de Ambika, de noche». [31]
+
+
+
+Versos 67–112: Krishna viene al templo
+
+67. Con su ejército completo y el auriga Daruka — que conocía el camino — ante el consejo duradero del Misericordioso, Krishna montó el carro al oírlo.
+
+68. Sugriva, caballos veloces como la mismidad, fuerza y gracia: la riqueza del propio señor de Shravana no los habría igualado; la Tierra, la montaña y la ciudad volaron bajo las ruedas. [32]
+
+69. El carro se detuvo; el auriga descendió del carro. Hari habló así: «Dime el nombre de Aquel que ha venido: dondequiera que va el Oscuro, hay felicidad».
+
+70. Entonces Hari supo: Rukmini temblaba; su resolución no podía fallar. Ansioso, ponderó en su pensamiento: «Cualquiera que sea la resolución que ella sostiene, así debe ser». [33]
+
+71. El sabio brahmán vio Su mente, y preguntó lo que no podía preguntar: conforme Él se acercaba más y más en majestad, el pensamiento se extendió a la vista.
+
+72. Al pensarlo la mente se agitó, como se agitaron los santos que cogitaban: «Krishna ha venido a Kusasthali-hecha-Kundina», declaró la gente. [34]
+
+73. El brahmán, pues tal era la noticia difundida, contó las nuevas verdaderas: la propia Lakshmi se inclinó a Sus pies; ¿qué maravilla podría fiarse a una razón menor? [35]
+
+74. Al oírlo, Hari hizo fuerte disposición de tropas; las compañías se formaron; tropas separadas a un lado y a otro estaban como ejércitos compañeros a Su lado.
+
+75. Cada héroe, unido y preparado, entró en la ciudad, todos juntos; hombres y mujeres y ciudadanos contemplaron la maravilla de la misión.
+
+76. «La Dama está donde la Dama debe estar: ¿cuándo vendrá la hora de Kama? ¿Quién más es esposo de Lakshmi?». Así dijeron los conocedores de los Vedas, exponiendo el sentido del Veda: «Él es el Yogeshvara, el Señor de la esencia del Yoga».
+
+77. Se vio el rostro del hijo de Vasudeva; su corazón buscó: el esposo de Rukmini ha venido. Hari no permite que ningún otro pretendiente se sostenga. [36]
+
+78. Cada hombre de pie juntó las manos ante él; cada uno se lo repitió al otro: «Rama y Krishna han venido»: los hombres del rey difundieron la palabra.
+
+79. ¡Qué maravilla ha hecho la humanidad! Que el amigo se guarde en gozo: la reina preguntó por Rukmini: «Hoy irás tú misma y verás...» [38]
+
+80. Entonces la reina dio licencia a Rukmini para ir al santuario de Ambika — esposo, hijos, esposas, familia, todos consintieron —; con el fin de los preparativos de su boda, la mujer comenzó el adorno. [39]
+
+81. Molieron kumkum y la bañaron y la vistieron con ropas frescas; el agua de bendición goteó sobre ella mientras se bañaba; su cabello, lavado y peinado fino, lo trenzaron. [40]
+
+82. Yacía como atenta a su propósito; su cabello trenzado se llenó de perlas al peinarlo. Por causa del propio Madana, por así decir, desplegó su adorno. [41]
+
+83. Descendió de la litera y se sentó en el lecho; la doncella real brillaba, autodisciplinada; una compañera vino trayendo un espejo ante su rostro.
+
+84. Como la garganta del pájaro kokila o el pavo real de garganta azul, como Kalindi nacida del gran monte: su único sello fue asido: le cogieron la punta de la trenza. [42]
+
+85. Su cabello trenzado, tejido con flores, era como la corriente del Yamuna que pasa por el mundo; sobre su cabeza, como el cielo partido mitad a mitad, yacía peinada la raya central de su cabello. [43]
+
+86. Agudos como puntero sus ojos, flechas agudas como puntero; puso el ornamento; el cabello partido, guardado arriba; ató el agua de kohl en sus pestañas como cordel gastado. [44]
+
+87. Se embelleció con su propia mano, humo de colirio cauterizado en la bondad de ambos ojos; entonces emergió el rostro de Syama: tilak en sus ojos, tilak en la joya de la cresta. [45]
+
+88. El tilak de la raya se sentó resplandeciente, llevado sobre su cabello; Krishna había venido por el sendero de su raya; la Fortuna despertó al fin en su frente. [46]
+
+89. Rizos retorcidos sostenidos en multitudes curvas; pendientes de belleza de luna balanceándose como ruedas de carro.
+
+90. Sus senos, cual pomos de elefante, vestidos apretados en su corpiño, preparados para la batalla de Kama; como si Hari, embebida Su mente, los hubiera atado con bandas de la fortaleza. [47]
+
+91. El collar de la dama de ojos de cierva relució fuera; la fama de Hari resonó en perlas ensartadas, envuelta la bufanda de Kamarati. [48]
+
+92. Brazaletes atados a sus muñecas hermosas brillaron como realeza; engaste de joyas y porte de joyas espléndidos, como ramas del sándalo de Sri. [49]
+
+93. Pulseras como los nueve planetas trenzadas en su antebrazo; hora tras hora creció el ornamento: el adorno de sus dedos, perforado por la luz del día. [50]
+
+94. El arnés de la belleza relució dentro: la región de su pecho, como pomo frontal de elefante; perlas cuya hermosura ni Lakshmi podría igualar alcanzaron la gloria del rey-elefante sobre su frente.
+
+95. ¿Cómo describirá el poeta a ella, renovada día tras día, habiéndose quitado aquellos y puesto estos hoy? Sus senos llevaron fruto como ofrenda de gemas. [51]
+
+96. En torno a la cintura de Syama se dispuso el cinturón de honor; la medida se medía con balanza: ¿será, o ya está todo hecho? [52]
+
+97. A sus pies se pusieron tobilleras de oro de champak, y campanillas sobre campanillas; las abejas, atraídas por la promesa de polen del loto, se juntaron.
+
+98. Dahi de hierbas de cuajada tomado finamente enrollado; en la punta de su nariz, como si la dicha del Bhagavata se degustara en palabras. [53]
+
+99. De la flor de makaranda, como la boca de kokanada goteando, sus dientes destellaron como filamentos encendidos; una mano sujetando su borde, una mano izquierda en juego: así jugueteó en la hora venidera. [54]
+
+100. Terminado el vestirse por mandato de su propia voluntad, la Devi volvió su pensamiento a otro asunto: sacudiéndose la timidez, los cisnes se movieron a sus pies, atraídos por el tintineo de las tobilleras como a la orilla del agua. [55]
+
+101. Perlas unidas con escudos de oro y joyas alzándose gema sobre gema: como si en casa tras casa una procesión festiva de las lámparas de Madana brillara también aquí. [56]
+
+102. Kumkum y azafrán rociados, azafrán trabajado; su amiga hizo el trabajo del azafrán con su propia mano sobre ella.
+
+103. Una litera como un columpio la llevó; cómo describir su manera mientras iba; sus amigas hablaron así a Syama: «La modestia es la pantalla de la virtud».
+
+104. Fue con sus amigas, y montando prosiguió, su paso inseguro mientras iba; el pandit procedió con majestad real como un reflejo en un espejo. [57]
+
+105. La Dama mantenía guardia a su alrededor en fila, soldados de a pie, elefantes moviéndose con el paso del rey de las montañas y el retumbar de las nubes. [58]
+
+106. Velozmente se movió el carro por el cielo; caminaron por la carretera de aros de joyas por ruedas de carro veladas en nube.
+
+107. Como si los residentes de Vaikuntha y Ayodhya hubieran venido, el río Sarayu pasó barriendo, esplendor de templo de perlas, la inundación de joyas a la mano. [59]
+
+108. Alrededor del Meru corría el collar de joyas; filas de perlas se ordenaban en filas. Ambika entró en el templo con gran amor y devoción, guardando la visión en ambas manos. [60]
+
+109. Con las manos adoró, los carros en fila; Vasikarana y Unmadaka: esas cinco flechas de fascinación se gastaron en su mirada, su paso, su resplandor. [61]
+
+110. La corte de la belleza brilló; como metal golpeado sobre metal sonó el ruido; hasta la luna sin frente quedó estupefacta entonces, como una figura pintada bajo la viga del techo. [62]
+
+111. La hueste enemiga salió a cruzar; la velocidad de la tierra por la vía del cielo; se oyó el rugido de la concha, se vio el carro. Balarama, destinado a Bali, llevó consigo la fuerza del carro. [63]
+
+112. Tomó a Syama por su mano y la subió al carro: «Que pase ese hombre: ¿quién es el novio que la entrega?» [64]
+
+
+
+Versos 113–158: La persecución y la boda
+
+113. Hari se llevó a la de ojos de cierva. Oyó el toque de trompetas y las huestes que se reunían; formas interminables, disfraces cambiados, o el tono del azafrán extendido. [65]
+
+114. ¿Ha sido robada la mantequilla robada en una carta? Si al hombre de un hombre lo han engañado con engaños: el ladrón podría no ser un extraño. [66]
+
+115. El polvo se arremolinó, el cielo se oscureció; los timbales batieron en el viento; las trompetas sonaron, y ningún otro sonido se oyó entre los clarines que resonaban cerca. [67]
+
+116. Las yoginis gritaron sus gritos terribles; la tierra que llovía tembló ante la huida; la luna sangrante se alimentó de gore. La multitud de mujeres giró y giró como en una rueda. [68]
+
+117. Los rakshasas que resonaban gritaban, diosas saltaron y supieron; diosas giraron y saltaron; el feudo se hizo un solo aullido. [69]
+
+118. Una nube de polvo oscureció la tierra como pecio; rostros manchados de humo; flechas llovieron espesas como la primera lluvia de lluvia: cabezas con azafrán volando en alto. [70]
+
+119. La espada desnuda chocó fuera de su vaina; los corazones de pantera temieron por el mal; los tambores rugieron una y otra vez; arroyos brillantes cayeron espesos como lluvia. [71]
+
+120. Las sesenta y cuatro yoginis danzaron su danza; partes del cuerpo cayeron temblando pieza a pieza; Shishupala se alzó en su poder y golpeó masivamente la lucha. [72]
+
+121. Desenfrenado corrió, y Rukmi se alzó espumeando en el consejo del Vidente: hierbas en el agua balanceándose; en los flancos amenazados el paso de las yoginis se cernía. [73]
+
+122. En ese momento habló Balarama: Subió mi camarada, vencedor absoluto: «cuando llegue la compañía, ganaré esta batalla aunque solo». [74]
+
+123. Vio a sus enemigos antes de la batalla, con deseo agudo de desear; la sed de sangre creció ancha como boca de fuego.
+
+124. En cada puerta qué fantasmas devoraban; las fosas se vertieron llenas; la tierra salió como coral; cabezas rodaron hacia el cielo como cisnes en vuelo. [75]
+
+125. Balarama, de brazo poderoso, era fuerza rebosante; su brazo derribó a los combatientes; saltó como un león, cual disco, en la batalla. [76]
+
+126. En feroz lucha, Rama era inamovible en pies de enemigos: debajo; y, regresando, montó para la matanza, las mentiras se contaron como homenaje. [77]
+
+127. Los enemigos cayeron en el polvo, vencidos fila tras fila; sobre la base de la lluvia de dinero-azafrán volador los esqueletos se hicieron sumisión. [78]
+
+128. Balarama se recostó sobre las cabezas de los enemigos; el cabello de las mujeres corrió rojo cuatro días; las esposas de los buitres se cernían regocijándose. [79]
+
+129. Tan abrumador se adornó Balarama; resplandeció con mayor esplendor; rotos quedaron Jarasena y Shishupala: puntos: la batalla terminó. [80]
+
+130. Recto y cuadrado fui contra las filas: ¡mira, vino el hermano de Rukmini! Pesado es su ejército: «He venido con pies como siervo de la Reina». [81]
+
+131. Como rostro de rana parecía, con la espada desenvainada por reflejo; Balarama disparó flechas a través en banda zigzagueante. [82]
+
+132. Entonces viendo esto, Rukmini, sintiendo el resplandor de la batalla (con lágrimas corriendo), dijo en su delicado corazón tristemente: «Todavía no he aceptado al Señor». [83]
+
+133. Entonces, acercándose a Rukmini, debatiendo en deliberación, contando de las armas todas las que trajeron: Rukmi se dispuso y Hari lo cortó como un tallo. [84]
+
+134. Le cortó el cabello; lo desarmó y lo hizo horrendo; aun así le dejó la vida aunque desprovisto de vida; Hari atisbó a la de ojos de cierva y: el propósito se cumplió. [85]
+
+135. Y el hermano menor — era lo justo — declaró: «El castigo malvado lo he servido bien»; «con su hermano a su lado, una buena obra está bien hecha». [86]
+
+136. Su rostro amable se oscureció — la de rostro de loto se hizo devota — al principio Él obedeció la orden del hermano mayor; la dama de ojos de cierva estaba retenida en su mente. [87]
+
+137. Todo el enorme ejército se volvió hacia la aflicción; marcharon como incitados. Hari, montado, puso su mano sobre ella.
+
+138. Más bendición se amontonó sobre sus cabezas; en las filas del ejército se alzó el sonido de la alegría nupcial; olvidados los hechos del padre, el hecho del cumplimiento estaba hecho. [88]
+
+139. La desgracia de la estrella fue desechada; la ansiedad cayó; Él dio Su mente a enderezar el camino de Hari: anhelaban el viaje recto al hogar. [89]
+
+140. Los transeúntes se alzaron mirando; mirando, vieron el camino vacío arriba; los ciudadanos de Kusasthali saludaron al del Loto. [90]
+
+141. Oyendo el rumor, toda la ciudad vino con excitación a saludar a la pareja; el sol sobre la luna, el encuentro como el encuentro de la Luna por la noche. [91]
+
+142. Dio su renta a los pobres; hubo gozo más allá de toda medida: la guirnalda de azafrán de Hari para todos ellos. [92]
+
+143. En las calles, hombres y mujeres en multitudes, moviéndose despacio uno a uno, se agolparon para dar la bienvenida: Hari, entrando en su propia ciudad, extendió sus brazos como la sombra de los árboles. [93]
+
+144. Resplandor de relámpago: una lluvia de perlas empezó a caer; el cielo estaba oscurecido por nubes: el ejército había venido como una compañía de nubes. [94]
+
+145. Había pavos reales en el patio y a lo largo del camino, con agua pura y tinte abhira; la ciudad admitió la hueste de Hari como suya, fluyendo en ella como un río que irrumpe. [95]
+
+146. Su fama brillando, blanqueando el suelo: los ciudadanos miraban intensamente; con pura y poderosa rica ordenación, a su cabeza el Oscuro, las primeras gotas empezaron a caer. [96]
+
+147. Él, que venció a Shishupala y Jarasindhu, vino; hicieron el arti; vieron los rostros de Vasudeva y Devaki y se inclinaron una y otra vez con dones. [97]
+
+148. Con ritual casaron al novio; campanas de gozo sonaron a cada hora; «Sea la devoción sobre el rey Krishna, delicia del rey»: a Rukmini, la hicieron feliz. [98]
+
+149. Vasudeva y Devaki llamaron a los sacerdotes: «Decid primero, cuándo preguntar, cuándo será casada Rukmini con Krishna», y el astrólogo dio el día, mirándolo otra vez con el ojo: «¿Cuándo debe ser casada Rukmini con Krishna?» [99]
+
+150. Habiendo ponderado la ley, los conocedores de los Vedas se agitaron en la mente: «¿Cómo puede haber ceremonia pura, y repetirse el asimiento de manos del matrimonio?» [100]
+
+151. Enseguida consideraron los tres tiempos, y enseguida empezó el rito del fuego: «¡Krishna! — el procedimiento: una y otra vez el asimiento de manos — nulos todos los defectos; y así se cumplió la boda». [101]
+
+152. Vasudeva, Devaki y los brahmanes hablaron unos con otros; habiéndose reunido, se retomaron los ritos restantes. [102]
+
+153. La forma del sacerdote presente en el sanctasanctórum del Veda del altar, en los vasos del linaje de Arjuna; el fuego se proveyó de combustible; el dosel de ghee se extendió ricamente. [103]
+
+154. Mirando al oeste, detrás, sus rostros al este, de pie en el altar; entonces con madhuparka y tales ofrendas adornados, esposo y esposa se sentaron la pareja en estado.
+
+155. Los ojos unidos de Hari estaban llenos sobre su persona, como la luna se alza del vientre del océano al asimiento de los planetas; contemplando su rostro, Él, como loto, deseó; ellos mismos cantaron canciones con voces dulces. [104]
+
+156. Ante ellos empezó el cuarto rito: dieron la vuelta al fuego de esta manera, agarrándose mano a mano; el loto se cerró en el asimiento, copiado como un globo de champaka. [105]
+
+157. La esposa fue sentada a Su izquierda; hablaron debidamente uno al otro; llegó la hora de atar; el lector de los Vedas obtuvo los nueve tesoros. [106]
+
+158. La comida se dio en orden; la percha de calavera y el nudo se soltaron; el nudo del paño de ella se ató al Suyo y, atados por ese nudo, se hicieron de un solo corazón. [107]
+
+
+
+Versos 159–180: La noche de bodas
+
+159. Fueron adornados a la cámara interior de placer; deliberando, se prepararon para ungirse; la cama se tendió para la noche salvaje, extendida su colcha.
+
+160. La luz de la lámpara arrojó tonos pintados de multitud de colores; muchas lámparas, hechas multicolores a mano; allí aguardaron la venida de la luna: mil ornamentos los hicieron brillantes. [108]
+
+161. Dentro del pabellón aguardaron, a encontrarse en un momento; la múltiple preparación de la casa de reposo del amor adornada; sin reparar en el tiempo, dedicados al amor, cultivaron el amor. [109]
+
+162. Entonces al atardecer vino la hora crepuscular; Rukmini la dama, esposa del amado, se apresuró por aquí; las esposas de los viajeros cerraron sus puertas; los pétalos de loto se cerraron del sol. [110]
+
+163. El esposo aguardaba excesivamente; su rostro intempestivo en la timidez; de noche vio la estimada belleza informe: las mujeres kulata salen de casa, los rayos de la luna nunca descansan. [111]
+
+164. El pavo real se heló, la misión del yaksha se heló; la esposa y el amado, encendiendo el fuego de la pasión, fijaron sus lámparas en los senos. [112]
+
+165. Ella estaba, siendo excesivamente alabada; el encuentro consumado la llevó consigo; alcanzó la alcoba cuando Krishna preparaba; entonces se entregó a la casa de Hari y se afinó. [113]
+
+166. El amor mismo avivó a Hari en su interior; Él estaba junto a ella; el murmullo salió de la preparación: «que Él avance» se dijo.
+
+167. Sosteniéndola por la mano, pie a pie se alzó; tierna y desconcertada se balanceó; en la timidez cayó la cadena de hierro: la manera fue la de llevarla como una vela mayor. [114]
+
+168. En el umbral se pausó; Hari la vio, y nació un gozo intenso sobre toda medida; él mismo se apresuró al honor: se alzó y se mostró a él. [115]
+
+169. Has venido, deseada a través de muchos días — morando dentro de la brecha de la separación; ahora muéstrame tu propio yo de esposo. Conducida a la propia presencia de Hari sobre su lecho, ella estaba. [116]
+
+170. Mirando con ojos de belleza, hechizada para siempre, Madhava la consideró dentro de su corazón; una y otra vez miró como cuando la abeja sorbe; la gran felicidad halló su órbita.
+
+171. En el espacio de este matrimonio de titubeo de formas, los dos fundieron sentimientos separados en el encuentro; en sus mentes, con miradas desientes, una larga misión se agitó con el temblor del amor.
+
+172. La esposa supo por fin, con el ojo de un corazón que está asido; riendo y riendo, sus compañeras se fueron fuera. [117]
+
+173. El juego empezó — el deporte que conviene a esos dos — como si el viento devorador fuera atrapado: no visto, no sentido, ¿qué puede venir? La dicha sola conoce el secreto, no los de fuera. [118]
+
+174. En la altura de la pasión vino el fin que rienda el viento; tras el placer los miembros se relajaron. El deporte del elefante la había hecho inquieta; el loto fue desmoralizado por las olas. [119]
+
+175. La joya de su frente se fundió en su unión; escultores hicieron el arte de Kama; en la frente de Syama surgió su signo: deslizado de su lugar como un dislocado... [120]
+
+176. En su hogar, ojos con vergüenza, campanillas a sus pies sonando; ella tiernamente guardó la nota de la garganta; él asió el cordón de perlas y, libre de restricción, habló. [121]
+
+177. En esta disposición la amiga sumergió a la Syama en otra clase de juego; el alcanfor se fijó, el amortiguador se agrietó; la enredadera en el parque tomó apoyo y se enlazó. [122]
+
+178. La nave amarrada firme, el dulce bote flojo fue amarrado lejos; los mechones de cabello se retorcieron, el cordón de perlas se reanudó; las campanillitas de su cintura recortada volvieron a sonar. [123]
+
+179. Su placer matrimonial con Shyam fue espléndido en la condición del esposo; el juicio del fundador del festín repitió su celebración; el salón del monte sonó una y otra vez con su risa. [124]
+
+180. Su destino era estar atada, su destino al arado del Campesino; deseaba el sonido de la frente sobre la frente. Cayeron a contar las cuentas de la noche; la pareja fue sorprendida fuera del asimiento del dormir.
+
+
+
+Versos 181–186: El amanecer
+
+181. Ella ha entrado en el seno del Señor de Lakshmi como la noche de mejillas negras; el amante del placer Kiriti despertó para llamar en alto, como el guardián del tiempo de la ronda nocturna. [125]
+
+182. La luna perdió su gloria, pálido su esplendor, como oro gastado perdido en el rostro de una mujer hermosa; la lámpara ardía, pero no brillaba; ella estaba perdida en el suave sonido de los brazaletes. [126]
+
+183. En ese momento la pareja abandonó el loto del lecho, pensando en amor; las flores cargadas se desplomaron escamadas; la frialdad sopló dentro, el grito del ganso ascendió. [127]
+
+184. Se alzó un sonido, fiero, al sonido: el crepúsculo del alba empezó la práctica del yoga; en el velo de la noche la luz brilló fuera, con la disciplina del aliento de luz. [128]
+
+185. El paño de la pareja yacía intocado, un lote fraternal aparte; entonces las puertas se abrieron de golpe; el sol naciente dio luz; las canciones de los pájaros se rompieron de sus canciones. [129]
+
+186. Esposas robadas, rebaños de ganado, ladrones, pájaros chakva y sacerdotes a la hora del baño los robos... [130] A esa hora se entregaron dones por gozo; viniendo a encontrarse, las multitudes se mezclaron en la cuenta del encuentro.
+
+
+
+Versos 187–228: El año del amor — verano, lluvias, otoño, invierno
+
+187. Los ríos menguan, el agua de las lagunas bajó; el nudo de la cuerda de cáñamo se apretó; el propio Hemagiri se hizo polvo: como Rahu entronizado arriba, así el Sol creció rojo celeste bajo él. [131]
+
+188. Los hombres estaban desconcertados, cómo se maravillaron, deseando la sombra del cielo: el alegre señor del cielo se fue a la sombra; bajo los rayos del Sol la tierra jadeó. [132]
+
+189. Los ríos coloreados de kusum se rompieron en inundación, las parejas nadaron en el agua: Jagatpati hizo deporte acuático en el mes de Jeth — esa fue la manera del verano. [133]
+
+190. Entonces junto con la estimada hueste recogieron gozo sobre el suelo; en la llamarada de calor de Asadh, el Señor Tardío parecía mayor a medianoche que a mediodía. [134]
+
+191. Los torrentes del monte rugieron, el bosquecillo resonó; los pájaros se lanzaron en el viento; la madurez del mango se curvó hacia abajo bajo la pesada lluvia. [135]
+
+192. Sufriendo por el calor, como curada con guirnaldas de ricino y alcanfor atados; la luna nueva hizo nuevo: él ató a la amada con guirnaldas de kumkum, sándalo y loto en la cabeza del cabello de la amada. [136]
+
+193. El relámpago llameó y se extendió desde los cielos, llenaron las lagunas y las tierras bajas; pájaros en las cumbres se sentaron montados; la Devi y la Nube Veloz volvieron hacia casa.
+
+194. La grulla y la pava real se agitaron; el pájaro chataka subió y llamó desde arriba; el pavo real danzó sobre la colina; el relámpago se solazó en el cielo.
+
+195. Oscura y clara su cresta; morado su rostro; el arroyo que brotaba se rompió en el extranjero; los ríos con todas sus orillas se disolvieron; los lotos se quedaron entumecidos en el agua. [137]
+
+196. Rugiendo el trueno retumbó e hizo el sonido profundo; el dios de la lluvia danzó con las nubes; el océano no pudo contener su agua, las doncellas del agua no pudieron quedarse en el agua. [138]
+
+197. Ella era la doncella junto a su esposo en el palacio de agua; en lugar tras lugar residía el agua; en la primera unión la dama de loto tomó reposo sobre su asiento. [139]
+
+198. Los árboles y las enredaderas brotaron en el azur del firmamento; la tierra en su arroyo llevó un cordón de perlas; rana tras rana halló su lugar. [140]
+
+199. El círculo de colinas, el color del kohl; la faja del mar; las marcas de kumkum en la frente de la tierra; las doncellas sostuvieron la cresta de la luna.
+
+200. Las nubes se encontraron arriba y se perdieron en el desbordamiento; como el prestamista con su principal; el Cielo moró con su riqueza; la bandada de loros de la enredadera arrulló.
+
+201. Syama jugó con la nube oscura de Syama; las nubes jugaron con el relámpago; desde ese día se olvidó el culto de Sandhya; los ascetas no podían distinguir el día de la noche. [141]
+
+202. Inquietos por su separación, hicieron el amor otra vez; contando la ganancia del momento; la pareja se dio un abrazo, el abrazo que su hogar en el cielo mostró. [142]
+
+203. Partido entre agua y agua, pintado de kohl, la nube se desplegó en el medio; el Rey Supremo se regocijó en los jardines. [143]
+
+204. Armilares hechos de zafiro, construidos en rubí y esmeralda; la cumbre del pabellón estaba escalonada; en la cresta de los pabellones había banderas. [144]
+
+205. Bajo el cuerpo barnizado embadurnado de kumkum, la felicidad de la humedad se lavó; la frente de Rukmini se hizo clara. Se fue la estación lluviosa; vino el otoño, opuesto. [145]
+
+206. Pasó la estación otoñal; la estación otoñal empezó a girar; «Lo describiré», dijeron las buenas palabras: ojos despejados, aguas limpias; en las profundidades del bosque los ojos de la vergüenza. [146]
+
+207. La tierra fue desgastada, el cielo maduro; los cisnes inmaculados fueron avergonzados; el koel calló, el sudor se secó; tras el placer su rostro como jazmín. [147]
+
+208. En Asvina las nubes se encontraron en el cielo; las puertas del fuerte se cerraron en el golpeteo del agua; como Satguru en Kali remueve la suciedad del mundo, la chispa del Conocimiento brilló fuera. [148]
+
+209. Las aguas lechosas de los ríos se extendieron: el pecho se derritió y se hizo feliz; la piel del asceta fue comida por el calor. A menudo el asceta en la orilla del Ganges se purificó. [149]
+
+210. Entonces otra vez los cisnes migraron a las regiones del cielo; fueron a la morada de los padres en el mundo de los muertos. [150]
+
+211. Hablando suavemente, quienes vagan lejos queman su condición de viudos; en la mitad oscura ella no vio a su cisne, el cisne no vio a su cisne hembra. [151]
+
+212. Brillante con lucidez, el color brilló encendido; la luna brillante se sentó plegada en dieciséis fases; masa de luz de su propio color, también tú te has hecho oscuridad. [152]
+
+213. Sentada en la balanza, la mujer, resplandor como la balanza: ¡cómo brilla el hermoso círculo del rey como el armazón de la balanza! Día tras día disminuyó la diferencia en el día; noche tras noche en la noche aumentó. [153]
+
+214. En Karttika despertaron las lámparas; la pareja dormida tuvo el disfrute del hogar; dentro apareció como fuera; en la mente ella se preguntó con timidez ante el rostro hermoso. [154]
+
+215. Diseñando nuevas formas según nuevos patrones, construyen el salón de la dicha; en Karttika de casa en casa en las puertas las doncellas se alegraron: fueron danzando con danza y canción. [155]
+
+216. Saboreando siempre nuevos nuevos sabores, todo el mundo se regocijó en el mundo; del deleite del amado de Rukmini — ¿qué deleite era ese? Dice Rass: creció la cosecha de la devoción. [156]
+
+217. Como fue — las confusiones de la multitud — venimos a ofrecer con manos confusas; el mes de Margashirsha fue finamente encontrado; dentro de todos los hombres despertó la percepción. [157]
+
+218. La brisa que se dobla se vistió completamente, soplada por una pequeña brisa: la tierra fragante abrió sus poros; en el bosque y en el prado el homenaje de la rueda fue abierto por sus dos formas. [158]
+
+219. Estos arroyos se hicieron hielo en los lugares donde se forma el hielo; las aguas brillantes bruñidas empezaron a crecer: como Dios Krishna podría venir al vientre del nacimiento; así serán el pecho y la cadera. [159]
+
+220. Lanzándose a la carne, en el frío del invierno estaban desnutridos: débil fue su cuerpo esbelto, y fatiga en su carne; unos llevaron ropas suaves, unos mantas; ella llevó la luz del mundo en su cuerpo. [160]
+
+221. Día acortado y noche que se aviva siguieron; despacio a despacio avanzaron; los planetas en el cielo Posa empezaron a eclosionar por sí mismos en los planetas. [161]
+
+222. Se acercaban a la madurez en sus cuerpos y mentes por su propio talento creciente: en su segundo conteo vino el invierno por causa de Rukmini; [162] ella era olorosa y virtuosa según su virtud por naturaleza.
+
+223. Las flechas de Makaradhvaja — el Estandarte del Pez — por mano de su madre; la escarcha fue cerrada por la expansión del viento del norte; la bola de loto se guardó con agua de beber; había riesgo en su lago aislado. [163]
+
+224. Los rayos del Sol, yendo a través del borde del universo sin vergüenza, los quemó; la gente en esta época empezó a decir de todo: el agua ardía fría en su frescura. [164]
+
+225. El nombre del invierno en el bosque es azul de hielo; arde de hipotermia en el agua; el delincuente en esta época no entra en Dvarika; la suciedad de la opinión de mi mente la limpió. [165]
+
+226. La regla de disciplina de la gran disciplina fue seguida por ella hasta el fin; para la pareja arriba cayó el denso néctar; el sol y el fuego fueron rodeados con llama de arati al anochecer incluso en la presente estación. [166]
+
+227. El Sol se sentó en la vasija de agua; la estación giró y se cambió; la escarcha endurecida se desvaneció de los huecos del agua quieta; las mujeres con pechos inflamados manejaron sus gargantas con cuidado. [167]
+
+228. La vina, el tambor, la flauta, el tanque dorado: cantando y cantando alegres la quinta nota, jóvenes y jóvenes en menor calidad jugaron al Holi en cada casa de Phalguna. [168]
+
+
+
+Versos 229–268: Primavera
+
+229. Hasta las gargantas de los pájaros estaban demasiado gastadas para moverse; como una guirnalda amorosa que cuelga de algún lugar conocido por una pareja recta: «Ha venido la primavera — ¡el hombre debe conocer a su amada!»
+
+230. Los árboles durante diez meses han estado preñados, ahora los frutos están maduros; la mente revolotea con la abeja zumbante: el pájaro carpintero duro golpea con la voz del koel; los bosques están preñados de primavera.
+
+231. Frutos norteños maduros y jardines occidentales; sonidos dulces con drogas perfumadas; el jardín urdhva merece errar; la partera Holi ha venido.
+
+232. Rangolis empezaron a extenderse por el suelo con suelos ásperos y lisos; los rojos de las mujeres subieron a los estandartes de cúrcuma; la abeja, con el flujo de polen, se enamoró del rostro de la luna.
+
+233. En jardín jardín, en árbol árbol, en tanque tanque, discernió la nariz de la mujer; nació la primavera y ascendió el incienso; el placer cabalgó sobre el carro del viento.
+
+234. Al fin el mango floreció en el matorral, entonces los capullos salieron como turbantes de boda; brotes brotaron en las ramas como un árbol de pendientes bien barrido en un árbol, o en una serpiente las serpientes atadas de ramas anudadas en la serpiente. [169]
+
+235. Abiertos por el viento, nueces para nidos de coco derribados; el serrín de los jóvenes árboles sombrilla era amarillo pálido; el polen brilló como motas de bermellón; el koel canta con intenso deleite. [170]
+
+236. Vino, vino a dar la bienvenida a la primavera; lo ató con una falda de una pierna de páginas; improvisó la timidez en esa urna de arroz cocido, de hojas cocidas, de color cocido. [171]
+
+237. La novia de Kama llegando al altar de deseos semejantes; su determinación fue convencida ante su amante. [172]
+
+238. Con flores en su mano, lo sostuvo firme; árboles llevando vestimentas amarillas.
+
+239. El árbol kaniyara estaba cubierto de membrillos y rosas; el fragante gulal dorado había brotado en él.
+
+240. Parecía como si toda la familia de árboles estuviera reunida; las direcciones inclinadas de Varuna se enlosaron con nubes. [173]
+
+241. Ella decora por regla pero viene a dar la bienvenida a la llegada de la primavera; el esplendor día tras día te atrapa.
+
+242. Jugando en las profundidades acuosas de la danza Phag, las muchachas se pusieron serias en su juventud. [174]
+
+243. Kama el arquitecto hizo de la primavera su palacio; la fila de mil banderitas roció la tierra. [175]
+
+244. El hijo del océano sentado en el lomo de la montaña; en su cabeza el parasol de mango improvisado; los brotes de mango se balanceaban como abanicos chauri. [176]
+
+245. Semillas de granada se extendieron y florecieron; los despreocupados arrojaron su dignidad; los pájaros besaron los frutos y dejaron caer picos perforados de miel en el sendero.
+
+246. Soportó el embate, muy alegre con su ejército, construido en árboles kuja; guirnaldó su línea de cisnes con bandas blancas; la montaña fue decorada con velos. [177]
+
+247. Árboles, palmas, colinas esbeltas arriba se alzaron altas; los árboles Sarala hicieron una muralla de árboles; la primavera se ató a un palanquín — la propia tierra parecía atada con la unidad del universo. [178]
+
+248. Delante se dispuso el festival del Rey Rita; el pabellón era el bosque extendiendo sus límites; el cantor de cinco flechas era el jefe de la guardia; el koel era el hacedor de la música.
+
+249. El kallahamsa conocía los golpes de tambor; el pavo real danzó; el viento era el tocador de címbalos; los címbalos fueron tratados con choques; las abejas eran los tocadores de cuerdas pulsadas; el chakora era el tambor. [179]
+
+250. Los pájaros shuka blancos eran los sacerdotes del rito; los gorriones, los expositores del rito; presionando firmemente el suelo, adornaron la tierra; las parejas chakravaka vagaron por los lagos.
+
+251. Las palomas bebieron en el tanque de agua; el torbellino Marut robó un torbellino de polvo para la marcha; el carnero y el cordero empezaron a llorar; la luna se fijó en el templo. [180]
+
+252. Ignorante del paladar de la palasa, el mango floreció y se estremeció de deleite; el florecimiento estalló en risa pura y clara.
+
+253. La miel se manifestó, la canción del koel floreció; la cortina del shishira resbaló; el yo que había yacido durante las cinco estaciones se amontonó en las escaleras del rey de los árboles.
+
+254. La gente fue picada por el resplandor brotante de la primavera; el cielo despertó a los sinsentidos; el jardín excelente fue sepultado con gran dolor; en bosque tras bosque la primavera fue tenida por rey.
+
+255. Lámparas encendieron el champak por millares; un crore de banderas izadas y jugueteadas.
+
+256. La brisa de Malaya sopló y los hizo reales; de la abundancia de la falta de contención llenaron las tobilleras; las enredaderas abrazaron los árboles; los árboles soportaron el peso de la carga de enredaderas después de ponerse los miembros. [181]
+
+257. Totalmente fríos en invierno y el dolor del shishira; dieron testimonio de la primavera; las mismas plantas en las ramas del bosque se extendieron en Vaisakha.
+
+258. Da un báculo afilado, no des un báculo; no lo pierdas... que permanezcan las cosas buenas. [182] La abeja se sumergió en la inundación de hojas y árboles; llenando las grandes hojas con fuerza salió de su camino y se gastó las orejas. [183]
+
+259. Las flechas de Kama se abrieron; un crore de banderas se dio; el rey otra vez se alegró con el reino de la primavera; siempre permanece despierto en el mundo. [184]
+
+260. Como las lluvias hacen engañada a la gallina chataka: nada fue engañado así por el rey de la primavera; uno hizo el servicio y ganó el fruto; clamorosos fueron los gritos de las lechuzas. [185]
+
+261. Quien trabaja aprende el gusto de este mundo en estallidos de flor, y por la vista de las fantasías encontradas permanece delgada de cuerpo en la separación; la mujer amante de la unión del bosque de palasa permaneció en la frialdad de la apatía. [186]
+
+262. De ese color es el sabor, del sabor su color; las palmas de las manos hechas con flores: «vagar balanceada en el lecho de la flor de palasa». [187]
+
+263. En bosque tras bosque la guirnalda de la abeja de Malaya reúne azafrán kesara y se pierde en el engaño de la reflexión; en el grueso refrigerante de perfume fuertemente rociado — la brisa de Malaya se enfureció momentáneamente y se preocupó. [188]
+
+264. Cruzó arroyo tras arroyo, y árbol tras árbol; enredadera tras enredadera abrazándose; la figura del gran rey venía desde la dirección norte; el viento no pudo seguir el paso de sus pies. [189]
+
+265. La flor kurba, la flor kunda, la flor ketaki: las escamas de polen besaron claras; el pesado peso del aroma llevado despacio reptó. [190]
+
+266. Tomando el jugo perfumado de sus miembros, el ansioso viento de primavera se bañó en el agua de la Reva e hizo su ablución; la velocidad de serpiente de la brisa del sur reptó como un esposo con culpa. [191]
+
+267. Cupido no toca las enredaderas con su mano; da el abrazo del cuerpo como don; la imprudencia mientras no se mueve descuidadamente: el viento saborea bebiendo su miel. [192]
+
+268. Tomando su agua del rociado de los cielos del árbol Malaya, su miembro amarilleó con polvo de polen; bebiendo la intoxicación de la miel, de lenta majestad procede: el viento intoxicado de dulces. [193]
+
+
+
+Versos 269–277: Pradyumna y Aniruddha
+
+269. La estación cambió su nombre: las seis estaciones pasaron con la riqueza de la miel en su amor; la estancia de la estación con el de Alma Ancha concluyó; llegó el fruto de su amor: nació Pradyumna. [194]
+
+270. Vasudeva era padre, el hijo era hijo de Vasudeva; el padre de Pradyumna era el Señor del Mundo; la esposa era la esposa del muy hermoso, la esposa de la Gloria era la esposa de Rama. [195]
+
+271. Dios en deporte humano jugó el juego humano; moró en el mundo de los hombres; Pradyumna era el Padre del Mundo, el Abuelo; de él vino el nieto Aniruddha, Señor del pensamiento. [196]
+
+272. «Cuya fama nunca se desgasta», es el decir: ¿cómo puede morir la alabanza interminable? Porque Narayana es incualificado, sin mancha. [197]
+
+273. La madre de Lakshmi y la hija de Sindhu — Lakshmi — Padma, Padmalaya y Prama — Inconstante, Indira: Ramā y Harivallabha también son sus nombres. [198]
+
+274. Kandarpa, Kama, Kusumayudha, Smara, Asharira, hasta el resumen; Samara, Manoja, Pancha-shara, Manmatha, Madana, Makaradhvaja, Mara: todos los nombres de Cupido. [199]
+
+275. De cuatro rostros, cuatro brazos, forma cuádruple; más allá, el Ordenador de las cuatro yugas; todo viviente, mundo creado; la forma humana era el Señor de los seres. [200]
+
+276. Belleza, vergüenza, gracia, Sarasvati, Maya, Kanti, costumbre e intelecto — perfección, belleza, pureza, gracia, reverencia — para el bienestar de los Dioses y los hombres del mundo. [201]
+
+277. «El conocimiento del Jnana se llama el quinto»: en el templo se renunciaron el vino, la ira, el insulto, la murmuración. [202]
+
+
+
+Versos 278–305: El autoelogio del poeta
+
+278. Por la mente y el recuerdo hallaron el conocimiento: la dama de ojos de cierva, desafiando a la multitud, trepó el muro de la ciudad de los orgullosos; llamó a los que estaban cerca y habló: «Leed este Veli». [203]
+
+279. Sarasvati mira el mensaje de sus palabras; el sentido del destino futuro es el muftiato, por razón de esta manera: por el conocimiento, por el bhakti de Hari, por el alma: ella ordena por el Veli como su remedio. [204]
+
+280. En un baño de alba en agua durante seis meses, uno somete los sentidos por el agua; leyendo el Veli a diario, incluso de noche, nace entre Rukmini y Krishna esa clase de amor.
+
+281. Escuchad, incluso al padre de la novia: ¡Decid Veli! [205] Con familia, hijos, nietos, bisnietos y el buen jefe de casa: quienes cantan el Veli de Rukmini de Hari en el mundo se hacen en el mundo tan buenos como el propio Veli. [206]
+
+282. Si dentro de esto, alguien lee sus números en el curso de los buenos caminos, que lo llamen los cantores del Veli en el mundo. [207]
+
+283. Quien lea (o recite) el Veli constantemente, de día en día, obtendrá el esposo deseado; sea puro, o mujer amable. [208]
+
+284. Del cuádruple Veda, la ciencia médica cantada (Ayurveda): cualquier vasija bucal que el médico pudiera usar, que la cura se aplique por su mano: cuando se canta el Veli, funcionará. [209]
+
+285. Adhibhautika, Adhidaiva, Adhyatma — la triple enfermedad del cuerpo: kapha, vata, pitta — las triples fiebres, la triple dolencia — ninguna de estas cae sobre quien canta el Veli a diario. [210]
+
+286. Con la mente purificada, cantando, siempre hay bendición, siempre competencia; los días malos y las direcciones malas pierden su poder; los enemigos y los malos presagios se destruyen.
+
+287. Gemas, conjuros, fuerza mística, máquinas: nada amarga; en el agua, en la tierra, en el cielo, nadie molesta; el temor a la bruja, al fantasma, al duende huye con el mero contar; la calamidad se resuelve. [211]
+
+288. El yogui que medita, el asceta que practica austeridades, el escéptico, el nacido dos veces de votos duros: tales se hacen, leyendo el Veli incluso en la corriente de mitad del océano: son llevados a la otra orilla. [212]
+
+289. Oh, ¿por qué yoga, por qué sacrificio, por qué canto, por qué austeridad, por qué peregrinación, por qué votos, por qué dones sin continencia sexual? Con tu boca canta la auspiciosidad de Krishna-Rukmini — y alcanza la liberación. [213]
+
+290. A Hari y a Hara canto a ambos con lengua infiel: ¡canto solo como Bhagirathi! Ninguna lengua nativa jamás tuvo éxito: el Veli es como la propia Diosa Sarasvati. [214]
+
+291. La semilla de la enredadera fue sembrada por la boca del Bhagavata; la libertad creció de ella para quienes la guardan con cuidado; su raíz, tallo y tronco se hicieron firmes, y trepó, y despertó la felicidad: da el fruto distinto de la liberación. [215]
+
+292. Hojas y brotes de cinco letras con la fragancia de su fama; la abeja (del amor), la amada de la barba: la liberación es la flor, el fruto es la liberación, y el árbol da el fruto de la liberación. [216]
+
+293. La edad de Kali la ha hecho otra vez la enredadera Kalpa, la vaca Kamadhenu, la gema Chintamani, la luz de luna del árbol de los deseos; el propio Prithi Raj, de boca rota, la extendió desde el loto de su boca sobre la tierra. [217]
+
+294. El camino de la fama quíntuple fue declarado: el Veli de Prithi Raj es el mayor de todos; es la escalera al cielo, la escala del mundo que lleva a la liberación. [218]
+
+295. ¿Quién puede comprar una perla, sabes, oh quién? Número sobre número aún innumerable. Sus ilusiones desplegadas brillaron en mi rostro; los malos poetas no mantuvieron su forma. [219]
+
+296. De la punta del dedo al moño, toma con asimiento lo que sea mi voz en el Veli; se atará al cuello del mundo tal como está: prediquen los hombres en sánscrito o en prácrito. [220]
+
+297. A mi palabra, oh Bharati, tu misterio es inagotable, ¡oh Madre! El canto decoroso y el feo en copla melodiosa son iguales en tu escalera en la tierra y en el cielo. [221]
+
+298. Quien describe el Veli del modo en que los rasikas saborean el rasa y cumplen la historia: tanto como di de mi sentido, al menos lo he declarado. [222]
+
+299. El astrólogo, el médico, el narrador de Puranas, el yogui; el cantor, el logista; el bardo charana, el Bhat, el buen poeta, el pintor en palabras: ¿dónde entre estos puede contarse su grandeza? [223]
+
+300. En boca tras boca la alabanza es tragada y quedó sin digerir; mis cualidades, cruzando el océano, aún están inexplicadas; los ancianos dijeron: por Su gracia, los menores han sido significativamente transportados. [224]
+
+301. Tomaron el relato corriendo; los pandits hacen mi reverencia al mayor. Nosotros, los humildes, hemos venido aquí humildemente; nuestra palabra está llena de faltas. [225]
+
+302. Quien haya hablado en el juego de la historia del Señor del Mundo, la palabra falsa no le está permitida; así me lo declaró la compañera de Rukmini.
+
+303. ¿Quién de cualquier color podría tomar la orden del cabello de Keshava? Buena es tu gracia, Bharati; en la fealdad tú eres mi madre. [226]
+
+304. La cualidad de Rukmini, con su hermosa forma y atributos, ¿a la capacidad de quién se aspirará? Sabiendo exactamente esto, hablaré: las virtudes de la reina de Govinda declararé. [227]
+
+305. En el año de la virtud constante del poder, la porción de la Luna de Samvat: la gloria se cantó para la conquista de un esposo. Noche tras noche se ganó el fruto de la devoción, infinito. [228]
+
