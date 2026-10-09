@@ -1,0 +1,562 @@
+Excluding the cases where nothing was felt, E. got 1 completely right and 3 nearly right out of 6 trials; R. got 2 completely right and 2 nearly right out of the same number, making 3 completely rights and 5 approximations out of 12 trials. The total number of substances used was about 20; assuming that as a result of previous trials the percipients were aware of this, we find that the probability of their guessing right was 5 in 100; they actually succeeded 5 times as often, without counting the 42 per cent, of approximations, the precise value of which it is difficult to estimate. The absolute failures, which should have formed 95 per cent, of the answers, were actually only 10 per cent, of them. The good faith of those con-
+
+cerned, an element in the evidence to which I do not propose to allude as a rule, being assumed, the only objection that can be brought against the series, apart from an unfortunate lack of detail in the published reports as to the conditions under which the experiments were carried out, lies in the possibility of the detection of odours by the percipients. But it may be noted that the home made noyau, which is recorded to have been by far the most strong smelling of the substances tried, was guessed by one percipient as salt.
+
+In the summary given by Mr. Guthrie 1 we find that pains were successfully localized without contact in 8 out of 10 guesses, or 66 per cent, in a series where, excluding cases where no impression was got, out of 97 trials of various sorts only 32 answers were correct, or about 33 per cent. In all the three series with contact the successes were forty-four and the approximations 20 out of a total of 82 real trials, or percentages of 54 and 24 with only 22 per cent, of failures. Bearing in mind that the percentage of complete successes under all conditions diminished from 61 in the first series to 37 in the second and 38 in the third, it is remarkable that the pain series without contact in the third series should have shown results superior to those of all the series with contact together or any of them, 1 Proc. S.P.R. iii. 427, 42^.
+
+RICHET 7*
+
+separately. This seems to indicate that in this set of experiments, at any rate, contact had little influence on the results.
+
+In all these cases, however, exact satistical data as to the probabilities are excluded by the very nature of the case, save in such instances as the smells, diagrams, pains, etc., from which the selection is made, are known to the percipient. The case is different where the objects to be guessed are cards drawn from a pack or numbers between certain limits. Professor Richet tried a large number of experiments with cards, and he was imitated by members of the S.P.R. and others. 1 In a total of 20,580 trials the suit was named correctly 5,549 times as against a probable number of 5,145 successes, a plus of 404 successes or more than 7 per cent., a discrepancy less considerable indeed than that got by Professor Richet, but more remarkable as being found in experiments eleven times more numerous.
+
+Perhaps the best and most important experiments yet made, both as regards the excellence of the condition and the results attained, are those conducted at Brighton by Professor and Mrs. Sidgwick from 1889 to 1892. In the first series, covering the
+
+1 Revue Phil. 1884, 622-628. The probability that chance alone did not operate in a portion of the 'series consisting of 1,833 trials was calculated at.99996 (i.e. practically certainty), by Professor F. Y. Edgeworth.
+
+period from July to October 1889, the percipients, four in all, were hypnotised by Mr. G. A. Smith, who also acted as agent. The objects were counters with the numbers from ten to ninety in raised figures coloured red, the surrounding wood being uncoloured. An elaborate record and analysis of the experiments is given in Proc. S.P.R. vi. 128-170, to which reference must be made by those who wish to go into details. The amount of success varied to a singular extent, a point that on the whole seems to tell in favour of the telepathic explanation, for any cause of error may be assumed to have operated under similar conditions in a degree approximately equal. Taking the percipients separately, we find that with agent and percipient in the same room, 345 trials were made with P, and 263 with T; with agent and percipient in different rooms, 139 trials were made with P, and 79 with T; in all, 617 under the former and 218 under the latter conditions. Of the former, the digits were given 90 times correctly and 14 times more in reversed order, the most probable number of successes being in each case eight. 1
+
+On the successful days 2 there were 245 trials and 60 successes (excluding second guesses and 10 cases
+
+1 The chances of success were 1 in 81. Second guesses are excluded.
+
+2 When three or more correct guesses were made.
+
+of reversed digits) with P, and 129 trials with 23 successes with T. On other days there were 243 trials in all and only 12 successes. This is, however, considerably above the figure which pure chance, usually termed " expectation," would give.
+
+On the successful days, second guesses and reversed digits being left out of account, there were 133 first digits, and 119 second digits given correctly against an expectation of 46 and 38; on the unsuccessful the numbers were 38 and 32 with expectation 29 and 29. In all, 171 and 151 with expectation 75 and 62.
+
+Of the 139 trials made with P.and the agent in different rooms, 1 there was no guess made in 8 cases. In the remaining 131 cases there were 7 complete successes and one case in which the digits were reversed; in 6 cases the first digit was given correctly and in 11 cases the second digit, the expectation being 1 or 2 complete successes, 7 first digits and 6 second. 2 In 71 of these trials Mr. Smith was in the room below, and apparently entirely out of hearing of the percipients. In this series there were 2 successes, the expectation being 1 or o.
+
+A curious theory was put forward by Lehmann
+
+1 For details of the place of experiments, see the original reports.
+
+2 As o cannot come first, there is one figure less to choose from.
+
+and Hansen, 1 to account for the results here sum-marised, and more particularly for those results which were attained when agent and percipient were in the same room. These experimenters set themselves to find out by what means the results could, under the assigned conditions and assuming the good faith of the experimenters, have been attained, and came to the conclusion that unconscious whispering of the numbers was the clue to the marvel. Accordingly they " whispered unconsciously " in their laboratory for considerable periods at a time and recorded the successes and failures, successes being the cases in which the "unconscious" whisperer, with the aid of a parabolic mirror, transmitted to his fellow experimenter the number which he had previously selected as the one to be whispered " unconsciously."
+
+The whole thing being prearranged, the term, " unconscious whispering," seems ill-chosen, and the meaning would have been better expressed by " surreptitious whispering," so far as the Lehmann-Hansen experiments were concerned. Their case being, however, that the whispering in the Sidgwick experiments was unconscious and not surreptitious, they transferred the term " unconscious " to their own experiments, which had no real relation to
+
+1 Ueber Unwillkiirliches Fliistern, Phil. Stud. Bd. n, Heft, 4, 1895.
+
+the question at issue. Their studies should obviously have been directed to proving that people, who were unaware of the object of the experiment, would frequently, when told to think intently of a number or other word, whisper the word in question, or so far reproduce it by expiratory or inspiratory movements that another person would be guided in his guess to a sufficient extent to influence the results to the extent indicated.
+
+Perhaps the most remarkable feature of the investigation was that, in addition to being concerned with an entirely different set of phenomena to those alleged to have occurred in the Sidgwick experiments, the results were entirely inconclusive. An analysis of the Sidgwick experiments was given, with the idea of proving that auditory transmission was the best explanation of certain errors. But a counter-analysis by Professor Sidgwick x showed that errors not explicable on this theory were no less numerous, and that consequently the Lehmann-Hansen hypothesis was not only not proved, but not even proved to be probable. This Professor Lehmann, with a candour that is only too rare, admitted to be the case. 2
+
+The other Brighton series, carried on by Mrs. Sidgwick and Miss Johnson, at intervals during
+
+1 Proc. S.P.R. xii. 298, sq. 2 Journ. S.P.R.
+
+1890-1-2, were mainly of three kinds. In the first the agent and percipient were in different rooms and the objects were, as before, numbers. In 252 trials with Miss B. as percipient there were 27 complete successes, 112 first digits, and 50 second digits right, as against expectation of 3-4, 30 and 25. There were also 8 cases in which the digits, if reversed, would form the correct number, the expectation being here, too, of course, 3-4.
+
+In a series with agent and percipient in the same room the successes were 26 out of 146 trials, the first digits right 53, and the second, 47, as against expectation of 1-2, 16, and 15.
+
+It is important to notice how strongly this tells against any possible transmission by ordinary means. The complete successes were, it is true, more numerous than when the agent was in another room, but so were the right second digits, and the causes which led to the change were not difficult to discover. When the agent and percipient were in different rooms, the guess was not communicated to the agent, who then may have failed to devote special attention to the second digit; this he would however, naturally do, if he were in the same room, and knew that one digit had been correctly guessed or that a guess had been made.
+
+In all these trials in different rooms, the distance between agent and percipient was inconsiderable and
+
+FAILURES 7J
+
+varied from 10 to 17 feet. It was indeed sufficient in the opinion of the experimenters to make the words of an ordinary conversation inaudible, but it was considered desirable to try a series in which the distance was sufficient to make auditory indication impossible. Unfortunately, the success in 400 trials was practically nil, and for this no sufficient cause could be discovered other than the effect of distance on the imagination by the agent or percipient. This may be a vera causa so far as it interferes with the concentration of attention, but how far a concentration of attention is necessary or desirable in either agent or percipient we do not know; consequently this explanation is hardly satisfactory. The complete failure in this series cannot but cast some doubt on the results in those experiments where auditory communication was not impossible, for, as will be seen later, in other cases, distance does not seem to have had an exceptionally disturbing influence on the trials. On the other hand, auditory transmission, exceedingly easy in the case of numbers, is exceedingly difficult in the case of diagrams and pictures, whether we suppose the indications to be given unconsciously or as a result of collusion between agent and percipient. The force of the argument from failure will be much diminished if the same results are found in a series where transference of pictures was aimed at.
+
+Among the other experiments was a series, useless, of course, for exact numerical estimation of the relation of the results to expectation, in which indications, other than verbal suggestion, were apparently impossible, and where, so far as can be seen from the records, verbal suggestion was excluded; it showed an extraordinary disproportion between the results attained when agent and percipient were in the same and in different rooms. 1 In the first case, the successes were 31 out of 71 trials, of which 13 were blanks and resulted in no impression, in the second, the failures were 44 out of 55 trials, the successes 2, and the blanks, g. 2 It is therefore fairly clear that unless we assume the causes of success to have been different in the two kinds of experiments, it must either be shown that the agent or some person acquainted with the details of the picture gave, either consciously or unconsciously, sufficient indications to guide the percipient, and that these indications, which were not detected by the experimenters whose business it was to do so, were either sufficiently definite to prevent the percipient from starting with a wrong idea and developing it along lines which would result in the failure of the experiment, or were of a character to check a mistaken development and bring the ideas
+
+1 As to a possible cause of this, see p. 76.
+
+2 Proc. S.P.R. viii. $6.
+
+of the percipient, in the first case erroneous, into line with those of the agent.
+
+The slow emergence of the idea in some of the successful trials and the unpromising fragments from which the final picture, built up from various elements previously seen, was constructed, seem to weigh heavily against the idea of either collusion or unconscious indication. Take for example the fourth experiment with Miss B., 1 when the subject was a Christy Minstrel with a banjo. The first thing described by her was, " something long, something round in that one — a little cage of some sort — something that looks like a cage; yet there's something like a handle. A can ! Oh, it's a can ! It's quite clear now." Subsequently she described a hand, a black hand, and then, although the subject had not meanwhile been mentioned, in the course of the next experiment, she went on, " a man, black; he's got something in his hand — an instru-ment — sort of guitar thing."
+
+It is, of course, possible to argue that conscious collusion may simulate anything, and that consequently we have only to deal with an ingenious mystification. But a sceptic who takes this view would probably find it difficult under similar conditions, to produce by this means anything equally effective. As regards unconscious indications the 1 Proc. S.P.R, viii., <6i.
+
+same holds good, and in this case the additional fact of the circuitous route by which the final result was reached is also in want of explanation. The slow emergence of the correct impression has been so often paralleled in my own experiments, where I am satisfied there was no collusion, I myself being in many cases the agent, and where collusion, and still more unconscious indication implied a so much greater possibility of communicating a picture, or still more a nondescript diagram, difficult to paint in words under any circumstances, than experience seemed to admit, that this explanation does not commend itself to me.
+
+There are, however, two points in which the conditions seem open to criticism. In the first place the picture to be transferred was selected, not drawn at random from a number previously prepared. There was, therefore, a certain scope for the working of association, though it would be unwise to attach great importance to this element. More important is the fact that the agent, in order to maintain the concentration of attention and ensure a due distribution of it over all parts of the picture, was permitted to make a pencil sketch of the picture to be transferred. In the case of a complicated object, this can hardly have affected the result to any great extent, so far as one can see. Still, in view oi our ignorance of the limits of hyperaesthesia, possible
+
+indications of this sort would have been better avoided. In a series of experiments with cards designed expressly for the purpose of seeing how far the audible indications of the pencil could be interpreted, I found the proportion of successes rose, when the card to be guessed was recorded before, instead of after, the guess. 1
+
+Numerous other experiments, references to which will be found in the bibliography, were tried in the ten years from 1882 to 1892; and the results were so far conclusive that telepathy was regarded as an established fact, not only by the Society itself, or rather by its individual members, but also by the world at large, so far as daily and, to a large extent, weekly journalism is concerned. This attitude would perhaps have been justified if the same or other experimenters had succeeded in producing a steady flow of experiments with results distinctly above expectation, even if they did not attain the high level of the Brighton series. This was, however, by no means the case, and so long as the Society fails to produce evidence of this nature, so long will the world be justified in a sceptical attitude, and so long can it be said that one of the main objects of the S.P.R. remains unattained.
+
+1 As the recorder was also the agent, it is possible that the mere act of writing down the card facilitated thought transference. I was unable to make a sufficiently extended series to form an opinion on the point.
+
+G
+
+CHAPTER VI
+
+Experiments at a distance — Transference of images — Telepathic hallucinations
+
+Although comparatively little evidence has been published, it would not be fair to pass over the trials at a distance. It is manifestly impossible to object to the conditions under which such experiments are tried, provided the diagrams are sufficiently varied and selected at random. The experiments of the Rev. A. Glardon, Miss Despard, and others are worthy of note and seem difficult to explain by any theory of chance coincidence. It should, however, not be forgotten that the series were comparatively short — a defect that could be readily repaired, if it were once realized that the evidence for telepathy is far from being complete, while the laws, if any, that govern its manifestations, and the mode in which ideas are transmitted, are hidden in the deepest mystery.
+
+Miss Despard tried her experiments in the summer of 1892 with a friend of hers, Miss Campbell, with whom she had tried a successful series of experiments at close quarters a few months previously. The
+
+conditions of the experiment were recorded in writing beforehand; after the trial the percipient recorded her impression at once and before hearing from the agent. The first experiment was as follows: — x No. 1. June 22, 1892.
+
+Arranged that R. C. Despard should, when at the School of Medicine in Handel Street, W.C., between the hours of 11.50 and 11.55, nx her attention on some object which Miss Campbell, at 77, Chesterton Road, W., is by thought transference to discover.
+
+Percipient's Account.
+
+Owing to an unexpected delay, instead of being quietly at home at 11.50 a.m., I was waiting for my train at Baker Street, and as just at that time trains were moving away from both platforms and there was the usual bustle going on, I thought it hopeless to try on my part; but just while I was thinking this I felt a sort of mental pull-up, which made me feel sure that Miss Despard was fixing her attention, and directly after I felt " my compasses — no, scalpel/ 5 seemed to see a flash of light as if on bright steel, and I thought of two scalpels, first with their points together and then folding together into one; just then my train came up.
+
+I write this down before having seen Miss Despard, 1 Podmore, Apparitions, p. 127.
+
+so am still in ignorance whether I am correct in my surmise, but, as I know what Miss Despard would probably be doing at ten minutes to twelve, I feel that my knowledge may have suggested the thought to me, though this idea did not occur to me until just this minute, as I have written it down.
+
+C. M. Campbell. 77, Chesterton Road, W.
+
+Agent's Account.
+
+At ten minutes to twelve I concentrated my mind
+
+on an object that happened to be in front of me at
+
+the time — two scalpels, crossed, with their points
+
+together; but in about five minutes, as it occurred
+
+to me that the knowledge I was at the School of
+
+Medicine might suggest a similar idea to Miss
+
+Campbell, I tried to bring up a country scene, of a
+
+brook running through a field with a patch of
+
+yellow marsh marigolds in the foreground. This
+
+second idea made no impression on Miss Campbell
+
+— perhaps owing to the bustle around her at the
+
+time.
+
+R. C. Despard.
+
+No. 2. October 25, 1892.
+
+At 3.30 p.m. R. C. Despard is to fix her attention on some object, and C. M. Campbell, being in a different part of London, is by thought transference to find out what the object is.
+
+Percipient's Account.
+
+At 3.30 I was at home at jj, Chesterton Road, North Kensington, alone in my room.
+
+First my attention seemed to flit from one object to another, while nothing definite stood out, but soon I saw a pair of gloves, which became more definitely distinct till they appeared as a pair of baggy tan-coloured kid gloves, certainly a size larger than worn by either R.C.D. or myself, and not quite like any of ours in colour. After this I saw a train going out of a station (I had just returned from seeing some one off at Victoria), almost obliterated by a picture of a bridge over a small river, but I felt that I was consciously thinking and left off the experiment, being unable to clear my mind sufficiently of outside things.
+
+Agent's Account.
+
+At 3.30 on October 25 I was at 30, Handel Street, Brunswick Square, W.C. C.M.C. and myself had arranged beforehand to make an experiment in thought transference at that hour, I to try to transfer some object to her mind, the nature of which was left entirely unspecified. I picked up a pair of rather old tan-coloured gloves — purposely not taking a pair of my own — and tried for about five minutes to concentrate my attention on them and the wish to transfer an impression of them to
+
+C.M.C.'s mind. After this I fixed my attention on a window, but felt my mind getting tired, and therefore rather disturbed by the constant sound of omnibuses and waggons passing the open window.
+
+R. C. Despard.
+
+October 25, 1892.
+
+A month later Miss Campbell wrote, giving some further details as follows: " With regard to the distant experiments, the notes sent to you were the only ones made. In the first experiment (scalpels), I wrote the account before Miss Despard's return, and when Miss Despard returned, before seeing what I had written, she told me what she had thought of, and almost directly wrote it down.
+
+" In the second experiment (gloves) I was just going to write my account when Miss Despard returned home, and she asked me at once, ' Well, what did you think of? ' I told her a pair of tan gloves, then sat down and wrote my account, and when she had read it through, she said, ' Yes, you have exactly described Miss M.'s gloves, which I was then holding while I fixed my attention on them,' and then she wrote her account."
+
+As has been pointed out above, these experiments are too few in number to give much security against chance successes. Moreover, as Miss Campbell points out, the object in the first case was by no
+
+means above suspicion. The trials are also open to some objection on the ground that the notes of the experiments were not made at the earliest possible moment. With feminine caution, the experimenters refrained from recording their own share until they had some assurance that the trial had not been a failure. It is very probable that this little peculiarity made absolutely no difference to the record; but where so much depended upon the form and the words, it would have been wiser to write down all the facts worthy of being recorded as soon as the experiment was finished. Addenda can readily be made and noted as such. It need hardly be said that the objection to record failures, if this was the real reason for the procedure under discussion, is fatal to the value of the experiments; where there is any reason to suppose that only successful trials are recorded, we have no data for estimating the proportion of failures. In the present case, however, the two experiments quoted seem to have been the only ones made at a distance.
+
+In the same year, Mr. Kirk and Miss G., who had two years previously tried a series of twenty-two with but moderate success, renewed their attempts, and out of the seven experiments tried, two were of a distinctly striking character. 1 The -fourth trial of the series was on May 1. Miss G.'s im_ 1 Podmore, loc. cit. p. 133.
+
+pressions were recorded in part the same night, in part the following morning before she saw Mr. Kirk. She saw " a broken circle, then only faint patches of light, not cloudlike but flat, which alternated with vertical streaks of pale light." This part of her record, written on the same evening, seems to refer to the first part of Mr. Kirk's experiment. Later she had, " soon after lying down last night, a rapid but most realistic glimpse of Mr. Kirk leaning against his dining-room mantelpiece; the room seemed brightly lighted, and he looked rather bothered, and just as I saw him he appeared to say, ' Doctor, 1 I haven't got my pipe.' This seemed to me very absurd, the more so as I do not know whether Mr. Kirk ever smoked a pipe. I see him occasionally with a cigar or cigarette, but cannot remember ever having seen him with a pipe; if I have, it must have been years ago. I do not know whether my eyes were open or closed, but the vividness of the impression quite startled me. This occurred just after the expiration of time appointed for experiment (10.45-
+
+n.15)."
+
+After seeing this report, Mr. Kirk, who of course did not record at the time what he supposed to have had no connexion with his experiment, wrote as follows: " The fact that I had another experiment
+
+1 A familar name given to Miss G. by Mr. Kirk and his wife.
+
+to make [i.e. after the trial with Miss G.J enables me to trace minutely my actions before beginning it. Immediately the time had expired with Miss G. I got up [from the low chair] and rapidly lit the gas and three pieces of candle, which I had ready in the cardboard box cover, to illuminate the diagram. The room was therefore brilliantly lighted. I now rested with my right shoulder against the mantelpiece, with my face towards Miss G. [i.e. in the direction in which she was, for she was not in the same house], but with my eyes bent on the carpet. In this position I thought intensely of myself and the whole room, and feeling really anxious to make a success, for at least six minutes. By this time my shoulder was aching very much from the constrained attitude and the pressure on the mantelpiece. I broke off, using words [talking to myself] very similar to those given by Miss G. What I muttered, as nearly as I can remember, was, ' Now, doctor, I'll get my pipe/... Until within the last few weeks I have not smoked a pipe for many years, and I do not think it probable that Miss G. has ever seen me use one; but it is an absolute certainty that she was not aware I had taken to smoke one recently."
+
+There are certain obscurities in this statement; for instance, it seems that, although Mr. Kirk speaks of the time with Miss G. being up, he was
+
+go THOUGHT TRANSFERENCE
+
+intent on trying another experiment with her. This experiment seems to have been with a diagram, but it is not clear whether it was being tried while Mr. Kirk was leaning against the mantelpiece, or subsequently, or not at all. It is likewise not obvious why Mr. Kirk thought of himself and the room, unless that was part of an experiment; but from the fact that he did not record it until after reading Miss G.'s record, we are bound to suppose that he did not regard it as such. However this may be, the coincidence between the position and actions of Mr. Kirk and the vision which Miss G. records is sufficiently striking to excuse a good deal of obscurity.
+
+In the experiment just quoted, the scene visualized by Miss G. was the scene which was actually in Mr. Kirk's mind at the time. But in its inclusion of an hallucinatory figure of the agent himself, the experience stands nearly on the borderline between
+
+\ the experimental thought transference, which is the
+
+\ subject of the present volume, and the spontaneous
+
+i telepathy, the main evidence for which is based on
+
+records of apparitions at or near the moment of
+
+; death, which will form the subject of a separate
+
+f volume.
+
+The other experiment of Mr. Kirk's which will be quoted also stands near the spontaneous class, in that the object of which Miss G. became aware,
+
+though consciously in Mr. Kirk's mind, was not what he was trying to transfer; in fact, he was actually trying to banish the thought of it from his mind, thinking that it would interfere with the success of the experiment. In this case the impression which Mr. Kirk seems to have transmitted was recorded by him before reading Miss G.'s record, so that this report is, in that respect, more satisfactory. On the other hand, there is less detail in this experiment, and it is consequently less evidential.
+
+Mr. Kirk's report, after describing an attempt to transfer an image of the room (this was evidently suggested by the success of the previous week, and a success would therefore have been discounted by the possibility of " mental convergence") and of an imaginary witch, runs as follows: " Continued to influence her some minutes after limit of time for experiment (11.30 p.m.). During this time I was much bothered by a subcurrent of thought, which I in vain tried to cast off. In the morning, just before time to get up, I had a vivid dream of my lost dog, Laddie (lost, it appears, six years previously, but still the subject of dreams and occasional conversation). I dreamt that the dog had returned, and that my wife, Miss G. and myself made much of him. I thought of him all day, and tried to suppress the thought, fearing it would interfere with the
+
+92 THOUGHT TEANSFERENCF
+
+success of the experiments; feel worried and irritated at this, being really anxious to make an impression. Do not expect favourable result. Written same night. J. K."
+
+Miss G.'s report was as follows: —
+
+" Experiment last night (9.5.92) most unsatisfactory. Saw only a glow of light, and once for a few minutes a figure (of a vase). Some minutes after 11.30 (the time for conclusion of experiment) it seemed as if the door of my room were open, and on the landing I saw a very large dog, moving as though it had just come upstairs. I cannot conceive what suggested this, nor can I understand why I thought of Laddie during time of experiment. I do not think we have mentioned him recently. L. G."
+
+It does not appear why Miss G. regarded this experiment as specially unsatisfactory. If a vase had been the object selected, there would have been no reason for dissatisfaction, and similarly if Laddie had formed the subject of the designed trial, there would have been no reason for feeling surprise at his appearance or recurrence to the mind during the experiment; it is clear that Miss G. had no assurance that a vase and Laddie were not the subjects selected. Consequently, her dissatisfaction and surprise are not easily accounted for. Although the success was rather spontaneous than experimental, it was attained during the course of an
+
+arranged experiment, and falls therefore as much under the one head as the other, though such a success could not, it need hardly be said, be included in a tabular statement of the proportion of successes to failures.
+
+Although from an evidential point of view somewhat unsatisfactory, the agent having been illiterate and apparently unable to record her experiments independently, some experiences of Dr. Gibotteau's are perhaps worth recalling here, not only as being interesting in themselves, but because of the close connexion of some of the alleged powers of the agent with the feats attributed all the world over to warlocks and wizards. Her mother had a reputation for sorcery, and Bertha herself claimed to be able, by the exercise of her will, to make people at a distance from her stumble, lose their way, or turn aside from a given path. We are not immediately concerned with these matters here; they will perhaps form the subject of another volume of the series. Three of the most striking of the experiments 1 recorded by Dr. Gibotteau resulted in one case in a visual impression alone, in one case in a visual and emotional impression, and in one case in an emotional impression alone. One night he woke up, an almost unique experience for him, at 3 in the morning. He at once thought to 1 Ann. des Sciences Psychiques, vol. ii.
+
+himself that he was the subject of an experiment, and on opening his eyes he saw opposite him on the wall a luminous patch, and a bright object as large as a melon in the middle. The following morning, it appeared, on questioning Bertha, who came to the hospital where Dr. Gibotteau was engaged, that she had made three attempts to influence him, the third being to make him see a lantern. His impression corresponded very exactly to the selected object.
+
+On another occasion she resolved to frighten him, and chose a skeleton, of all things in the world, as an object likely to have this effect on a hospital doctor. Although he did not see or think of a skeleton, which would probably have failed in its intended effect, he had, on arriving home about midnight, a most uneasy feeling; and, although he was quite aware that it was what he called " one of Bertha's tricks,' 1 the valiant M. Gibotteau ran up to bed and put his head under the bed clothes in the briefest space possible. On another occasion Dr. Gibotteau and a friend left Bertha near her home and drove back to the Quartier Latin in a carriage which seems to have taken a somewhat devious route. On the way Dr. Gibotteau again felt an unreasoning terror, and on getting out of the carriage at the corner of the " Boul. Mich " his friend reported that he had an hallucination of
+
+something white floating before him. The following day Bertha was able, according to the report, to state that the driver had lost his way, that Dr. Gibotteau had felt afraid of nothing at all, without reason, and that they had seen some white pigeons floating round them.
+
+The successes of Mr. Kirk and Bertha differ markedly, it should be observed, from those hitherto dealt with. In the Sidgwick experiments, it is true, pictures were externalized and seen projected on a card. But in the cases now under consideration we are dealing with full fledged hallucinations. Cases of this sort are sufficiently rare, and it is a matter for regret that more experiments in this direction do not seem to have been tried.
+
+We have seen that Mr. Kirk, on one occasion, is recorded to have formed part of a vision. The hallucinatory dog, on the other hand, appeared to move among the objects in the vicinity of the percipient, and in this respect resembled the hallucinations commonly termed ghosts.
+
+The recorded phenomena are, it may be noted, connected with the so-called materializations of the spiritualists, so far as they are not, as is unfortunately frequently the case, of more mundane origin, or, in other words, merely the medium dressed up to act the part. In this connexion it may be of interest to quote an early account by a good
+
+witness, or rather recorder, of an apparent case of materialization. Some two hundred and twenty years ago Sir John Reresby was governor of York. An old woman had been arraigned at the assizes as a witch, and was confined in Clifford Tower, York Castle. One of the soldiers who was on guard went to the porch to see what was causing a disturb-ance, and saw by the light of the moon a scroll of paper creep from under the door. This scroll then, he assured Sir John, transformed itself into a monkey, and finally turned into the shape of a turkey-cock, which passed to and fro before him. Surprised at this, as well he might be, he went to the under-keeper, and called him. The under-keeper, according to the narrative, saw neither turkey-cock nor monkey, but only the scroll of paper dancing up and down. Both witnesses seem then to have seen the scroll creep under the door again, though the space between the door and the ground was no greater than the thickness of half a crown. 1
+
+If this account can be depended on, it presents many curious features. Not only was the sentinel the subject of an auditory as well as of a visual hallucination, but the visual hallucination under-went an interesting series of changes, and finally reverted to its pristine form, for all the world like
+
+1 Reresby, Memoirs (London, 1734), p. 237.
+
+the poodle in Faust. The hallucination was shared by a second witness, who had, we may suppose, received an account of the apparition from his comrade, and was consequently prepared to see a turkey-cock, and this witness, instead of accepting the suggestion of his fellow, saw the hallucination in its original form. So far as can be seen, the sentry also saw no more of the monkey and turkey-cock, but shared the hallucination of the dancing paper. Finally, both saw it disappear in the way it had come.
+
+The imagination will play many tricks, and it is conceivable that the second and third forms of the sentry's hallucination were due solely to his imagination. This seems, however, an unnecessary refine-ment of theory, for he clearly had an hallucination of some sort, unless we suppose that both he and the under-keeper were the victims of an exceedingly ingenious trick, the mechanism for which would hardly be within the reach of a prisoner, and an old woman to boot. Unfortunately, Sir John Reresby was guiltless of a knowledge of psychical research or telepathy, or any other idea than that the story must either be a lie or literally true. Accordingly, he did not interrogate the witch, and thus perhaps missed the opportunity of handing his name down to posterity and the S.P.R. as the first man to record in due form a telepathic experience.
+
+Few such experiences seem to have been recorded^ though they were perhaps not uncommon in the ages when belief in witchcraft was universal, as may be seen by a reference to the Discourse of Witchcraft, by Fairfax, and other early detailed records of cases of alleged witchcraft. Probably one of the first instances in which experiments in this direction were tried was a case recorded by H. N. Wesermann, 1 himself the agent in the case in question and four other trials, some eighty years ago. Wesermann was a government official at Diisseldorf, and seemsto have been a careful investigator. Unfortunately, he does not record how many failures there were in proportion to the five successes which he mentions. One of the trials was singularly successful, and, though the record is not exactly in the form in which the psychical researcher of the present day would put it, the case is well worth quoting.
+
+A lady who had been dead five years was to appear to Lieutenant A. B. in a dream at 10.30 p.m., and incite him to good deeds. At half past ten, contrary to expectation, Herr A. B. had not gone to bed, but was sitting in the ante-room with a friend,
+
+Lieutenant S, discussing the French campaign.
+
+Suddenly the door opened and a lady entered, dressed in white with a black kerchief and uncovered head; she waved her hand three times to S
+
+1 Der Magnetismus und die allgemeine Weltsprache } p. 27.
+
+in a friendly manner, then turned to A. B. and nodded to him, and went out again by the door.
+
+On receiving this account from Lieutenant A. B. Wesermann was much struck by it, and wrote to
+
+the other percipient, Lieutenant S, who lived
+
+some six miles away, for his account of it, which was as follows: —
+
+" On the 13th of March, 1817, Herr A. B. came to pay me a visit at my lodgings, about a league
+
+from A. He stayed the night with me, and
+
+after supper, when we both were undressed, I was sitting on the bed and Herr A. B. was standing by the door of the next room, also on the point of going to bed.' This was about half-past ten. We were speaking partly about indifferent topics and partly about the events of the French campaign. Suddenly the door out of the kitchen opened without a sound and a lady entered, very pale, taller than Herr A. B., about 5 ft. 4 in. in height, strong and robust in figure, dressed in white but with a large black kerchief, which reached to below the waist. She entered with bare head, saluted me in complimentary fashion three times with her hand, turned to the left to Herr A. B. and waved her hand to him three times. After this the figure went noiselessly out without any creaking of the door. We followed at once to see if there was any deception, but found nothing."
+
+ioo THOUGHT TRANSFERENCE
+
+This remarkably interesting narrative is of course from the evidential point of view very defective. We do not learn what the arrangements between Wesermann and A. B. were, whether it was merely agreed that an experiment was to be tried or whether more definite arrangements were made. We must, of course, not forget that the element of suggestion would not be one with which they would reckon as a disturbing factor. Again, it is not clear whether A. B. knew the deceased lady, nor whether, if he did, he recognized her. Nor do we know whether Herr S was aware of the proposed experiment.
+
+In spite of this, the narrative is a striking one, and if a few people could be found at the present day with similar powers, it would be possible to make more rapid progress in psychical investigation. The important point of the story is that the hallucination was shared by a second percipient, who was we may perhaps assume, ignorant of the intended trial. Even if that were not so, his narrative seems to make it clear that he was unacquainted with the deceased lady. If therefore the apparition which he saw exactly resembled her — and Wesermann assures us that it did — it is immaterial whether Wesermann and A. B. had discussed the matter previously and referred to the lady in connexion with the experiment, or not. If the narratives are accurate, and the discrepancies are insignificant,
+
+the argument for telepathy can be based on the
+
+evidence of Wesermann and Lieutenant S
+
+alone.
+
+In recent years a small number of trials of a similar nature have been recorded. Some of these were published in Phantasms of the Living, 1 and, apart from an unfortunate defect in the record, one of these, tried by Mr. S. H. B., seems particularly good. 2 In 1884 he wrote to Mr. Gurney, telling him that he was going to try an experiment on March 22, and that he would try to make himself appear at midnight to Miss King, at 44, Norland Square, W., he himself being in a different part of London. From a subsequent statement it appears that he intended to try to touch the hair of the percipient, and if this detail had been mentioned in the preliminary letter, the evidence would have been as good as it could possibly be. With a regrettable lack of fore-sight, the character of the attempt was, however, not stated, and the independent evidence is thus post facto only, and given by Mr. Gurney, to whom Mr. B. stated shortly after the trial that this was one of the points which made the experiment successful in every detail.
+
+The percipient signed a statement, which her sister corroborated, saying that the details were communicated to her before hearing from Mr. B. 1 Phantasms, i. 103 sq. 2 Loc. cit, p. 108.
+
+to the effect that on March 22, at about midnight, she had an impression that Mr. B. was present in her room, and came towards her and stroked her hair. The agent was informed of the success of the experiment some days after the experiment, and took down the percipient's account, which she volunteered without prompting from him, from dictation. Experiments of this sort, evidenced by contemporaneous records, are unfortunately rare. Too many experimenters are content, like Miss Verity, to record their impressions some time after their occurrence.
+
+Another interesting case was that of the Rev. Clarence Godfrey. In 1886, after reading Phantasms of the Living, he was seized with a desire to try an experiment similar to the ones just summarized. According to his report, he never even mentioned that he proposed to try an experiment, much less that he proposed to try and appear " spiritually " at the foot of a lady's bed. In this respect his example is excellent, but it may be doubted whether it is altogether wise to try experiments of this sort without any warning. Even if propriety does not forbid to appear spiritually at the foot of the bed of a person of the opposite sex (it must be remembered that there are cases on record in which the agent seems to have been reciprocally aware of the surroundings of the per-
+
+cipient, and indeed it was to some extent the case in the present trial), care should at least be taken to discover whether an apparition of the sort described would have a bad effect on their nerves. It is very desirable to keep the evidential quality of the experiments at a high level, but it is hardly justifiable to endanger the health of one's friends in order to do so.
+
+Mr. Godfrey tried the experiment after going to bed, and kept up the effort to appear for about eight minutes, so far as he could judge. He quickly tired, and was soon asleep. In a dream he seemed to meet the lady, and at once inquired if she had seen him. The reply was, <c I was sitting beside you," and then Mr. Godfrey woke up. His watch showed 3.40 a.m.
+
+On the following day Mr. Godfrey received from the percipient, whether spontaneously or in answer to questions is not stated, an account of the incident, which was subsequently reduced to writing. It is very unfortunate that so few people understand the necessity of recording such phenomena on the spot, not only in order to guard against any failure of memory and subsequent hallucinatory recollection, such as we are all familiar with when we attempt to recall a dream a few hours after its occurrence, and find ourselves recalling not the dream itself but rather our recollection of it as we remembered when
+
+±04 THOUGHT TRANSFERENCE
+
+we told the story, possibly with some embellishment, at the breakfast table.
+
+The percipient, it appears, woke at about half past three with the impression that some one had entered her room. Experiencing a strange restless longing to leave the room, she got up and went down stairs to get some soda water. On the way back an apparition of Mr. Godfrey was seen on the staircase, dressed, not in the apparel which he actually had on at that moment, but in his usual clothes. He stood there for some seconds, and the percipient, according to her narrative, was satisfied with a very short look, and then went on upstairs, whereupon the figure vanished.
+
+Two other trials were made by the same experimenters, one of which was a failure, being tried under unsuitable circumstances. The other was a success, though less striking perhaps than that in the first experiment.
+
+Striking as the experiments recorded in this chapter are, they are not very numerous. In order to be evidential, such experiments require to be recorded with the most rigorous exactness, by preference, indeed, by an independent observer, who can keep his mind to the question of evidence and record details which the agent or percipient might in their absorption in their experiment fail to observe or record. The importance of this is seen
+
+in the first Kirk case, where none of the facts were recorded at the time, though Mr. Kirk himself evidently had the idea of some sort of experiment in his mind.
+
+Not only must the record be exact in case of the successes; it must also not fail to record the failures. It is indeed desirable, where such experiments are being tried, for a record of the intended trial to be sent to the S.P.R. or other body that can be trusted to preserve it, and then for each party to the trial to post their reports immediately after the trial, making such additions as may seem necessary at a later date. The faculty is probably a rare one, and perhaps not one per cent, of the total number of trials would show any result. Given, however, an agent and percipient who do achieve some measure of success, and their percentage may reach seventy or eighty per cent. The case for telepathy will then, it is clear, not rest on the proportion between the total number of trials and the total number of successes, but on the proportions in the trials by the more gifted experimenters, always provided that their series are sufficiently long to exclude chance coincidence as a probable cause.
+
+CHAPTER VII
+
+Telepathic Hypnotism — Telepathic Dreams
+
+Although, properly speaking, the production of trie hypnotic state by means of mental suggestion does not fall within the limits of a work dealing with thought transference, inasmuch as it cannot be alleged that any idea is, or appears to be, transferred, the subject of the induction of sleep, either at a distance or from close quarters without verbal or other means which influence the patient through the ordinary channels of sense, is sufficiently ger-mane to the subject under discussion to make an outline of some of the more important experiments desirable at this point.
+
+It has already been pointed out that some of the magnetizers detected, or believed that they detected, what they termed community of sensation between the operator and his patient. Many of these early experiments are, however, of little value evidentially, for the very simple reason that suggestion was unrecognized in the days when all the phenomena were put down to the passage of a magnetic fluid. Even in the case of experiments in our own day
+
+when this source of error is sufficiently well known, we cannot always be sure that it is sufficiently guarded against, when the operator and patient are in close proximity. Apropos of the clever horse Hans, whose performances have puzzled the scientific men, or some of them, of Germany, a story has been told of a dog belonging to Sir William Huggins. This dog, either with or without training, it was not quite clear which from the narrative, gained the power of interpreting its master's unconscious indications so great that it was able to select from a pile of letters the one chosen by him, even though he stood behind the dog and out of its sight, the explanation being that when the dog in trying letter after letter arrives at the right one, the subtle change in the respiratory movements of its master, or some equally recondite source of information, give it the necessary clue. The thinking horse's performances are, of course, on a different plane. There can be no doubt that he had been deliberately trained to take cognizance of the signals of his master. The only remarkable point about the affair is that any ordinarily acute man should have been puzzled by the trick; much more a man of science from the Fatherland, some of whose sons make it their boast that " psychical research and all that humbug " may find a home in England, but never for a moment imposes on
+
+io8 THOUGHT TRANSFERENCE
+
+the more acute Teutonic man of science. About this, however, it is possible to hold another opinion. 1
+
+If a mere dog can thus seize the clues unconsciously given and deal with matters which it does not in the least comprehend, like letters and numbers, it is clear that human beings may far more readily pick up slight indications, the interpretation of which will enable them to carry out the will of the operator in matters of which they are fully cognizant. While, therefore, it by no means follows that all experiments carried out when the agent and patient are within earshot of each other are necessarily subject to this criticism, it is clear that their evidential quality must be inferior to others, equally good in results, carried out when agent and patient are so far removed as to make appreciation of the wishes of the agent a greater miracle if it is due to the operation of the ordinary senses than it would be if it were due to that other means of communication to which the name of telepathy is given.
+
+Fortunately, there is more than one well-attested case of the induction of hypnotic sleep under due precautions by operators of reputation in the world
+
+1 Since the above was written a committee has reported that there is no evidence of anything beyond quick apprehension of his master's signs on the part of the horse. The two committees seem to have been independent.
+
+of science, when the distance between agent and patient was such as to make the hypothesis of ordinary sense transmission absolutely absurd. The first of these is the case of Madame B.,a French peasant woman, on whom Dr. Gibert of Havre and Dr. Pierre Janet tried experiments in 1885 and 1886, some of them in the presence of members of the Society for Psychical Research.
+
+Before describing the experiments in question, it may be well to say that the patient had shown herself remarkably susceptible, and that there were indications that the hypnotic state was produced rather by the operator's will than by any of his acts, even when he was in her presence and actually in contact with her. Dr. Janet remarks, for example, that " it was necessary, in order to entrance Madame B., to concentrate one's thought intensely on the suggestion to sleep which was given her; the more the operator's thought wandered, the more difficult it was to induce the trance. This influence of the operator's thought, however extraordinary it may seem, predominates in this case to such an extent that it replaces all other causes. If one presses Madame B.'s hand without the thought of hypnotizing her, the trance is not induced; but, on the other hand, it is possible to send her to sleep by thinking of it without pressing her hand.
+
+no THOUGHT TRANSFERENCE
+
+For the reasons mentioned above, this class of experiment is hardly conclusive, and can never be made conclusive, however careful the experimenters may be. A fortiori is it impossible to record the experiments in such a way as to make it clear to the reader that the precautions taken were sufficient. When we essay experiments at a distance, however, the case is otherwise. Not only are the necessary precautions far simpler, but there is never any necessity for hurry. The observers can record at their leisure, and the attention to detail thus rendered possible should put an ordinarily intelligent reporter in a position to make clear to his readers exactly what happened. It is impossible here to give the experiments in detail. Those who desire to judge of the precautions taken, and of the completeness of the record, must refer to Prof. Janet's paper on the subject in the Revue Phil. (Aug., 1886), or to the account in the Proc. S.P.R. (iv. 127, sq.).
+
+It may be mentioned that the distance between the operator and the subject was n no case less than a quarter of a mile, sufficient, one may imagine, to exclude the operation of suggestion through the ordinary senses. One determined opponent of telepathy, however, has been found to suggest, either in this or in a similar case, that the subject became aware of an attempt to hypno-
+
+TELEPATHIC HYPNOTISM in
+
+tize her, because the mental concentration on the part of the operator increased the arterial tension in his circulatory system, and that though the distance between operator and subject was at the east several hundred yards, such was the state of hyperaesthesia in which the latter, for no reason assignable, had been brought, that she was able at that distance to hear the change in the throb of the agent's arteries, and from the change to infer that he was trying to hypnotize her. Of a truth science has her miracles, especially when some obnoxious fact has to be explained in some respectable manner. Not the least miracle is that any sane man should be found to suggest that such a state of hyperaesthesia may exist and yet not be detected by trained physiologists who are con-ducting the experiments. The state of mind of such a critic is only comparable to that of the insurance company's expert who assured the courtin a disputed case, that slipping on a piece of banana skin was evidence of a dangerous mental state, and that the policy of an assured person who made a claim for an accident of a different kind should be held to be invalid, because he had concealed from the company, at the time of effecting his insurance, that he had once sprained his knee through slipping on a piece of banana skin. As a disproof of the hypothesis of accidental
+
+ii2 THOUGHT TRANSFERENCE
+
+coincidence, it may be mentioned that Madame B. only twice, so far as is known, fell into a hypnotic trance spontaneously during several weeks that she was under observation; not only so, but on one of these occasions it was clear that it was only a relapse into a hypnotic trance from which she had been insufficiently awakened; in the other case she entranced herself by looking at the picture of her hypnotist, Dr. Gibert, which is very far indeed from being a case of ordinary spontaneous trance, especially if, as^is possible, Dr. Gibert had ever entranced her by the method of staring at her.
+
+In all, from October, 1885, to May in the following year, twenty-five experiments were tried. Of these nineteen only were reckoned as successes, though in several other cases there was a more or less marked influence on the patient. As a typical case may be quoted the experiment of April 24, 1886, as described by F. W. H. Myers: "On April 24 the whole party [consisting of F. W. H. Myers, A. T. Myers, Dr. Gibert, Prof. Janet, Dr. Ochorowicz, and my late friend, L6on Marillier] chanced to meet at M. Janet's house at 3 p.m., and he then at my (i.e. F. W. H. Myers's) suggestion entered his study to will that Madame B. should sleep. We waited in his garden, and at 3.20 pro-ceeded together to the Pavilion (where Madame B. resided with a sister of Dr. Gibert's), which I
+
+entered first at 3.30, and found Madame B. pro-foundly sleeping over her sewing, having ceased to sew. Becoming talkative, she said to M. Janet " C'est vous qui m'avez commande." She said she fell asleep at 3.5 p.m.
+
+From this narrative it is clear that the selection of the time was in the hands of an entirely independent person. It would, of course, be ridiculous to suppose that Prof. Janet was in collusion with Madame B., but experience of the foolish objections urged against apparently perfect experiments teaches one to meet every possible and impossible criticism. The party having met by chance, there was no possibility of M. Janet's having accidentally communicated to Madame B.; that they were likely to meet at the hour of 3 p.m.; consequently auto-suggestion on her part seems to be excluded. Bearing in mind the remarkable appreciation of time by hypnotized subjects, to which the experiments of Dr. Milne Bramwell bear such conclusive testimony, we may fairly conclude that the hour given by Madame B. as that at which she was entranced was nearly correct. The only criticism possible, and that affects only a very minor item of the case, is that Madame B. may have gone to sleep earlier or later instead of at almost exactly the time at which Prof. Janet willed her to go to sleep, and that her mention of
+
+I
+
+ii4 THOUGHT TRANSFERENCE
+
+the hour of 3.5 was due to a suggestion somehow conveyed unintentionally by one of the party — a thing improbable in itself, and almost certain to have attracted the attention of one or other of the trained observers who made up the party. It might indeed also be objected that Madame B. was only simulating sleep; but against this hypothesis must be put the testimony of men of great experience in such matters that she was really entranced. It might also be objected in the particular case under discussion that she may have observed the approach of the party, and that this operated as a suggestion. But in reply to this it suffices to point out that she named as the hour when she entered the trance a period before the party had come in sight of the Pavilion, or even left the garden of M. Janet's house; and secondly, that she was in some of the experiments kept under observation by some of the party, so far as possible without disclosing their presence to her for fear of the knowledge that she was being observed operating as a suggestion or otherwise interfering with the success of the experiments, and that the suggestions of the distant operator were carried out under circumstances which preclude the possibility of their having been in some way transmitted by one of the observers through the ordinary channels of the subject's senses.
+
+This successful series of experiments was followed by another in the autumn of the same yean in which the measure of success was far less, though still considerably above what could be attributed to chance coincidence. A summary of the results will be found in the Proc. S.P.R., v. 43-45. Though the diminished number of successes, to some extent, lessens the evidential value of the whole series, it should not be overlooked that, if telepathy is a fact, such variation is exactly what might be expected. Both portions of the whole series being above expectation, it cannot be contended that later failures cause the argument founded on the earlier results to fall to the ground.
+
+The argument for mental suggestion from the facts of hypnotism apparently at a distance gains much force from a series of extraordinarily careful experiments on the same subject, tried by Prof. Richet in Paris with the same subject, whom he designates by the name of Leonie. These trials are discussed by M. Richet with great acuteness and absence of bias in Proc. S.P.R.,v. 18 sq., and although he only claims that two of his nine trials were successful, and four partially successful, his canons of evidence are so high that this proportion is sufficiently striking. Prof. Richet's narrative is an exact resume of his notes made each day immediately after each experiment, and cannot
+
+n6 THOUGHT TRANSFERENCE
+
+be abridged without diminishing its value as evidence; I therefore refrain from reproducing them here, and merely refer my readers to M. Richet's own words —
+
+"It is important to notice that in all these experiments the trance not infrequently supervened some time after the operator willed it; on the other hand, there is not a single clear case where the patient was entranced too soon, and on the few doubtful cases no stress can be laid. In considering the possibility of coincidence and auto-suggestion this feature is of much importance."
+
+In a work dealing with telepathy the subject of dreams cannot be entirely neglected, though evidence drawn from them is, in more than one respect, less satisfactory than that drawn from experiences in the normal waking state or the hypnotic sleep. In the first place, dreams are extraordinarily numerous and varied. There is therefore a great danger of improper selection. Even where any one sets him or herself to experiment systematically there is always the possibility that they have had several dreams on one night, or, it may be, a multitude of dreams on one night, for there is no way of finding out how much we dream except by recalling them in our waking hours, and we have no assurance that the dreams recalled when we wake are more than a small proportion of the whole
+
+number which an automatic record, if such a thing were possible, would have shown to have passed through our minds, or that part of them which is occupied in producing dreams. Now the evidence for telepathy is not likely, in the long run, to be over-estimated, so far as it is based on results with dreams, for we can readily secure that there shall be no undue selection in the way of recording only those dreams which show a connexion with the selected subject. All that is necessary is for the dreamer to record before hearing from the agent all available data with regard to the dreams, and for no subsequent modification of the recollection of the dreams to be allowed any weight.
+
+But, on the other hand, the evidence for telepathy may easily be under-estimated. If A is in the habit of dreaming ten times each night, we may assume that an attempt at mental suggestion will only influence a certain proportion of these at most, possibly only one. Now, if A has a telepathic dream every night, but habitually forgets nine out of his ten dreams, he will recall his successful telepathic dream only once in ten nights; the result of this will be that the experiments will show only one-tenth of the proportion of successes which were, as a matter of fact, attained. The difficulty may indeed be, to some extent, overcome by a suggestion from the agent that the dream to be
+
+ri8 THOUGHT TRANSFERENCE
+
+remembered is the dream telepathically induced; and if telepathy is a fact this should operate to diminish the cause of failure, or apparent failure, just alluded to. Even then, however, we cannot be sure that the statistics are not erroneous. Experiments in which the subject cannot recall his experiences with accuracy, nor yet describe them at the moment of their occurrence, can only occupy a subordinate place in the psychical scheme. Not only is it difficult to make sure that all dreams are recalled, but it is even more difficult to recall the details even of those dreams which we know to have occurred. At the moment of waking perhaps they are, or seem to be, fresh in our memories, but almost before we have got pencil and paper to note them down they are gone. Sometimes they are revived again in the evening. We all (or if not all, at any rate many of us) know that an inebriated subject will sometimes, like a somnambulist, take an object and put it away; in his sober moments he quite fails to recall the fact, or if he recalls it, he forgets the locality in which the object is deposited. It is possible, however, to reawaken his memory of the incident by reducing him again to a state of inebriation. The same thing perhaps occurs, though to a less noticeable extent, in our transition from wakefulness to sleep, and vice versa. The facts of the dream, remem-
+
+bered in the morning before we are fully awake, are recalled at night when we reach the same stage of sleepiness. But this naturally does not help us to record the dream; the cause which prevented us from doing so in the morning is there in the evening, and there is the additional difficulty that we are probably resigned to getting up in the morning, whereas in the evening we are very far from being anxious to rouse ourselves.
+
+Here too, perhaps, suggestion might be useful. So far as I know, no experiments of any importance in this direction have been tried, but it would be interesting to see how far suggestion succeeds in recalling to the ordinary person the dreams which have passed through his mind a few hours previously, only to be forgotten as soon as the full stream of waking consciousness begins to flow.
+
+Many coincidental dreams have, of course, been recorded. With them, however we are not concerned. We have only to deal with the cases in which the dream was or appeared to be the out-come of a pre-arranged experiment. Allusion has already been made to the striking experiment recorded by Wesermann, and it will be recollected that the experiment was to have resulted in a dream of the lady whose apparition was seen by the two officers. The four other cases recorded by Wesermann are also of the same class, and in
+
+their case nothing interfered with carrying out the trial as originally arranged. We have, however as remarked above, no certainty that Wesermann recorded his failures as well as his successes, and this virtually invalidates his narrative from the point of view of evidence, so far as the dream cases are concerned; the apparition is, of course, in a different class, for it was probably the only case of its kind.
+
+A long and interesting series of experiments tried by Dr. Ermacora, of Padua, with a child between three and four years old, are of some interest. 1 He was experimenting in 1892 with a medium for automatic writing and other phenomena. Accident suggested that a little girl, a cousin of the medium's, of the age of three and a half, was a good telepathic subject, and Dr. Ermacora undertook a long series of trials, the object of which was to see how far a personality that manifested itself by automatic writing was able to induce telepathic dreams in the child. So far as Dr. Ermacora is concerned there is no reason to suppose that any precautions which he considered desirable to avoid verbal or other ordinary forms of suggestion were omitted. But he seems to have assumed the good faith of the medium and her relatives, and this in view of some experience in the matter, seems to me to be un-
+
+1 Proc, S.P.R. v. 255-308.
+
+desirable. Not only professional mediums but amateurs who have nothing to gain in a pecuniary sense from success or failure are quite capable of attempting, and do actually attempt, to deceive investigators in a way that would be astonishing if itwere less common.
+
+Although but few records of the experiments have been published, the telepathic trials between Dr. van Eeden and Mrs. Thompson cannot be passed over. Mrs. Thompson is a Hampstead lady, not a professional medium, whose trance phenomena are of great interest. Among other members of the S.P.R. who have had sittings with her is Dr. van Eeden, of Bussum, Holland. At the close of a series of sittings at the end of 1899 it was arranged that Nelly, a personality that appears, together with others, in Mrs. Thompson's trance, should make an attempt to enter into communication with Dr. van Eeden after his return to Holland. It should be mentioned that Dr. van Eeden has been in the habit of observing his dreams for a long time, and that he can carry out in his dreams actions which he has planned to execute. In pursuance of this scheme he made up his mind to call Nelly on the first occasion on which he had, what he terms, " a clear dream," that is, one in which his volition is sufficiently active to permit him to execute what he has previously planned.
+
+The last sitting at which Dr. van Eeden was present in 1899 was held on December 4. On January 3 Dr. van Eeden recorded in his diary that on the previous night he had had a clear dream, and called Nelly. His account goes ■ on " She appeared to me in the form of a little girl, rather plump and healthy-looking, with loose, light-coloured hair.... This was the second dream of the sort after my stay in England. The first occurred on December n. In this dream I also tried to call Nelly, but it was no success."
+
+The first point to be noted in connexion with this incident is that between December 4 and the night of January 2-3 five sittings at least had been held with Mrs. Thompson, and at none of them did Nelly make any remark about any summons from Dr. van Eeden. On January 5, however, she remarked, " Tell Dr. van Eeden he kept calling me last night." It is true there is a mistake of a day here, but it is easy to make too much of an error of this sort. For it should not be forgotten that Nelly is inaccurate with regard to dates, even when they relate to incidents of which she shows supernormal knowledge. (It is impossible to deal with this Question here, however, at length. It must be postponed to a future volume on trance-mediumship.)
+
+The next point is that Dr. van Eeden describes
+
+Nelly as having light hair. Now at a sitting on November 29, at which Dr. van Eeden was present, Nelly had described herself as having black curly hair. The dream figure was therefore by no means what we should expect if Dr. van Eeden's mind alone had been operative in producing it.
+
+At a later sitting Nelly, it is true, described herself as having light hair (this was on January 18, so that it had nothing to do with Dr. van Eeden's idea of Nelly). On a subsequent occasion Nelly, however, stated that the description of January 18 referred not to herself, but to Elsie, another personality who appears in Mrs. Thompson's trances. (On this question see the reports of the sittings, Proc. S.P.R., xvii. 113.) Whether this is so or not, the interesting point is that, on January 18, Nelly stated that Elsie had been to Dr. van Eeden in December, and that her description of Elsie, which was absolutely independent, so far as normally acquired knowledge goes, of Dr. van Eeden's account of his dream visitor, tallies with the latter, although Dr. van Eeden was expecting to see quite a different person.
+
+In the third place, Nelly stated on January 5 that Dr. van Eeden was in bed, alone, not with his wife, and that he was " inside those curtains." Dr. van Eeden writes that these particulars are correct; he was alone, and curtains, or rather
+
+drapery, was before the bed. Slight therefore though the incident is, there are no material errors of detail, the only one being the post-dating of the dream, which is unimportant, whereas antedating would, of course, have been a fatal flaw.
+
+Dr. van Eeden's next clear dream was on January 15. At the sitting with Mrs. Thompson on the following day Nelly made no allusion to it, but on January 18 she stated that Elsie had told her before January 16 that " Old Whiskers " in the bed was calling her. Nelly's reply was " Bother Whiskers ! You go," and she added " and very likely she did go."
+
+In view of the fact that Nelly says she was told by another trance personality, it is of considerable interest that Dr. van Eeden accidentally, as he noted in his diary, began to call Elsie in his dream instead of Nelly. It is also worthy of note that this dream visitor appeared. This agrees with Nelly's statement that she did not go.
+
+Trivial as the incidents may appear, they are evidentially important when we reflect how remote is the probability that Nelly would hit upon the dates and details by accident, and that Dr. van Eeden, on his side, would see a figure corresponding to Nelly's description, though not to his own expectation, on the one occasion out of three clear dreams when Nelly stated that a visit had been
+
+paid to him. As bearing on the possibility of coincidence, it may be mentioned that after Dr. van Eeden had left England, and before the sitting at which his name was first mentioned, five, and before the next dream two, seances had been held. In other words, it was ten to one against the right dates being hit upon by chance.
+
+Unfortunately, the evidential value of the dream cases is diminished by subsequent ill-success. Though it can hardly be said that definite wrong statements were made, and Nelly showed on two occasions knowledge of Dr. van Eeden's state of health, she did not succeed in giving any evidential details with regard to dream conversations, and this must, to some extent, diminish the value of the cases quoted above.
+
+Whatever be our conclusion with regard to the part played by the trance personalities in the production of the dreams, it cannot be denied that the experiments are interesting. How far the average man is likely to be able to control his dreams, as Dr. van Eeden does, it is difficult to say. My own dreams are too few in number for me to make any progress in that direction, and perhaps in most cases the necessary patience will be found to be lacking. Probably most people would hardly be content to observe their dreams, and experiment for a long period with little or no result. F. W. H.
+
+Myers has recorded that thrice only in the course of some 10,000 dreams was he able to control their course, and his interest in psychical investigation and patience in collecting material is shared by few. Even if some of my readers find themselves in a position to influence their sleeping thoughts, they will perhaps be at a loss how to experiment, for lack of a reliable medium with a trance personality prepared to experiment. Although it might be worth while, in default of anything better to utilize the services of an ordinary mortal whose life is uncomplicated by trances, a better plan will be to communicate with the S.P.R., who have more opportunity of finding a co-experimenter of the right brand, and will doubtless welcome the opportunity of adding to their list of sane people with psychical interests and accomplishments.
+
+CHAPTER VIII
+
+EXPERIMENTS IN I902
+
+Pictures — Colours — Diagrams
+
+I now turn to the experiments carried on in the rooms of the S.P.R., and mainly directed by myself. Up to the end of March 1902, they were conducted at 19, Buckingham Street in the small room. The percipient and agent were about seven feet apart, facing in the same direction and separated by a double screen with cloth on one side and wall (?) paper on the other. There were two cupboards with glass doors, one on each side of the fireplace. The agent and percipient were so placed that neither could see the other reflected in either of these doors. With the exception of a picture over the fireplace, equally incapable of disclosing to the percipient the movements of the agent or the object he was con-templating, there was no other reflecting surface in the room to act as a disturbing element.
+
+The screen was close to my writing table, in such a position that I could watch both agent and percipient at the same time and hand to the former, without the knowledge of the latter, the object, card,
+
+or diagram to be mentally transferred. In the record everything is noted which was said by the agent or anyone acquainted with the object; other remarks, by myself for example, when I was only recording without a knowledge of what the agent was thinking of or looking at, are only noted when they bear on the experiment in the way of suggesting a remark by the percipient.
+
+The objects were in every case kept in closed boxes until the experiments began; they were then withdrawn from the box in such a position that they could not be seen by the percipient and were at once handed to the agent. At the close of the experiment (or of a series) the success or otherwise was announced, and the objects replaced in the boxes, and in the case of diagrams, colours, numbers or cards, thoroughly shuffled. In the case of the diagrams they were, when not specially noted, prepared by myself before the experiments began; but in order to simplify the calculation of probabilities it may be assumed that the percipients were acquainted with them.
+
+The word " chosen " indicates that the object was intentionally selected, the word " drawn " that it was selected by lot or at random.
+
+The agent and percipient were, in all cases, subsequently dealt with, members or associates of the S.P.R. and, as a rule, already known to me personally
+
+In several cases agent and percipient met for the first time at the experiments in which they took part.
+
+Pictures.
+
+The first experiment of those to be mentioned here, was tried on January 27, 1902; present — Miss T. (percipient), Messrs. W. W. Baggally (agent), J. G. Piddington and N. W. Thomas (recorder). Mr. Piddington arrived first, bringing with him, as I subsequently learnt, a copy of the Windsor Magazine, which he placed in a closed box behind the screen. The recorder did not, except when specially noted, see any object before the end of the experiment, and notes as to the object were, in each case, not made until after the experiment was over.
+
+The percipient took her seat with her back to the light in a low wicker chair, and was asked to look in a crystal ball. After seeing a figure she described a luminous appearance and went on, " Now I see a sort of cloudy thing that might be a landscape, very indistinct. I can see a curious light in the centre; is that a reflection? [J. G. P.] Does it come through your landscape? [Miss T.] Yes. There is a river and mountains, and a group of trees on the left. [N. W. T.] Your left? [Miss T.] Yes. [J. G. P.] In one part more prominent? [Miss T.] No, it might be Alps or Lucerne where I have just been."
+
+K
+
+The scene had disappeared when Miss T. looked again, but immediately after she went on, " Now it has come back to the landscape, snow peaks, the river clearer, rushing down, a group of cottages or houses towards the background on the left. [J. G. P.] Anything on the bank. [Miss T. ]I was thinking I saw some boats on the bank, the one nearer me; it might be a lot of wood. [J. G. P.] Are you close to it? [Miss T.] There is a lot of foliage or something of that sort in the immediate foreground; the river is in the foreground, but further back. Those people — it's very queer — it's an exact copy of my brain; I've seen the scene."
+
+Up to this point, Miss T. was not aware that any thought transference was being attempted. Between the two descriptions reported above, J. G. P. showed N. W. T. the cover of current number of the Windsor Magazine, holding it a few inches beyond the screen and putting it flat on the writing-table, where it remained for about five seconds. It was impossible for Miss T. to have seen it either directly or by reflection. Her eyes, too, were, as J. G. P. afterwards informed me, as a rule, closed. J. G. P. was, when he showed me the cover, on the same side of the screen as the agent, and was invisible from where Miss T. sat. The word Windsor was not mentioned nor any reference made to the object.
+
+As a matter of fact Mr. Piddington had, before
+
+a,
+
+.-■•£1>S:f '.<,:v;.^^% v ^\*^;;v
+
+w
+
+-J
+
+H
+
+CO
+
+<3
+
+o
+
+OS
+
+o
+
+GO
+
+Q
+
+the point at which the notes above quoted begins, handed Mr. Baggally the Windsor Magazine; unknown to the recorder, Mr. Baggally, who was behind the screen, had been steadily gazing at the picture on the cover, here reproduced for comparison (PL II). It will hardly be denied that the resemblance was striking; but this was not all.
+
+At 347, seventeen minutes after the experiment began, Miss T. took pencil and paper to try automatic writing. The trials were made without success, and one colour trial. At about 4 o'clock a diagram was tried, but the drawing was again without resemblance to the object. Later Miss T. closed her eyes to try and get visual impressions, and then remarked that she saw a lot of pictures, mentioning three — a field of wheat, a garden, and Windsor Castle, the latter being especially clear, with the river below.
+
+Two other experiments were then tried and resulted in failures.
+
+A comparison of the description with the illustration shows how close the resemblance was. It is, of course, impossible to estimate the probabilities in a case of this sort, but the experiment seemed worth recording here in detail to show the sort of trial which good crystal gazers may with advantage make.
+
+Several further series of experiments were tried
+
+with Miss T. in April and May, 1902, with varying success. The trials took place in the rooms of the Society, at 20, Hanover Square, W.; the agent and percipient were separated by a double cloth screen, six feet high, and the objects were kept in an American roll-top desk, and in closed boxes until the percipient was seated, and in such a position as not be able to see what object was selected.
+
+Shorthand notes of descriptions by the percipient were taken by the Society's shorthand writer, Miss Keates, and a record of the conditions of the experiment and of the objects was kept by myself or, in my absence, by another recorder.
+
+On April 23, eleven trials were made, four with pictures and seven with diagrams. The first picture selected was from Warne's Easy A. B.C. Painting Book and was the right-hand half of the coloured picture to; this represented a long-eared owl sitting on the branch of a tree growing from a trunk on the right of it, which was covered with ivy; in the background, a mass of high-trees, and behind them the moon represented as pure white without spots and partly concealed by them so as to be only semi-circular, in such a position as to form a halo round the owl's head. Below the ivy in the foreground and between it and the margin of the page, was white uncoloured paper of a breadth of more than half an inch. One has the impression
+
+that the owl is high in the air. This picture was from a book bought some weeks previously, used for the experiment and then kept in the drawer of my secretaire until the experiment on the present occasion. It was taken from my secretaire by myself and handed to the agent, Mr. W. W. Baggally, who was already seated behind the screen. Miss Keates, who took the shorthand notes of all that was said, whether by Miss T. or any one else, and Mr. G. Musgrove, who was also present, remained in ignorance of what had been selected.
+
+Miss T. after seating herself facing Miss Keates, but, with her back to the light, to myself and to the agent, who was behind the screen, took the crystal and said, after a few minutes: "Well, it is very indistinct, but what it seems to me is a forest, very high trees in the foreground, and then there is a group of
+
+animals in it and there is a large. There is a
+
+brilliant light in the centre of the picture, but I cannot make out what it is. It seems like the sun. [Rec. 1 ] What shape is it? [Miss T.] The shape of the Aurora Borealis. [Rec. J And is it uniformly white or what colour? [Miss T.] It is a white dazzling light, the centre is dark. It is so brilliant, it makes my eyes tired. It is quite in the background. [Rec] What is in the foreground, then? [Miss T.] Why, it's like the sea, like a forest, trees on 1 N. W. Thomas.
+
+one side and water in the front. [Rec] Is there anything else you can see in the picture? [Miss T.] I have described everything I can see; there is a great deal more, it is very indistinct. Have you got a magnifying glass? (One brought.) Men, a group of men passing to one side of the picture. I rather think I must have seen it in South Africa. Now it is fading."
+
+It will be seen that, with the exception of the animals at the beginning and the men at the end, the description is singularly accurate. Several points might have been further elucidated, but the percipient was in a dreamy condition and had to be questioned before she said anything. The picture faded before questions could be asked as to which side the trees were on, and what the dark mass in the centre of the light was. The following points were correctly described: the moon, with a dark object in the centre, in the background, not a complete circle but the shape of the Aurora (i.e. semicircular); the trees on one side in the foreground; possibly the white paper appears as water.
+
+The next two pictures were: L and D, both failures. After a success with a diagram, described below, there was another unsuccessful picture, R, in the same book.
+
+On April 25, four experiments in crystal gazing were tried by Mrs. M. with Miss P. as agent. The
+
+first object was a picture of a parrot on a bar with a seed box at each end. The only impression was that of " a sort of long stalk with a bulb on the end of it," This was correct as far as it went, but hardly entitles us to count the trial as even partially successful. The next two trials resulted in the percipient seeing diagrams instead of pictures, and the last, though some resemblance could be traced, was equally unsuccessful.
+
+On April 29, Miss T. was again the percipient. Five trials were made with pictures. The first subject was the third coloured picture in Warne's Merry Moments Painting Book, representing a river or narrow lake in the centre running at the foot of some hills in the right background. In the left foreground a child fishing, just behind her some bushes, no background.
+
+The book was purchased by myself on the day in question, and I reached the rooms simultaneously with Miss T. It was, however, put behind the screen unopened. Besides the agent, Mr. Baggally, Mr. Piddington saw the picture selected by myself. The conditions were as described before.
+
+Miss T. said, " I get the impression of a figure; it is a figure. I cannot see whether it is a man or woman, but it is dressed in some sort of flowing drapery in the distance. It seems as if it were walking in front of a terrace; in the distance, there
+
+is a slight suggestion of a man. It is very.
+
+There seems something walking into a room, rather into the interior of a palace. That melts away. There is a broad sheet of water, and there is a sky in the distance, and it is very bright on the horizon. That is all I see. [Rec] Anything on the sheet of water? [Miss T.] Well there is something that looks vaguely like a ship, but that might be a suggestion by the water. It looks like a ship. Have you got a magnifying glass? I see something on the ship. The ship seems approaching nearer, and as it approaches you can see something moving on it. I don't know what it is. It is melting away."
+
+The resemblance here cannot be called more than slight. The sheet of water, however, is correct, and the figure though displaced to the background is fairly described.
+
+The second, third, and fourth experiments were failures.
+
+Mrs. Thompson arrived during the experiments and went into the library, where she was joined by Mr. Piddington. It was arranged that she should act as agent. The object, the head on an Edward VII half-sovereign, was selected by J. G. Piddington. N. W. Thomas, controlling the whole experiment, W. W. Baggally, and Miss Keates taking notes of what Miss T. said, remained in ignorance of it until the experiment was over.
+
+Miss T. said: " I can't get a clear impression, I get the impression of a figure. It is very, very vague, much more vague than the others. It is so vague I can hardly tell whether it is a figure or an animal. That is all I get. There is one thing in the whole picture." The picture developed into three figures subsequently, but this may be regarded as a normal occurrence with Miss T., whose crystal visions were almost invariably living pictures. There is possibly some connexion between the object and the impression, but the latter was too vague for any stress to be laid on it.
+
+On May 6, three experiments were tried, all failures, with agent and percipient in different rooms. Two with another percipient also failed.
+
+On May 13, four experiments were tried under the same conditions. In the first the object was a picture of an old man with a load of faggots, shaking hands with a young girl. Miss T. saw in the crystal a figure which might have been a bear on its hind legs. The second was a failure. The third was a picture of a small building with a circular tower at one end, that had a curious peaked roof like an extinguisher; on the right was another building, and the immediate foreground was white. Miss T. said, " This looks like a building on a hill, and a lake in front, whether it is a church I cannot see. It is a mass of buildings, very like a scene in Switzer-
+
+land." The resemblance was not close, but it was not altogether absent.
+
+In the fourth experiment, Miss T. saw one tall object going up to a sharp point. The object actually was Snowdon from Portmadoc, but the description was perhaps a continuation of that in the previous experiment, a postponed impression of the tower.
+
+Several short series of experiments with pictures were tried at Buckingham Street, in February and March, with various percipients. Of four trials on February 28, the only one worthy of note was that with the picture of the owl described above (p. 132). The percipient, Miss P., saw in the crystal " a figure of some sort; rather like a woman, oldish, something on her head, a sort of cap. Like a caricature." This can perhaps hardly be regarded as a success, but, on the other hand, the owl as a caricature of an old woman is not a far-fetched idea, and the cap is supplied by the moon surrounding the head of the bird.
+
+The same picture was used a week later with another percipient, Mrs. C, who, between two failures, described' " a man's head on a pillow, about 50 or 60, with a beard." The resemblance is at best very remote, but possibly the moon suggested the pillow.
+
+On the same day a picture series was tried, with Mrs. Verrall and Miss P. as agents. The only approx-
+
+imation to a success in the six trials with pictures was when Miss P. mentioned the letter B. in con-
+
+nexion with a picture marked, unknown to her, —
+
+Experience shows that estimates of probabilities differ very widely in cases where exact statistical methods are not available. I therefore refrain from summing up the net results of such experiments, both here and later. It is perhaps worthy of note that some success was attained with the owl picture on each occasion it was used.
+
+Colours.
+
+At various times a number of trials with colours were made. These experiments are much complicated by the difficulty which most percipients have in naming the colours they see. There are, as a matter of fact, at least 360 names of colours in English, probably more if names derived from flowers and other natural objects are included. In some of the experiments a numbered sheet of colours corresponding to those used by the agent was hung before the percipient; and this was found to work well in some cases. The matter is further complicated by possible influence of secondary colours and after images, though such influence was not traced in any individual case. Another source of difficulty is that the agent did not always
+
+1 4 o THOUGHT TRANSFERENCE
+
+see the colours in a bright light. The result of this was to deaden them; on one occasion, for example, bronze was described by the percipient as sepia-brown. I was preparing to mark this down a failure, but the agent said that in the dull light the bronze was almost exactly the colour named by the percipient. Under these circumstances the trial' was counted as a success.
+
+Twenty-one trials were made on various occasions with cards of the following colours — red, blue, bronze, yellow, green, black cross. Of these trials a brightish red was described as pink by one percipient; another percipient saw pink, then something dark, and yellow (this was counted a failure); canary yellow was given as yellow; mauve, as blue, red as pink, and brown as brown; on a subsequent occasion the same percipient failed four successive times.
+
+On May 13, Miss T. made four trials, the agents and percipient being in different rooms. Red was again described as pink; a rainbow effect with prevailing colour violet was seen when blue would have been correct; a bright yellow dog was seen when one agent had yellow, the other bronze; the fourth trial was a failure.
+
+If we count the red =pink as a success, and it should be noted that all the percipients agreed in getting the impression of pink when the agent was looking at
+
+this colour, with which there were no failures, other than such misdescription as is involved in calling "it pink, we have 6 complete successes, and two partial successes out of 21 trials, the rainbow effect being counted a failure. The expectation was 3^.
+
