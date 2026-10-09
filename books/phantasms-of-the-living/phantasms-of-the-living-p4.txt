@@ -1,0 +1,942 @@
+Out of 2,927 trials at guessing the suit of a card, drawn at random, and steadily looked at by another person, the actual number of successes was 789; the most probable number, had pure accident ruled, was 732. The total was made up of thirty-nine series of different lengths, in which eleven persons took part, M. Richet himself being in some cases the guesser, and in others the person who looked at the card. He observed that when a large number of trials were made at one sitting, the aptitude of both persons concerned seemed to be arlected; it became harder for the " agent " to visualise, and the proportion of successes on the guesser's part decreased. If we agree to reject from the above total all the series in which over 100 trials were consecutively made, the numbers become more striking.1 Out of
+
+It should be remarked, however, that the introduction of any principle of selection, after one experiment, is always objectionable. For some more or less plausible reason could probably always be found for setting aside the less favourable results.
+
+1,833 trials, he then got 510 successes, the most probable number being only 458; that is to say, the actual number exceeds the most probable number by about jSs-
+
+Clearly no definite conclusion could be based on such figures as the above. They at most contained a hint for more extended trials, but a hint, fortunately, which can be easily followed up. We are often asked by acquaintances what they can do to aid the progress of psychical research. These experiments suggest a most convenient answer; for they can be repeated, and a valuable contribution made to the great aggregate, by any two persons who have a pack of cards and a little perseverance.1
+
+Up to the time that I write, we have received, in all, the results of 17 batches of trials in the guessing of suits. In 11 of the batches one person acted as agent and another as percipient throughout: the other 6 batches are the collective results of trials made by as many groups of friends. The total number of trials was 17,653, and the total number of successes was 4,760; which exceeds by 347 the number which was the most probable if chance alone acted. The probability afforded by this result for the action of a cause other than chance is "999,999,98 — or practical certainty.2 I need hardly say that there has been here no selection of results; all who undertook the trials were specially requested to send in their report, whatever the degree of success or unsuccess; and we have no reason to suppose that this direction has been ignored. It is thus an additional point of interest that in only one of the batches did the result fall beloiv the number which was the most probable one for mere chance to give. And if we take only those batches, 10 in number, in which a couple of experimenters made as many as 1,000 trials and over, the probability of a cause other than chance which the group of results yields is estimated by one method to be •999,999,999,96, and by another to be -999,999,999,999,2.
+
+To this record must be added another, not less striking, of experiments which, (though part of the same effort to obtain large collective results,) differed in form from the above, and could not,
+
+1 The rules to observe are these: (1) The number of trials contemplated (1,000, 2,000, or whatever it may be) should be specified beforehand. (2) Not more than 50 trials should be made on any one occasion. (3) The agent should draw the card at random, and cut the pack between each draw. (4) The success or failure of each guess should be silently recorded, and the percipient should be kept in ignorance of the results until the whole series is completed. The results should be sent to meat 14, Dean's Yard, S.W.
+
+2 For these calculations we have again to thank Mr. F. Y. Edgeworth. For an explanation of the methods employed, see his article in "Vol. iii. of the Proceedings of the S.P.R., already referred to, and also his paper on "Methods of Statistics " (sub. Jin.) in the Journal of the Statistical Society for 1885.
+
+D
+
+34 THE EXPERIMENTAL BASIS: [chap.
+
+therefore, figure in the aggregate. Thus, in a set of 976 trials, carried out by Miss B. Lindsay (late of Girton College), and a group of friends, where the choice was between 6 uncoloured forms — 9 specimens of each being combined in a pack from which the agent drew at random — the total of right guesses was 198, the odds against obtaining that degree of success by chance being 1,000 to 1. In another case, the choice lay between 4 things, but these were not suits, but simple colours — red, blue, green, and yellow. The percipient throughout was Mr. A. J. Shilton, of 40, Paradise Street, Birmingham; the agent (except in one small group, when Professor Poynting, of Mason College, acted) was Mr. G. T Cashmore, of Albert Road, Handsworth. Out of 505 trials, 261 were successes. The probability here afforded of a cause other than chance is considerably more than a trillion trillions to 1. And still more remarkable is the result obtained by the Misses Wingfield, of The Redings, Totteridge, in some trials where the object to be guessed was a number of two digits — i.e., one of the 90 numbers included in the series from 10 to 99 — chosen at random by the agent. Out of 2,624 trials, where the most probable number of successes was 29, the actual number obtained was no less than 275 — to say nothing of 78 other cases in which the right digits were guessed in the reverse order. In the last 506 trials the agent (who sat some 6 feet behind the percipient) drew the numbers at random out of a bowl; the odds against the accidental occurrence of the degree of success — 21 right guesses — obtained in this batch are over 2,000,000 to 1. The argument for thought-transference afforded by the total of 275 cannot be expressed here in figures, as it requires 167 nines — that is, the probability is far more than the ninth power of a trillion to 1.
+
+Card-experiments of the above type offer special conveniences for the very extended trials which we wish to see carried out: they are easily made and rapidly recorded. At the same time it must not be assumed that the limitation of the field of choice to a very small number of known objects is a favourable condition; it is probably the reverse. For from the descriptions which intelligent percipients have given it would seem that the best condition is a sort of inward blankness, on which the image of the object, sometimes suddenly but often only gradually, takes shape. And this inward blankness is hard to ensure when the objects for choice are both few and known. For their images are then apt to importune the mind, and to lead to guessing; the little procession of them marches so
+
+readily across the mental stage that it is difficult to drive it off, and wait for a single image to present itself independently. Moreover idiosyncrasies on the guesser's part have the opportunity of obtruding themselves — as an inclination, or a disinclination, to repeat the same guess several times in succession. These objections of course reach their maximum if the field of choice be narrowed down to two things — as where not the suit but the colour of the cards is to be guessed. And in fact some French trials of this type, and an aggregate of 5,500 carried out by the American Society for Psychical Research,1 give a result only very slightly in excess of the most probable number.
+
+§ 8. I may now pass to another class of experiments, in which the impression transferred was almost certainly of the visual sort, inasmuch as any verbal description of the object would require a group of words too numerous to present any clear and compact auditory character. An object of this kind is supplied by any irregular figure or arrangement of lines which suggests nothing in particular. We have had two remarkably successful series of experiments, extending over many days, in which the idea of such a figure has been telepathically transferred from one mind to another. A rough diagram being first drawn by one of the investigating Committee, the agent proceeded to concentrate his attention on it, or on the memory which he retained of it; and in a period varying from a few seconds to a few minutes the percipient was able to reproduce the diagram, or a close approximation to it, on paper. No contact was permitted, except on a few occasions, which, on that very account, we should not present as crucial; and in order to preclude the agent from giving unconscious hints — e.g., by drawing with his finger on the table or making movements suggestive of the figure in the air — he was kept out of the percipient's sight.
+
+Of the two series mentioned, the second is evidentially to be preferred. For in the first series the agent, as well as the percipient, was always the same person; and we recognise this as pro tanto an objection. Not indeed that the simple hypothesis of collusion would
+
+1 Report by Professors J. M. Peirce and E. C. Pickering, in the Proceedings of the American Society for Psychical Research, Vol. i., p. 19. This Society has also carried out 12,130 trials with the 10 digits— which similarly gave a result only slightly in excess of theoretic probability. But here the digits to be thought of by the agent were not taken throughout in a purely accidental order, but in regularly recurring decads, in each of which each digit occurred once; and consequently the later guesses (both within the same decad and in successive decads) might easily be biassed by the earlier ones. This system may lead to interesting statistics in other ways; but to give thought-transference fair play in experiments with a limited number of objects, it seems essential that the order of selection shall be entirely haphazard, and that the guesser's mind shall be quite, unembarrassed by the notion of a scheme.
+
+r, 9
+
+36 THE EXPERIMENTAL BASIS. [chap.
+
+at all meet the difficulties of the case. Faith in the power of a secret code must be carried to the verge of superstition, before it will be easy to believe that auditory signals, the material for which (as I pointed out above) is limited to the faintest variations in the signaller's method of breathing, can fully and faithfully describe a complicated diagram; especially when the variations, imperceptible to the closest observation of the bystanders, would have to penetrate to the intelligence of a percipient whose head was enveloped in bandage, bolster-case, and blanket. But in spite of all, suspicion will, reasonably or unreasonably, attach to results which are, so to speak, a monopoly of two particular performers. In our second series of experiments this objection was obviated. There were two percipients, and a considerable group of agents, each of whom, when alone with one or other of the percipients, was successful in transferring his impression. It is this series, therefore, that I select for fuller description.
+
+We owe these remarkable experiments to the sagacity and energy of Mr. Malcolm Guthrie, J.P., of Liverpool. At the beginning of 1883, Mr. Guthrie happened to read an article on thought-transference in a magazine, and though completely sceptical, he determined to make some trials on his own account. He was then at the head of an establishment which gives employment to many hundreds of persons; and he was informed by a relative who occupied a position of responsibility in this establishment that she had witnessed remarkable results in some casual trials made by a group of his employees after business hours. He at once took the matter into his own hands, and went steadily, but cautiously, to work. He restricted the practice of the novel accomplishment to weekly meetings; and he arranged with his friend, Mr. James Birchall, the hon. secretary of the Liverpool Literary and Philosophical Society, that the latter should make a full and complete record of every experiment made. Mr. Guthrie thus describes the proceedings: —
+
+" I have had the advantage of studying a series of experiments ab ovo. I have witnessed the genuine surprise which the operators and the ' subjects ' have alike exhibited at their increasing successes, and at the results of our excursions into novel lines of experiment. The affair has not been the discovery of the possession of special powers, first made and then worked up by the parties themselves for gain or glory. The experimenters in this case were disposed to pass the matter over altogether as one of no moment, and only put themselves at my disposal in regard to experiments in order to oblige me. The experiments have all been devised and conducted by myself and Mr. Birchall, without any previous intimation of their nature, and could not possibly have been foreseen. In fact they
+
+have been to the young ladies a succession of surprises. No set of experiments of a similar nature has ever been more completely known from its origin, or more completely under the control of the scientific observer."
+
+I must pass over the record of the earlier experiments, where the ideas transferred were of colours, geometrical figures, cards, and visible objects of all sorts, which the percipient was to name — these being similar in kind, though on the whole superior in the proportion of successes, to those already described.1 The reproduction of diagrams was introduced in October, 1883, and in that and the following month about 150 trials were made. The whole series has been carefully mounted and preserved by Mr. Guthrie. No one could look through them without perceiving that the hypothesis of chance or guess-work is out of the question; that in most instances some idea, and in many a complete idea, of the original must, by whatever means, have been present in the mind of the person who made the reproduction. In Mr. Guthrie's words, —
+
+" It is difficult to classify them. A great number of them are decided successes; another large number give part of the drawing; others exhibit the general idea, and others again manifest a kind of composition of form. Others, such as the drawings of flowers, have been described and named, but have been too difficult to draw. A good many are perfect failures. The drawings generally run in lots. A number of successful copies will be produced very quickly, and again a number of failures — indicating, I think, faultiness on the part of the agent, or growing fatigue on the part of the ' subject.' Every experiment, whether successful or a failure, is given in the order of trial, with the conditions, name of ' subject ' and agent, and any remarks made by the ' subject ' specified at the bottom. Some of the reproductions exhibit the curious phenomenon of inversion. These drawings must speak for themselves. The principal facts to be borne in mind regarding them are that they have been executed through the instrumentality, as agents, of persons of unquestioned probity, and that the responsibility for them is spread over a considerable group of such persons; while the conditions to be observed were so simple — for they amounted really to nothing more than taking care that the original should not be seen by the ' subject ' — that it is extremely difficult to suppose them to have been eluded."
+
+1 The full record of the experiments will be found in the Proceedings of the S.P.R., Vol. i., p. 264, &c, and Vol. ii., p. 24, &c. There is one point of novelty which is thus described by Mr. Guthrie: " We tried also the perception of motion, and found that the movements of objects exhibited could be discerned. The idea was suggested by an experiment tried with a card, which in order that all present should see, I moved about, and was informed by the percipient that it was a card, but she could not tell which one because it seemed to be moving about. On a subsequent occasion, in order to test this perception of motion, I bought a toy monkey, which worked up and down on a stick by means of a string drawing the arms and legs together. The answer was: 'I see red and yellow, and it is darker at one end than the other. It is like a flag moving about — it is moving.... Now it is opening and shutting like a pair of scissors.' "
+
+38 THE EXPERIMENTAL BASIS: [chap.
+
+I give a few specimens — not unduly favourable ones, but illustrating the " spreading of responsibility " to which Mr. Guthrie refers. The agents concerned were Mr. Guthrie; Mr. Steel, the President of the Liverpool Literary and Philosophical Society; Mr. Birchall, mentioned above; Mr. Hughes, B.A., of St. John's College, Cambridge; and myself. The names of the percipients were Miss Relph and Miss Edwards. The conditions which I shall describe were those of the experiments in which I myself took part; and I have Mr. Guthrie's authority for stating that they were uniformly observed in the other cases. The originals were for the most part drawn in another room from that in which the percipient was placed. The few executed in the same room were drawn while the percipient was blindfolded, at a distance from her, and in such a way that the process would have been wholly invisible to her or anyone else, even had an attempt been made to observe it. During the process of transference, the agent looked steadily and in perfect silence at the original drawing, which was placed upon an intervening wooden stand; the percipient sitting opposite to him, and behind the stand, blindfolded and quite still. The agent ceased looking at the drawing, and the blindfolding was removed, only when the percipient professed herself ready to make the reproduction, which happened usually in times varying from half-a-minute to two or three minutes. Her position rendered it absolutely impossible that she should obtain a glimpse of the original. Apart from the blindfolding, she could not have done so without rising from her seat and advancing her head several feet; and as she was very nearly in the same line of sight as the drawing, and so very nearly in the centre of the agent's field of vision, the slightest approach to such a movement must have been instantly detected. The reproductions were made in perfect silence, the agent forbearing to follow the actual process of the drawing with his eyes, though he was, of course, able to keep the percipient under the closest observation.
+
+In the case of all the diagrams, except those numbered 7 and 8, the agent and the percipient were the only two persons in the room during the experiment. In the case of numbers 7 and 8, the agent and Miss Relph were sitting quite apart in a corner of the room, while Mr. Guthrie and Miss Edwards were talking in another part of it. Numbers 1-6 are specially interesting as being the complete and consecutive series of a single sitting.
+
+II.1
+
+THO UGHT-TRANSFERENCE.
+
+No. 1. Original Drawing.
+
+No. 1. Reproduction.
+
+Mr. Guthrie and Miss Edwards. No contact.
+
+No. 2. Original Drawing.
+
+No. 2. Reproduction.
+
+Mr. Guthrie and Miss Edwards. No contact
+
+
+
+The Experimental Basis:
+
+[chap.
+
+No. 3. Original Drawing.
+
+No. 3. Reproduction.
+
+Mr. Guthrie and Miss Edwards No contact.
+
+No. 4. Original Drawing.
+
+No. 4. Reproduction.
+
+Mr. Guthrie and Miss Edwards. No contact.
+
+IL]
+
+THO UailT-TRA NSFERENCE.
+
+No. 5. Original D hawing.
+
+No. 5. Reproduction.
+
+Mr. Guthrie and Miss Edwards. No contact.
+
+No. 6. Original Drawing.
+
+Mr. Guthrie and Miss Edwards. No contact
+
+No. 6. Reproduction.
+
+Miss Edwards almost directly said, " Are you thinking of the bottom of the sea, with shells and fishes? " and then, " Is it a snail or a fish? " — then drew as above.
+
+THE EXPERIMENTAL BASIS: [chap.
+
+No. 7. Original Drawing.
+
+Mr. Gurney and Miss Relph. Contact for half-a-minute before the reproduction was drawn.
+
+No. 7. Reproduction.
+
+II.]
+
+77/0 UG I IT- TEA KHFEREKCE.
+
+No. S. Original Drawing.
+
+No. 8. Reproduction.
+
+Mr Gurney and Miss Relph. No contact.
+
+No. 9. Original Drawing.
+
+Mr. Birchall and Miss Relph. No contact.
+
+No. 9. Reproduction.
+
+Miss Relph said she seemed to see a lot of rings, as if they were moving, and she could not get them steadily before her eves.
+
+THE EXPERIMENTAL BASIS: [chap.
+
+No. 10. Original Drawing.
+
+No. 10. Reproduction.
+
+Mr. Birchall and Miss Relph. No contact.
+
+No. 11. Original Drawing.
+
+Mr. Birchall and Miss Edwards. No contact.
+
+II.]
+
+THOUGHT-TRANSFERENCE.
+
+No. 12. Original Drawing.
+
+Mr. Steel and Miss Relph. No contact.
+
+No. 12. Reproduction.
+
+
+
+The Experimental Basis
+
+[chap.
+
+No. 13. Original Drawing.
+
+No. 13. Reproduction.
+
+Mr. Steel and Miss Edwards. Contact before the reproduction was made.
+
+No. 14. Original Drawing.
+
+No. 14. Reproduction.
+
+Mr. Hughes and Miss Edwards. Contact
+
+before the reproduction was made.
+
+Miss Edwards said, " A box or chair badly shaped —then drew as above.
+
+11.1
+
+TIIO UUHT-TRA NSFERENCE.
+
+No. 15. Original Drawing.
+
+Mr. Hughes and Miss Edwards. No contact.
+
+No. 15. Reproduction.
+
+Miss Edwards said, " It is like a mask at a pantomime," and immediately drew as above.
+
+THE EXPERIMENTAL BASIS: [chap.
+
+No. 16. Original Drawing.
+
+Mr. Hughes and Miss Edwards No contact.
+
+No. 16. Reproduction.
+
+§ 9. Soon after the publication of these results, Mr. Guthrie was fortunate enough to obtain the active co-operation of Dr. Oliver J. Lodge, Professor of Physics in University College, Liverpool, who carried out a long and independent series of experiments with the same two percipients, and completely convinced himself of the genuineness of the phenomena. In his report1 he says: —
+
+" As regards collusion and trickery, no one who has witnessed the absolutely genuine and artless manner in which the impressions are described, but has been perfectly convinced of the transparent honesty of purpose of all concerned. This, however, is not evidence to persons who have not been present, and to them I can only say that to the best of my scientific belief no collusion or trickery was possible under
+
+the varied circumstances of the experiments When one
+
+has the control of the circumstances, can change them at will and arrange one's own experiments, one gradually acquires a belief in the phenomena observed quite comparable to that induced by the repetition
+
+of ordinary physical experiments We have many times
+
+succeeded with agents quite disconnected from the percipient in ordinary life, and sometimes complete strangers to them. Mr. Birchall, the headmaster of the Birkdale Industrial School, frequently acted; and the house physician at the Eye and Ear Hospital, Dr. Shears, had a successful experiment, acting alone, on his first and only visit. All suspicion of a pre-arranged code is thus rendered impossible even to outsiders who are unable to witness the obvious fairness of all the experiments."
+
+The objects of which the idea was transferred were sometimes things with names (cards, key, teapot, flag, locket, picture of donkey, and so on), sometimes irregular drawings with no name. Professor Lodge satisfied himself that auditory as well as visual impressions played a part — that in some cases the idea transferred was that of the object itself, and in others, that of its name; thus confirming the conclusion which we had come to in the experiments with the Creery family. Of the two percipients one seemed more susceptible to the visual, and the other to the auditory impressions. A case where the auditory element seems clearly to have come in is the following. The object was a tetrahedron rudely drawn in projection, thus —
+
+The percipient said: " Is it another triangle? " No answer was given,, but Professor Lodge silently passed round to the agents a scribbled message, " Think of a pyramid." The percipient then said, " I only
+
+1 Proceedings of the S.P.R., Vol. ii., p. 189, &c.
+
+50 THE EXPERIMENTAL BASIS: [chap.
+
+see a triangle " — then hastily, " Pyramids of Egypt. No, I shan't do this." Asked to draw, she only drew a triangle.
+
+I will give only one other case from this series, which is important as showing that the percipient may be simultaneously influenced by two minds, which are concentrated on two different things. The two agents being seated opposite to one another, Professor Lodge placed between them a piece of paper, on one side of which was drawn a square, and on the other a cross. They thus had different objects to
+
+□ x m
+
+Originals. Reproduction.
+
+contemplate, and neither knew what the other was looking at; nor did the percipient know that anything unusual was being tried. There was no contact. Very soon the percipient said, " I see things moving about... I seem to see two things... I see first one up there and then one down there... I don't know which to draw... I can't see either distinctly." Professor Lodge said: " Well, anyhow, draw what you have seen." She took off the bandage and drew first a square, and then said, " Then there was the other thing as well... afterwards they seemed to go into one," — and she drew a cross inside the square from corner to corner, adding afterwards, " I don't know what made me put it inside." The significance of this experimental proof of joint agency will be more fully realised in connection with some of the spontaneous cases.
+
+The following passage from the close of Professor Lodge's report has a special interest for us, confirming, as it does, the accounts which we had received from our own former " subjects," and the views above expressed as to the conditions of success and failure: —
+
+" With regard to the feelings of the percipients when receiving an impression, they seem to have some sort of consciousness of the action of other minds on them; and once or twice, when not so conscious, have complained that there seemed to be ' no power ' or anything acting, and that they not only received no impression, but did not feel as if they were going to.
+
+" I asked one of them what she felt when impressions were coming freely, and she said she felt a sort of influence or thrill. They both say that several objects appear to them sometimes, but that one among them persistently recurs and they have a feeling when they fix upon one that it is the right one.
+
+" One serious failure rather depresses them, and after a success others often follow. It is because of these rather delicate psychological con-
+
+ditions that one cannot press the variations of an experiment as far as one would do if dealing with inert and more dependable matter. Usually the presence of a stranger spoils the phenomena, though in some cases a stranger has proved a good agent straight off.
+
+" The percipients complain of no fatigue as induced by the experiments, and I have no reason to suppose that any harm is done them."
+
+It is the " delicate psychological conditions " of which Professor Lodge here speaks that are in danger of being ignored, just because they cannot be measured and handled. The man who first hears of thought-transference very naturally imagines that, if it is a reality, it ought to be demonstrated to him at a moment's notice. He forgets that the experiment being essentially a mental one, his own presence — so far as he has a mind — may be a factor in it; that he is demanding that a delicate weighing operation shall be carried out, while he himself, a person of unknown weight, sits judicially in one of the scales. After a time he will learn to allow for the conditions of his instruments, and will not expect in the operations of an obscure vital influence the rigorous certainty of a chemical reaction.
+
+I cannot conclude this division of the subject without a reference to a remarkable set of diagrams which appeared in Science for July, 1885— the first-fruits of the investigation of thoughttransference set on foot by the American Society for Psychical Research. Most of the trials were carried out by Mr. W. H. Pickering (brother of the eminent astronomer at Harvard), and his sister-in-law. Though the success is far less striking to the eye than in the several English series, the evidence for some agency beyond chance seems, on examination, irresistible.
+
+§ 10. So far the present sketch has included transference of impressions of the visual and auditory sorts only — impressions, moreover, which for the most part represented formed objects or definite groups of sensations, not sensations pure and simple. These are not only by far the most important forms of the phenomenon, in relation to the wider spontaneous operations of telepathy which we shall consider in the sequel; but are also the most convenient forms for experiment. Moreover, I have been tracing the development of the subject historically; and it was in connection with ideas belonging to the higher forms of sense that the transferences to percipients who were in a normal state were first obtained. But the existence of such cases would
+
+E 2
+
+52 THE EXPERIMENTAL BASIS: [chap.
+
+prepare us for transferences of a more elementary type, — transferences of a simple formless sensation and nothing more, which, should impress the percipient not as an idea, but in its direct sensational character; and if the phenomena be arranged in a logical scale from the less to the more complex, such cases would have the priority. For their exhibition, it is naturally to the lower senses that we should look — taste, smell, and touch — which last (since a certain intensity of experience seems necessary) we should hardly expect to prove effective till it reached the degree of pain. These lower forms are, in fact, those which preponderate in the earlier observations of mesmeric rapport in this country; and our own experiments in mesmerism have included several instances of this sort.1 Thus the discovery that a similar " community of sensation " might exist between persons in a normal state, and without any resort to mesmeric or hypnotic processes, not only filled up an obvious lacuna, but gave a fresh proof of the fundamental unity of our many-sided subject.
+
+In the case of taste, we owe the discovery to Mr. Guthrie — the phenomenon having been, we believe, first observed by him on August 30th, 1883, and first fully examined in the course of a visit which Mr. Myers and the present writer paid to him in the following week. Failing to obtain very marked success in other lines of experiment, it occurred to us to introduce this novel form; but the superiority of the results was probably due simply to the fact that they were obtained on the later days of our visit, when the " subjects " had become accustomed to our presence.
+
+I will quote the report made at the time: —
+
+" The taste to be discerned was known only to one or more of the three actual experimenters; and the sensations experienced were verbally described by the ' subjects ' (not written down), so that all danger of involuntary muscular guidance was eliminated.
+
+" A selection of about twenty strongly -tasting substances was made. These substances were enclosed in small bottles and small parcels, precisely similar to one another, and kept carefully out of the range of vision of the ' subjects,' who were, moreover, blindfolded, so that no grimaces made by the tasters could be seen. The 'subjects,' in fact, had no means whatever of knowing, through the sense of sight, what was the substance tasted.
+
+1 It is impossible here to give more than a selection of cases. I must refer the reader to Chap. i. of the Supplement, and to the Proceedings of the Society for Psychical Research, Vol. i., p. 225, &c, Vol. ii., p. 17, &c, and p. 205, &c.; and Mr. Guthrie's "Further Report " in Vol. iii.
+
+" Smell had to be guarded against with still greater care. When the substance was odoriferous the packet or bottle was opened outside the room, or at such a distance, and so cautiously as to prevent any sensible smell from escaping. The experiments, moreover, were conducted in the close vicinity of a very large kitchen, from whence a strong odour of beefsteak and onions proceeded during almost all the time occupied. The tasters took pains to keep their heads high above the ' subjects,' and to avoid breathing with open mouth. One substance (coffee) tried was found to give off a slight smell, in spite of all precautions, and an experiment made with this has been omitted.
+
+" The tasters were Mr. Guthrie (M.G.), Mr. Gurney (E.G.), and Mr. Myers (M.). The percipients may be called R. and E. The tasters lightly placed a hand on one of the shoulders or hands of the percipients — there not being the same objection to contact in trials of this type as where lines and figures are concerned, and the ' subjects; themselves seeming to have some faith in it. During the first experiments (September 3rd and 4th) there were one or two other persons in the room, who, however, were kept entirely ignorant of the substance tasted. During the experiments silence was preserved. The last fifteen of them (September 5th) were made when only M. G., E. G., and M., with the two percipients, were present. On this evening E. was, unfortunately, suffering from sore throat, which seemed to blunt her susceptibility. On this occasion none of the substances were allowed even to enter the room where the percipients were. They were kept in a dark lobby outside, and taken by the investigators at random, so that often one investigator did not even know what the other took. Still less could any spy have discerned what was chosen, had such spy been there, which he certainly was not.
+
+" A very small portion of each substance used was found to be enough. The difficulty lies in keeping the mean between the massive impression of a large quantity of a salt, spice, bitter, or acid, which confounds the specific differences under each general head, and the fading impression which is apt to give merely a residual pungency, from which the characteristic flavour has escaped. It is necessary to allow some minutes to elapse between each experiment, as the imaginary taste seems to be fully as persistent as the real one.
+
+September 3rd, 1883.
+
+TASTER. PERCIPIENT. SUBSTANCE. ANSWERS GIVEN.
+
+1. — M E Vinegar " A sharp and nasty taste. "
+
+2.— M E Mustard "Mustard."
+
+3. — M R Do "Ammonia."
+
+4. — M E Sugar " I still taste the hot taste of the
+
+mustard."
+
+September teh.
+
+5. — E. G. &M... E Worcestershire sauce. " Worcestershire sauce. "
+
+6.— M. G E Do "Vinegar."
+
+7. — E. G. &M... E Port wine "Between eau de Cologne and
+
+beer. "
+
+8. — M. G R Do " Raspberry vinegar."
+
+9.— E. G. &M... E Bitteraloes " Horrible and bitter. "
+
+10.— M. G. R Alum "A taste of ink— of iron— of
+
+vinegar. I feel it on my lips
+
+— it is as if I had been eating
+
+alum."
+
+54 THE EXPERIMENTAL BASIS: [chap.
+
+TASTER. PERCIPIENT. SUBSTANCE. ANSWERS GIVEN.
+
+11.— M. G E Alum (E. perceived that M. G. was
+
+not tasting bitter aloes, as E. G. and M. supposed, but something different. No distinct perception on account of the persistence of the bitter taste.)
+
+12. — E. G. & M... E Nutmeg "Peppermint — no — what you put
+
+in puddings — nutmeg."
+
+13.— M. G R Do "Nutmeg."1
+
+14. — E. G. &M... E Sugar Nothing perceived.
+
+15. — M, G R Do Nothing perceived.
+
+(Sugar should be tried at an earlier stage in the series, as, after the aloes, we could scarcely taste it ourselves. )
+
+16.— E. G. &M... E Cayenne pepper "Mustard."
+
+17. — M. G R Do. " Cayenne pepper. "
+
+(After the cayenne we were unable to taste anything further that evening.
+
+September 5th.
+
+18. — E. G. & M... E Carbonate of soda Nothing perceived.
+
+19. — M. G R Carraway seeds "It feels like meal — like a seed
+
+loaf — carraway seeds." (The substance of the seeds seemed to be perceived before their taste. )
+
+20.— E. G. &M... E Cloves "Cloves."
+
+21. — E. G. &M... E Citric acid Nothing perceived.
+
+22.— M. G R Do "Salt."
+
+23.— E. G. &M... E Liquorice "Cloves."
+
+24.— M. G R Cloves "Cinnamon."
+
+25.— E. G. &M... E Acid jujube "Pear drop."
+
+26. — M. G R Do "Something hard, which is
+
+giving way — acid jujube."
+
+27. — E. G. &M... E Candied ginger " Something sweet and hot. "
+
+28.— M. G R Do. "Almond toffy."
+
+(M. G. took his ginger in the dark, and was some time before he realised that it was ginger.)
+
+29.— E. G. &M... E Home-made Noyau... "Salt."
+
+30.— M. G R Do.... "Port wine."
+
+(This was by far the most strongly smelling of the substances tried, the scent of kernels being hard to conceal. Yet it was named by E. as salt. )
+
+31.— E. G. &M... E Bitteraloes "Bitter."
+
+.32. — M. G R Do Nothing perceived.
+
+1 In some cases two experiments were carried on simultaneously with the same substance; and when this was done, the first percipient was of course not told whether her answer was right or wrong. But it will perhaps be suggested that, when her answer was right, the agent who was touching her unconsciously gave her an intimation of the fact by the pressure of his hand; and that she then coughed or made some audible signal to her companion, who followed suit. Whatever the theory may be worth, it will, we think, be seen that the success of the second percipient with the nutmeg was the only occasion, throughout the series, to which it can be applied.
+
+" We should have preferred in these experiments to use only substances which were wholly inodorous. But in order to get any description of tastes from the percipients, it was necessary that the tastes should be either very decided or very familiar. It would be desirable, before entering on a series of experiments of this kind, to educate the palates of the percipients by accustoming them to a variety of chemical substances, and also by training them to distinguish, with shut eyes, between the more ordinary flavours. It is well known how much taste is helped by sight and determined by expectation; and when it is considered that the percipients in these cases were judging blindfold of the mere shadow of a savour, it will perhaps be thought that even some of their mistakes are not much wider of the mark than they might have been had a trace of the substance been actually placed upon their tongues."
+
+In later experiments, Mr. Guthrie endeavoured to meet the difficulty caused by odorous substances, and even succeeded in obtaining what appeared to be transferences of smell-impressions. The " subjects " and the agents were placed in different rooms. An opening, 10| inches square, had been made in the wooden partition between the two rooms; and this had been filled in with a frame, covered with india-rubber and fitting tightly. Through a slit in this frame the agent (Mr. Guthrie or his relative, Miss Redmond) passed a hand, which both the " subjects" could then touch. Under these conditions, as far as could be judged, it was impossible for any scent to pass; and, certainly, if any did pass, it would have needed extreme hyperesthesia to detect it. The following results were obtained on December 5th, 1883:—
+
+1. — Miss Redmond tasted powdered nutmeg. E. said " Ginger." R. said " Nutmeg." 2. — Mr. G. tasted powder of dry celery. E.: "A bitter herb." R.: " Something like camomile." 3. — Miss Redmond tasted coffee.
+
+At the same time, without any previous intimation, Mr. G., with two
+
+pins, pricked the front of the right wrist of Miss Redmond. E. said: " Is it a taste at all ] " Mr. G.: " Why do you ask? "
+
+" Because I feel a sort of pricking in the left wrist." She was told it was the right wrist, but said she felt it in the left. R.: "Is it cocoa or chocolate? " Answer given in the negative. E.: " Is it coffee % " 4. — Mr. G. tasted Worcestershire sauce.
+
+R.: " Something sweet.. also acid.. a curious taste." E.: " Is it vinegar 1 " 5. — Miss Redmond smelt eau de Cologne. R.: " Is it eau de Cologne 1 "
+
+56 THE EXPERIMENTAL BASIS; [chap.
+
+6.— Miss Redmond smelt camphor.
+
+E.: " Don't taste anything."
+
+R.: Nothing perceived. 7. — Mr. G. smelt carbolic acid.
+
+R.: " What you use for toothache... creosote."
+
+E. afterwards said she thought of pitch. 8. — Mr. G. Right instep pricked with pins.
+
+E. guessed first the face, then the left shoulder; then R. localised the pain on the right foot.
+
+The pain was then silently transferred to the left foot. E. localised it on the left foot. Both maintained their opinions.
+
+I will quote one more taste-series, for the sake of illustrating a special point — namely, the deferment of the percipient's consciousness of the sensation until a time when the agent had himself ceased to feel it. This fact is of great interest, on account of the marked analogy to it which we shall encounter in many of the spontaneous telepathic cases. The instances below are too few to be conclusive; but we used to notice the same thing in our experiments with the Creery family — the object on which the attention of the agents had been concentrated being sometimes correctly named after the experiment had been completely abandoned as a failure. (Gf,, Vol. II., p. 327.)
+
+June 11 th, 1885.
+
+Dr. Hyla Greves was in contact with Miss Relph, having tasted
+
+salad oil. Miss Relph said: "I feel a cool sensation in my mouth, something
+
+like that produced by sal prunelle." Mr. R. C. Johnson in contact, having tasted Worcestershire sauce in
+
+another room. "I taste something oily; it is very like salad oil." Then, a few
+
+minutes after contact with Mr. Johnson had ceased, " My mouth
+
+seems getting hot after the oil." (N.B. — Nothing at all had been said
+
+about the substances tasted either by Dr. Greves or Mr. Johnson.) Dr. Greves in contact, having tasted bitter aloes. " I taste something frightfully hot... something like vinegar
+
+and pepper... Is it Worcestershire sauce? " Mr. Guthrie in contact, also having tasted bitter aloes. " I taste something extremely bitter, but don't know what it is, and
+
+do not remember tasting it before... It is a very horrid
+
+taste."
+
+The possibility of the transference of pain, to a percipient in the normal state, is also a recent discovery. In December, 1882, we obtained some results which — with our well-tried knowledge of the percipient's character — we regard as completely satisfactory; but our more striking successes in this line happen to have been with
+
+hypnotic subjects.1 The form of experiment has difficulties of its own. For, in mercy to the agent, the pain which it is hoped to transfer cannot be very severely inflicted; and, moreover, in such circumstances of investigation as Mr. Guthrie's, it is only a very limited amount of the area of the body that can practically be used — a fact which of course increases the percipient's chances of accidental success. Still, the amount of success obtained with Mr. Guthrie's " subjects," in a normal state, is such as certainly excludes the hypothesis of accident. In some of the most remarkable series, contact has been permitted, it being difficult to suppose that unconscious pressure of the hand could convey information as to the exact locality of a pain.2 But complete isolation of the percipient is, no doubt, a more satisfactory condition; and at seven of the Liverpool meetings, which took place at intervals from November, 1884, to July, 1885, the experiment was arranged in the following way. The percipient being seated blindfolded, and with her back to the rest of the party, all the other persons present inflicted on themselves the same pain on the same part of the body. Those who took part in this collective agency were three or more of the following: Mr. Guthrie, Professor Herdman, Dr. Hicks, Dr. Hyla Greves, Mr. R. C. Johnson, F.R.A.S., Mr. Birchall, Miss Redmond, and on one occasion another lady. The percipient throughout was Miss Relph.
+
+In all, 20 trials were made. The parts pained were —
+
+1. — Back of left hand pricked. Rightly localised.
+
+2. — Lobe of left ear pricked. Rightly localised.
+
+3. — Left wrist pricked. "Is it in the left hand1?" — pointing to the
+
+back near the little finger. 4. — Third finger of left hand tightly bound round with wire. A lower
+
+joint of that finger was guessed. 5. — Left wrist scratched with pins. "It is in the left wrist, like
+
+being scratched." 6. — Left ankle pricked. Rightly localised. 7. — Spot behind left ear pricked. No result. 8. — Right knee pricked. Rightly localised. 9. — Right shoulder pricked. Eightly localised. 10.— Hands burned over gas. " Like a pulling pain.. then tingling,
+
+like cold and hot alternately " — localised by gesture only. 11. — End of tongue bitten. " It is in the lip or the tongue." 12. — Palm of left hand pricked. "Is it a tingling pain in the hand,
+
+here? " — placing her finger on the palm of the left hand. 13. — Back of neck pricked. " Is it a pricking of the neck? "
+
+1 See Proceedings of the S.P.R., Vol. i., pp. 225-6; Vol. ii., p. 250.
+
+2 See, for instance, the record of Mr. Hughes's series in Mr. Guthrie's "Further Report," above referred to.
+
+58 THE EXPERIMENTAL BASIS: [chap.
+
+14. — Front of left arm above elbow pricked. Rightly localised.
+
+15. — Spot just above left ankle pricked. Rightly localised.
+
+16. — Spot just above right wrist pricked. "I am not quite sure, but I
+
+feel a pain in the right arm, from the thumb upwards, to above
+
+the wrist." 17. — Inside of left ankle pricked. Outside of left ankle guessed. 18. — Spot beneath right collarbone pricked. The exactly corresponding
+
+spot on the left side was guessed. 19. — Back hair pulled. No result. 20. — Inside of right wrist pricked. Right foot guessed.
+
+Thus in 10 out of the 20 cases, the percipient localised the pain with great precision; in 6 the localisation was nearly exact, and with these we may include No. 10, where the pain was probably not confined to a single well-defined area in the hands of all the agents; in 2 no local impression was produced; and in 1, the last, the answer was wholly wrong.
+
+§11. We may pass now to a totally new division of experimental cases. So far the effect of thought-transference on the receiving mind has been an effect in consciousness — the actual emergence of an image or sensation which the percipient has recognised and described. But it is not necessary that the effect should be thus recognised by the percipient; his witness to it may be unconscious, instead of conscious, and yet may be quite unmistakeable. The simplest example of this is when some effect is produced on his motor system — when the impression received causes him to perform some action which proves to have distinct reference to the thought in the agent's mind.1
+
+The cases fall into two classes. In one class the actions are purely automatic: in the other some conscious idea of what was to be done has preceded and accompanied the muscular effect; so that that effect would be at most semi-automatic. To begin with this semi-automatic class; it might be thought that examples would be found in those rarer cases of the " willing-game " where contact, and
+
+1 Even an effect on the sensory system may bear witness to an unconscious impression, if it is an indirect effect, led up to by certain hidden processes. In the Proceedings of the S. P. B,., Vol. i., pp. 257-60, Vol. ii., pp. 203-4, and Vol. iii., pp. 453-9, a casein point is given. A young man's fingers having been concealed from him by a paper screen, anaesthesia and rigidity were repeatedly produced in one or another of them, by a process in which the concentrated attention of the " agent " on the particular finger proved to be an indispensable element. A psychical account of this result seems possible, if thoughttransference can work, so to speak, underground. Such a case, however, may possibly indicate something beyond simple thought-transference — some sort of specific physical influence; and it should be noted that the " subject," though at the time he was wide awake and in a perfectly normal state, had frequently on former occasions been hypnotised by the agent.
+
+It is only in connection with hypnotism, again, that we find authentic cases of the direct effect of volition in producing the identical movement willed — such as raising the hand, dropping a book, &c. Some of these will be given in the next chapter.
+
+movement on the agent's part, are avoided. But we have received no records of such cases where it is certain that the precautions necessary to exclude the barest possibility of slight unconscious physical signs were rigidly enforced; and it will be preferable to describe some experiments made by members of our own group, where this point was kept steadily in view. We have had several interestingseries in which the " subject's " power of utterance has been inhibited by the silent determination of the operator. Our first experiments of this sort were made in January, 1883. The "subject" was our friend, Mr. Sidney Beard, who had been thrown into a light hypnotic trance by Mr. G. A. Smith. A list of twelve Yeses and Noes in arbitrary order was written by one of ourselves and put into Mr. Smith's hand, with directions that he should successively " will " the " subject " to respond or not to respond, in accordance with the order of the list. Mr. Beard was lying back with closed eyes; and a tuningfork was struck and held at his ear, with the question, " Do you hear? " asked by one of ourselves. This was done twelve times with a completely successful result, the answer or the failure to answer corresponding in each case with the " yes " or " no " of the written list — that is to say, with the silently concentrated will of the agent.1 A much more prolonged series of trials was made in November, 1883, by Professor Barrett, at his house in Dublin. The hypnotistwas again Mr. G. A. Smith.
+
+"The 'subject ' was an entire stranger to Mr. Smith, a youth named Fearnley, to whom nothing whatever was said as to the nature of the experiment about to be tried, until he was thrown into the hypnotic state in my study. He was then in a light sleep- waking condition — his eyes were closed and the pupils upturned — apparently sound asleep; but he readily answered in response to any questions addressed to him by Mr. Smith or by myself.
+
+" I first told him to open the fingers of his closed hand, or not to open them, just as he felt disposed, in response to the question addressed to him. That question, which I always asked in a uniform tone of voice, was in
+
+1 Similar trials on other occasions were equally successful; as also were trials where the tuning-fork was dispensed with, and the only sound was the question, "Do you hear? " asked by one of the observers. On these latter occasions, however, Mr. Smith was holding Mr. Beard's hand; and it might be maintained that "yes " and " no " indications were given by unconscious variations of pressure. How completely unconscious the supposed " reader " was of any sensible guidance will be evident from Mr. Beard's own account. " During the experiments of January 1st, when Mr. Smith mesmerised me, I did not entirely lose consciousness at any time, but only experienced a sensation of total numbness in my limbs. When the trial as to whether I could hear sounds was made, I heard the sounds distinctly each time, but in a large number of instances I felt totally unable to acknowledge that I heard them. I seemed to know each time whether Mr. Smith wished me to say that I heard them; and as I had surrendered my will to his at the commencement of the experiment, I was unable to reassert my power of volition whilst under his influence."
+
+60 THE EXPERIMENTAL BASIS: [chap.
+
+each case, ' Now, will you open your hand? ' and at the same moment I pointed to the word ' Yes ' or ' No,' written on a card, which was held in sight of Mr. Smith, but entirely out of the range of vision of the 'subject,' even had his eyes been open, which they were not. Without the slightest change of expression or other observable muscular movement, and quite out of contact with the ' subject,' Mr. Smith then silently willed the subject to open or not to open his hand, in accordance with the ' Yes ' or ' No.' Twenty successive experiments were made in this way; seventeen of these were quite successful, and three were failures. But these three failures were possibly due to inadvertence on Mr. Smith's part, as he subsequently stated that on those occasions he had not been prompt enough to direct his will in the right direction before the question was asked.
+
+"The experiment was now varied as follows: The word 'Yes' was written on one, and the word ' No ' on the other, of two precisely similar pieces of card. One or other of these cards was handed to Mr. Smith at my arbitrary pleasure, care, of course, being taken that the ' subject ' had no opportunity of seeing the card, even had he been awake. When ' Yes ' was handed, Mr. Smith was silently to will the ' subject ' to answer aloiid in response to the question asked by me, ' Did you hear me? ' When ' No ' was handed, Mr. Smith was to will that no response should be made in reply to the same question. The object of this series of experiments was to note the effect of increasing the distance between the wilier and the willed, — the agent and the percipient. In the first instance Mr. Smith was placed three feet from the 'subject,' who remained throughout apparently asleep in an arm-chair in one corner of my study.
+
+" At three feet apart, fifteen trials were successively made, and in every case the ' subject ' responded or did not respond in exact accordance with the silent will of Mr. Smith, as directed by me.
+
+" At six feet apart, six similar trials were made without a single failure.
+
+" At twelve feet apart, six more trials were made without a single failure.
+
+"At seventeen feet apart, six more trials were made without a single failure.
+
+" In this last case Mr. Smith had to be placed outside the study door, which was then closed with the exception of a narrow chink just wide enough to admit of passing a card in or out, whilst I remained in the study observing the ' subject.' To avoid any possible indication from the tone in which I asked the question, in all cases except the first dozen experiments, I shuffled the cards face downwards, and then handed the unknown ' Yes ' or ' No ' to Mr. Smith, who looked at the card and willed accordingly. I noted down the result, and then, and not till then, looked at the card.
+
+" A final experiment was made when Mr. Smith was taken across the hall and placed in the dining-room, at a distance of about thirty feet from the ' subject,' two doors, both quite closed, intervening. Under these conditions, three trials were made with success, the ' Yes ' response being, however, very faint and hardly audible to me, who returned to the study to ask the usual question after handing the card to the distant operator. At this point, the 'subject' fell into a deep sleep, and made no further replies to the questions addressed to him.
+
+" Omitting these final experiments, the total number of successive trials at different distances was forty-three. If the result had been due to accident, there would have been an even chance of failures and of
+
+successes, — whereas in fact there was not a single failure in the entire series.
+
+" I subsequently made a series of a dozen successive trials in an absolutely dark room, conveying my intention to Mr. Smith by silently squeezing his hand, once for 'No,' twice for 'Yes.' Every trial was successful. When Mr. Smith was placed outside the darkened room, I handed him the card through a small aperture, which could be closed. Eight trials gave six results quite right, one wrong, and one doubtful. Afterwards twenty trials, made when Mr. Smith was recalled, and the room lighted, were all entirely successful. There was, I need hardly say, no contact between operator and ' subject ' in any of these experiments.
+
+" The difference in the power of the will of the hypnotist and that of any other person was strikingly manifest, and the proof of the existence of a peculiar ' rapport ' between operator and subject was simply overwhelming. I several times exerted my will in opposition to that of Mr. Smith — that is to say, willed that the ' subject ' should or should not respond, when Mr. Smith willed the opposite, both of us being equally distant from the ' subject.' In every case his will triumphed. As in the case of Mr. Beard, the ' subject,' on being aroused, stated that he had heard the question each time, but that when he gave no answer he felt unaccountably unable to control his muscles so as to frame the word.
+
+" It was noticeable that neither in the normal nor in the hypnotic state was this subject able to tell any word or number or describe any diagram thought of or viewed by the operator. Only his ability to act in a particular way could be controlled, and he was not susceptible to even the most rudimentary form of thought-transference proper."
+
+The following shorter series with another operator, Mr. Kershaw, of Southport, and with Mrs. Firth, a sick-nurse, as "subject," though the precautions were less elaborate than in the case just recorded, was to an eye-witness almost equally satisfactory. For the trial was quite suddenly suggested to Mr. Kershaw by the present writer; and not only was it planned out of Mrs. Firth's hearing, but Mr. Kershaw himself had some difficulty in understanding what was wanted. A variety of small circumstances combined to show that the form of experiment was entirely new both to operator and " subject."
+
+The trial took place at Southport, on September 7th, 1883. Mrs. Firth, who had been previously thrown into a light stage of trance, was placed in a chair in the middle of a bare room. Mr. Kershaw and I stood about three yards behind her; and sight of us, or of any part of us, on her part was out of the question. The window was in the wall in front of her, but altogether on one side; and there were no other reflecting surfaces in the room. I drew up the subjoined list of yeses and noes, and held it for Mr. Kershaw to see. He made a quiet connecting motion of the hand (not touching me, and being many
+
+62 THE EXPERIMENTAL BASIS: [chap.
+
+feet from Mrs. Firth), when there was to be an answer, and an equally quiet transverse or separating pass when there was to be none. I attribute no virtue to the passes, except so far as they were a means of vivifying Mr. Kershaw's silent intention to himself. The passes were almost absolutely noiseless, and the extremely faint sound which they made, from the very nature of the gentle motion, can scarcely have varied. Complete silence was preserved but for my question, " Do you hear? " repeated time after time, in a perfectly neutral tone; and there did not appear to be the very faintest chance of signalling, even had there been an opportunity for arranging a scheme.
+
+1. — Yes Right (i.e., Mrs. Firth responded).
+
+2. — No Right (i.e., Mrs. Firth did not respond).
+
+3._Yes Right.
+
+4.— Yes Right.
+
+5.— No Right.
+
+6.— Yes Right.
+
+7. — No, At first no answer, which was right: then
+
+I gave a very loud stamp, which provoked a " Yes."
+
+8.— No Right.
+
+9.— Yes Right.
+
+I will add one more short series, which took place at my lodgings at Brighton, on September 10th, 1883. The operator was Mr. Smith; the "subject" an intelligent young cabinet-maker, named Conway. Mr. Smith and I stood behind him, without any contact with him. I held the list, and pointed to the desired answer each time. The silence was absolute. I repeated the question, " What is your name? " in a perfectly neutral and monotonous manner.
+
+1. — Yes Right (i.e., the "subject" said "Conway").
+
+2._Yes Right.
+
+3. — No This time the answer " Conway" was given; but when
+
+the next question was asked, the " subject " seemed unable to answer for some seconds, as though Mr. Smith's intention had taken effect a little too late.
+
+4.— Yes....
+
+....Right.
+
+-Yes....
+
+....Right.
+
+10.-
+
+-Yes....
+
+....Right.
+
+5.— No....
+
+....Right.
+
+-No....
+
+....Right.
+
+11.-
+
+-No....
+
+....Right.
+
+6.— No....
+
+Right.
+
+-Yes....
+
+....Right.
+
+Yes....
+
+....Right.
+
+| 12. But in experiments of this class it is clearly difficult to be sure that the conscious idea of the evoked or the inhibited action does not precede or accompany the muscular effects. Indeed, as we have seen, the percipient's own account has sometimes shown that it did so. I proceed, then, to our second class of cases. There is, fortunately, one sort of act where the verdict of the performer that it was
+
+automatically performed may be taken as conclusive; the act of writing. If words are written down which the writer is obliged to read over, and even to puzzle over, just as anyone else might do, in order to learn what they are, his unconsciousness of them in the act of writing may be taken as established. Now written ' words are of course as good as spoken ones, as evidence that a particular idea has been in some way communicated. If, then, one person's automatic writing corresponds unmistakeably to the idea on which another person's mind was concentrated at the time, and if the possibility of sensory indications has been excluded, we have a clear example of some novel influence acting, not only without the participation of the recognised organs of sense, but without the participation of the percipient's conscious intelligence. Here again we find the advantage of the generic word " telepathy " — for it would clearly be inaccurate to call a phenomenon " thought-transference " where what is transferred does not make its appearance, on the percipient's side, as thought or any other form of conscious perception.
+
+We have in our collection several examples of this motor form of experimental telepathy; where a mental question on the part of some one present has been answered in writing, with a planchette1 or a simple pencil, without any consciousness of either the question or the answer on the part of the person whose hand was automatically acting. But the following group of cases is decidedly the most remarkable that has come under our notice.
+
+The Rev. P. H. Newnham, Vicar of Maker, Devonport, has had many indications of spontaneous transference of thought from himself to his wife;2 and at one period of his life, in 1871, he carried out a long and systematic series of experiments, which were of the motor type that we are now considering — he writing down a question, and the planchette under his wife's hands replying to it. He recorded the results, day by day, in a private diary, which he has kindly placed at our disposal. From this diary I quote the following extracts: —
+
+My wife always sat at a small low table, in a low chair, leaning backwards. I sat about eight feet distant, at a rather high table, and with my back towards her while writing down the questions. It was absolutely impossible that any gesture or play of features, on my part, could have been visible or intelligible to her. As a rule she kept her eyes shut; but never became in the slightest degree hypnotic, or even naturally drowsy.
+
+1 A planchette has two advantages over a simple pencil. It is very much more easilymoved to write; and it is very much easier to make with it the movements necessary for the formation of letters without realising what the letters are.
+
+2 See, e.g., the cases quoted in Chap, v., §§2 and 8.
+
+64 THE EXPERIMENTAL BASIS: [chap.
+
+Under these conditions we carried on experiments for about eight months, and I have 309 questions and answers recorded in my note-book, spread over this time. But the experiments were found very exhaustive of nerve power, and as my wife's health was delicate, and the fact of thought-transmission had been abundantly proved, we thought it best to abandon the pursuit.
+
+I may mention that theplanchette began to move instantly, with my wife. The answer was often half written before I had completed the question.
+
+On first finding that it would write easily, I asked three simple questions which were known to the operator j1 then three others, unknown to her, relating to my own private concerns. All six having been instantly answered in a manner to show complete intelligence, I proceeded to ask: —
+
+7.2 Write down the lowest temperature here this winter. A. 8.
+
+Now, this reply at once arrested my interest. The actual lowest temperature had been 7-6° so that 8 was the nearest whole degree; but my wife said at once that, if she had been asked the question, she would have written 7 and not 8; as she had forgotten the decimal, but remembered my having said that the temperature had been down to 7 something.
+
+I simply quote this, as a good instance, at the very outset, of perfect transmission of thought, coupled with a perfectly independent reply; the answer being correct in itself, but different from the impression on the conscious intelligence of both parties.3
+
+Naturally our first desire was to see if we could obtain any information concerning the nature of the intelligence which was operating through the planchette, and of the method by which it produced the written results. We repeated questions on this subject again and again, and I will copy down the principal questions and answers in the connection.
+
+January 29^A.
+
+13. Is it the operator's brain, or some external force, that moves the
+
+planchette 1 Answer " brain " or " force." A. Will.
+
+14. Is it the will of a living person, or of an immaterial spirit, distinct
+
+from that person 1 Answer " person " or " spirit." A. Wife.
+
+15. Give first the wife's Christian name; then, my favourite name
+
+for her. (This was accurately done.)
+
+27. What is your own name?
+
+A. Only you.
+
+28. We are not quite sure of the meaning of the answer. Explain.
+
+A. Wife. Failing to get more than this, at the outset, we turned to the same thought after question 114; when, having been closely pressed on another subject, we received the curt reply — " Told all I know."
+
+1 Mr. Newnham uses this word where we should use " subject "or " percipient."
+
+2 The numbers prefixed to the questions are those in the note-book.
+
+3 It will be borne in mind throughout that Mrs. Newnham had, at the time when the answer was produced, no conscious knowledge of the question which her husband had written down.
+
+February 18th.
+
+117. Who are you that writes, and has told all you know 1 A. Wife.
+
+118. But does no one tell wife what to write? If so, who 1 A. Spirit.
+
+119. Whose spirit? A. Wife's brain.
+
+1 20. But how does wife's brain know (certain) secrets? A. Wife's spirit unconsciously guides.
+
+121. But how does wife's spirit know things it has never been told? A. No external influence.
+
+122. But by what internal influence does it know (these) secrets? A. You cannot know.
+
+March 15 th.
+
+132. Who, then, makes the impressions upon her? A. Many strange things.
+
+133. What sort of strange things?
+
+A. Things beyond your knowledge.
+
+134. Do, then, things beyond our knowledge make impressions upon wife? A. Influences which no man understands or knows.
+
+136. Are these influences which we cannot understand external to wife? A. External — invisible.
+
+137. Does a spirit, or do spirits, exercise those influences? A. No, never (written very large and emphatically).
+
+138. Then from whom, or from whence, do the external influences come? A. Yes; you will never know.
+
+139. What do you mean by writing " yes " in the last answer? A. That I really meant never.
+
+April 10th.
+
+192. But by what means are my thoughts conveyed to her brain? A. Electro-biology.
+
+193. What is electro-biology? A. No one knows.
+
+194. But do not you know?
+
+A. No. Wife does not know. My object in quoting this large number of questions and replies [N.B. those here given are mere samples] has not been merely to show the instantaneous and unfailing transmission of thought from questioner to operator; but, more especially, to call attention to a remarkable characteristic of the answers given. These answers, consistent and invariable in their tenor from first to last, did not correspond with the opinions or expectations of either myself or my wife. Neither myself nor my wife had ever taken part in any form of (so-called) " spiritual " manifestations before this time; nor had we any decided opinion as to the agency by which phenomena of this kind were brought about. But for such answers as those numbered 14, 27, 137, 192, and 194, we were both of us totally unprepared; and I may add that, so far as we were prepossessed by any opinions whatever, these replies were distinctly opposed to such opinions. In a word, it is simply impossible that these replies should
+
+66 THE EXPERIMENTAL BASIS: [chap.
+
+have been either suggested or composed by the conscious intelligence of either of us.
+
+I had a young man reading with me as a private pupil at this time. On February 12th he returned from his vacation; and, on being told of our experiments, expressed his incredulity very strongly. I offered any proof that he liked to insist upon, only stipulating that I should see the question asked. Accordingly, Mrs. Newnham took her accustomed chair in my study, while we went out into the hall, and shut the door behind us. He then wrote down on a piece of paper:— 87. What is the Christian name of my eldest sister 1
+
+We at once returned to the study, and found the answer already waiting for us: — A. Mina.
+
+(This name was the family abbreviation of Wilhelmina; and I should add that it was unknown to myself.)
+
+I must now go on to speak of a series of other experiments, of a very remarkable kind.
+
+We soon found that my wife was perfectly unable to follow the motions of the planchette. Often she only touched it with a single finger; but even with all her fingers resting on the board, she never had the slightest idea of what words were being traced out. It struck me that it would be a good thing to take advantage of this peculiarity on her part, to ask questions upon subjects that it was impossible for her to know anything about. I had taken a deep interest in Masonic.archaeology, and I now questioned planchette on some subjects connected therewith.
+
+February \i-th.
+
+92. What is the English of the great word of the R.A. 1
+
+After an interruption, of which I shall speak hereafter, one great word of the degree, but not the one I meant, was written, very slowly and clearly.
+
+February \&th.
+
+112. What is the translation of the Great Triple Word?
+
+A. (The first syllable of the word in question was written correctly, and then it proceeded.) The end unknown. Three languages. Greece. Egypt. Syriac.
+
+115. Who are you that know 1 (Answer scrawled and illegible.)
+
+116. Please repeat same answer legibly. A. Manifestation triune person.
+
+March 2Qth.
+
+166. Of what language is the first syllable of the Great Triple R.A.
+
+Word? A. Don't know.
+
+167. Yes, you do. What are the three languages of which the word is
+
+composed 1 A. Greek, Egypt, Syriac first syllable (correctly given), rest unknown.
+
+168. Write the syllable which is Syriac. A. (First syllable correctly written.)
+
+169. Write the syllable which is Egyptian. A. Second.
+
+170. Can you not write the syllable itself? A. Third Greek.
+
+174. Write down the word itself.
+
+A. First three and last two letters were written correctly, but four incorrect letters, partly borrowed from another word of the same degree, came in the middle.
+
+176. Why do you write a word of which I know nothing %
+
+A. Wife tried hard to tell the word, but could not quite catch it.
+
+177. Catch it from whom? A. Not quite sure.
+
+178. Not quite sure of what 1
+
+A. I know nothing. Wife doesn't quite know. In the above series of answers we have, it seems to me, a very remarkable combination of knowledge and ignorance. There is a perfect appreciation of my thoughts, in the queries; but a strange, persistent, almost dogged, incapability of seeing my thoughts, in the replies. Especially in the answer to 116, and in some other answers [not here quoted], there is a reference to an opinion which was published by Dr. Oliver, whose works I had been carefully reading about four months before, but with whose theory, in this case, I most strongly disagreed. So that here was an opinion intimated which it was impossible that the operator could have been aware of, and which the questioner had absolutely rejected as untenable!
+
+182. Write out the prayer used at the advancement of a Mark Master Mason.
+
+A. Almighty Ruler of the Universe and Architect of all worlds, we beseech Thee to accept this, our brother, whom we have this day received into our most honourable Company of Mark Master Masons. Grant him to be a worthy member of our brotherhood; and may he be in his own person a perfect mirror of all Masonic virtues. Grant that all our doings may be to Thy honour and glory, and to the welfare of all mankind.
+
+This prayer was written off instantaneously and very rapidly. It is a very remarkable production indeed. For the benefit of those who are not members of the craft, I may say that no prayer in the slightest degree resembling it is made use of in the Ritual of any Masonic degree; and yet it contains more than one strictly accurate technicality connected with the degree of Mark Mason. My wife has never seen any Masonic prayers, whether in " Carlile," or any other real or spurious Ritual of the Masonic Order.
+
+Here, then, assuredly was a formula composed by some intelligence totally distinct from the conscious intelligence of either of the persons engaged in the experiment.
+
+I proceeded to inquire as follows: —
+
+F 2
+
+68 THE EXPERIMENTAL BASIS: [chap.
+
+183. I do not know this prayer. Where is it to be found? A. Old American Ritual.
+
+184. Where can I get one?
+
+A. Most likely none in England.
+
+185. Can you not write the prayer that I made use of in my own Lodge? A. No, I don't know it.
+
+In these last answers we see a new moral element introduced. There is evasion, or subterfuge, of a more or less ingenious kind; and totally foreign to the whole character and natural disposition of the operator. A similar attempt at deliberate invention, rather than plead guilty to total ignorance, is contained in the following answers: —
+
+May 7th.
+
+255. In what Masonic degree was the Triple Word first used? A. Wife does not know.
+
+256. Cannot you tell her?
+
+A. How can wife know what no one else does?
+
+257. Does no one, then, know the answer to this? A. No one knows now.
+
+258. What do you mean by " now"? Did anyone once know? A. The last one who knew died at least twenty years ago.
+
+259. What was his name?
+
+A. In America; don't know name.
+
+[Many more instances of these evasive replies occur.]
+
+May 10th. Planchette again gave us an example of its sense of the humorous.
+
+I had been obliged to engage a clergyman who was not a favourable specimen of his profession, as I could procure no one else in time to get the Sunday's work done. He was much amused with planchette, and desired to ask: —
+
+277. How should a bachelor live in this neighbourhood? (The answer was illegible.)
+
+278. Please repeat answer. A. Three months.
+
+(Planchette evidently did not catch the exact query.)
+
+279. I did not ask how long but how?
+
+A. Eating and drinking and sleeping and smoking.
+
+That clergyman never consulted planchette again.
+
+I will conclude with a very pretty instance of a mistake instantly corrected. It was on the same evening, May 10th; I had to preach on the following Whit-Monday, on the occasion of laying a foundation-stone with Masonic ceremonial, so I asked: —
+
+275. Give me a text for Whit-Monday's sermon.
+
+A. If I go not away, the Comforter will not come to you.
+
+The selection of a subject suitable for Whitsuntide is plainly the first idea caught by the intelligence; so I proceeded: —
+
+276. That will not do for my subject. I want a text for the Monday's
+
+sermon.
+
+A. Let brotherly love continue.
+
+I will add one example where, contrary to the usual rule, the idea
+
+of the answer, though not that of the question, reached the level of
+
+consciousness in Mrs. Newnham's mind.
+
+59. What name shall we give to our new dog 1 A. Nipen.
+
+The name of Nipen, from Feats on the Fiord, shot into the operator's brain just as the question was asked.
+
+The above quotations form a fair sample of Mr. Newnham's 309 experiments of the same type; and no one who admits the bona fides of the record, and believes that Mrs. Newnham, sitting with closed eyes eight feet behind her husband, did not obtain through her senses an unconscious knowledge of what he wrote, will deny that some sort of telepathic influence was at work, acting below the level of the percipient's consciousness. The experiments are further interesting as suggesting, in the character of many of the replies, an unconscious intelligence — a second self quite other than Mrs. Newnham's conscious self. " Unconscious intelligence " is no doubt a somewhat equivocal phrase, and it is necessary to know in every case exactly what is meant by it. It may be used in a purely 'physical sense — to describe the unconscious cerebral processes whereby actions are produced which as a rule are held to imply conscious intelligence; as, for instance, when complicated movements, once performed with thought and effort, gradually become mechanical. But it may be used also to describe psychical processes which are severed from the main conscious current of an individual's life. Unconsciousness in any further sense it would be rash to assert; for intelligent psychic process without consciousness of some sort, if not a contradiction in terms, is at any rate something as impossible to imagine as a fourth dimension in space. The events in question are outside the individual's consciousness, as the events in another person's consciousness are; but they differ from these last in not revealing themselves as part of any continuous stream of conscious life; and no one, therefore, can give an account of them as belonging to a self. What their range and conditions of emergence may be we cannot tell; since, in general, their very existence can only be inferred from certain sensible effects to which they lead.1 I may recall the undoubted phenomena of what
+
+1 It may be asked what right I have to make any such inference; since a la rigueur, the effects, being sensible and physical, do not require us to suppose that they had any other than physical antecedents. It is true that it is impossible to demonstrate that the physical antecedents, which undoubtedly exist, have any psychical correlative. But the
+
+70 THE EXPERIMENTAL BASIS: [chap.
+
+has been termed "double consciousness," where a double psychical life is found connected with a single organism. In those cases the two selves, one of which knows nothing of the other, appear as successive; but if we can regard such segregated existences as united or unified by bonds of reference and association which, for the partial view of one of them at least, remain permanently out of sight, then I do not see what new or fundamental difficulty is introduced by conceiving them as simultaneous; and simultaneity of the sort is what seems to be shown, in a fragmentary way, by cases like the present. I shall have to recur to this conception in connection with some of the facts of spontaneous telepathy (see pp. 230-1).
+
+A further noteworthy point is that so often the questions and not the answers in the agent's mind should have been telepathically discerned; but we may perhaps conceive that the impulse first conveyed set the percipient's independent activity to work, and so put an end for the moment to the receptive condition. The power to reproduce the actual word thought of is sufficiently shown in the cases where names were given (15 and 87), and in some of the Masonic answers; and the following examples belong to the same class.
+
+48. What name shall we give to our new dog? A. Yesterday was not a fair trial.
+
+49. Why was not yesterday a fair trial 1 A. Dog.
+
+And again: —
+
+108. What do I mean by chaffing C. about a lilac tree1? A. Temper and imagination.
+
+109. You are thinking of somebody else. Please reply to my question. A. Lilacs.
+
+Here a single image or word seems to have made its mark on the percipient's mind, without calling any originative activity into play; and we thus get the naked reproduction. In these last examples we again notice the feature of deferred impression. The influence
+
+results in question have often no analogy to the automatic actions which we are accustomed to attribute to "unconscious cerebration." They are not the effects of habit and practice; they are new results, of a sort which has in all. our experience been preceded by intention and reflection, and referable to a self. But perhaps the simplest illustration of what is here meant by " unconscious intelligence " is to be found in occasional facts of dreaming. Thus, it has occurred to me at least once, in a dream, to be asked a riddle, to give it up, and then to be told the answer — which, on waking, I found quite sufficiently pertinent to show that the question could not have been framed without distinct reference to it. Yet for the consciousness which I call mine, that reference had remained wholly concealed: so little had I known myself as the composer of the riddle that the answer came to me as a complete surprise. The philosophical problem of partial selves cannot be here enlarged on. For a discussion of the subject from the point of view of cerebral localisation, as well as for further quotations from Mr. Newnham's record, I may refer the reader to Mr. Myers' paper on "Automatic Writing," in Vol. iii. of the Proceedings of the S.P.R.
+
+II.]
+
+only gradually became effective, the immediate answer being irrelevant to the question. We may suppose, therefore, that the first effect took place below the threshold of consciousness.1
+
+§ 13. I may now proceed to some further results which were obtained with percipients of less abnormal sensibility, and which demand, therefore, a careful application of the theory of probabilities.
+
+1 The following case, though not strictly experimental, is sufficiently in point to be worth quoting. Though unfortunately not recorded in writing at the time, it was described within a few days of its occurrence to Mr. Podmore, who is acquainted with all the persons concerned. The narrator is Miss Robertson, of 229, Marylebone Road, W.
+
+"About three years ago I was speaking of planchette-writing to some of my friends, when a young lady, a daughter of the house where I was spending the evening, mentioned that she had played with planchette at school, and that it had always written for her. Thereupon I asked her to spend the evening with me, and try it again, which she agreed to do. On the morning of the day on which she had arranged to come to me, her brother, on leaving the house, said, laughing, ' Well, Edith, it is all humbug, but if planchette tells you the name and sum of money which are on a cheque which 1 have in my pocket, and which I am going to cash for mother, I will believe there is something in it. ' Edith, on her arrival at my house in the evening, told me of this, and I said, ' We must not expect that; planchette never does what one wants,' or words to that effect. A couple of hours after, we tried the planchette, Edith's hand alone touching it. It almost immediately wrote, quite clearly: —
+
+
+
+'i. Spalding. £6:13:4.'
+
+I had forgotten about the cheque, and I said, ' What can that mean? ' Upon which Edith replied, 'It is H.'s cheque, perhaps.' I was incredulous, having a long acquaintance with planchette. I said, ' If it is right, send me word directly you get home; I am sure it will not be.' But the next day I received a letter from Edith, telling me that she had astonished her brother greatly by telling him the name and the amount on the cheque, which was perfectly correct. 1 have read this account to the young lady and her brother, who sign it as well as myself.
+
+" Nora Robeetson.
+
+"E. C.
+
+In answer to an inquiry, Miss Robertson adds, on Eeb. 12, 1885: —
+
+"Miss E. C. says, in answer to your question, that she is quite certain she could not have known, or surmised, the name and amount of the cheque.
+
+" I can confirm her on the first point, for I remember questioning everybody all round at the time. She had just returned from school, and knew nothing at all about her mother's business or money matters."
+
+Here, it will be observed, the impression seems not only to have been unconscious, but to have remained latent for several hours before taking effect; for it is at any rate the most natural supposition that the transference actually occurred at the time when the conversation on the subject took place between the brother and sister.
+
+This latency of an impression which finally takes effect in distinct automatic or semi-automatic movements, may be seen in cases which have no connection with telepathy. It occurs, for instance, in the following "muscle-reading " experiment, described to us by Mr. George B. Trent, of 65, Sandgate Road, Eolkestone: —
+
+"March 24th, 1883.
+
+"Some two months back, I was asked by a gentleman, who had read of my experiments in the paper, to oblige him with a seance. I called upon him one afternoon, and he told me that he had hidden some object, in the early morning, and he thought he had given me a puzzle. I first experimented with pins; I led him to their hiding-places at once, without the least hesitation. I then asked him to concentrate the whole of his thoughts on what he had done in the morning. I immediately led him to a davenport, unlocked it, and from amongst, I may say, perhaps a hundred papers and other articles, I selected three photographs, and from the three I fixed upon one — that of his wife. He then said he was perfectly astonished, as I had positively gone through an experiment he had set himself to do, but abandoned in favour of another he had done."
+
+It seems probable that, at any rate in the earlier stages of this performance, the idea of what was to be done was not consciously present in the " wilier 's " mind, which was apparently concentrated on something else. And if so, his muscular indications must have been the result of unconscious cerebration — an effect of nervous activity, continuing to act in accordance with a previous impulse which had lapsed from consciousness.
+
+72 THE EXPERIMENTAL BASIS: [chap.
+
+For the development of the motor form of experiment in this direction, we have again to thank M. Richet; who here, as in the case of the card-guessing, has brought the calculus to bear effectively on various sets of results many of which, if looked at in separation, would have had no significance.1 The fact that the " subjects" of his trials were persons who had betrayed no special aptitude for "mental suggestion," made it clearly desirable that the bodily action required should be of the very simplest sort. The formation of words by a planchette-writer requires, of course, a very complex set of muscular co-ordinations: all that M. Richet sought to obtain was a single movement or twitch. In the earlier trials an object was hidden, and the percipient endeavoured to discover it by means of a sort of divining-rod — the idea being that he involuntarily twitched the rod at the right moment under the influence of "mental suggestion" from the agent, who was watching his movements. But where the subject of communication is of such an extremely simple kind, very elaborate precautions would be needed to guard against unconscious hints. Indications from the expression or attitude of the " agent " may be prevented by blindfolding the "percipient," and in other ways; but if the two are in close proximity, it is harder to exclude such signs as may be given by involuntary movements, or by changes of breathing. M. Richet's later experiments were ingeniously contrived so as to obviate this objection.
+
+The place of a planchette was taken by a table, and M. Richet prefaces his account by a succinct statement of the orthodox view as to "table-turning." Rejecting altogether the three theories which attribute the phenomena to wholesale fraud, to spirits, and to an unknown force, he regards the gyrations and oscillations of seance-tables as due wholly to the unconscious muscular contractions of the sitters. It thus occurred to him to employ a table as an indicator of the movements that might be produced, by "mental suggestion." The plan of the experiments was as follows. Three persons (C, D, and E,) took their seats in a semi-circle, at a little table on which their hands rested. One of these three was always a " medium " — a term used by M. Richet to denote a person liable to exhibit intelligent movements in which consciousness and will apparently take no part. Attached to the table was a simple electrical apparatus, the effect of which was to ring a bell whenever the current was broken by the tilting of the table.
+
+1 I have given a fuller description and criticism of M. Richet's investigations in Vol. ii. of the Proceedings of the S.P.R.
+
+Behind the backs of the sitters at the table was another table, on which was a large alphabet, completely screened from the view of C, D, and E, even had they turned round and endeavoured to see it. In front of this alphabet sat A, whose duty was to follow the letters slowly and steadily with a pen, returning at once to the beginning as soon as he arrived at the end. At A's side sat B, with a note-book; his duty was to write down the letter at which A's pen happened to be pointing whenever the bell rang. This happened whenever one of the sitters at the table made the simple movement necessary to tilt it. Under these conditions, A and B are apparently mere automata. C, D, and E are little more, being unconscious of tilting the table, which appears to them to tilt itself; but even if they tilted it consciously, and with a conscious desire to dictate words, they have no means of ascertaining at what letter A's pen is pointing at any particular moment; and they might tilt for ever without producing more than an endless series of incoherent letters. Things being arranged thus, a sixth operator, F, stationed himself apart both from the tilting table and from the alphabet, and concentrated his thought on some word of his own choosing, which he had not communicated to the others. The three sitters at the first table engaged in conversation, sang, or told stories; but at intervals the table tilted, the bell rang, and B wrote down the letter which A's pen was opposite to at that moment. Now, to the astonishment of all concerned, these letters, when arranged in a series, turned out to produce a more or less close approximation to the word of which F was thinking.
+
+For the sake of comparing the results with those which pure accident would give, M. Bichet first considers some cases of the latter sort. He writes the word NAPOLEON; he then takes a box containing a number of letters, and makes eight draws; the eight letters, in the order of drawing, turn out tobeUPMTDEYV He then places this set below the other, thus: —
+
+
+
+Upmtde Y V
+
+Taking the number of letters in the French alphabet to be 24, the probability of the correspondence of any letter in the lower line with the letter immediately above it is, of course £z; and in the series of 8 letters it is more probable than not that there will not be a single correspondence. If we reckon as a success any case where the letter in the lower line corresponds not only with the letter above it, but
+
+74 THE EXPERIMENTAL BASIS: [chap.
+
+with either of the neighbours of that letter in the alphabet1 {e.g., where L has above it either K, L, or M), then a single correspondence represents the most probable amount of success. In the actual result, it will be seen, there is just one correspondence, which happens to be a complete one — the letter E in the sixth place. It will not be necessary to quote other instances. Suffice it to say that the total result, of trials involving the use of 64 letters, gives 3 exact correspondences, while the expression indicating the most probable number was 2"7; and 7 correspondences of the other type, while the most probable number was 8. Thus even in this short set of trials, the accidental result very nearly coincided with the strict theoretic number.
+
+We are now in a position to appreciate the results obtained when the factor of " mental suggestion " was introduced. In the first experiment made, M. Richet, standing apart both from the table and from the alphabet, selected from Littre's dictionary a line of poetry which was unknown to his friends, and asked the name of the author. The letters obtained by the process above described were JFAED; and there the tilting stopped. After M. Richet's friends had puzzled in vain over this answer, he informed them that the author of the line was Racine; and juxtaposition of the letters thus —
+
+
+
+J F a R D
+
+
+
+J E a N R
+
+shows that the number of complete successes was 2, which is about 10 times the fraction representing the most probable number; and that the number of successes of the type where neighbouring letters are reckoned was 8, which is about 5 times the fraction representing the most probable number. M. Richet tells us, however, that he was not actually concentrating his thought on the author's Christian name. Even so, it probably had a sub-conscious place in his mind, which might sufficiently account for its appearance. At the same time accident has of course a wider scope when there is more than one result that would be allowed as successful; and the amount of success was here not nearly striking enough to have any independent weight.
+
+It is clearly desirable — with the view of making sure that F's mind, if any, is the operative one — not to ask a question of which the
+
+1 This procedure of counting neighbouring letters seems to require some justification. It might be justified by the difficulty, on the theory of mental suggestion, of obtaining an exact coincidence of time between the tilting and the pointing. But I think that M. Richet does justify it {Rev. Fhil., p. 054), by reference to some other experiments — not yet published, but of which he has shown us the record — where intelligible words were produced of which no one in the room was, or had been, thinking. For here also neighbouring letters appeared, but in such a way as left no room ior doubt, in the reader's mind, as to what the letter should have been.
+
+answer might possibly at some time have been within the knowledge of the sitters at the table; and in the subsequent experiments the name was silently fixed on by F. The most striking success was this: —
+
+Name thought of: CHEVALON
+
+Letters produced: CHEVAL
+
+Here the most probable number of exact successes was 0, and the actual number was 6.
+
+Taking the sum of eight trials, we find that the most probable number of exact successes was 2, and the actual number 14; and that the most probable number of successes of the other type was 7, and the actual number 24. It was observed, moreover, that the correspondences were much more numerous in the earlier letters of each set than in the later ones. The first three letters of each set were as follows —
+
+
+
