@@ -1,0 +1,591 @@
+The Divining Rod: A History of Water Witching (USGS Water-Supply Paper 416, 1917)
+
+Rare & Obscure Books series — No. ___
+
+Original language: English
+
+Basis: Clean reading edition of USGS Water-Supply Paper 416 (1917), a U.S. Government public-domain work; official USGS PDF text; wording original, page furniture removed. Includes the full chronological bibliography 1532-1916.
+
+By Arthur J. Ellis
+
+U.S. Geological Survey Water-Supply Paper 416 (1917)
+
+A work of the United States Government — public domain
+
+Ellis, Arthur J. (U.S. Geological Survey, 1917) — Tilford reading edition
+
+Basis and cleaning note: This is a clean reading edition of the official USGS PDF (https://pubs.usgs.gov/wsp/0416/report.pdf). Ellis's wording stands. Page furniture (running heads, page numbers, printer's lines) has been removed, words split across lines have been joined, and obvious OCR letter-errors have been corrected without modernizing Ellis's spelling or argument. The chronological bibliography 1532–1916 is included in full. Illustrations are omitted as images; see the original PDF. For cleaning details, doubtful readings, and what was omitted, see NOTES.md.
+
+Honesty note — read first: The United States Geological Survey's own verdict in this paper is skeptical of dowsing claims. O. E. Meinzer's Introductory Note states the Survey's position plainly: the history that follows should enable honest inquirers to appreciate "the practical uselessness of 'water witching'," further Survey tests of witching for water, oil, or other minerals "would be a misuse of public funds," and readers are advised "not to expend any money for the services of any 'water witch' or for the use or purchase of any machine or instrument devised for locating underground water or other minerals." Ellis's paper is a history and bibliography, not an endorsement. This reprint presents it for its historical and bibliographical value only — never as pro-dowsing evidence.
+
+Prepared to be shared freely.
+
+---
+
+Contents (1917 pagination)
+
+- Introductory note, by O. E. Meinzer — 5
+- Form of the divining rod — 7
+- Origin of the divining rod — 8
+- Spread of the delusion — 12
+- Origin of "water witching" — 15
+- Ecclesiastical controversies — 16
+- Use of the divining rod in detecting criminals — 16
+- Scientific controversies — 18
+- Le Brun and others — 18
+- Thouvenel — 18
+- Chevreul and Faraday — 21
+- Latimer — 21
+- Raymond — 22
+- Barrett — 22
+- Mager — 23
+- Recent investigations — 23
+- Mechanical water finders — 23
+- Bibliography of "water witching" — 26
+- Index — 55 [not reproduced in this reading edition; see Notes]
+
+Illustrations 1–4 are omitted as images in this text edition; their captions are listed below and figure placeholders appear in the text. See the original USGS PDF for the images.
+
+- Figure 1. Ordinary divining rod held in the usual manner — 7
+- Figure 2. Less common manner of holding the divining rod — 7
+- Figure 3. Various old types of divining rods and the ways in which they were held; after Vallemont (1693) — 8
+- Figure 4. Use of divining rods in prospecting for ore; from Agricola, De re metallica (German edition, 1580) — 13
+
+Introductory Note, by O. E. Meinzer
+
+By O. E. MEINZER.
+
+The use of a forked twig, or so-called divining rod, in locating minerals, finding hidden treasure, or detecting criminals is a curious superstition that has been a subject of discussion since the middle of the sixteenth century and still has a strong hold on the popular mind, even in this country, as is shown by the large number of inquiries received each year by the United States Geological Survey as to its efficacy, especially for locating underground water, and the persistent demands that it be made a subject of investigation, by the Survey. The bibliography shows that a truly astonishing number of books and pamphlets have been written on the subject. The purpose of the present brief paper is not to add another contribution to this enormous volume of uncanny literature but merely to furnish a reply to the numerous inquiries that are continually being received from all parts of the country. The outline of the history of the subject presented in the following pages will probably enable most honest inquirers to appreciate the practical uselessness of "water witching" and other applications of the divining rod, but those who wish to delve further into the mysteries of the subject are referred to the literature cited in the bibliography, in which they will find reports in painful detail of exhaustive investigations and pseudoinvestigations of every phase of the subject and every imaginable explanation of the supposed phenomena.
+
+It is doubtful whether so much investigation and discussion have been bestowed on any other subject with such absolute lack of positive results. It is difficult to see how for practical purposes the entire matter could be more thoroughly discredited, and it should be obvious to everyone that further tests by the United States Geological Survey of this so-called "witching" for water, oil, or other minerals would be a misuse of public funds.
+
+A large number of more complicated devices for locating water or other minerals are closely related to the forked twig. A favorite trick for appealing to uneducated persons and yet making specific disproof impossible is to give as the working principle of such a device some newly discovered and vaguely understood phenomenon, as, for example, radioactivity. Many such devices have been in existence since the seventeenth century, and almost without exception the claims that are made for them are very great. If any genuine instrument were invented its merits would no doubt in time become well recognized, as have those of other real inventions. The magnetic needle used in detecting iron ore is, of course, not included in this category of spurious instruments.
+
+It is by no means true that all persons using a forked twig or some other device for locating water or other mineral are intentional deceivers. Some of them are doubtless men of good character and benevolent intentions. However, as anything that can be deeply veiled in mystery affords a good opportunity for swindlers, there can be no reasonable doubt that many of the large group of professional finders of water, oil, or other minerals who take pay for their "services" or for the sale of their "instruments" are deliberately defrauding the people, and that the total amount of money they obtain is large.
+
+To all inquirers the United States Geological Survey therefore gives the advice not to expend any money for the services of any "water witch" or for the use or purchase of any machine or instrument devised for locating underground water or other minerals.
+
+The Divining Rod: A History of Water Witching, by Arthur J. Ellis
+
+By ARTHUR J. ELLIS.
+
+Form of the Divining Rod
+
+In its most familiar form the so-called divining rod is a forked twig, one fork of which is usually held in each hand in such a manner that the butt end of the twig normally points upward (figs. 1 and 2). The supposition is that when carried to a place beneath which water or other minerals lie, the butt end will be attracted downward, or, according to some diviners, will whirl round and round. There are many modifications in both the form and the manipulation of the device. For instance, a straight twig may be held at the small end, allowing the butt end to bob up and down, the number of bobs being taken to indicate the depth to water or ore in fathoms or feet or other common unit of measure.
+
+[Figure 1 omitted in this reading edition — see original USGS PDF, Water-Supply Paper 416 (1917).]
+
+The opinion as to the kind of wood of which the twig should consist has differed greatly at different times and places, but peach, willow, hazel, and witch hazel are common favorites. By some diviners the twig is cut indiscriminately from any kind of tree, or the device is made of metal or is some common implement, such as a buggy whip. Formerly incantations were used in connection with the divining rod.
+
+[Figure 2 omitted in this reading edition — see original USGS PDF, Water-Supply Paper 416 (1917).]
+
+Some diviners appear to pass into abnormal or psychical states and have muscular spasms, such as occur in cases of hysteria, which, it is contended, can not be repeated at will by the diviner when he returns to a normal state. Under such conditions the twig may not only rotate, but one fork may be completely twisted off by the force with which it is driven round and round.
+
+Divining rods have been put to a wide variety of uses since the superstition first became popular, and it is not uncommon even at the present time to find them used by a single person to obtain diverse results, among which there is no conceivable relation. For example, Henri Mager purports to use the rod to detect the presence of water and ores and to measure their depth below the surface, to analyze water and ores, to determine the directions of the cardinal points, to measure the height of trees, and to perform other marvels. (See p. 23.) In tracing the history of the subject it is found that divining rods have been used for all of the following purposes: (1) To locate ore deposits, (2) to discover buried or hidden treasure, (3) to find lost landmarks and reestablish property boundaries, (4) to detect criminals, (5) to analyze personal character, (6) to cure diseases, (7) to trace lost or strayed domestic animals, (8) to insure immunity against ill fortune when preserved as a fetish, (9) to locate well sites, (10)
+
+[Figure 3 omitted in this reading edition — see original USGS PDF, Water-Supply Paper 416 (1917).]
+
+underground streams, (11) to determine the amount of water available by drilling at a given spot, (12) to determine the depth at which water or ores occur, (13) to determine the direction of cardinal points, (14) to determine the heights of trees, and (15) to analyze ores and waters.
+
+Origin of the Divining Rod
+
+The origin of the divining rod is lost in antiquity. Students of the subject have discovered in ancient literature many more or less vague references to it, and though it is certain that rods or wands of some kind were in use among ancient peoples for forecasting events and searching for lost objects, and in occult practices generally, little is known of the manner in which such rods were used or what relation, if any, they may have to the modern device. The "rod" is mentioned many times in the Bible in connection with miraculous performances, especially in the books of Moses. The much-quoted passage describing the "smiting of the rock" (Numbers xx, 9-11) has been regarded by enthusiasts of water witching as a significant reference to the divining rod,1 as have also the following passages: "My people ask council at their stocks, and their staff declareth unto them" (Hosea iv, 12); and "The king of Babylon stood at the parting of the way, at the head of two ways, to use divination; he made his arrows bright," etc. (Ezekiel xxi, 21).
+
+The following paragraphs are quoted from Rossiter Raymond's essay 2 on the use of rods for divination: The Scythians, Persians, and Medes used them. Herodotus says that the Scythians detected perjurers by means of rods. The word rhabdomancy,3 originated by the Greeks, shows that they practiced this art; and the magic power of the rods of Minerva, Circe, and Hermes or Mercury is familiar to classical students. The lituus of the Romans, with which the augurs divined, was apparently an arched rod. Cicero, who had himself been an augur, says, in his treatise on divination, that he does not see how two augurs, meeting in the street, could look each other in the face without laughing. At the end of the first book of this treatise he quotes a couplet from the old Latin poet Ennius, representing a person from whom a diviner had demanded a fee as replying to this demand, "I will pay you out of the treasures which you enable me to find." * * * Marco Polo reports the use of rods or arrows for divination throughout the Orient, and a later traveler describes it among the Turks. Tacitus says that the ancient Germans used for this purpose branches of fruit trees. One of their tribes, the Frisians, employed rods in church to detect murderers. Finally, if we may trust Gonsalez de Mendoza, the Chinese, who seem to have had everything before anybody else, used pieces of wood for divination.
+
+Thus we perceive that the application of the divining rod in historical antiquity was mainly or wholly moral that is, it was employed to detect guilt, decide future events, advise courses of action, etc. There are but two passages which have been quoted to prove its use for physical purposes; one from Ctesias (Apud phot. bibl. cod.), who speaks of a rod of the wood Parebus, which attracted gold, silver, other metals, stones, and several other things; the other from Cicero (De Officiis, lib. I), who says, "If we could obtain with the so-called divine rod everything pertaining to food and clothing (ad victum cultumque)," etc.4
+
+On the other hand, the silence of many authors is significant, as Chevreul has pointed out. Varro does not mention the use of the rod for the discovery of subterranean waters or metals. Vitruvius, discussing the means of discovering springs, says nothing of it. Pliny, in Book XXX of his Natural History, omits it from his enumeration of magical arts and methods, and in Book XXXI, describing (after Vitruvius) the means of discovering springs, and Book XXXIII, describing explorations for metals, is equally silent concerning it. Columella, Palladius, and in the sixth century Cassioi Latimer, Charles, The divining rod, p. 20,1876..Raymond, R. W., The divining rod: Am. Inst. Min. Eng. Trans., vol. 11, pp. 415-416,1883. See also U. S. Geol. Survey Mineral Resources, 1882, pp. 610-626,1883. * Rhabdomancy, from the Greek fl&08os, rod, and luxvnta, divination, is the practice of searching for springs, well sites, precious metals, and other things concealed in the earth by means of a divining rod. * This reference in complete form reads as follows: "If all that is needful for our nourishment and support arrives to us by means of some divine rod, as people say, then each of us, free from all care and trouble, may give himself up to the exclusive pursuit of study and science." dorus are likewise dumb, though the latter in one of his epistles (Theodoric, LIII) extols the utility of the professional water discoverers.
+
+Whatever significance one may attach to such references as those cited above, no conclusive evidence has been found of the use of the divining rod as it is now known earlier than the first half of the sixteenth century. What is believed to be the first published description of the rod is contained in Georgius Agricola's "De re metallica," which was begun about 1533 and was published in 1556. There is a striking similarity between some of the ideas expressed in this, account and some of those now held regarding the rod and its use, which, it is believed, justify its quotation. The following paragraphs are quoted from the Hoover translation: * -
+
+There are many great contentions between miners concerning the forked twig, for some say that it is of the greatest use in discovering veins, and others deny it. Some of those who manipulate and use the twig first cut a fork from a hazel bush with a knife, for this bush they consider more efficacious than any other for revealing veins, especially if the hazel bush grows above a vein. Others use a different kind of twig for each metal, when they are seeking to discover the veins, for they employ hazel twigs for veins of silver; ash twigs for copper; pitch pine for lead and especially tin, and rods made of iron and steel for gold. All alike grasp the forks of the twig with their hands, clenching their fists, it being necessary that the clenched fingers should be held toward the sky in order that the twig should be raised at that end where the two branches meet. Then they wander hither and thither at random through mountainous regions. It is said that the moment they place their feet on a vein the twig immediately turns and twists, and so by its action discloses the vein; when they move their feet again and go away from that spot the twig becomes once more immobile.
+
+The truth is, they assert, the movement of the twig is caused by the power of the veins, and sometimes this is so great that the branches of trees growing near a vein are deflected toward it. On the other hand, those who say that the twig is of no use to good and serious men, also deny that the motion is due to the power of the veins, because the twig will not move for everybody, but only for those who employ incantations and craft. Moreover, they deny the power of a vein to draw to itself the branches of trees, but they say that the warm and dry exhalations cause "these contortions. Those who advocate the use of the twig make this reply to these objections: When one of the miners or some other person holds the twig in his hands, and it is not turned by the force of the veins, this is due to some peculiarity of the individual, which hinders and impedes the power of the vein, for since the power of the vein in turning and twisting the twig may be not unlike that of a magnet attracting and drawing iron toward itself, this hidden quality of a man weakens and breaks the force, just the same as garlic weakens and overcomes the strength of a magnet. For a magnet smeared with garlic juice can not attract iron, nor does it attract the latter when rusty. Further, concerning the handling of the twig, they warn us that we should not press the fingers together too lightly, nor clench them too firmly, for if the twig is held lightly they say that it will fall before the force of the vein can turn it; if, however, it is grasped too firmly the force of the hands resists the force of the veins and counteracts it. Therefore, they consider that five things are necessary to insure that the twig shall serve its purpose: of these the first is the size of the twig, for the force of the vein cannot turn too large a stick; secondly, there is the shape of the twig, which must be forked or the vein can not turn it; thirdly, the power of the vein which has the nature to turn it; fourthly, the manipulation of the twig; fifthly, the absence of i Agricola, Georgius, De re metallica, translated from first Latin edition of 1556 by H. C. and L. H. Hoover, pp. 38-41,1912. impeding peculiarities. These advocates of the twig sum up their conclusions as follows: If the rod does not move for everybody, it is due to unskilled manipulation or to the impeding peculiarities of the man which oppose and resist the force of the veins, as we said above, and those who search for veins by means of the twig need not necessarily make incantations, but it is sufficient that they handle it suitably and are devoid of impeding power; therefore, the twig may be of use to good and serious men in discovering veins. With regard to deflection of branches of trees they say nothing and adhere to their opinion.
+
+Since this matter remains in dispute and causes much dissension amongst miners, I consider it ought to be examined on its own merits. The wizards, who also make use of rings, mirrors, and crystals, seek for veins with a divining rod shaped like a fork; but its shape makes no difference in the matter it might be straight or of some other form for it is not the form of the twig that matters [see fig. 3], but the wizard's incantations which it would not become me to repeat, neither do I wish to do so. The ancients, by means of the divining rod, not only procured those things necessary for a livelihood or for luxury, but they were able also to alter the forms of things by it; as when the magicians changed the rods of the Egyptians into serpents, as the writings of the Hebrews relate; and as in Homer, Minerva with a divining rod turned the aged Ulysses suddenly into a youth and then restored him back again to old age; Circe also changed Ulysses' companions into beasts, but afterward gave them back again their human forms; moreover, by his rod, which was called "Caduceus," Mercury gave sleep to watchmen and awoke slumberers. Therefore it seems that the divining rod passed to the mines from its impure origin with the magicians. Then when good men shrank with horror from incantations and rejected them, the twig was retained by the unsophisticated common miners, and in searching for new veins some traces of these ancient usages remain.
+
+But since truly the twigs of the miners do move, albeit they do not generally use incantations, some say this movement is caused by the power of the veins, others say that it depends on the manipulation, and still others think that the movement is due to both these causes. But, in truth, all those objects which are endowed with the power of attraction do not twist things in circles, but attract them directly to themselves; for instance, the magnet does not turn the iron but draws it directly to itself, and amber rubbed until it is warm does not bend straws about, but simply draws them to itself. If the power of the veins were of a similar nature to that of the magnet and the amber, the twig would not so much twist as move once only, in a semicircle, and be drawn directly to the vein, and unless the strength of the man who holds the twig were to resist and oppose the force of the vein the twig would be brought to the ground; wherefore, since this is not the case, it must necessarily follow that the manipulation is the cause of the twig's twisting motion. It is a conspicuous fact that these cunning manipulators do not use a straight twig but a forked one cut from a hazel bush or from some other wood equally flexible, so that if it be held in the hands, as they are accustomed to hold it, it turns in a circle for any man wherever he stands. Nor is it strange that the twig does not turn when held by the inexperienced, because they either grasp the forks of the twig too tightly or hold them too loosely. Nevertheless, these things give rise to the faith among common miners that veins are discovered by the use of twigs, because whilst using these they do accidentally discover some; but it more often happens that they lose their labour, and although they might discover a vein, they become none the less exhausted in digging useless trenches than do the miners who prospect in an unfortunate locality. Therefore a miner, since we think he ought to be a good and serious man, should not make use of an enchanted twig, because if he is prudent and skilled in the natural signs he understands that a forked stick is of no use to him, for, as I have said before, there are the natural indications of the veins which he can see for himself without the help of twigs. So if Nature or chance should indicate a locality suitable for mining, the miner should dig his trenches there; if no vein appears he must dig numerous trenches until he discovers an outcrop of a vein.
+
+There are two accounts of earlier date than "De re metallica" which are mentioned in most histories of the divining rod. One of these accounts is contained in the "Novum testamentum" of Basilius Valentinus, a Benedictine monk of the fifteenth century, who devoted seven chapters of the second book of his work to a didactic account of the use of the divining rod. But there is some confusion as to the date and as to the authorship of this book, and Raymond points out that the existence even of Basilius Valentinus is not beyond doubt. Gadenus states, in his "Historia Erfordiensis" (1675), that Basilius was living at St. Peter's convent at Erfurth in 1413, but the earliest copy of the "Testamentum/' which is a French translation in manuscript, is dated 1651, and the book was not printed until about fifty years after Agricola. The other account is contained in "De natura rerum," IX, by Paracelsus, which was no doubt written prior to "De re metallica," for Paracelsus died in 1541, but it was not published until some time later. From this account Hoover l quotes: These [divinations] are vain and misleading, and among the first of them are divining rods, which have deceived many, miners. If they once point rightly they deceive ten or twenty times. ' Barrett 2 considers it practically certain that the birthplace of the modern divining rod is in the mining districts of Germany, probably in the Harz Mountains, where the most approved mining processes were first devised. He says: Possibly they were led to its use from the belief, once universal among educated men like Melanchthon, that metallic ores attracted certain trees which thereupon drooped over the place where those ores were to be found, the drooping no doubt being due to the soil or other causes. A branch of the tree was therefore cut and held to see where it drooped; later on a branch was held in each hand and the extremities tied together, as shown in an old Italian plate [See fig. 4]; finally, for convenience, a forked branch was cut, the two ends grasped one in each hand with palms upward; the arms of the holder were then brought to the side of the body, so that the forked rod was held in somewhat unstable equilibrium, and the "diviner" set forth on his quest with, in old time, certain solemnities and invocations.
+
+At any rate the divining rod came into common use first in Germany as a means for locating mines and also for discovering buried treasure, a matter of rather common interest in those days, when the practice of burying money and plate for safe keeping was so general.
+
+Spread of the Delusion
+
+German miners were imported into England during the reign, of Elizabeth (1558-1603) to lend an impetus to the industry in Cornwall, which had been passing through a period of depression. By them the divining rod was introduced into England, and before the end of the seventeenth century it had spread through the countries of Europe. Everywhere it aroused controversy. Its champions, among 1 Hoover, H. C. and L. H., Agricola, De re metallica, p. 38,1912. 2 Barrett, W. F., Soc. Psych. Res. Proc., vol. 13, p. 13,1897-98. whom were some of the most learned men of the time, explained its operation, as, indeed, they explained nearly all facts of physics and chemistry, on the principle of "sympathy" or "attraction and repulsion." The common phenomena of gravity and magnetism doubtless suggested this interpretation. Philippe Melanchthon, in his "Discours sur la sympathie," 15?; his son-in-law, Gaspar Peucer, in "Les devins," 1584 (book 13, ch. 10); Porta, in "Magiae naturalis,"
+
+[Figure 4 omitted in this reading edition — see original USGS PDF, Water-Supply Paper 416 (1917).]
+
+1569 (book 1, ch. 8); Keckermann (1573-1609) in "Systemata physica" (book 1, ch. 8); and Michel Mayer, in "Verum inventum," 1619 (ch. 4), attribute the action of the divining rod to "sympathetic affinity."
+
+The adversaries of the divining rod, on the other hand, like Paracelsus and Agricola, condemned its use as a superstitious and vain practice, without attempting to refute the specific arguments advanced by their opponents or flatly denying its supernatural connections.
+
+A third view was that involving a demoniac influence, and Raymond suggests that the adversaries of the rod, including Agricola, may have adopted their attitude of reserve on the question of Satanic influences from a desire to avoid possible serious consequences. Another view, closely related to that of satanic influence, is described by Raymond 1 as follows:
+
+A fourth view was indeed advanced, according to which the operator, as well as the rod, was the recipient of a divinely given faculty. It was no doubt with the purpose of avoiding the odium attached to dealings with the Evil One that the professors of this science, particularly in Germany, surrounded it with ceremonies and formulas of a highly pious character. It is true that the rules sometimes prescribed for the cutting of the twig partook largely of heathen sorcery and astrology. They were indeed, to eorne extent, unconscious reminiscences of the old Scandinavian, and even of the Aryan mythology. But this was atoned for when the rod was duly Christianized by baptism, being laid for this purpose in the bed with a newly baptized child, by whose Christian name it was afterward addressed. The following formula, cited by Gaetzschmann, may serve as an example: "In the name of the Father and of the Son and of the Holy Ghost, I adjure thee, Augusta Carolina, that thou tell me, so pure and true as Mary the Virgin was, who bore our Lord Jesus Christ, how many fathoms is it from here to the ore? " In this case, the rod was expected to reply by dipping a certain number of times, corresponding to the number of fathoms,
+
+It is readily conceivable that the motive for surrounding this practice with a religious atmosphere might not have been altogether a belief in its divine character, for at that time anyone found engaged in mysterious works was in danger of being charged with sorcery and burned to death.
+
+In Cornwall the belief was common among the miners and still persists as a tradition, that the divining rod was guided to the ore deposits by the pixies, the fairy custodians of the mineral treasures of the earth.
+
+Not only did the abstract discussion of this subject engage the attention of persons in all classes of society, but nobles and peasants, priests and philosophers representatives from every class busied themselves trying to locate ore deposits by means of forked twigs. Probably the most prominent diviners at this time were Baron de Beausoleil (Jean-Jacques de Chatelet), 1576-1643, and his wife. Beausoleil, who was one of the foremost mining authorities of his day, traveled extensively through the mining regions of Europe, visited America in his study of mining, and received important commissions from dukes and emperors, and even from the Pope. His wife shared his responsibilities and honors. But later they fell from favor through the machinations of rivals, and the fact that they used divining rods and other contrivances was made the basis of a charge of sorcery. After some years of persecution they were placed in prison (1642), the baron in the Bastille and his wife in Vincennes, where they died about 1645. Raymond 2 writes: In magnifying the art of discovering mines and springs, and the skill required for this purpose, she [the baroness, in "The restitution of Pluto"] gives a description of the means employed, showing that these hidden treasures are to be detected, (1) by digging, which is the least important way, (2) by the herbs and plants which grow above streams of water, (3) by the taste of the waters which flow from them, (4) by the vapors which arise from them at sunrise, and (5) by the use of 16 scientific instruments and 7 rods [the 7 rods of Basilius Valentinus] connected with the 7 planets," etc. The first four means were undoubtedly real and really employed. Under the fifth head we have an illustration of what is so common in the alchemistic and other medieval writers, namely, the covering of the facts of nature and the methods of investigation with assumed mystery to hide them from the vulgar.
+
+[Footnote: i Raymond, R. W., The divining rod: Am. Inst. Min. Eng. Trans., vol. 11, p. 419,1883.]
+
+[Footnote: * Idem, pp. 420-421.]
+
+This raises the interesting question as to the extent to which intelligent persons may have used divining rods in the early days for the sole purpose of concealing from the uninitiated their real methods of prospecting. One can hardly overestimate the respect for the divining rod that would be created among common miners if a man of real ability publicly attributed his success to its use, and it may be that the deep-rooted hold which the superstition obtained on the popular mind was due to just such circumstances as this.
+
+Origin of "Water Witching"
+
+The above quotation from the Baroness Beausoleil is interesting also for the reason that in it the divining rod is mentioned as a means of discovering springs. The Beausoleils are believed to have been influential in bringing about the use of forked twigs in searching for water, although Barrett 1 writes as follows in regard to an account which he finds in a Life of Saint Teresa of Spain: Teresa in 1568 was offered the site for a convent to which there was only one objection there was no water supply; happily, a Friar Antonio came up with a twig in his hand, stopped at a certain spot, and appeared to be making the sign of the cross; but Teresa says, "Really I can not be sure if it were the sign he made, at any rate he made some movement with the twig and then he said, 'Dig just here'; they dug, and lo! a plentiful fount of water gushed forth, excellent for drinking, copious for washing, and it never ran dry."
+
+Barrett regards this the first historical reference to "dowsing" for water, but Mager 2 and Klinckowstroem 3 mention a paper written by Claude Galien in 1630 on the supposed discovery of the Chateau-Thierry mineral water by Baroness Beausoleil as the first reference. At any rate, from about this time on the divining rod was used in southern Europe as much in the search for water as in the search for mines, although, according to Barrett, it was not used for this purpose in England until near the end of the eighteenth century.
+
+This new application of the divining rod no doubt tended to popularize it. It had been of interest chiefly to miners, and outside of mining districts it was probably known only in a vague sort of way. But as a "water finder" it became more generally known, and in the very nature of things its successes must have outnumbered its failures, just as, taking the country over, successful wells outnumber unsuccessful ones.
+
+[Footnote: 1 Barrett, W. F., Psychical research, p. 171,1911.]
+
+[Footnote: 2 Mager, Henri, Les moyens de decouvrir les eaux souterraines et de les utiliser, p. 327,1912.]
+
+[Footnote: . Klinckowstroem, Graf Carl v., Bibliographie der Wunschelrute, p. 38.1911.]
+
+Ecclesiastical Controversies
+
+The divining rod continued to be a favorite subject with alchemistic writers until about 1660, when a new turn of affairs was brought about largely by the Jesuit Father Gaspard Schott, who, in his "Magiae universalis naturae et artis" (1659), denounced it as an instrument controlled by the devil. The subject was then taken up by the church, and for more than 100 years it was hotly debated by churchmen. Some approved of the rod and authorized its use on church property; others condemned it and threatened those who used it with excommunication. Gaspard Schott later expressed the belief that its movements were probably not caused by the devil, as "monks of great piety have used it with really marvelous success, and affirm positively that the movement is entirely natural and that it does not at all proceed from dexterity or from the strength of imagination of him who uses it," and he and A. Kircher were the first to advance the theory that the movement of the rod is due to unconscious muscular action.
+
+About 1671 Matthaeus Willenius published an account of the mercury wand, in which he stoutly defended the use of the divining rod, and two years later Jacques Le Koyer announced that the material of which the rod is made is of little consequence, as he claimed to have obtained equally good results with rods made of wood, oxhorn, ivory, gold, or silver.
+
+In 1674 the Jesuit priest Dechales wrote (in "De fontibus naturalibus"): There are two things which astonish me in this experience: Why this rod turns only in the hands of certain persons, and second, why this rod serves equally well to locate both underground streams and mines.
+
+In 1675 J. C. Frommann, a doctor of medicine, ridiculed those who explained the movements of the rod as a sleight-of-hand trick, and compared the mystery of the rod with the mystery of reproduction. In 1684 another doctor of medicine (G. B. de Saint-Komain) explained the movements of the rod as due to emanations given off from minerals and underground streams.
+
+Use of the Divining Rod in Detecting Criminals
+
+Prior to 1692 the divining rod had been used in trying to locate minerals and water and possibly to some extent for other purposes. But in that year an incident occurred in southern France which added greatly to the notoriety of the divining rod and extended its field of operation into the moral world, in which, according to some writers (p. 9), rods for divination had their origin. This incident, which is described in great detail by several writers,1 was the apprehension and identification of a criminal through the agency of a peasant of Dauphiny named Jacques Aymar, who claimed the ability to trace fugitives by the use of divining rods. Interest in this case was intense and widespread and called forth a large amount of literature. In commenting on the case Barrett 2 says: The other one, a hunchback, who was arrested, confessed the crime and was executed: the last person in Europe who suffered that terrible penalty of being "broken at the wheel." * * * Strangely enough the depositions made at the trial showed that Aymar was correct in every detail, witnesses testifying to the flight and halting places of the culprits in the very places Aymar had indicated. * * * Aymar became notorious throughout Europe. He was, however, subsequently somewhat discredited owing to his failure in some tests devised by the Prince de Conde".
+
+But Raymond, in a decidedly more skeptical treatment of the matter, raises some illuminating questions in regard to Aymar's integrity. His comment on the work of Aymar3 includes the following statements: This man, Jacques Aymar by name, was sent for or rather it was not necessary to send for him, since he proved to be already on hand in the city by the time it was decided to engage his services. This fact is significant as giving the key to what turned out to be an extraordinary piece of clever detective work. A careful analysis of the numerous official and other records of this case shows it to be quite possible that the diviner had obtained important clues before he was publicly set to work. * * * The subsequent tracking of a hunchback would be no very difficult matter. * * * But this achievement of the rod, attested as it was by official records and by the public confession and execution of the criminal made a great sensation in France. * * * Aymar was called to Paris, where both the court and the savants interested themselves greatly in his mysterious powers. Many marvelous feats are reported of him there; but the shrewd and rigorous experiments of the Prince de Conde" exposed the emptiness of his pretensions * * *. As late as 1703 this man was employed during the civil war to point out with his divining rod Protestants for massacre, under the plea of punishment for crimes they had committed.
+
+The belief that the divining rod was an instrument invented by Satan for the confusion of men was no doubt as old as the superstition itself, but, as previously indicated, it was greatly strengthened when in 1659 Gaspard Schott proclaimed that the rod was controlled by the devil, thereby identifying it with witchcraft and bringing it within the jurisdiction of the Church. Although the use of the divining rod differed essentially from witchcraft in many respects, nevertheless, in addition to its direct implication by its ecclesiastical adversaries, there was in some respects a very close relation between the two, as i Baring-Gould, Sabine, Curious myths of the middle ages, p. 54,1894. Mager, Henri, Les moyens de d&souvrir les eaux souterraines et de les utiliser, pp. 362-365,1912. * Psychical research, ch. 12, p. 172. * Raymond, E. W., The divining rod: Am. Soc. Min. Eng. Trans., vol. 11, pp. 424-427,1883. is suggested by the use of incantations in connection with divining, and to this relationship may be ascribed in some measure the strengthening of belief in the rod. The significance of this lies in the fact that witchcraft, at the time of the Aymar episode, had become a frenzy, and anything even the simplest occurrences of everyday life which by any stretch of the imagination could be suspected of implication with witchcraft, became a subject of discussion and the basis of firm opinions and beliefs.
+
+In view of the prevalence of such beliefs as this reign of delusion implies, it is by no means difficult to account for the credence accorded to such claims as those made by Jacques Aymar. Moreover, considering the ordeals of torture inflicted on persons accused of crime to extract confessions, by a strange perversion called "voluntary," and often inflicted on the witnesses as well, and considering also the fact that a public execution was sometimes regarded as a highly diverting spectacle well worth some effort to bring it about, the testimony supporting the claims of Aymar, as repeated to us, combined even with the reported confession of the accused, falls far short of establishing the merit claimed by Aymar, or even the guilt of the hunchback who was executed.
+
+In 1701 the Inquisition issued a decree against the further use of the divining rod in criminal prosecution, and this use of the device rapidly came to an end.
+
+Scientific Controversies
+
+Le Brun and Others
+
+For about 80 years after the decree by the Inquisition abolishing its use for the detection of criminals the divining rod continued to be a fruitful subject for debate among ecclesiastical authorities, among whom was Pierre Lebrun, who in 1692 first suggested the theory of "prior intention," but in 1780 it was dropped and received no further official recognition by churchmen. But the time was then ripe for controversies along an altogether new line, namely, the attempt to explain water witching as an electrical phenomenon. About this time the study of electricity was making great progress, especially through the work of Volta and Galvani, and the demonstration by Galvani that amputated legs of frogs could be made to twitch under the influence of electrical stimuli was at once misinterpreted by advocates of the divining rod as giving a scientific basis for water witching.
+
+Thouvenel
+
+The controversies relating to electrical phenomena were begun by Pierre Thouvenel, a physician to Louis XVI, who interested himself in another peasant of Dauphiny, Barthelemy Bleton, who, like Jacques Aymar, had acquired notoriety as a "hydroscope."
+
+Bleton was born at Bouvantes, in Dauphiny, in 1750, or possibly a few years earlier, was brought up by charity in a monastery, and became a herdsman. The first manifestation of "hydroscopic" faculties in Bleton is described in the following paragraph quoted from Barrett,1 who gives it as a translation from Thouvenel's correspondence dated at Dijon, April 14, 1781: Bleton when 7 years of age had carried dinner to some workmen; he sat down on a stone, when a fever or faintness seized him; the workmen having brought him to their side, the faintness ceased; but each time he returned to the stone he suffered again. This was told to the Prior of the Chartreuse, who wished to see it for himself. Being thus convinced of the fact, he had the ground under the stone dug up; there they found a spring, which, I am told, is still in use to turn a mill. Thouvenel heard of Bleton and chose him as a fit subject on whom to test his notions of "animal magnetism," and as a result published an elaborate essay which he called "Memoire physique et medicinal, montrant des rapports evidents entre les phenomenes de la baguette divinatoire, du magnetisme et de l'electricite" The following account by Raymond 3 presents the principal facts in regard to Bleton's achievements in concise form:
+
+In the first place, Bleton apparently did not profess to discover immaterial qualities or facts, but chiefly confined himself to the detection of running water. In the second place, he frankly avowed that the rod possessed no power in itself by virtue of its form or material, and that it was merely an index, outwardly exhibiting to the spectators his inward feeling. This feeling the doctor declared to be a tremor, attacking first the diaphragm and communicating itself through the body and hands to the rod. In the third place this tremor was found by Dr. Thouvenel to be weakened, though not destroyed, when Bleton was on a tree or ladder or another person's shoulder, instead of the ground, or when he touched electrified substances; but the tremor and also the movement of the rod were completely stopped when Bleton was insulated from the ground. Upon facts of this kind he based his electrical theory. I remark, by the way, that the observations and the theory of Mr. Latimer, in his recent work on the divining rod, already mentioned, recall in a striking manner the performances of Bleton and the theory of Thouvenel. Mr. Latimer claims to have made the new discovery that the effect of the divining rod is destroyed by insulating the practitioner, as, for instance, by placing him upon a platform supported by glass bottles. If he had known how thoroughly this claim had been examined and refuted, almost exactly 100 years ago, he would have had less faith in its novelty and value.
+
+Thouvenel's book made no little sensation, and in 1782 Bleton was called to Paris, where a remarkable series of experimental tests were applied to him. A newspaper report of the day declares that in the presence of many thousands of spectators he followed a subterranean aqueduct in the garden of the Luxembourg for 15,000 yards without a mistake. The chief engineer of the waterworks is reported to have said that the trace was so accurate that if the maps of his office had been lost, Bleton's footsteps would have constituted a complete survey to replace them. It is just possible that the Journal de Paris was tempted to make a sensation of this case, and it is also quite possible that a keen observer might notice indications other than those of his own diaphragm, by which he could follow the line of buried pipes. A large number of experiments, more calmly reported, certainly do not sustain the enthusiasm of this account. It was found, for instance, that Bleton often passed over running water, when blindfolded, without noticing it; and that when taken several times over the same course he would not point out accurately each time the spots which he had previously marked. For example, of 16 points once indicated, he recognized with the rod on the second round but eight and missed the other eight. A single point to which he was repeatedly brought blindfold he indicated three times and missed three times. Of seven channels of running water which he was made to cross repeatedly, he indicated one once in four times, another once in four times, and another once in three times, while still another, which he crossed in two spots, affected his diaphragm at one crossing and not at all at the other. The insulation experiment was repeated by a physician at Paris. At a point where Bleton's rod was powerfully affected by alleged subterranean water, he was mounted upon a stool with glass legs, and immediately the rod ceased to be affected. "When the stool was removed, however, and he stood upon the ground, the rod resumed its sensitiveness. But Dr. Charles, who conducted this experiment, took occasion, while Bleton stood upon the stool, to bring the top, without his knowledge, into electrical communication with the earth by means of a good conductor, thus destroying the insulation completely, though the hydroscopist supposed it still to exist. Under these circumstances the rod remained inactive, and the destruction of insulation did not produce the slightest result. This was declared at the time to be a proof of Bleton's charlatanry; but, as we shall see hereafter, it is equally consistent with the hypothesis of unconscious mental and muscular action.
+
+[Footnote: i Barrett, W. F., On the so-called divining rod: Soc. Psych. Res. Proc., vol. 15, p. 257,1900.]
+
+[Footnote: a Raymond, R. W., The divining rod: Am. Inst. Min. Eng. Trans., vol. 11, pp. 431-433,1883.]
+
+As a final test of Bleton's capacity as a hydroscopist, he was taken blindfold into the new church of Saint Genevieve, where there was known to be no water for 100 feet below the floor, the vaults, foundations, etc., actually extending all that distance below. Here he professed to discover at numerous points large and small streams of water. Thouvenel subsequently asserted that his protege had been affected by currents of damp air circulating in the cellar, but this explanation was universally considered as a desperate attempt to maintain a theory already brought into discredit by experimental tests. Bleton, however, though he ceased to be seriously respected by impartial scientists, continued to receive much attention, and to do a thriving business, both in Paris and subsequently in the provinces. Here, however, he no longer worked blindfold or professed to see with his diaphragm. He proceeded like the ordinary water diviners, with open eyes, studying all the natural indications, and coming to his decisions with abundant leisure; and under the circumstances it, is beyond doubt that he rendered many valuable services to landed proprietors by successfully locating wells. In many cases, however, he failed entirely, and it is reported that even in those in which he succeeded, he was seldom right as to the depth at which water would be found or the quantity which would be obtained. It should be mentioned that in Dauphiny, where Bleton discovered a large number of springs, he was regarded with an esteem never given to Aymar and some other famous hydroscopists. In other words, the people who knew most about the art of discovering water pronounced Bleton to be a real expert, while they believed Aymar and Parangue to be more or less charlatans. A review of all the facts leaves little doubt that in Bleton's case there was an unusually large proportion of the skill of the prospector, combined with rather less than usual of the mysterious claims of the wizard. At this time many diviners acquired notoriety, including Parangue and Pennet, of Dauphiny, and Campetti, of Italy, but their careers differed in no significant respect from that of Bleton. The feature of this time was the patronage of diviners by scientists and the attempt to apply hypotheses of animal magnetism and terrestrial electricity to the supposed operation of the divining rod. SCIENTIFIC CONTROVERSIES. 21
+
+Chevreul and Faraday
+
+During the first half of the nineteenth century the phenomena of "table turning" was introduced, and became so popular that it was often employed in drawing-room entertainments. During this time also the so-called "magic pendulum/7 which had persisted from antiquity as a rather obscure divining instrument, was popularized and an elaborate system of electrical hypotheses was based on its conduct. The magic pendulum consists of a finger ring, watch, piece of metal, or any other suitable weight, attached to the end of a cord and suspended from the hand. In ancient times it was used to forecast events by suspending it over a disk on the margin of which were the letters of the alphabet, the pendulum being brought to rest and held steadily until it finally began to swing, thereby pointing out various letters which formed or suggested the words of a prophecy. It is said to be fairly common as a toy at the present time and is still occasionally used seriously by superstitious people in this country. At the beginning of the eighteenth century it was being used, like the divining rod, in attempts to locate well sites, for which purpose it is still used to some extent. In 1812, however, Michel Eugene Chevreul made an investigation of the subject and concluded that the whole phenomenon was a result of involuntary muscular movements in the hand, induced by mental processes.
+
+In 1854 Michael Faraday showed that table turning was due to involuntary muscular movements; and in the same year Chevreul, as a member of a committee appointed by the Academy of Science to investigate the divining rod and the magic pendulum, wrote with regard to the divining rod:
+
+It is evident to my eyes that the cause of the movement of the wand does not belong to the physical world, but to the moral world; I think that, in most of the cases in hand, in which the wand is held by an honest man who has faith in it, the movement is the consequence of an act of the mind of that man. The foundation of the science of psychology was being laid at this time, and psychical phenomena were just beginning to be recognized in a new light. In the conclusions of Faraday and Chevreul, therefore, may be recognized the first application of those new conceptions of mental processes. This theory was finally elaborated in an exhaustive treatment of the subject by Barrett. (See pp. 22-23.)
+
+Latimer
+
+While all these investigations were being conducted in Europe the divining rod was enjoying a peaceful existence in the United States, forked twigs being used more or less in prospecting for water, oil, and other mineral deposits. But in 1875 Charles Latimer 1 read before the Civil Engineers' Club of the Northwest an essay on "The divining rod," which was later published (1876) with additional notes, in which he undertook to prove that the operation of the rod depends on electrical currents transmitted from the ground through the body, inducing a magnetic field between the rod and the ground. He also explained a method by which he claimed to be able to determine the amount of water available and the depth at which it would be reached.
+
+[Footnote: 1 Latimer, Charles, The divining rod: virgula divina baculus divinatoribus, water witching, Cleveland, 1876.]
+
+Raymond
+
+In 1883 R. W. Raymond * published his essay on "The divining rod," which contains a historical outline of the subject and a set of conclusions based especially on the works of Chevreul. It concludes with the following highly rhetorical epitaph on this venerable superstition: To this, then, the rod of Moses, of Jacob, of Mercury, of Circe, of Valentin, of Beausoleil, of Vallemont, of Aymar, of Bleton, of Pennet, of Campetti even of Mr. Latimer has come at last. In itself it is nothing. Its claims to virtues derived from Deity, from Satan, from affinities and sympathies, from corpuscular effluvia, from electrical currents, from passive perturbatory qualities of organo-electric force are hopelessly collapsed and discarded. A whole library of learned rubbish about it which remains to us furnishes jargon for charlatans, marvelous tales for fools, and amusement for antiquarians; otherwise it is only fit to constitute part of Mr. Caxton's "History of human error." And the sphere of the divining rod has shrunk with its authority. In one department after another it has been found useless. Even in the one appli cation left to it with any show of reason it is nothing unless held in skillful hands, and whoever has the skill may dispense with the rod. It belongs, with "the magic pendulum" and "planchette," among the toys of children. Or, if it be worthy the attention of scientific students, it is the students of psychology and biology, not of geology and hydroscopy and the science of ore deposits, who can profitably consider it.
+
+Barrett
+
+In 1891 W. F. Barrett,2 professor of physics in the Royal College of Science for Ireland, in the interest of the Society for Psychical Research, undertook a very laborious investigation of water witching, or dowsing, as it is called in England, and later published his results in two large volumes.
+
+Barrett concluded that the movement of the rod or forked twig is due to unconscious muscular action arising from subconscious and involuntary "suggestion" impressed on the mind of the dowser, and that this subconscious suggestion may be merely an autosuggestion or a suggestion derived through the senses from the environment, but that in a certain number of cases it appears to be due to a subconscious perceptive power commonly called clairvoyance. His conclu- a Barrett, W. F., On the so-called divining rod or Virgula divina: Soc. Psych. Res. Proc., vols. 13 and 15,1897,1901.
+
+[Footnote: 1 Raymond, R. W., The divining rod: Am. Inst. Min. Eng. Trans., vol. 11, pp. 411-446, 1883. Published also in U. S. Geol. Survey Mineral Resources, 1882, pp. 610-626,1883.]
+
+sions were therefore in a sense favorable to water witching, although completely refuting all claims that there is any physical relation between the underground water and the forked twig or its manipulator, and definitely relegating the subject wholly to the obscure realm of occultism with other varieties of fortune telling.
+
+Mager
+
+In all its weird history no more extravagant and absurd claims were ever made for the divining rod than those which are maintained at the present time by Henri Mager. (See p. 8.) Mager is an enthusiastic champion of divining rods, magic pendulums, and his own mechanical device for locating water and ores. His hypotheses are presented in his three elaborate volumes "Les moyens de de"couvrir les eaux souterraines et de les utiliser," 1912; "Les sourciers et leurs proce'de's," 1913; and "Les influencesdes corps mine'raux," 1913 and in his pamphlet "A new method for the study of mining fields and for finding ore embedded in deep ground, "1914. At almost every step in the ad vance of science and philosophy some one h as attempted to explain the supposed operation of the divining rod by means of the latest scientific theories, and Mager's work is in accord with precedent. His claims are built on dicta or speculations in which use is made of the terminology of students of radioactivity and electromagnetism.
+
+Recent Investigations
+
+It remains to be stated that there are several societies in Germany whose sole object is said to be the study of the divining rod, and that a subcommittee of the commission of scientific studies in the bureau of waters and forests of the department of agriculture of France was appointed in 1910 to investigate the subject and in 1914 was still investigating.
+
+Mechanical Water Finders
+
+About 1640 Baroness Beausoleil, in "The restitution of Pluto" (see p. 16), listed, among means of discovering mines and springs, the use of 16 "scientific instruments." This is the earliest reference to such instruments that has been discovered in the preparation of this report, and it is a matter of considerable interest that even at this early date a single prospector should manifest so wide an acquaintance with devices for finding water and ore. It is certain that Beausoleil's 16 were the forerunners of a prolific race. At least 24 patents of this nature are now on'file in the United States Patent Office, but this is no index to the number which have been rejected and which have never been offered for patent in this country, not to mention foreign inventions..See Joly, J., Radioactivity and geology, 1909, and Bauer, L. A., The physical theory of the earth's magnetic and electrical phenomena: Terrestrial magnetism and atmospheric electricity, vols. 15 and 16, 1910,1911.
+
+Most of the present devices are magnetic or electrical instruments, which, taken together, cover almost every application of magnetism and electricity. They range from ordinary dip needles to telephones and devices using wireless waves. Among the most widely advertised instruments of this kind are W. Mansfield's "Patent automatic water and oil finders," Henri Mager's "Indicator of current ground water," and Adolf Schmids's "Device for detecting subterranean waters." Mansfield's instrument was denied a patent in the United States on the ground that it was anticipated by the patent of Adolf Schmids. Mager's instrument, which is described in all his publications (see p. 23), is admitted by him to be only a modification of Schmids's device.
+
+In the letters patent 1 of the Schmids device it is stated that the apparatus will " indicate certain atmospheric changes, the nature and cause of which are not yet understood but which manifest themselves in a peculiar way in the neighborhood of the source and course of subterranean waters by rapid oscillations of the pointer of the device."
+
+The instrument is described as a hollow glass cylinder having an axis around which is spirally wound a soft-iron wire in layers that are separated from one another by paraffined paper, and at intervals by layers of tin foil. The outside layer of the spool is covered with paper. The wire of this spool forms an open circuit. The end of the spool is covered with a glass dial plate having at its center a pivot on which a pointer or needle oscillates.
+
+It is claimed that when the instrument is in the vicinity of a source or a stream of subterranean water the needle will after a time oscillate rapidly.
+
+In the literature advertising its "automatic water and oil finders," circulated by the Mansfield Co., of Liverpool, England, the following claims are made:
+
+The principle on which the instrument works is the indicating of the presence of currents which flow between earth and atmosphere, and which seeking the path of greatest conductivity, are always strongest in the vicinity of subterranean water courses, the waters of which are charged with electricity to a certain degree. In taking observations, wooden pegs are placed at intervals of 20 paces in a direction usually southeast to northwest. The instrument is tried over each of these pegs in turn, and should the needle move on any one of them, tests are made all round it, and the spot where the greatest movement of the needle is obtained is where the boring should be made. If the needle does not move subterranean water does not exist under the spot where the instrument is fixed. * * * The instrument indicates water courses flowing underground in a natural state and not water pipes or sources that have sprung up to daylight.
+
+Systematic magnetic observations have been made for about 70 years, and a complete magnetic survey of the earth, under the direction of the Carnegie Institution of Washington, has been in progress for a number of years, but this survey has not yet disclosed the existence of local earth-air currents on which to base a method of utilizing such currents in determining underground conditions. In view of this lack of knowledge any invention based on the assumption that such currents exist, as, for example, the Schmid patent, is subject to the general criticism that it is unsound in principle, or at least that, like the divining rod, it can be subjected to no conclusive scientific test. The practical use of such instruments, moreover, seems to be incompatible with the known instability of the magnetic and electric state of the earth and the atmosphere, in which disturbances of greater or less degree are constantly taking place. Investigations 1 have shown that magnetic disturbance is nearly continuous; that an entirely undisturbed day is abnormal. Some magnetic disturbances are local; others affect the whole earth simultaneously.2 Bauer 3 writes:
+
+[Footnote: 1 Patent No. 841188, Jan. 15, 1907.]
+
+The magnetic disturbances experienced by the earth are generally of a very complicated nature and reach at times startling magnitudes. Thus during the most remarkable magnetic storm of which there is any record the one of September 25, 1909 the compass needle in the vicinity of the city of Washington suffered a change of 5 degrees in the short space of a quarter of an hour and the force acting on it passed through a change during the same period amounting to 10 per cent of its full value. * * *
+
+I confidently expect, as soon as a complete analysis has been made of magnetic disturbances covering the greater portion of the earth, it will be found that * * * the disturbances will themselves reveal effects from terrestrial, continental, regional, and even local causes (earth currents, for example, whose path and intensity depend upon local character of soil, etc.). 4
+
+Since the earth's magnetic state is known to be of a very heterogeneous character, requiring an exceedingly complicated mathematical expression for even a very approximate representation, it may be confidently expected that any magnetic change or disturbance, from whatever source it may come and of however simple a type it may originally be, by the time it has entered the earth's field and has impressed itself upon our magnetic instruments, will have been converted into an equally complex type to that of the earth's magnetism itself. 5
+
+Further study of this subject tends merely to strengthen the belief that magnetic disturbances may be due to causes so many and various that no confidence can reasonably be placed in any claim that the oscillations of a magnetic needle indicate the occurrence of available ground water, much less.the depth at which water can be reached or the quantity that can be obtained; and it confirms the opinion that; in the present state of knowledge, any such claim is purely speculative. i Bauer, L. A., Analysis of the magnetic disturbance of Jan. 26,1903, and general considerations regarding magnetic changes: Terrestrial magnetism and atmospheric electricity, vol. 15, pp. 22,24, and 25,1910. s Schuster, Arthur, The diurnal variation of terrestrial magnetism: Roy. Soc. London Philos. Trans., SOT. A, vol. 208, pp. 184-185,1908. s Bauer, L. A., The physical theory of the earth's magnetic and electric phenomena: Terrestrial magnet* ism and atmospheric electricity, vol. 15, p. Ill, 1910. * Op. cit. (Analysis, etc.), p. 25. "Idem, p. 22.
+
+Bibliography of "Water Witching"
+
+In compiling this bibliography the author has used the earlier bibliographies of Birot and Roux (Hydroscopie et rabdomancie: Soc. agr., sci. ind. de Lyon Annales, 1912) and Klinckowstroem (Bibliographie der Wunschelrute, Munich, 1911). So far as possible the books cited have been examined at the Library of Congress and the citations verified.
+
+15. MELANCHTHON, PHILIPPE, Discours sur la sympathie [Discourse on sympathy (="sympathetic affinity")].
+
+1532. BERNHARDUS, R. P., Vera atque brevis descriptio virgulae mercurialis, etc. [True yet brief description of the wand of Mercury, etc.], Prag.
+
+1556. AGRICOLA, GEORGIUS, De re metallica [On metals], book 12, 1st ed.; another ed., Bale, 1557. Translated into English by H. C. Hoover and L. H. Hoover, and published for the translators by the Mining Magazine, London, in 1912.
+
+1569. BESSON, JACQUES, L'art et science de trouver les eaux et fontaines cachees sous terre [The art and science of finding water and fountains hidden under ground].
+
+1569. PORTA, Jo. BAPTISTA, Magiae naturalis sive de miraculis rerum [Natural magic].
+
+1573-1609. KECKERMANN, Systemata physica [Systematic physics], book 1, ch. 8.
+
+1580. BODIN, J., La demonomanie des sorciers, ou le fleau des demons et des sorciers [The demonomania of sorcerers, or the plague of demons and sorcerers], book 1, ch. 5; 1st ed.
+
+1584. PEUCER, GASPAR, Les devins [The diviners], book 13, ch. 10, pp. 145-146, Anvers.
+
+1588. BELON, PIERRE, Les observations de plusieurs singularitez et choses memorables [Observations on many singular and remarkable things], book 1, ch. 50, p. 102.
+
+1608. EGLIN, RAPHAEL. See Percis, Heliophilus.
+
+1608. PERCIS, HELIOPHILUS A (Eglin, Raphael), Disquisitio de Helia artista, in qua de metallorum transformatione, adversus Hagelii et Pererii Jesuitarum opiniones, evidenter et solide dissertur [Treatise on the Helian art, in which, the transformation of metals, contrary to the views of Hagelius and Pererius, the Jesuits, is clearly and convincingly discussed], Marpurgi.
+
+1617. LOHNEYSS, GEORG E., Bericht vom Bergkwerck, wie man dieselben bauen und in guten Wolstandt bringen soll, sampt allen darzu gehorigen Arbeiten, Ordnung, und rechtlichen Process [Report on mines, how they are made and kept in good condition, together with all works, regulations, and laws pertaining thereto]. No place of publication (at the end: Zellerfeldt).
+
+1618. LIGNAEIDUS, HERMANN, Oblectamenta academica, etc. [Academic amusements], Oppenhemii.
+
+1618. MONTANUS, ELIAS, Bergwercksschatz * * * [A treasury of mining lore], Frankfort on the Main.
+
+1618. ROBBETI, JOH., Goclenius Heautontimorumenos [Goclenius, the self-tormentor], Luxemburg.
+
+1619. GUTMANN, A'GIDIUS, Offenbarung gottlicher Mayestat, etc. [Revelations of the Divine Majesty, etc.], Daschen.
+
+1619. MAYER, MICHEL, Verum inventum [The truth discovered], ch. 4, Frankfort.
+
+1626. BASILIUS VALENTINUS [Benedictine monk], Novum testamentum [New testament], French translation, book 2, ch. 22-28.
+
+1630. GALIEN, CLAUDE, La decouverte des eaux minerales de Chateau-Thierry et de leurs proprietes [The discovery of the mineral waters of Chateau-Thierry and their properties], Paris.
+
+1632. BERTEREAU, MARTINE DE [Baroness Beausoleil], Veritable declaration faite an Roy et a nos Seigneurs de son conseil des riches et inestimables tremors nouvellement descouverts dans le Royaume de France [True declaration made to the King and to our gentlemen of his Council concerning riches and inestimable treasures newly discovered in the kingdom of France]. No place of publication.
+
+1632. BERTEREAU, MARTINE DE [Baroness Beausoleil], Veritable declaration de la descouverte des mines et minieres de France, par le moyen desquelles sa Majeste" et ses subjects se peuvent passer de tous les pays estrangers; ensemble des proprietez d'aucunes sources et eaux minerales descouvertes depuis peu de temps a Chateau-Thierry. [True declaration of the discovery of mines and minerals of France, by means of which his Majesty and his subjects are able to surpass all foreign countries. Together with the properties of certain springs and mineral waters discovered a short time ago at Chateau-Thierry]. No place of publication.
+
+1636. CAESIUS, BERNARD, Mineralogia [Mineralogy], book 1, ch. 7, sec. 4.
+
+1636-1651. SCHWENTER, DANIEL, and GEORG PH. HARSDORFFER, Deliciae physicomathematicae * * * [Philosophical-mathematical recreations.] Nuremberg, 3 Bd., 6 Teil, 16 Frage.
+
+1638. FLUDD, ROBERT (or FLUCTIBUS, ROBERT DE), Philosophia moysaica [The Mosaic philosophy], sec. 2, book 2, memb. 2, ch. 5, Gouda.
+
+1639. PLATTES, GABRIEL, A discovery of subterranean treasure, viz, of all manner of mines and minerals, from the gold to the coale; with plain directions and rules for the finding of them in all kingdoms and countries. Also the art of melting, refining, and assaying of them is plainly declared, so that every ordinary man, that is indifferently capacious, may with small charge presently try the value of such oares as shall be found either by rule or by accident, etc., London. Another edition, Philadelphia, 1792.
+
+1640. BERTEREAU, MARTINE DE, La restitution de Pluton. AMgr. I'&ninentissime Cardinal Due de Richelieu [The restitution of Pluto. To Mgr. the most eminent Cardinal Due de Richelieu].
+
+1645. KIRCHER, ATHANASIUS, Magnes, sive de arte magnetica [The magnet, or concerning the magnetic art], book 3, part 5, ch. 3, Rome.
+
+1645. MOLINAEUS, PETRUS (Pierre du Moulin), Physicorum seu scientiae naturalis libri novem [Nine books of physics or natural science], 197 pp., Amsterdam. See book 5, ch. 7, pp. 81-82.
+
+1648. ALDROVANDUS, ULYSSES, Musaeum metallicum [Museum of metals], book 1, ch. 1, art. Metallorum inveniendorum ratio, Bonn.
+
+1654. FRANCOIS, JEAN, La science des eaux, etc. [The science of water, etc.], Rennes and Paris.
+
+1655. EICHHOLTZ, PETER, Geistliches Bergwerck, etc. [Spiritistic mining, etc.], Goslar.
+
+1657-1659. SCHOTT, GASPAR, Magiae universalis naturae et artis, sive recondita naturalium et artificialium rerum scientia [The magic of nature and art, or occult science of natural and artificial things], 4 vols., Herbipoli.
+
+1658. KLEIN, JACOBUS. See Sperling, Johann, et Jacobus Klein.
+
+1658. SPERLING, JOHANN, et JACOBUS KLEIN, An virgula mercurialis agat ex occulta qualitate: disquisitio philosophica [Does the rod of Mercury act from occult power: a philosophical treatise], Wittenberg (about 1658).
+
+1661. BEERN, P. C. See Liebentantz, Michael.
+
+1661. BOYLE, ROBERT, Tentamina quaedam physiologica [Some physiologic experiments], London.
+
+1661. LIEBENTANTZ, MICHAEL, et PHIL. CHRISTOPH BEERN, De magia baculoruir; dissertatio physico-philologica [The magic of wands, a physical philologio dissertation], Wittenberg.
+
+1662. RATTEAY, SYLVESTER, Theatrum sympatheticum auctum, exhibens varies authores * * * [A large "sympathetic" theater, exhibiting various authors], Nuremberg.
+
+1665-1678. KIECHEE, ATHANASIUS, Mundus subterraneus, in XII libros digeatus [The subterranean world, in 12 books], vol. 2, book 10, ch. 7, Amsterdam.
+
+1665-1667. GLANVIL, JOSEPH [Reply to Robert Boyle's article. See Boyle, Robert, 1661]: Philos. Trans., vol. 2, Nos. 28 and 39, in the Savoy (London).
+
+1666. BUTSCHKY VON RUTINPELD, SAMUEL, Erweiterte und verbasserte Hoch-Deutsche Kanzelley, etc. [Broadened and improved high German preaching (containing mention of the divining rod)], Breslau and Jena.
+
+1667. PEAETOEIUS, JOHANN, Gazophylaci Gaudium. Das ist Ein Ausbund von Wiindschel-Ruthen oder sehr lustreiche und ergetzliche Historien von wunderseltzamen Erfindungen der Schatze, etc. [The joy of the treasurer that is, a pattern of divining rod or very pleasurable and entertaining history of most strange discoveries of treasures], Leipsic.
+
+1669. KIECHMAIEE, THEODOE, et J. H. MAETIUS, Dissertatio physica de virgula divinatrice [Philosophic treatise on the divining rod], Wittenberg.
+
+1669. PRAETOEIUS, JOHANN, Der Abentheuerliche Glucks-Topf * * * [The strange luck pot * * * ].
+
+1671. WEBSTEE, JOHN, Metallographia: or, an history of metals. Wherein is declared the signs of ores and minerals both before and after digging, the causes and manner of their generations, their kinds, sorts, and differences; with the description of sundry new metals, or semimetals, and many other things pertaining to mineral knowledge, etc., London [pp. 104-110 on the divining rod, which the author condemns].
+
+1671. WILLENIUS, MATTHAEUS, or WILLE, MATTHES, De salis origine * * * tractatus philosophicus [On the origin of salt, a philosophic treatise], Jena, 1671; new edition, 1684.
+
+1673. SCHWIMMEE, JOHANN M., Tractatus physicus * * * [Treatise on philosophy], Jena. 4°. Diss. 8, pp. 129-134.
+
+1674. ANHOEN, BAETHOLOM, Magiologia, Basel.
+
+1674. DECHALES, CL.-FE. MILLET, Cursus seu mundus mathematicus [General course in mathematics], 4 vols., Lyons 1674. 2d ed., Lugduni, 1690. De fontibus et fluviis [Concerning springs and streams], vol. 3, tractatus 17.
+
+1674. LE ROYEE, JACQUES, Trait^ du baston universel [Treatise on the universal rod], Rouen.
+
+1674. SCHAUB, J. D., Dissertatio physica de virgula mercuriali, quam divina aspirante gratia, etc. [Philosophic treatise on the rod of mercury, which divine favor, etc.], Marpurgi Cattorum.
+
+1675. FROMMANN, JOANNES CHEISTIAN, Tractatus de fascinatione novus et singularis [A new and remarkable treatise on enchantment], Nuremberg.
+
+1676. SCHWIMMEE, M. J. M., Kurtzweiliger und physicalischer Zeitvertreiber * * * [Amusing and physical pastime * * * ], 2 parts, Jena (Theod. Fleischer). Part 1, pp. 219-230.
+
+1677. PEAETOEIUS, JOHANN, Philologemata abstrusa de pollice; * * * [Hidden wisdom of the thumb], Sagani et Lipsiae.
+
+1678. FEATTA ET MONTALBANO, March, MAECO ANTONIO DELLA, Pratica minerale. [Containing in chapter 2]: De segni per ritrovar le miniere [The signs for finding minerals], Bologna.
+
+1678. LE ROYEE, JACQUES, Oeuvres de Messire. Contains, pp. 226-359, Trait6 des influences, etc. [Treatise on influences, etc.], Paris.
+
+1679. BUTSCHKY VON RUTINPELD, SAMUEL, Wohl-Bebauter Rosen-Thal, etc. [Wellmade rose valley], Nuremberg. Contains, pp. 728-731, reference to the divining rod. 1679 and 1684. SAINT-ROMAIN, G. B. DE, Physica sive scientia naturalis scholasticis tricis liberata [Physics or natural science freed from scholastic trivialities], Lugduni-Batav.
+
+1680. MELTZEE VON WOLCKENSTEIN, CHBISTIAN, De Hermundurorum metallurgia argentaria * * * [On the silver metallurgy of the Hermunduri], Leipzig.
+
+1681. LEBENWALDT, ADAM VON, Funfftes Tractatl, von dess Teuffels List und Betrug in der Berg-Ruethen und Berg-Spiegl [Fifth tract, on the devil's cunning and deceit in the mining rod and mining mirror], Saltzburg.
+
+1682. HOHBEEG, WOLFFHELMH. VON, Georgica curiosa, Dasist umstandlicher Bericht und klarer Unterricht von dem adelichen Land- und Feld-Leben, etc. [that is, a detailed account and clear information concerning the nobility of country and peasant life], Nuremberg, 2 vols.; vol. 1, ch. 76, p. 76.
+
+1684. SAINT-ROMAIN. See Saint-Romain, G. B. de, 1679.
+
+1684. SCHULTZ, THOMAS JOHANN, Des Teuffels Bergwerck; vom Schatzgraben [The devil's mining; from the treasure diggings], Wittenberg.
+
+1689. KIBCHMANN, M. C., Virtutem virgulae saliaris * * * [The power of the divining rod], Wittenberg.
+
+1689-1702. SZENT-IVANY, MARTIN, Curiosiora et selectiora variarum scientiarum miscellanea * * * [Curious and select miscellanies of various sciences], 3 vols. Tyrnaviae. See vol. 1, p. 179.
+
+1691-1693. BEKKEE, BALTHASAE, DE betoverde Weereld, etc. [The bewitched world], Amsterdam.
+
+1692. CHAUVIN, PIERRE, Lettre & Mme. la marquise de Senozan, sur les moyens dont on s'est servi pour de'couvrirles complices d'un assassinat commis a Lyon, le 5 juillet, 1692 [Letter to Madam la marquise de Senozan, on the means employed to discover the accomplices in an assassination committed at Lyons July 5, 1692], Lyons.
+
+1692. GAENIEE, PIERRE, Dissertation physique [Philosophic treatise, in the form of a letter to M. de SeVe, Sr. de Fle'cheres, in which it is proved that the extraordinary faculties by which Jacques Aymar, with a divining rod, followed murderers and robbers, discovered water and buried silver, reestablished landmarks, etc., depended on a very ordinary natural cause], Lyons.
+
+1692. PANTHOT, JEAN-BAPTISTE, Lettre de M. Panthot, doien du College des m&iicins de Lyon, £crite & Messire Antoine Daquin, conseiller du Roy * * *, sur un assassinat des plus e'normes, commis & Lyon le 5 juillet 1692, et les moyens que Ton a pris pour d&ouvrir les autheurs [Letter of M. Panthot, dean of the college of medicine of Lyons, to M. Antoine Daquin, adviser to the King, in regard to a horrible murder committed at Lyons July 5, 1692, and the means employed for discovering the criminals], no place of publication or date (1692?).
+
+1693. BEKKEE, BALTHASAE, Die bezauberte Welt, etc. [The bewitched world, etc.], Amsterdam.
+
+1693. BUNTING, J. P., Sylva subterranea [Subterranean woodland, or the admirable usefulness of subterranean coal beds, etc.], Halle.
+
+1693. CHATELAIN, Prof. (?), Dissertation physique, dans laquelle il est de'montre' clairement que les.talens qu'on attribu? & rhomme & baguette * * * sont tous talens supposez [Philosophic treatise, in which it is shown clearly that the talents attributed to the diviner * * * are all imaginary], Grenoble.
+
+1693. COMIEES, CLAUDE, La baguette justifie'e et ses effets demontrez naturels [The divining rod justified and its action shown to be natural]: Mercure galant, March.
+
+1693. COMIEES, CLAUDE, Reponse & Panonime [Reply to an anonymous article]: Mercure galant, August.
+
+1693. GARNIBR, PIERKE, Hisfcoire de la baguette de Jacques Aymar pour faire toutes sortes de decouvertes [History of the divining rod of Jacques Aymar, for making all sorts of discoveries], Lyons.
+
+1693. G., E. F., Lettre concernant la divinatioq par la baguette [Letter concerning divination by means of the divining rod], a Comiers: Mercure galant, March.
+
+1693. LA GARDE, Abb6 de, Dissertation physique, dans laquelle il est de'montre' clairement que les talens qu'on attribue a 1'homme & baguette * * * sont tous talens supposes [Philosophical treatise, in which it is clearly shown that the faculties attributed to the diviner * * * are all imaginary], Grenoble.
+
+1693. LEBRUN, PIERRE,.t/ettres qui aecouvrent 1'illusion des philosophies sur la baguette, et qui dStruisent leurs systemes [Letters which expose the illusion of philosophers in regard to the divining rod and which destroy their systems]. Published anonymously, Paris, 1693; Amsterdam, 1696,
+
+1693. LE LORRAIN, Abbe\ See Vallemont, Abbe" de, 1693.
+
+1693. Lettre sur la physique occulte de la baguette divinatoire [Letter on the occult physics of the divining rod]: Mercure galant, April.
+
+1693. NICOLAS, JEAN, of Grenoble, La verge de Jacob, ou 1'art de trouver les tremors, les sources, les limites, les meiaux, les mines, les mineraux et autres choses cachets, par 1'usage du baton fourche* [The rod of Jacob, or the art of finding treasures, springs, boundaries, metals, mines, minerals, and other hidden things, by the use of the forked twig], Lyons.
+
+1693. PANTHOT, JEAN-BAPTISTE, Trait6 de la baguette ou la recherche des ve>itables usages auxquels elle convient, etc. [Treatise on the divining rod, or tha investigation of genuine uses to which it is adapted, etc.], Lyons.
+
+1693. RENAUD, ANDRE, Response aux objections * * * [Response to the objections * * *], Lyons.
+
+1693. RENAUD, ANDRE, Critique sincere de plusieurs Merits sur la fameuse baguette * * * [Sincere criticism of many writings on the famous divining rod * * *], Lyons.
+
+1693. VAGNY, DE, Histoire merveilleuse d'un macon qui, conduit par la baguette divinatoire, a suivi un meurtrier pendant quarante-cinque heures sur la terre et plus de trente heures sur 1'eau [Marvelous story of a mason who, led by a divining rod, followed a murderer for forty-five hours over land and for more than thirty hours over water], Grenoble, about 1693?
+
+1693. VALLEMONT, Abb6 de (Pierre Le Lorrain), La physique occulte, ou Traite* de la baguette divinatoire [Occult philosophy, or treatise on the divining rod], many editions, Paris.
+
+1693-94. TENTZEL, WILHELM E., Monatliche TJnterredungen einiger guten Freunde von allerhand Buchern und andern annehmlichen Geschichten * * * [Monthly conferences of some good friends of various books and other acceptable narratives * * * ], Leipzig.
+
+1694. BUSSIERE, PAUL, Lettre a M. Pabbe" D. L. sur les veritables effets de la baguette de Jacques Aymar [Letter to M. the Abbe" D. L. on the true effects of Jacques Aymar's rod], Paris.
+
+1694. LE CONTE, J. GEORG. See Zentgravius, D. J. J., and J. G. Le Conte, 1694.
+
+1694. MENESTRIER, CL.-FR., La philosophic des images enigmatiques * * * [The philosophy of enigmatic appearances], Lyons.
+
+1694. OZANAM, J., Recreations math^matiques et physiques * * * [Mathematical and philosophic diversions * * * ] [see problem 35: To determine the places in the earth where springs occur, and problem 36: To determine the places in the earth where minerals and treasures are hidden], 2 vols., Paris.
+
+1694. VIOLET, P., Traite" en forme de lettre centre la nouvelle rhabdomancie ou la maniere nouvelle de deviner avec une baguette fourchiie. Bans lequel on refute tout ce qu'on a ecrit pour en justifier 1'usage [Treatise in the form of a letter opposing the new rhabdomancy or the new manner of divining with the forked twig, in which all that has been written to justify its adoption is refuted], Lyons.
+
+1694. ZENTGRAVIUS-, DAN. JOH. JOACH., et JOH. GEORG LE CONTE, Exlegibus Ebraeorum forensibus contra magiam de divinationibus magicis: eaque occasione de virgula divina et divinatione nupera Jacobi Aymari, Delphinatis, sicariorum et furum investigandorum causa facta [The public laws of the Hebrews against magical diviaatJon, and the use of the divining rod in recent divination by (Jacques) Aymar of Delphinas [the diviner?] for the purpose of discovering assassins and thieves], Argentorati. *Pp. 22-28 on the divining rod.
+
+1696. EABUS, PIETER, article in De Boekzaal van Europe, vol. 9, pp. 152-156, P. Rabus, publisher.
+
+1697. BAYLE, PIERRE, Dictionnaire historique et critique [HistoricaL and critical dictionary], article "Abaris," vol. 4,;Rotterdam.
+
+1697. ETTNER, JOH. CHR., Desgetreuen Eckharts unwiirdiger Doctor, in welchem wie ein Medicus, der rechtschaffen handeln will, beschaffen seyn soil, etc. [paper on the moral qualifications of a physician], Augsburg and Leipzig.
+
+1697. LEDEL, SIGISM., De virgula metallica [Concerning the metallic wand]: Miscellanea curiosa sive Ephemer. medico-physic. Germanic. Acad. Caesaro-Leopold. curiosorum, Frankfort and Leipzig.
+
+1697-1722. STURM, J. C., Physica electiva sive hypothetica [Select or hypothetical physics], 2 vols. Nuremberg, see vol. 2.
+
+1700. ROSSLER, B., Speculum metallurgiae politissimum * * * [Mirror of metallurgy], Dresden.
+
+1700. TOLLIUS, J., Epistolae itinerariae * * * [Letters of travel], Amsterdam.
+
+1700. ZEIDLER, JOHANN GOTTFRIED, Pantomysterium, oder das Neue vom Jahre in der Wunschelruthe, als einem allgemeinen Werckzeuge menschlicher verborgenen Wissenschaft [Pantomysterium (all mystery), or news of the year concerning the divining rod as a universal tool of knowledge hidden from man], Hall in Magdeburg.
+
+1702. LEBRUN, PIERRE, Histoire critique des pratiques superstitieuses, qui ont seduit le peuple et embarass6 les s^avans. Avec la methode et les principes pour discerner les effets naturels d'avec ceux qui ne le sont pas, par un pretre de l'Oratoire [Critical history of superstitious practices which have seduced the people and embarrassed the learned, with the method of distinguishing natural powers from those which are not natural, by a priest of the Oratory], 3 parts. Rouen, 1701; parts 1 and 2 treat of the divining rod. Same work, 3 vols., Paris, 1732. Reprinted in Holland (3 vols.) in 1732 and (4 vols.) in 1736.
+
+1703. BECCHER, JOACHIM, Physica subterranea [Subterranean physics], book 1, sect. 7, No. 20, Leipsic.
+
+1703. VAGEDES, HENR., Opera academica, quae seorsim antehac edita in unum corpus collegit * * * [Academic papers issued separately, now collected into one work], Frankfort and Leipzig.
+
+1704. ALBINUS, THEOPHIL., Das entlarvete Idolum der Wunschel-Ruthe [The exposed idolatry of the divining rod], Dresden. A dissertation against the rod, published with the approval of the faculty of Protestant theology of Leipzig.
+
+1704. WEISE, J. M. See Albinus, Theophil.
+
+1704-1714. VALENTINI, D. M.B., Museum museorum * * * [Museum of museums] Frankfort on the Main.
+
+1705. RIVINUS, QUINT. SEPT. FLOR., Enunciata iuris, ad ordinationem processus iudiciarii Saxonici electoralem collecta * * * [Pronouncements of law. Saxon judicial judgments collected by electoral order], Leipzig.
+
+1706. ALBINUS, THEOPHILE, Kurtze Fortsetzung des entlarvten Idoli der Wunschel-Ruthe, etc. [Short treatise on the idolatry of the divining rod, etc.], Dresden,
+
+1709. PFUNGST, OSKAR, Zur Psychologic der Wunschelruthe [On the psychology of the divining rod]: Deutsche Revue, 34th year, Stuttgart and Leipsic.
+
+1712. VILBUSSIERE, Le Commandeur de, Discours du boiteux sur la baguette divinatoire * * * [Discourse of the lame man (Comiers?) on the divining rod * * * ], Amsterdam.
+
+1716. ROHE, BERNHARD VON, Compendieuse Haushaltungsbibliothek * * * [Householder's abridged library], Leipzig.
+
+1719. FISCHER, JOH. ANDR., Facultatis medicae in perantiqua electorali ad hieram academia decanus et senior, D. Joh. Andreas Fischer * * * lectori benevolo S. P. D. ipsique de complemento votorum suorum solicito virgulam divinatoriam porrigit, Erfordiae.
+
+1719-1724. FLEMMING, HANNS FRIEDR. VON, Der vollkommene teutsche Jager, etc. [The complete German hunter], Leipzig.
+
+1725. SAINT-ANDRE, DE, Lettres de M. de St. Andre [to a friend on the subject of magic, etc.], Paris.
+
+1726. WALCH, J. G., Philosophisches Lexicon * * * [Philosophic lexicon * * *], Leipzig.
+
+1726-1740. FEYJOO, B. G. See Feyjoo, Benito-Geronymo, 1740.
+
+1728. LOESCHEB, MARTIN GOTTHELF, Physica theoretica et experimentalis, etc. [Theoretic and experimental physics, etc.], Wittenberg.
+
+1728. SCHMIDT, J. G., Die zu guter Stunde ausgeheckte curieuse Grillen * * * [The opportunity hatched, curious vagaries * * *], Chemnitz.
+
+1731. LAVAUR, DE, Histoire de la fable conf6r6e avec 1'histoire sainte. Oil 1'on voit que les grandes fables, le culte et les mysteres du paganisme ne sont que des copies altere*es des histoires, des usages et des traditions des He*breux [The history of mythology compared with sacred history. In which it is seen that the great myths, worship, and the mysteries of paganism are merely modified imitations of the histories, customs, and traditions of the Hebrews], vol. 2, pp. 152-161, Amsterdam.
+
+1733. LEBRUN, PIERRE, Superstitions anciennes et modernes, etc. [Ancient and modern superstitions, etc.], Amsterdam.
+
+1734. WERNHEB, J. F., and F. F. RIVINUS, Dissertatio inauguralis de finibus per virgulam mercurialem non investigandis. Von Aufsuchung der Grentzen durch Wunschel-Ruthen, [Inaugural essay on limits not to be investigated by the divining rod], Wittenberg.
+
+1736-1742. WEGNEB, G. W., Schau-Platz vieler ungereimten Meynungen und Erzehlungen [Theater of many absurd opinions and reports], Berlin.
+
+1737-1753. BELIDOR, BERNARD FOREST DE, Architecture hydraulique, etc. [Hydraulic architecture, etc.], 2 vols., Paris. Another edition in 4 vols. published in Paris in 1810.
+
+1737. BRAUNER, J. J., Physicalisch- und historisch-erSrterte Curiositaten, etc. [Curiosities philosophically and historically considered], Frankfort.
+
+1740. BLUHME, JOH. BARTH. See Dethardingius and Bluhme.
+
+1740. BRUHIER D'ABLAINCOURT, J. J., Caprices d'imagination, ou lettres sur diffe'rens sujets d'histoire, etc. [Caprices of the imagination, or letters on different historical subjects, etc.], Paris.
+
+1740. DETHARDINGIUS, GEORG, and J. B. BLUHME, Novam scrutationem negotii physico-magici per virgulam vacillantem detegendi occulta * * * [Anew examination of the physico-magical business of detecting hidden things by the divining rod], Hafniae.
+
+1740. PETJOO, BENITO-GERONYMO, Theatre critico universal, etc. [Universal forum for criticism], 9 vols., Madrid, 1726-1740.
+
+1741. STOBK, JOHANN GOTTLIEB, De privilegio metallicorum commentatio [Commentary on the law of metals], pp. 36-37, Erfordiae.
+
+1746. ZRUGEK, JOHANN GOTTLOB, Geschichte der Erde in den alleraltesten Zeiten [History of the earth in the most ancient times], Halle.
+
+1747. KIBSSLINQ, JOHANN GOTTPRIED, Gegriindete Nachricht von dem Bergbau und Schmelzwesen in der Grafschaft Mannssfeld * * * etc. [Authentic information on the mining and smelting in Mannssfeld County * * * etc.], p. 97, Leipzig.
+
+1751. COOKWORTHY, WILLIAM, Observations on the properties and use of the virgula divina: Gentleman's Mag. and Hist. Chronicle, London.
+
+1751-1753. MYLIUS, CHR., Physikalische Belustigungen [Diversions in philosophy] 3 vols., Berlin.
+
+1753. KASTNER, A. G., article in Hamburgisches Magazin, vol. 4, pt. 1, p. 41, Hamburg.
+
+1756. EYSSVOGEL, FRIDBRICH GOTTLOB, Neu-eroffnetes Magazin * * *, vol. 1, ch. 38, Von etlichen Wasser-Kunsten. Wie man Wasserquellen suchen und finden solle [Newly published magazine. * * * Of sundry water arts. How one should search for and find springs of water], Bamberd.
+
+1757. SCHUTZE, HBINRICH CARL, Vernunft- und schriftmassige Abhandlung von Aberglauben. * * * [Rational and scriptural treatment of superstition * * *], pp. 218-222, Wernigerode.
+
+1757. WALLERIUS, J. G., et J. L. ROMAN, Kort Afhandling om Malmgangars Upsokande * * * [Short treatise on the investigation of ore deposits], Upsala.
+
+1763. FEUDIVIRUS, H. F., Gebrauch der Berg- und Wunschel-Ruthe, etc. [Use of the ore- and divining-rod, etc.], Leipzig.
+
+1770. ALEMBERT, JEAN BAPTISTS LE ROND D ', and DENIS DIDEROT, Encyclopedic, ou x dictionnaire raisonn^ des sciences, des arts et des metiers [Encyclopedia or analytical dictionary of sciences, arts, and trades], articles on Source, Baguette divine, Rabdomancie, etc., Geneva. New ed., 1777.
+
+1772. Histoire veritable et merveilleuse d'une jeune anglaise * * * [The true and marvelous story of an English girl * * * hydroscope * * *], Paris.
+
+1772. LALANDE, J. J. DE, Lettre sur le pr^tendu hydroscope [Letter on the so-called hydroscope (Paraogue)]: Le Mercure de France, July 2, pp. 169-173.
+
+1772. SAURI, Abb6, L'hydroscope et le ventriloque [The hydroscope and the ventriloquist], Amsterdam and Paris.
+
+1773. CANCRINUS, F. L., Erste Grunde der Berg- und Salzwerkskunde [First principles of mining and of the salt industry], Frankfort, 12 parts, 1773-1791. See part 3 (1773), pp. 26-40.
+
+1773. JUGBL, JOHANN GOTTPRIED, Geometria subterranea, etc. [Underground surveying, etc.], Leipzig.
+
+1777-1778. KELLBR, ERNST URBAN, Das Grab des Aberglaubens [The grave of superstition], Frankfort and Leipzig.
+
+1778. PRYCE, WILLIAM, Mineralogia Cornubiensis; a treatise on minerals, mines, and mining, etc., London. See pp. 113-124.
+
+1779. GOBET, Les anciens mineralogistes du royaume de France [The ancient mineralogists of the kingdom of France], 2 vols., Paris. See vol. 1.
+
+1781. FORMEY, J. H. S., Baguette divinatoire [The divining rod]: Dictionnaire des merveilles de la nature, by Sigaud de la Fond, 2 vols., Paris. See vol. 1, p. 75.
+
+1781. THOUVENEL, PIERRE, Memoire physique et medicinal, montrant des rapports evidents entre les ph.enom.enes de la baguette divinatoire, du magnetisme animale et de 1'electricite [Physical and medical memoir showing the evident relations between the phenomena of the divining rod and animal magnetism and electricity], Paris and London.
+
+1782. ARCET, J. D' [etal.], Observations faites sur la vertu de Bleton de sen tirl'impression des eaux souterraines coulantes [Observations on the ability of Bleton to feel the impression of flowing underground waters]: Jour, de Paris, No. 177, June 26, pp. 719-726.
+
+1782. DEYETJX, [Experiments with Bleton]: Jour, de Paris, No. 230, Aug. 18, pp. 939-941.
+
+1782. GUILLOTIN. See Arcet, J. d', et al.
+
+1782. HUVIER, DUMEE, article in Jour, de Paris, No. 249, Sept. 6, pp. 1015-1017.
+
+1782. LALANDE, J. J. DE, Lettre sur la baguette divinatoire de Bleton [Letter on the divining rod of Bleton]: Journal des scavans.
+
+1782. LORTHE, G. A. DE, L'art de fake tourner la baguette divinatoire [The art of causing the divining rod to turn], Paris.
+
+1782. LORTHE, G. A. DE, Melanges d'opuscules mathe'matiques [Miscellany of short mathematical papers], Paris. New ed., 1785.
+
+1782. MACQUER. See Arcet, J. d', et al.
+
+1782. MITOUART. See Arcet, J. d', et al.
+
+1782. POISSONIER. See Arcet, J. d', et al.
+
+1782. THOUVENEL. See Arcet, J. d', et al.
+
+1784-1791. DECREMPS, La magie blanche deVoilee * * * avec des reflexions sur la baguette divinatoire, etc. [White magic exposed * * * with some reflections on the divining rod, etc.], 3 vols., Paris. See vol. 1, p. 4;).
+
+1784. LORTHE, G. A. DE, Melanges d'opuscules mathematiques. Lettre a. M. Thouvenel [Miscellany of short mathematical papers], Paris.
+
+1784. THOUVENEL, PIERRE, Second memoire physique et medical [Second physical and medical memoir], London and Paris.
+
