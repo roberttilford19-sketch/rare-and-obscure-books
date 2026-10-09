@@ -1,0 +1,5054 @@
+BULGARIAN FOLK SONGS: THE HEROIC SONGS
+
+Volume 1 of the 1861 Zagreb collection. Fresh English translation from the 1861 Zagreb edition.
+
+Collected by Dimitar and Konstantin Miladinov (1861).
+
+Rare & Obscure Books series
+
+
+* * *
+
+> In Memoriam > > Dimitar Miladinov (1810–1862) and Konstantin Miladinov (1830–1862), schoolteachers of Struga, who gathered the songs of their people into one great book, and who were dead within months of its printing — in prison, in Constantinople, a few days apart, in January 1862.
+
+This book is dedicated to Dimitar and Konstantin Miladinov, and to the singers — above all the women of Struga, Prilep, Kukush, Panagyurishte, and a dozen more towns and villages — whose voices they wrote down. The brothers put their own names on their title page and nobody else's, as collectors do. This volume puts the singers' songs, and the brothers' names, in front of English readers together.
+
+Recommended metrics
+
+- Canonical source: Български народни песни (Bulgarian Folk Songs), Zagreb: printing-house of A. Jakić, 1861; the copy photographed for the World Digital Library (item 4134) from the Central Library of the Bulgarian Academy of Sciences, carried by the Library of Congress (loc.gov/item/2021666571). - Original language: Bulgarian in its mid-nineteenth-century literary form, over songs in the living dialects of Macedonia and Thrace. - This volume: the heroic songs (the yunak songs), the first of two projected volumes. - Status: fresh English translation of the heroic section from the 1861 text; the nine songs Elias Riggs Englished in 1862 remain the only earlier Englishing traced; no complete English collection found after research. Drafting state in this printing: DRAFT (working draft; a reading draft for study, not a critical edition — see NOTES.md).
+
+
+
+Before You Read — Honest Label and a Word of Thanks
+
+Honest label first, in the open where it belongs. This is a fresh English translation of the heroic songs as the Miladinov brothers printed them in 1861 — not a reprint of any older English version, and not presented as a critical edition. It was made from the photographic text of the 1861 Zagreb printing named above, read through machine OCR of that old type and then worked over by hand, line by line; it is offered as a DRAFT for study and for the love of the songs. Difficult places are flagged in NOTES.md, not hidden. Places where the dialect defeated a clean reading are marked; a Bulgarian-reading reviser can mend them against the Library of Congress scan.
+
+Thanks next, and it is not a formality. This book exists because an editor with a rescue habit — take the labor a dead scholar could not finish and finish it in his name — found two brothers whose book was finished for seven months before its makers died, and whose songs got nine Englishings in 165 years. The labor is the brothers'; the songs are the singers'. What is new here is only the carrying.
+
+Why these brothers, and this book? The Rare & Obscure Books series exists for a particular kind of rescue: the scholar who died with his life's work unfinished or unpublished, whose name belongs on the title page of the completion. The Miladinov brothers are the clearest case on the shelf. Their book was finished — that is the cruelty of it. It went out into the world in June 1861 carrying their names; within months its makers were dead in prison; and the English-speaking world, which might have sung these songs alongside Child's ballads, received instead nine of them — from an American linguist in the same city where the brothers lay in prison. Nine of 660. The collection has waited in Bulgarian, and in its old dress, while Czechs, Russians, and Germans read it in their own tongues. So this volume gives the heroic songs English under the brothers' names, with their numbering and their places of origin kept. If the bones live, this is how: not anonymously, not modernized past recognition, but held up under the names of the men who gathered them.
+
+
+
+Two Brothers of Struga
+
+Dimitar Miladinov was born in 1810 in Struga, the little town where the river Drim runs out of Lake Ohrid. He was a potter's son, and he became what his country then most needed: a teacher. He taught in Struga, in Ohrid, in Prilep, and in Kukush, carrying books and primers from town to town, and pressing — against the Greek-language church establishment of the day — for Slavonic schooling for Slavonic children. All the while he was filling notebooks with the songs he heard: from women at the horo, from brides, from old men who remembered the hajduks. He wrote many of them down in Greek letters, the script his schooling had given him; the songs themselves were Bulgarian.
+
+His youngest brother Konstantin was born in 1830. He studied in Struga under Dimitar, then at the Greek gymnasium in Ioannina, then philosophy at the University of Athens, and from 1856 at Moscow, where he turned to Slavic letters and wrote, homesick in the Russian winter, the poem every anthology since has taken from him — T'ga za jug, "Longing for the South." It was Konstantin who transcribed the notebooks from Greek letters into Cyrillic; he who carried the manuscript north looking for a printer and a patron when no help came from Russia; he who found one in Vienna's orbit, in Josip Juraj Strossmayer, the Croatian bishop of Đakovo, who paid for the printing. The book appeared at Zagreb in June 1861, at the press of A. Jakić: Bulgarian Folk Songs, collected by the brothers Miladinov, Dimitar and Konstantin, and published by Konstantin.
+
+Then the book's makers were taken. The Greek ecclesiastical authorities in Macedonia had long resisted the brothers' Slavonic schools; now the charge became political — the brothers were denounced as Russian agents. Dimitar was arrested and carried to Constantinople. Konstantin, learning on his way home that his brother was in prison, went straight to Constantinople to free him, and was himself arrested there on 5 August 1861. Whether the two were ever put in the same cell, or ever saw each other again, is not known. In January 1862 typhus took them, a few days apart — Konstantin, the younger, first, on 7 January 1862 by the commonly kept reckoning. The book they had made was seven months old.
+
+
+
+Why This Book Mattered
+
+Judge a collection by what would be missing without it. Without this one, the sung memory of a whole world goes missing.
+
+The brothers gathered more than 660 songs — 23,559 verses by the usual count — from named districts across Macedonia and Thrace: Panagyurishte and Sofia in the east; Strumica, Kukush, Voden, Kostur, Veles, Debar, Prilep, Ohrid, Struga, and Bitola in the west. Most of the songs, as Konstantin says in his Foreword, were heard from women; the great horo-dances of the feast days, where two hundred girls sang in answering halves, were their conservatory. One girl of Struga — Depa Kavaeva — recited them close to 150 songs, most of them heroic. In Prilep they drew on Gyurgya Koteva; in Panagyurishte, on Hadzhi Maria Tomova. These women's repertoires, fixed in print in 1861, are the nearest thing their century left to a recording.
+
+What the songs preserve is older than the century. Konstantin, a trained philologist, saw it clearly: some of the songs carry "a deep antiquity, with beliefs reaching back even to pre-Christian times" — samodiva wild-women of the mountains, dragons, the sun's sister, alongside Tsar Samuil and Marko the King's Son, and beside them the wedding customs, the laments, the games, the proverbs, the legends, the very names people gave their children, all of which the book prints after the songs. It was one of the first large books written in the Bulgarian language, and it did what such books do: it gave a people proof, in its own mouth, that it had a literature. Izmail Sreznevsky wrote from Russia in 1863 that the collection showed the Bulgarians "far from lagging behind other peoples in poetic abilities." Lyuben Karavelov, Nesho Bonchev, Ivan Bogorov, Kuzman Shapkarev, and Rayko Zhinzifov praised it at home; the poets who built modern Bulgarian literature — Ivan Vazov, Pencho Slaveykov, Peyo Yavorov — grew up on it. It has been reprinted ever since: a second edition at Sofia in 1891, published by Dimitar's widow Mitra in the liberated principality; a third in 1942 under Mihail Arnaudov; a fourth in 1961 under Petar Dinekov.
+
+And in English? Almost nothing. In June 1862 the American linguist Elias Riggs, then in Constantinople, translated nine songs and sent them to the American Oriental Society, writing that the whole "present an interesting picture of the traditions and fancies prevailing among the mass of the Bulgarian people." Nine songs of 660. In the 165 years since, no complete Englishing of the collection has been traced after research. The brothers' book went round the world in Czech, in Russian, in German — and in English it stopped at nine songs, in the same city where its makers lay in prison.
+
+
+
+What Stands Here
+
+This volume prints, in fresh English made directly from the 1861 Zagreb text, the heroic songs — the yunak songs of Marko and the dragon-slayers, of hajduks and brides carried off and brides brought home, the longest-lunged part of the collection. It is Volume 1 of two; the Samodiva songs, the church songs, and all the rest are for the second volume.
+
+One matter of names must be handled plainly. The brothers called their language Bulgarian; they named their book Bulgarian Folk Songs; and in their own Foreword they described the seventh part of the material as coming from the eastern districts and the rest from the western — from Struga and Prilep and Ohrid. Modern Bulgaria and modern North Macedonia both honor the brothers, and not always in the same words. This edition takes no side in that argument. It prints the brothers' own title page, their own names, and their own words, and claims nothing beyond what their title page claims.
+
+The translation keeps their numbering and their places of origin, which they printed under each song's title. Verse is rendered line for line, as plainly as the songs are sung; where the old spelling or a dialect word hides the sense, NOTES.md says so rather than smoothing it away.
+
+
+
+For Those Who Would Dig Deeper
+
+The brothers left more than the book, and the trails are walkable:
+
+- Their letters. Konstantin wrote to Georgi Rakovski on 31 January 1861, explaining why he called Macedonia "Western Bulgaria" in his announcements and why he set the book's price low so it would spread. His letters, and the letters written to the brothers, are printed and discussed in the later editions and in the scholarship around them. - The later editions. Sofia 1891 (Mitra Miladinova's edition), the Arnaudov edition of 1942, and the Dinekov edition of 1961 carry apparatus, variants, and the brothers' papers in increasing fullness. - Their brother's memoir. Naum Miladinov, the elder brother who notated some of the songs, wrote a biography of Dimitar and Konstantin that he never managed to publish; he died at Sofia in 1897. - The English trail. Elias Riggs's nine songs and his June 1862 letter went to the American Oriental Society, then seated at Princeton; the Society's journal and proceedings of the 1860s are where the trail runs. - Institutions. The Library of Congress carries the 1861 Zagreb original (loc.gov/item/2021666571); the Bulgarian Academy of Sciences holds the photographed copy; Struga keeps the brothers' memory in stone and in the poetry evenings held in their town. - Konstantin's own poems. Fifteen or so survive; T'ga za jug has been translated into many languages and is the usual door into his own voice.
+
+
+
+The Songbook's Own Word
+
+Konstantin, dedicating the book to Bishop Strossmayer, wrote: "Some years ago these Bulgarian songs were gathered, and for a long time yet they would have stood buried in obscurity, had it not been for Your Excellency's high participation." Two brothers buried the meaning the other way: they dug the songs out of obscurity, and obscurity — prison, and a world's indifference — nearly buried them again. This volume is an attempt, 165 years on, to finish the digging.
+
+
+* * *
+
+
+
+The Heroic Songs (57–203)
+
+yunachki — the yunak songs of heroes, as the brothers gathered them in 1861. Each song keeps the brothers' numbering and their printed place of origin.
+
+
+* * *
+
+
+
+Song 57. King Shishman, King Latin, and the Shepherd Tabarina
+
+From Struga.
+
+King Shishman made merry,
+
+He made merry at King Latin's.
+
+God strike King Latin dead!
+
+When the bride was betrothed to him,
+
+He laid a great bond on them:
+
+"If you take your nephews,
+
+Your nephews, your war-following,
+
+You will come back without the bride;
+
+For they are brawlers in a quarrel,
+
+Drunkards at the wine,
+
+And cutthroats with the sabre."
+
+Then says King Shishman:
+
+"I did not take them — only give me,
+
+Give me the fair bride."
+
+The fair bride was betrothed.
+
+The time came, the fair season came,
+
+To invite the garlanded wedding guests;
+
+He invited from one end of the land to the other,
+
+But his nephews he did not invite.
+
+They were sorely angered,
+
+And they speak to their old mother:
+
+"O mother, old little mother!
+
+Why does our uncle not invite us to the wedding?
+
+A great gift I would carry him:
+
+One of us, three hundred measures of wheat;
+
+The second, three hundred loads of grapes;
+
+The youngest, three hundred fine-wooled sheep!"
+
+"O my sons, my dear sons!
+
+If you have your hearts in it,
+
+Go uninvited after the wedding guests,
+
+Even if your uncle does not invite you to the wedding.
+
+God strike King Latin dead!
+
+When the fair bride was married,
+
+He made it a bond that he would not take you,
+
+To put your uncle to shame."
+
+"O mother, O dear mother!
+
+Whomever you know to be the greatest hero among us,
+
+Send him uninvited after the wedding guests!"
+
+Then their old mother says to them:
+
+"O you, my dear sons!
+
+Do not let your hearts be grieved,
+
+For Mirche is the youngest, and the greater hero.
+
+When I went into the green forest,
+
+When I went to carry him his dinner,
+
+I found him asleep under a fir;
+
+When Mirche drew a breath,
+
+The treetops all bent down;
+
+When Mirche breathed it out,
+
+The treetops all rose up again.
+
+By that I know that Mirche is the greater hero."
+
+"O mother, O old mother!
+
+How are we to bring Mirche here?"
+
+"O my sons, my dear sons!
+
+Write a white letter,
+
+Send it with the falcon bird;
+
+Let it alight in the courtyard,
+
+For mother shall not die yet —
+
+You may find her alive, or not."
+
+They wrote that white letter:
+
+"Howsoever you can, Mirche, our brother,
+
+Howsoever you can, come quickly,
+
+For our mother is sorely sick;
+
+You may find her alive, or not."
+
+They wrote the letter and sent it,
+
+They sent it with the falcon bird.
+
+The falcon bird carried it,
+
+Carried it into the green forest,
+
+Gave it to Mirche the youngest.
+
+When Mirche read the letter,
+
+Mirche shed tears.
+
+As soon as he had read the letter,
+
+Mirche let go his flock,
+
+Let go his nine flocks of sheep,
+
+And came before the falcon into the courtyard.
+
+And he found his old mother,
+
+Where she sits on the high divan.
+
+"God punish you, my old mother!
+
+Why did you send me evil news,
+
+Why did you send me into the green forest,
+
+To turn loose a flock uncounted?"
+
+"O my son, Mirche the youngest!
+
+By God, Mirche, my only one,
+
+By the breasts that nursed you,
+
+I will send you to your uncle's wedding,
+
+That you may go uninvited after the wedding guests,
+
+So your dear uncle may know!"
+
+Then Mirche the youngest rose,
+
+He did not grieve his mother's heart;
+
+He mounted his swift horse,
+
+And laid on his tabarina cloak.
+
+He went to King Shishman —
+
+Uninvited, Mirche, and unhonored;
+
+And he found the garlanded wedding guests,
+
+Where they eat and where they drink;
+
+And Mirche they do not wait upon at all.
+
+Mirche sat at the edge, among the children.
+
+They eat, they drink, they sing over the bride.
+
+Mirche goes uninvited after the wedding guests;
+
+Mirche is his dear nephew;
+
+King Shishman goes sorrowful,
+
+Sorrowful, sorely downcast,
+
+Because his three nephews were not there,
+
+Because many came back without the bride.
+
+They came to the kingly courts,
+
+They came to King Latin's;
+
+They eat, they drink, three days and three nights;
+
+Then says King Latin:
+
+"It is no feat to eat and to drink;
+
+Do a feat, do a feat:
+
+Whoever is a hero born of a hero,
+
+Let an arrow pass through a gold ring;
+
+Then I give the fair bride."
+
+All the wedding guests were amazed,
+
+All the wedding guests sank to the ground;
+
+King Shishman wrings his hands,
+
+Sheds tears down his white cheeks.
+
+Then says the shepherd Tabarina:
+
+"Hark you, King Shishman!
+
+Why do you beat your white knees?"
+
+"Hark you, shepherd Tabarina!
+
+How should I not weep, not beat myself,
+
+When they ask of me a great feat,
+
+That I should take so fair a bride;
+
+Had I only invited my nephews,
+
+Then I would not be put to shame."
+
+Then says the shepherd Tabarina:
+
+"Have no care; I will do it for you."
+
+He set up a golden ring on a target,
+
+As he shot, through the ring it passed.
+
+When he hit it, then King Shishman rejoiced.
+
+King Shishman rejoiced.
+
+Again King Latin says to them:
+
+"Who can take three golden apples,
+
+And tell which is from which year?"
+
+Then the wedding guests were amazed,
+
+All the wedding guests sank to the ground.
+
+Then says the young shepherd-lad:
+
+"Bring the three golden apples,
+
+Bring a bowl of water!"
+
+They brought the three golden apples,
+
+They brought a bowl of water.
+
+He threw the apples into the water;
+
+The first apple stayed on top of the water:
+
+"This one," he says, "is the year before last's.
+
+"And the second was in the middle of the bowl:
+
+"This one," he says, "is last year's apple.
+
+"And the third sank to the bottom:
+
+"This one," he says, "is this year's."
+
+Again King Latin says to them:
+
+"I will dress three alike maidens;
+
+Tell me which is the bride."
+
+And he set out three fair maidens,
+
+Three alike, all dressed the same.
+
+King Shishman wonders again.
+
+Then the shepherd Tabarina went,
+
+The shepherd went to the fair maidens,
+
+And he throws them yellow ducats:
+
+"Whoever is the bride is not to take the ducats,
+
+Whoever is not, let her take the ducats,
+
+For now my head is set on play."
+
+He throws; the bride stands straight,
+
+And the maidens gather up the ducats.
+
+"Here, King Shishman, is the bride;
+
+Now run with the wedding guests!"
+
+Another maid he took by the hand,
+
+And hid her under his tabarina,
+
+And went again uninvited after the wedding guests;
+
+They came into Shishman's court;
+
+They honor the shepherd greatly:
+
+"I am no shepherd — I am your dear nephew.
+
+Come now to my wedding,
+
+For I have carried off a bride for myself."
+
+When they came into Mirche's court,
+
+Mirche's mother saw him,
+
+She saw him and clapped her hands:
+
+"God punish you, Mirche the youngest!
+
+Why did you put your uncle to shame,
+
+And carry off his bride?"
+
+"O mother, O old mother —
+
+Both his, mother, and mine I took;
+
+I took him and myself a hero's bride.
+
+They ate and drank three months through,
+
+From the day the bride was taken.
+
+
+
+Song 58. Tsar Ivan Shishman
+
+Ever since the dawn broke, O my dear mother,
+
+From that hour, O my dear mother, the army has marched,
+
+Horse beside horse, O my dear mother, hero beside hero;
+
+Their sabres, O my dear mother, are like the bright sun;
+
+Fire flashes, O my dear mother, through the green forest;
+
+Their voivode, O my dear mother, is Tsar Ivan Shishman himself;
+
+Tsar Ivan Shishman himself answers:
+
+Strong God, O my dear mother, God the Creator,
+
+Help us, O my dear mother, with strength and heroism!
+
+We shall fight a battle, O my dear mother, on the field of Sofia.
+
+We shall shed our blood, O my dear mother, for the name of Christ,
+
+We shall glorify, O my dear mother, the Christian faith.
+
+[The brothers' note: At Samokov a tradition lives of the last battle the Bulgarian Tsar Ivan Shishman fought with the Turks, in which the tsar was mortally wounded on the field of heroes; the following was drawn from the travel notes of G. V. Cholakov. The Turkish horde was at Kostenets, the Bulgarian around Samokov, at the place called Sefer Cheshmesi Bair. In that decisive last battle Tsar Shishman was wounded in seven places, and where his blood flowed, seven wells sprang up, which bear that name to this day... — Ed.]
+
+
+
+Song 59. The Little Child and the Lamia
+
+The sun and moon made a wager:
+
+"O hey, bright moon!
+
+Let us both rise the one time,
+
+And both set the one time."
+
+The sun rose early in the morning;
+
+It was afternoon before the bright moon rose.
+
+"Wait, wait, faithless sun!
+
+Have you kept faith like this?
+
+We were both to rise the one time,
+
+And both set the one time!"
+
+And the lazy sun speaks:
+
+"O hey, bright moon!
+
+Do not shine at noon,
+
+Shine in the morning!"
+
+And the bright moon speaks:
+
+"O hey, faithless sun!
+
+I did not rise early in the morning,
+
+For I was watching a great wonder!
+
+A young little widow was brought to bed,
+
+To bring forth a male child;
+
+Seven midwives were with her,
+
+And hardly did they deliver the child."
+
+When the child was born of his mother,
+
+He was born and in that hour he spoke:
+
+"O hey, my dear mother!
+
+Wrap me in silk swaddling clothes,
+
+Bind me tight with silken bands,
+
+Leave me alone three days and three nights,
+
+Leave me to sleep a little."
+
+As the child said, so his mother did;
+
+On the third day the child awoke,
+
+And the little child speaks:
+
+"O hey, mother, dear mother!
+
+Have you my father's swift horse,
+
+Have you my father's weapons?"
+
+And his dear mother says to him:
+
+"O hey, my dear little son!
+
+Your father's swift horse I have,
+
+And your father's weapons I have."
+
+"Have you my father's white garments?"
+
+"I have them, little son, your father's garments."
+
+"If you have them, bring them out for me!"
+
+She opened her painted chest,
+
+Brought out his father's white garments;
+
+She dressed him fair, armed him well,
+
+Brought out his father's weapons,
+
+Brought out his horse, the pehlivan;
+
+He went out through the winding gates,
+
+The child tells no one where he is going.
+
+The child goes to his dear uncle,
+
+The child goes to his uncle Yankula.
+
+His uncle has kept a wedding three months,
+
+Keeps a wedding, and has no mind
+
+To go for the fair bride;
+
+He fears to go for the fair bride;
+
+God has struck the bitch Lamia —
+
+She has fallen across the level roads,
+
+And whoever passes has no escape.
+
+When the child came into the courtyard,
+
+He made his pehlivan horse dance,
+
+Now he wheels around the wedding guests,
+
+Now he wheels in great rage:
+
+"O hey, garlanded wedding guests!
+
+Now it is three months' days
+
+That you eat and drink here,
+
+And you do not go for the fair bride!"
+
+"O hey, little child!
+
+Let us tell you a great wonder:
+
+God has struck the bitch Lamia;
+
+She has fallen across the level roads;
+
+Whoever passes has no escape;
+
+We fear to go for the bride."
+
+"Up, up — follow me!
+
+I will go in front, before the wedding guests!"
+
+The garlanded wedding guests rose,
+
+Made ready to go for the bride;
+
+The child goes in front, before the wedding guests,
+
+The wedding guests go after the little child.
+
+They drew near the bitch Lamia,
+
+There the wedding guests halted.
+
+Then he drew the yellow mace,
+
+He drew the Damascus sabre;
+
+With the sabre he cuts her by the throat,
+
+With the mace he smites her in the heart.
+
+What a wonder, and a great one, they will see!
+
+In her white heart, three pairs of wedding guests,
+
+Three pairs of wedding guests, three young bridegrooms,
+
+Beside the bridegrooms, three young brides;
+
+All of them wondered at the wonder.
+
+They went to the fair bride,
+
+In the courtyard of the golden apple tree.
+
+They ate, they drank, the bride was taken.
+
+The child tore up the apple tree,
+
+That bore three golden apples.
+
+He rode on, in front before the wedding guests,
+
+He came into Yankula's courtyard;
+
+Whoever sees it, all wonder at the wonder,
+
+At the heroism the child had done.
+
+The wedding guests came with the bride;
+
+Then the little child speaks:
+
+"O hey, my dear uncle!
+
+Now it is three months' days
+
+That you have eaten and drunk for the wedding;
+
+Come now, all you wedding guests, to my house,
+
+And eat at my baptism!"
+
+His uncle Yankula wondered,
+
+And took the garlanded wedding guests,
+
+And went to his dear nephew,
+
+And at the baptism they ate three weeks.
+
+
+
+Song 60. Sekula the Child and Altan-Dzvezda
+
+Yankula Voivode grooms his horse,
+
+Grooms his horse early on Sunday;
+
+He lays plates of black groschen,
+
+He lays nails of strained silver —
+
+Four legs, four thousand.
+
+Sekula, his dear nephew, saw him,
+
+Saw him, and speaks fair:
+
+"O hey, my uncle Yankula!
+
+What need has driven you,
+
+That you shoe your horse early on Sunday,
+
+Lay plates of black groschen,
+
+Lay nails of strained silver —
+
+Four legs, four thousand?"
+
+"O hey, Sekula, my dear nephew!
+
+I am going to my own province;
+
+That is why I shoe my horse for the road."
+
+"O hey, my dear uncle!
+
+I will beg you dearly:
+
+Take me with you to your province,
+
+Your province, the Arbanas land,
+
+That I may see what wonders you do there!"
+
+And his uncle Yankula speaks:
+
+"O hey, Sekula, my dear nephew!
+
+I shall ride out on the day of Good Friday."
+
+[And the third horo was all fair maidens;
+
+In front dances Dzvezda, Altan-Dzvezda,
+
+And beside her Tsveta the Arbanaska;
+
+Dzvezda holds a golden bowl,
+
+Full, brimming, with cold water;
+
+Whoever asks her, to him she gives water.]
+
+Again Sekula the Child begs:
+
+"Take me with you, my uncle Yankula!"
+
+"I will take you, Sekula the Child,
+
+Lest you bring me great shame!"
+
+"O hey, my uncle Yankula!
+
+If I bring you great shame,
+
+When we go back home again,
+
+I will pass by my own war-spear
+
+And strike myself in my white heart!"
+
+His uncle Yankula believed him,
+
+And took him with him to his province;
+
+They rode out on the day of Good Friday.
+
+There they found three winding horos:
+
+The first horo, all fine heroes,
+
+And the third, all fair maidens.
+
+In front was Dzvezda, Altan-Dzvezda,
+
+And beside her Tsveta the Arbanaska;
+
+Dzvezda holds a golden bowl,
+
+Full, brimming, with cold water.
+
+Then Sekula the Child went wild with longing;
+
+He asked for that cold water;
+
+He asked, and Dzvezda, Altan-Dzvezda,
+
+He asked, and she gave him the water.
+
+God strike Sekula the Child dead!
+
+He did not take the golden bowl,
+
+But took her by the right hand,
+
+And flung her on the horse behind him;
+
+The horse sped through the forest to flee.
+
+He passed by his own war-spear,
+
+And struck himself in his white heart.
+
+Then Sekula the Child says:
+
+"O hey, fair maiden!
+
+Call out Erina Samovila;
+
+She is my sworn sister;
+
+She knows the poison-herbs;
+
+She will heal my white heart!"
+
+And the fair maiden speaks:
+
+"O hey, unknown hero!
+
+If I call out, they do not know me,
+
+They do not know me by my voice;
+
+Call out yourself — you they will know."
+
+Then Sekula the Child called out alone:
+
+"Come, come, Erina Samovila,
+
+Come, come, my sworn sister!
+
+For I have fallen on my war-spear,
+
+And struck myself in my white heart;
+
+Bring me the poison-herbs!"
+
+The word was not yet out of his mouth,
+
+When Erina Samovila came at once,
+
+Brought him the poison-herbs,
+
+And laid them on his white heart.
+
+At once he stood on heroic feet,
+
+Mounted the swift horse,
+
+Mounted the fair bride as well;
+
+They went straight home;
+
+He came to his own winding gates;
+
+He did not wait for his mother to call out;
+
+Over the wall he leaped with the horse;
+
+Into the courtyard he set down the bride.
+
+Then he calls to his mother:
+
+"Come down, come down, my dear mother!
+
+Come down and see a wonder, and a great one!
+
+For you, a relief; for me, a bride for my bed."
+
+
+
+Song 61. Stoyan
+
+From Panagyurishte.
+
+Stoyan, Stoyan,
+
+Stoyan, only son of his mother!
+
+Guests came to Stoyan:
+
+Nine sister-queens,
+
+The tenth sister a tsarina;
+
+They were bathing their baby boys.
+
+They brought a baby boy,
+
+A fierce little savage.
+
+When they saw young Stoyan,
+
+The three women say to Stoyan:
+
+"Stoyan, Stoyan!
+
+Why do they carry you about so,
+
+And there is not a drop of water?
+
+The cocks have not crowed yet.
+
+They give him wine; he will not take it;
+
+He only cries, 'Water, uncle, water!'
+
+Go home, Stoyan;
+
+Your mother will heal you."
+
+Before the cocks had crowed,
+
+Stoyan took two water-jugs;
+
+Before young Stoyan could set out,
+
+He went to the water,
+
+Twice the cocks crowed,
+
+To the Samodiva lake.
+
+His cursed head throbbed,
+
+A fierce fever shook him;
+
+There he found three women,
+
+Three women, three Samodivas,
+
+Bathing in the lake;
+
+And Stoyan lay down, and died.
+
+
+
+Song 62. The Tsar and the Tsarina
+
+The tsarina had fallen asleep
+
+On the tsar's right knee;
+
+The tsar wakes the tsarina:
+
+"Rise, my love, fair tsarina!
+
+A beggar is knocking at the gates;
+
+Rise and give him alms."
+
+And the tsarina says to him:
+
+"Tsar, O my lord!
+
+Why did you wake me now?
+
+What a thing I saw in my dream!
+
+I saw it, I did not see it through:
+
+The sun fell down to earth,
+
+And behind the sun, the moon,
+
+And behind the moon, the stars."
+
+And the tsar says to the tsarina:
+
+"My love, fair tsarina!
+
+This is not for our good:
+
+The sun is our tsardom,
+
+The stars are our army,
+
+The moon is you and I together."
+
+They had only just spoken this,
+
+They had not yet finished speaking,
+
+When a heavy army arrived;
+
+And they seized the tsar,
+
+And set him on a horse,
+
+And bound his hands behind him,
+
+And nailed his feet beneath the horse.
+
+
+
+Song 63. The Tsar and the Falcon
+
+A grey-white falcon has been circling,
+
+Now three days it has circled,
+
+Over the tsar's level courts,
+
+It neither rises nor settles.
+
+The tsar's attendants watched it;
+
+It shook its right wing,
+
+And a white letter fell down.
+
+And the tsar answers them:
+
+"O fortunate tsar's attendants!
+
+It is a fine letter written there.
+
+Throw a fine net,
+
+A fine net with hooks,
+
+And call priest Nikola,
+
+That he may read the white letter,
+
+And see what is in the letter,
+
+What is written in the letter."
+
+The attendants obeyed;
+
+They threw the fine net;
+
+The falcon flies still higher,
+
+Higher still above the net.
+
+They called priest Nikola;
+
+He reads the letter, shedding tears,
+
+And answers the tsar:
+
+"O you fortunate tsar!
+
+Mine be the head, yours the sabre!
+
+Three days shall I be the priest,
+
+And you shall be tsar three days."
+
+The tsar fell upon his knees.
+
+
+
+Song 64. [The Tsarina and the Little Tsar]
+
+From Sofia.
+
+"And we shall seek the little tsar for you."
+
+The tsarina obeyed;
+
+In great Constantinople
+
+She went out to look;
+
+And she shaved her hair.
+
+And Maria went out too,
+
+And went from town to town,
+
+Carrying the little tsar in her arms.
+
+Maria gazed about her
+
+In great Budin town,
+
+In that desolate land,
+
+And Maria went there.
+
+The little tsar was surrounded.
+
+"Come out, men of Budin,
+
+Old elders of Budin!"
+
+And the tsarina speaks to her:
+
+"Maria, find the little tsar;
+
+Bring the little tsar in your arms,
+
+Or we will cut off your arms,
+
+And gouge out your eyes."
+
+Maria knew the little tsar,
+
+She knew him and took him.
+
+And Maria speaks to them,
+
+Speaks to the men of Budin:
+
+"Elders old of Budin!
+
+Do not gouge out my eyes,
+
+Do not cut off my arms:
+
+Did you not shave my hair,
+
+And leave me in disguise,
+
+To go from town to town?"
+
+And the men of Budin speak to her:
+
+"Tsarina, young and foolish!
+
+Shall we tell the tsar?"
+
+"Do not tell the tsar!
+
+Here is your heavy treasure;
+
+Take whatever you can carry.
+
+From town to town we shall wander."
+
+
+
+Song 65. Simeon and His Bride
+
+Simeon the good hero was betrothed,
+
+Betrothed and married.
+
+He feasted three days and three nights;
+
+The time came, the fair season came,
+
+To lay him in the white bridal chamber.
+
+But the Tsar sent three doorkeepers:
+
+"Take Simeon the good hero,
+
+For the army has come upon me!
+
+However you find him, so take him;
+
+If naked, naked take him!"
+
+Three doorkeepers came:
+
+Once they knock, and twice they call:
+
+"Come out, Simeon, good hero,
+
+You are to go to the Tsar's army!"
+
+He sleeps in the white bridal chamber;
+
+He does not even know they knock at the door —
+
+They knocked, the three envoys.
+
+But the fair bride listens;
+
+Shame kept her from waking the hero,
+
+And she sheds tears down her cheeks;
+
+The tears fell on his face,
+
+Until the tears scalded him awake.
+
+Then Simeon roused himself:
+
+"O bride, my good, my dear!
+
+What need has driven you,
+
+Unseen, not yet known to me,
+
+That we two are already parted,
+
+That you shed tears until you scald me?"
+
+"Hark you, Simeon, good hero!
+
+How, Simeon, should I not weep?
+
+How, my good one, not shed tears?
+
+The Tsar's doorkeepers are knocking,
+
+That you should go to the Tsar's army."
+
+At that hour Simeon sprang to his feet,
+
+Opened his winding gates,
+
+And saw the three doorkeepers;
+
+And they, the three strong doorkeepers,
+
+As they found him, so they seized him.
+
+Then says Simeon the good hero:
+
+"Do not rush to seize me so;
+
+Let me take my swift horse,
+
+That I may go to the Tsar's army!"
+
+Simeon the good hero turned back,
+
+Went into the dark stable,
+
+And asked his nine atan horses.
+
+Each of them the pestilence had struck;
+
+All the horses had fallen to the ground;
+
+Only one of them called out to him:
+
+"O hey, Simeon, good hero!
+
+Heal my three hundred wounds,
+
+And lay on the embroidered saddle;
+
+Let us go to the Tsar's army!"
+
+He saddled his swift horse.
+
+And the fair bride says to him:
+
+"Hark you, Simeon, good hero!
+
+Take, Simeon, this tuft of flowers;
+
+As long as it stands in bloom,
+
+So long I will wait for you;
+
+When the tuft withers on you,
+
+Then, young, I will remarry."
+
+And Simeon the good hero went off,
+
+Went off to the Tsar's army.
+
+He made war for nine years,
+
+Until Simeon had forgotten
+
+What he had spoken with the fair bride.
+
+But his swift horse says to him:
+
+"Hark you, Simeon, good hero!
+
+See, your tuft has withered;
+
+Your bride is now remarrying.
+
+Take leave from our Tsar,
+
+That we may reach the bride quickly."
+
+Then Simeon ran straight to the Tsar,
+
+Shedding tears, wringing his hands:
+
+"Hark you, Tsar, my father,
+
+Give me leave to go home,
+
+For today my bride is remarrying!"
+
+The Tsar says to him: "If it is brides you want,
+
+There are here as many as you could wish!
+
+I myself have three hundred alayki;
+
+Choose, Simeon, whichever you want!"
+
+Simeon was sorely grieved,
+
+The young one sorely wept;
+
+And he went up to his swift horse:
+
+"O hey, my swift horse!
+
+My Tsar gives me no leave."
+
+"Run quickly to our Tsarina;
+
+She, Simeon, will give you leave!"
+
+And Simeon the good hero went:
+
+"O Tsarina, O mistress!
+
+I beg you, O mistress,
+
+By God, let me go home,
+
+For today my bride is remarrying!"
+
+And the Tsarina says to him:
+
+"Run, Simeon, to reach the bride in time!"
+
+Then the horse, the swift horse, says:
+
+"Bind fast my black eyes,
+
+For I cannot see where I will go,
+
+If you wish us to reach the bride."
+
+And he bound fast his black eyes;
+
+And the horse flew through the heavens,
+
+And came down beside his village.
+
+There he found his old father;
+
+He found him digging in the vineyard —
+
+He digs the vineyard and sheds tears.
+
+The unknown hero asked him:
+
+"Hey there, old man, hey there, dear old man!
+
+What need has driven you,
+
+To dig your vineyard on Easter Day?"
+
+"Away, away, unknown hero!
+
+Do not speak to me, do not burst my heart!
+
+My son's bride is remarrying;
+
+The bride has waited nine years now;
+
+That is why I have fled here."
+
+Then the unknown hero says:
+
+"Come, old man, carry me home!"
+
+He set him before the horse, before himself,
+
+And carried him into his courtyard.
+
+And Simeon the good hero says:
+
+"Come, old man, make me a supper,
+
+A supper, and after, let me sleep;
+
+Wake me at such-and-such an hour."
+
+The old father rose,
+
+And made him a Turkish supper;
+
+Simeon the good hero ate his fill,
+
+And lay down to sleep it off.
+
+When the appointed hour came,
+
+The old man wakes him:
+
+"Rise, rise, unknown hero,
+
+For the hour to rise has come."
+
+Simeon the good hero rose.
+
+"Come, old man, now carry me,
+
+Carry me where they are making the wedding!"
+
+"O hey, unknown hero!
+
+How can I go? How can my eyes look on it?"
+
+"Come, come, old one, let us go!"
+
+And he set him before himself, before the horse;
+
+They went where they were making the wedding.
+
+Pipes are piping, the horo is dancing;
+
+The old one turned back behind.
+
+When Simeon's bride saw him,
+
+At once she knew him by his stance,
+
+She set him at the head of the table,
+
+And serves the unknown hero herself;
+
+She gives him the cup and sits in his lap.
+
+Then they all wondered.
+
+Then Simeon the good hero says:
+
+"This is my love, my first love;
+
+And to the bridegroom — what shall I give him?
+
+I will give him my sister Angelina,
+
+So neither he be put to shame now,
+
+Nor I be put to shame now."
+
+And he took the fair bride,
+
+Undressed her of her bridal clothes,
+
+Dressed his sister Angelina in them,
+
+And led her to where they were making the wedding.
+
+Then the old man recognized him —
+
+That it was his own child.
+
+
+
+Song 66. The Same One
+
+A mother had one son,
+
+One son, a young bridegroom.
+
+On Monday she betrothed him,
+
+On Thursday she married him,
+
+And on Friday the news came to him,
+
+To go to the army, to dig trenches.
+
+He was leaving his young bride —
+
+Both girt and belted for the wedding,
+
+Girt, and unkissed.
+
+And the young bride got up,
+
+And went into the little garden,
+
+And gathered a tuft of basil,
+
+And the young bride charges him:
+
+"O hey there, young spahi lad!
+
+Hide this tuft for yourself;
+
+Keep it for nine years,
+
+And look at the tuft of basil:
+
+When the tuft withers on you,
+
+Then I will be betrothed again, desolate;
+
+When the tuft burns up on you,
+
+Then, desolate, I will marry again."
+
+And the young spahi lad took it,
+
+Took from her the tuft of basil;
+
+He laid it in his right bosom,
+
+And kept it for nine years;
+
+And in the tenth it came to his mind,
+
+He looked at the tuft of basil.
+
+The tuft of basil had withered,
+
+Withered, and burned away.
+
+He digs trenches and sheds tears,
+
+Until he had flooded the trench.
+
+His sworn company saw him,
+
+And the young spahi lad asks them:
+
+"O hey there, young spahi lad,
+
+Young spahi lad, sworn company!
+
+What has grieved you so,
+
+That you weep so, so pitifully?
+
+Is it for your mother, or for your father?"
+
+Then the young spahi lad speaks to them:
+
+"O hey, you sworn company!
+
+I do not grieve for mother, nor weep for father;
+
+It is for my young bride I weep.
+
+My mother had only me;
+
+On Monday she betrothed me,
+
+On Thursday she married me,
+
+And on Friday the news came to me,
+
+To go to the army, to dig trenches.
+
+I left my young bride behind —
+
+Both girt and belted, unkissed.
+
+And she gave me a tuft of basil,
+
+And the young bride charged me:
+
+When the tuft withers on you,
+
+Then I will be betrothed again, desolate;
+
+When the tuft burns up on you,
+
+Then, desolate, I will marry again.
+
+The tuft has now withered on me,
+
+Withered and burned away;
+
+Now my bride is marrying."
+
+Then the sworn company speaks to him:
+
+"O hey there, young spahi lad!
+
+Mount your horse and ride home;
+
+We will plead for you,
+
+Plead that there be no harm."
+
+The young spahi mounted his horse,
+
+Mounted his horse to ride home;
+
+He forgot the desert paths,
+
+But the swift horse remembered them.
+
+When they came into the middle of the forest,
+
+They met the young bride,
+
+The young bride with all the wedding guests.
+
+Then the young spahi lad says to them:
+
+"O hey, you garlanded wedding guests!
+
+Has the young bride leave
+
+To kiss a hand, to give a gift?"
+
+Then the young wedding guests said:
+
+"We have no leave for her to kiss a hand,
+
+To kiss the hand of us road-folk."
+
+Then the young spahi lad says:
+
+"With fair leave give her to me,
+
+Lest without leave she kiss my hand!"
+
+She kissed his hand, and she gifts him,
+
+Gifts him a gilded signet-ring,
+
+Which he himself had first ringed her with.
+
+And the young bride knew him;
+
+She knew the golden signet-ring,
+
+And threw the veil from her head,
+
+And dismounted from the swift horse:
+
+"Halt, you white wedding guests!
+
+It seems it was God's word,
+
+For my lord has come to me;
+
+I have no mind to go with you!"
+
+Then the young spahi lad speaks:
+
+"O hey there, young bride!
+
+Is my sister still alive?
+
+Is she married, or betrothed?"
+
+Then the young bride speaks to him:
+
+"She is neither married, nor betrothed."
+
+Then the young spahi lad speaks:
+
+"O hey there, white wedding guests!
+
+Come back home with me;
+
+I will not send you back empty:
+
+I will give you in exchange my sister,
+
+My sister — a young bride;
+
+A bride for me, and a sister for you."
+
+He brought the white wedding guests back home,
+
+And kept them three days, three nights.
+
+He dressed up his dear sister,
+
+Dressed her up, and sent them off.
+
+
+
+Song 67. Orphan Yana
+
+Orphan Yana was wandering,
+
+Wandering by the black sea;
+
+And she found a marble slab,
+
+And bound it up from her white heart —
+
+From her white heart, in a silken sash;
+
+And she carried the marble slab;
+
+She carried it nine months;
+
+She took it from her white heart,
+
+And wrapped it in silk swaddling clothes,
+
+In silk swaddling clothes, with a gold-thread sash,
+
+And kneaded a white loaf,
+
+And invited the godfather and the priest,
+
+To christen her little male child.
+
+As she invited them, so they came;
+
+They carried the little male child,
+
+The little male child, into the fair church;
+
+And they unwrapped the little male child,
+
+To lay a name on the child.
+
+What a great wonder they will see!
+
+The marble slab is wrapped up again!
+
+They carried the slab back again.
+
+Then orphan Yana says to them:
+
+"O hey, godfather — godfather and priest!
+
+How have you laid a name on the child?"
+
+"O hey, Yana, orphan Yana!
+
+Is a marble slab christened, then?"
+
+And orphan Yana took it,
+
+Took the marble slab again,
+
+And sat down in the middle of the courtyard;
+
+Yana cried out, calling and shouting:
+
+"O hey, God, dear God!
+
+Where has it been heard, where seen,
+
+That nine months a marble slab
+
+Should be carried on a white heart —
+
+As I carried it, so it stayed,
+
+It did not become a little male child!"
+
+She burst out weeping, up to God,
+
+Until her voice was heard by God.
+
+Then the Lord on high speaks:
+
+"O hey, you two angels!
+
+Go down onto the black earth:
+
+Has fire burned up the earth?
+
+Has water swept the earth away?
+
+Have the Turks plundered the earth,
+
+That they weep so on the black earth?"
+
+When the two angels came down,
+
+When they came down onto the black earth,
+
+What should they see but orphan Yana,
+
+Where she had sat in the middle of the courtyard,
+
+In the middle of the courtyard, on the marble slab,
+
+Where she laments, where she wails.
+
+And the two angels say to her:
+
+"O hey, Yana, orphan Yana!
+
+Why do you call out, why do you wail,
+
+Why do you beat yourself on the marble slab?"
+
+"O hey, you angels of God!
+
+How should I not call, how not weep?
+
+Here I carry — I carry a marble slab,
+
+A marble slab on my heart;
+
+I thought that it would become —
+
+Would become a little male child.
+
+That is why I beat myself; that is why I cry out."
+
+And the two angels rose,
+
+Rose up into the sky:
+
+"O hey, God, dear God!
+
+It is not fire that has burned the earth;
+
+It is not water that has swept the earth;
+
+It is not the Turks plundering the earth;
+
+It is orphan Yana, sitting
+
+Orphan Yana in the middle of the courtyard,
+
+Holding a marble slab
+
+On her white heart nine months;
+
+And she sent it into the white church,
+
+To christen the little male child."
+
+Then dear little God says to them:
+
+"O hey, you two angels!
+
+Give a soul to the marble slab,
+
+That it become a little male child."
+
+And the two angels came down,
+
+And went to Yana's courtyard,
+
+Gave a soul to the marble slab,
+
+And made it a little male child.
+
+Then Yana rejoiced,
+
+Rejoiced, and smiled.
+
+"O hey, God, dear little God!"
+
+Orphan Yana kneads a loaf again,
+
+And invites the priest and the godfather;
+
+They christened the little male child;
+
+All the godly ones christened him.
+
+And they brought him back to Yana;
+
+And orphan Yana feasted them,
+
+And sat down in the middle of the courtyard,
+
+And rocks her little male child,
+
+Rocks him with her foot, sings him a song:
+
+"Sleep, sleep, my God-given son!
+
+You shall take the king's kingdom from the king,
+
+You shall take the tsar's tsardom from the tsar;
+
+You shall sit for the king on the king's throne,
+
+You shall sit for the tsar on the tsar's seat!"
+
+God strike that evil neighbor,
+
+Who put on iron shoes,
+
+And took an iron staff,
+
+And went to the tsar, to the king:
+
+"O fortunate tsar and king!
+
+Orphan Yana has —
+
+Has a little male child;
+
+He will tsar over you, he will king over you!"
+
+And they sent two envoys,
+
+Two envoys into her level courtyard,
+
+And they took her little male child.
+
+And orphan Yana wailed:
+
+"Oh, alas, God! Oh, dear God!"
+
+They flung him into dark dungeons.
+
+And orphan Yana took —
+
+She put on iron shoes,
+
+And took the iron staff,
+
+To search for her little male child.
+
+And she went all the way to the tsar;
+
+She pleaded, begging, begging:
+
+"Where is my little male child?
+
+Give him to me, that I may hold him,
+
+That I may hold him, and rear him!
+
+Do with him whatever you wish."
+
+The child grew and grew up tall,
+
+And became the finest hero,
+
+And became tsar over tsars,
+
+And became king over kings.
+
+
+
+Song 68. Mitre and Stefan and Gyorgi Arnautin
+
+Two young sisters-in-law sat down,
+
+Sat down on the high divan,
+
+Tossing a golden apple:
+
+One throws it, the other catches it.
+
+And Gyorgi Arnautin caught sight of them —
+
+Caught sight of the fair brides,
+
+And his mind was left behind him.
+
+Brotherhood he no more reckoned.
+
+God strike Gyorgi Arnautin dead!
+
+He gathered a chosen army,
+
+To seize fair Mitre's wife,
+
+To seize fair Stefan's wife.
+
+Then the two young sisters-in-law looked out
+
+From the walls, the high chambers:
+
+What wonder, and a great one, will they see —
+
+Where an army has surrounded them!
+
+Then the heroes Mitre and Stefan —
+
+Sleep had caught them, both had fallen asleep.
+
+Then the two young brides say:
+
+How shall we wake them from sleep?
+
+Then the beloved Mitre's wife says:
+
+"Hark you, young Stefan's wife!
+
+You wake Mitre, my love;
+
+I will wake Stefan, your love.
+
+But hide yourself behind the marble wall-pillar,
+
+For Mitre is savage when he wakes,
+
+Lest he cut you with his sabre."
+
+Then young Stefan's wife went,
+
+And hid behind the marble pillar,
+
+And gently wakes him.
+
+When hero Mitre woke from sleep,
+
+Mitre drew the curved sabre.
+
+Then young Stefan's wife speaks:
+
+"Hark you, Mitre, my brother-in-law!
+
+Come out now, outside,
+
+And see: an army has surrounded us,
+
+Horse by horse, hero by hero,
+
+And banners like mountain pines."
+
+Then the hero of heroes stood up;
+
+When he saw the wonder, and the great one,
+
+He shut the steel gates.
+
+The whole army had filled the place.
+
+And the two dear brothers stood up;
+
+They put on mail shirts,
+
+They laid on steel bucklers,
+
+They laid on curved sabres,
+
+They mounted their swift horses,
+
+And took up crossed banners;
+
+They opened the steel gates,
+
+Went out, outside.
+
+Then they say to the young brides:
+
+"O you, our first loves!
+
+As long as you see the crossed banners,
+
+Have no care at all!"
+
+Then the young men parted;
+
+They drew those sharp sabres;
+
+The two young heroes struck
+
+Into the three hundred chosen heroes;
+
+They cut down the three hundred strong ones;
+
+Both good heroes cut them all down;
+
+They made a puddle of blood up to the knees.
+
+And being blinded by the blood,
+
+The two brothers did not know each other;
+
+But each had gotten up his strength,
+
+To fight with those sharp sabres,
+
+And neither could overcome the other.
+
+And the two loves watch from the walls,
+
+Ran outside and leapt down,
+
+And cried out with a grieving voice:
+
+"Beloved Mitre, and beloved Stefan,
+
+You two are born brothers!"
+
+Mitre's wife seized Mitre,
+
+Stefan's wife seized Stefan,
+
+And they seized them, and embraced their loves.
+
+
+
+Song 69. Stefan and Deli Magdalena
+
+From Panagyurishte.
+
+Stefan, the fine hero, was to marry;
+
+He asked for Deli Magdalena.
+
+Magdalena weeps, and will not have him:
+
+"I will not, mother, take Stefan, the fine hero,
+
+For I am more of a hero than he."
+
+Her mother says to Magdalena:
+
+"Take Stefan, the fine hero;
+
+When Stefan's wedding comes,
+
+Make yourself out to be newly dead,
+
+And I will call out, and lament over you."
+
+Deli Magdalena obeyed;
+
+She took Stefan, the fine hero.
+
+When Stefan's wedding came,
+
+Stefan, the fine hero, invited
+
+A hundred godfathers, a hundred best men,
+
+And two very young bride-men.
+
+Stefan the fine hero dressed them:
+
+The godfathers in scarlet,
+
+The bride-men in green,
+
+The wedding guests in motley,
+
+And Stefan himself in gold.
+
+The great wedding set out:
+
+Horse by horse, cart by cart,
+
+Stefan himself in a carriage,
+
+His sister, glad, beside him.
+
+Deli Magdalena climbed up,
+
+Climbed up to the high chamber,
+
+And looked from the glazed window,
+
+And saw Stefan, the fine hero,
+
+Coming with the great wedding train.
+
+She made herself out to be newly dead;
+
+And her mother cried out, to lament:
+
+"Rise, rise, Deli Magdalena!
+
+And see Stefan, the fine hero,
+
+And see Stefan's wedding,
+
+All the godfathers and best men,
+
+And the two very young bride-men."
+
+Then Stefan, the fine hero, went,
+
+Climbed up to the high chamber,
+
+And saw Deli Magdalena.
+
+To the bride-men he answers quietly:
+
+"O you two bride-men!
+
+Go to the old mountain;
+
+Bring ices, snows,
+
+That we lay them on her cursed heart:
+
+If she is truly newly dead,
+
+She will not stir hand or foot;
+
+If she has done it for a trick,
+
+She will stir hand or foot."
+
+The two bride-men obeyed;
+
+They went to the old mountain,
+
+They brought ices, snows,
+
+They laid them on her cursed heart;
+
+She stirred neither hand nor foot.
+
+Stefan, the fine hero, answers:
+
+"O you two bride-men!
+
+Go to the steep crag;
+
+Catch the shaded snake,
+
+That we lay it on her cursed heart:
+
+If she is truly newly dead,
+
+She will not stir hand or foot;
+
+If she has done it for a trick,
+
+She will stir hand and foot."
+
+The two bride-men obeyed;
+
+They brought the shaded snake,
+
+They laid it on her cursed heart;
+
+She stirred neither hand nor foot.
+
+Then Stefan, the fine hero, turned back,
+
+Turned back with the great wedding train.
+
+And Deli Magdalena stood up,
+
+And looked from the glazed windows,
+
+And answers Stefan quietly:
+
+"Here for you, Stefan, fine hero!
+
+You are a hero — I am more of a hero than you!"
+
+
+
+Song 70. Rada Vlahinya
+
+Fair Rado Vlahino —
+
+Through the village ride the Tatars;
+
+The whole village came out,
+
+To watch the black Tatars,
+
+And white Rada came out,
+
+To watch the black Tatars.
+
+They all passed by in peace;
+
+One cursed little Tatar
+
+Did not pass by in peace,
+
+But wheeled his horse about,
+
+And seized Rada Vlahinya.
+
+Rada's cursed little mother
+
+Ran after Rada,
+
+Running, and calling:
+
+"My daughter, fair Rada!
+
+When you go, Rada,
+
+To the Tatar province:
+
+If you become a noble lady,
+
+Send me a bouquet,
+
+Bound with white silk —
+
+White for you to wear.
+
+If you become a poor slave,
+
+Send me a bouquet
+
+Wrapped in black silk —
+
+Black for you to wear."
+
+"Fair Rada Vlahinyo!
+
+Take this golden apple;
+
+Knock three times at the gates:
+
+If the gate opens,
+
+You shall become a tsarina;
+
+If the gate does not open,
+
+You shall become a slave-woman."
+
+Rada Vlahinya obeyed;
+
+She took the golden apple,
+
+Raised her right hand,
+
+Threw the apple to the sky;
+
+The gate opened.
+
+The tsar himself rejoiced;
+
+He received Rada Vlahinya,
+
+Lifted her up to the chambers,
+
+And gifted her a throne;
+
+Rada became a tsarina.
+
+Three years went by;
+
+She bore a little male child.
+
+Then she spoke to the tsar:
+
+"Tsar, O my sovereign!
+
+I have an old mother;
+
+When I was coming here,
+
+Mother charged me:
+
+If I am a wretched slave,
+
+To send it to her,
+
+That she may mourn me while I live;
+
+If I become a tsarina,
+
+To send it to her —
+
+White, green for her to wear."
+
+Then the tsar spoke:
+
+"I will bring your mother to you."
+
+He harnessed a golden coach:
+
+"Fair Rada Vlahinyo!
+
+Why did you not tell me
+
+That you have an old mother?
+
+I would have sent for her long ago!"
+
+Rada the tsarina mounted,
+
+With her dear little male child,
+
+And went to her mother.
+
+
+
+Song 71. Rada and the Gypsy-Lad
+
+[The 1861 page is two-column; the columns are restored to reading order here. — Ed.]
+
+Fair Rada, o Rada!
+
+Where the sun goes down,
+
+There stands, Rada, a green pine;
+
+And under the pine there sat
+
+Rada's three brothers,
+
+Drinking red wine,
+
+And they said among themselves:
+
+"Whoever is a hero who will leap over the green pine,
+
+And count its leaves,
+
+He shall take our sister Rada."
+
+The heroes leapt in turn;
+
+They could not leap over it,
+
+Nor count its leaves.
+
+From below comes a little Gypsy,
+
+And in his hand he carries a white stone;
+
+He leapt over the green pine,
+
+Counted the leaves at a glance,
+
+And took fair Rada.
+
+"If I am a Gypsy-lad,
+
+And my mother is no Christian,
+
+In Christian wise you will meet her.
+
+We will not let you go, Rada,
+
+Out of the village, Rada, to go visiting,
+
+Until you have gathered the gifts."
+
+And his mother came out to them;
+
+And she was no Christian woman,
+
+But a Gypsy woman,
+
+And she greeted them in the Gypsy wise,
+
+And spoke in the Gypsy tongue.
+
+When fair Rada saw it,
+
+She spoke to the Gypsy-lad:
+
+"Gypsy-lad, black Katunche!
+
+Give me your golden knife,
+
+Let us cut up the apple,
+
+And eat it together."
+
+The Gypsy-lad did not hold back,
+
+But gave her the knife.
+
+She did not cut up the apple,
+
+But struck into the heart;
+
+Black blood gushed out.
+
+And Rada cried out, as loud as she could:
+
+"O God, dear God!
+
+Was this what Rada had in mind —
+
+To have prepared white changes of clothes,
+
+To take a black Gypsy-lad,
+
+For Rada to go visiting
+
+Through village, and along the roads?"
+
+And trembling, she spoke:
+
+"Gypsy-lad, black Katunche!"
+
+The Gypsy-lad spoke to Rada:
+
+"Hush, Rada, do not weep...
+
+That my mother may find you
+
+By the Gypsy graveyards."
+
+
+
+Song 72. White Rada
+
+White Rada boasted,
+
+Where Yovko pastures his flock,
+
+Before the girls, before the lads:
+
+"I am a maiden above maidens,
+
+And a bride above brides,
+
+And I am a hero above heroes.
+
+I do not wash myself in the village,
+
+But wash myself in the field with dew,
+
+Where Yovko pastures his flock."
+
+Last night, at the wells,
+
+She nodded her head at the shepherds,
+
+And waved a knife at Yovko:
+
+"O hey, Yovko, o shepherd!
+
+Slaughter me a whole lamb,
+
+A whole suckling lamb,
+
+That has suckled nine mothers;
+
+Bring me red wine
+
+That has boiled nine times."
+
+The shepherd Ivan was frightened;
+
+He answers the shepherds:
+
+"O hey, shepherds, my company!
+
+Seize me a whole lamb,
+
+That has suckled nine mothers;
+
+Bring me red wine
+
+That has boiled nine times."
+
+Yovko's nine sisters heard her —
+
+Yovko's nine sisters;
+
+They ran to Yovko and told him:
+
+"Yovko, dear Yovko, brother Yovko!
+
+White Rada has boasted
+
+That she washes herself in the field with dew,
+
+Where Yovko pastures his flock."
+
+Deli Yovko flew into a rage;
+
+He answers the shepherds:
+
+"O hey, shepherds, my company!
+
+Block the roads,
+
+Cut off the paths,
+
+And seize white Rada."
+
+They brought the whole lamb
+
+That had suckled nine mothers;
+
+They fetched the red wine
+
+That had boiled nine times.
+
+And she sat down, and ate her fill;
+
+Ate her fill and drank her fill.
+
+Rada was the quicker,
+
+Quicker and wiser;
+
+She threw herself on a black horse,
+
+And went up to the mountain.
+
+She dressed in Turkish clothes,
+
+In Turkish clothes all red,
+
+And slung a slim rifle on,
+
+And girded a pair of pistols,
+
+And threw herself on the black horse,
+
+And went to the mountain.
+
+And she laughed in his eyes:
+
+"O hey, Yove, o shepherd!
+
+Rada fell into your hands
+
+Like a mouse into a wolf's mouth;
+
+You were neither worthy, nor able."
+
+
+
+Song 73. King Matia and the Three Sisters
+
+King Matia was drinking wine.
+
+God strike the three Turks dead!
+
+They threw the cup
+
+The cup to the ground.
+
+"Brother, dear brother!
+
+You have embraced the Turkish faith,
+
+The Turkish faith and the mosque.
+
+Do not hang yourself, and do not burn yourself;
+
+Rather, brother, turn Turk —
+
+Sisters shall have a brother."
+
+They took him to the kadi,
+
+To the kadi to be judged.
+
+Judgment came upon King Matia:
+
+To turn Turk, to be hanged,
+
+Or to be burned in the fire.
+
+Then King Matia says:
+
+"O hey, you three Turks!
+
+I will beg you dearly:
+
+Let me go,
+
+So that I may go straight home.
+
+I have three sisters;
+
+I will ask my sisters;
+
+As they give me leave,
+
+So I will give you answer:
+
+Whether you will make me turn Turk,
+
+Or whether you will hang me,
+
+Or whether you will burn me."
+
+The three Turks let him go;
+
+He went straight home,
+
+To his own dear sisters:
+
+"O sisters, dear sisters!
+
+I will tell you my sufferings.
+
+I went into the tavern
+
+With three Turks from Anatolia,
+
+To eat, to drink;
+
+They threw the cup to the ground.
+
+I have embraced the Turkish faith,
+
+The Turkish faith and the mosque;
+
+They took me to the kadi,
+
+To the kadi to be judged.
+
+Judgment was given me: to make me turn Turk;
+
+Judgment was given me: to hang me;
+
+Or to burn me in the fire.
+
+Teach me what I shall do!"
+
+And the eldest says to him:
+
+"Brother, dear brother!
+
+Neither hang yourself, nor burn yourself,
+
+Do not turn Turk either,
+
+Brother — hang yourself."
+
+And the middle one says to him:
+
+"Do not turn Turk, do not burn yourself;
+
+Rather, brother, hang yourself."
+
+And the youngest says to him:
+
+"Neither hang yourself, nor turn Turk;
+
+Rather, brother, burn in the fire.
+
+However much fire they kindle,
+
+However much they throw you in,
+
+We three sisters will come;
+
+We will pray to God on high,
+
+We will shed small tears;
+
+A strong wind will blow,
+
+Fine dew will fall,
+
+A strong torrent will flow,
+
+And will quench the strong fire —
+
+And you, brother, will be saved."
+
+As his sister taught him,
+
+So did the brother do.
+
+And he said to the Turks:
+
+"I will neither turn Turk, nor hang myself;
+
+I will only burn in the fire."
+
+They kindled a strong fire;
+
+They took King Matia,
+
+To throw him into the strong fire.
+
+Just as they were to throw him into the fire,
+
+All three sisters came to him;
+
+They prayed to God on high,
+
+Shed tears that dripped down;
+
+A strong wind blew,
+
+Fine dew fell,
+
+A strong torrent flowed;
+
+The strong fire went out.
+
+King Matia was saved.
+
+
+
+Song 74. Masa Carried Off
+
+A cold river flows through the middle of the village of Vrbyani;
+
+The river watered two garlanded willows;
+
+On the willows stood two painted benches;
+
+On the benches sat two young heroes:
+
+One was Yazo-Aga, the other Vesel-Aga —
+
+Vesel-Aga Piperko, Yazo-Aga Pustina.
+
+The Turks were plotting in Turkish to seize Masa.
+
+Masa has two brothers; they would give their heads,
+
+But they will not give Masa. She told her brothers:
+
+"O dear little brothers, what are the Turks plotting in Turkish?
+
+They mean to seize me." Alas, they are seizing Masa!
+
+The brothers were at their wits' end where to hide their sister,
+
+So Vesel-Aga Piperko should not seize her,
+
+Should not carry her off to some mountain
+
+Where there are no people. Masa lay down to sleep.
+
+The brothers went hunting; while the brothers were gone,
+
+They did not find Masa. The Turks had seized her.
+
+
+
+Song 75. Mitra Carried Off
+
+Mitra, o Mitra, fair Rusumenka!
+
+God strike your dear mother dead!
+
+God strike your dear father dead!
+
+For they built you a tavern in the middle of the village,
+
+Beside the barber's, beside the inn.
+
+Three young Tatars passed by —
+
+Three young Tatars, three young bachelors;
+
+They lodged at your tavern,
+
+And the three young Tatars said to you:
+
+"Pour, Mitra, pour, unmeasured wine!
+
+When we come back again, then we will pay you."
+
+And she poured them unmeasured wine;
+
+The Turks sat down to dine;
+
+They drank the wine dry; they cried for Mitra:
+
+"Pour, Mitra, pour, by your black eyes!
+
+We will pay for the wine, and pay over and above."
+
+She poured Mitra as much as they wanted.
+
+And the Tatars then got drunk.
+
+Mitra asked the Tatars for the money;
+
+They did not take out money to give her,
+
+But seized her by the hand,
+
+By the hand seized her, flung her behind a horse,
+
+And carried her off to their village,
+
+To their village, to their mother.
+
+Mitra wept; she cursed her mother:
+
+"Alas, mother, alas — God punish you!
+
+What if I had stayed in my mother's bosom?
+
+What if I had stayed in my father's lap?
+
+And now I have come into Turkish hands,
+
+Turkish hands, mother, with young Tatars!
+
+What shall I grieve for first, mother —
+
+My clothes, or my country?
+
+Everything, dear mother, I could forget;
+
+How shall I forget Easter Day,
+
+Which we longed for and waited for,
+
+And waited for with a red egg!
+
+And here, mother — what will I know of it?
+
+I do not know, mother, I do not know when it is Easter!
+
+These folk have one Turkish Bayram,
+
+And even they do not know on what day it falls.
+
+And my life, mother, is unknowing;
+
+For my faith I will shed my blood!"
+
+As she said, so Mitra did.
+
+
+
+Song 76. Stoyan and Ganka the Bulgarian Maid
+
+Stoyan made for himself, Stoyan —
+
+He had gone nine years —
+
+Made himself iron shoes,
+
+And an iron staff besides,
+
+To seek for himself a match, a likeness.
+
+Young Stoyan set out
+
+To seek a match, a likeness.
+
+He went, Stoyan, he went
+
+Into Borich, the great kasaba,
+
+And there Stoyan found
+
+For himself a match, a likeness:
+
+He found Ganka the Bulgarian maid.
+
+Ganka walked among the captives,
+
+Walked about with downcast ears,
+
+Holding two aprons,
+
+And sweeping three rooms.
+
+Stoyan spoke to Ganka:
+
+"Ganka, fair Bulgarian maid!
+
+Ask, Stoyan, ask your mother
+
+Whether she will let you become kin,
+
+That I may take you, Ganka the Bulgarian maid.
+
+For you are a pure Bulgarian maid,
+
+And I am a pure Bulgarian.
+
+Nine years I have stood here,
+
+And sprinkled golden coins;
+
+Ganka gathered the golden coins;
+
+Stoyan does not look at the golden coins;
+
+Stoyan looks only to take
+
+Fair Ganka the Bulgarian maid.
+
+And I pray to God:
+
+Let a dark mist fall,
+
+Where God stands, that He may hear."
+
+A dark mist fell;
+
+Stoyan went in to them,
+
+And spoke to his mother:
+
+"Mother, dear mother!
+
+I have found a match, a likeness —
+
+A likeness, Ganka the Bulgarian maid.
+
+She sent me to you, mother,
+
+To ask you, mother,
+
+Whether you will let me become kin
+
+And take Ganka the Bulgarian maid,
+
+Since she is a wretched little Jewess?"
+
+Stoyan's mother
+
+Spoke to Stoyan:
+
+"Stoyan, O Stoyan!
+
+Take her, Stoyan."
+
+The little Jewess was hidden;
+
+They led her into the church;
+
+The churches were shut,
+
+The priests had come out.
+
+Svat Nedelko spoke:
+
+"Stoyan, O Stoyan!
+
+Are you not somehow kin?"
+
+Stoyan spoke to Nedelko:
+
+"Nedelko, svat Nedelko!
+
+What kin would we be?
+
+I am a pure Bulgarian;
+
+She is a wretched little Jewess."
+
+When they had asked around,
+
+It turned out they were brother and sister.
+
+
+
+Song 77. Yovana and the Dervishes
+
+Yovana, fair Yovana,
+
+Built a cold inn
+
+At two paths, at two roads,
+
+Where people of all kinds pass,
+
+Where the crooked and the blind pass.
+
+And fair Yovana gathered there,
+
+Gathered three hundred journeymen,
+
+And she sold red wine,
+
+Red wine, strong rakia.
+
+Word got out of Yovana —
+
+With her beauty, with her splendor —
+
+Through all the land she was famed,
+
+Through all the land around,
+
+To the furthest Dervish land.
+
+Even Dervish-Basha heard of her;
+
+So he gathered three hundred souls,
+
+Three hundred souls, naked Dervishes;
+
+They mounted swift horses;
+
+They set out, they were coming,
+
+They were coming to seize Yova.
+
+When they came to the middle of the road,
+
+They saw dark mists —
+
+They were not dark mists and dust-clouds,
+
+They were the naked Dervishes.
+
+Yovana had gone up on the inn,
+
+And looked up and down,
+
+Up and down along the roads;
+
+Nowhere did she catch sight of anything.
+
+Then they arrived, the naked Dervishes;
+
+And they set tables for them;
+
+They gave wine to them all.
+
+Then Dervish-Basha says:
+
+"We have not come to drink;
+
+We have come to plunder —
+
+To plunder fair Yova."
+
+Then fair Yova says:
+
+"Since you have come to plunder me,
+
+I want to come with you.
+
+We will go to the Black Sea;
+
+I will swim across the sea,
+
+And you swim after me;
+
+Whoever swims across the Black Sea,
+
+He shall take me."
+
+The naked Dervishes obeyed fair Yova,
+
+And they said and spoke:
+
+"We are going to the Black Sea."
+
+So they got up and went.
+
+Fair Yovana swam out;
+
+The Dervishes swam after her.
+
+When she came to the middle of the sea,
+
+She turned back to look —
+
+Their caps were floating on the sea;
+
+There were no Dervishes after her.
+
+And she turned back;
+
+She turned and came out on the shore;
+
+Quickly, quickly she came down,
+
+To go to her inn.
+
+And she speaks to her apprentices;
+
+To the apprentices she says and speaks:
+
+"Come now, apprentices, journeymen!
+
+Pour me a cup of wine,
+
+For I am weary.
+
+While I was giving out three hundred souls,
+
+Three hundred souls, naked Dervishes —
+
+Set them tables,
+
+And give them cups!"
+
+They poured the red wine;
+
+Fair Yova drank her fill.
+
+Before she had finished her words,
+
+Not a tooth was left in the Dervishes' throats.
+
+
+
+Song 78. Wretched Kana
+
+O Kana, wretched Kana!
+
+God strike the fierce Turks!
+
+They cast a wicked slander,
+
+A wicked slander, a Turkish calamity:
+
+That you loved a Turk,
+
+A young Turk, a little janissary.
+
+They flung you into a dark dungeon;
+
+They dealt you a cruel torment:
+
+A heavy trough on your feet,
+
+A fine chain on your throat,
+
+Bracelets on your hands.
+
+They torment you with cruel torment;
+
+They want to make you a Turk.
+
+God strike your aunt dead!
+
+For she came to your mother,
+
+To say to her and speak:
+
+"Come now, sister, dear sister!
+
+Why do you stand, why do you look on?
+
+Get up, let us go to the dungeon,
+
+To see wretched Kana —
+
+Whether she is alive, or whether she has died."
+
+Your mother obeyed her,
+
+And they came to the dungeon.
+
+From far off they call:
+
+"O Kana, dear daughter,
+
+Are you alive, or have you died?"
+
+Wretched Kana cried out,
+
+Cried out from the dungeon:
+
+"I am alive, I am in torment:
+
+With a heavy trough on my feet,
+
+With a fine chain on my throat,
+
+With bracelets on my hands;
+
+They want to make me a Turk."
+
+God strike your mother dead!
+
+Then she says and speaks:
+
+"Give up the faith, dear daughter;
+
+You will perish still young,
+
+With your youth unworn,
+
+With your clothes unworn out,
+
+With the horo undanced,
+
+With songs unsung."
+
+Wretched Kana cried out:
+
+"May you find it from God, mother!
+
+If you had come, would that you had not come!
+
+Hush, mother, you have gone blind,
+
+Where you stand, blinded.
+
+How shall I give up the faith —
+
+What would I first forget?
+
+Would you see me at the horo?
+
+Would I come to you as a guest?
+
+Would you come to me as a guest?
+
+Or welcome my brothers?
+
+Or go to church myself?
+
+Or keep Easter?
+
+Or greet the feast of God?
+
+They have one day in the year,
+
+A feast-day, a Bayram,
+
+And they do not know when it comes."
+
+They dealt her yet more torment:
+
+The heavy trough was not enough for them,
+
+The fine chain was not enough for them,
+
+The bracelets were not enough;
+
+They hammered spikes into her nails.
+
+She gave up her soul, but not her faith.
+
+
+
+Song 79. Maria Carried Off
+
+Dear Maria set out,
+
+Dear Maria, to go to the harvest,
+
+To gather flax, to reap barley.
+
+The Turman Turks met her —
+
+Turman Turks, Katum Gypsies —
+
+And carried off dear Maria,
+
+And took her to the Katum village.
+
+They kept her for three years,
+
+In summer on a threshing-floor, in winter on a barn floor,
+
+Until they made her a Katum Gypsy woman,
+
+Until she bore a little male child.
+
+And they gave her two staffs in her hands,
+
+A bag on her shoulder, the child in her arms,
+
+And sent dear Maria out
+
+From village to village to beg for bread.
+
+And dear Maria went
+
+From village to village, from house to house,
+
+And she came to her mother's village,
+
+To her mother's village, to her uncle's house:
+
+"Give me, uncle, for Maria's sake!"
+
+"Off with you, black Gypsy woman!
+
+Where is Maria, that I should give to you?"
+
+Dear Maria arose from there,
+
+And went again to her father's house:
+
+"Give me, father, for Maria's sake!"
+
+And her father calls from the high chamber:
+
+"Off with you, Katum Gypsy woman!
+
+Where is my dear Maria,
+
+That I should give to you, that I should welcome you?"
+
+Dear Maria arose from there,
+
+And went again to her dear mother:
+
+"Give me, mother, for Maria's sake!"
+
+Then her dear mother says:
+
+"Off with you, black Katunka!
+
+Where is Maria, that I should give to you,
+
+Give to you, and dress you anew?"
+
+Then dear Maria says to her:
+
+"O hey there, dear little mother,
+
+I know you, I recognize you;
+
+You are my dear mother;
+
+I am your dear Maria, mother.
+
+Do you know me, do you remember me?
+
+When you sent me to go to the harvest,
+
+To gather flax for you, to reap barley,
+
+To carry dinner to the workfolk,
+
+The Turman Turks met me —
+
+Turman Turks, Katum Gypsies;
+
+They carried me off, dear little mother;
+
+They kept me for three years,
+
+In summer on a threshing-floor, in winter on a barn floor,
+
+Until they made me a Katum Gypsy woman;
+
+And they gave me two staffs in my hands,
+
+A bag on my shoulder, the child in my arms,
+
+And sent me from village to village
+
+To beg my bread, to feed the child —
+
+From village to village to our village,
+
+From house to house, to my uncle's.
+
+First I cried out at my dear uncle's;
+
+My dear uncle did not know me,
+
+Did not know me, and drove me away.
+
+From there I arose and came to my father;
+
+My dear father drove me away too.
+
+From my father I arose and came to you;
+
+And you, mother — do you not know me?
+
+And where is my brother Georgi?
+
+And where is my sister Selfia?
+
+Perhaps they will know me."
+
+Then Maria's mother started up:
+
+"O hey there, my daughter Maria!
+
+When you knew all the names,
+
+Truly you are my dear Maria,
+
+Dear Maria, my own child,
+
+Who was lost for three years.
+
+Everything you tell me, daughter, is so."
+
+She did not lay her down there in the courtyard,
+
+But took her into the fair church,
+
+And called the priest and the godfather,
+
+And rebaptized dear Maria —
+
+Rebaptized her and dressed her anew;
+
+And they called her dear Maria;
+
+They gave her the name dear Milichka.
+
+They lit two strong fires,
+
+And flung in the Katum Gypsy child;
+
+They burned it, they roasted it;
+
+They gathered its white ashes,
+
+And flung them into the strong river.
+
+Afterwards all her kinfolk learned of it;
+
+They feasted for three weeks,
+
+And then parted from one another,
+
+Parted, each to where he had come from —
+
+Each to where he had come from, went home.
+
+They honor dear Maria at feasts,
+
+At feasts for three years,
+
+Keeping dear Milinka among them,
+
+And brought her out into the white world,
+
+Until they made her a white Bulgarian woman again.
+
+
+
+Song 80. Dobra the Boyar's Lady
+
+Fair Dobra, boyar's lady,
+
+Dobra the boyar's lady, the childless one!
+
+Lord God Himself has undertaken:
+
+"Two Angels, Archangels!
+
+I myself would borrow of God —
+
+Would build myself a monastery,
+
+A monastery, new churches,
+
+Of dry gold, all melted.
+
+To finish the monastery —
+
+The monastery, the new churches —
+
+And cast their doors."
+
+Dobra speaks to them softly:
+
+"Two Angels, Archangels!
+
+Lord God Himself has sent us:
+
+Yesterday there were five weddings here,
+
+Five wedding-processions set out;
+
+Everyone they invited —
+
+One as godmother, one as best-woman,
+
+One as the bride-man's mother;
+
+But no one invited me,
+
+Neither as godmother nor best-woman,
+
+Nor as the bride-man's mother."
+
+They speak to fair Dobra:
+
+"Fair Dobra, boyar's lady,
+
+Dobra the boyar's lady, the childless one!
+
+Our Lord God Himself has sent us,
+
+That you lend Him, Dobra,
+
+Of dry gold, all melted,
+
+That He finish His monastery,
+
+That He cast their doors.
+
+For He is in debt to God..."
+
+[The song breaks here in the printing, with the two columns interleaved; the angels come to the childless Dobra to borrow gold for God's monastery doors, and the borrowing stands for the child she is promised in return. — Ed.]
+
+
+
+Song 81. Stoyan and Patrik
+
+A mother bore her child,
+
+Rocked him in a golden cradle;
+
+His name was Stoyan.
+
+As she rocked him, she spoke:
+
+"Sleep, my son Stoyan,
+
+Sleep now, grow, grow tall;
+
+When you grow up, my son,
+
+You will win back your tsardom
+
+From foreign hands, Stoyan —
+
+What is your father's tsardom,
+
+Your father's, and your mother's too."
+
+Stoyan spoke to his mother:
+
+"Mother, old little mother,
+
+You have sorely wounded my heart.
+
+Have I a Frankish sabre,
+
+And a long rifle, a boyliya,
+
+And a pair of pistols in holsters,
+
+And my father's old mace,
+
+Which were my father's,
+
+My father's and my mother's?"
+
+His mother spoke to Stoyan:
+
+"Son Stoyan, Stoyan,
+
+Everything, Stoyan, you have;
+
+Only saddle your horse;
+
+Rise early on Sunday,
+
+Pray truly to God,
+
+Gather the army, my son.
+
+But I will charge you a little:
+
+As you go, my son,
+
+Draw up the army in order
+
+On hills and on mountains;
+
+And fear no one,
+
+Only the wily Greeks,
+
+The wily ones and the traitors,
+
+Who betrayed your father too
+
+In Edrene, the great city:
+
+There the Turks seized him;
+
+His whole army they made Turks."
+
+Patrik heard this —
+
+Patrik from Constantinople
+
+Goes straight to the Tsar,
+
+And spoke to the Tsar:
+
+"Tsar, fortunate Padishah!
+
+Long life to your tsardom!
+
+Have you heard, Tsar, have you learned,
+
+Of Stoyan the young Voivode
+
+From the great city of Tarnova,
+
+Who has raised himself with an army
+
+To win back your tsardom from you,
+
+To win back his tsardom —
+
+His father's and his mother's?"
+
+The Tsar spoke to Patrik:
+
+"Patrik, father of the people!
+
+I want to send an army
+
+Against Stoyan Voivode —
+
+Seventy-five thousand."
+
+The army rose early;
+
+Patrik himself led them on.
+
+They marched and marched,
+
+Crossed the wide field,
+
+Came to a green forest.
+
+When Stoyan saw them,
+
+Stoyan the young Voivode
+
+Drew up the army in order
+
+On hills and on mountains;
+
+With a yellow horn he gave the call,
+
+Gathered all the Voivodes,
+
+And spoke to the Voivodes:
+
+"Voivodes, young heroes!
+
+Unfurl the bloody banners!
+
+Whoever is a hero above heroes,
+
+I will show him the places."
+
+With seventy-two thousand,
+
+All the Voivodes spoke:
+
+"With joyful hearts we go;
+
+We will bring Patrik back alive!"
+
+Patrik was the quicker;
+
+He slipped away from the army;
+
+All his Turks were cut down by
+
+Stoyan's battle-order
+
+On hills and mountains.
+
+Stoyan turned back,
+
+And hid in the thick mountains.
+
+Patrik reached the Arabs;
+
+Patrik turned back,
+
+And spoke to the Tsar:
+
+"Tsar, fortunate Padishah!
+
+Did I not tell you, Tsar,
+
+How many of the old remain?
+
+Gather the churches?
+
+Then, Tsar, you will be at peace.
+
+Shall I not send from ours?
+
+They will be more faithful to you."
+
+The Tsar obeyed Patrik;
+
+He sent word, to cut them down:
+
+He cut down all the priests,
+
+Hanged all the bishops,
+
+Turkified the young children —
+
+All of them you shall Turkify;
+
+He tore down all the churches,
+
+Enslaved their children,
+
+And Turkified many of them.
+
+Priests you shall slaughter for them,
+
+Bishops you shall hang for them,
+
+Turkify the young children,
+
+Enslave the children for them.
+
+Small and great wept:
+
+What evil had befallen them.
+
+
+
+Song 82. [Stoyan and the Two Eagles]
+
+[Under this number the 1861 printing sets the name Rada and the Gypsy-Lad; the song it carries is the ballad of Stoyan and the two eagles. — Ed.]
+
+"Stoyan, o Stoyan!
+
+Let us look on you as a hero."
+
+Young Stoyan fell sick
+
+On the top of the old mountain.
+
+When they were burning in the blaze,
+
+There was no one to tend him;
+
+The two eagles tended him,
+
+Two eagles, two dear brothers.
+
+With their beaks they brought him water,
+
+With their wings they made him shade.
+
+Stoyan speaks to the eagles:
+
+"Two eagles, two dear brothers!
+
+I have no dear little brother;
+
+You two are my brothers.
+
+Do you know my courtyard?
+
+There stands a cross-shaped tree;
+
+Rise up higher,
+
+Go to my courtyard,
+
+Until my soul departs;
+
+Then fall,
+
+Fall upon that tree,
+
+Eat white flesh,
+
+Drink black blood —
+
+White heroic flesh,
+
+Black heroic blood —
+
+And croak mournfully, dearly:
+
+'You, Stoyan's little mother!
+
+Come, let me lead you
+
+To your son Stoyan,
+
+Where he lies, about to die.'"
+
+The eagles said to Stoyan:
+
+"O Stoyan, Stoyan!
+
+We have not come, Stoyan,
+
+To drink your blood;
+
+We have come, Stoyan..."
+
+"You know, Stoyan, remember:
+
+On the top of the old mountain
+
+When they were burning in the blaze,
+
+Did you give your staff,
+
+And draw us out of the blaze?"
+
+Stoyan speaks to the eagles:
+
+"Two eagles, two dear brothers!
+
+Do you know my courtyard?
+
+Rise up higher,
+
+Go to my courtyard;
+
+Until my soul departs,
+
+Then fall —
+
+Fall upon that tree,
+
+And croak mournfully, dearly:
+
+'You, Stoyan's little mother!
+
+Come, let me lead you
+
+To your son Stoyan,
+
+Where he lies, about to die.
+
+For she sewed you a shirt,
+
+For the bright feast of Prokopiy,
+
+And grievously she cursed you;
+
+The bitter curse has fallen,
+
+Has fallen, has quickly arrived.'"
+
+The two eagles obeyed him;
+
+They went to his courtyard,
+
+On the top of the Stara Planina,
+
+And fell upon that tree,
+
+And croaked mournfully, dearly.
+
+Stoyan's mother came out;
+
+She embraced him living,
+
+And unclasped her arms from the dead one.
+
+
+
+Song 83. Stane Nine
+
+Stane Nine, lord!
+
+Dawn has dawned
+
+From fair Wallachian land,
+
+From splendid Dryan field.
+
+No dawn, no daylight —
+
+Stane Nine, lord!
+
+Three girls were bleaching linen;
+
+They flung it with the beater,
+
+Struck down a fallow deer,
+
+And Rabryo the hero caught him.
+
+Only Rabryo the hero was feasting;
+
+Where he hunts the fallow deer,
+
+The fallow deer turned around.
+
+"I have a golden-haired son,
+
+Golden-haired, silver-headed!"
+
+He answers: "Flee, flee,
+
+Flee, flee, fallow deer!
+
+Rabryo the hero will catch you.
+
+Give him, give, Stane Nine!
+
+Give him, give, that he may be tsar —
+
+Tsar to be, ban to be!"
+
+His horse soars, the sun shines;
+
+His horse breathes, lifts the stars.
+
+Stane Nine answers:
+
+"Carollers, be my brothers!
+
+I have a golden-haired son,
+
+Golden-haired, silver-headed;
+
+He cannot divide the feast,
+
+Cannot array the army,
+
+First milk he has not drawn."
+
+The carollers answer:
+
+"Give him, give him, Stane Nine!
+
+We will divide the feast for him,
+
+Divide the feast, array the army.
+
+To your health, householder!
+
+We sing to you, we glorify God."
+
+The deer answers him:
+
+"Make haste, make haste, Rabryo hero,
+
+After a firstling hind!
+
+He pursued it, he drove it,
+
+Until they went down to the sea."
+
+
+
+Song 84. King Latin and Ognen
+
+King Latin is making a wedding —
+
+Making a wedding, to marry his son.
+
+But his son is a girth-big lad:
+
+His upper rilka reaches to his forehead,
+
+His lower one to his belt.
+
+Now the king wonders what to do,
+
+From where to take a bride from far away —
+
+From far away, from the city of Legen,
+
+From Legen, sister of nine brothers.
+
+They are preparing great gifts for him:
+
+Nine brothers, nine tower-treasures;
+
+The old mother-in-law, a shirt of gold thread,
+
+On the breastplate priceless stones.
+
+They are preparing him a folding sabre,
+
+That folds in twelve folds,
+
+That is worn in the white bosom,
+
+That will cut trees and stones;
+
+They are preparing him a gilded table,
+
+Where seventy men will sit,
+
+And on it priceless stones,
+
+That they may dine and sup
+
+Without candles, without white torches —
+
+That there be light from the table itself.
+
+His sisters-in-law are preparing him a three-year-old colt,
+
+Fed always on dry raisins,
+
+That it may swim across the Black Sea.
+
+And King Latin arose;
+
+He invites Marko Kralyevik,
+
+Invites him as honorable best man.
+
+Marko rose early on Sunday;
+
+He fodders his horse very diligently;
+
+They laid horseshoes of white groats,
+
+Horseshoe-nails around of yellow ducats.
+
+Then young Marko's wife says:
+
+"O Marko, my lord!
+
+What need has driven you,
+
+To fodder your horse so diligently?
+
+Are you going to the Tsar's army,
+
+Or are you going somewhere to a wedding?"
+
+Then Marko Kralyevik says:
+
+"O hey, young wife of Marko!
+
+I am not going to the Tsar's army,
+
+I am not going anywhere to a wedding.
+
+King Latin has sent for me;
+
+He invited me as honorable best man.
+
+I am not going as honorable best man;
+
+Instead, dress up our little male child;
+
+I will send him to the king's wedding."
+
+And young Marko's wife arose,
+
+And took her little male child,
+
+Her male child, little Ognen.
+
+She dressed him in a silk shirt,
+
+Dressed him in a robe of soft felt,
+
+Dressed him in a fur-lined coat;
+
+On his head, a sable cap;
+
+And on his bosom, what did she array?
+
+She arrayed priceless stones.
+
+The child shines like the clear sun.
+
+She mounted him on the swift horse.
+
+And young Marko's wife arose,
+
+And kissed the horse's black eyes:
+
+"Horse, horse, by your black eyes!
+
+Guard me my little male child,
+
+Too — my child is a foolish child!
+
+I give my head, but I will not give the child."
+
+And Marko Kralyevik said to him:
+
+"O hey, son, little Ognen!
+
+I am sending you to the king's wedding,
+
+But do not disgrace me;
+
+Instead, I want you to do honor,
+
+For you, son, are of Marko's line.
+
+Do not drink wine and rakia;
+
+Do not eat lordly dishes;
+
+Do not get down from the horse to the ground;
+
+As I send you off, so come back to me."
+
+He went off to the king's wedding.
+
+As his father had charged him,
+
+So the child kept his word.
+
+And he found the garlanded wedding guests,
+
+Sitting on a high divan;
+
+They eat, they drink, they are waiting for the best man,
+
+To go for the fair bride.
+
+And Ognen, the good hero, came;
+
+And King Latin rushed out,
+
+Kissed the horse's saddle for him,
+
+And begged the little child Ognen
+
+To get down from the swift horse,
+
+To seat him at the honorable table.
+
+And Ognen, the good hero, says to him:
+
+"O hey there, King Latin!
+
+I took no leave from my father
+
+To sit at an honorable table,
+
+To drink wine and rakia,
+
+To eat lordly dishes of yours;
+
+With my horse I will go onto the divan.
+
+Come, gather your garlanded wedding guests,
+
+Let us go for the fair bride."
+
+Then King Latin says:
+
+"O hey, son, o dear son!
+
+Forgive me — I will tell you something:
+
+I invited you, but I did not tell you.
+
+Can you, son, go for me,
+
+Go as a stand-in bridegroom?"
+
+Then little Ognen says:
+
+"O hey there, King Latin!
+
+I will go for you as stand-in bridegroom,
+
+If you keep the word I shall speak to you:
+
+The gifts they will gift to you —
+
+Gift me; the bride is yours.
+
+So I will go as stand-in bridegroom."
+
+And King Latin said to him:
+
+"The gifts for you, the bride for me;
+
+Only do not disgrace me, son.
+
+When I bring the bride,
+
+I will make you honorable best man."
+
+The garlanded wedding guests set out,
+
+To go for the fair bride;
+
+They came out onto the white roads.
+
+Little Ognen rides in front;
+
+He makes his swift horse dance;
+
+The child shines like the clear sun.
+
+The girls of Legen saw him.
+
+Then the girls of Legen say:
+
+"Alas, God, dear God!
+
+Blessed the mother who bore a hero;
+
+Most blessed she who will love him!"
+
+They went to the city of Legen,
+
+To take the fair bride.
+
+They brought out the great gifts:
+
+Nine brothers, nine tower-treasures;
+
+The old mother-in-law, a shirt of gold thread,
+
+On the breastplate priceless stones;
+
+The old father-in-law, a folding sabre,
+
+That folds in twelve folds,
+
+That is worn in the white bosom,
+
+That will cut trees and stones.
+
+They brought out the gilded table,
+
+Where seventy men will sit,
+
+And on it priceless stones,
+
+That they may dine and sup,
+
+Without candles, without white torches —
+
+That there be light from the table itself.
+
+His dear sisters-in-law, a three-year-old colt,
+
+Fed always on dry raisins,
+
+That it may swim across the Black Sea.
+
+They took the fair bride.
+
+The wedding guests went and went;
+
+They came out beside the Black Sea.
+
+A light wind blew;
+
+It blew the veil from the bride,
+
+And the young stand-in bridegroom saw her.
+
+Then the fair bride says:
+
+"Alas, God, dear God!
+
+Blessed the mother who bore a son;
+
+More blessed I, who will love him!"
+
+Little Ognen heard her.
+
+Then little Ognen says:
+
+"Do not look, bride, at me;
+
+Look at the thousand wedding guests:
+
+Whoever has the upper rilka to his forehead,
+
+Whoever has the lower to his belt —
+
+With him you will keep house;
+
+I am only your stand-in bridegroom."
+
+Then the fair bride says:
+
+"God strike you dead, King Latin!
+
+Why did you set a stand-in bridegroom for me?
+
+If your son were such a girth-big lad,
+
+Others would not have taken the gifts."
+
+And King Latin says to him:
+
+"O hey, little Ognen!
+
+The bride has repented;
+
+She will not give you the gifts."
+
+Little Ognen flew into a rage;
+
+He drew the folding sabre,
+
+Cut through the gilded table,
+
+And flung it into the Black Sea.
+
+And he took the nine tower-treasures,
+
+And flung them into the Black Sea.
+
+And he took the three-year-old colt,
+
+Cut it through the middle,
+
+And flung it into the Black Sea.
+
+Then the fair bride said:
+
+"Anything else I could grieve for;
+
+But how shall I grieve for the colt,
+
+Three years my dear sisters-in-law fed it —
+
+Fed it always on sugar and dry raisins!"
+
+Little Ognen flew into a fury;
+
+He cut down the fair bride,
+
+And flung her into the Black Sea;
+
+The sharp sabre he broke on the stones,
+
+And flung it into the Black Sea.
+
+And little Ognen said to him:
+
+"O hey, King Latin!
+
+Did you see Marko's offspring?
+
+How can he go back without gifts?
+
+You will go back without a bride!"
+
+He spurred Ognen's swift horse;
+
+He flung himself into the Black Sea,
+
+Swam across the Black Sea,
+
+And went to his dear father.
+
+Marko sits on the high divan;
+
+He spied the child from afar,
+
+And said to young Marko's wife:
+
+"O hey there, young wife of Marko!
+
+Something is coming — a child, in a rage."
+
+When little Ognen came,
+
+He spoke, very angry.
+
+And Marko Kralyevik said to him:
+
+"What is it, son, why so enraged?"
+
+And little Ognen said to him:
+
+"You need not ask why I am enraged;
+
+Rather, I must draw my sabre,
+
+And take the head from your shoulders!
+
+When you grow senile,
+
+You do not know what you do then:
+
+With the Latins you make sworn brotherhood!
+
+Do you not know that they are faithless?
+
+As they invite, so they do not keep.
+
+They did not make me honorable best man;
+
+They set me as stand-in bridegroom,
+
+And promised me all the white gifts:
+
+The gifts for me, the bride for him.
+
+Afterwards the king repented;
+
+He grudged me taking the gifts,
+
+Because they were great gifts:
+
+Nine brothers, nine tower-treasures;
+
+The old mother-in-law, a shirt of gold thread,
+
+On the breastplate priceless stones;
+
+The old father-in-law, a folding sabre,
+
+That folds in twelve folds,
+
+That is worn in the white bosom,
+
+That will cut trees and stones;
+
+They had prepared a gilded table,
+
+Where seventy men would sit,
+
+And on it priceless stones,
+
+That they might dine and sup
+
+Without candles, without white torches —
+
+That there be light from the table itself.
+
+His sisters-in-law had prepared a three-year-old colt,
+
+Fed always on dry raisins,
+
+That it might swim across the Black Sea.
+
+And I flung into the Black Sea
+
+Both the gifts and the young bride.
+
+I have come back to you without gifts;
+
+He fled back without a bride.
+
+I did our heroic honor proud."
+
+Then Marko kissed the child;
+
+Marko's wife kissed the horse.
+
+
+
+Song 85. Two Falcons
+
+A mother had, she had not,
+
+She hardly had children —
+
+Two grey falcons,
+
+Two twin falcons.
+
+With grain their mother fed them;
+
+She fed them, and nursed them too,
+
+Until the falcons grew up;
+
+No one taught them,
+
+Nor did the falcons grow...
+
+The falcons grew, grew tall;
+
+One falcon was gasping,
+
+The other was watching himself;
+
+When the two part,
+
+Each weeps for the other.
+
+Their mother sang them a song;
+
+Their mother spoke to the falcons:
+
+"Sleep, my falcons, sleep, mine,
+
+Twin falcons;
+
+Grow up, and grow tall!
+
+You get up, you go —
+
+Take your father's tsardom!"
+
+
+
+Song 86. Todorka and the Kiahche
+
+Word has come from the Tsar:
+
+"Whoever has a son, let him send him;
+
+Whoever has none, let him come himself."
+
+Ivan had no son —
+
+Only one daughter,
+
+One daughter, Todorka.
+
+He wonders and broods
+
+What to do, what to make of it.
+
+When Todorka heard it,
+
+She spoke to her father:
+
+"Do not grieve, little father,
+
+Until young Todorka is here;
+
+You will not see an army, then.
+
+Go now, father, go now;
+
+Buy me a Frankish sabre,
+
+And a tall boyliya rifle,
+
+And one good fed horse —
+
+And I will go to war,
+
+And become a young soldier,
+
+And no one will know me."
+
+She became a young Lazar-girl;
+
+No one, nowhere, knew her.
+
+She went off with the army seven years.
+
+The Tsar spoke to the kiahche:
+
+"Take the army out for me
+
+On the level field to sport,
+
+To sport the heroic horo dance —
+
+Look at them all in turn,
+
+That you may know the maiden.
+
+When it was Lazarus' Day,
+
+Todorka remembered
+
+That her mother is at the market,
+
+Like her age-mates.
+
+In the Tsar's gardens she sang,
+
+Sang and chimed in;
+
+And she sang a song at night,
+
+Where distaffs are sold,
+
+Where she had gone with the army.
+
+The Tsar spoke to the kiahche:
+
+"Take the army out for me,
+
+That you may know the maiden."
+
+When the young kiahche heard it,
+
+The kiahche took out the army,
+
+But still did not know the maiden.
+
+And he spoke to the Tsar:
+
+"There is a young soldier here..." [The 1861 text breaks off in the reading; the song continues in the two columns of the next page and is carried by the sense of the whole: the maiden-soldier is known by her singing, not by any eye. — Ed.]
+
+
+
+Song 87. The Janissary and Fair Dragana
+
+The Wallachian land fled in flight —
+
+The Wallachian land, and the Bogdan land,
+
+And the Bogdan land, all Dobrudja.
+
+One flees through the forest, one flees down below,
+
+From the fierce Turks, the dread Hungarians.
+
+They cut down the old, enslaved the young;
+
+Young maidens they chose out,
+
+And made them young slave-women;
+
+And young lads they chose out,
+
+And made them all janissaries.
+
+Wherever they pass, the villages burn;
+
+They enslave the people, the villages burn.
+
+They crossed the white Danube,
+
+Drew up beside Etropole,
+
+Spread out blue tents.
+
+On the level field they shared out the spoil:
+
+Young maidens and young lads.
+
+To some fell two, and to some three;
+
+To the young Janissary fell
+
+Only one maiden, fair Dragana;
+
+And he led her under the white tent.
+
+When it was late in the evening,
+
+The young Janissary sat outside;
+
+He looked down, he looked up:
+
+From the black earth a blue fire burns;
+
+From the blue sky a bloody rain falls.
+
+The young Janissary was frightened,
+
+And called out to fair Dragana,
+
+And spoke sorrowfully to Dragana:
+
+"O Dragana, my slave-woman!
+
+What I ask you, tell me truly:
+
+Have you a brother, have you a sister?
+
+Have you a father, have you a mother?"
+
+And Dragana answered him aloud:
+
+"I have a father, I have a mother;
+
+I have a brother, I have a sister."
+
+"And your brother — is he enslaved too?"
+
+Dragana answered him sorrowfully:
+
+"When they came into the Wallachian land,
+
+The Turks cut down the young Bulgarians;
+
+And my brother was in that army;
+
+And now for thirty years
+
+I have not seen my brother."
+
+"O Dragana, my slave-woman!
+
+If you saw him, would you know him?"
+
+"If I saw him, I would know him,
+
+By his cursed head, by his broad breast."
+
+And the Janissary asked Dragana:
+
+"What does your brother have on his head?"
+
+"My brother has a sabre-mark,
+
+For he was cut down in the fierce war."
+
+
+
+Song 88. Ailing Doychin
+
+A Black Arab has come down,
+
+Come down on the meadows of Thessaloniki;
+
+He has pitched his white tent;
+
+He demands of the city of Thessaloniki:
+
+He demands of them two ovens of bread,
+
+And demands of them a barren cow,
+
+And demands of them a keg of rakia,
+
+And demands of them two kegs of wine;
+
+By day he demands a fair bride;
+
+By night he loves a little maiden.
+
+And all of them came in turn;
+
+The turn fell on young Angelina.
+
+Young Angelina sweeps the courtyard;
+
+She sweeps the courtyard, sheds tears in torrents;
+
+With her tears she has flooded the courtyard.
+
+Ailing Doychin saw her:
+
+"O hey there, sister Angelina!
+
+What need has driven you,
+
+To sweep the courtyard and shed tears in torrents?
+
+Have you grown weary of it, sister,
+
+Of sweeping the level courtyards?
+
+Of tending me in my sickness, sister?
+
+Of binding up wounds and sores, sister,
+
+And preparing my food?"
+
+"O hey there, brother Ailing Doychin!
+
+I have not grown weary of it —
+
+Of sweeping the level courtyards, brother,
+
+Of tending you in your sickness, brother,
+
+Of binding your wounds and sores,
+
+And preparing your food.
+
+But I have grown weary of this, brother:
+
+A Black Arab has come down,
+
+Come down below the city of Thessaloniki,
+
+Below Thessaloniki, on the Thessaloniki meadows;
+
+He has pitched his white tent,
+
+And demanded of the elders and the priests:
+
+By day he demands two ovens of bread,
+
+And demands of them a barren cow,
+
+And demands of them a keg of rakia,
+
+And demands of them two kegs of wine;
+
+By day he demands a fair bride;
+
+By night he demands a little maiden.
+
+And all of them have come in turn;
+
+The turn has fallen on me — they will take me."
+
+And Ailing Doychin speaks:
+
+"O hey there, sister Angelina!
+
+Is that the care that has found you?
+
+Here I have lain nine years,
+
+Lying sick in bed:
+
+Open the painted chest for me;
+
+Take out three hundred ells of cloth,
+
+Three hundred ells of cotton cloth,
+
+To bind up the wounds from daggers;
+
+And take my sharp sabre:
+
+It is nine years now
+
+Since a sabre was held in my hand;
+
+My sabre will be quite rusted.
+
+Carry it to Umer the cutler,
+
+That he sharpen my sabre on credit;
+
+If I get up, I will pay him dearly;
+
+If I do not get up, let him count it charity."
+
+And young Angelina arose,
+
+And took the rusted sabre,
+
+And went straight to Umer:
+
+"O hey there, Umer the cutler,
+
+By God, I beg you!
+
+Ailing Doychin has sent me,
+
+That you sharpen his sabre on credit;
+
+If he gets up, he will pay you dearly;
+
+If he does not get up, count it charity."
+
+Then Umer the cutler speaks:
+
+"O hey there, young Angelina!
+
+If you give me your black eyes,
+
+I will sharpen Doychin's sabre for you."
+
+Young Angelina turned back,
+
+Back, weeping, wailing;
+
+From afar Angelina cries out:
+
+"O hey there, Ailing Doychin!
+
+Umer the cutler will not sharpen it for me,
+
+Will not sharpen the sabre on credit;
+
+He asks me for my black eyes."
+
+Ailing Doychin speaks to her:
+
+"Leave the sabre, sister Angelina,
+
+Leave the sabre on the white bed;
+
+And go into my dark stables,
+
+And lead out my swift horse;
+
+Take him to Mitre Pomoryanche,
+
+The farrier, my sworn brother,
+
+That he shoe my horse on credit;
+
+If I get up, I will pay him dearly —
+
+I will pay him golden ducats."
+
+And young Angelina arose,
+
+And went into the dark stables,
+
+And led out his swift horse,
+
+And took him to Mitre Pomoryanche,
+
+That he shoe the horse on credit:
+
+"By God, Mitre Pomoryanche!
+
+If Ailing Doychin gets up,
+
+He will pay you for the shoeing of the horse."
+
+And Mitre Pomoryanche says to her:
+
+"O hey there, young Angelina!
+
+If you give me your white face —
+
+Your face, like the clear sun;
+
+Your brows, like sea-leeches;
+
+Your eyes, like black grapes!"
+
+And young Angelina cried out;
+
+She wrings her hands from her white knees,
+
+Sheds tears down her white cheeks,
+
+From her cheeks onto her painted bosom,
+
+From her bosom onto her painted apron,
+
+From her apron onto the raw earth.
+
+She led Doychin's horse back;
+
+Young Angelina curses fiercely:
+
+"God strike you dead, Mitre Pomoryanche!
+
+Why did you not draw your sabre and ruin me,
+
+Instead of shaming me so?"
+
+And she ran home and went in,
+
+And told her brother Doychin:
+
+"O hey there, Ailing Doychin!
+
+What a great shame befell me
+
+With your sworn brother —
+
+With whom, brother, you ate, and you drank,
+
+With whom you went into the forests hunting!
+
+When I asked about your horse,
+
+That he shoe it, brother, on credit,
+
+What did Mitre Pomoryanche say to me?
+
+'If you give me your white face,
+
+I will shoe your horse on credit.'"
+
+And Ailing Doychin flung himself,
+
+Flung himself onto his hero's feet:
+
+"O hey there, sister Angelina!
