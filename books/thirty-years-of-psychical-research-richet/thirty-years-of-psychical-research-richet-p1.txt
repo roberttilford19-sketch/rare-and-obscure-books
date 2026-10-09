@@ -1,0 +1,609 @@
+THIRTY YEARS OF PSYCHICAL RESEARCH
+
+by Charles Richet (1850-1935)
+
+Basis: Clean reading edition of Charles Richet's Thirty Years of Psychical Research (English edition, Macmillan, 1923, translated by Stanley De Brath; Internet Archive 30YearsRichet); spelling and wording original; running headers, page numbers and scanner noise removed.
+
+Reader note: Charles Richet (1850–1935), Nobel laureate in physiology, presents the sum of thirty years' psychical research as a treatise on metapsychics: cryptesthesia (cognition otherwise than through the senses), telekinesis (movement without contact), and ectoplasm (materialization). Book II treats the subjective phenomena, Book III the objective; Book II, Chapter IV is his divining-rod chapter, where the rod and the pendulum alike are indicators of cryptesthesia through unconscious muscular action. The text figures (Figs. 1–25) are not reproduced; their captions and references stand in place. Footnotes are Richet's and his translator's, kept where they fall in the 1923 printing.
+
+Rare & Obscure Books series
+
+
+* * *
+
+THIRTY YEARS OF PSYCHICAL RESEARCH
+
+BEING A TREATISE ON METAPSYCHICS
+
+BY CHARLES RICHET, PH.D.
+
+TRANSLATED FROM THE FRENCH BY STANLEY DE BRATH, M. INST. C.E.
+
+FORMERLY ASSISTANT SECRETARY TO THE GOVERNMENT OF INDIA, PUBLIC WORKS DEPARTMENT
+
+THE MACMILLAN COMPANY
+
+1923
+
+ALL RIGHTS RESERVED
+
+COPYRIGHT, 1923, BY THE MACMILLAN COMPANY.
+
+SET UP AND PRINTED. PUBLISHED MARCH, 1923.
+
+PRINTED IN THE UNITED STATES OF AMERICA
+
+FERRIS PRINTING COMPANY, NEW YORK CITY
+
+Omnia jam fient fieri quae posse negabam
+
+This book is dedicated to the memory of my illustrious friends and masters SIR WILLIAM CROOKES and FREDERIC MYERS, who, equally distinguished by their courage and by their insight, were the first to trace the outlines of this science.
+
+
+
+Preface
+
+Those who may expect to find in this book nebulous discussions on human destiny, on magic, or on theosophy will be disappointed. I have endeavoured to write on science, not on dreams; and I have therefore confined myself to a statement of facts and discussion of their actuality, not only without advancing any theory, but scarcely mentioning theories, for all theories as yet proposed to account for metapsychic facts seem to me terribly frail.
+
+It is possible or even probable that some day a tenable theory will be formulated, but the time is not yet, for the facts on which any theory could be erected are still in dispute. It is necessary, first, to establish the facts and to review them in detail and as a whole, in order to verify the conditions under which they occur. This is our primary duty, and our only duty.
+
+The task is a hard one; the phenomena being unusual, scientists and the public have usually rejected them without examination.
+
+Nevertheless the facts are facts; they are numerous, authentic, and startling. In the course of this work there will be given instances of these facts so numerous, so precise, and so evidential that I do not see how any unbiassed man of science can cast doubt upon all of them if he consents to look into them.
+
+The three fundamental phenomena of this new science can be summed up in three sentences.
+
+1. Cryptesthesia (the lucidity of former writers) is a faculty of cognition that differs from the normal sensorial faculties.
+
+2. Telekinesis is a mechanical action that differs from all known mechanical action, being exerted at a distance and without contact on persons or objects, under certain determinate conditions.
+
+3. Ectoplasm (the materialization of former writers) is the formation of divers objects, which in most cases seem to emerge from a human body and take on the semblance of material realities— clothing, veils, and living bodies.
+
+These make up the whole of metapsychics. It seems to me that to admit this much is to admit a great deal. To go further is to go beyond the present limits of science.
+
+I do, however, claim that science, strict and inflexible science, ought to admit these three strange phenomena that it has up to the present refused to recognize.
+
+In giving to this book the usual form of treatises on physics, botany, pathology, and other sciences, it has been my intention to remove from facts called "occult," many of which are indisputably true, the supernatural and mystical implications ascribed to them by those who do not deny their actuality.
+
+
+
+Abstract of Preface to Second French Edition
+
+Professor Richet notes that since the rapid exhaustion of the first edition many fresh experiments have been made by him and by others, notably those with M. Stepan Ossovietzki, which are so decisive as to admit of no uncertainty whatever. Referring to criticisms on the first edition, he remarks: "Complaint has been made, and I admit its force, that the numerous experiments and observations recorded have been abbreviated and condensed so that accounts that are very convincing when given in full detail lose much of their force by being abridged.
+
+"This unquestionably is the case. I had to choose between presenting a few selected facts in full detail, on the one hand; or, on the other, giving summaries of a great number, interesting alike by their variety and their multiplicity. I followed the latter plan because those who desire fuller particulars can always refer to the original sources, which I have been careful to cite.
+
+"Another criticism (which I take as laudatory) is that by giving the facts without committing myself to any theory or inferences, I have been led into strong contradictions. Such contradictions could easily have been avoided if I had framed a complete theory by bludgeoning every inconvenient fact, magnifying every favourable one, glossing over awkward arguments, and making full proofs out of half-proofs. This criticism has moved me the less that I had already made it on myself, perhaps more severely than
+
+Note. — For the bibliography, which has no pretensions to be complete, the following abbreviations have been adopted: A. $. P. for the Annales des Sciences Psychiques; P. S. P. R. for the Proceedings of the Society for Psychical Research; J. S. P. R. for the Journal of the Society for Psychical Research; and Am. S. P. R. for the Proceedings of the American Society of the same name.
+
+my critics could. Metapsychic science is in its very earliest stages, and any theory claiming to be complete, methodical, and unshakable is foredoomed to error.
+
+"I pay no heed to such criticisms as that in the Mercure de France. The anonymous critic finds the F. N. T. B. T. experiment given on p. 170 very bad; but he suppresses altogether the words immediately following it. 'I mention this experiment, which, in comparison with the good ones described above, is terribly poor, not to draw any inference from it, but only to show that when the method of experiments is faultless, the calculus of probabilities is very useful/
+
+"T. Bozzano objects strongly to the separation between subjective and objective metapsychics, which, according to him, are combined in actual fact. I have much respect for Professor Bozzano's opinion, but I cannot share it in this case. It seems to me, on the contrary, that this separation is a real advance, especially from the didactic point of view. Also, the separation is marked with different mediums; Eusapia and Marthe present exclusively physical phenomena. I have not heard that Mrs. Piper has ever given any but subjective ones. Some mediums, such as Home, Kluski, Stainton Moses, and Mme. d'Esperance, have shown both kinds of phenomena, but it would be a mistake to consider them as necessarily linked. Many hypnotizable subjects have flashes of lucidity (this is quite commonly met with), while the production of lights and ectoplasms is quite rare. Further, the methods of investigation are quite different for the two kinds, and this alone justifies the classification. I am even inclined to think this necessary distinction a leading point in my book.
+
+"I very willingly concede to Professor Bozzano that as metapsychic science advances, some relations will perhaps be discovered between these two functions that now seem very sharply marked off from each other. Nothing is less intellectual in itself than an ectoplasmic phenomenon/'
+
+
+
+Translator's Note
+
+In rendering this admirable Treatise into English, it has been my aim to make it available both to students and to average readers. I have therefore retained the French references in the foot-notes, as any student who might wish to look up these references must obviously ask for them under their French titles. The average reader will probably be content to see that Professor Richet has given authorities for all statements that he quotes, and that he has winnowed out all statements that he thinks doubtful.
+
+It is not always possible to render in English the delicate shades of meaning conveyed by some French expressions; I have, however, endeavoured to give the exact sense of the original by free translation; and knowing that Professor Richet emphatically desires to keep clear of spiritualist or any other theories, I have been particularly careful, when a choice was open, not to employ any terms that could possibly imply a leaning to any theory soever. I have, however, in my translation used the term "spiritualist" where a religious implication seems intended, and "spiritist" where no such implication exists.
+
+The author having communicated the typescript of additions to be made to the second French edition, most of these have been abstracted and added as foot-notes, so that the first English edition may be taken as parallel with the second French edition.
+
+It has not been possible in all cases to refer to originals for the quotations from English writers, and in such cases they have been retranslated from the French, without, I trust, deviation from essential meaning. I hope thus to have discharged the honour of having been entrusted by the author with the translation of a book that must surely have a powerful and farreaching influence.
+
+Stanley De Brath.
+
+Weybridge, July, 1922.
+
+
+
+Contents
+
+- Preface — vii - Book I. Concerning Metapsychics in General - 1. Definition and Classification — 3 - 2. Is There a Science of Metapsychics? — 6 - 3. Historical Summary — 15 - 1. The Mythical Stage — 15 - 2. The "Magnetic" Stage — 21 - 3. The Spiritist Stage — 25 - 4. The Scientific Stage — 30 - 4. Mediums — 38 - Book II. Subjective Metapsychics - Chapter I. On Subjective Metapsychics in General — 49 - 1. The Limits of Psychic and Metapsychic Science — 49 - 2. Chance and Mathematical Probability in Metapsychic Facts — 55 - 3. Concerning Errors of Observation — 59 - Chapter II. On Cryptesthesia (Lucidity) in General — 64 - 1. Definition and Classification — 64 - 2. Connection of Cryptesthesia with Lucidity and Telepathy — 65 - 3. Phenomena of Normal Psychology Having Only the Semblance of Cryptesthesia — 69 - 4. Classification of the Modes of Cryptesthesia — 82 - Chapter III. Experimental Cryptesthesia — 85 - 1. Cryptesthesia in Normal Individuals — 85 - 2. Cryptesthesia Under Hypnotism and Magnetic Treatment — 99 - (a) Magnetic Emanations — 100 - (b) The Development of Cryptesthesia by Hypnotism — 107 - 3. Cryptesthesia Under Hypnotism — 114 - (a) Experiments on Hypnotized Subjects — 115 - (b) Conclusions — 134 - 4. Cryptesthesia Under Spiritist Conditions — 136 - (a) Summary of the Facts — 136 - (b) Investigation with a Hidden Alphabet — 167 - (c) Cross-Correspondences — 173 - 5. Cryptesthesia Among Sensitives — 176 - (a) Psychometry, or Pragmatic Cryptesthesia — 177 - (b) Transfer of Sensibility — 185 - (c) Crystal Vision — 200 - 6. Conclusions on Experimental Cryptesthesia — 203 - 7. On the Identification of Spiritist Personalities — 208 - 8. Xenoglossis — 220 - Chapter IV. The Divining-Rod — 228 - 1. Historical — 228 - 2. Summary of the Facts — 230 - 3. Concerning Rhabdic Force — 235 - 4. Deductions from the Point of View of Cryptesthesia — 238 - Chapter V. Metapsychism in Animals — 240 - Chapter VI. Sporadic Cryptesthesia — 245 - A. Monitions — 245 - I. On Monitions in General — 245 - 1. Classification and Definition — 245 - 2. Conditions Necessary that Monitions Should Be Regarded as Such — 248 - (a) The Hypothesis of Chance Coincidence — 252 - 3. Conditions Under Which Monitions Occur — 256 - 4. The Symbolical Form Taken by Monitions — 260 - 5. Monitions and the Telepathic Hypothesis — 265 - 6. On the Frequency of Monitions — 267 - II. On Certain Monitions (Not Collective) Other Than Monitions of Death — 270 - III. Monitions of Death — 282 - Conclusions — 325 - IV. Collective Monitions — 328 - (a) Collective Monitions, Non-simultaneous and Non-identical — 330 - (b) Simultaneous and Collective Monitions — 334 - Conclusions — 342 - Chapter VII. Premonitions — 344 - 1. On Premonitions in General — 344 - 2. Auto-Premonitions — 348 - (a) Of Sickness — 348 - (b) Of Accidental Death — 354 - 3. Premonitions, Properly So-called — 356 - (a) Under Hypnotism — 356 - (b) Spiritist Premonitions — 361 - (c) Accidental Premonitions — 366 - (a) Of Sickness and Death Due to Natural Causes — 367 - (b) Of Accidental Death — 371 - (c) Of Sundry Events — 376 - 4. Conclusion — 395 - Book III. Objective Metapsychics - Chapter I. On Objective Metapsychics in General — 399 - Chapter II. Movements of Objects — Telekinesis — 401 - (a) Table-Movements — 401 - (b) On Some Cases of Experimental Telekinesis — 405 - (c) Of Noises and Raps — 443 - (d) On Direct Writing — 448 - Chapter III. Ectoplasms (Materializations) — 454 - (a) On Fraud in Ectoplasmic Experiments — 454 - (b) Leading Ectoplasmic Experiments — 492 - Chapter IV. Levitations — 546 - Chapter V. Bilocations — 552 - (a) Objective Bilocations — 552 - (b) Monitions of Approach — 559 - Chapter VI. Hauntings — 563 - 1. On Hauntings in General — 563 - 2. On the Hauntings of Houses (Subjective) — 571 - 3. Telekinesis in Haunted Houses — 578 - 4. Conclusions — 591 - Book IV - Conclusion — 595 - Index [not reproduced] — 629
+
+
+
+Book I. Concerning Metapsychics in General
+
+
+
+1. Definition and Classification
+
+In all ages men have observed that sporadic, irregular, and unpredictable facts occasionally intermingle with the ordinary events of daily life. Unable to find rational explanations for these they have accounted for them by the intervention of supernatural powers — gods or demons.
+
+With the growth of knowledge, faith in these divine or demoniacal interferences in our little human affairs has lost ground. In an aurora borealis, an eclipse, a comet, or a storm, we now see only a natural occurrence, some of whose laws we have been able to formulate. We no longer refer epilepsy and hysterical outbreaks to spirit possession or to Satan.1
+
+Nevertheless, in spite of the great advances in physics, chemistry, and physiology, the laws of these sciences, as at present known, do not account for certain exceptional phenomena, and these phenomena being inexplicable by orthodox science, it has been found convenient to ignore them. But these strange occurrences, whether they be accepted or denied, still remain facts; their actuality is unaffected whether we find a place for them in recognized science or not.
+
+It therefore seems desirable to present the mass of these phenomena methodically. However unusual in their occurrence they must, as facts, be subject to laws and therefore be accessible to study, i.e., to science. A science, or at any rate an orderly survey, of the supernatural and the occult is at least possible.
+
+The terms "supernatural" and "supernormal" (the latter due to F. W. H. Myers) are, however, both inadmissible, for there can
+
+JThe bibliography of magical science is enormous. Those who desire to form even an incomplete idea of its extent may consult Graesse, Biblica magica et pneumatica, Leipzig, Engelmann, 1843, 175 pp.; and R. Yves-Plessis, Essai d'une bibliographie frangaise de la Sorcellerie, Paris, Chacornac, 1900.
+
+be nothing in the universe but the natural and the normal. From the moment that a fact exists it is necessarily both natural and normal. The terms "supernatural" and "supernormal" must therefore be rejected along with "the occult." This latter term is indeed somewhat naive, for "the occult" simply means that which is involved in mystery and therefore inaccessible to us. In 1905, 1 proposed the term Metapsychic,1 which has been unanimously accepted. It has on its side no less an authority than Aristotle. Aristotle, having discussed the physical forces, went on to write on those great laws of nature that transcend physics. He took the title Meta-physics (ptera ra (pvsiua). This term must now be defined.
+
+Metapsychic facts are marked off from the physical in that they seem due to an unknown intelligence, whether human or non-human. In nature we observe intelligence only among living beings; in man we perceive no sources of cognition otherwise than through the senses. We leave to normal psychology the study of human and animal intelligence. Metapsychic phenomena are quite different; they seem due to unknown but intelligent forces, including among these unknown intelligences the astonishing intellectual phenomena of our subconsciousness.
+
+Leaving aside the sharply demarcated field of normal psychology, metapsychics is the only science that deals with intelligent forces. All other forces as yet studied by men of science, from the point of view of cause and effect, are blind forces devoid of self-consciousness and caprice — in other words, without personality or will. We cannot suspect the least intellectuality in the combination of chlorine and sodium. Mercury expands by heat without its being able to understand or modify its expansion. The sun projects calorific, electric, and luminous rays without will or choice — it has neither personality nor thought. But the forces that govern presentiments, telepathy, movements of objects without contact, apparitions, and certain mechanical and luminous phenomena do not seem to be blind and unconscious forces like those of chlorine, mercury, and the sun. They have none of the fatality that attaches to the mechanical and chemical reactions of
+
+'When, in 1905, I presented this word in the course of my presidential address to the S. P. R., London, Mr. W. Lutoslawski pointed out to me that in a Polish publication (Wyklady Jagiellonskie, Cracow, 1902), he had already suggested this word; but this was for somewhat different reasons. E. Boirac has suggested the term Parapsychics, which has not found acceptance, while the term Metapsychics is now generally adopted.
+
+matter. They appear to have intellectuality, will, and intention, which may not be human, but which resemble human will and intention. Intellectuality — the power of choice, intention, and decision conformably to a personal will — characterizes all metapsychic phenomena.
+
+I shall divide our subject-matter into Objective and Subjective Metapsychics.
+
+Objective metapsychics deals with certain mechanical, physical, or chemical effects perceptible to our senses, not proceeding from known forces, but seemingly directed by intelligence. It states, classifies, and analyzes these material phenomena.
+
+Subjective metapsychics studies those phenomena that are purely intellectual. These are characterized by an indication of some realities that are not revealed by our senses. Everything takes place as if we had a mysterious faculty of cognition — lucidity — which the classical physiology of sensation cannot as yet explain. I propose to call this faculty Cryptesthesia, i.e., a sensibility whose nature escapes us.
+
+Metapsychic science therefore treats of purely mental phenomena that can be admitted without reference to any known laws of living or inert matter, or any change in our concepts of the different physical energies — heat, light, electricity, gravitation, etc., which we are accustomed to measure and specify.
+
+Objective metapsychics, on the contrary, deals with certain material phenomena inexplicable by ordinary mechanics — the movement of objects without contact, haunted houses, phantoms, materializations that can be photographed, sounds, and lights — all of them tangible realities affecting our senses.
+
+In other words, subjective metapsychics is internal, psychic, and non-material: objective metapsychics is material and external.
+
+The boundary between the two orders of phenomena is sometimes uncertain; often, however, it is sharply marked. For instance, the assassination of Queen Draga was announced in Paris on the 11th of June, 1904, at the very minute that it was committed in Belgrade, by a medium who could have had no normal means of cognizance of this crime. This is a fact of subjective metapsychics.
+
+Eusapia Paladino placed her hands half a yard above a heavy table; her hands, her feet, her knees, her waist, her head, and her mouth were all held; the table rose off its four legs without contact. This is a fact of objective metapsychics.
+
+Frequently the phenomena pertain to both kinds, and it is difficult or impossible to distinguish between them. A. sees the apparition of his dying father, B. If other persons present see nothing, the vision is obviously subjective; but if the image of B. is seen simultaneously by A., and by others, still more if the apparition has been photographed leaving its impression on the sensitive plate, this is not only a subjective but also an objective fact, there being a material accompaniment, and A.'s vision can no longer be considered merely subjective.
+
+Subjective phenomena are much more frequent than the objective; mediums giving the latter are rare. Moreover when material phenomena are produced they are nearly always accompanied by noteworthy subjective facts.
+
+Metapsychics can therefore be defined as — a science dealing with mechanical or psychological phenomena due to forces that seem to be intelligent, or to unknown powers latent in human intelligence. This science is therefore profoundly mysterious; indeed, its mysteries are such that extreme scientific caution is called for in dealing with them.
+
+
+
+2. Is There a Science of Metapsychics?
+
+This question must be put, for to many men of science none of the alleged facts in the domain of "magnetism" or spiritualism deserve serious consideration. They say, "A science cannot be constructed out of gossip; and the accounts you bring us are nothing more. The hallucinations with all their wealth of detail described by simple people are matter for the alienist, and the performances of mediums are vulgar frauds. Mediums who claim supernatural powers and allege that they are intermediaries between the dead and the living are either hallucinated or tricksters. As soon as precautions are taken against credulity and fraud the error or the imposture is always manifest. No undeniable fact of lucidity or movement of objects without contact has ever been established before a committee of enquiry composed of men of scientific standing. If chance, mal-observation, and trickery are eliminated, nothing remains of the so-called metapsychics but a vast illusion. The stricter the conditions, the slighter the phenomena become, till they vanish altogether. A science that claims to be experimental but relies on experiments that cannot be reproduced is no science at all. You affirm extraordinary and unbelievable things that upset all that science has hitherto accepted as true, but you cannot prove them, for up to the present such proof has evaded all methodical research. It is not for us to prove that the facts you affirm are false; it is for you to prove that they are true.
+
+"Further, even if we were to see these strange facts we should think ourselves tricked or hallucinated, for your work lies among impostors, and the things you affirm are too absurd to be true."
+
+Such is the kind of language used by honourable men of science who deny the reality of all metapsychic phenomena. If they were right this book would be absolutely useless, even ridiculous; and might be entitled "A Treatise on an Error." But, as we shall endeavour abundantly to prove, these facts exist, and are called occult only because they are not understood.
+
+We have read and re-read, studied and analyzed the works written on these subjects, and we declare it vastly improbable, and even impossible, that eminent and upright men such as Sir William Crookes, Sir Oliver Lodge, Reichenbach, A. Russel Wallace, Lombroso, William James, Schiaparelli, F. W. H. Myers, Zollner, A. de Rochas, Ochorowicz, Morselli, Sir William Barrett, Ed. Gurney, C. Flammarion, and many others, in spite of their close attention and their scientific knowledge, should all have been duped over and over again a hundred times by tricksters or have been the victims of an astounding credulity. It is not possible that they should all and always have been so blind as not to perceive frauds necessarily gross; so incautious as to form conclusions where no conclusion was legitimately possible; and so unskilful as never to have made a single unexceptionable experiment. A priori, their experiments deserve careful consideration and not to be contemptuously rejected.1
+
+The history of all sciences warns us that the simplest discoveries have been rejected a priori, as being incompatible with science. Medical anesthesia was denied by Majendie. The action of microbes was contested for twenty years by all the scientists of all the academies. Galileo was imprisoned for saying that the earth
+
+JAn eminent English scientist, Lord Kelvin, quoted by Myers (A. S. P., 1904, xiv, 365), ventures to express himself as follows:
+
+I hold myself bound to reject everything that tends to the acceptance of this wretched superstition of animal magnetism, turning tables, spiritualism, clairvoyance, and rappings. There is no mystical seventh sense. Clairvoyance and all the rest are but the results of mal-observation combined with intentional imposture practised on simple and credulous minds.
+
+revolves. Bouillaud declared that the telephone was but ventriloquism. Lavoisier said that stones cannot fall from the sky, for there are no stones in the sky. The circulation of the blood was only admitted after forty years of sterile discussion. In a lecture in 1827 at the Academy of Sciences, my great-grandfather, P. S. Girard, considered it folly to suppose that water could be led to the upper floors of houses by pipes. In 1840, J. Miiller declared that the speed of nerve-impulses could never be measured. In 1699, Papin constructed the first steamboat; a hundred years later Fulton rediscovered the possibility of steam navigation, but it was not applied till twenty years later. When in 1892, under the guidance of my distinguished master, Marey, I made my first attempt in aviation, I met with only incredulity, contempt, and sarcasm. A volume might be written on the absurd criticisms with which every great discovery has been received.
+
+This is not a matter of the opinions of the crowd, which are of no importance; they are the opinions of scientists, who imagine that they have laid down boundaries that science cannot overpass. These boundaries soon become milestones on the road of progress, as Flammarion remarks. When such men declare that such and such a phenomenon is impossible, they make an unfortunate confusion between what is contradictory of known laws and what is new. This must be emphasized, for it is the cause of disastrous misunderstandings.
+
+Heat expands bodies; and if any one tells us that mercury, copper, lead, or hydrogen under the usual conditions of experiment do not expand when heated I have the right to deny the statement, for it is in flagrant contradiction with observed facts frequently verified. But if a new metal is discovered and a physicist tells me that it contracts instead of expanding when heated I cannot deny this a priori. However improbable this anomaly in the laws of physics may be, I must, if not guilty of presumption, verify the exception, since it applies to a new substance that may be different from all others.
+
+Every new truth necessarily appears highly improbable; such, however, are of frequent occurrence in the evolution of the sciences, and as soon as a discoverer enunciates one it excites opposition. Instead of testing, men deny it. Claude Bernard states that the animal body generates sugar, and forthwith objections are made. "To admit this is to upset scientific conclusions.
+
+Sugar is a vegetable product, animals consume it. The sugar that has been found in animal organisms is sugar derived from food, or from changes in a dead body. In short, sugar cannot be generated by an animal organism." We know the fate of these statements.
+
+Again, let us suppose magnetic attraction to be unknown, and the magnet a very rare object. A traveller who has seen a magnet but cannot find another, states that he has seen a body that attracts iron. His statement will provoke universal opposition and denial. Why should steel have a property not possessed by copper, lead, or any other known body? Nothing like it has ever been seen; if the thing were true it would have been known long since.1
+
+Everything of which we are ignorant appears improbable, but the improbabilities of today are the elementary truths of tomorrow.
+
+Among the discoveries which by reason of my advanced age I have seen developed under my own eyes, so to speak, I will take four which in 1875 would have seemed absurdly inadmissible:
+
+1. The voice of an individual speaking in Paris can be heard in Rome. (Telephone.)
+
+2. The germs of all diseases can be bottled and cultivated in a cupboard. (Bacteriology.)
+
+3. The bones of a living person can be photographed. (X-rays.)
+
+4. Five hundred guns can be taken through the air at a speed of 180 miles an hour. (Aeroplanes.)
+
+Anyone who uttered such audacities in 1875 would have been thought a dangerous lunatic.
+
+Our routine-keeping intelligence is such that it rejects anything to which it is unaccustomed, and from a careful study of the facts around us, we should be content to say, There are some that are usual and some that are unusual. We ought to say no more than this, and above all we should be careful not to make two classes — facts that are understood, and facts that are not understood. For in truth we really understand nothing, absolutely nothing, of the truths of science, whether great or small.
+
+JWhen tuberculosis was stated to be contagious, a professor of the Faculty of Paris said, "If tubercles were contagious that would be known already," and in 1878 his words were almost unanimously approved by the Medical Faculty.
+
+What is matter? Is it continuous or discontinuous? What is electricity? Is the hypothesis of the ether really understood by those who accept it? We see a stone fall back when thrown upwards; do we therefore understand gravitation? Two gases combine to form a new body in which the same atoms as in the gases are found; have we really understood what has taken place? Why should such and such an ovule fertilized by a certain zoosperm produce an oak-tree, a bear-cub, an elephant, or a Michelangelo, according to its kind? How does the spider make its web, or the swallows find their way across the seas? These marvels do not astonish us because we are used to them. But we ought to have the courage to admit that usual as they are, they are none the less mysteries.
+
+The facts of metapsychics are neither more nor less mysterious than the phenomena of electricity, of fertilization, and of heat. They are not so usual; that is the whole difference. But it is absurd to decline to study them because they are unusual.1
+
+We constantly find that the authors and observers who have busied themselves with metapsychics show a very regrettable tendency to consider only their own observations as exact, and to reject all others. Thus (with certain exceptions) those who have confined their studies exclusively to telepathy and the subjective side of metapsychics are prone to attach excessive importance to that aspect of the facts and to refuse credence to phenomena of telekinesis and ectoplasm, however well substantiated.
+
+This is the case with several eminent members of the English S. P. R. They are easily satisfied in cases of mental transmission, even though that may be sometimes explicable by coincidence;
+
+*I have been able to observe a curious instance of the folly with which this fear of the unaccustomed can afflict an honourable scientist. During the Exhibition of 1900 at Paris, I presented to the Psychological Congress a Spanish child, Pepito Arriola, aged three years and three months, who played amazingly on the piano. He composed military or funeral marches, waltzes, habaneras, minuets, and played some twenty difficult pieces from memory. A hundred members of the Congress heard and applauded him. This tiny marvel of precocity came to my house, and in my drawing-room, on my piano, twice during the day and in the evening before a number of persons, he played at a distance from his mother. Then, four years later, comes an American psychologist, Mr. Scripture, who announces that I was the victim of an illusion, and that the music had been played not by Pepito Arriola, who was too little to play, but by his mother!
+
+Incredulity carried to such a point of aberration matches the credulity of the celebrated geometer Chasles, who showed with pride an autograph letter, in French, from Vercingetorix to Julius Caesar. The scepticism of Mr. Scripture is of the same stamp as the credulity of Chasles.
+
+but as soon as physical phenomena are in question they demand impossible proofs even when such proofs are useless to the demonstration.
+
+Conversely, an experimenter who considers himself to have seen a materialization will take it as well authenticated, though his study may have been quite superficial; and will put forward exaggerated and ridiculously severe criticisms of transmission of thought or of materializations described by other observers perhaps quite as competent as himself.
+
+When a phenomenon is unusual, even those who are open to new truths do not admit it without personal verification. It seems, however, that our criticism, severe as it may be (and should be), ought to be exercised as much, if not more, upon our own observations than on those of others. If I permit myself to criticize the mentality of scientists towards metapsychic matters, I do so because I have fallen into the same mistake myself. In working at this subject I did not follow the procedure usual in the study of other sciences. I made experiments before studying books; so that I started by acquiring personal convictions, which were not in the least bookish. Only subsequently did I read and meditate on the works of ancient and modern experimentalists who have devoted themselves to such researches. I was then astounded at the volume and the completeness of the proofs. My own experiments and those of others finally led me to a profound conviction that metapsychics is a real science to be treated like all other sciences — laboriously, methodically, and with respect.
+
+These unusual phenomena are real: (1) There is a faculty of cognition other than our usual faculties; (2) there are movements of objects other than those to which we are accustomed. And it is irrational to refuse to study these unusual phenomena by the methods of observation and experiment that have answered so well in all other sciences. Claude Bernard has differentiated the sciences that rest on observation from those that rest on experiment. Metapsychics belongs to both classes. It is often experimental, like chemistry and physiology; but it is often akin to historical science and rests on human testimony.
+
+Under its experimental aspect it should be treated as an experimental science, by technical methods of research, with scales, photography, by graphic methods — all the devices of exact measurement employed by physiologists. I perceive no essential difference between the proper experimental methods, except that the chemist and the physiologist are dealing with easily procurable materials, whereas the student of metapsychics requires a medium, a human subject difficult to find, easily put off his balance, and highly capricious, who must at all times be handled very diplomatically. But once an experiment has begun it should be carried out as rigorously as one on arterial pressure or on the heat generated by burning acetylene.
+
+In no kind of experiment are all the conditions absolutely within control. This axiom of scientific method applies more strongly in metapsychics than in any other science. Darkness may be necessary, or silence; or perhaps noise? Perhaps some ill-defined psychological conditions may be essential also? After all, this applies to all infant sciences; in their embryonic stage the conditions requisite to the development of the facts to be proved are not known. The experimenter falls into gross mistakes and the experiment fails just when he naively imagines that he has provided all the elements of success.
+
+In so far as it is an observational and traditional science, metapsychics has abundant documentary evidence. This is profoundly unequal in value, and it is necessary to know how to choose the material and to separate the wheat from the tares by severe criticism. But to condemn all recorded observation would be irrational; all historical science is derived from such records. Has not medicine up to the time of Claude Bernard and Pasteur been a science of observation? Is it not largely so today? A great physiologist has said that a well-observed fact is as valid as a good experiment. This is perhaps going a little too far, for the certitude given by an observation is of inferior quality to that resulting from a good experiment. Nevertheless, the sciences that rest on observations are valid, and it is folly to wish to reject records.
+
+But there is no need to set the one method in opposition to the other.. When observation and experiment lead to the same results they mutually confirm each other. In this book, therefore, will be found two chapters on each variety of phenomena, one dealing with experiments and the other with observations, whether the matter in hand concerns lucidity (cryptesthesia), the movements of objects (telekinesis), or materializations (ectoplasmic forms).
+
+Experimental method is relatively easy, whereas the method of observation is extremely difficult. The documentary evidence is often doubtful. It is voluminous, far too voluminous; metapsychic science is hampered by imperfect experiments and malobservation. Those who have cultivated it, instead of handling it with scientific exactitude, have treated it as a religion for adepts — an error that has had disastrous results.
+
+Spiritualists have intermingled religion and science to the great detriment of the latter.
+
+Not that I would blame the efforts of spiritualists; that would be gross ingratitude. While official science, followed by the immense majority of the public, rejected disdainfully without examination, and often with obvious ill-will, the work of Crookes, A. R. Wallace, and Zollner, the spiritualists took up the facts and set to work upon them. But instead of making them matters of science, they made them matters of religion. They carried on their seances in a mystical atmosphere, with prayers; speaking of moral regeneration; preoccupied with mysteries; convinced that they were conversing with the dead; and losing themselves in infantile discursiveness. They refused to see that metapsychic facts are of the present, not of the beyond, for perhaps there is no beyond. "The beyond" has been their ruin, and they have lost themselves in puerile theology and theosophy.
+
+When a historian studies the Capitularies of Charlemagne, he is not thinking of the beyond; when a physiologist is measuring the muscular contractions of a frog he says nothing about ultraterrestrial spheres; when a chemist determines the amount of nitrogen in lecithin he says nothing about human survival. Metapsychics must be treated after the same manner, without dreams about ethereal worlds or psychic emanations; we must remain on the earth, take all theory soberly, and only consider humbly whether the phenomenon studied is true, without seeking to deduce the mysteries of past or future existences.
+
+For instance, when we are studying cryptesthesia and seeking to discover whether a sensitive will give the name we are thinking of, without any indication on our part, our whole attention should be vigilantly concentrated on giving absolutely no sign whatever, and on comparing the letters given by the subject with those in the name thought of according to the mathematical probability of 1: 25, since there are twenty-five letters in the alphabet.1 If we are studying telekinesis, the limbs of the medium must be
+
+xThe French alphabet has twenty-five letters only.
+
+held firmly enough to make sure that the table cannot be moved by her hands, her feet, or by any trick soever.
+
+It does not interest me to go beyond this. I am keenly interested in these humble tasks which need no small courage to undertake, without connecting them with the immortality of the soul.
+
+What valuable observations and marvellous experiments have been distorted and deformed by the constant and dangerous desire of laying the foundations of a new religion! Spiritist religion is inimical to science. I might borrow from the Bible the motto for all our studies: Omnia in numero ct ponder c, says the preacher — an admirable principle, applicable to all science and the very negation of religious mysticism.
+
+If a creed be needed, it is the creed of truth — naked truth — without adornments and without verbiage. Let us verify phenomena, and try to link them together by any theory that has as much verisimilitude as possible, but let us never sacrifice the facts which are certainly true to the theory, which is probably false.
+
+No doubt metapsychic phenomena often seem to impel us to nebulous inferences as to human immortality, to emanations from an unknown Will, to reincarnation, and to fluidic projections from the living or the dead. I have endeavoured to set aside these premature theories, though I have not been able to do this entirely. What purpose has been served by the ponderous volumes on alchemy before Lavoisier? He did achieve more with his scales than did all the dissertations of Goclenius, Agrippa, and Paracelsus. If we desire that metapsychics should take rank as a science, let us first establish its facts on a solid foundation. Our successors will go further, no doubt, but our duty today is less ambitious; let us have the intellectual modesty that befits our ignorance.
+
+Nevertheless, in certain respects metapsychics cannot be compared with any other science. No intelligence is apparent in the various modes of energy, whereas both in objective and subjective metapsychics the phenomena seem due to some kind of intelligence. The intelligence that pertains to metapsychic things may be purely human; but if so it proceeds from a region of human intelligence quite unknown to us, since it reveals things that our senses cannot reveal and acts upon matter otherwise than by muscular contraction. In any case the province of metapsychics differs from that of all other forces, these latter being certainly blind and unconscious. Perhaps it may eventually be proved that the metapsychic forces producing the phenomena are as unconscious as electricity and heat. Then metapsychics will form a branch of physics and psychology. This would be a great advance, and far from being saddened thereby we should rather be glad; for there is a real mental intellectual distress, felt by none more than myself, in the supposition that unknown, arbitrary, and capricious powers are the only ones endowed with intelligence.
+
+But this day has not yet dawned and we must conclude provisionally: (1) That the metapsychic facts are real; (2) that they are to be studied like every other science without religious preoccupations, and (3) that they are seemingly directed by human or non-human intelligences whose intentions we can only partially perceive.
+
+
+
+3. Historical Summary
+
+Events and discoveries are so intermingled that any division into distinct periods is necessarily artificial. Nevertheless, this division must be made in. order to throw some light on this obscure and tangled subject. I suggest, therefore, the following four periods:
+
+1. The Mythical, up to Mesmer (1778).
+
+2. The ''Magnetic/' from Mesmer to the Fox sisters (1847).
+
+3. The Spiritist, from the Fox sisters to William Crookes
+
+(1847-1872).
+
+4. The Scientific,* which begins with William Crookes (1872). May I venture to express the hope that this book will help to
+
+inaugurate a fifth, that of recognition as a science?
+
+
+
+1. The Mythical Stage
+
+It is for historians rather than for men of science to seek in ancient religions and popular traditions all that has been said on the supernatural, the occult, the magical, and the incomprehensible. The perusal of sacred books, cabalistic and magical works has but slight scientific interest.1
+
+*An able and very detailed summary of these has been given by C. de Vesme, Storia dello spiritismo, 3 vols., Turin, Roux Frascati, 1896- 1898. Translated into German, Leipzig, 1904. Its bibliography will be found with a brief analysis in a fine work by Albert Caillat, Manuel bibliographique des sciences psychiques ou occultes, 3 vols., Paris, L. Dorbon, 191 3.
+
+Miracles and prophecies have played a great part in nearly all religions. Real metapsychic phenomena, putting telekinesis for the miracles and premonitions for the prophecies, are perhaps at the root of some religious beliefs; but what can we build on stories that date back twenty centuries, transformed by ignorant and credulous priests? Dealing with a fact of the present day studied in a laboratory by skilled experimentalists with all modern technical instruments, we often hesitate to form any conclusions. How, then, can we affirm anything concerning an improbable event said to have taken place two thousand years ago before three fanatics and four adepts? Probably it is not entirely false; but we cannot discriminate between its falsehood and its truth. We shall, therefore, deliberately set aside the miracles of all religions, and all the prodigies connected with the death of Caesar, of Jesus Christ, or of Mahomet.
+
+Nevertheless there are, in this immeasurable period of credulity and ignorance, some facts worthy of mention.
+
+Firstly, the very curious story of the daemon of Socrates.
+
+The two illustrious disciples of Socrates — Plato and Xenophon — state formally that Socrates claimed to have a familiar genius, a daemon, who foretold events and sometimes prescribed his conduct. Even Socrates believed this being to be other than himself because it revealed things unknown. This daemon was what spiritualists call "a guide."
+
+In the Theagetes, Plato makes Socrates say: "By the favour of the Gods, I have, since my childhood, been attended by a semidivine being whose voice from time to time dissuades me from some undertaking, but never directs me what I am to do. You know Charmides the son of Glaucon. One day he told me that he intended to compete at the Nemean games.... I tried to turn Charmides from his design, telling him, 'While you were speaking, I heard the divine voice.... Go not to Nemea.' He would not listen. Well, you know he has fallen."
+
+In the Apology for Socrates, Xenophon attributes to him the words: "This prophetic voice has been heard by me throughout my life: it is certainly more trustworthy than omens from the flight or the entrails of birds: I call it a God or a daemon. I have told my friends the warnings I have received, and up to now the voice has never been wrong." Socrates frequently insisted that the predictions of his familiar genius were always verified.
+
+Throughout antiquity the story of Socrates's daemon has always been perfectly well known.
+
+Plutarch speaks of it: "Socrates having a pure and clear faculty of hearing could easily be affected, and this being so we may conjecture that what reached him was not a voice or a sound but the silent voice of a daemon touching the intelligence of his soul. The intelligence of daemons having its own light, shines upon those who are capable of receiving it, needing neither the names nor the words which men use in speaking to one another, by which they represent their ideas; but as for pure intelligences these are known only to those who have an inner and divine light."
+
+Socrates, on hearing these voices, would break off his conversation, or stop in his walk, saying in explanation that he had heard the god.
+
+Myers has written ably on this subject, comparing it (with good reason, as I think) to the voices heard from childhood by Jeanne d'Arc. He finds, however, only one instance of clairvoyance attributed to this daemon: As the philosopher was in conversation with Eutyphron, he suddenly stopped and warned his friends to turn into another street. They would not listen; but misfortune overtook them — they met a drove of swine that jostled them and threw them down.
+
+In his treatise De Divinatione Cicero speaks without reserve of predictions, as in the case of Socrates; but, strange to say, he expresses no astonishment. Without believing in it he does not reject it. He says, De Legibus, ii, 32, 33, "I think there veritably is a divination, that which the Greeks call ^avTiKr/. If we admit that there are gods whose spirit governs the world and watches over mankind, I do not see why we should refuse credence to divination."
+
+Referring to his brother Quintus he gives some instances of premonition, notably a dream of Quintus, in which he saw his brother Tullius fall from his horse (which was a fact). Tullius replied, "The anxiety you felt for me caused you to dream of me. The coincidence of the dream and the accident was a matter of chance"; and this answer appears to have satisfied Cicero.
+
+Cicero gives an account {De Divinatione, i, 27) of another metapsychic phenomenon which I abridge as follows:
+
+Two friends having arrived at Megara went to lodge, one in an inn and one in a private house. The latter dreamed that his comrade called him to save him from an assassin. He awoke, thought it only a dream, and went to sleep again. But his friend appeared to him and said: "Since thou wouldest not save my life at least avenge me, se interfectum in plaustrum a caupone esse conjectum, et supra stercus injectum.... Hoc somnio commotus mane bulbulco praesto ad portam fuisse, quaesisse ex eo quid esset in plaustro, ilium perterritum fugisse, mortuum erutum esse; cauponem, re patefacta, poenas dedisse." And Cicero, without being beyond measure astonished, remarks, "Quid hoc somnio dici divinius potest?" 1
+
+Further, in speaking of oracles, in which he nevertheless is inclined to believe, he says, Multa falsa, imo obscura, idque fortasse... nobis facilius evenit appropinquante morte, ut animi futura auguretur.2 Tacitus (Annals, xi, 21) speaks of a vision that appeared to Curtius Rufus: Oblata ei species muliebris ultra modum humanun et audita est vox.3
+
+A search through history would reveal many facts of a metapsychic nature; but no serious inferences can be drawn from them. Who today would venture to speak seriously of Simon Magus, or Apollonius of Tyana, even of Cardan or Cornelius Agrippa? Magi, magicians, and mystics have no place in the science of today, nor in sane metapsychics as now understood.
+
+The apparition to Brutus, recounted by Plutarch, deserves mention: "A little before he left Asia he was sitting alone in his tent, by a dim light, and at a late hour. The whole army lay in sleep and silence, while the general, wrapped in meditation, thought he perceived something enter his tent: turning towards the
+
+Translator's Note — The passages quoted may be rendered as follows: ^'That he had been killed and thrown into a waggon by the innkeeper and that manure had been thrown over his body. Alarmed at this dream in the morning he had waited for the waggoner by the gate (of the town) and had asked him what was in the waggon; the man fled, terrified, and the corpse had been uncovered. The innkeeper on the case being proved had paid the penalty."
+
+What clearer proof of the intervention of Heaven can there be than this dream?
+
+2Much is false, I should rather say unintelligible, and this (i.e., premonition) perhaps happens to us more readily on the approach of death, that the future of the soul may be forecast.
+
+'There appeared to him the form of a woman of more than human size and a voice was heard... The context runs, Tu es Rufe, qui in hanc provinciam proconsule venies. "You are the man, Rufus, who will come to this province as proconsul."
+
+door, he saw a horrible and monstrous spectre standing silently by his side. 'What art thou?' said he boldly. 'Art thou God or man, and what is thy business with me?' The spectre answered, 'I am thy evil genius, Brutus! Thou wilt see me at Philippi.' To which he calmly replied, Til meet thee there.' When the apparition was gone he called his servants, who told him they had neither heard any voice nor seen any vision." (Plutarch's Lives, Brutus, Langhorne's translation.)
+
+The voices and visions of Jeanne d'Arc belong also without doubt to the class of metapsychic phenomena. These voices and visions were perceived by herself alone, and must therefore be admitted as subjective. The explanation that they were hallucinations is much too easy, for they were followed by far too many real facts and by too frequent verification of their predictions to be accounted for by a disordered mind. It is impossible to doubt that Jeanne was truly inspired.
+
+At the same time, as for the phantom seen by Brutus, the apparitions at Lourdes, and the miracles of Apollonius of Tyana and Simon Magus, any scientific appreciation of these ancient testimonies is impossible, and it is better to admit with F. W. H. Myers that it is probable that Jeanne possessed certain metapsychic powers, without claiming to give an exact definition of them.
+
+There might be some profit in the study of hagiographies, for saintly persons have certainly exhibited very real metapsychic phenomena. Instances of aureoles about the head, bilocation, the "odour of sanctity/' insensibility to fire, levitation, speaking in strange tongues, and prophecy are to be found in the lives of many saints: St. Francis d'Assisi, St. Theresa, St. Helena, St. Alphonso of Liguori, and St. Joseph of Copertino (1603-1663).
+
+I set aside the stories of stigmata and all such organic phenomena, for these effects of mind — that is to say, of the central nervous system — on the circulation and nutrition of various parts of the body (the trophic nerves) do not fall within the province of metapsychics. It will suffice to refer to the many publications by medical men on this subject.1
+
+*M. Apte, Les stigmatises, itude historique et critique sur les troubles vaso-moteurs chez les mystiques, Th. de doctorat, Paris, 1903- Kohnstamm, Hypnotische Stigmatisierung (Zeitschr. f.d. Ausbau d. Entwicklungslehre, iqo8, ii, 314-321). Gorres, La mystique divine, naturelle et diabolique, trad, fr., Paris, 1854, ii, 174-210. Bourneville, Science et miracles, Louise Lateau,
+
+But I hesitate to deny all the ancient instances of levitation; Gorres cites no less than seventy-two cases, and states, moreover, that he does not give all of them. But it is impossible to determine how much truth there is in these miracles. The saint who had most is certainly St. Joseph of Copertino, beatified in 1753. Of him Gorres says, "His ecstasies and ascensions were witnessed not only by the people and the members of his order, but Pope Urban VIII saw him one day in this state and was intensely astonished. Joseph bethinking himself that he was in the presence of the Vicar of Christ fell into an ecstasy and was raised above the ground."
+
+For a long time, and even today, it has been the custom to scoff at these superstitions — the levitations of saints, somnambulistic predictions, premonitions of death by dreams, ecstatic healings, stigmata, haunted houses, apparitions, and the like — lumping them together with unmeasured contempt as unworthy of any examination.
+
+This seems to me a grave error. Assuredly everything in these stories is not true, but neither are they entirely false. The strange stories we hear provoke an incredulous smile and one is apt to think the narrator not quite sane. But that is not so, neither is he lying. The stories told us are scarcely ever lies and very rarely complete illusions. People exaggerate, alter, arrange their accounts, forget essential details and add imaginary ones; but all these legends contain some fragment of truth. The history of the sciences shows that it has often been necessary to return to notions once thought to be puerile. The very existence of hypnotism and of spiritualism shows that mere denials without examination, instead of aiding, tend to fossilize science — routine rather than the desire of progress dominating the minds of those who claim to be scientific. But for detail of all these legends, from which we can scarcely hope to extract the truth imbedded therein, I refer readers to the work of Gorres.1 It is very complete, though naturally his credulity is limitless. It
+
+ou la stigmatisee beige, Paris, 1875. Carre de Montgeron, La veritS des miracles opkrks Par V inter cession du diacre, Paris, ii, Cologne, 1747. Alfred Maury, La tnagie et Vastrologie, Paris, 1895. P. Janet, Bulletin de VJnstitut psychologique international, July, 1901. A. de Rochas, A. S. P., January, 1903.
+
+*I endeavoured to analyze a very curious old instance of "possession" at Presburg in 1641, but could deduce nothing. (Phenomdnes metapsychiques d'autrefois, A. S. P., 1905, pp. 197-217; 413-421.)
+
+is, however, interesting to note that nearly all present metapsychic phenomena are to be found in it.
+
+The naive imagination of the Christians of those days does not refer all these metapsychic powers to God and good angels: the devil also is capable of many marvels when he takes possession of some unlucky woman: he is nearly as powerful as God, and confers wonderful powers on his victim:
+
+1. The power of perceiving the thoughts of others, even when
+
+not expressed;
+
+2. Knowledge of languages unknown to the possessed and the
+
+ability to speak them;
+
+3. Knowledge of future events;
+
+4. Knowledge of events at a distance beyond the limits of sight;
+
+5. Suspension in the air (levitation).
+
+All these are real metapsychic phenomena; it is therefore credible that such things should have occurred now and again, alike to the saintly and the possessed, in all times.
+
+Even divining tables are mentioned in antiquity (Mensae divinatoriae). Tertullian speaks of chains and tables for divination, and adds that this is a common fact (Figuier, Histoire du merveilleux, Paris, 1873, i, 18). According to Ammianus Marcellinus a table was made and on it was placed a slab engraved with the twenty-four letters of the alphabet. A ring suspended by a thread was held over it which swung to certain letters. These being written down gave an oracular message.
+
+
+
+2. The "Magnetic" Stage
+
+With Mesmer all changes: he introduced animal magnetism, which, though not to be confounded with metapsychics, is closely allied to it.2 In 1766 Anton Frederic Mesmer (1723-1815) produced, as his thesis for a medical degree, an essay on the physiological influence of the planets. During the next ten years
+
+*On Mesmer's work and the origins of magnetism see the remarkable article by Ochorowicz, Hypnotism, in the Dictionnaire de Physiologie, C. Richet, Paris, 1909, viii, pp. 709-777; also K. Kiesewetter, Geschichte desneueren Occultismus; geheimwissenschaftliche Systeme von Agrippa bis Karl du Prel, second edition, Leipzig, 1907. The bibliography of animal magnetism and hypnotism will be found in M. Dessoir's book.
+
+*Cf. Figuier, Histoire du merveilleux, Paris, 1873, h 18.
+
+he studied, endeavouring to harmonize astronomy and medicine, and to bring himself to notice. In 1778 he came to Paris and published his first didactic work. It was immediately apparent that new and extraordinary facts were involved. He rose into vogue. The Royal Society of Medicine, the Academy of Sciences, and the Faculty took the matter up and showed that Mesmer's methods gave rise to a certain psycho-physiological state which might sometimes be efficacious in the curing of disease.1
+
+The new doctrine obtained numerous adherents among doctors, magistrates, gentlemen, and scientists. Animal magnetism was commonly practised. Puysegur, aided by d'Eslon and Deleuze, the librarian of the Jardin des Plantes, modified the methods of Mesmer and created animal magnetism (induced somnambulism), such as we know it today. Mesmer, by adopting the word "magnetism," only meant action at a distance, just as Paracelsus and Goclenius treated of the "magnetic" action of planets or of substances. In this sense Mesmer was nearer to metapsychics than his immediate successors.
+
+With Puysegur, d'Eslon, and Deleuze magnetization became a therapeutic method, though henceforth metapsychic facts — action at a distance, vision through opaque bodies, clairvoyance or lucidity — were observed facts; but strangely enough nearly all the efforts of the magnetizers were concentrated on the diagnosis and cure of disease. Petetin, a physician of Lyons, cited a number of cases of cryptesthesia which he attributes naively to epigastric sensibility: one of his cataleptic patients could distinguish and name a card placed on the epigastric region. Petetin is one of the old-time magnetizers who studied the psychological, or rather metapsychic, phenomena that so often accompany hypnosis, with special care.
+
+Baron du Potet, and Husson, a physician of the Paris Hospital and a member of the Academy of Medicine, made, in 1825, some remarkable experiments on somnambulism induced from a distance. A notable report was presented by Husson to the Paris Academy of Medicine, and appeared in 1833.2
+
+1Memoire sur la decouverte du magnetisme animal, Paris, P. F. Didot, 1779. Ochorowicz has done full justice to Mesmer who was a genuine discoverer and forerunner.
+
+2Maxime de Puysegur, Rapport des cures operees a Bayonne par le magnetisme animal, Bayonne, 1784. Memoires pour servir a I'ttablissement du magnetisme animal, Paris, 1820. Deleuze, Histoire critique de magnetisme
+
+Among the conclusions adopted, I give the following, which will seem bold, even today:
+
+"An effort of will or a fixed gaze has sufficed to produce magnetic phenomena, even when the subject was unaware.
+
+"A somnambulic state may give rise to new faculties, designated as clairvoyance, intuition, or interior prevision.
+
+"By an effort of will it is possible not only to act on the patient, but even to induce complete somnambulism and to dispel it, unknown to and out of sight of the patient, through closed doors.
+
+"We have seen two somnambulists with closed eyes distinguish objects placed before them; they have named the color and value of cards, have read words of script or some lines in books selected at random, and this when the eyelids were held down with our fingers. "
+
+In spite of these declarations the scepticism of official science prevailed. Husson's report was disputed and then forgotten, and the metapsychic phenomena were taken up by novelists, and denied or disdained by men of science.
+
+In Germany Justinus Kerner,1 physician and poet, studied for a long while Federica Hauff, a medium whose extraordinary faculties were well worthy of attention. Federica Hauff was undoubtedly a powerful medium; she saw spirits and produced materializations. "One day," says Kerner, "I was conversing with her brother, when he said: 'Hush! a spirit is crossing the room going toward my sister/ Then I saw a vague form like a luminous column about human height standing at the foot of the bed of the seeress, whispering to her."
+
+Around her spontaneous rappings were heard, and she could even cause them on neighbouring objects, on tables, and on the
+
+animal, 1813. Petetin, Electricite animale, memoir es sur la catalepsie. Foissac, Rapport et discussions sur le magnetisme animal, Paris, 1825. Deleuze, Instruction pratique sur le magnetisme animal. Final edition, Paris, 1853.
+
+There is, however, a posthumous work by Deleuze, Memoire sur la faculty de prevision, with notes by M. Mielle, Paris, 1834.
+
+Rapports et discussions de VAcademie royale de medecine sur le magnetisme animal, Paris, 1833.
+
+xDie Scherin von Prevorst, Eroffnungen iiber das innere Leben d. Menschen und iiber das Hereinragen einer Geisterwelt in die unsere, Stuttgart, 1829, fifth edition, Stuttgart, 1877. Die Seherin von Prevorst und ihre Geschichte in der Geisterwelt, nach Justinus Kerner von einem ihrer Zeitgenossen, Stuttgart, 1869. A. Reinhard, Justinus Kerner und das Kernerhaus, zu Weinberg, Tubingen, 1886. J. Kerner, Blatter aus Prevorst Originalien und Lesefruchte jui Freunde des innern Lebens, Stuttgart, 183 1 -1839.
+
+wood of her bed. Different objects moved without contact, she was levitated, and seems to have spoken in unknown tongues.
+
+It was only during the years from 1826 to 1829 that these remarkable phenomena were observed; during the whole of this time she was very ill and could scarcely leave her bed. All who studied Federica Hauff (such as the Magistrate Pfaffer and Strauss, the celebrated author of the Lcben Jesu), instead of ridiculing her, were convinced not only of her good faith but of the metapsychic phenomena — then called supernatural.
+
+At this time there appeared, also in Germany, the works of Reichenbach. These are obscure physiological rather than metapsychic records, for the action of steel magnets on organic bodies must not be confused with cryptesthesia or telekinesis. Unfortunately the work of Reichenbach has been more disputed over than studied.
+
+Belonging strictly to the metapsychic domain were the observations made in France on lucid somnambulists such as Mme. Pigeaire1 and Alexis Didier, but men of science, with the rarest exceptions, concerned themselves with somnambulism only to try to disprove it. Their attitude is easily understandable: somnambulic consultants, lucid or super-lucid, appeared in every town, both in France and abroad, exploiting the alleged healing virtues of magnetism. They were to be found at every fair, plying a dubious trade; they told fortunes by cards, they saw the future in coffee-grounds, and practised palmistry.
+
+Credulous people visited them and men of science shrugged their shoulders. In such a medley, the clairvoyance of persons like Mme. Lenormand, Mme. Pigeaire, and Alexis Didier was lost, though some serious notices were published.2
+
+\A. de Rochas has published part of these in French with some interesting notes.
+
+2Du Potet, Essai sur Venseignement philosophique du magnetisme animal, Paris, 1845. Lafontaine, Vart de magnktiser ou le magnetisme vital considire sous le point de vue theorique, pratique et thkrapeutique, Paris, 1847. Fifth edition, 1887. A. Bertrand, Du magnetisme animal en France, suivi de considerations sur Vapparition de Vexiase dans les traitements magnHiques, Paris, 1826. Teste, Manuel pratique du magnetisme animal, Paris, 1840. Elliotson, Animal Magnetism, Lancet, 1837, 1838, pp. 122, 282, 377, 400, 441, 516, 546, 615, 634. Esdaille, Reports of the magnetic hospital, Calcutta, 1848, p. 761. Passavant, Untersuchungen iiber den Lebenmagnetismus und das Hellsehen, second edition, Franckfurt A. M., 1837.
+
+Many journals, mostly ephemeral, appeared; others survived a considerable time. The Journal du Magnetisme, edited by Du Potet, 1 845-1 885. The
+
+
+
+3. The Spiritist Stage
+
+In 1847 an event took place, apparently insignificant, but really of considerable import, introducing unforeseen facts and equally unforeseen doctrines.
+
+Animal magnetism, being of doubtful therapeutic value, was making no progress. The coming of spiritism with its new methods and new theories inaugurated a new era. This is the third period in the development of metapsychic science. It runs from 1847 to 1872.
+
+In 1846, in the little town of Hydesville (Arcadia) near New York, one Michael Weakman heard an unusual noise outside. He went out and saw nothing; but as the noises continued and disturbed him, he left Hydesville. His house was taken by John Fox and his two daughters, Kate and Margaret, aged twelve and fourteen. One night on going to bed the two girls heard noises and raps, and discovered (December, 1847, and March, 1848), that these showed intelligence.
+
+The phenomena soon developed, and several persons verified that these intelligent rappings bore witness to certain facts that had been kept secret. In August, 1848, the Fox family left Hydesville for Rochester. Leah Fish, the elder sister of Kate and Margaret, joined them for spiritualist manifestations.
+
+Isaac Post suggested the use of an alphabet to converse with these unknown powers which stated that they were spirits.
+
+Many gatherings, sometimes enthusiastic, sometimes hotly inimical, were held to verify the facts announced by the Fox sisters, who were becoming more and more notorious. The first scientific enquiry seems to have taken place at St. Louis (Missouri), in June, 1882; it appears to have reported favourably. Nevertheless the Fox family were certainly not disinterested; public seances were given at which places were paid for as at a circus.
+
+All these early stages of spiritualism, arising in the first place from chance, and then pushed by shameless commercialism, are very sordid.1
+
+Zoist, a journal of cerebral physiology and mesmerism and their application to human welfare, London, 1 843-1 853. Archiv fur den thierischen Magnet ismus, Altenburg and Leipzig, 1817-1822. Others might be cited.
+
+*It is, however, to be noted that the admirable discovery of surgical anesthetics, also made in America, offers analogous features. It arose by a
+
+But the start was made. First in America, and afterwards in Europe, the practice of table-turning and spiritualist doctrines made extraordinary progress during the next three years. As for animal magnetism in 1780, so for table-turning in 1850, an amazing infatuation set in; but it is simply puerile to see in this nothing more than a huge and collective illusion. Moreover, some reasoned conclusions were blended with the fanatical credulity of blind and ignorant masses, and the equally blind and ignorant denials by scorners. It was soon found that the phenomena of raps and telekinesis could be observed with other mediums than the Fox sisters.1
+
+Among these reasoned conclusions none was more influential than those of Judge Edmunds, a senator respected throughout the United States for probity and sagacity.
+
+The mental instability of mediums is, for the most part, such that their affirmations, whether positive or negative, have but small value. That the Fox sisters, after the enormous development of spiritualism that followed on their early demonstrations, should have tricked is possible or probable, not to say certain.
+
+There are many instances of very strong mediums who presented at first authentic phenomena, but later on, urged by cupidity or vanity, finding their powers failing, have supplemented them by fraud. It is difficult to suppose that the phenomena of rapping, which is certainly true, should have been
+
+chance and immediately Horace Wells and Morton took out a patent in order to draw profit from the discovery; but this greed of gain detracted nothing from its reality. O. and W. Wright patented their aeroplane, but this did not diminish the value of their invention.
+
+*A singular result followed. Margaret Fox, then become Mrs. Kane, avowed in 1888 that all her revelations as a child and a young woman were impostures. The sitting of the Musical Academy of Boston at which she made this astonishing declaration provoked great indignation. The other sister, Kate, then Mrs. Joncken, afterwards Mrs. Sparr, and addicted to drink, made the same confession in November, 1888, at Rochester. But in 1892 both Margaret and Kate retracted their confessions. These unfortunate facts prove nothing but the mental frailty of mediums.
+
+In fine, when a fact has been affirmed, it is not enough merely to say that there was lying and trickery; it must also be shown how the trick was carried out. A Mr. Blackman has told (Confessions of a Telepathist, J. S. P. R., October, 191 1, p. 116) how he in collusion with G. A. Smith deceived Gurney, Myers, Podmore, H. Sidgwick, and Barrett. But in this so-called exposure he certainly told some lies. I believe, too, that Marthe Beraud once told a certain lawyer at Algiers that she had tricked at the Villa Carmen; but later on she denied this, and her statements have no value either way. A curious chapter might be written on the pseudo-confessions of mediums.
+
+invented by the Fox sisters without being real.1 Before 1847 these rappings were unknown; then these two young girls come on the scene and give striking examples of them.
+
+Then the same phenomenon is verified far and wide, and after many such instances the girls say they were lying! It is probable that the denial is the lie, and that seeing public favours and money diminishing they thought to regain notoriety for their puny personalities by a recantation.
+
+In 1847 Margaret was fifteen and Kate twelve. Can we suppose that these two children organized a fraud that was tested thousands of times during seventy-five years? The reality of rappings does not depend on the Fox sisters. In 1888 it was too late for denial and their recantation proves nothing.2
+
+It is deplorable that from 1849 onward the Fox family should have given theatrical spiritist performances for payment, but this no more invalidates the facts than the patents taken out by Wells and Morton for the use of ether contradict the facts of anesthesia.
+
+The rapid development of spiritualism cannot be traced here. A petition signed by fourteen thousand persons was presented to the Senate of the United States in 1852, asking for a scientific commission of enquiry. It had become a new religion; spiritualist circles and journals were numerous.
+
+Among the early American spiritualists, besides Edmunds, must be placed Professors Britten, David Wells, Bryant, Bliss, all of the University of Pennsylvania, and above all others Dr. Robert Hare,3 professor of chemistry at Harvard, convinced after having been sceptical.
+
+In Europe spiritualism spread very rapidly; not without stirring up lively opposition. Scientific men, especially, refused to admit the actuality of the phenomena, and to explain the undeniable facts of raps and table-turning, they invented compli-
+
+\A.ccording to J. Maxwell (Les Sciences psychiques, Revue de Paris, March i, 1 921) the bishop, Adrien de Montalembert, seems to have verified that such raps took place with a nun of Lyons.
+
+2The experiments by Aksakoff and Boutleroff with Kate Fox (of little interest now) are mentioned further on (A. S. P., 1901, xi, 192). For further details in the history of spiritualism, see E. Morselli, who gives abundant and precise details (Psicologia e spiritismo, Turin, 1908, i, 12-27).
+
+3Hare, Experimental investigations of the spirit manifestations demonstrating the existence of spirits and their communications with mortals, Philadelphia, 1856. Makan, Modern mysteries explained and exposed, Boston, 1855 (University).
+
+cated theories, and gave explanations, some of which were quite correct, and others subtly erroneous.1
+
+At that time, about 1854, the phenomena of unconscious muscular action, quite established today, was unknown. The credit of an ingenious and rational explanation belongs to Chevreul. He was supported by Babinet, Faraday, Carpenter, and by nearly all physiologists and physicians.2
+
+In point of fact the study of table-turning is one of the most difficult in objective metapsychics, for nothing is harder than to determine the part played by the unconscious in the oscillatory movements of the table. Even when the good faith of the experimenters is not in doubt, they evidently cannot be held responsible for unconscious and involuntary muscular contractions. Therefore it was not possible at that time to prove in an unimpeachable manner that movement could be produced without muscular contraction.
+
+Similarly for the raps. An eminent physiologist, M. Schiff, showed in his own person that a crack, comparable to the raps supposed to be produced by spirits, could be made by muscular displacement of a certain tendon. This infantile explanation that we smile at today was well received by scientists who probably had never heard the raps which cause wood to vibrate sometimes loudly, sometimes with musical rhythm, and have nothing in common with the snappings of a tendon, even supposing that other persons than the illustrious Florentine physiologist can produce them. His assertions had been preceded by those of
+
+^ee De Mirville, Pneumatologie des isprits et de leurs manifestations diver ses (fluidiques, historiques, etc.), Paris, first edition, 1853, fifth edition, 5 vols., 1 863- 1 864. Gasparin, Des tables tournantes, du surnaturel en giniral, etc., Paris, 1854. Thiery (2) Les tables tournantes considkrees an point de vue de la physique generate, Geneva, Kessmann, 1855. E. Hornung, Spiritualistiche Mittheilungen aus der Geisterzvelt, Berlin, 1859 and 1862. C. Kiesewetter, Die Entwickelungsgeschichte des Spiritismus von der Urseit bis zur Gegenwart, Leipzig, Spohr, 1893. Leymarie, Histoire du spiritisme, compte rendu du congres spirite de 1889, Paris, librarie spirite, 1890, pp. 3-45. Malgras, Les pionniers du spiritisme, Paris, Lib. des sciences psychologiques, 1906.
+
+2Chevreul, De la baguette divinatoire, du pendule explorateur, et des tables tournantes, Paris, 1854. Babinet, Etudes et lectures sur les sciences d' observation, Paris, 1856. Carpenter, Principles of mental physiology and psychological curiosities of spiritualism (Pop. Sci. Monthly, 1877, iii, 128). Faraday, The table-turning delusion, Lancet, 1853. Cumberland, Fraudulent aspects of spiritualism, Journal of Mental Science, 1881, xxvii, 280-628. Morin, Le magnktisme et les sciences occultes, Paris, 1855. See also on Faraday's work the recent article by Fr. Grunewald, Faraday iiber d. Tischrucken, Psych. Stud., 1920, xlvii, 151, 295, 298.
+
+Flint,1 another distinguished physiologist, who, after observation of the Fox sisters, attributed the raps to the crackings of their knee-joints.
+
+Spiritualists made but poor replies to these experimental objections; they ought, as was done later, to have met them by experiment. Instead, they put forward theories and started a new religion.
+
+This theorization of spiritism was mainly due to L. H. D. Rivail (1803-1869), a doctor of medicine scarcely known under the name of Rivail, but celebrated under the pseudonym of Allan Kardec.2
+
+The spiritist theory of Allan Kardec is simple enough: The soul does not die; after death it becomes a spirit and seeks to manifest through certain privileged beings (mediums), capable of receiving directions and impulses from spirits; the spirit seeks reincarnation, i.e., to live again in a human form, of which it is the soul; all human beings pass through successive transmigratory phases, as Pythagoras had previously taught; their "perisprit" can, under certain exceptional circumstances, materialize; they know the past, the present, and the future. Sometimes they materialize and can act on matter; from the moral point of view we should let ourselves be guided by good spirits who lead us towards right, and refuse to listen to bad spirits who lead us into error.
+
+The intellectual energy of Allan Kardec deserves unfeigned admiration. Despite an exaggerated credulity he puts his faith in experiment, and rests on that, so that his work is not only a far-reaching theory but also a great collection of facts.
+
+This theory has, however, a deplorably weak side. The whole fabric of his system (which is that of spiritualism in general) is based on the astonishing hypothesis that mediums, embodying a so-called spirit, are never mistaken, and that automatic writings, unless prompted by evil spirits, reveal verities to be ac-
+
+*A. Flint, On the discovery of the source of the Rochester knockings, and on sounds produced by the movements of joints and tendons, Quart. Journ. Med. Sci., New York, 1869, iii, 417-446. Schiff, Comptes rendus de VAcad. des Sciences, April 18, 1859. Jobert, Velpeau, Cloquet, discussion on the same, ibid., passim.
+
+-Lirre des esprits, Paris, 1857. first edition. Livre des mediums, Paris, 1 86 1, first edition. More than thirty editions have been issued of these celebrated books which have been translated into all languages. Allan Kardec was «ilso the founder of the Revue Spirite, now in its thirtieth year.
+
+cepted. If, then, we were to follow Kardec's theory, we must take at face-value all the divagations of the subconscious, which, with some exceptions, show a very primitive and puerile intelligence. To build a doctrine on the word of so-called spirits is a very grave error. Nevertheless no influence between 1847 and 1871 was comparable to that of Allan Kardec, and no one has made a deeper impress on metapsychic science.
+
+Spiritualism was defended in England by Robert Dale Owen and by Alfred Russel Wallace.1 Wallace was the man whose genius anticipated Darwin's work; his books bear witness to his courage, for indeed much courage was required to write in defence of a science that had so little scientific character.
+
+In Germany Zollner stood alone. The time was ripe for the appearance of the great pioneer of metapsychic science — Sir William Crookes.
+
+
+
+4. The Scientific Stage
+
+Great as were the merits and the courage of Crookes, he was preceded by the members of the Dialectical Society of London who, to the number of thirty-six, met at the suggestion of Edmunds, in January, 1869, to study mediumistic phenomena scientifically. Among them was the engineer, Cromwell Varley, the distinguished naturalist, Russel Wallace, and an acute lawyer, Serjeant Cox, all of whom seem to have played a leading part. Well-known scientists such as Tyndall and Carpenter declined to participate, and there were dissidents among the commission itself; notably Lubbock and Huxley, who opposed the report of the majority.2
+
+The facts verified by the Dialectical Society were surprisingly evidential: they did not, however, secure scientific assent, but they had one excellent result — they impelled William Crookes to study the question. Fortunately he had the assistance of two powerful mediums with whom to experiment — Florence Cook and D. Dunglas Home.
+
+1R. D. Owen, Footfalls on the boundary of another world, Philadelphia. 1877; The debatable land between this world and the next, New York and London, 1871. A. Russel Wallace, A Defence of Modern Spiritualism (Fortnightly Review), London, 1874, xv, 630-657. The Scientific Aspect of the Supernatural, London, 1866. On Miracles and Modern Spiritualism, London, 1873.
+
+2Report on Spiritualism by the Committee of the London Dialectical Society, together with the evidence oral and written, and a selection from the correspondence. (Longmans, London. 1871.)
+
+Crookes was then thirty-seven years old, in the full vigour of his age and powers. He had already a high scientific standing. In 1863 he had discovered a new metal — thallium — and had done distinguished work in spectroscopy, astronomy, and meteorology. He was editor of the Chemical News and of the Quarterly Journal of Science, when he decided to study Home's remarkable powers.
+
+From 1869 to 1872 he published articles contrasting strongly by the precision of their language and severe experimental method with the usual style of spiritualist publications. It was the beginning of the scientific period. "I do not say that these things are possible. I say that they exist," said Crookes.1
+
+The idolatry of current ideas was so dominant at that time that no pains were taken either to verify or to refute Crookes's statements. Men were content to ridicule them, and I avow with shame that I was among the wilfully blind. Instead of admiring the heroism of a recognized man of science who dared then in 1872 to say that there really are phantoms that can be photographed and whose heartbeats can be heard, I laughed.
+
+This courage had, however, no immediate or considerable effect; it is only today that Crooke's work is really understood. It is still the foundation of objective metapsychics, a block of granite that no criticism has been able to touch. At the close of a laborious and distinguished life he said, "I have nothing to withdraw of all I have borne witness to."
+
+Henceforward spiritualists will know that experiment is the path of progress, rather than religious or mystical speculation. The whole subject should now be an experimental science, sceptical of theories and as exact on its own lines as chemistry, physics, or physiology.
+
+Animal magnetism has passed through a similar evolutionary stage. Since Puysegur, Deleuze, and Du Potet it has made no progress. James Braid of Manchester, by calling it hypnotism did not change its mystical aspect nor its unfortunate association with medicine. The result was that the doctors and physiologists
+
+*Many of his writings are polemical; I will only cite the following: Experimental investigations on psychic force, London, Gilman, 1871. Researches on the phenomena of spiritualism, London, Burns, 1894. On Psychical Research, Report Smithsonian Institution, Washington, 1898-1899pp. 185-205. Psychic force and modern spiritualism, A reply to the Quarterly Review and other critics, London, 1872.
+
+of 1875 gave little more credence to it than to the materializations of Katie King.1
+
+In 1875, while still a student, I was able to prove that we are here concerned with a phenomenon of normal physiology; that the intelligence in this induced state remains intact and is sometimes super-excited, and that there is no need to imagine any magical or magnetic action. Some years later I gave the first examples of duplicated personalities, hinted at by Philips and Azam.2 These changes of personality throw much light on socalled spiritualist phenomena.
+
+Nothing that I said in my article of 1875 was entirely new; the old magnetizers had seen the same facts. So also when Crookes established the reality of phantoms, he said scarcely anything that had not already been stated by spiritualists. The novelty consisted in rigorous application of experimental method to phenomena till then imperfectly verified and only partially studied, and therefore given no place in science.
+
+Following on my article many experiments were widely made, and animal magnetism ceased to be an occult science.3
+
+The efforts of those who study metapsychics should now be directed to bringing this science out of the category of the occult, as animal magnetism has been brought.
+
+Another noteworthy event, as important as Crookes's work, was also of British origin. The Society for Psychical Research4 was
+
+XJ. Braid, Neurypnology, or the rationale of nervous sleep considered in relation with animal magnetism. Illustrated by numerous cases of its successful application in the relief and cure of diseases, London, Churchill, 1843. New edition, 1899. Power of the mind upon the body, London, 1846. Translated into French and German.
+
+2Ch. Richet, Du somnambulisme provoque. Joum. de I'anat. et de la physiologie, 1875, xi, 348-378. Revue philosophique, 1880, x, 337-384-A. F. pour I'avancement des sciences, Reims, 1881, ix, 50-60. Azam, Le dedoublement de la personnalite. Rev. scientif., 1890, xlvi, 136-141.
+
+8Heidenhain, Zur Kritik hypnotischer Untersuchungen. Breslau aertztl. Zeitschrift, 1880, 52-55, and Revue scient., 1880, xviii, 1187-1190. Chambard, art. Somnambulisme du Diet, encycl. des Sc. Medicales.
+
+I need not here mention the observations of Charcot and Bernheim, both subsequent to my article of 1875, and manifestly prompted by it (1878-1885). The very interesting history of suggestion does not pertain to metapsychics.
+
+The complete bibliography up to 1902 will be found in the article Hypnotism, in the Index Catalogue (2), 1902, vii, 743-766. (See also Morselli, // magnetismo animale, la fascinazione, gli stati hypnotici, second edition, Turin, 1886.)
+
+*The presidents of this society have been Henry Sidgwick, 1882-84-92; Balfour Stewart, 1885-87; A. J. Balfour, 1893; William James, 1894-95;
+
+founded by the persevering efforts of E. Gurney and F. W. H. Myers. A group of eminent persons drew together to make investigations in the despised region of occultism, in order to discover by rigorous scientific method the truths underlying these strange facts. Thence has grown a colossal assemblage of facts, experiments, and theories that has furnished data for the metapsychic science of today.
+
+This scientific reform was not limited to England. In France a similar effort was made, following the example of Gurney and Myers, though with lesser resources and fewer adherents. With the help of Th. Ribot and L. Marillier the Socicte de psychologie physiologique was founded. Its existence was brief, for it aimed at arousing interest in metapsychic research among psychologists, physiologists, and physicians. They declined to take it seriously. I then, with Dariex, founded the Annates des Sciences Psychiques (1890-1920), C. de Vesme subsequently becoming the zealous editor. This is now replaced by the Revue Metapsychique directed by Geley, holding a just mean between the credulity of the spiritualist publications and the blind ignorance of the journals of official psychology.
+
+However, important as are the psychical societies, and useful as are their publications, their value still depends on experimental research by single individuals. There can be no psychical research without a medium. The function of such societies is to prevent the powers of remarkable mediums being lost to science in unmethodical seances held without rigorous supervision.
+
+Between 1885 and 1920 there were many powerful mediums: Slade, Eglinton, Stainton Moses, Eusapia, Mme. d'Esperance, Mrs. Thomson, Marthe Beraud, Stanislawa Tomczyk, Miss Goligher, and Mrs. Leonard; but if I had to cite only two out of these, I should take Mrs. Piper for subjective, and Eusapia Paladino for objective phenomena.
+
+William Crookes, 1896-99; F. W. H. Myers, 1900; Oliver Lodge, 1901-03; Sir William Barrett, 1904; Charles Richet, 1905; G. Balfour, 1906-07; Mrs. H. Sidgwick, 1908-09; A. Arthur Smith, 191 0; Andrew Lang, 191 1; Carpenter, 1 91 2; H. Bergson, 1913; Schiller, 19 14 J Gilbert Murray, 191 5; Professor Jacks, 191 7; Lord Rayleigh, 191 9; W. McDougall, 1921.
+
+The Proceedings published by Triibner & Co. form twenty-eight volumes, to which must be added the Journal (1884- 1920), printed for private circulation. A very good index appeared in 1904, giving the chief cases referred to in Phantasms of the Living and in the Proceedings of the American S. P. R. The headquarters of the S. P. R. are at 20 Hanover Square.
+
+Mrs. Piper, of Boston, studied with extraordinary patience by William James, and afterwards by R. Hodgson, and then with equal perseverance by Hyslop, and also by F. Myers, Sir Oliver Lodge, and Sir William Barrett, has powers of clairvoyance and cryptesthesia probably greater than any before observed. She tells those who visit her, at once, and almost without hesitation, the names of their relatives, with episodes in their lives, unknown to her visitor, that can be verified only after long and painstaking enquiry.
+
+If there were no other medium in the world but Mrs. Piper that would be sufficient to establish scientifically the facts of cryptesthesia.
+
+Eusapia Paladino1 has been studied hundreds of times by the leading scientific men of Europe. Schiaparelli, Porro, AksakofT, G. Finzi, A. and F. Myers, O. Lodge, E. Feilding, Lombroso, A. de Rochas, Ochorowicz, J. Maxwell, A. de Schrenck-Notzing, C. Flammarion, Bottazzi, Morselli, Foa, Sabatier, A. de Watteville, A. de Gramont, Carrington, and many more have all verified with her the reality of movements without contact and materializations.
+
+Even if there were no other medium than Eusapia in the world, her manifestations would suffice to establish scientifically the reality of telekinesis and ectoplasmic forms.
+
+Both Mrs. Piper and Eusapia have always showed complete readiness to comply with scientific tests, accepting all control without taking offence. It is mainly through them that the development of metapsychic science in recent years has been possible. Scientific men of the future should recognize with gratitude the debt they owe to them and to their predecessors, D. D. Home and Florence Cook.
+
+More recent experiments with Marthe Beraud, Stanislawa Tomczyk, and Miss Goligher have opened wide possibilities before objective metapsychics.
+
+Thus metapsychics has acquired the right to be held a separate science under that name, differentiated from hypnotism on the one hand and from spiritualism on the other. I gave it this name and made this claim in 1905. Hypnotism is a nearly normal accompaniment in animal magnetism; it is an induced mental state such that normal consciousness is modified and transformed,
+
+1The complete bibliography of publications relating to Eusapia has been given by Morselli under the suggestive title of Bibliografia Paladiniana, in a remarkable book, Psicologia e spiritismo, Turin, Bona, 1908, 134-170.
+
+and new phases of consciousness, sometimes multiple, appear while the normal consciousness is asleep. But hypnotism still belongs to psychology, so that somnambulism only pertains to metapsychics on the emergence of faculties of cognition which do not exist at all in the normal state. To these faculties I have given the name of cryptesthesia.
+
+It is in no way doubtful that cryptesthesia is developed by means of hypnotism, magnetism, and somnambulism, but metapsychics is concerned with hypnotism only through its intensification of cryptesthesia.
+
