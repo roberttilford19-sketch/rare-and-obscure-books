@@ -1,0 +1,288 @@
+THE SACRED KURRAL OF TIRUVALLUVAR: THE BOOK OF VIRTUE (ARATHUPAL)
+
+
+
+DRAFT — not the finished text
+
+This document is a working draft prepared as part of Robert Tilford's rare-and-obscure-books project (the Rescue-the-17 queue: finishing the unfinished translations of men who did not live to finish them, and shelving them under their own names). The draft was prepared with AI assistance — collation, checking, and working notes generated with AI help under the editor's direction; the translations here are working drafts, AI-assisted and human-directed, and are released with that disclosure attached. Any UNVERIFIED items are flagged as such in the accompanying internal notes and must not be allowed to drift into finished copy. Source: the Tamil text as printed at Chennai in 1861 (archive.org item `tirukkua00tiru`, public domain), with Parimelazhagar's commentary printed in the same volume; Ellis's own printed portion is taken from his Madras volume of 1819 as reprinted at the University of Madras in 1955 (archive.org item `tdl.27197-tirukkural-ellis-commentary`, Ellis's text public domain). The renderings of William Henry Drew (Madras, 1840) and of G. U. Pope (Oxford, 1886) were consulted as check-only witnesses — for terminology footing and for the auditing of claims — and are quoted nowhere and paraphrased nowhere in this fascicle: the verses below are freshly made from the Tamil, in the manner of Ellis's own.
+
+Nothing here is published or shelfed by this draft alone; it waits the editor's word — and, before any claim to readiness, a Tamil-scholar/native review of the new renderings.
+
+> For Francis Whyte Ellis of Madras (1777–1819), who set his hand > in English to this book; and for every labourer whose work > death interrupted — that the work might stand complete under his > own name.
+
+Completed from the labors of Francis Whyte Ellis (1777–1819).
+
+
+* * *
+
+
+
+THE MAN WHO BEGAN THIS BOOK
+
+
+
+Francis Whyte Ellis of Madras (1777–1819)
+
+Francis Whyte Ellis came out to India in 1796, a young man of the Madras Civil Service in the last years of the eighteenth century, and made Madras his home and his life's schoolroom. He rose through the service to be Collector of Madras in 1810, a revenue officer of standing in a presidency where the business of government ran, every day, through languages not his own. What marks him out from the hundreds of able civilians who administered and were forgotten is that he wanted to know; and wanting to know, in the India of his day, meant learning the country's tongues as few Europeans had learned them before him.
+
+At the College of Fort St. George he set about the languages of the South in earnest. He appointed the Tamil scholar A. Muttusami Pillai as his munshi there, and put him to collecting Tamil manuscripts — a gathering of the country's written memory that, the lamentable record runs, was destroyed after Ellis's death by the successor who should have kept it. In 1812 he founded the College Press, furnished with types for Tamil and for Telugu, so that the languages he studied could be printed as they deserved. Paper, type, scholars, patronage: Ellis built himself the instruments of a science that did not yet have a name.
+
+Then, in 1816, he proved his great argument. In a note printed with Campbell's Grammar of the Teloogoo Language he showed — by comparison of the languages themselves, their grammar and their ancient words — that Tamil, Telugu, Kannada, and their sisters are not daughters of Sanskrit, as the received learning of his day supposed, but a great family standing on its own root. It is difficult, now, to feel what that argument cost and what it opened: the whole comparative science of the Dravidian tongues has stood upon that foundation stone ever since, and the foundation stone was Ellis's. In the same years he showed that Malayalam had sprung from Tamil, and he unmasked the so-called Ézour-Vedam, a pretended ancient scripture, for the modern fabrication that it was. He was, besides, a working administrator-scholar of the revenue: his papers on the mirasi rights of the Tamil country became a classic of their kind, and he opposed, against Sir Thomas Munro, the ryotwari settlement that remade the land system of the South. His writing ran far beyond any single subject; much of it was published only after his death.
+
+Ellis died at Ramnad, in the far south of the Tamil country, on 10 March 1819. At Madras that same year his great Tamil labour appeared, after his death: The Sacred Kurral of Tiruvalluva-Nāyanār — the first thirteen chapters of the Thirukkural, the Tamil classic of Tiruvalluvar, each couplet printed in its Tamil and rendered into English, with a commentary learned from the Tamil commentators themselves. Thirteen chapters: so far his hand reached, and no farther. The work has waited more than two hundred years for its continuation.
+
+That is why this book carries his name upon its title and his story in its forefront. Robert Tilford's rescue queue exists to finish what such men, cut off mid-task by death, could not finish — to bring the work to completeness, and to shelve it, not under a modern name, but under the name of the scholar who began it. Ellis deserves his completion: he was — in the words of the biographical dictionary of Indologists — a pioneer of Indology in India, and his book, at two hundred years' remove, still stands honourably among the founding works of English Kurral scholarship without any need of borrowed glory to set it there. Let his name then stand where he set it himself — at the head of his own book — and let the work at last be whole.
+
+
+* * *
+
+
+
+OF THIS COMPLETION
+
+The Thirukkural of Tiruvalluvar is a book of 1,330 couplets in three great divisions: the Arathupal, the Book of Virtue (or Righteousness), of thirty-eight chapters; the Porutpal, the Book of Wealth and Polity; and the Kamathupal, the Book of Love. Ellis translated and commented upon the first thirteen chapters of the Book of Virtue — couplets 1 to 130 of its 380. This volume completes what Francis Whyte Ellis left unfinished in the Arathupal, chapter by chapter, in his own manner as nearly as can be managed: the Tamil couplet first, then an English verse rendering, then a brief note. Where Ellis rendered a couplet in prose, or passed it by without a rendering of his own, nothing of his is altered or supplied after the fact — the map of exactly what he did, couplet by couplet, is preserved with this draft (the internal gate file, G-ELLIS-1) and the strays are honestly listed there for the completion's own later gathering.
+
+This first fascicle of the completion takes up the work in the untranslated ground beyond Ellis's thirteenth chapter, couplets 140–159: the closing couplet of Chapter XIV, the whole of Chapter XV, and the opening couplets of Chapter XVI. The couplets that flank them (131–139, completing Chapter XIV, and 160, closing Chapter XVI) stand in the queue for the fascicle that follows, so that the chapters may stand whole as the book grows. The untranslated chapters of the Book of Virtue that lie beyond — to its thirty-eighth chapter — will follow in their order, fascicle by fascicle, until Ellis's book stands finished from its fourteenth chapter to its last; each fascicle, like this one, a draft under this banner until Tamil scholarship has reviewed it.
+
+One boundary must be plainly stated at the door, for Ellis's honour will not carry borrowed glory. This is not, and must never be called, the first complete English Kurral. William Henry Drew, whose prose renderings (1840 and 1852) carried the first 630 couplets; John Lazarus, who completed the work in 1885; and G. U. Pope, whose Sacred Kurral of 1886 first gave the whole book in English in a single author's verse — these men hold their completes honourably and first, and no claim of this completion may trespass upon them. What is finished here is Ellis: his book, his chapter furniture, his manner, his uncovered debt of two centuries. The renderings that follow, upon ground Ellis never reached, are new — made from the Tamil text as printed at Chennai in 1861, with the commentary of Parimelazhagar, the Kurral's classical commentator, standing open beside them as the Tamil tradition's own reading; Drew and Pope lie upon the desk only as witnesses to check against, never as text to take from.
+
+Where the 1861 impression's Tamil shows a reading differing from the commonly received text, the received text is followed and the difference honestly flagged in the internal notes. The whole of the new work in this fascicle — all twenty couplets — awaits review by Tamil scholars before any claim beyond "draft" is made for it.
+
+
+* * *
+
+FASCICLE I OF THE COMPLETION: COUPLETS 140–159
+
+(The chapter titles for Chapters XIV–XVI are given in Ellis's manner — "On the Possession of…" — for chapters he did not live to title; the couplet headings follow his printed practice of a Roman numeral within the chapter, with the continuous couplet number added for the completion.)
+
+
+* * *
+
+
+
+CHAPTER XIV — ON THE POSSESSION OF RIGHT CONDUCT
+
+(ஒழுக்கமுடைமை — Oḻukkam-uṭaimai. This fascicle opens with the chapter's closing couplet; couplets I–IX of the chapter stand in the queue for the following fascicle, to complete the chapter in its place.)
+
+
+
+X (140)
+
+உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும் கல்லார் அறிவிலாதார்
+
+Let him who cannot with the world in concord dwell, Although he has learned much, be judged unlearnèd still.
+
+Note. — Oṭṭa oḻukal, "to cleave and walk": to steer one's course by the compass of the Worthies' usage — as the great have walked, so walk.
+
+
+* * *
+
+
+
+CHAPTER XV — ON NOT COVETING ANOTHER'S WIFE
+
+(பிறனில்விழையாமை — Piṟaṉil-viḻaiyāmai)
+
+
+
+I (141)
+
+பிறன்பொருளாட் பெட்டொழுகும் பேதைமை ஞாலத்து அறம்பொருள் கண்டார்கண் இல்
+
+The foolish lust that would another's wife embrace In those who virtue know, and wealth, finds no abiding-place.
+
+Note. — Piṟaṉ-poruḷ, "another's goods": the wife is here reckoned in her husband's treasure, and guarded as his gold.
+
+
+
+II (142)
+
+அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை நின்றாரின் பேதையார் இல்
+
+Of all who stand outside the gates of right, No fools excel the fools at others' gates by night.
+
+Note. — Kaṭai, a gate: aṟaṉ-kaṭai, the outer gate of virtue, shut against the wanderer; piṟaṉ-kaṭai, the neighbour's threshold where he loiters.
+
+
+
+III (143)
+
+விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில் தீமை புரிந்தொழுகுவார்
+
+Not other than the dead are they in truth, Who work their evil in a trusting friend's own house.
+
+Note. — Teḷindār, "the clear-minded": friends whose hearts were clear of suspicion, in whose houses the traitor was trusted.
+
+
+
+IV (144)
+
+எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும் தேரான் பிறனில் புகல்
+
+However great their power, what gain have they of life, Who weigh not e'en a grain, but steal to another's wife?
+
+Note. — Tiṉai, a millet: not a grain of shame or of reflection interposes between the thought and the act.
+
+
+
+V (145)
+
+எளிதென இல்லிறப்பான் எய்தும் எஞ்ஞான்றும் விளியாது நிற்கும் பழி
+
+Who thinks it light, and breaks another's door, Shall gain a guilt that dies not, stands for evermore.
+
+Note. — Ill-iṟappāṉ, "the house-breaker," lit. he who passes beyond (into) a house; his disgrace outlives him.
+
+
+
+VI (146)
+
+பகைபாவம் அச்சம் பழியென நான்கும் இகவாவாம் இல்லிறப்பான் கண்
+
+Enmity, guilt, and fear, disgrace the fourth beside — These leave the house-invader never, wheresoe'er he bide.
+
+Note. — Ikavā, "they shall not leave him": a household retinue that cannot be dismissed.
+
+
+
+VII (147)
+
+அறனியலான் இல்வாழ்வான் என்பான் பிறனியலாள் பெண்மை நயவாதவன்
+
+"That man's the righteous householder," men say, "Who craves not her who walks by another's sway."
+
+Note. — Piṟaṉ-iyalāḷ, "she whose conduct is by another's rule" — the wife, whose goings are under her husband's government.
+
+
+
+VIII (148)
+
+பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு அறனொன்றோ ஆன்ற ஒழுக்கு
+
+Manhood that never glances at another's wife to see, The noble count not virtue's part — virtue's-whole-fulfilment be.
+
+Note. — Āṉṟa, "full-grown, complete": not one virtue among many, but discipline come to its full stature.
+
+
+
+IX (149)
+
+நல்குரியார் யாரெனின் நாமநீர் வைப்பிற் பிறர்க்குரியாள் தோள்தோயாதார்
+
+Ask who deserve all good in this dread sea-girt sphere: Who never touch the shoulder of her another holds dear.
+
+Note. — Nāma-nīr, "the water of dread": the sea that rings the world; tōḷ, the shoulder — the first approach of touch forbidden.
+
+
+
+X (150)
+
+அறன்வரையான் அல்ல செயினும் பிறன்வரையாள் பெண்மை நயவாமை நன்று
+
+Though virtue bound him not, though evil be his deed, 'Tis good if he forbear the wife within another's bound.
+
+Note. — Varai, a limit or fence; each wife within her husband's fence is not thy field.
+
+
+* * *
+
+
+
+CHAPTER XVI — ON THE POSSESSION OF FORBEARANCE
+
+(பொறையுடைமை — Poṟaiyuṭaimai. This fascicle carries the chapter's first nine couplets; the tenth (160) closes the chapter in the following fascicle.)
+
+
+
+I (151)
+
+அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை இகழ்வார்ப் பொறுத்தல் தலை
+
+As earth bears those who dig her, nor resents the wound, So bear with them that scorn thee: virtue's head is here found.
+
+Note. — Akaḻvār, the diggers: the spade is borne by the very clod it cuts.
+
+
+
+II (152)
+
+பொறுத்தல் இறப்பினை என்றும் அதனை மறத்தல் அதனினும் நன்று
+
+To bear with wrong is ever good, men say; To forget the wrong — better, a nobler way.
+
+Note. — Iṟappu, "excess": the wrong that overshoots all bounds; to forget is to let even the memory go.
+
+
+
+III (153)
+
+இன்மையுள் இன்மை விருந்தொரால் வன்மையுள் வன்மை மடவார்ப் பொறை
+
+The want of wants — a guest unfed dismissed; The might of might — the fool in patience blest.
+
+Note. — Virunt-orāḷ, "to let the guest pass by": hospitality refused is the depth of poverty; maṭavār, the ignorant.
+
+
+
+IV (154)
+
+நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை போற்றி ஒழுகப் படும்
+
+If thou wouldst have thy perfect worth depart thee never, Cherish patience in thy walk, and keep her rule for ever.
+
+Note. — Niṟai, "fullness": virtue at the brim, kept from leaking away by the vessel of forbearance.
+
+
+
+V (155)
+
+ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர் பொறுத்தாரைப் பொன்போற் பொதிந்து
+
+The vengeful count as nothing with the wise of earth; The patient they lay up like gold, beyond all price and worth.
+
+Note. — Poṭindu, "wrapped up": as gold is folded in its coverings and treasured from the thief.
+
+
+
+VI (156)
+
+ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப் பொன்றுந் துணையும் புகழ்
+
+One day of joy the vengeful heart may claim; Till all shall perish stands the patient name.
+
+Note. — Poṉṟum tuṇaiyum, "until destruction (of the world) itself": fame that lasts until all things fail.
+
+
+
+VII (157)
+
+திறனல்ல தற்பிறர் செய்யினும் நோநொந்து அறனல்ல செய்யாமை நன்று
+
+Though others do thee wrong with deeds unmeet, Grieve thou for them; do thou no wrong to meet.
+
+Note. — Tiṟaṉ-alla, "things of the wrong kind," unbefitting; the grief is sorrowing for the wrong-doer, after Parimelazhagar.
+
+
+
+VIII (158)
+
+மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம் தகுதியான் வென்று விடல்
+
+By thine own worth alone o'ercome the deeds of pride; Let patience answer wrong, and victory shall abide.
+
+Note. — Tagudi, "fitness, one's own excellence": conquer the overbearing, says the gloss, by thy forbearance alone.
+
+
+
+IX (159)
+
+துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய் இன்னாச்சொல் நோற்கிற்பவர்
+
+Than hermits pure are they, who calm endure The harsh words of the lawless, and keep their spirit pure.
+
+Note. — Iṟandār, not "the dead," but those who have overpassed (the bounds): men who have stepped beyond the path of right conduct.
+
+
+* * *
+
+End of Fascicle I of the Completion (couplets 140–159: Chapter XIV, closing couplet; Chapter XV, entire; Chapter XVI, couplets I–IX). The remainder of the Book of Virtue, couplets 131–139 and 160–380, follows in subsequent fascicles of the completion, under the same banner and subject to the same review.
