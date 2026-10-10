@@ -1,0 +1,313 @@
+AN EXACT INVESTIGATION OF THE INFINITE DOUBLE PRODUCTS
+
+
+
+From which the elliptic functions are composed as quotients — §§1–2: the definition of the double product and the proof of convergence
+
+
+
+From Beiträge zur Theorie der elliptischen Functionen VI, in Mathematische Abhandlungen (Berlin: G. Reimer, 1847)
+
+Gotthold Eisenstein (1823–1852)
+
+A fresh English translation, made from the German of 1847.
+
+The Boneyard — Rescued Works
+
+
+* * *
+
+> DRAFT — NOT FOR PUBLICATION. This edition is offered as a working draft. It awaits review by a working mathematician (number theory / analysis) and by a reader of the period German, including collation of the translation against the page images of the printed original, before any publication. No claim in it should be quoted as settled until those reviews are done.
+
+Public domain source text; modern edition (c) editor, free redistribution.
+
+
+* * *
+
+
+
+DEDICATION
+
+Who he was. Ferdinand Gotthold Max Eisenstein (1823–1852), the Berlin prodigy whom Gauss championed and Humboldt bankrolled — the boy who at fourteen had outrun his Gymnasium, at seventeen was sitting in Dirichlet's university lectures, and at twenty-one was publishing in Crelle's Journal papers that made the old masters take notice. His name survives in the daily working vocabulary of mathematics — the Eisenstein integers, Eisenstein's criterion for the irreducibility of polynomials, the Eisenstein series of the theory of modular forms — but the memoirs in which he earned those names have waited outside English for nearly one hundred and eighty years.
+
+His home and circumstances. Born in Berlin on 16 April 1823, the son of Johan Konstantin Eisenstein and Helene Pollack, he survived the infant meningitis that killed his brothers and sisters, and grew up a frail, brilliant, musical boy. At fourteen he entered the Friedrich Werder Gymnasium; by fifteen the school had nothing left to teach him, and he went to Euler and Lagrange on his own account. In 1843 he travelled to Dublin and met William Rowan Hamilton, who put Abel's proof of the impossibility of solving the quintic into his hands and so turned him toward research. August Crelle, the founder of the Journal für die reine und angewandte Mathematik, discovered the young man's genius and introduced him to Alexander von Humboldt, who became his patron; Humboldt sent him to Gauss at Göttingen in 1844, and Gauss's enthusiasm — talents, he wrote to Humboldt on 14 April 1846, such as nature bestows on only a few in each century — made the twenty-three-year-old famous overnight. Breslau gave him an honorary doctorate in 1845; he took his post-doctoral degree at Berlin in 1847 and lectured there. In March 1848 the revolutions caught him: dragged from a house during the street fighting of 19 March and held overnight in the citadel at Spandau, he was released the next day, but the mistreatment broke something in his already fragile health, and the whisper that he was a "republican" dried up the money that had kept him alive.
+
+His death. In late July 1852 he suffered a severe hemorrhage; Humboldt raised the funds to send him to Sicily to recover, but the money came too late. He died of pulmonary tuberculosis in Berlin on 11 October 1852, aged twenty-nine, in what the biographers call forlorn solitude — and the eighty-three-year-old Humboldt walked behind his coffin to the grave.
+
+Why this work is vital — to prove his logic. The memoir translated here is the sixth of his "Contributions to the theory of elliptic functions" (1847): the exact investigation of the infinite double products from which elliptic functions are composed as quotients. Watch what he does in these opening sections. He defines the double product, throws out the degenerate cases by a ruthless three-way case analysis on the ratio of his two periods, and then — because no one had ever proved such a thing — stops everything to prove the general convergence lemma for r-fold series that his whole theory needs, counting lattice points in dyadic blocks in an argument that still appears, in essence, in the textbooks. Then he turns the ratio test itself into a fine instrument, squeezing the convergence of his logarithmic series between two bounds that both tend to M(x)/M₀. This is a twenty-four-year-old doing analysis the way Gauss did arithmetic: from the definitions, with nothing taken on trust. The famous irreducibility criterion that bears his name was born the same year, in a letter to Gauss of 18 August 1847 about the division of the lemniscate — Abel's theorem proved by noticing something about coefficients, on the same path Gauss himself had walked in 1797 without publishing. Read these pages and that letter together and you see the same mind at work: find the hidden structure, then prove that it must be so.
+
+His relation to this series. The Boneyard keeps works the world shelved before it finished listening. Eisenstein's 1847 volume — printed with a preface by Gauss himself — gathered the higher arithmetic and the elliptic functions of his four working years; the century absorbed his theorems and forgot to read his proofs. The double-product memoir, which the histories call fundamental but seldom quoted, has, after the research recorded in the notes, no English translation to its name. So here is its opening movement, carried across at last — because he proved his logic, and then the tuberculosis took him at twenty-nine, and the book waited.
+
+— The Editor
+
+
+
+A note on this edition
+
+This volume translates, complete, the opening movement — §§1–2 — of one memoir by Gotthold Eisenstein:
+
+- Genaue Untersuchung der unendlichen Doppelproducte, aus welchen die elliptischen Functionen als Quotienten zusammengesetzt sind, und der mit ihnen zusammenhangenden Doppelreihen (als eine neue Begründungsweise der Theorie der elliptischen Functionen, mit besonderer Berücksichtigung ihrer Analogie zu den Kreisfunctionen) [Exact investigation of the infinite double products from which the elliptic functions are composed as quotients, and of the double series connected with them (as a new foundation of the theory of elliptic functions, with particular regard to their analogy with the circular functions)], Beiträge zur Theorie der elliptischen Functionen VI, in Mathematische Abhandlungen, besonders aus dem Gebiete der höhern Arithmetik und der elliptischen Functionen (Berlin: G. Reimer, 1847), vol. pp. 213–230 [= Journal für die reine und angewandte Mathematik 35 (1847), pp. 153–170]. The memoir as a whole runs to vol. pp. 213–334; the remainder (§3 to the end) is mapped in the notes file (NOTES.md), as are the volume's other memoirs.
+
+These two sections are the founding act of the memoir and a complete movement in themselves: §1 defines the infinite double product, excludes the degenerate cases of the period ratio, and proves — as a lemma the theory cannot do without — the convergence of r-fold numerical series; §2 applies the lemma to prove the convergence of the logarithmic series of the product, by a ratio argument of Eisenstein's own devising. The conditionally convergent coefficient series and their rearrangements, announced at the close of §2 as the "third problem," belong to §3 and are not translated here.
+
+The translation was made from the digitised 1847 Reimer edition (Internet Archive item `mathematischeabh00eiseuoft`, the Toronto copy; a second 1847 copy, `10053424bsb`, served as collation witness; file checksums are pinned in NOTES.md). The author died in 1852; the text is public domain. The machine-read text is good in the prose and treacherous in the displays — Fraktur α, β, γ, subscripts and fractions suffer — and the translation therefore brackets what it cannot certify: uncertain readings are bracketed, never silently repaired; the handful of load-bearing displays (the two product forms, the logarithmic series (1.), the r-fold lemma and its constant C, the quotient bounds of §2) were reconstructed from the surrounding argument and are flagged wherever the machine text could not certify them. Page anchors in the form [1847, p. n] refer to the printed pagination of the 1847 volume.
+
+His notation stands. His analytischer Modul M(u) is the modulus (absolute value) of the complex number u; his accented sums ∑′ are sums over restricted index sets, the restriction stated in place; his (α.) and (β.) are his labels for the two systems of coefficients in the lemma. The names by which the century knows the results — the Eisenstein integers, Eisenstein's criterion, the Eisenstein series — are the textbooks' and the historians', and they live in the dedication and the notes, not in his text. It was made without consulting any modern copyrighted translation; no English translation of this memoir was found after research, though its results are restated wherever elliptic functions are taught.
+
+One correction of the record: the brief for this build described its author as Danzig-born. He was not — the biographical sources (MacTutor, the auction-house biography, the encyclopaedia entries) agree he was born in Berlin on 16 April 1823. The dedication prints Berlin.
+
+
+* * *
+
+
+* * *
+
+THE MEMOIR
+
+
+
+§1. The double product, its degenerate cases, and the convergence lemma [1847, pp. 213–227]
+
+Just as, with the circular functions, there occur infinite products whose factors are defined by vanishing in succession for all the values of the variable which are terms of an arithmetical progression continued to both sides — that is, for all values of the form αm + β, where m runs through all whole numbers (positive, negative, and zero) from −∞ to ∞ and α, β denote constants — so the elliptic functions are composed of infinite double products, in which the root-values of the individual factors are determined by the terms of an arithmetical progression with double entry, that is, by the terms of a double series whose general term has the form αm + βn + γ, where m and n run simultaneously and independently of one another through all whole values from −∞ to ∞. The infinite products occurring with the circular functions are therefore of the form
+
+[the printed display, reconstructed from the machine-read text: ∏m (1 − x/(αm + β))]
+
+and the infinite double products occurring with the elliptic functions are of the form
+
+[the printed display, reconstructed from the machine-read text: ∏m,ₙ (1 − x/(αm + βn + γ))].
+
+Before I pass to the exact investigation of these latter infinite double products, I wish first to linger a moment over the consideration of the expression αm + βn + γ itself, in which the three constants α, β, γ may in general have any complex values whatever. Put
+
+u = αm + βn + γ.
+
+This expression u may be regarded as a form by which certain values can be represented. The nature of the expression in this respect evidently depends principally on the ratio of the two coefficients α and β, while γ plays only a subordinate role. If α stands to β in a real and rational ratio — that is, if the quotient α/β is equal to a real and rational number — then the expression u represents every value it represents infinitely often; that is, there are then in each case infinitely many associated pairs of whole values m, n for which u takes one and the same value. For suppose, when this case occurs, that α/β expressed in lowest terms = μ/ν, where μ and ν are whole numbers without common divisor, and put α = μd, β = νd; then [the printed computation, garbled in the machine text, shows u = d(μm + νn) + γ], and since here the expression μm + νn represents every whole number, and each infinitely often, the values of the expression u are nothing but the values of d·(whole number) + γ, each written, as it were, infinitely often. In other words, u represents only the terms of a simple arithmetical progression, but each of them infinitely often. In this case the infinite double product would therefore be nothing but an infinite simple product in which each factor had been written infinitely often; the value of the product would thus always be infinitely great, and for this reason the case is to be unconditionally excluded. For the same reasons the case is of course to be excluded in which one of the two coefficients α, β (or even both) is zero. If, secondly, α stands to β in a real but irrational ratio — say β = ωα with ω real but irrational — then the expression u becomes
+
+u = α(m + nω) + γ.
+
+Here, since ω is irrational, m + nω can, by a known theorem, come as close as one wishes to any prescribed real magnitude, and this for infinitely many pairs m, n; u can therefore likewise come arbitrarily close, for infinitely many whole values m, n, to every value of the form αk + γ, where k is arbitrary real. But this consequence is, with regard to the infinite double product, just as inadmissible as that of the first case, and so the second case is to be rejected like the first — unless one were to stipulate that m and n are not to take all whole values, but only such as satisfy some further condition, e.g. that an expression α′m + β′n + γ′ similar to u, or rather its analytical modulus, shall always remain enclosed between quite definite bounds. There remains the third case, when α stands to β in an imaginary ratio — that is, when [the imaginary part of the quotient of the two complex numbers α and β is different from zero; the machine text reads "real part," evidently misread]. This case does not have the difficulties of the other two; for whereas there the number of whole values of m and n for which the analytical modulus of u lies between definite bounds is always infinitely great as soon as it is different from 0 — that is, as soon as any value of the modulus of u at all falls between those bounds — here, on the contrary, this number is always finite and bounded. Let the analytical modulus of a complex number be denoted by the letter M, so that M(p + qi) = √(p² + q²) when p and q are real; let further α = a + a′i, β = b + b′i, γ = c + c′i. Putting am + bn + c = v, which is the real part of u, and a′m + b′n + c′ = v′, which is the coefficient of i in u, one gets M(u) = √(v² + v′²). If now M(u) is to lie between certain bounds, then a fortiori v and v′, apart from sign, must lie between the same bounds; hence v − c and v′ − c′ also lie between quite definite bounds; and since the determinant ab′ − ba′ of the linear system of equations
+
+am + bn = v − c, a′m + b′n = v′ − c′,
+
+by which m and n can be expressed in v − c and v′ − c′, is in our case different from 0, m and n too are enclosed between definite bounds; and since between these there lie only a finite number of whole values, there exist a fortiori only a finite number of pairs of whole values m, n for which M(u) lies between the given bounds. In particular, then, there is only a finite number of combinations m, n which make the analytical modulus of u smaller than any given positive value. We shall therefore henceforth always presuppose the ratio of the two coefficients α and β to be imaginary. These considerations are not new, but it did not seem to me out of place to emphasize them particularly here.
+
+The properties of a product are best investigated by considering the logarithms of the individual factors. The variable x in our product ∏(1 − x/u) is presupposed to be arbitrary complex. The logarithm of 1 − x/u can be developed in a convergent series in powers of x as soon as M(u) > M(x); it is therefore expedient to exclude from the product, for the present, those factors in which M(u) < M(x). The number of factors to be excluded is, by the preceding, finite; and let the product of the rest be denoted by
+
+[the printed product ∏′, reconstructed from the machine text]
+
+in which, then, m and n run only through those whole values which satisfy the condition M(u) ≥ M(x). Under this presupposition,
+
+log(1 − x/u) = −x/u − (1/2)(x/u)² − (1/3)(x/u)³ − ⋯ etc.,
+
+and consequently the logarithm of the whole product is
+
+(1.) −x∑′ 1/u − (x²/2)∑′ 1/u² − (x³/3)∑′ 1/u³ − ⋯ etc.,
+
+[the printed display (1.), reconstructed from the machine-read text]
+
+the sums with the accented sign ∑′ extending likewise only over those whole values of m and n which satisfy the condition M(u) ≥ M(x), and the arrangement of the values of u in these double sums — that is, the order in which the terms are added — being the same as that in which the factors of the product are to be multiplied. This transformation of the logarithm of the product is legitimate as soon as one can show that the sums forming the coefficients of the series (1.) are convergent, and that the series (1.) itself converges independently of the order of its terms — hence even when all terms are replaced by their analytical moduli. As for the coefficients of the series first: I shall prove that, from the third on inclusive — that is, the coefficients of x³, x⁴, x⁵, in inf. — they not merely converge, but are even wholly independent of the arrangement of the values u, and always take quite definite and ever the same values, in whatever order the terms of the sums are made to follow one another in the addition. The coefficients of x and x², on the other hand — namely the sums ∑′ 1/u and ∑′ 1/u² — may indeed be convergent if their terms are added in a suitable order, but they are neither always convergent, for every order, nor do they always keep the same value when one passes from one arrangement of the terms, for which they converge, to another. For the sums
+
+[the printed display, reconstructed: ∑′ 1/M(u)μ, μ > 2]
+
+converge independently of the arrangement of the terms, and even when all terms are replaced by their analytical moduli, as often as the exponent μ > 2. If in fact all terms in this series are replaced by their analytical moduli — resolving α, β, γ into their complex values α = a + a′i, β = b + b′i, γ = c + c′i and accordingly putting u = am + bn + c + i(a′m + b′n + c′) — one obtains
+
+[the printed display, reconstructed: ∑′ 1/((am+bn+c)² + (a′m+b′n+c′)²)μ/²],
+
+so that it is merely to be proved that
+
+[the printed display, reconstructed: ∑′ 1/((am+bn+c)² + (a′m+b′n+c′)²)μ/²]
+
+converges when μ > 2. This theorem is only a special case of a far more general one which, since it may be of use in other investigations too, I shall expound here in what follows. The r-fold series
+
+[the printed display, reconstructed from the machine-read text: ∑ 1/(m₁² + m₂² + ⋯ + mᵣ²)μ,]
+
+in which all the indices m₁, m₂, m₃, …, mᵣ run through all whole values from −∞ to ∞, with the exclusion of the single combination m₁ = 0, m₂ = 0, …, mᵣ = 0, converges when μ > r/2.
+
+One first proves that the series converges when the indices run merely through all positive whole values. Divide the whole series, under this latter presupposition, into partial series, in such a way that in the one of these partial series which I denote by (k₁, k₂, …, kᵣ) the indices are subject to the following restrictions:
+
+(k.) { 2k₁ ≤ m₁ < 2k₁⁺¹, 2k₂ ≤ m₂ < 2k₂⁺¹, ⋮ 2kr ≤ mᵣ < 2kr⁺¹, }
+
+where k₁, k₂, …, kᵣ may in combination take in succession each of the numbers 0, 1, 2, 3, 4, in inf. The number of values satisfying these restrictions amounts, for each single index, to 2k⁺¹ − 2k = (2 − 1)2k = 2k; hence the number of combinations of the indices m₁, m₂, …, mᵣ satisfying those conditions is evidently 2k₁·2k₂⋯2kr = 2rκ, if κ = (k₁ + k₂ + ⋯ + kᵣ)/r denotes the arithmetical mean of all the k; this is the number of terms of the partial series. As for the terms themselves: from the above inequalities one draws the following:
+
+2²κ⁻² ≤ m₁² + m₂² + ⋯ + mᵣ² < r·2²κ⁺²,
+
+[inequality reconstructed from the machine-read text; the exact constants are bracketed in the notes]
+
+whence a fortiori [each term] ≤ C₀/2²μκ for a constant C₀; and since their number, as already remarked, amounts to 2rκ, the sum of all terms of the partial series is not greater than
+
+C₀·2rκ/2²μκ = C₀·2(r⁻²μ)κ.
+
+The sum of all partial series for which k₁, k₂, …, kᵣ are all not greater than the definite number k is consequently not greater than
+
+∑k₁,…,kᵣ ≤ k 2(r⁻²μ)κ = (∑j=₀k 2j(r⁻²μ)/r)r < (1/(1 − 2(r⁻²μ)/r))r,
+
+[the printed display of the geometric sum, reconstructed from the machine-read text]
+
+this geometric series converging for k = ∞ as soon as 2(r⁻²μ)/r < 1 — that is, as soon as μ > r/2 — and then having a finite sum. The sum of all these partial sums — that is, the sum of all terms of the proposed series for which the indices satisfy the conditions 0 < m₁ < 2k⁺¹, …, 0 < mᵣ < 2k⁺¹ — is therefore smaller than a fixed finite bound, provided only that the exponent μ is greater than half the order r of the series. Since now, when the summations in the proposed series extend from m₁ = 1 to m₁ = M₁, m₂ = 1 to m₂ = M₂, …, mᵣ = 1 to mᵣ = Mᵣ, one can always take k so large that 2k⁺¹ becomes greater than the greatest of the numbers M₁, M₂, …, Mᵣ, the convergence of the series is hereby proved — and at the same time it is proved that its sum is [bounded by the constant above], for positive as for negative values of the indices the series takes the same value, since in it only the squares of the indices occur. There remains the case when one or more of the indices — say σ of them, where 0 < σ < r — have the value zero; that is, there remain to be considered those terms of the originally proposed series in which σ indices receive the value zero. This part of the series may be regarded as an (r − σ)-fold sum of the same form as the proposed one, with the r − σ non-vanishing remaining indices, which by the preceding certainly converges, since a fortiori μ > (r − σ)/2 when μ > r/2 already held. Since in this way the original series is composed of a finite number of convergent series, it converges likewise. One could moreover just as easily show that it necessarily diverges as soon as μ ≤ r/2. In the same way one could also prove the still more general theorem, that the r-fold series [display in the original; the machine text garbles it] converges or diverges according as μ is greater or smaller than [the stated bound]: only one must remark that the sum may comprise only positive values of the indices when r is odd. [The precise form of this generalization could not be certified from the machine-read text; see the notes.]
+
+The theorem just proved, on the convergence of a class of r-fold numerical series, serves only as an auxiliary theorem, to establish the convergence of a more general class, which encloses a great number of constant coefficients. For take any system of r² real constants
+
+(α.) { a₁⁽¹⁾, a₂⁽¹⁾, …, aᵣ⁽¹⁾; a₁⁽²⁾, a₂⁽²⁾, …, aᵣ⁽²⁾; ⋮ a₁⁽r⁾, a₂⁽r⁾, …, aᵣ⁽r⁾ }
+
+subject to the single condition that the determinant formed from the system shall be different from 0, and form with the help of these constants as coefficients r linear homogeneous combinations w of the r indices m₁, m₂, …, mᵣ, namely wᵢ = a₁⁽i⁾m₁ + ⋯ + aᵣ⁽i⁾mᵣ; take further r other real constants c₁, c₂, …, cᵣ and form the combination
+
+β = (w₁ + c₁)² + (w₂ + c₂)² + ⋯ + (wᵣ + cᵣ)²,
+
+[the printed positive form, reconstructed from the machine-read text]
+
+which is to be regarded as a function of the r indices m₁, m₂, …, mᵣ and represents, in so far, the most general positive form of the second degree in r variables; then I assert that the r-fold series
+
+[the printed display, reconstructed: ∑ 1/βμ]
+
+in which all indices m run independently of one another through all whole values from −∞ to ∞,[^1] converges likewise, as soon as the exponent μ > r/2. Choose any system of r non-negative whole numbers k₁, k₂, …, kᵣ and consider all whole values of the indices m₁, m₂, …, mᵣ which satisfy the following r conditions:
+
+(k.) k₁ ≤ M(w₁ + c₁) < k₁ + 1, …, kᵣ ≤ M(wᵣ + cᵣ) < kᵣ + 1,
+
+of which kσ ≤ M(wσ + cσ) < kσ + 1 is the general form. The number of these values is always finite and can be enclosed in quite definite bounds, which are independent of the whole numbers k₁, k₂, …, kᵣ. For if the linear equations expressing the w through the m are solved algebraically for the m, one obtains a quite definite system of r² new coefficients
+
+(β.) { b₁⁽¹⁾, b₂⁽¹⁾, …, bᵣ⁽¹⁾; b₁⁽²⁾, b₂⁽²⁾, …, bᵣ⁽²⁾; ⋮ }
+
+by whose help the m are expressed linearly through the w, as follows:
+
+mj = bj⁽¹⁾w₁ + bj⁽²⁾w₂ + ⋯ + bj⁽r⁾wᵣ.
+
+But this requires essentially that the determinant of the system (α.), and hence also that of the system (β.), be different from zero, as we have presupposed. Since now in the inequalities (k.) the moduli of quantities of the form w + c occur, it is convenient to express w + c through M(w + c) and to put w + c = εM(w + c), where ε may be +1 as well as −1, since w + c may be taken positive as well as negative. Put namely
+
+w₁ + c₁ = ε₁M(w₁ + c₁), w₂ + c₂ = ε₂M(w₂ + c₂), etc.,
+
+where each of the letters ε₁, ε₂, etc. may have either of the two values ±1; the number of these sign-combinations is 2r. Each of the equations of the form
+
+m = b⁽¹⁾w₁ + b⁽²⁾w₂ + ⋯ + b⁽r⁾wᵣ,
+
+where the lower index of m and of b may be any one from the series 1, 2, 3 to r, can first be brought to the form
+
+m = b⁽¹⁾(w₁ + c₁) + ⋯ + b⁽r⁾(wᵣ + cᵣ) − (b⁽¹⁾c₁ + ⋯ + b⁽r⁾cᵣ),
+
+and then to the form
+
+m = ε₁b⁽¹⁾M(w₁ + c₁) + ⋯ + εᵣb⁽r⁾M(wᵣ + cᵣ) − (b⁽¹⁾c₁ + ⋯ + b⁽r⁾cᵣ)
+
+= Σσ εσb(σ)M(wσ + cσ) − Σσ b(σ)cσ,
+
+where in the sums σ takes the values 1, 2, 3, …, r. Now each inequality of the form
+
+k ≤ M(w + c) < k + 1,
+
+in which the lower index of k, w, and c may be any number σ from the series (α.), yields, when multiplied by εb, where the lower index of ε and the upper of b is likewise σ, another, either of the form
+
+εbk ≤ εbM(w + c) < εbk + εb
+
+or of the form
+
+εbk + εb < εbM(w + c) ≤ εbk,
+
+according as εb is positive or negative. Adding all these inequalities, which correspond to the different values of σ, and taking account of the just-mentioned difference of form, one obtains
+
+p + Σ εσb(σ)kσ ≤ Σ εσb(σ)M(wσ + cσ) < q + Σ εσb(σ)kσ,
+
+[reconstructed from the machine-read text]
+
+where p denotes the sum of all negative and q the sum of all positive terms of the series ε₁b⁽¹⁾, ε₂b⁽²⁾, …, εᵣb⁽r⁾. Subtracting in this last inequality the quantity Σb(σ)cσ from all terms, what stands between the inequality signs becomes, by the above, the value of m, and one obtains [p − Σb(σ)cσ + Σεσb(σ)kσ ≤ m ≤ q − Σb(σ)cσ + Σεσb(σ)kσ]. If a whole number m is, as here, enclosed between two real bounds, or coincides with them, the number of its values can never be greater than the difference of the bounds increased by one unit; here the difference of the bounds is evidently q − p, that is, equal to the sum of the absolute values of the quantities ε₁b⁽¹⁾, ε₂b⁽²⁾, …, εᵣb⁽r⁾, hence = Σσ M(b(σ)); and the number of values of m enclosed between these bounds, or coinciding with them, is therefore at most = 1 + Σσ M(b(σ)). The inequality by which m is enclosed between definite bounds stands for r inequalities, which arise from it when m and the b are furnished in succession with each of the numbers from the series (α.) as lower index; hence the number of values of m₁, of m₂, of m₃, etc., which satisfy these conditions in succession, is at most and respectively
+
+1 + Σσ M(b₁(σ)), 1 + Σσ M(b₂(σ)), 1 + Σσ M(b₃(σ)), etc.;
+
+the number of combinations of whole values m₁, m₂, …, mᵣ which satisfy all these r conditions at once is consequently at most equal to the product
+
+[1 + Σσ M(b₁(σ))] [1 + Σσ M(b₂(σ))] ⋯ [1 + Σσ M(bᵣ(σ))],
+
+[reconstructed from the machine-read text]
+
+and since these conclusions hold for each of the 2r sign-combinations by which the values of ε₁, ε₂, …, εᵣ are determined, and to each of which such a system of inequalities for m₁, m₂, …, mᵣ corresponds, the number of all combinations of whole values m₁, m₂, …, mᵣ satisfying the conditions (k.) is in all certainly never greater than
+
+C = 2r ∏j=₁r (1 + Σσ=₁r M(bj(σ))).
+
+[reconstructed from the machine-read text; the exact symbols are bracketed in the notes]
+
+If this last product is denoted by C, then that number can never be greater than the constant C, which, as was asserted, is wholly independent of the whole numbers k₁, k₂, …, kᵣ and always remains the same, whatever values one gives to the latter. In general: if k₁, k₂, …, d₁, d₂, … are any 2r positive values, then the number of combinations of whole m satisfying the conditions kᵢ ≤ M(wᵢ + cᵢ) < kᵢ + dᵢ is always ≤ 2r∏(1 + ΣdσM(b(σ))); and if k₁, k₂, … are any real and d₁, d₂, … any positive values, then the number of combinations of whole m satisfying kᵢ ≤ wᵢ + cᵢ < kᵢ + dᵢ is always ≤ ∏(1 + ΣdσM(b(σ))). The upper bound for these numbers is therefore always independent of the numbers k₁, k₂, …, and depends only on the differences d₁, d₂, …. [The two general counting bounds are carried here as faithful renderings of the argument's conclusion; the exact displays are garbled in the machine text — see the notes.] It is a most important theorem, indispensable in many applications concerning the generalization of special results, whose proof, however, so far as I have observed, is found nowhere. Should it nevertheless have been given somewhere already, I gladly renounce the priority — as I would gladly renounce it for many other things, if only I might thereby be spared the often very tiresome and time-consuming ransacking of all possible books, in which something might possibly have been hinted about this or that subject — the more so since my circumstances do not allow me always to have a rich literature at hand.
+
+If in the series ∑ 1/βμ one considers the complex of those terms for which the indices m₁, m₂, …, mᵣ satisfy the inequalities (k.): if this complex, which may be regarded as a partial series, is denoted by (k₁, k₂, …, kᵣ), and if in this expression (k₁, k₂, …, kᵣ) the various k are now made to run, independently of one another, through all non-negative whole values, then one evidently exhausts, through the totality of all the infinitely many partial series hereby arising, all terms of the series ∑ 1/βμ, and consequently
+
+∑ 1/βμ = ∑k₁,…,kᵣ ≥ 0 (k₁, k₂, …, kᵣ),
+
+if in the second sum k₁, k₂, …, kᵣ run through all whole values from 0 to ∞. On the other hand there follow from the inequalities (k.) the following:
+
+k₁² ≤ (w₁ + c₁)² < (k₁ + 1)², k₂² ≤ (w₂ + c₂)² < (k₂ + 1)², etc.,
+
+whence k₁² + k₂² + ⋯ + kᵣ² ≤ β < (k₁ + 1)² + ⋯ + (kᵣ + 1)²; and if not all k are equal to zero, there follows
+
+1/βμ ≤ 1/(k₁² + k₂² + ⋯ + kᵣ²)μ.
+
+[reconstructed from the machine-read text]
+
+Hence, with the exclusion of the partial series (0, 0, …, 0), all terms of the partial series (k₁, k₂, …, kᵣ) are not greater than 1/(k₁² + ⋯ + kᵣ²)μ; since the number of terms of this partial series is not greater than the constant C, which remains the same for all partial series, the sum of all terms of the partial series is not greater than C/(k₁² + ⋯ + kᵣ²)μ. This result holds for all partial series with the exclusion of the single (0, 0, …, 0). If therefore the series ∑ 1/βμ is decomposed into the partial series (0, 0, …, 0) and the sum of all remaining partial series, and the result just found is applied to each of these remaining ones — remarking particularly that C has the same value for all partial series — one obtains
+
+∑ 1/βμ < (0, 0, …, 0) + C·∑′ 1/(k₁² + ⋯ + kᵣ²)μ,
+
+where ∑′ is a sign of exclusion [of the all-zero combination]; since now the series (0, 0, …, 0) contains only a finite number, namely not more than C terms, and the series ∑′ 1/(k₁² + ⋯ + kᵣ²)μ, in which the indices k₁, k₂, …, kᵣ run through all non-negative whole values with the exclusion of the single combination 0, 0, …, 0, converges by the investigation carried out further above when μ > r/2, the convergence of the series ∑ 1/βμ is hereby also proved for the case μ > r/2.
+
+The double series ∑′ 1/M(u)μ, which differs from the other — in which ∑′ 1/uμ stands before the same general term — only by the accession of a finite number of initial terms, is evidently contained among the series just considered, if one puts r = 2 and adds the condition that the determinant ab′ − ba′ be different from 0. But this latter condition is fulfilled as soon as it is presupposed, as we have already assumed for other reasons, that the quotient
+
+α/β = (a + a′i)/(b + b′i) = (ab + a′b′)/(b² + b′²) + i·(a′b − ab′)/(b² + b′²)
+
+[reconstructed from the machine-read text]
+
+shall not be equal to any real number. Hence the series ∑′ 1/M(u)μ converges as soon as μ > 2, and consequently the original series ∑′ 1/uμ converges too, as does the series ∑′ 1/M(u)μ, in which m and n may run through all whole values without restriction, independently of the arrangement of the terms, as soon as μ > 2. If, however, μ ≤ 2, then these latter two series — even if they converge at all — certainly never converge independently of the arrangement of the terms; for it is not hard, with the help of the above principles, to prove the divergence of series of the form ∑′ 1/M(u)μ in all cases where μ ≤ r/2 [here r = 2]. There remains, however, a gap here: the question arises whether the converse of a known theorem is correct — whether a series converging independently of the arrangement of its terms always remains convergent when all terms of the series are replaced by their analytical moduli; whether one may therefore necessarily conclude, from the fact that a series passes into a divergent one when the analytical moduli are written in place of the terms, that the series in its original form cannot converge independently of the arrangement of its terms. If all terms of the series are real, then the sum of all positive, as well as the sum of all negative terms, must by itself form a convergent series, and therefore the sum of the absolute values of all terms converges too. But if the terms are complex (imaginary), bring the general term to the form r(cos φ + i sin φ), where r is the modulus of the term: then the two series whose general terms are r cos φ and r sin φ must also converge independently of the arrangement of the terms; and since in them the terms are real, they must keep this property even when for cos φ and sin φ only the absolute value is always put. Since now, apart from sign, |cos φ| < 1, |sin φ| < 1, and therefore cos²φ < |cos φ|, sin²φ < |sin φ|, the series whose general terms are r cos²φ and r sin²φ must a fortiori converge in the same sense, for they arise from the two preceding ones by diminishing the numerical value of all terms. Those series, now composed entirely of positive terms r cos²φ, r sin²φ, give by addition a likewise convergent series whose general term is r(cos²φ + sin²φ) = r — namely equal to the analytical modulus of the general term of the original series — and thus the cited theorem is placed beyond doubt. The strict separation of the series which owe their convergence to a particular arrangement, and which on a change of this arrangement partly become divergent and partly can change their sum, from those which converge wholly independently of the arrangement of the terms and always keep the same sum, in whatever order the terms are made to follow one another — is probably due principally to Dirichlet, who in his admirable memoir on the arithmetical progression enters into very interesting details on this subject.
+
+[^1]: At most a single combination of the indices can exist for which β = 0 — namely that for which all r quantities of the form w + c vanish; this combination, if it exists, is to be excluded from the series.
+
+
+
+§2. Convergence of the logarithmic series itself [1847, pp. 227–230]
+
+Now that the one of the three problems to which the series (1.) leads is discharged — namely the proof that the series of the form ∑′ 1/uμ and ∑′ 1/M(u)μ, when the exponent μ > 2, converge independently of the order of their terms — I pass to the proof of the convergence of the series (1.) itself, which still takes place even when all terms are replaced by their analytical moduli. First, any number of initial terms of the series may be omitted, since these can contribute nothing to convergence or divergence; for the following conclusions it is only necessary to omit the first two terms. Further, the numerical multipliers 1, 1/2, 1/3, … of the individual terms may likewise be omitted, since these multipliers do not diminish the convergence, if it takes place. What is at issue, then, is to prove the convergence of the following series:
+
+[the printed series, reconstructed from the machine-read text: ∑′ M(x)μ/M(u)μ, μ = 3, 4, 5, …]
+
+whose general term is M(x)μ/M(u)μ, and where μ runs through all whole positive values from 3 to ∞. By a known theorem, which in the geometrical representation of complex numbers (imaginary quantities) says nothing but that one side of a polygon is smaller than the sum of all the rest, or that the straight line is the shortest way between two points, one knows that the analytical modulus of a sum is smaller than (or at least not greater than) the sum of the analytical moduli of all the individual summands; one has consequently [the majorization], and if therefore the series converges whose general term is [M(x)μ/M(u)μ], then the proposed series will a fortiori converge — for since one diminishes all terms of the proposed series as soon as M(u)μ is substituted for uμ, the proposed series will certainly converge as soon as the new series possesses this property. The convergence of this latter series can be proved by the known methods in two ways: either by showing that the quotient of the (μ+1)-th term by the μ-th term converges, with growing μ, to a limit lying below unity, or by showing that the μ-th root of the μ-th term likewise converges, for growing μ, to a limit < 1. By the meaning of the sign ∑′ fixed above, the indices m and n in the sum ∑′ M(x)μ/M(u)μ take only such values as make M(u) ≥ M(x). Let M₀ be the smallest of the values which, under this restriction, the always-positive expression M(u) can take for all whole values of the indices, and let C be the number of combinations m, n for which M(u) = M₀ becomes; this number is, by the above, finite. Further let M₁ be the value of M(u) next in magnitude after this M₀ — that is, let M₁ be the smallest value which M(u) takes for all whole values of the indices under the restriction M(u) > M₀. The three quantities M(x), M₀, and M₁ then satisfy the inequality
+
+M(x) < M₀ < M₁,
+
+and the series ∑′ M(x)μ/M(u)μ can, if the C initial terms for which M(u) = M₀ are extracted, be given the form
+
+C·M(x)μ/M₀μ + ∑″ M(x)μ/M(u)μ,
+
+[reconstructed from the machine-read text]
+
+where the second sum extends over all those whole values of m and n for which M(u) > M₀, and for which therefore also M(u) ≥ M₁. If one chooses a definite number v which is > 2 — e.g. v = 3 — raises the inequality just written, which refers to all terms of the series ∑′, on both sides to the power μ − v, which for a sufficiently large μ (e.g. μ > 3) is always positive, and then multiplies both sides by [1/M(u)μ], one derives from that inequality the following:
+
+[the printed majorization display, reconstructed from the machine-read text: ∑′ M(x)μ/M(u)μ ≤ (M(x)/M₀)μ⁻v · ∑′ M(x)v/M(u)v]
+
+and this yields, when summed over all admissible combinations of the indices: [the two-sided estimate]. The latter sum ∑′ M(x)v/M(u)v is a quite definite constant, independent of μ; one has therefore found an upper bound for ∑′ M(x)μ/M(u)μ — namely, if the constant [expression] , for which one may take e.g. [K = ∑′ M(x)v/M(u)v], is denoted by K, then
+
+∑′ M(x)μ/M(u)μ ≤ K·(M(x)/M₀)μ⁻v.
+
+[reconstructed from the machine-read text]
+
+As a lower bound for the same sum there offers itself immediately the expression C·(M(x)/M₀)μ, and one has therefore:
+
+C·(M(x)/M₀)μ ≤ ∑′ M(x)μ/M(u)μ ≤ K·(M(x)/M₀)μ⁻v;
+
+[reconstructed from the machine-read text]
+
+if here μ + 1 is put in place of μ, there results
+
+C·(M(x)/M₀)μ⁺¹ ≤ ∑′ M(x)μ⁺¹/M(u)μ⁺¹ ≤ K·(M(x)/M₀)μ⁺¹⁻v.
+
+[reconstructed from the machine-read text]
+
+For the quotient of the sums standing between the signs in these two inequalities,
+
+[the printed quotient, reconstructed: (∑′ M(x)μ⁺¹/M(u)μ⁺¹) / (∑′ M(x)μ/M(u)μ)],
+
+one obtains a lower bound by dividing the lower bound in the second inequality by the upper bound in the first, and one obtains an upper bound for the same quotient by dividing the upper in the second by the lower in the first; after a simple reduction these two bounds of the quotient of the two sums become respectively
+
+[the printed bounds, reconstructed from the machine-read text: (C/K)·(M(x)/M₀)·(M₀/M₁)v-type expressions]
+
+[the machine-read text garbles the exact displays; the conclusion below is as printed]
+
+Since now, because M₀ < M₁, the power [(M₀/M₁)μ] vanishes for μ = ∞, both bounds converge for μ = ∞ to the same quantity M(x)/M₀; hence the above quotient also converges to the same limit M(x)/M₀. In the series whose convergence we are investigating, and whose general term is [M(x)μ/M(u)μ], the quotient of the (μ+1)-th by the μ-th term is now equal to the quotient just considered multiplied by M(x); the limit of that quotient for μ = ∞ is therefore
+
+M(x)/M₀,
+
+hence evidently < 1, because M₀ > M(x). And so forth. One could in the same way show that the μ-th root of [the general term] always lies between two bounds, both of which converge for μ = ∞ to M(x)/M₀, and the convergence of the series in question would likewise follow from this; but I will not dwell on this, and pass to the solution of the third problem — namely to the consideration of the sums ∑′ 1/u and ∑′ 1/u² — investigating in which order of the terms they converge and what modifications they undergo when one passes from one arrangement to another.
+
+[Here §2 ends; §3 follows in the original. The translation stops here by the slice ruling.]
