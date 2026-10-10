@@ -1,0 +1,179 @@
+THE TWO QUESTIONS RHYS DAVIDS LEFT OUT
+
+
+
+(front matter)
+
+THE TWO QUESTIONS RHYS DAVIDS LEFT OUT
+
+Completing The Questions of King Milinda, Book IV — the sixth and twenty-first dilemmas — rendered fresh from the Pali text of V. Trenckner (London, 1880), to stand where the classic English version of T. W. Rhys Davids (1890–94) falls silent.
+
+Rare & Obscure Books series.
+
+Public domain source texts (Trenckner, 1880; Rhys Davids, 1890–94). This modern edition and translation © the editor, free redistribution. Complete modern translations of the Milindapañha exist in copyright (I. B. Horner, 1963–64; Maria Heim, 2025) and were used as checks only, never as a base; no wording in this booklet is theirs.
+
+
+
+Dedication
+
+This booklet is dedicated to Thomas William Rhys Davids (12 May 1843 – 27 December 1922), who carried the Questions of King Milinda into English nearly whole, and stopped — twice — at the threshold of the body.
+
+He was born at Colchester in Essex, son of a Welsh minister and historian, and was schooled at Brighton before Breslau, where he took up Sanskrit under Stenzler and paid his way teaching English. In 1864 he entered the Ceylon Civil Service. Posted up-country, he found no one about him who knew Pali, and so learned it where it had been kept for two thousand years — from the Venerable Yātrāmulle Unnānse and the island's palm-leaf libraries. He served as district judge and archaeological commissioner, and made enemies doing it: accused of rash handling of the people, he had to quit the service in 1877 and come home to malaria, the Bar, and poverty of prospects. A less stubborn man would have kept the law. He founded the Pali Text Society instead, in 1881, and ran it for forty-one years — as he put it in his own statement of purpose, "to render accessible to students the rich stores of the earliest Buddhist literature now lying unedited and practically unused in the various MSS. scattered throughout the University and other Public Libraries of Europe." By 1922 the Society could point to more than 25,000 printed pages: all four great Nikāyas and nearly the whole remainder of the Canon in roman type, with Buddhaghosa's commentaries beside them. He held the chair of Pali at University College, London, from 1882 and of Comparative Religion at Manchester from 1905; he served the Royal Asiatic Society as secretary and librarian; he married his student Caroline Foley, herself a Pali scholar of the first rank. He died at Chipstead in Surrey on the day after Boxing Day, 1922, knowing two things unfinished: the great Pali–English dictionary he was building with William Stede, and — though the world never noticed — this.
+
+Why he matters, and why his work was vital: before Rhys Davids, the English-speaking world met Buddhism through a jungle of legend and second-hand doctrine. He insisted the West should read the texts themselves, in the language they survived in, and he built the institution that made that possible — a society run first as a book club on subscriptions, the King of Siam's donation at the head of the list. His Sacred Books of the East Questions of King Milinda (vols. XXXV and XXXVI, 1890 and 1894) has been the classic free English Milinda for a hundred and thirty years: a Greek king of the second century before Christ cross-questioning a Buddhist monk on the soul, on rebirth, on karma, in arguments so exact that they still teach logicians. When Rhys Davids translated, a whole civilization's philosophy entered English wearing his shoes.
+
+And why this booklet, and why him again: he left two dilemmas out. In his own Contents the numbering steps silently from the fifth dilemma to the seventh, and from the twentieth to the twenty-second. The sixth dilemma asks how a child can be conceived without intercourse — it tells how the lad Sāma, who would one day carry his blind parents through the forest, came to be; the twenty-first asks how the Buddha, who taught that restraint of the body is good, could show the brahmin Sela what modesty keeps hidden. They are the body's two dilemmas: generation and shame. A Victorian series for general readers stepped around both, and the classic has stood two questions short ever since — complete modern versions exist, but they sit behind copyright, and the free classic the world actually reads still has the holes in it. This booklet fills the holes from the same Pali text Rhys Davids used, and gives the work back to him: his name stands on it, as it should, for the mountain was his; we have only carried the last two stones up.
+
+For the relation of this to the editor's own work: the Rare & Obscure Books series exists to complete what hard luck broke off, and to give the completed thing away. Rhys Davids spent his life prising open a canon that lay "unedited and practically unused" and putting it in the hands of students. That is the whole of our charter too. Gratis ubique — given freely, everywhere.
+
+
+
+What this booklet is
+
+The Milindapañha — The Questions of King Milinda — records the debates of King Milinda, the Indo-Greek Menander who ruled from Sāgala in the second century BCE, with the monk Nāgasena. Its fourth book, the Meṇḍakapañha, "the horned questions," is a string of dilemmas: the king sets two sayings of the Buddha horns-out against each other, and Nāgasena slips between them. The book holds eighty-two dilemmas in Trenckner's edition. Rhys Davids translated eighty. The two below are the two he did not — numbered sixth and twenty-first in the Pali sequence, as his own Contents silently confesses.
+
+The sixth dilemma (Trenckner, pp. 123–130) turns on the Buddha's rule of conception: when three things come together — the parents united, the mother in her season, and the spirit-to-be-born present — a child descends into the womb. But the legends say the lad Sāma and the brahmin youth Maṇḍabya were conceived by a touch on the navel, with no union at all. If the rule holds, the legends are false; if the legends hold, the rule is false. Nāgasena first lets the king talk himself into admitting every strange birth he has ever heard of, and then springs the doors of the rule open from inside: there are four doors into the womb — by karma, by kind, by family, and by invitation.
+
+The twenty-first dilemma (Trenckner, pp. 167–170) turns on modesty. "Restraint of the body is good," said the Buddha — and yet, seated before gods and men, he showed the brahmin Sela the hidden mark that is kept covered in a sheath. Nāgasena's answer is the subtlest piece of stagecraft in the whole book: what Sela saw was not the thing itself but a counterpart made by psychic power, seen by him alone, as only the sick man feels his own pain.
+
+Why Rhys Davids passed them by is inference, and it is labelled as such: the omission itself is documented (his Contents skip; and his Introduction discusses a quotation from the Sela dilemma itself, so he had read the passage and still stepped around it), but his reason is not recorded. The two passages share a subject — the body, in generation and in shame — of exactly the kind a family series of the 1890s trimmed. Readers may judge the motive for themselves; the fact of the omission is not in doubt.
+
+A note on the text. Both translations are made fresh from Trenckner's Pali (1880), the text Rhys Davids himself used. The surviving Internet Archive scan of that edition is imperfect OCR; doubtful readings are flagged in the notes at the back, and no doubtful reading has been silently polished. Where the Pali uses the copyist's abbreviation — pe — for a repeated passage, the repetition is given in full and marked with brackets. Names are given in their familiar forms (Nāgasena, Sela, Sakka) with the Pali kept in the notes where it matters. This booklet does not reprint Rhys Davids's eighty dilemmas; it supplies the two that are missing, so that any reader of the free classic — his volumes stand open on the same archive shelf as this one — can read the book whole.
+
+
+
+The Sixth Dilemma — The Descent into the Womb
+
+King Milinda speaks.
+
+"Bhante Nāgasena, it was said by the Blessed One: 'When three things come together, monks, there is a descent into the womb: here, when mother and father have come together, and the mother is in her season, and a being-to-be-born is present — when these three come together, there is a descent into the womb.' That word is a word without remainder, a word that leaves nothing out, a word spoken without alternative, a word without concealment, spoken sitting in the midst of gods and men. And yet a descent into the womb is seen where only two things come together. By his long austerities Dukūla the ascetic, at the season, touched the navel of Pārikā the ascetic woman with the thumb of his right hand — and by that touching of the navel the lad Sāma came to be. And the seer Mātaṅga likewise touched the navel of a brahmin girl at her season with the thumb of his right hand, and by that touching the youth Maṇḍabya came to be. If, bhante Nāgasena, it was said by the Blessed One, 'When three things come together there is a descent into the womb,' then the saying that Sāma the lad and Maṇḍabya the youth were both born by the touching of the navel is false. And if it was said by the Tathāgata that Sāma and Maṇḍabya were born by the touching of the navel, then the saying 'When three things come together there is a descent into the womb' is false too. This dilemma too, horned at both ends, deep and very subtle, a field for the wise, has come to you. Cut through the path of doubt; hold up the glorious torch of knowledge."
+
+Nāgasena answers.
+
+"It was said, great king, by the Blessed One: 'When three things come together, monks, there is a descent into the womb: here, when mother and father have come together, and the mother is in her season, and a being-to-be-born is present — when these three come together, there is a descent into the womb.' And it was also said that Sāma the lad and Maṇḍabya the youth were born by the touching of the navel."
+
+"Then, bhante Nāgasena, convince me with the very reason by which the question stands resolved."
+
+"Have you heard, great king, how Saṅkicca the lad, and Isisiṅga the ascetic, and the Elder Kumārakassapa, were each of them born?"
+
+"Yes, bhante, it is told; their births are famous. Two does came at their season to the place where the ascetics made water, and drank the water mingled with seed, and by that union with the water Saṅkicca the lad and Isisiṅga the ascetic were born. And for the Elder Kumārakassapa: the Elder Udāyi had gone to the nuns' dwelling, and as he gazed with a lustful mind at a nun's hidden part, his seed fell upon his robe. Then the venerable Udāyi said to that nun: 'Go, sister, fetch water; I will wash my under-robe.' 'Sir, I will wash it myself.' Then that nun, being in her season, took part of that seed with her mouth and part she placed within herself, and by that the Elder Kumārakassapa came to be — so people say."
+
+"Do you believe that word, great king?"
+
+"Yes, bhante. There I find a strong reason for believing: by this reason they were born."
+
+"What is the reason there, great king?"
+
+"The womb, bhante, was well prepared; a seed that falls into it sprouts swiftly."
+
+"Yes, great king."
+
+"Just so, bhante: that nun, being in her season, the womb-fluid settled and the flow of blood checked and the element set in its place, took that seed and laid it in the womb, and by that her embryo was established. It is by reason that I cross over to their having been born so."
+
+"So it is, great king; thus I accept it with you: it is by entry into the womb that a being comes to be. And do you accept the descent into the womb in the case of Kumārakassapa?"
+
+"Yes, bhante."
+
+"Well done, great king — you have crossed over into my country. Even while you speak of one single kind of descent into the womb, you will be marching under my banner. And those two does that drank the water and took embryo — do you believe in their descent into the womb?"
+
+"Yes, bhante. Whatever is eaten, drunk, chewed, or tasted, all of it streams down into the womb-fluid, and arriving at its place, it grows. Just as, bhante Nāgasena, whatever rivers there are all stream down into the great ocean, and arriving there, they grow — just so, whatever is eaten, drunk, chewed, or tasted, all of it streams down into the womb-fluid, and arriving at its place, it grows. For this reason I believe: even by way of the mouth there is a descent into the womb."
+
+"Well done, great king; you have come still further into my country. Even by drinking through the mouth there is a coming-together of two. And do you accept the descent into the womb of Saṅkicca the lad, and Isisiṅga the ascetic, and the Elder Kumārakassapa?"
+
+"Yes, bhante. The coming-together streams down."
+
+"Sāma the lad, great king, and Maṇḍabya the youth as well, are included within the three comings-together and are of one flavour with what went before. I will give the reason. Dukūla the ascetic and Pārikā the ascetic woman, great king, both of them dwelt in the forest, intent on solitude, seeking the highest good; by the heat of their austerities they burned as far as the Brahmā world. Sakka, king of the gods, came to wait upon them himself. Perceiving their greatness of heart, he saw, in the time to come, the disappearance of the eyes of both of them; and seeing it, he said to them: 'Do one word of mine, good sirs. Please, beget one son. He will be your attendant and your support.' 'Enough, Kosiya — do not speak so.' They did not accept that word of his. Compassionate, bent on their good, Sakka king of the gods said it a second time, and a third: 'Do one word of mine, good sirs. Please, beget one son. He will be your attendant and your support.' A third time they answered: 'Enough, Kosiya. Do not yoke us to harm. When will this body not break up? Let this body break, being by nature breakable — though the bearer of it fall, though the mountain peak fall, though the sky split, though moon and sun come down, we will not mix with the things of the world. Do not come into our presence; if you come, here is your welcome: you are a worker of harm, we think.' Then Sakka, king of the gods, not winning their mind, humbled and with joined palms, begged yet again: 'If you will not undertake to do my word, then when the ascetic woman is in season, in flower, you, bhante, shall touch her navel with the thumb of your right hand. By that she will receive a womb. That itself is a coming-together for the descent into the womb.' 'I can do that word of yours, Kosiya. Our austerity is not broken by so much. Let it be.' And they agreed.
+
+"Now at that time there was in the deva world a deva-son whose roots of merit were abundant, whose span of life was spent, who, having reached the falling of his lifespan, was able to descend wherever he wished — even into the family of a wheel-turning king. Sakka, king of the gods, went to that deva-son and spoke: 'Come now, sir. A blessed morning is yours; success of purpose has arrived, that I have come to wait upon you. Your dwelling shall be in a delightful place; your rebirth in a fitting family; you shall be reared by excellent parents. Come, do my word.' A second and a third time he begged, with joined palms at his head. Then that deva-son said: 'What is this family, sir, that you keep on praising again and again?' 'Dukūla the ascetic and Pārikā the ascetic woman.' Hearing his word, glad, he agreed: 'Well, sir — as you wish, so be it. Wishing it, sir, I could be born in whatever family is longed for. In what family shall I be born: egg-born, or womb-born, or moisture-born, or apparition-born?' 'Be born, sir, in a womb-born birth.' Then Sakka, king of the gods, reckoning the day of the descent, announced to Dukūla the ascetic: 'On such-and-such a day, the ascetic woman will be in season, in flower. Then you, bhante, shall touch her navel with the thumb of your right hand.' On that day, great king, the ascetic woman was in season, in flower; the deva-son had arrived, come down to that place; and the ascetic touched the ascetic woman's navel with the thumb of his right hand. So those three comings-together came to be.
+
+"From the touching of the navel, desire arose in the ascetic woman. And as for her desire, which arose dependent on the touching of the navel — do not think that the coming-together was a transgressing. A jest is a coming-together; talk is a coming-together; a look is a coming-together. A coming-together arises by touch, following on the arising of desire; and from the coming-together there is descent. Even without intercourse, great king, by touch there is descent into the womb. Just as, great king, a blazing fire heats one who has come near even without touching, just so, without intercourse, by touch there is descent into the womb.
+
+"By four causes, great king, does the descent of beings into the womb come about: by the cause of karma, by the cause of kind, by the cause of family, and by the cause of invitation. And all these beings are karma-born, karma-arisen.
+
+"How, great king, does the descent of beings into the womb come about by the cause of karma? Beings whose roots of merit are abundant, great king, are born where they wish: in a noble family of great wealth, or a brahmin family of great wealth, or a householder family of great wealth, or among the gods, or in an egg-born birth, or a womb-born birth, or a moisture-born birth, or an apparition-born birth. Just as, great king, a man who is rich, of great substance, of great enjoyments, abundantly provided with gold and silver, with goods and gear, with wealth and grain, with kinsmen and retainers, buys — by paying double or triple the price — a female slave or a male slave, a field or a plot, a village or a town or a country district, whatever he has set his mind on, just as he wishes — just so, beings whose roots of merit are abundant are born where they wish: in a noble family of great wealth, or a brahmin family of great wealth, or a householder family of great wealth, or among the gods, or in an egg-born birth, or a womb-born birth, or a moisture-born birth, or an apparition-born birth. Thus does the descent of beings into the womb come about by the cause of karma.
+
+"How does the descent of beings into the womb come about by the cause of kind? Hens, great king, have their descent into the womb by the wind; cranes, by the sound of thunder; and all the gods are beings born without a womb at all. Their descents are of manifold kind. Just as, great king, men walk the earth in manifold modes — some cover themselves in front, some behind, some go naked, some are shaven-headed wearers of white cloth, some wear their hair in a topknot, some are shaven-headed wearers of ochre cloth, some wear ochre cloth with the hair in a topknot, some are ascetics wearing bark garments, some wear coats of hide, some wear garlands of rays — all these men walk the earth in manifold modes; just so are all those beings, and their descent into the womb is of manifold kind. Thus does the descent of beings into the womb come about by the cause of kind.
+
+"How does the descent of beings into the womb come about by the cause of family? Family, great king, means four families: the egg-born, the womb-born, the moisture-born, the apparitional. If a being-to-be-born, coming from anywhere at all, is born in an egg-born family, he is egg-born there; [if he comes into a womb-born family, he is womb-born there; if into a moisture-born family, moisture-born; if into an apparitional family, apparitional there]. In those families beings of like kind come to be. Just as, great king, whatever beasts and birds approach Mount Neru in the Himālayas all put off their own colour and become golden-coloured, just so, great king, whatever being-to-be-born, coming from anywhere at all, enters an egg-born birth, puts off its own nature and is egg-born; [enters a womb-born birth and is womb-born; a moisture-born birth and is moisture-born; an apparitional birth and is apparitional]. Thus does the descent of beings into the womb come about by the cause of family.
+
+"How does the descent of beings into the womb come about by the cause of invitation? Here, great king, there is a family that is childless, with abundant property, believing, trustful, virtuous, of good conduct, dwelling by the Dhamma; and a deva-son whose roots of merit are abundant is due to fall from his state. Then Sakka, king of the gods, out of compassion for that family, invites that deva-son: 'Fix your mind, sir, on the womb of the chief wife of such-and-such a family.' He, by reason of that invitation, fixes on that family. Just as, great king, men who desire merit, having invited a monk whose mind they cherish, bring him into the house, thinking, 'When he has come, he will bring happiness to the whole family' — just so does Sakka, king of the gods, having invited that deva-son, bring him to that family. Thus does the descent of beings into the womb come about by the cause of invitation.
+
+"Sāma the lad, great king, invited by Sakka, king of the gods, descended into the womb of Pārikā the ascetic woman. Sāma the lad was karma-made; his mother and father were virtuous, of good conduct; the inviter was able. Sāma the lad came to be by the resolve of three minds. Great king, if a farmer expert in sowing sowed seed in a well-prepared field where no obstacle stood, would there be any obstacle to the growth of that seed, its obstacles having been removed?"
+
+"No, bhante. Unharmed, bhante, the seed would sprout swiftly."
+
+"Just so, great king: Sāma the lad, arisen with his obstacles removed, came to be by the resolve of three minds. Have you heard, great king, that by the ill-will in the minds of seers, flourishing and prosperous great countries, with all their people, were destroyed and wiped out?"
+
+"Yes, bhante. It is heard on earth: the Daṇḍaka forest, the Mejjha forest, the Kāliṅga forest, the Mātaṅga forest — all of them became forest again; all those countries went to destruction by the ill-will in the minds of seers."
+
+"If, great king, by their ill-will flourishing countries are destroyed, could anything come to be by the favour of their minds?"
+
+"Yes, bhante."
+
+"Therefore, great king: Sāma the lad came to be by the powerful favour of three minds — seer-made, deva-made, merit-made. Hold it so, great king. Three deva-sons, invited by Sakka king of the gods, were born into families. Which three? Sāma the lad, Mahāpanāda, and King Kusa. All three of these were Bodhisattas."
+
+"Well pointed out, bhante Nāgasena, is the descent into the womb; well told is the reason; darkness has been made light; the tangle has been disentangled; the wranglings of opponents are cast away. Even so it is; thus I accept it."
+
+
+
+The Twenty-First Dilemma — The Modesty of the Buddha
+
+King Milinda speaks.
+
+"Bhante Nāgasena, it was said by the Tathāgata: 'Restraint of the body is good; good is restraint of speech; restraint of the mind is good; good is restraint in everything.' And yet the Tathāgata, seated in the midst of the four assemblies, before devas and men, showed to Sela the brahmin his hidden part withdrawn into its sheath. If, bhante Nāgasena, it was said by the Blessed One, 'Restraint of the body is good,' then the saying that he showed Sela the brahmin his hidden part withdrawn into its sheath is false. And if he showed Sela the brahmin his hidden part withdrawn into its sheath, then the saying 'Restraint of the body is good' is false too. This dilemma too, horned at both ends, has come to you. It is for you to draw it out."
+
+Nāgasena answers.
+
+"It was said, great king, by the Blessed One: 'Restraint of the body is good.' And the hidden part withdrawn into its sheath was shown to Sela the brahmin. But, great king: to the man in whom doubt about the Tathāgata has arisen, for that man's instruction the Blessed One displays by psychic power a body that is its counterpart; he alone sees that marvel."
+
+"But who will believe this, bhante Nāgasena — that in the assembled company one man alone sees that hidden thing, while the rest, present right there, do not see it? Lay out a reason for me in this matter; convince me with a reason."
+
+"Have you ever seen, great king, a sick man surrounded by kinsmen and friends?"
+
+"Yes, bhante."
+
+"Does the company, great king, see the pain by which that man is pained?"
+
+"No, bhante. The man himself feels it alone."
+
+"Just so, great king: to the man in whom doubt about the Tathāgata has arisen, to him alone the Tathāgata, for his instruction, displays by psychic power a body that is its counterpart; he alone sees that marvel. Or again, great king: suppose a spirit were to possess some man — does the company see the coming of that spirit?"
+
+"No, bhante. The afflicted man himself alone sees the coming of that spirit."
+
+"Just so, great king: the man in whom doubt about the Tathāgata has arisen, he alone sees that marvel."
+
+"It was a hard thing, bhante Nāgasena, that the Blessed One did, if he displayed what was not to be seen even by one man."
+
+"The Blessed One, great king, did not display the hidden part. By psychic power he displayed a reflection."
+
+"But if even a reflection is seen, the hidden thing is seen — a man who has seen it is satisfied that he has seen."
+
+"The Tathāgata, great king, does hard things in order to awaken those who are to be awakened. If, great king, the Tathāgata were to hold back deed after deed, those who are to be awakened would not awaken. And because the Tathāgata knows the method by which the awakenable are to be awakened, he awakens them by whatever method they can be awakened. Just as, great king, a physician, a surgeon, comes to the sick man with whatever medicine will make him well — he makes him vomit what is to be vomited, purges what is to be purged, anoints what is to be anointed, and applies the collyrium that is to be applied — just so, great king, the Tathāgata awakens those who are to be awakened by whatever method they can be awakened.
+
+"Just as, great king, a woman whose womb holds a dead child shows the physician the hidden part that is not to be seen — just so, great king, did the Tathāgata, in order to awaken the awakenable, display by psychic power the reflection of the hidden thing that is not to be seen. There is no quarter, great king, that has the name 'not to be shown,' in regard to a person. If, great king, a man would awaken by seeing the Blessed One's heart, to him too the Blessed One would display his heart by the right method. The Tathāgata, great king, knows the method; he is skilled in teaching.
+
+"Did not the Tathāgata, great king, knowing the disposition of the Elder Nanda, take him to the deva world and show him the deva maidens — thinking, 'By this means this young man of good family will awaken' — and by that means the young man awakened? So the Tathāgata, though in many a way removing, blaming, and loathing the sign of beauty, for the sake of that man's awakening showed him the dove-footed nymphs. Thus too is the Tathāgata one who knows the method and is skilled in teaching.
+
+"And again, great king: the Tathāgata went to the Elder Cullapanthaka — dragged out of the monastery by his brother, sorrowing and downcast — and gave him a fine piece of cloth, thinking, 'By this means this young man of good family will awaken'; and by that means the young man gained mastery in the Conqueror's dispensation. Thus too is the Tathāgata one who knows the method and is skilled in teaching.
+
+"And again, great king: the Tathāgata, asked up to the third time by the brahmin Mogharāja, did not make answer — thinking, 'So will this young man's mind be calmed; and when his pride is calmed, there will be penetration'; and by that his mind was calmed, and with his pride calmed that brahmin gained mastery in the six knowledges. Thus too is the Tathāgata one who knows the method and is skilled in teaching."
+
+"Well spoken, bhante Nāgasena. Well drawn out is the question, with reasons of many kinds. What was a knot has been made no knot; darkness has been made light; the knot is split; the arguments of opponents are shattered. By you sight has been given to the sons of the Conqueror; the rival teachers stand without an answer, now that they have come to you, the best and foremost leader of the school."
+
+
+
+Editor's Notes
+
+The dismissal of Rhys Davids's numbering. Rhys Davids's Part I Contents number his Book IV dilemmas 1–5, then 7–20, then 22–40, and his Part II runs 41–82, with no sixth or twenty-first entry and no word of explanation in either introduction. The numbering used in this booklet (sixth, twenty-first) follows the order of the dilemmas in Trenckner's Pali text itself, which matches the order followed by the Pali-ordered contents used by later translators. Readers who lay this booklet beside Rhys Davids's volumes will find the sixth dilemma belongs between his fifth (King Sivi's generosity) and his seventh (the prophecy of five hundred years), and the twenty-first between his twentieth (the evil results of preaching) and his twenty-second (Sāriputta's saying against Sudinna's act).
+
+The witnesses behind the legends. Sāma the lad is the Bodhisatta of the Sāma Jātaka: the child of the blind ascetics Dukūla and Pārikā, who guided his sightless parents through the forest. Maṇḍabya is the Maṇḍabya of epic fame. Saṅkicca and Isisiṅga (the Ṛśyaśṛṅga of Sanskrit story) are both said in widespread Indian legend to have been born of does. Kumārakassapa, reckoned among the Buddha's great disciples, was said by the commentaries to be the child of a nun — conceived, as the dilemma's strange tale tells, without her knowledge of any union. Nāgasena retails these tales because the king already believes them; the dilemma is tested on the king's own credence, and the notes here merely identify the stories. Their truth is the text's affair, not the editor's.
+
+Textual notes. Kosohitaṃ vatthaguyhaṃ (dilemma 21): "the hidden part withdrawn into a sheath" — the sheathed organ is one of the thirty-two marks of a Great Man, and its being seen by Sela the brahmin belongs to the Sela Sutta tradition (Majjhima Nikāya 92; Sutta Nipāta 3.7). Tappatibhāgaṃ kāyaṃ: a counterpart body, neither quite the Buddha's own nor another's. Chāyā: a reflection or shadow-image. In dilemma 6, kalala is rendered "womb-fluid"; the word names the first stage of the embryo, and the king's reasoning treats it as the receptive womb-matter into which all nutriment streams. The phrase "wear garlands of rays" (rasmiyo nivasenti) rests on imperfect scan OCR and may misread the Pali; it is the one rendering in this booklet the editor flags as uncertain. The four doors (karma, kind, family, invitation) and the threefold resolve of Sāma's birth are given as the text gives them; the manuscript abbreviation — pe — is expanded in square brackets.
+
+On the claim this booklet makes. It does not claim the first complete English Milindapañha: Horner's (1963–64) and Heim's (2025) are complete, and in copyright. It claims the completion of the free classic — Rhys Davids's public-domain version made literally whole, from his own base text, under his name. None freer or older was found, after research, that does the two passages at all, in or out of copyright, except the two modern versions named. The completion is offered in his honour and under his name, and is the editor's belief about how he would have wished the book to stand: entire.
+
+
+* * *
+
+The Two Questions Rhys Davids Left Out was built as part of the Rare & Obscure Books series: rescues of works that hard luck broke off, made whole and given away. The editor thanks Trenckner for the text, Rhys Davids for the road, and the king for asking.
+
