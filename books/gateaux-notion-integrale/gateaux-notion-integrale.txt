@@ -1,0 +1,646 @@
+ON THE NOTION OF INTEGRAL IN THE FUNCTIONAL DOMAIN
+
+
+
+And on the Theory of Potential
+
+
+
+From the posthumous memoir of 1919: Sur la notion d'intégrale dans le domaine fonctionnel et sur la théorie du potentiel, Bulletin de la Société Mathématique de France 47
+
+René Gateaux (1889–1914)
+
+A fresh English translation, made from the French of 1919.
+
+The Boneyard — Rescued Works
+
+
+* * *
+
+> DRAFT — NOT FOR PUBLICATION. This edition is offered as a working draft. It awaits review by a working mathematician (functional analysis) and by a reader of the period French, including collation of the translation against the page images of the printed original and identification of the passages Paul Lévy revised in small type, before any publication. No claim in it should be quoted as settled until those reviews are done.
+
+Public domain source text; modern edition (c) editor, free redistribution.
+
+
+* * *
+
+
+
+DEDICATION
+
+Who he was. René Eugène Gateaux (1889–1914), a French mathematician of the École Normale, cut down at twenty-five before he had held any academic post — and yet the name over the door of every modern course on the calculus in infinite dimensions, for the directional derivative that bears his name. He was born on 5 May 1889 at Vitry-le-François in the Marne, a small fortified town two hundred kilometres east of Paris — the same town that had given Abraham de Moivre to mathematics two hundred and twenty-two years earlier. His father kept a small saddlery business, his mother was a seamstress; the father died in 1905, when René was sixteen. The boy was schooled at Reims — in February 1906, not yet seventeen, he signed a letter to the Ministry asking leave to sit the École Normale examination a year under age — and in October 1907 he entered the École Normale Supérieure in the rue d'Ulm. His companions of the 1907 science section, Georges Gonthiez and Maurice Janet, remembered him in their obituary notice as one of those good comrades with whom one likes to talk, a man whose personality "blossomed without noise," serious-minded and quick to seize the essential. He passed the agrégation in 1910.
+
+His home and circumstances. His home, when the war found him, was a schoolroom: on 8 July 1912 a ministerial decree appointed him professor of mathematics at the lycée of Bar-le-Duc, and he took up the post that October, after completing the military service that had already made him a second lieutenant of the reserve. In Paris and in Rome the real work went on beside the teaching. He was preparing a thesis on the functional calculus in the manner of Hadamard — on functions of lines and the theory of potential — and Émile Borel steered him, as he had steered Joseph Pérès the year before, toward a David Weill grant and a year in Rome with Vito Volterra. He reached Rome in the last days of October 1913, followed two of Volterra's courses, published his short notes in the Rendiconti of the Accademia dei Lincei, and spoke in Volterra's seminar on 14 February 1914 on the notion of functional differentiation. He came home in June 1914 with a further grant (the Commercy) accepted and every intention of going back. The memoir translated here was, by his editor's testimony, the last thing he wrote — dated June 1914. It lay among the half-finished manuscripts, intended as chapters of his thesis, that he left at his mother's house before he went to the war.
+
+His death. He was caught, like most of France, unprepared by the mobilization of 2 August 1914. As a lieutenant of the reserve he joined the 269th Infantry Regiment of the 70th Division, and on 6 August he was put at the head of a machine-gun section. The regiment fought first in Lorraine, before Nancy; at the end of September the division was moved by rail to Lens, nearly five hundred kilometres, and ordered to defend the country east of Arras. There, in the first October days of the race to the sea, René Gateaux was killed — on 3 October 1914, at Rouvroy, aged twenty-five. He had written to Volterra from the front as late as 25 August; when Volterra wrote to Borel on 24 October asking anxiously for news of him, he was already three weeks dead. His name was nevertheless crowned after his death: in December 1916 the Académie des Sciences awarded the prix Francœur to the five short notes of 1913–14, judging (in Jacques Hadamard's report) that their author "was on the point of following a much more audacious path, promising to be most fruitful, by extending the notion of integration to the functional domain. Nobody could predict the development and the scope that this new series of researches might have attained. It was interrupted by the events." Hadamard had kept the manuscripts safe at the École Normale all through the war; when he took them back in the winter of 1918–19, Paul Lévy undertook the considerable labour of preparing them for print, and the Bulletin began their publication in February 1919.
+
+Why this work is vital — to prove his logic. Because the logic is all here, in the author's own hand, and it can be followed line by line. Gateaux saw that there is no honest way to speak of "the integral" of a functional over a domain of functions by copying the finite-dimensional formula: the volume of the n-th finite-dimensional shadow of such a domain collapses or explodes as n grows. So he replaced the integral by the mean value — take the mean over the finite-dimensional sections, then pass to the limit — and he showed, by direct computation on the model case, what the limit gives: the mean of a functional over the great sphere of function space is a Gaussian average, weighted by e⁻ψ²/²/√(2π), and the mean inside the sphere is the mean upon its surface. On that single mechanism he built a whole potential theory in the domain of functions: the double-layer potential defined as a mean, the fundamental mean-value property, and the equation ∫₀¹ δ²P/δa(β)² dβ = 0 — the Laplace equation of function space — with the Dirichlet problem it solves and, in the last chapter, the equations of Helmholtz type. Others completed what he opened: Daniell was building his own infinite-dimensional integral in Texas in ignorance of him; Wiener, who confessed in print in 1920 that he had not known of these posthumous papers when he wrote, went on to make the rigorous theory and in 1923 named Gateaux and Lévy as the deepest studies on infinite-dimensional integration; Bourbaki's history counts their work a fundamental step on the path to the Wiener measure. Mazliak, his modern biographer, warns the reader plainly against overestimating him. This edition lets the reader weigh that judgement against the page itself: the audacity Hadamard praised is real, and so are the gaps — Lévy, his editor, leaves them standing in footnotes rather than papering over them, even noting of one borrowed demonstration that its calculation seemed to him faulty while the result stood. We have kept every one of Lévy's warnings in place. Prove his logic, in this series' sense, means exactly this: print the argument as he left it, seams showing, and let the proof be audited.
+
+His relation to this series. The Boneyard keeps works the world shelved before it finished listening, and this memoir is the pattern of the whole shelf, because the rescue this volume performs was already performed once — by hand, in a country at war. A mother sent a dead son's papers to his school; his master kept them safe through four years of bombardment and put them into the hands of the one man in France best fitted to set them in order; and Paul Lévy prepared them for the Bulletin, printing his own corrections in small type so that no reader could mistake the editor's hand for the author's. What the twentieth century had, then, was Gateaux's argument as Lévy framed it, in French. His theorems entered every textbook under his name — the Gateaux derivative is drilled into students worldwide — but the memoir itself, after the research recorded in the notes, has never been Englished. So here it is, a second rescue of the same kind as the first: the author's own text carried across, his editor's layer kept visible and credited, and the unfinished places named as unfinished. He deserves no less than the whole truth of his own fragment: a twenty-five-year-old schoolmaster who, in the last June of his life, wrote down how to integrate over a space of functions — and then went out to a war that had no further use for him.
+
+— The Editor
+
+
+
+A note on this edition
+
+This volume translates, complete, one paper by René Gateaux:
+
+- Sur la notion d'intégrale dans le domaine fonctionnel et sur la théorie du potentiel [On the notion of integral in the functional domain and on the theory of potential], Bulletin de la Société Mathématique de France 47 (1919), pp. 47–70 — the memoir in which Gateaux defines the mean value of a functional over a functional domain (his replacement for "the integral" in function space), computes it over the sphere, and builds on it a potential theory in the domain of functions: the double-layer potential, its mean-value property, the functional Laplace equation, the Dirichlet problem, and equations of Helmholtz type. It is printed here with everything the Bulletin printed with it: Jacques Hadamard's prefatory notice (February 1919), Paul Lévy's editorial note, and Lévy's long closing note. The memoir was written in June 1914, weeks before its author marched to the war that killed him; it is, of the two memoirs Lévy prepared, the one he chose to publish first, calling it "the richest in results."
+
+The paper is posthumous twice over: the author's words, and his editor's. The reader must be able to tell the two hands apart, so the edition keeps Lévy's interventions exactly where the original puts them and labels them. Lévy tells us himself, in the note translated below, how he worked: the draft found among Gateaux's papers "was certainly not, in its author's mind, a definitive draft"; he simplified where he could; the passages he modified are printed in small type in the 1919 journal; the modifications of any importance are moreover flagged by footnotes, and his footnotes are signed "(P. L.)". His unsigned-looking arithmetical simplifications are confessed in the same breath. Footnotes signed "(P. L.)" in this translation are therefore Lévy's, not Gateaux's — including the remarkable one that flags a demonstration of Gateaux's as resting, in Lévy's judgement, on a faulty calculation whose result nonetheless stands. One footnote (in §13) is signed in the original "(Note de l'Auteur.)" and is Gateaux's own. The long closing note is Lévy's alone: it describes the second, earlier draft of the memoir found among the papers, records how Gateaux's thought moved from the finite-dimensional formula to the mean, and sets out Lévy's own extensions; it is signed "(P. L.)" and we print it all, as part of the article as the century received it. [The passages Lévy printed in small type cannot be picked out from the machine-read text used for this translation; identifying them against the page images is part of the review this draft awaits, and nothing in the translation silently merges the two strata meanwhile. Where Lévy's own footnotes say that a stretch of text is his rather than the author's, the translation says so too.]
+
+Two things this edition does not do. It does not translate the companion memoir, Fonctions d'une infinité de variables indépendantes (pp. 70–96 of the same volume), nor the third posthumous paper of 1922, nor the five short notes of his lifetime (1913–14) — these are mapped in the notes file (NOTES.md) as the memoir's remainder. And it does not modernize his argument. Where his notation is the notation of 1914 it stands — his functional bracket ‖[ x(α) ]‖ is printed here as [[ x(α) ]], his functional derivative is the δ/δx(β) of his sections, his Δ the integral of the second functional derivative. The names by which the century knows the results — the Gateaux derivative, the road to Wiener measure — are the textbooks' and the historians', and they live in the dedication and the notes, not in his text. It was made without consulting any modern copyrighted translation; no English translation of this memoir was found after research, though its results are restated wherever the Gateaux derivative is taught.
+
+The translation was made from the digitised copy held at Numdam, the French national archive of mathematical journals (item `BSMF_1919__47__47_1`, DOI 10.24033/bsmf.994; the file and its checksum are pinned in NOTES.md). The author died in 1914; the text is public domain. The machine-read text is good in the prose and treacherous in the displays — subscripts, fractions and integral signs suffer — and the translation therefore brackets what it cannot certify: uncertain readings are bracketed, never silently repaired; the handful of load-bearing formulas (the mean over the sphere, the quantity c, the identity (7), the functional Laplace equation (E), the resolvent formulas (13)–(18)) were collated against the printed page images by the editor, and every formula that could not be so verified is carried as a bracketed description of what the printed display contains. Page anchors in the form [1919, p. n] refer to the printed pagination of the Bulletin. French names for things are kept where a translation would smuggle: his fonctionnelle is a functional; his fonction de lignes, in the dedication, is Volterra's function of a line; his Σ and S are spheres in function space, and his mean value — a blackletter capital in the 1919 printing — is printed here as a bold M; his Green function, set in script type in the original, appears here as G.
+
+The author's name is printed, on his title pages and above his articles, both with and without a circumflex; his birth certificate and his own signature write Gateaux, and this edition follows his hand.
+
+
+* * *
+
+
+* * *
+
+THE MEMOIR
+
+
+
+The notices printed with the memoir in 1919
+
+
+
+Notice by J. Hadamard [1919, p. 47]
+
+The name of R. Gateaux, killed at the very beginning of the war (September 1914) [Footnote: So Hadamard writes. The regimental record gives 3 October 1914; the notes file records the discrepancy.], is well known to all who take an interest in the Functional Calculus. Five Notes, published in 1913 and 1914 in the Comptes rendus of the Académie des Sciences and in the Rendiconti of the R. Accademia dei Lincei, contained very remarkable results, which the Académie des Sciences sanctioned by awarding him, in 1916, the prix Francœur.
+
+But the discoveries he had obtained without having had time to publish them surpass the foregoing by far in importance, and show what great hopes French Science was entitled to found upon their author. They are happily not lost. Among Gateaux's papers were found notes which were entrusted to me, and in the examination of which M. Paul Lévy, highly qualified for this study by his earlier work, kindly lent me his assistance. In particular two Memoirs — one on functions of an infinity of independent variables, the other on the theory of potential — were almost completely drafted, at least in a provisional manner [Footnote: The original manuscripts will be deposited at the Archives of the Académie des Sciences.]. We begin their publication here. M. P. Lévy has undertaken the work, a considerable one, of setting them in order: all the friends of Science and of France will be unanimous in keeping a lively gratitude to him for it.
+
+(February 1919.) — J. HADAMARD.
+
+
+
+Note by Paul Lévy [1919, p. 48]
+
+The Memoir on the theory of the integral and of the potential in the functional field is, although the last in date (June 1914), the one we publish first. It is, in my view, the richest in results. It opens a new and important Chapter of the Functional Calculus, and reading it lets one measure the immense loss that Science has suffered in the person of Gateaux.
+
+The draft found among his papers was certainly not, in his idea, a definitive draft. I therefore believed I was respecting his thought in bringing to it, where I could, a few simplifications. The modified passages are written in small characters. The modifications of some importance are, in addition, signalled by notes, the others being confined to simplifications of calculation or to the addition of explanatory phrases intended to facilitate the reading.
+
+I give in addition, in a closing Note, some indications on another draft of the same Memoir which was likewise found, and some complementary results that I have obtained. — PAUL LÉVY.
+
+
+* * *
+
+
+
+Chapter I — Extension of the notion of integral
+
+
+
+1. The functional domain [1919, p. 48]
+
+We place ourselves in the real field, and we consider the functions x(α), defined between 0 and 1, continuous or admitting a finite number of discontinuities of the first kind. Let E be their domain.
+
+We shall consider functionals defined in E and admitting no singularity at any point of the interval (0, 1).
+
+
+
+2. Simple functions of order n [1919, p. 49]
+
+Divide the interval 0, 1 into n equal intervals; a function constant in each of these intervals shall be called a simple function of order n. The value at the division points is indifferent. The domain of these functions is a space of n dimensions, Eₙ.
+
+When x(α) is a simple function of order n, equal to xᵢ for the values of α between (i − 1)/n and i/n, a functional U[[ x(α) ]] becomes a function uₙ(x₁, x₂, ..., xₙ) which I shall call the n-th section of U[[ x(α) ]].
+
+In the same way a surface of the domain E, for example
+
+∫₀¹ ∫₀¹ K(α, β) x(α) x(β) dα dβ = m,
+
+becomes a surface of the space Eₙ — in the example above, the quadric
+
+Σₚ,q Kₚ,q xₚ xq / n² = m,
+
+which I shall call the n-th section of the surface considered in the domain E.
+
+I shall call the n-th section of a function x(α) the simple function of order n which has the same mean value as x(α) in each of the intervals (0, 1/n), ..., ((n − 1)/n, 1). This function yₙ(α) is the one for which the integral
+
+∫₀¹ [ x(α) − yₙ(α) ]² dα
+
+is smallest.
+
+
+
+3. Extension of the operation of integration to the functional space. Mean value [1919, pp. 49–50]
+
+If we consider a functional domain (a volume, a surface, etc.) and its n-th section, the measure of this section, when n increases indefinitely, is in general an infinitely small or an infinitely large quantity. Hence the necessity of considering not the integral, but the mean value of a functional in this domain. It will be computed by taking the mean value of the n-th section of the functional in the n-th section of the domain, then the limit of this mean value when n increases indefinitely.
+
+
+
+4. Example of the computation of mean values [1919, pp. 50–51]
+
+Exceptionally, I consider a functional admitting a singularity for one value α₁ of α.
+
+Let it be required to compute the mean value of the functional f[ x(α₁) ] inside the sphere
+
+(S) ∫₀¹ [ x(α) ]² dα = R²,
+
+whose n-th section is
+
+(Sₙ) x₁² + x₂² + ... + xₙ² = nR².
+
+If one observes [Footnote: We simplify here the author's method, which introduces into his calculation multiple integrals of order n. That seems to us useless, formula (1) being writable almost without calculation. (P. L.)] that the section of this sphere, by a plane situated at a distance x from the origin, has for measure Vₙ₋₁(nR² − x²)(ⁿ⁻¹)/², Vₙ denoting the volume of the sphere of radius 1 in the space of n dimensions, the mean value in question is written
+
+(1) (1/Jₙ) ∫₋π/₂⁺π/² f(R√n sin θ) cos^n θ dθ,
+
+on setting x = R√n sin θ, Jₙ = ∫₋π/₂⁺π/² cos^n θ dθ.
+
+The integral Jₙ is, for n very large, equivalent to √(2π/n). The values of θ near zero alone contribute to it. Precisely: if one considers only the values of θ between −a/√n and +a/√n, one has a new integral whose ratio to Jₙ tends, for n very large, toward
+
+(1/√(2π)) ∫₋ₐ⁺a e⁻ψ²/² dψ,
+
+a quantity as close to 1 as one wishes, provided a is large enough.
+
+Hence, under certain conditions [Footnote: It will often happen that the author speaks of conditions which he does not specify and which it was certainly his intention to specify in a later draft. In such a case, we reproduce exactly the terms of his manuscript. (P. L.)] as to the growth of f(x), the ratio (1) may be replaced by
+
+(1/√(2π)) ∫₋∞⁺∞ f(Rψ) e⁻ψ²/² dψ.
+
+Seeking the mean value of this functional on the surface of the sphere S, one finds precisely the same expression. The result explains itself when one remarks that almost the whole volume of Sₙ is furnished by the shell comprised between its surface and that of a concentric sphere of radius (R − ΔR)√n. The fact is therefore general, and one may state the following proposition:
+
+Theorem. — A functional has the same mean value inside a sphere as on its surface. (Doubtless, for the validity of the proposition, the functional must satisfy certain conditions of continuity.)
+
+
+
+5. Generalizations of the preceding example [1919, pp. 51–52]
+
+1° If one considers the functional
+
+∫₀¹ f[ x(α), α ] dα,
+
+its mean value inside the sphere Σ is given by the expression
+
+(1/√(2π)) ∫₀¹ dα ∫₋∞⁺∞ f(Rψ, α) e⁻ψ²/² dψ.
+
+2° If one considers the functional f[ x(α₁), x(α₂), x(α₃) ], α₁, α₂, α₃ denoting three particular values of α, its mean value inside the sphere Σ is
+
+(1/(2π)³/²) ∫₋∞⁺∞ dx₁ ∫₋∞⁺∞ dx₂ ∫₋∞⁺∞ dx₃ f(Rx₁, Rx₂, Rx₃) e⁻(x₁² ⁺ x₂² ⁺ x₃²)/².
+
+If instead of three variables there were p, the exponent of 2π would be p/2.
+
+3° The functional
+
+∫₀¹ ... ∫₀¹ f[ x(α₁), ..., x(αₚ), α₁, ..., αₚ ] dα₁ ... dαₚ
+
+has for mean value inside Σ
+
+(1/(2π)p/²) ∫₀¹ dα₁ ... ∫₀¹ dαₚ ∫₋∞⁺∞ dx₁ ... ∫₋∞⁺∞ dxₚ f(Rx₁, ..., Rxₚ, α₁, ..., αₚ) e⁻(x₁² ⁺ ... ⁺ xₚ²)/².
+
+
+
+6. Another example [1919, pp. 52–53]
+
+Let U[[ x(α) ]] be a functional defined in S and enjoying the following property:
+
+Given ε, one can determine h such that, if the interval (0, 1) is divided into intervals of extent less than h, in which x₁(α) and x₂(α) have the same mean values, one has
+
+| U[[ x₁(α) ]] − U[[ x₂(α) ]] | < ε.
+
+Under these conditions, the mean value of U[[ x(α) ]] in S is U[[ 0 ]] [Footnote: I indicate this result here without demonstration. From the very brief indications contained in the author's manuscript, it seemed to me that his demonstration contained a fault of calculation, and did not subsist when one rectifies this fault. Yet the result is exact. The author himself demonstrated (R. Accademia dei Lincei, 21 December 1913) that the functionals considered can be defined as limits of expressions of the form Σₚ=₁ⁿ ∫₀¹ ... ∫₀¹ fₚ(α, ..., αₚ) x(α₁) ... x(αₚ) dα₁ ... dαₚ. The result stated follows immediately from the application to this expression of the results of no. 5. (P. L.)].
+
+If U is defined only on the surface, one will obtain its mean value on this surface by considering the functions of the surface whose n-th section is zero; the values of U for these functions tend, for n infinite, toward one and the same limit, which is the mean value sought.
+
+
+
+7. A closed surface in the functional space [1919, p. 53]
+
+It is a multiplicity comprised entirely inside a sphere (S) ∫₀¹ [ x(α) ]² dα = R², and which separates the space into two regions. In general it may be represented by an equation
+
+(Σ) F[[ x(α) ]] = 0,
+
+whose solutions are all interior to the sphere S. According to the sign of F, a function will be called interior or exterior to Σ, functions exterior to S being certainly exterior to Σ; we shall suppose that for these functions F is positive. If this functional is without singularity and admits a first derivative, we shall call direction cosines of the inward normal to Σ the quantities
+
+− (1/H) F′ₓ[[ x(α), β ]],
+
+where
+
+H² = ∫₀¹ [ F′ₓ[[ x(α), β ]] ]² dβ.
+
+
+* * *
+
+
+
+Chapter II — Potential and harmonic functionals
+
+
+
+8. The double-layer potential in the space of n dimensions [1919, pp. 53–54]
+
+Such a potential is represented by
+
+(2) ∫Σₙ ΦM (d/dn)(1/rⁿ⁻²) dΣₙ,
+
+r being the distance from the point M of the surface Σₙ to the attracted point A. Call φ the angle of MA with the inward normal to Σₙ, sₙ a sphere of centre A and radius 1, or the surface of this sphere, μ the point where the half-line AM meets this sphere, and dsμ the element of surface described by μ, while M describes the element dΣₙ. We shall likewise write Sₙ and dSμ for a sphere of centre A and radius √n.
+
+The potential (2) is equal to
+
+(n − 2) ∫Σₙ ΦM (cos φ / rⁿ⁻¹) dΣₙ = (n − 2) ∫ ΦM dsᵧ,
+
+which constitutes a definition of it not making the tangent plane to the surface intervene.
+
+To obtain a quantity remaining finite when n increases indefinitely, the preceding expression must be multiplied by 1/((n − 2)Sₙ), and one considers the expression
+
+(3) PA = (1/Sₙ) ∫ ΦM dsμ = (1/S̄ₙ) ∫ ΦM dSμ.
+
+
+
+9. Extension to the case of the functional space [1919, pp. 54–55]
+
+Let Φ[[ x(α) ]] be a functional defined on the closed surface Σ (see no. 7). By analogy with formula (3), we shall call the double-layer potential of density Φ on Σ the functional P[[ a(α) ]] defined inside Σ as equal to the mean value of Φ[[ a(α) + ρ y(α) ]] on the sphere
+
+(S) ∫₀¹ [ y(α) ]² dα = 1,
+
+ρ being a positive quantity, independent of α, a functional of a(α) and y(α), defined by the equation
+
+F[[ a(α) + ρ y(α) ]] = 0.
+
+
+
+10. Computation of the derivatives in the case of the space of n dimensions: first method [1919, p. 55]
+
+Return to the expression (3). We shall call a₁, ..., aₙ the coordinates of A, x₁, ..., xₙ those of M, r = ρ√n [as printed; the machine-read text garbles the definition] the distance of these two points, and F(a₁, ..., aₙ) the left-hand member of the equation of the surface Σₙ. Starting from
+
+PA = (1/((n − 2)Sₙ)) ∫Σₙ ΦM (d/dn)(1/rⁿ⁻²) dΣₙ,
+
+an easy calculation gives
+
+(4) ∂PA/∂aₚ = (1/Sₙ) ∫ ΦM (xₚ − aₚ)/ρ² dSμ − (1/(n Sₙ)) ∫ ΦM [ n F′ₓₚ / Σᵢ (xᵢ − aᵢ) F′ₓᵢ ] dSμ
+
+[formula (4) collated against the printed page; the second denominator is as it stands in the 1919 printing].
+
+When n becomes very large, Σₙ being defined for each value of n as the n-th section of Σ, ρ and xₚ − aₚ are finite quantities. One then sees that the first term of the preceding expression is finite, and the second of the order of magnitude of 1/n.
+
+One finds in the same way
+
+(5) ∂²PA/∂aₚ² = (1/Sₙ) ∫ ΦM [ ((xₚ − aₚ)² − ρ²)/ρ⁴ ] dSμ + (2/(n Sₙ)) ∫ ΦM [ ((xₚ − aₚ)²/ρ⁴) − (n(xₚ − aₚ)F′ₓₚ) / (ρ³ Σᵢ (xᵢ − aᵢ) F′ₓᵢ) ] dSμ
+
+[formula (5) collated against the printed page in the same way],
+
+an expression in which the first term is finite and the second of the order of magnitude of 1/n.
+
+
+
+11. Second method [1919, pp. 55–56]
+
+Compute the derivatives now starting from the formula
+
+PA = (1/S̄ₙ) ∫ ΦM dSₚ,
+
+dSₚ being the element of the sphere Sₙ of centre A corresponding to the point of coordinates a₁ + y₁, ..., aₙ + yₙ.
+
+The coordinates of M are defined, starting from the a and the y, by the formulas
+
+xₚ = aₚ + ρ yₚ,
+
+ρ being the same quantity as in the preceding number, defined implicitly by the formula
+
+F(a₁ + ρy₁, ..., aₙ + ρyₙ) = 0.
+
+The function Φ is defined on Σₙ; define it arbitrarily in the neighbourhood of this surface and suppose it differentiable on the surface. One then finds for the derivatives of Φ the formula
+
+[display: the first derivatives of Φ with respect to the aₚ, expressed by means of its derivatives with respect to the xq and of the derivatives of the implicit function ρ; the machine-read text cannot carry this display].
+
+To simplify the computation of the second derivatives, one may suppose Φ constant on the line AM, which annuls the expression Σ yq ∂Φ/∂xq, but of course not its derivative with respect to aₚ. There comes thus
+
+[display: the second derivatives of Φ with respect to the aₚ, on the same supposition; the machine-read text cannot carry this display either].
+
+The first and second derivatives of P will then be respectively defined as mean values on the sphere Sₙ of the expressions (4) and (5).
+
+It will happen in general that each first derivative of F or of Φ depends in a special manner on the variable with respect to which it is taken. These derivatives are then in general of the order of 1/√n, as are the derivatives ∂²/∂aₚ² and ∂²/∂aₚ∂aq [the particular derivatives named are partly illegible in the machine-read text]; the other second derivatives will be of the order of 1/n.
+
+
+
+12. Case of the sphere in the functional space [1919, pp. 56–57]
+
+Take for the surface Σ the sphere
+
+∫₀¹ [ a(α) ]² dα = R².
+
+By no. 9, we have to take the mean value of Φ[[ a(α) + ρ y(α) ]] on the sphere S. Now, by a known theorem (see BOREL, Introduction géométrique à quelques théories physiques, p. 64 and following), in a space of a very large number of dimensions, the surface of a zone of very small central angle 2θ, whose bases are situated symmetrically on either side of the equator, is equal to almost the whole area of the sphere.
+
+It follows that the mean value on the sphere of a finite and continuous functional depends only on its values on an equator.
+
+We may take as equator of the sphere S its section by the plane perpendicular to AO, [O being the point x(α) = 0], on which ρ has the constant value
+
+(6) c = √( R² − ∫₀¹ [ x(α) ]² dα ).
+
+One then sees that in the definition of the potential the functional Φ[[ a(α) + ρ y(α) ]] may be replaced by any other having the same value on this equator, for example by Φ[[ a(α) + c y(α) ]], an expression which has a meaning if Φ[[ x(α) ]] is defined in the whole space and not only on the sphere Σ; we shall suppose this functional defined in such a way as to respect uniform continuity, which is easy. We have thus obtained the following result:
+
+The potential P[[ a(α) ]] is equal to the mean value of Φ[[ a(α) + c y(α) ]] on the sphere ∫₀¹ [ y(α) ]² dα = 1.
+
+From this the following results are immediately deduced:
+
+1° The potential P[[ a(α) ]] is uniformly continuous in the sphere Σ;
+
+2° If a(α) tends toward a function b(α) of the surface of Σ, c tends toward 0 and the potential tends toward Φ[[ b(α) ]].
+
+When a(α) is on the surface, only half of the useful zone on the sphere S is employed, and the potential is equal to ½Φ[[ b(α) ]]. When the function a(α) is exterior, the useful zone is no longer employed; the potential is nil.
+
+
+
+13. Fundamental property of the mean [1919, pp. 57–59]
+
+The double-layer potential is equal, at the centre of a sphere, to the mean of the values it takes on the surface of this sphere.
+
+Let Σ′ be the sphere of centre A and radius ρ. By the remark already used (no. 12) to take the mean value of the potential on Σ′, we may replace the potential by a functional which is equal to it on the equator, the section of this sphere by the plane
+
+∫₀¹ a(α) z(α) dα = 0,
+
+designating by a(α) + z(α) a function situated on the surface of Σ′.
+
+Now, if we apply the theorem of no. 12, calling c the value at A of the expression (6) and m = √(c² − ρ²) its value for the function a(α) + z(α) situated on the equator of Σ′ considered, we see that a functional equal to the potential on this equator is the mean value of Φ[[ a(α) + m y(α) ]] on the sphere S. We are thus brought back to demonstrating that
+
+(7) MΣ′ MS Φ[[ a(α) + z(α) + √(c² − ρ²) y(α) ]] = MS Φ[[ a(α) + c y(α) ]],
+
+MS and MΣ′ designating respectively means taken on the surfaces S and Σ′.
+
+We shall verify this by making precise the form of the functional Φ. Let first
+
+(8) Φ[[ x(α) ]] = φ[ x(α₁), x(α₂) ],
+
+α₁ and α₂ being two fixed values [Footnote: The use of a functional depending on x(α) in a special manner for certain values of α can be avoided for the final result, which can be obtained directly. (Author's note.)].
+
+The right-hand member of formula (7), by no. 5, 2°, then has the value
+
+(9) P = (1/2π) ∫₋∞⁺∞ ∫₋∞⁺∞ φ[ a(α₁) + c y₁, a(α₂) + c y₂ ] e⁻(y₁² ⁺ y₂²)/² dy₁ dy₂.
+
+Likewise, at a point of Σ′, the potential has the value
+
+[display: the same expression with m in place of c and z(αᵢ) in place of a(αᵢ); the machine-read text cannot carry this display],
+
+whose mean value on Σ′ is
+
+[display: the corresponding double Gaussian integral in the variables y₁, y₂, with the arguments a(αᵢ) + ρzᵢ + m yᵢ; the machine-read text cannot carry this display either].
+
+It must be shown that this expression is identical with P. One arrives there easily by the change of variables [the change of variables printed here is garbled in the machine-read text].
+
+From the case just treated, one passes to the case where Φ is of the form
+
+(10) Φ[[ x(α) ]] = ∫₀¹ ... ∫₀¹ φ[ x(α₁), ..., x(αₚ); α₁, ..., αₚ ] dα₁ ... dαₚ,
+
+φ being a bounded function, then to the case where Φ is a uniformly convergent series of expressions of this form. The property of the mean is therefore demonstrated for a very extensive class of functionals.
+
+
+
+14. Equation in functional derivatives of the double-layer potential [1919, pp. 59–61]
+
+Consider first the case where Φ is of the form (10), with p = 2, and compute the functional derivatives of the potential; the expression of the potential results from formula (9), integrating with respect to α₁ and α₂. Making first the change of variable [the change of variable printed here is garbled in the machine-read text], there comes
+
+[display: the potential P written as a multiple Gaussian integral in u₁, u₂, α₁, α₂; the machine-read text cannot carry this display].
+
+By formula (6), which defines c, the functional derivative of c is
+
+c′α[[ a(α), β ]] = − a(β) / c,
+
+and consequently that of P is
+
+[display: the first functional derivative of P — a sum of Gaussian integrals, the second of them carrying the factor a(β) − u₂; the machine-read text cannot carry this display].
+
+This derivative depends in a special manner on a(β). The derivative with respect to a(β) is
+
+[display: the second functional derivative of P with respect to a(β) — a sum of three Gaussian integrals; the machine-read text cannot carry this display].
+
+One verifies immediately that the mean value of this expression, when β varies from 0 to 1, is nil. Therefore the potential satisfies the equation in functional derivatives
+
+(E) ∫₀¹ { P″α[[ a(α), β ]] }ₐ(ᵦ) dβ = 0
+
+[in his notation: the integral, over β from 0 to 1, of the second functional derivative of P with respect to a(β)],
+
+analogous to Laplace's equation.
+
+The calculation is the same if Φ is of the form (10) with any value whatever of p. If Φ is a series of expressions of this form, one is led to differentiate a series of expressions analogous to expression (11) [the display so numbered] extended to the case of p arbitrary, an operation legitimate if the derived series satisfy certain conditions of uniform convergence. One arrives again at the same equation (E).
+
+
+
+15. Harmonic functionals and the Dirichlet problem [1919, p. 61]
+
+Call a functional harmonic a functional satisfying the equation (E). [One may also define these functionals by the property of the mean.]
+
+The Dirichlet problem will consist in finding such a functional inside a closed surface Σ knowing its values Φ on the surface.
+
+By what precedes, in the case of the sphere, the double-layer potential of density Φ is a solution of the problem. By no. 13, one knows how to compute it effectively in very extensive cases.
+
+If Σ is an arbitrary closed surface [Footnote: From here to the end of the paragraph, we reproduce exactly the author's draft, although, outside the case of convex surfaces, the first result stated as certain is inexact. The rest of the text shows, moreover, that the word certain went beyond the author's thought. In reality, the habitual data of the Dirichlet problem must be modified and the values of the functional given only on the portions of surface for which the mean curvature is directed toward the interior; that suffices to determine the solution, which is indeed given by a double-layer potential of density Φ. (P. L.)], it is certain that the potential P[[ a(α) ]] tends toward the density Φ[[ b(α) ]] when the function a(α) tends toward a function b(α) of the surface. It suffices to refer to the demonstration in the case of the sphere to be convinced that it is so, at least if Σ satisfies certain general conditions, probably the following, whose sense is moreover to be made precise: the normal sections at a point have all their concavity toward the interior and their radii of curvature are bounded.
+
+It is probable that the double-layer potential, in the case where Σ is arbitrary, is a harmonic functional, and that consequently it still solves the Dirichlet problem.
+
+
+
+16. The single-layer potential [1919, pp. 61–62]
+
+In the space of n dimensions, keeping the notations of nos. 8 and 10, this potential is written
+
+[display: the single-layer potential in n dimensions, the integral over Σₙ of ΦM cos φ / rⁿ⁻¹ dΣₙ with its normalizing factor; the machine-read text cannot carry this display].
+
+To obtain an expression remaining finite for n infinite, the preceding expression must be multiplied by [the normalizing factor, printed here and partly illegible in the machine-read text] and one considers the expression
+
+[display: the normalized single-layer potential as a mean of ΦM over the sphere Sₙ; the machine-read text cannot carry this display].
+
+This leads us, passing to the functional space, to define the single-layer potential as the mean value, on the sphere
+
+(S) ∫₀¹ [ y(α) ]² dα = 1,
+
+of the expression
+
+Φ[[ a(α) ]] / cos γ
+
+[
+
+(12) the display by which the single-layer potential is defined in the functional space; the machine-read text cannot carry it],
+
+ρ, a(α) and cos γ being defined, starting from a(α) and y(α), by the formulas
+
+F[[ a(α) + ρ y(α) ]] = 0, ρ > 0, a(α) + ρ y(α) being the point of Σ met in the direction y,
+
+‖∂F/∂β‖-type quantities [the definitions of H and of cos γ printed here are partly illegible in the machine-read text],
+
+H > 0.
+
+
+
+17. Case of the sphere [1919, pp. 62–63]
+
+As for the case of the double-layer potential, it suffices to take the mean value of the expression (12) on the equator of the sphere S defined by the formula ∫₀¹ a(α) y(α) dα = 0.
+
+Now, on this equator, ρ = R [the radius ratio printed here reads so; sense: the quantity occurring in (12) reduces on the equator to the constant R], R being the radius of the sphere Σ. Hence:
+
+On a sphere of radius R, the single-layer potential of density Φ is equal to the double-layer potential of density RΦ.
+
+
+
+18. Case of an arbitrary surface [1919, p. 63]
+
+The two potentials evidently have no relation so simple. The following proposition, whose sense is to be made precise, seems to me probable: call R[[ b(x), y(x) ]] the radius of curvature of the normal section determined, at a point b(x) of the surface, by the function b(x) + y(x). Call R[[ b(x) ]] the mean of this radius of curvature on the sphere S.
+
+When a(x) tends toward b(x), the single-layer potential P[[ a(x) ]] tends toward Φ[[ b(x) ]] R[[ b(x) ]].
+
+The preceding researches are to be connected with analogous researches relating to functions of a discrete infinity of variables.
+
+
+* * *
+
+
+
+Chapter III — Study of other equations in functional derivatives
+
+
+
+19. The equation ΔU + λU = 0 in the case of the sphere [1919, pp. 63–64]
+
+By extension of the notation employed for functions of n variables, we shall call ΔU the first member of the equation (E) of no. 14 (calling the functional considered U instead of P). Let it be required to find a solution [Footnote: The indication "characteristic constants?" written in pencil, in the margin, indicates that the author intended to study the question of the uniqueness of the solution, on which subject no indication is found in the text. There are no characteristic constants, that is to say the solution is always unique, and that whatever λ may be, real or imaginary, and whatever the surface Σ. (P. L.)] of the equation
+
+(E′) ΔU + λU = 0
+
+equal on the sphere
+
+(Σ) ∫₀¹ [ x(α) ]² dα = R²
+
+to a given functional Φ[[ x(α) ]].
+
+This problem is solved by the formula
+
+(13) U[[ x(α) ]] = eλc²/² M Φ[[ a(α) + c y(α) ]],
+
+where c has the same signification as in no. 12 and where M designates the mean on the sphere
+
+(5) ∫₀¹ [ y(α) ]² dα = 1.
+
+In the first place, if a(α) tends toward a function b(α) of the surface Σ, c tends toward 0 and U[[ a(α) ]] tends indeed toward Φ[[ b(α) ]].
+
+It remains to verify that U is a solution of the equation (E′) [Footnote: We indicate here this verification by a method different from the author's, and simpler. On the author's Method, see the Note of paragraph 21. He did not write formula (14); it is probable that if he had written this formula, he would have seen that all the solutions of equation (13) [read: of the problem of no. 19] are the product of one of them by harmonic functions, and that consequently there are no characteristic constants. Formula (14) is a particular case of the formula Δf(U, V) = fU ΔU + fV ΔV, which shows that the symbol Δ behaves in the calculations like a symbol of derivation of the first order. (P. L.)]. Observe that if U is a product of two factors V and W, one has
+
+U′α[[ x(α), β ]] = V[[ x(α) ]] W′α[[ x(α), β ]] + W[[ x(α) ]] V′α[[ x(α), β ]],
+
+whence, as V and W do not depend in a special way on β,
+
+{ U′α[[ x(α), β ]] }′ₓ(ᵦ) = V { W′α[[ x(α), β ]] }′ₓ(ᵦ) + W { V′α[[ x(α), β ]] }′ₓ(ᵦ),
+
+and consequently, on integrating with respect to β,
+
+(14) ΔU = V ΔW + W ΔV.
+
+Applying this result to the case where
+
+V = eλc²/², W = M Φ[[ a(α) + c y(α) ]],
+
+one finds immediately that U satisfies the equation (E′) if W is a harmonic function, which is the case as we already know, at least for a very extensive class of functionals Φ.
+
+
+
+20. Attempt at integration of another equation [1919, pp. 64–66]
+
+Let it be required to find a solution of the equation
+
+(E″) ΔU + λf(U) = 0,
+
+equal on the sphere Σ to a given functional Φ.
+
+In the space of n dimensions, the problem of which this is the generalization reduces to the integral equation
+
+(15) UA = (λ/((n − 2)sₙ)) ∫V f(UM) GAM dVM + (1/((n − 2)sₙ)) ∫Σ uM (dGAM/dn) dΣM,
+
+V designating the volume interior to the sphere Σ, GAM the Green function, and d/dn a derivative taken following the inward normal.
+
+The last term represents the value at A of the harmonic function equal on the surface to U, and consequently to the given values Φ. We know its expression in the case of the functional space.
+
+To evaluate the first term, replace GAM, M being here a point interior to Σ, by its expression
+
+(16) GAM = 1/rⁿ⁻² − (Rₙ/d)ⁿ⁻² (1/r′ⁿ⁻²),
+
+Rₙ designating the radius of the sphere Σ, d the distance from A to the centre of the sphere, r and r′ the distances of M to A and to its conjugate. The first term of this expression gives us first the integral
+
+(λ/((n − 2)sₙ)) ∫V (1/rⁿ⁻²) f(UM) dVM.
+
+Evaluate this integral by dividing the volume V into shells bounded by spheres of centre A, and taking account that, for each shell, only the portion neighbouring the plane through A and perpendicular to the diameter OA of the sphere Σ is to be counted. Now, if r is greater than cₙ = √(Rₙ² − d²) [as read from the printed display], this portion is exterior to the volume V and is not to be considered. If r is less than this value, it is entirely interior to V. The integral in question is therefore written
+
+(λ/(n − 2)) ∫₀c r dr Mᵣ f(UM),
+
+Mᵣ designating a mean taken on the sphere of centre A and of radius r, and becomes in the limit equal to
+
+(17) λ ∫₀c ρ dρ M f{ U[[ a(α) + ρ y(α) ]] },
+
+M designating always a mean on the sphere S.
+
+Take account now of the second term of the expression (16); as it is less than the first, there is likewise no need to take account of the portions of V where r > c, and, provided ε is small enough, one commits an error negligible before the term already computed in counting only the points M for which r > c − ε and situated, moreover, in the neighbourhood of the plane through A and perpendicular to OA. Now for these points
+
+Rₙ/(d r′) < k/r,
+
+k being a number independent of n and less than 1. It follows that for n large enough this second term, which represents at most a fraction of the first equal to kⁿ⁻², can be neglected, and finally the volume integral reduces to the expression (17).
+
+Equation (15) therefore becomes in the limit
+
+(18) U[[ a(α) ]] = λ ∫₀c ρ dρ M f{ U[[ a(α) + ρ y(α) ]] } + M Φ[[ a(α) + c y(α) ]].
+
+It remains to solve this equation and to examine whether its solution satisfies the conditions of the statement.
+
+
+
+21. Resolution of the generalized integral equation [1919, pp. 66–67]
+
+Proceed by successive approximation, defining the approximations by the formulas
+
+Uᵢ₊₁[[ a(α) ]] = M Φ[[ a(α) + c y(α) ]] + λ ∫₀c ρ dρ M f{ Uᵢ[[ a(α) + ρ y(α) ]] },
+
+U₁[[ a(α) ]] = M Φ[[ a(α) + c y(α) ]].
+
+Suppose that |Φ| < M and that, for |U| < P, |U′| < P,
+
+|f(U)| < N, |f(U) − f(U′)| < K |U − U′|.
+
+As long as the Uᵢ are of modulus less than P, one has
+
+|Uᵢ₊₁ − Uᵢ| < |λ| (R²/2) K |Uᵢ − Uᵢ₋₁|.
+
+The series Σ(Uᵢ − Uᵢ₋₁) is therefore majorized by the geometric progression
+
+M + N|λ| (R²/2) + N|λ| (R²/2) [|λ| K (R²/2)] + ... + N|λ| (R²/2) [|λ| K (R²/2)]q + ...
+
+= M + N|λ| (R²/2) · 1/(1 − K|λ|(R²/2)),
+
+the condition
+
+(19) K|λ| (R²/2) < 1
+
+[the inequality so numbered as read from the text; the printed numbering of this condition as (19) is the editor's reading]
+
+sufficing in order that the geometric progression be surely convergent and that the Uᵢ remain in modulus less than P. The approximations considered therefore converge uniformly in the interior of Σ toward a continuous functional. Moreover, if a(α) tends toward a function of the surface, c tends toward zero and U indeed takes on the surface the given values.
+
+In the linear case, one can verify the identity of the solution thus obtained with the one given by formula (13) [Footnote: One may proceed in the following manner: If one takes as first approximation V₁ the expression (14) [as read], it is easy to establish that, every solution of the equation (E″) being a solution of the integral equation (17) [as read], all the successive approximations V₁, ..., Vᵢ, ... are identical among themselves. On the other hand, Uᵢ − Vᵢ can be bounded if Uᵢ₋₁ − Vᵢ₋₁ has been bounded, and one thus establishes that, for λ small enough, Uᵢ − Vᵢ tends toward zero when i increases. This is the classical application of the method of successive approximations. Now the development considered, being a development in power series in λ, and being equal for λ small enough to the expression (13), is identical to the development of this expression in Taylor series in λ, and is consequently convergent for every λ. The author's method consists in restricting himself to the case where Φ is of the form considered (no. 5), and studied since (nos. 14 and 15), and in making the effective calculation of the development. It is an analogous method to the one he had already employed (no. 19). Here the calculations are more complicated. The author contents himself, in the form of functionals considered (no. 15), with treating the case where p = 1, and with showing the identity of the developments considered up to the term in λ², the calculation already giving the pattern of the one relative to the general term. (P. L.)]. Consequently, at least in this case, the development furnished by the method of successive approximations converges for every value of λ, and not only for the values satisfying the inequality (19).
+
+
+
+Closing note by M. Paul Lévy [1919, pp. 67–70]
+
+Beside the Memoir which precedes, there was found among R. Gateaux's papers another draft, capable of being read following no. 5 of the preceding draft. Although the one published above is evidently later, I think it useful to give some indications on a few passages of the first draft which mark well the evolution of the author's thought.
+
+He had taken at first as his point of departure the formula which solves the Dirichlet problem, for the sphere, in the space of n dimensions, then effected the passage to the limit. He had arrived at an expression a little less simple than that of no. 9, considering the mean value on the sphere S, not of the quantity Φ, but of a slightly more complicated expression. These two expressions are moreover equal on the equator of S perpendicular to the line of centres of S and Σ, and by no. 12 it suffices to consider this equator. But the author had not at first remarked the simplification which resulted from this circumstance and which makes the solution be given simply by a double-layer potential.
+
+It is in seeking to demonstrate that the solution thus formed is indeed equal on the surface to the given values that the author perceived this circumstance, which decided him to begin a new draft, in which he starts from the notion of double-layer potential, and can, thanks to the simplicity of the results and of the reasonings, give some indications on the case of an arbitrary surface.
+
+The first draft contains also an attempt at a demonstration of the mean-value theorem, based on the knowledge of this theorem in the space of n dimensions and the legitimization of the passage to the limit. This legitimization is very delicate, and it seems that Gateaux renounced it, at least provisionally, to base his second draft on the effective calculation of the case where the attracting layer is carried by a sphere and where its density is expressed by means of the functionals studied in no. 5. The direct verification of the principal properties is then possible, and the results are less general, but more concrete.
+
+Although he did not succeed in legitimizing the passage to the limit, he was led by his attempts to do so to an important remark, which applies in a general manner to the justification of the notion of mean value, and which states itself as follows:
+
+The mean value of a functional Φ in a functional domain, such as it was defined in no. 3 of the preceding Memoir, surely exists if, given ε and η positive, one can determine n such that Φ differs from its n-th section by less than ε, except in a fraction η of the domain considered.
+
+Restricting the preceding condition by the hypothesis that n exists for η = 0 and ε positive, Gateaux arrives, at the end of his first draft, at considering the example by which he begins his second draft (no. 6 of the preceding Memoir). But he himself observes that "this condition appears much too restrictive."
+
+As I shall show later, it is indeed by excluding a very small fraction of the domain considered that one most easily arrives at demonstrating the existence of the mean value for an extended category of functionals and at justifying the extension of theorems established only in the case of functions of a finite number of variables. One can then establish a theory of harmonic functionals more general than the preceding one, of which here are the principal circumstances:
+
+1° Although the equation of harmonic functionals is of the second order, the Cauchy problem coincides with that of Dirichlet, and is correctly posed when one gives the values of the harmonic functional U on a surface Σ (or even on an intersection of several surfaces). Its solution is given by a double-layer potential of density equal to the given values, and is well defined at every point through which it is impossible to draw a minimal surface not cutting Σ. Outside the volume V thus defined, the potential is nil, and at the surface it is equal to half the value it takes in the neighbourhood of the surface on the interior side. But the prolongation of the harmonic functional U to the exterior of V can be made in an infinity of manners, so that at a point exterior to V, even very near its surface, even where it is a matter of the parts of the surface constituted by Σ, the value of U is arbitrary.
+
+2° If the surface Σ is minimal, the preceding volume V reduces to this surface. The value of ΔU at a point of Σ depends only on the values of U on Σ, and is independent of the value of ∂U/∂n and of ∂²U/∂n² [the normal derivatives printed here are partly illegible in the machine-read text]. The given values U must therefore satisfy an equation in functional derivatives in order to be able to give birth to a harmonic function, and they are entirely defined in a region of Σ if they are defined on the boundary C of this region. Each of the derivatives ∂/∂n [as printed] is likewise defined by its value on C.
+
+3° The surfaces U = const. are all minimal surfaces. The determination of U can therefore be obtained by determining the minimal surfaces containing the regions U = const. on the surface Σ. These surfaces are determined in all the volume V, even if the surface Σ does not completely surround this volume.
+
+The minimal surface bounded by a contour C can moreover be obtained as the locus of the points A such that this contour, seen from one of these points, divides space into two equal solid angles. The sphere having as centre such a point A and an arbitrary radius is shared by this surface (as also by the cone of vertex A containing C) into two equal areas. But almost all its area is near the surface, so that to take the mean value of a functional on a sphere, it suffices to know the values of this functional at the points common to this sphere and to a minimal surface through its centre. One thus sees the identity between the solutions of the Cauchy or Dirichlet problems, whether by the double-layer potential, or by the theory of minimal surfaces.
+
+(P. L.)
