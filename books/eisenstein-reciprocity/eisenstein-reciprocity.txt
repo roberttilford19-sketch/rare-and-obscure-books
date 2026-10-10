@@ -1,0 +1,623 @@
+DERIVATION OF THE BIQUADRATIC FUNDAMENTAL THEOREM FROM THE THEORY OF THE LEMNISCATE FUNCTIONS
+
+
+
+With remarks on the multiplication and transformation formulas — the complete memoir
+
+
+
+From Beiträge zur Theorie der elliptischen Functionen I, in Mathematische Abhandlungen (Berlin: G. Reimer, 1847)
+
+Gotthold Eisenstein (1823–1852)
+
+A fresh English translation, made from the German of 1846–47.
+
+The Boneyard — Rescued Works
+
+
+* * *
+
+> DRAFT — NOT FOR PUBLICATION. This edition is offered as a working draft. It awaits review by a working mathematician (number theory) and by a reader of the period German, including collation of the translation against the page images of the printed original, before any publication. No claim in it should be quoted as settled until those reviews are done.
+
+Public domain source text; modern edition (c) editor, free redistribution.
+
+
+* * *
+
+
+
+DEDICATION
+
+Who he was. Ferdinand Gotthold Max Eisenstein (1823–1852), the Berlin prodigy whom Gauss championed and Humboldt bankrolled — the boy who at fourteen had outrun his Gymnasium, at seventeen was sitting in Dirichlet's university lectures, and at twenty-one was publishing in Crelle's Journal papers that made the old masters take notice. His name survives in the daily working vocabulary of mathematics — the Eisenstein integers, Eisenstein's criterion for the irreducibility of polynomials, the Eisenstein series of the theory of modular forms — but the memoirs in which he earned those names have waited outside English for nearly one hundred and eighty years.
+
+His home and circumstances. Born in Berlin on 16 April 1823, the son of Johan Konstantin Eisenstein and Helene Pollack, he survived the infant meningitis that killed his brothers and sisters, and grew up a frail, brilliant, musical boy. At fourteen he entered the Friedrich Werder Gymnasium; by fifteen the school had nothing left to teach him, and he went to Euler and Lagrange on his own account. In 1843 he travelled to Dublin and met William Rowan Hamilton, who put Abel's proof of the impossibility of solving the quintic into his hands and so turned him toward research. August Crelle, the founder of the Journal für die reine und angewandte Mathematik, discovered the young man's genius and introduced him to Alexander von Humboldt, who became his patron; Humboldt sent him to Gauss at Göttingen in 1844, and Gauss's enthusiasm — talents, he wrote to Humboldt on 14 April 1846, such as nature bestows on only a few in each century — made the twenty-three-year-old famous overnight. Breslau gave him an honorary doctorate in 1845; he took his post-doctoral degree at Berlin in 1847 and lectured there. In March 1848 the revolutions caught him: dragged from a house during the street fighting of 19 March and held overnight in the citadel at Spandau, he was released the next day, but the mistreatment broke something in his already fragile health, and the whisper that he was a "republican" dried up the money that had kept him alive.
+
+His death. In late July 1852 he suffered a severe hemorrhage; Humboldt raised the funds to send him to Sicily to recover, but the money came too late. He died of pulmonary tuberculosis in Berlin on 11 October 1852, aged twenty-nine, in what the biographers call forlorn solitude — and the eighty-three-year-old Humboldt walked behind his coffin to the grave.
+
+Why this work is vital — to prove his logic. The memoir translated here is the first of his "Contributions to the theory of elliptic functions": the derivation of the biquadratic fundamental theorem from the theory of the lemniscate functions. He signed it "Im October 1845" — he was twenty-two. Watch what he does. He takes the lemniscatic sine φ(t) — the inverse of the arc-length integral of the lemniscate — and asks for its multiplication formulas when the multiplier m is an arbitrary odd Gaussian integer. He gets the shape of the formula from the differential equation alone, and then proves the congruence theorem that every coefficient but one in numerator and denominator is divisible by m — "which seems destined to form the foundation for all applications of the division of the lemniscate to number theory," as he puts it, "and which is all the more remarkable as it can be derived quite simply from the differential equation." Then he divides the lemniscate: the ¼(p−1) fourth powers of the division radii, grouped in a quarter-residue system — Gauss's own device for partitioning a residue system by units, which Eisenstein calls "as important as the concept of congruence itself." From their symmetric functions he pulls the biquadratic reciprocity law, and gives it Gauss's own form. And he does not stop at the proof: the second half of the memoir builds a working method for computing the multiplication coefficients one by one — power sums, Newton's identities, "the required recursion formula" — and carries the whole machinery over to transformation equations with arbitrary moduli, saluting Jacobi's Fundamenta nova, correcting a misprint in it, and confessing honestly where his own route to the modular equation still "requires considerable development, if it is not to become illusory for a general n." This is a twenty-two-year-old doing arithmetic the way Gauss did: from the differential equation, with nothing taken on trust — signed October 1845, eight months before Gauss wrote to Humboldt that his talents were such as nature bestows on only a few in each century.
+
+His relation to this series. The Boneyard keeps works the world shelved before it finished listening. Eisenstein's 1847 volume — printed with a preface by Gauss himself — gathered the higher arithmetic and the elliptic functions of his four working years; the century absorbed his theorems and forgot to read his proofs. The biquadratic-reciprocity memoir, which the histories call his first great application of elliptic functions to number theory but seldom quote, has, after the research recorded in the notes, no English translation to its name. So here it is, complete — because he proved his logic, and then the tuberculosis took him at twenty-nine, and the book waited.
+
+— The Editor
+
+
+
+A note on this edition
+
+This volume translates, complete, one memoir by Gotthold Eisenstein:
+
+- Ableitung des biquadratischen Fundamentaltheorems aus der Theorie der Lemniscatenfunctionen, nebst Bemerkungen zu den Multiplications- und Transformationsformeln [Derivation of the biquadratic fundamental theorem from the theory of the lemniscate functions, with remarks on the multiplication and transformation formulas], Beiträge zur Theorie der elliptischen Functionen I, in Mathematische Abhandlungen, besonders aus dem Gebiete der höhern Arithmetik und der elliptischen Functionen (Berlin: G. Reimer, 1847), vol. pp. 129–154 [= Journal für die reine und angewandte Mathematik 30 (1846), pp. 185–210; repr. in Mathematische Werke I (Chelsea, 1975), pp. 299–324, check-only]. The memoir is translated entire, §§1–5, signed by the author "Im October 1845." The volume's other memoirs are mapped in the notes file (NOTES.md).
+
+The translation was made from the digitised 1847 Reimer edition (Internet Archive item `mathematischeabh00eiseuoft`, the Toronto copy; a second 1847 copy, `10053424bsb`, served as collation witness; file checksums are pinned in NOTES.md). The author died in 1852; the text is public domain. Because the machine-read text of this memoir is treacherous in the displays — Fraktur subscripts, fractions, and partial-derivative notation suffer — the translation was worked directly from the page images of the 1847 printing (the image evidence, including zoom checks of the dense formula displays, is recorded in NOTES.md); nothing was reconstructed from the OCR alone, and where the print itself is ambiguous the reading is flagged in place.
+
+His notation stands. His φ(t) is the lemniscatic sine (the inverse of the lemniscate arc-length integral), kept as φ; his ∂ is kept as ∂ (he writes ∂y/∂t even for total derivatives of functions of one variable); his m = a+bi is primary in Gauss's sense, ≡ 1 (mod. 2+2i), and p = N(m) = a²+b²; his bracket-symbol [n/m] is the biquadratic residue character — the complex unit to which n(p⁻¹)/⁴ is congruent mod m — and is rendered [n/m] throughout; his Viertelrestensystem is the "quarter residue system"; his ganze Function is a polynomial; his Πn in the Jacobi correction is Jacobi's factorial notation. The print's Fraktur letters (in (6.) and the examples) are rendered here as italic f and G, since the house font carries no Fraktur glyphs. The names by which the century knows the results — the Eisenstein integers, the lemniscatic sine, biquadratic reciprocity — are the textbooks' and the historians', and they live in the dedication and the notes, not in his text. It was made without consulting any modern copyrighted translation; no English translation of this memoir was found after research, though its results are restated wherever the early reciprocity laws are taught.
+
+One correction of the record: the brief for this build described its author as Danzig-born. He was not — the biographical sources (MacTutor, the auction-house biography, the encyclopaedia entries) agree he was born in Berlin on 16 April 1823. The dedication prints Berlin.
+
+
+* * *
+
+
+* * *
+
+THE MEMOIR
+
+
+
+§1. The multiplication formulas for a complex multiplier [1847, pp. 129–133]
+
+If a+bi = m denotes any odd complex whole number, and a²+b² = p = N(m) is put, then the integral of the differential equation
+
+(1.) ∂y/√(1−y⁴) = (a+bi)·∂x/√(1−x⁴),
+
+which is to vanish together with x, is of the form
+
+(2.) y = x·(A₀+A₁x⁴+A₂x⁸+...+A(ₚ₋₁)/₄xp⁻¹)/(1+B₁x⁴+B₂x⁸+...+B(ₚ₋₁)/₄xp⁻¹) = U/V,
+
+where the coefficients A₀, A₁ etc., B₁ etc. are whole complex numbers. In this form of the integral, numerator and denominator will have no algebraic, and indeed no numerical, common divisor. The point is to find the still unknown whole coefficients, or at least to discover those of their properties which will be needed here.
+
+One easily shows that A₀ = m; for A₀ is the value of y/x for x = 0, hence A₀ = ∂y/∂x for x = 0; but y vanishes together with x, so the differential equation (1.) gives, for x = 0, ∂y/∂x = m.
+
+Putting in (1.) and (2.) x = 1/(iμξ), y = 1/η, and disposing of the whole number μ in a suitable manner, one obtains
+
+∂η/√(1−η⁴) = m·∂ξ/√(1−ξ⁴),
+
+η = iμξ·(B(ₚ₋₁)/₄+B(ₚ₋₅)/₄ξ⁴+...+B₁ξp⁻⁵+ξp⁻¹)/(A(ₚ₋₁)/₄+A(ₚ₋₅)/₄ξ⁴+...+A₁ξp⁻⁵+ξp⁻¹);
+
+[1847, p. 130] hence
+
+(3.) y = iμx·(B(ₚ₋₁)/₄+...+xp⁻¹)/(A(ₚ₋₁)/₄+...+A₀xp⁻¹)
+
+is also an integral of the differential equation (1.), and since this likewise vanishes together with x, and must therefore be identical with (2.), and since numerator and denominator have no common divisor, the numerators and denominators of the new and the old y from (3.) and (2.), apart from a complex unit, must agree with one another when compared term by term. Such a comparison gives:
+
+(4.) A₀ = iνB(ₚ₋₁)/₄, A₁ = iνB(ₚ₋₅)/₄, ..., A(ₚ₋₅)/₄ = iνB₁, A(ₚ₋₁)/₄ = iν.
+
+The exponent ν is a still undetermined whole number. To determine it and to conduct the following investigations with greater ease, let φ(t) be in general that function of t which vanishes together with t and satisfies the differential equation
+
+∂φ(t)/∂t = √(1−φ(t)⁴).
+
+Moreover put
+
+ω = 4·∫₀¹ dz/√(1−z⁴), so that φ(ω/4) = 1.
+
+The function φ(t) is complex-periodic, and one has φ(t+kω) = φ(t) when k denotes any whole complex number. The fundamental properties of the function φ are given by the two equations
+
+φ((1+i)t) = (1+i)φ(t) and φ(it) = iφ(t).
+
+From these and from the mentioned periodicity, which follows immediately from the fundamental equations, one easily derives the formula
+
+φ([(2α+1+2βi)ω/4]) = (−1)α⁺β,
+
+when α and β are two real whole numbers. The integral (2.) of the differential equation (1.) can now be written in the following form:
+
+φ(mt) = φ(t)·(A₀+A₁φ(t)⁴+...+A(ₚ₋₁)/₄φ(t)p⁻¹)/(1+B₁φ(t)⁴+...+B(ₚ₋₁)/₄φ(t)p⁻¹).
+
+To determine now the value of ν in (4.), put in place of t the special value ω/4, so that φ(t) = 1: since for this value, when one further takes a odd = 2α+1, b even = 2β, by the remark just made φ(mt) = φ(m·ω/4) passes over into (−1)α⁺β, one obtains from the formula just written
+
+(−1)α⁺β = (A₀+A₁+...+A(ₚ₋₁)/₄)/(1+B₁+...+B(ₚ₋₁)/₄)
+
+for a value of m whose real part is odd and whose coefficient of i is even; hence, if for A₀, A₁ etc. the values through the B from (4.) are substituted, there comes
+
+(−1)α⁺β = iν·(B(ₚ₋₁)/₄+B(ₚ₋₅)/₄+...+B₁+1)/(1+B₁+...+B(ₚ₋₅)/₄+B(ₚ₋₁)/₄), which = iν,
+
+because numerator and denominator here are equal to one another and cannot vanish at the same time; hence iν = (−1)α⁺β.
+
+For all cases it suffices to take m primary, in the sense Gauss attached to this word, i.e. ≡ 1 (mod. 2+2i), for all possible complex odd numbers can be derived from the primary ones by multiplication with complex units ±1, ±i. For a primary value of m, α+β is even, hence iν = +1, and thus the multiplication formulas for a primary value of m, but only for such a one, are of the form
+
+(5.) φ(mt) = φ(t)·(m+A₁φ(t)⁴+...+φ(t)p⁻¹)/(1+A(ₚ₋₅)/₄φ(t)⁴+...+mφ(t)p⁻¹),
+
+y = (mx+A₁x⁵+...+xp)/(1+A(ₚ₋₅)/₄x⁴+...+mxp⁻¹) = U/V.
+
+We now come to a theorem which seems destined to form the foundation for all applications of the division of the lemniscate to number theory, and which is all the more remarkable as it can be derived quite simply from the differential equation. It is the following:
+
+"If m is a two-termed complex prime, hence p a real prime ≡ 1 (mod. 4), then all coefficients of the numerator U, except the last, as well as all coefficients of the denominator V, except the first, are divisible by m."
+
+[1847, p. 131] In fact, putting y = U/V in the differential equation (1.), there comes
+
+V·∂U/∂x − U·∂V/∂x = m·√(V⁴−U⁴)/√(1−x⁴).
+
+From this it follows on the one hand that the expression √(V⁴−U⁴)/√(1−x⁴) is equal to a whole function of x⁴, which we will denote by T. On the other hand, V⁴−U⁴ is a whole function of x⁴ with whole complex coefficients,
+
+[1847, p. 132] whose constant term = 1, and which vanishes for x⁴ = 1; hence V⁴−U⁴ is divisible by 1−x⁴, and (V⁴−U⁴)/(1−x⁴) = T² is a whole function of x⁴ with whole coefficients, whose constant term (first coefficient) = 1; hence T itself, which has already been recognized as a whole function, must likewise have all whole coefficients. Since now
+
+V·∂U/∂x − U·∂V/∂x = m·T,
+
+it follows from this that
+
+V·∂U/∂x − U·∂V/∂x ≡ 0 (mod. m),
+
+a congruence which is to be understood in the sense that every coefficient in the left side, ordered by powers of x, is divisible by m. Developing in fact, according to the formulas
+
+∂U/∂x = A₀+5A₁x⁴+9A₂x⁸+13A₃x¹²+...,
+
+∂V/∂x = 4B₁x³+8B₂x⁷+12B₃x¹¹+...,
+
+there comes
+
+V·∂U/∂x − U·∂V/∂x = A₀+(−3A₀B₁+5A₁)x⁴+(−7A₀B₂+A₁B₁+9A₂)x⁸+(−11A₀B₃−3A₁B₂+5A₂B₁+13A₃)x¹²+ etc.
+
+Since now each single coefficient here is to be divisible by m, and for a two-termed prime m the numerical factors 5, 9, 13, ..., p−4 do not divide by m, one sees, using the congruences already obtained at each following one, that A₀, A₁, A₂, ..., A(ₚ₋₅)/₄ must necessarily be divisible by m. E.g., A₀, as well as −3A₀B₁+5A₁, are divisible by m, hence also 5A₁; but 5 is not divisible by m, hence A₁ must be; further, m divides −7A₀B₂+A₁B₁+9A₂, but also A₀ and A₁, as just found, hence also 9A₂, hence A₂, since 9 is not divisible by m, and so on in the same way. This mode of inference can no longer be applied to the last coefficient A(ₚ₋₁)/₄, since p·A(ₚ₋₁)/₄ may very well be, and must be, divisible by m without A(ₚ₋₁)/₄ needing to be. Nor can these inferences be applied when m is a one-termed prime: in this case several of the numbers 5, 9, 13, ..., p−4 become divisible by m.
+
+We see, then: "that for every primary two-termed complex prime m, φ(mt) can be brought to the form:
+
+(6.) φ(mt) = φ(t)·(<i>m</i><i>f</i>+φ(t)p⁻¹)/(1+<i>m</i><i>G</i>),
+
+"where f and G are whole functions of φ(t)⁴ with whole complex coefficients."
+
+[1847, p. 133] Examples. For m = −1+2i, p = 5, y = ((−1+2i)x+x⁵)/(1+(−1+2i)x⁴); for m = 3+2i, p = 13,
+
+y = ((3+2i)x+(7−4i)x⁵+(−11+10i)x⁹+x¹³)/(1+(−11+10i)x⁴+(7−4i)x⁸+(3+2i)x¹²),
+
+and one has
+
+7−4i = (3+2i)(1−2i), −11+10i = (3+2i)(−1+4i),
+
+so that f = 1+(1−2i)x⁴+(−1+4i)x⁸, G = (−1+4i)x⁴+(1−2i)x⁸+x¹².
+
+For m = 1+4i, p = 17, the coefficients of the numerator U are in succession:
+
+1+4i, −20−12i = (1+4i)(−4+4i), −10+28i = (1+4i)(6+4i), 12−20i = (1+4i)(−4−4i), 1.
+
+To give an example also of the fact that the theorem loses its validity for non-primes, consider the coefficients of the numerator for m = 5, p = 25, which are 5, −62, −105, 300, −125, 50, 1, where −62 is not divisible by 5.
+
+
+
+§2. The quarter residue system and the roots of the division equation [1847, pp. 133–135]
+
+A complex residue system for the (odd, primary) modulus m can, after exclusion of the term divisible by the modulus, be grouped in many ways as follows:
+
+(7.)
+
+| r₁ | ir₁ | −r₁ | −ir₁ | | r₂ | ir₂ | −r₂ | −ir₂ | | ... | ... | ... | ... | | r(ₚ₋₁)/₄ | ir(ₚ₋₁)/₄ | −r(ₚ₋₁)/₄ | −ir(ₚ₋₁)/₄ |
+
+For if one takes for r₁ any term of the residue system, the four numbers of the first horizontal row of the scheme are incongruent with one another; if they do not yet exhaust the residue system, take for r₂ any
+
+[1847, p. 134] of the still remaining terms, whereupon the four terms of the second horizontal row will be incongruent with one another and with those of the first; and so on, until all terms of the residue system are exhausted). We call this grouping: the division of a residue system into four associated parts, and each of these four parts, for short, a quarter residue system. After one has made this division in any one way, one can derive all the other ways from it by cyclically permuting the terms of each single horizontal row, so that the number of ways = 4(p⁻¹)/⁴. The thought, first indicated by Gauss, of dividing a residue system in this way is as important as the concept of congruence itself, and rests on the consideration of such numbers as behave to associated numbers as congruent numbers do to equal ones. Said in two words, a quarter residue system is any series of ¼(p*−1) numbers from which one can produce, by addition of multiples of the modulus and by multiplication with complex units, all numbers not divisible by the modulus, and each only once.
+
+*) It follows by the way from this that the norm of a complex number composed of 4th roots of unity ≡ 1 (mod. 4); in the special case of 4th roots of unity this remark is admittedly of little consequence, but it is interesting that an analogous inference can be applied to complex numbers composed of arbitrarily high roots of unity.
+
+After this preliminary remark we turn to the consideration of the roots of the equation U/x = 0. U/x is a whole function of x⁴ of degree ¼(p−1), so the equation U/x = 0, if in it x⁴ = z is regarded as the unknown, i.e. the equation
+
+(8.) z(p⁻¹)/⁴ + A(ₚ₋₅)/₄z(p⁻¹)/⁴⁻¹ + ... + A₁z + m = 0,
+
+has ¼(p−1) roots z, which, since the equation (8.) has φ(mt) = 0 as a consequence, are evidently given by the formula z = φ(rω/m)⁴, in which r denotes the aggregate of the numbers r₁, r₂, ..., r(ₚ₋₁)/₄ from the first vertical column of the scheme (7.). Since the coefficients of the equation (8.) are whole, every symmetric whole function of its roots is also — "every symmetric function of the ¼(p−1) quantities φ(r₁ω/m)⁴, φ(r₂ω/m)⁴, φ(r₃ω/m)⁴ etc., whose aggregate is denoted by φ(rω/m)⁴, is a whole complex number" — and since the product of all roots is equal to the positive or negative last coefficient, according as the degree of the equation is an even or an odd number, one has in particular
+
+(9.) Πφ(rω/m)⁴ = (−1)(p⁻¹)/⁴·m, or
+
+(9′.) ⁴√((−1)(p⁻¹)/⁴·m) = Πφ(rω/m),
+
+[1847, p. 135] where the multiplication sign Π refers to all values of r. The importance of the formula (9′.) consists in the fact that it is the only one by which one can so far express, so to speak rationally, the fourth root of a complex number; it takes in part the place of the Gaussian formulas in the complex theory. — What has been said here holds, incidentally, whether m be one-termed or two-termed, if only primary.
+
+
+
+§3. The biquadratic residues and the reciprocity law [1847, pp. 135–138]
+
+To pass to the biquadratic residues, let, with retention of the previous notations, m be any primary prime, whether one-termed or two-termed, n on the other hand a primary and two-termed prime, different from m; p and q be respectively the norms of m and n. — Multiplying all r by n, the remainders of the various products nr are found partly among the r, partly among the ir, −r, or −ir; one can therefore put in general
+
+nr ≡ iμr′ (mod. m),
+
+where the various r′, which correspond to the various r, are all found among the r, and are all different from one another), hence, even if in a different order, coincide with all r. From the congruence just written there follows, on account of the complex periodicity of the function φ and on account of φ(it) = iφ(t*):
+
+φ(nrω/m) = φ(iμr′ω/m) = iμφ(r′ω/m), iμ = φ(nrω/m)/φ(r′ω/m),
+
+) Because nrσ cannot be ≡ ±nrτ or ≡ ±inrτ without rσ ≡ ±rτ or ≡ ±ir*τ, which last, however, evidently contradicts the manner of construction of our scheme (7.).
+
+[1847, p. 136] hence, if this value of iμ is substituted in the congruence, one obtains in all cases:
+
+nr ≡ r′·φ(nrω/m)/φ(r′ω/m) (mod. m),
+
+and since all r′, even if in a different order, coincide with all r, there comes, by multiplication over all r:
+
+n(p⁻¹)/⁴Π(r) ≡ Π(r)·Πφ(nt)/Πφ(t) (mod. m),
+
+where for ease of printing t is written instead of rω/m. Since now none of the numbers r is divisible by m, one can divide out by Π(r) on both sides and obtains
+
+(10.) n(p⁻¹)/⁴ ≡ Πφ(nt)/Πφ(t) (mod. m),
+
+which can also be written thus:
+
+(10′.) [n/m] = Πφ(nt)/φ(t),
+
+as soon as one denotes by [n/m] that complex unit to which the power n(p⁻¹)/⁴ (mod. m) is congruent.
+
+For the further treatment of the analytic formula set up in (10′.) for [n/m], the result found in §. 1. serves, according to which
+
+φ(nt)/φ(t) = (nF[φ(t)⁴]+φ(t)q⁻¹)/(1+nG[φ(t)⁴]),
+
+because n has been assumed to be a two-termed primary prime; F and G are whole functions of φ(t)⁴ with whole complex coefficients. Hereupon there comes, on account of (10′.),
+
+(11.) [n/m]·Π{1+nG[φ(rω/m)⁴]} = Π{nF[φ(rω/m)⁴]+φ(rω/m)q⁻¹}.
+
+The two products on the left and on the right in this formula, in which the multiplication refers to all values of r, can, if the multiplication is carried out, be ordered purely algebraically by powers of n, and one sees that then every coefficient of these developments is a symmetric function of the quantities φ(rω/m)⁴, hence, by §. 2.,
+
+[1847, p. 137] is equal to a whole complex number: so that one obtains
+
+[n/m]·{1+a₁n+a₂n²+...+a(ₚ₋₁)/₄n(p⁻¹)/⁴} = Πφ(rω/m)q⁻¹+b₁n+b₂n²+...+b(ₚ₋₁)/₄n(p⁻¹)/⁴,
+
+where a₁, a₂ etc., b₁, b₂ etc. are all whole complex numbers, namely all symmetric whole functions of the roots of the equation (8.). Putting here for Πφ(rω/m)q⁻¹ the value [(−1)(p⁻¹)/⁴m](q⁻¹)/⁴ from (9.) and omitting on both sides the terms divisible by n, one stands at the goal, for one gets:
+
+[n/m] ≡ (−1)(p⁻¹)/⁴·(q⁻¹)/⁴·m(q⁻¹)/⁴ (mod. n), i.e.
+
+(12.) [n/m] = (−1)(p⁻¹)/⁴·(q⁻¹)/⁴·[m/n].
+
+This is the Gaussian reciprocity law for all cases with the exception of the single one when both numbers are real (one-termed). In this latter case the theorem follows immediately without further ado from Fermat's theorem; for if m and n are both real primes ≡ 3 (mod. 4), then m² and n² are their norms and one has (±m)(ⁿ²⁻¹)/⁴ = (±m(ⁿ⁺¹)/⁴)ⁿ⁻¹ ≡ 1 (mod. n), and (±n)(m²⁻¹)/⁴ = (±n(m⁺¹)/⁴)m⁻¹ ≡ 1 (mod. m), hence [m/n] = [n/m]. To give the reciprocity theorem (12.) the form in which Gauss represented it, one need only remark that for m = a+bi, p = a²+b², (p−1)/4 = (a²−1)/4 + b²/4 = (a²−1)/4 + (b/2)², and that a² as the square of an odd number ≡ 1 (mod. 8), hence (a²−1)/4 is even, so (p−1)/4 ≡ (b/2)² ≡ b/2 (mod. 2). Since a+bi is primary, one has b/2 ≡ (a−1)/2 (mod. 2), hence also (p−1)/4 ≡ (a−1)/2 (mod. 2); putting likewise n = c+di, one has in the same way (q−1)/4 ≡ (c−1)/2 (mod. 2), so in (12.) one can write (a−1)/2·(c−1)/2 in place of (p−1)/4·(q−1)/4; one obtains thus
+
+[n/m] = (−1)(a⁻¹)/²·(c⁻¹)/²·[m/n];
+
+and this is the Gaussian form of the theorem. It is still to be remarked that from the combination of the formulas (9′.) and (10′.)
+
+[1847, p. 138] Πφ(rω/m) = ⁴√((−1)(p⁻¹)/⁴m), Πφ(nrω/m) = [n/m]·Πφ(rω/m), the following arises
+
+Πφ(nrω/m) = [n/m]·⁴√((−1)(p⁻¹)/⁴m).
+
+The first of these three last-written formulas holds for an arbitrary primary m, the two others on the contrary only for prime m; n is entirely arbitrary, only not divisible by m; r runs in the multiplication through a quarter residue system (mod. m).
+
+
+
+§4. A method for computing the coefficients of the multiplication formulas [1847, pp. 138–150]
+
+It may not be out of place here to indicate a simple method according to which one can compute the coefficients in the numerator and denominator of the multiplication formulas for the lemniscate. The complex whole number m is here subjected only to the single restriction of being primary, i.e. ≡ 1 (mod. 2+2i). Let
+
+(1.) ∂x/∂t = √(1−x⁴) and ∂y/∂t = m√(1−y⁴),
+
+which two equations take the place of the single one ∂y/∂x = m√(1−y⁴)/√(1−x⁴), then
+
+y = U/V = (xp + B₁xp⁻⁴ + ... + A₁x⁵ + mx)/(mxp⁻¹ + A₁xp⁻⁵ + ... + B₁x⁴ + 1).
+
+Considering in the equation U − Vy = 0, i.e.
+
+(2.) xp − m·y·xp⁻¹ + B₁xp⁻⁴ − A₁y·xp⁻⁵ + ... + mx − y = 0,
+
+x as a function of y, the p roots of this equation, which we denote by
+
+(3.) x₁, x₂, x₃, ..., xₚ,
+
+give p functions of y which all satisfy the differential equations (1.). Every symmetric function of the quantities x₁, x₂ etc. can be expressed through the coefficients of the equation (2.), and if one could conversely determine every symmetric function of these quantities in some direct way, one would also have the coefficients of the equation (2.), hence also the coefficients of the numerator and denominator A₁ etc. B₁ etc.
+
+[1847, p. 139] Since in the equation (2.) the coefficient of xp⁻¹ is = −my, that of xp⁻² zero, the sum of the quantities (3.) = my, the sum of their combinations by twos = 0, consequently also the sum of their squares = m²y²; this very well-known result may be written thus
+
+(4.) Σx = my, Σx² = m²y²,
+
+where in general ΣF(x) denotes the sum F(x₁)+F(x₂)+...+F(xₚ). By continued differentiation of the (4.) it will succeed in determining all symmetric combinations of the quantities (3.); since, however, all symmetric combinations can be expressed in the power sums, it suffices to find these latter; let the power sums of the quantities (3.) be denoted by S₀, S₁, S₂ etc., so that Sμ = Σxμ = x₁μ+x₂μ+...+xₚμ; S₀ is = 1+1+...+1 = p. In trigonometry one of the most important principles, through which one arrives at linear expressions, consists in the development of the powers of circular functions according to the sine or cosine of multiple arcs; since this expedient is lacking with the elliptic functions, Jacobi has indicated another in his Fundamenta, which rests on the possibility of expressing the higher differential quotients of elliptic functions through the powers of these functions, and conversely the powers linearly through the differential quotients. As many a beautiful mathematical thought remains unfruitful for lack of analytic working power, so this principle too, apart from the application made by Jacobi, seems not to have been further used. In our problem here the expedient just mentioned can be applied with success. For differentiating the equations (4.) μ times with respect to t, so that one obtains
+
+(5.) Σ∂μx/∂tμ = m·∂μy/∂tμ, Σ∂μ(x²)/∂tμ = m²·∂μ(y²)/∂tμ,
+
+transforming for even values of μ the differential quotients on the right of the equality sign into powers of y and then inserting the sums on the left into the formulas which express the powers of x through the differential quotients of x or x², hence also the power sums Σxμ through the sums of differential quotients, one obtains directly all the power sums Sμ as functions
+
+[1847, p. 140] of y. Putting then y = 0, one gets from this the power sums of those quantities which make the numerator of the multiplication formula vanish. In fact, differentiating the equation ∂x/∂t = √(1−x⁴) once, 3 times, 5 times etc. with respect to t, there comes
+
+∂²x/∂t² = −2x³, ∂⁴x/∂t⁴ = −12x+24x⁵, ∂⁶x/∂t⁶ = 72·(7x³−10x⁷), etc.
+
+Furthermore one obtains by differentiation of the equation ∂(x²)/∂t = 2x√(1−x⁴):
+
+∂²(x²)/∂t² = 2−6x⁴, ∂⁴(x²)/∂t⁴ = 24·(−3x²+5x⁶), ∂⁶(x²)/∂t⁶ = 144·(−1+28x⁴−35x⁸), etc.
+
+Each following equation can be derived from the preceding with the help of the formula
+
+∂²ψ/∂t² = (1−x⁴)·∂²ψ/∂x² − 2x³·∂ψ/∂x.
+
+The even differential quotients of x, x² with respect to t are therefore expressed respectively by odd, even whole functions of x; let the equations which effect this be denoted for brevity by (E.). The same treatment of the equation ∂y/∂t = m√(1−y⁴) delivers
+
+(F.) { ∂²y/∂t² = −2m²y³, ∂⁴y/∂t⁴ = 12m⁴(−y+2y⁵), ∂⁶y/∂t⁶ = 72m⁶(7y³−10y⁷), etc., ∂²(y²)/∂t² = 2m²(1−3y⁴), ∂⁴(y²)/∂t⁴ = 24m⁴(−3y²+5y⁶), ∂⁶(y²)/∂t⁶ = 144m⁶(−1+28y⁴−35y⁸), etc. }
+
+These equations, which we denote by (F.), give the even differential quotients of y and y² with respect to t through odd, respectively even whole functions of y, and are derived from one another with the help of the formula
+
+∂²ψ/∂t² = m²(1−y⁴)∂²ψ/∂y² − 2m²y³∂ψ/∂y.
+
+[1847, p. 141] The equations (E.) can be solved for x³, x⁵, etc., x⁴, x⁶, etc., and then give the odd powers of x expressed in the differential quotients of x, the even powers of x in the differential quotients of x², namely:
+
+(G.) { x³ = −½∂²x/∂t², x⁵ = ½x + 1/24·∂⁴x/∂t⁴, etc., x⁴ = ⅓ − 1/6∂²(x²)/∂t², x⁶ = 3/5x² + 1/120·∂⁴(x²)/∂t⁴, etc. }
+
+Most conveniently the equations (G.) can be formed, each from the two preceding, according to the formula
+
+xμ = (μ−3)/(μ−1)·xμ⁻⁴ − 1/((μ−1)(μ−2))·∂²(xμ⁻²)/∂t².
+
+This formula delivers the equations (G.) with the greatest ease in any number, for according to it one need only, in order to get xμ, increase all differentiation exponents in the expression for xμ⁻⁴ by 2 units and subtract the 1/((μ−1)(μ−2))-fold of the expression so obtained from the (μ−3)/(μ−1)-fold of the expression for xμ⁻⁴. Putting in (G.) for x its values x₁, x₂, ..., xₚ and summing, one obtains the equations
+
+(H.) { Σx³ = −½Σ∂²x/∂t², Σx⁵ = ½Σx + 1/24Σ∂⁴x/∂t⁴, etc., Σx⁴ = ⅓p − 1/6Σ∂²(x²)/∂t², Σx⁶ = 3/5Σx² + 1/120Σ∂⁴(x²)/∂t⁴, etc., }
+
+which arise from one another according to the formula
+
+Σxμ = (μ−3)/(μ−1)·Σxμ⁻⁴ − (∂²Σxμ⁻²)/((μ−1)(μ−2)∂t²).
+
+— Putting now finally in these latter (H.) for Σx, Σ∂²x/∂t², Σ∂⁴x/∂t⁴, etc. respectively, according to (5.), the values m·y, m·∂²y/∂t², m·∂⁴y/∂t⁴, etc., and for Σx², Σ∂²(x²)/∂t², Σ∂⁴(x²)/∂t⁴, etc., respectively the values m²y², m²∂²(y²)/∂t², m²∂⁴(y²)/∂t⁴, etc., there comes:
+
+[1847, p. 142] (I.) { Σx³ = S₃ = −½m·∂²y/∂t², S₅ = ½my + (m/24)·∂⁴y/∂t⁴, etc., S₄ = ⅓p − (m²/6)·∂²(y²)/∂t², S₆ = (3m²/5)y² + (m²/120)·∂⁴(y²)/∂t⁴, etc.*), }
+
+and if here the differential quotients of y resp. y² are converted according to (F.) into the odd, resp. even powers of y, one obtains S₃, S₅, S₇, etc. expressed in odd, S₄, S₆, S₈, etc. in even whole functions of y, e.g. S₃ = m³y³, S₄ = ⅓(p−m⁴)+m⁴y⁴, etc. Having thus recognized the nature of the power sums Sμ, namely that they are whole functions of y which rise to the μth degree, and contain only odd or only even powers of y, according as μ is odd or even, we will set up a recursion formula according to which one can immediately compute every power sum from the earlier ones. Since Sμ is a whole function of y of the μth degree, one obtains by twice differentiating with respect to t
+
+∂²Sμ/∂t² = (∂²Sμ/∂y²)(∂y/∂t)² + (∂Sμ/∂y)·∂²y/∂t² = m²(1−y⁴)·∂²Sμ/∂y² − 2m²y³·∂Sμ/∂y,
+
+where ∂Sμ/∂y and ∂²Sμ/∂y² are likewise whole functions of y of the μ−1th resp. μ−2th degree. From the other side ∂²Sμ/∂t² = Σ∂²(xμ)/∂t² is also; but
+
+∂²(xμ)/∂t² = μ(μ−1)xμ⁻²(∂x/∂t)² + μxμ⁻¹·∂²x/∂t² = μ(μ−1)xμ⁻²(1−x⁴) − 2μxμ⁺² = μ(μ−1)xμ⁻² − μ(μ+1)xμ⁺²,
+
+hence ∂²Sμ/∂t² = μ(μ−1)Sμ₋₂ − μ(μ+1)Sμ₊₂; this value of ∂²Sμ/∂t² compared with the one obtained just now delivers
+
+m²(1−y⁴)·∂²Sμ/∂y² − 2m²y³·∂Sμ/∂y = μ(μ−1)Sμ₋₂ − μ(μ+1)Sμ₊₂;
+
+from this there follows, if one further puts μ−2 instead of μ:
+
+) The right sides of these equations (I.) are formed exactly as those of the equations (H.), and arise immediately from the latter if one omits the summation signs Σ on the right and writes everywhere on the right my instead of x, m²y² instead of x*².
+
+[1847, p. 143] (6.) Sμ = (μ−3)/(μ−1)·Sμ₋₄ + (m²/((μ−1)(μ−2))){2y³·∂Sμ₋₂/∂y − (1−y⁴)·∂²Sμ₋₂/∂y²}.
+
+This is the required recursion formula, according to which one can at once derive Sμ from Sμ₋₄ and Sμ₋₂. Since S₀ = p, S₁ = my, S₂ = m²y², S₃ = m³y³ have already been found, one derives hereupon the following power sums:
+
+S₄ = ⅓S₀ + (m²/(2·3))(2y³·∂S₂/∂y − (1−y⁴)·∂²S₂/∂y²) = ⅓p + (m²/(2·3))(4m²y⁴ − 2m²(1−y⁴)) = ⅓(p−m⁴)+m⁴y⁴,
+
+S₅ = ½(m−m⁵)y+m⁵y⁵, S₆ = (3m²−3m⁶)/5·y²+m⁶y⁶, etc. e.g. further
+
+S₈ = (25p−28m⁴+3m⁸)/(3·5·7) + 4/5(m⁴−m⁸)y⁴+m⁸y⁸,
+
+S₁₀ = (7m²−9m⁶+2m¹⁰)/15·y² + (5(m⁶−m¹⁰)/5)y⁶+m¹⁰y¹⁰, etc. f.
+
+Considering the law of formation of these expressions, one will easily see the correctness of the following remarks. The coefficients of the various powers of y in Sμ are whole functions of m, so that Sμ can be regarded as a whole function of the two quantities m and y, and indeed there occur only those powers both of m and of y whose exponents ≡ μ (mod. 4); the norm p appears only when μ is divisible by 4, and then it occurs only linearly and multiplied neither in m nor in y; the coefficient of p in S₄μ is (1·5·9·13...(4μ−3))/(3·7·11·15...(4μ−1)), and that of m²y² in S₄μ₋₂ is (3·7·11...(4μ−5))/(5·9·13...(4μ−3)); the coefficient of yμ in Sμ is = mμ, that of yμ⁻⁴ (μmμ⁻⁴(1−m⁴))/10, that of yμ⁻⁸ likewise in Sμ, = (μmμ⁻⁸(1−m⁴)[3μ−2−(3μ−22)m⁴])/(24·25), etc. One can, as already remarked above, order the power sums Sμ instead of by powers of y also by the differential quotients of y resp. y².
+
+[1847, p. 144] In this second representation, which is the simpler, the successive formation takes place according to the formula
+
+(7.) Sμ = (μ−3)/(μ−1)·Sμ₋₄ − (m²/((μ−1)(μ−2)))·∂²Sμ₋₂/∂u²,
+
+where ∂u = m∂t has been put, so that the differential quotients of y with respect to u are to be derived from the equation ∂y/∂u = √(1−y⁴): these result, which is to be remarked, from the differential quotients of x with respect to t, if in these latter, after differentiation has taken place, y is put in the place of x, hence from (E.), if there on the right y is written instead of x. One obtains hereupon
+
+S₄ = ⅓p − 1/6m⁴·∂²(x²)/∂t², S₅ = ½mx + 1/24·m⁵·∂⁴x/∂t⁴, S₆ = 3/5m²x² + 1/120·m⁶·∂⁴(x²)/∂t⁴, etc.,
+
+where after differentiation has taken place y is to be written everywhere instead of x. Since the numerical coefficients in these expressions are exactly the same as in (G.), we obtain from this the following general theorem: "The sum of the μth powers Sμ, of the roots of the equation y = U/V results, if one expresses xμ in the differential quotients of x or x² with respect to t), then multiplies the constant terms by p, the kth differential quotients of x by mk⁺¹ and the kth differential quotients of x² by mk⁺², and finally, after differentiation has taken place, puts y in the place of x." The law of the coefficients in the development of xμ has been given by Jacobi (Fundamenta nova pag. 126 seq.); he shows that they arise from the development of the powers of t in powers of x, hence in our case from the development of the powers of ∫₀x ∂x/√(1−x⁴). On this occasion I will point out for correction a misprint in the formulas in question: in "Fundamenta nova* etc." on page 126, instead of the constant in the 15th line is to be read:
+
+−(Rₙ₋₂(⁴)·U(²)/Π4 + Rₙ₋₃(⁶)·U(⁴)/Π6 + ... + U(²ⁿ⁻²)/Π2n),
+
+) where x is given by the equation ∂x/∂t = √(1−x*⁴).
+
+[1847, p. 145] or what by the notation there is the same:
+
+−(Rₙ₋₂(⁴)·1/(3·4) + Rₙ₋₃(⁶)·S₁(²)/(5·6) + ... + Sₙ₋₂(²)/((2n−1)2n));
+
+there the factors Rₙ₋₂(⁴), Rₙ₋₃(⁶), etc. have been omitted. This constant reduces moreover for the lemniscate to a single term and becomes, as already remarked, = 0 or = (1·5·9...(4μ−3))/(3·7·11...(4μ−1)). To obtain the mentioned formulas in the quickest way, put in the general equation
+
+(α.) ∂²ψ/∂t² = (1−x⁴)·∂²ψ/∂x² − 2x³·∂ψ/∂x
+
+first ψ = tⁿ/n!; one then obtains:
+
+tⁿ⁻²/(n−2)! = (1−x⁴)·∂²(tⁿ/n!)/∂x² − 2x³·∂(tⁿ/n!)/∂x.
+
+Let this equation be differentiated μ times on both sides with respect to x, and after differentiation has taken place x = 0 be put, whereby it is to be remarked that the differential quotients of 1−x⁴ with the exception of the 0th and 4th, and those of x³ with the exception of the third, vanish. One obtains:
+
+[∂μ(tⁿ⁻²/(n−2)!)/(μ!∂xμ)] = [∂μ⁺²(tⁿ/n!)/(μ!∂xμ⁺²)] − [∂μ⁻²(tⁿ/n!)/((μ−4)!∂xμ⁻²)] − [2∂μ⁻²(tⁿ/n!)/((μ−3)!∂xμ⁻²)],
+
+or:
+
+(β.) [∂μ(tⁿ⁻²/(n−2)!)]/((μ−1)!∂xμ) = μ(μ+1)·[∂μ⁺²(tⁿ/n!)]/((μ+1)!∂xμ⁺²) − μ(μ−1)·[∂μ⁻²(tⁿ/n!)]/((μ−3)!∂xμ⁻²), for x = 0.
+
+Then take in the above formula ψ = xμ, so that
+
+(γ.) ∂²(xμ)/∂t² = −μ(μ+1)xμ⁺² + μ(μ−1)xμ⁻².
+
+Putting now finally
+
+xμ = (−1)½(μ⁻¹)Σₙ Pₙ(μ)∂ⁿx/∂tⁿ, or xμ = (−1)½(μ⁻²)Σₙ=₀ Pₙ(μ)∂ⁿ(x²)/∂tⁿ + Const.,
+
+according as μ is odd or even, one obtains according to (γ.)
+
+(−1)½(μ⁻¹)Pₙ₋₂(μ) = −μ(μ+1)(−1)½(μ⁺¹)Pₙ(μ⁺²) + μ(μ−1)(−1)½(μ⁻³)Pₙ(μ⁻²),
+
+[1847, p. 146] resp. (−1)½(μ⁻²)Pₙ₋₂(μ) = −μ(μ+1)(−1)½μPₙ(μ⁺²) + μ(μ−1)(−1)½(μ⁻⁴)Pₙ(μ⁻²), hence in both cases:
+
+(δ.) Pₙ₋₂(μ) = μ(μ+1)Pₙ(μ⁺²) − μ(μ−1)Pₙ(μ⁻²).
+
+This recursion equation is satisfied according to (β.) by
+
+(ε.) Pₙ(μ) = [∂μ(tⁿ⁺¹/(n+1)!)]/((μ−1)!∂xμ), or = [∂μ(tⁿ⁺²/(n+2)!)]/((μ−1)!∂xμ) (for x = 0),
+
+and since this value holds if one puts μ = 1, μ = 2, 3 and 4, while n remains general), it also holds for all values of μ and n*, and one obtains:
+
+(8.) xμ = (−1)½(μ⁻¹)Σₙ=₀ 1/((μ−1)!(n+1)!)·∂ⁿx/∂tⁿ·(∂μ(tⁿ⁺¹)/∂xμ)ₓ=₀ or = (−1)½(μ⁻²)Σₙ=₀ 1/((μ−1)!(n+2)!)·∂ⁿ(x²)/∂tⁿ·(∂μ(tⁿ⁺²)/∂xμ)ₓ=₀ + C,
+
+according as μ is odd or even; incidentally C = 0 or C = (1·5·9...(μ−3))/(3·7·11...(μ−1)), according as μ ≡ 2 or ≡ 0 (mod. 4). It is to be remarked that in these formulas (8.) those coefficients vanish of themselves for which not n+1 resp. n+2 ≡ μ (mod. 4). For the μth power sums there results now from this by application of the general theorem set up above:
+
+(9.) Sμ = Σxμ = (−1)½(μ⁻σ)Σₙ=₀ [mⁿ⁺σ/((μ−1)!(n+σ)!)]·∂μ(tⁿ⁺σ)/∂xμ·∂ⁿ(yσ)/∂uⁿ + Cp,
+
+where σ = 1 or = 2, according as μ is odd or even, ∂y/∂u = √(1−y⁴), C = 0 for μ ≡ 1, 2, 3 (mod. 4), on the other hand C = (1·5·9...(μ−3))/(3·7·11...(μ−1)) for μ ≡ 0 (mod. 4), and where after differentiation has taken place x = 0 must be put on the right. — One can also obtain the sums of the negative powers Σx⁻μ, if one writes 1/y instead of y, for since y goes over into 1/y when 1/x
+
+) for for μ = 1, μ = 2 one obtains according to the values of n* on both sides of the formula 1, 0, 0, 0, etc.; for μ = 3 there comes 0, 0, ½, 0, 0, ..., and for μ = 4: 0, 0, 1/6, 0, 0, ...
+
+[1847, p. 147] is put instead of x, one obtains Σx⁻μ from the value of Σxμ if in the latter 1/y is put instead of y. — From the general power sums Sμ, which still contain the variable y, there result specially the power sums of the numerator of the multiplication formula U = 0, which we denote by S′μ, if y = 0 is put; but if y = 0 is put, one can in (9.) write ∂ⁿ(xσ)/∂tⁿ instead of ∂ⁿ(yσ)/∂uⁿ, if only after differentiation has taken place x = 0 is put. S′μ always vanishes when μ ≡ 1, 2, or 3 (mod. 4); on the other hand for the values of μ divisible by 4 one obtains:
+
+(10.) S′μ = −Σ [mⁿ⁺²/((μ−1)!(n+2)!)]·∂μ(tⁿ⁺²)/∂xμ·∂ⁿ(x²)/∂tⁿ {x=t=0} + [(1·5·9...(μ−3))/(3·7·11...(μ−1))]p.
+
+In the sum all those terms vanish for which not n ≡ 2 (mod. 4), so that there remain only those powers of m whose exponents are divisible by 4; one can therefore also put:
+
+(10′.) S′₄μ = −Σₙ=₁μ [m⁴ⁿ/((4μ−1)!(4n)!)]·∂⁴μ(t⁴ⁿ)/∂x⁴μ·∂⁴ⁿ⁻²(x²)/∂t⁴ⁿ⁻² + [(1·5...(4μ−3))/(3·7...(4μ−1))]p.
+
+Here 4μ has at once been written instead of μ, because only the values of μ divisible by 4 are concerned. These formulas (10.) or (10′.) give the power sums of the roots, different from zero, of the equation
+
+xp⁻¹ + B₁xp⁻⁵ + B₂xp⁻⁹ + ... + A₁x⁴ + m = 0,
+
+and if S′₄μ = 4·Tμ is put, then Tμ evidently represents the sum of the μth powers of the following equation:
+
+z(p⁻¹)/⁴ + B₁z(p⁻¹)/⁴⁻¹ + ... + A₁z + m = 0,
+
+which arises from the above through the substitution x⁴ = z; these power sums of the roots of the equation in z are incidentally Tμ = ¼S′₄μ = Σφ(rω/m)⁴μ, where r in the sum represents a quarter residue system (mod. m); hereupon one finds:
+
+[1847, p. 148] Σφ(rω/m)⁴ = T₁ = (p−m⁴)/12,
+
+Σφ(rω/m)⁸ = T₂ = ¼·(1·5)/(3·7)·p − 1/15·m⁴ + ¼·1/(3·5)·m⁸,
+
+Σφ(rω/m)¹² = T₃ = ¼·(1·5·9)/(3·7·11)·p − (11m⁴)/(3·4·25) + (3m⁸)/(2·7·25) − m¹²/(2·3·11·25), etc.
+
+From the power sums T₁, T₂, etc. one can now compute the coefficients B₁, B₂, etc., and indeed according to the formulas given by Newton
+
+B₁ = −T₁, 2B₂ = −T₂−B₁T₁, 3B₃ = −T₃−B₁T₂−B₂T₁, 4B₄ = −T₄−B₁T₃−B₂T₂−B₃T₁, etc.
+
+Hereupon one finds e.g.
+
+B₁ = (−p+m⁴)/12,
+
+B₂ = p²/(2·144) − 5/(14·12)·p + m⁴(−p/144 + 1/30) − m⁸/(8·35·36) = 1/(56·180)·(−m⁸ − 70m⁴p + 35p² + 336m⁴ − 300p), etc.
+
+In a similar way one finds the coefficients A₁, A₂, etc.:
+
+A₁ = m/60·(−m⁴−5p+6),
+
+A₂ = m/(56·180)·(−m⁸ + 14m⁴p + 35p² − 84m⁴ − 384p + 420), etc.
+
+Putting, what is allowed, Bμ = αμ + βμm⁴ + γμm⁸ + ... + λμm⁴μ, one obtains from the combination of (10′.) with the Newtonian formulas e.g.
+
+μαμ = −¼p[(1·5...(4μ−3))/(3·7...(4μ−1)) + (1·5...(4μ−7))/(3·7...(4μ−5))·α₁ + ... + (1·5)/(3·7)·αμ₋₂ + ⅓·αμ₋₁],
+
+etc. similar formulas for βμ, γμ etc. We collect still the following remarks on the coefficients of the numerator and denominator of the multiplication formulas for the lemniscate:
+
+a) The general coefficient Bμ of the denominator is to be regarded as a whole function of the two variables m⁴ and p of the μth order, in which the constant term is lacking; the general coefficient Aμ of the numerator is equal to the m-fold of a whole function of μth order of the two variables m⁴ and p; the coefficients of the powers and products of m⁴ and p in these whole functions are purely numerical, real, and depend neither on m nor on p; their law remains still unknown and can hardly be found in a way like the one taken here; one could indeed insert the values of Tμ = ¼S′₄μ according to (10′.) in the independent expressions of the coefficients through the power sums
+
+Bμ = Σ (−1)α⁺β⁺γ⁺...T₁αT₂βT₃γ.../(1α·2β·3γ...α!β!γ!...) {conditione α+2β+3γ+...=μ},
+
+but a law of the coefficients so obtained would conceal their nature more than discover it.
+
+b) Although in the coefficients the norm p rises to the μth degree, the power sums of the roots formed from them nevertheless contain p only linearly and also not multiplied into powers of m.
+
+c) The coefficients break off, by virtue of their form, of themselves as soon as μ is greater than ¼(p−1). In connection with b) one can, independently of the preceding considerations and of the knowledge of the power sums, compute any number of coefficients, by introducing the numerical coefficients occurring in them as unknowns and being able to form as many equations as there are unknowns. B₁ = 1/12·(m⁴−p) and A₁ = 1/60·m(−m⁴−5p+6) e.g. vanish for m = 1, and become B₁ = −1±2i, A₁ = 1 for m = −1±2i, p = 5; from this alone these two coefficients could already have been found; for putting B₁ = αm⁴+βp, A₁ = m(γm⁴+δp+ε), one obtains the five equations
+
+α+β = 0, (−1+2i)⁴α+5β = −1+2i, γ+δ+ε = 0, (−1+2i)⁵γ+5(−1+2i)δ+(−1+2i)ε = 1, (−1−2i)⁵γ+5(−1−2i)δ+(−1−2i)ε = 1,
+
+whereby the 5 unknowns α, β, γ, δ, ε are completely determined. With later coefficients one must, in order to obtain a sufficient number of equations, take, as already remarked, the property b) in addition. One also uses here with advantage the relation between the coefficients of the numerator and denominator (§. 1.).
+
+d) As proved above, for a two-termed prime m the values of Aμ and Bμ are divisible by m.
+
+[1847, p. 149] e) In Bμ the coefficient of p is = −(1/(4μ))·(1·5·9...(4μ−3))/(3·7·11...(4μ−1)), the coefficient of pμ, = (−1)μ/(μ!·12μ), that of pμ⁻¹, = 5/14·(−1)μ⁻¹/((μ−2)!·12μ⁻¹).
+
+f) If in the coefficients instead of p an arbitrary quantity is put, the multiplication formula still remains correct; numerator and denominator break off, however, only when p is the norm of m.
+
+I give this attempt, imperfect as it may be, since with the great difficulty of the subject every contribution may be of interest.
+
+A usable formula is still obtained if one differentiates the (9.) on both sides with respect to t:
+
+(11.) Σ(xμ⁻¹·√(1−x⁴)) = ((−1)½(μ⁻σ)/μ!) Σ{ [mⁿ⁺σ⁺¹/(n+σ)!]·(∂μ(tⁿ⁺σ)/∂xμ)ₓ=₀·∂ⁿ⁺¹(yσ)/∂uⁿ⁺¹ }.
+
+
+
+§5. The transformation equations with arbitrary moduli [1847, pp. 150–154]
+
+The method of the previous paragraph for determining the symmetric functions of the roots of such equations as satisfy a given differential equation extends much further than we have shown it here; it can be applied to several problems on elliptic functions and still to manifold other forms of integrals of algebraic functions. Here we will only, quite briefly, with its help determine the symmetric combinations of the roots of those equations which occur in the transformation of elliptic functions with arbitrary moduli.*)
+
+I. If ∂x/∂t = √((1−x²)(1−k²x²)), hence ∂²x/∂t² = −(1+k²)x + 2k²x³, then one has the general equation
+
+(1.) ∂²ψ/∂t² = (∂²ψ/∂x²)(1 − (1+k²)x² + k²x⁴) + (∂ψ/∂x)(−(1+k²)x + 2k²x³),
+
+where ψ is any function of x or of t. Putting here first ψ = xμ, then ψ = th, one obtains:
+
+(2.) ∂²(xμ)/∂t² = μ(μ+1)α xμ⁺² − μ²β xμ + μ(μ−1)xμ⁻²,
+
+(3.) h(h−1)th⁻² = (∂²(th)/∂x²)(1 − βx² + αx⁴) + (∂(th)/∂x)(−βx + 2αx³),
+
+) Compare also especially the "Notices sur les fonct. ellipt." of Jacobi in the 3rd and 4th volumes of Crelle's Journal*.
+
+[1847, p. 151] where for brevity k² = α, 1+k² = β have been put. Differentiating the latter equation (3.) μ times with respect to x and putting after differentiation has taken place x = 0, there comes
+
+h(h−1)·[∂μ(th⁻²)/(μ!∂xμ)] = [∂μ⁺²(th)/(μ!∂xμ⁺²)] − β·[∂μ(th)/((μ−2)!∂xμ)] + α·[∂μ⁻²(th)/((μ−4)!∂xμ⁻²)] − β·[∂μ(th)/((μ−1)!∂xμ)] + 2α·[∂μ⁻²(th)/((μ−3)!∂xμ⁻²)], (x = 0)
+
+or, when one reduces,
+
+(4.) [∂μ(th⁻²/(h−2)!)]/[(μ−1)!∂xμ] = μ(μ+1)·[∂μ⁺²(th/h!)]/[(μ+1)!∂xμ⁺²] − μ²β·[∂μ(th/h!)]/[(μ−1)!∂xμ] + μ(μ−1)α·[∂μ⁻²(th/h!)]/[(μ−3)!∂xμ⁻²];
+
+if therefore [∂μ(th/h!)]/[(μ−1)!∂xμ] = Rh(μ) is put for x = 0, one has
+
+(4′.) Rh₋₂(μ) = μ(μ+1)Rh(μ⁺²) − μ²β Rh(μ) + μ(μ−1)α Rh(μ⁻²).
+
+II. By virtue of (2.) the following development can be assumed:
+
+α½(μ⁻σ)xμ = Σh=₀ Ph(μ) ∂h(xσ)/∂th − Const.,
+
+where σ = 1 or = 2, according as μ is odd or even; e.g. for μ = 1, x = x, hence Ph(¹) = 1 for h = 0 and = 0 for h > 0; for μ = 2, x² = x², hence Ph(²) = 1 for h = 0 and = 0 for h > 0; for μ = 3, αx³ = ½βx + ½∂²x/∂t², hence Ph(³) takes for the successive values of h the values: ½β, 0, ½, 0, 0, 0, etc.; for μ = 4, αx⁴ = ⅔βx² + 1/6∂²(x²)/∂t² − ⅓, hence the values of Ph(⁴) are the following: ⅔β, 0, 1/6, 0, 0, 0, etc. Putting the above development in the equation (2.), there comes
+
+(5.) Ph₋₂(μ) = μ(μ+1)Ph(μ⁺²) − μ²β Ph(μ) + μ(μ−1)α Ph(μ⁻²).
+
+[1847, p. 152] But
+
+Rh₊₁(¹) = 1, 0, 0, 0, 0, ...., Rh₊₂(²) = 1, 0, 0, 0, 0, ...., Rh₊₁(³) = ½β, 0, ½, 0, 0, ....., Rh₊₂(⁴) = ⅔β, 0, 1/6, 0, 0, .....,
+
+and these values agree exactly with the above initial values of Ph(μ) for μ = 1, 2, 3 and 4; hence (6.) holds in general. We obtain accordingly:
+
+(7.) kμ⁻σxμ = Σh=₀ Rh₊σ(μ) ∂h(xσ)/∂th − Const.,
+
+where
+
+Rh₊σ(μ) = 1/((h+σ)!(μ−1)!)·(∂μ(th⁺σ)/∂xμ)ₓ=₀.
+
+The constant is determined from the special case x = 0, t = 0; one finds
+
+Const. = Σh=₀ Rh₊σ(μ)·(∂h(xσ)/∂th)t=₀.
+
+III. For every odd number n there can, as is known through Jacobi and Abel, be given several values of λ and belonging ones of N, so that
+
+∂y/∂t = N·√((1−y²)(1−λ²y²)) = N·∂y/∂u, ∂u = N·∂t
+
+results, while y is a broken rational function of x which vanishes together with x, and whose numerator and denominator rise to the nth resp. n−1th degree.
+
+[1847, p. 153] Let
+
+y = U/V = (k/(Nλ))·(xⁿ + Bxⁿ⁻² + B₂xⁿ⁻⁴ + ...)/(xⁿ⁻¹ + A₁xⁿ⁻³ + A₂xⁿ⁻⁵ + ...),
+
+that y must assume this form results immediately by substitution in the differential equation and has been remarked by Jacobi in several places. Let the roots of the equation
+
+U − Vy = 0, i.e.
+
+xⁿ − (Nλ/k)y·xⁿ⁻¹ + Bxⁿ⁻² − etc. = 0
+
+be denoted by
+
+x₁, x₂, x₃, ..., xₙ,
+
+and the sum
+
+F(x₁)+F(x₂)+F(x₃)+...+F(xₙ) by ΣF(x)
+
+be denoted. The sum of the quantities x₁, x₂, x₃, ..., xₙ is = (Nλ/k)y, the sum of their squares = (N²λ²/k²)y² − 2B. From this two equations emerge, which can be contracted into the single following one:
+
+(8.) Σₓ xσ = (Nσλσ/kσ) yσ − c,
+
+where σ = 1 and = 2 are to be taken, while according to these two cases c resp. = 0 or = 2B is to be put. Differentiating the equation (8.) on both sides h times with respect to t, whereby it is to be remarked that ∂uh = Nh ∂th, there comes:
+
+(9.) Σₓ ∂h(xσ)/∂th = (Nh⁺σλσ/kσ)·∂h(yσ)/∂uh;
+
+for h = 0 the equation (8.) takes the place of (9.).
+
+IV. If now in (7.) for x in succession the values x₁, x₂, x₃, ..., xₙ are put, the same summed, and finally for Σₓ ∂h(xσ)/∂th the values from (8.) and (9.) substituted, there comes:
+
+(10.) kμ⁻σΣₓxμ = Σh=₀μ⁻σ Rh₊σ(μ) (Nh⁺σλσ/kσ)·∂h(yσ)/∂uh − n Σh=₀μ⁻σ Rh₊σ(μ) (∂h(xσ)/∂th)t=₀ − cRσ(μ);
+
+σ is, as already remarked, = 1 or = 2, according as μ is odd or even; the meaning of the coefficients Rh₊σ(μ) is given above, and x, y on the right are determined in t resp. u through the differential equations:
+
+∂x/∂t = √((1−x²)(1−k²x²)) and ∂y/∂u = √((1−y²)(1−λ²y²)).
+
+[1847, p. 154] Since according to the latter one can convert the occurring differential quotients ∂h(yσ)/∂uh into powers of y, the formula (10.) gives the μth power sums of the roots of the equation U − Vy = 0 completely expressed in whole functions of y. From the power sums one can derive all the other symmetric combinations of these roots; one can therefore find namely all the coefficients of the numerator and denominator U and V of the transformation formula, and indeed with the help of the four quantities k, λ, N and B. This latter difficult problem was first solved by Jacobi in an entirely different way (vol. 4 of Crelle's Journal).
+
+For the case of multiplication n² is to be put instead of n; furthermore N = n, λ = k and B = 0, so then the symmetric functions are expressed merely in n and k without the help of other quantities.
+
+With the help of Lagrange's theorem on the inversion of series one can give the equation (10.) several other forms.
+
+V. If n is a prime number, one can in (9.) put instead of λ its n+1 values and instead of N the belonging values. Summing then on the left and right all these values of λ and N, one gets on the left the analogous series for the multiplication, which can in turn be found immediately according to (9.) if λ = k, N = n is put. If now further t = 0 and u = 0 are taken, one has on the left mere functions of k, while on the right symmetric combinations of the quantities λ and N stand. One can therefore in this way express infinitely many symmetric combinations of the transformed moduli and of the belonging multipliers in k. The coefficients of the modular equation, however, one does not obtain from this, because it is very difficult to separate the values of the N from those of the λ.
+
+On the other hand one can from the Newtonian formulas eliminate all coefficients and form any number of equations which contain merely power sums and no more coefficients. Supposing one has formed ν such equations, where ν > 3 must be taken. Let now in these ν equations the values of the power sums of the roots of the equation U = 0 be inserted, which result from (10.) if there on the right, after differentiation has taken place, y = 0 is put. The ν equations then contain, besides k, the three quantities λ, N and B. Eliminating between them N and B, the greatest common divisor of the ν−2 equations arising herefrom is the modular equation; the greatest common divisor of the ν−2 equations arising from the elimination of λ and B is the equation between N and k, and the greatest common divisor of those which arise through the elimination of λ and N is an equation between B and k.
+
+We confess that this method of finding the modular equation admittedly still requires considerable development, if it is not to become illusory for a general n.
+
+Im October 1845.
