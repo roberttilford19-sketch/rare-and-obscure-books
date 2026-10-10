@@ -1,0 +1,582 @@
+ON THE METRIZATION PROBLEM
+
+
+
+The Lemma, the Cardinality Theorems, and the Metrization Theorem
+
+
+
+From the two posthumous papers of 1925: Über die Mächtigkeit der zusammenhängenden Mengen and Zum Metrisationsproblem, Mathematische Annalen 94
+
+Pavel Samuilovich Urysohn (1898–1924)
+
+A fresh English translation, made from the German of 1925.
+
+The Boneyard — Rescued Works
+
+
+* * *
+
+> DRAFT — NOT FOR PUBLICATION. This edition is offered as a working draft. It awaits review by a working topologist and by a reader of period German, including collation of the translation against the page images of the printed original, before any publication. No claim in it should be quoted as settled until those reviews are done.
+
+Public domain source text; modern edition (c) editor, free redistribution.
+
+
+* * *
+
+
+
+DEDICATION
+
+Who he was. Pavel Samuilovich Urysohn (1898–1924), a mathematician of the Moscow school — Pavel Aleksandrov's friend and closest collaborator, and with him a creator of the modern theory of dimension. With Aleksandrov he gave the definition of compactness that the textbooks still use; in the three years he was allowed in topology he also wrote the papers translated here, in which two of the load-bearing theorems of the whole subject are stated and proved: the separation theorem that later textbooks named Urysohn's lemma after him, and the metrization theorem that bears his name the same way. Those names are the century's, not his — in his own text the first is simply "the Theorem" of §25, and the second his Hauptsatz, his main theorem.
+
+His home and circumstances. He was born on 3 February 1898 in Odessa, the son of an Odessa financier, and went to a private secondary school in Moscow. He entered Moscow University in 1915 to read physics — he had already published a schoolboy paper on Coolidge-tube radiation, work done under P. P. Lazarev — but Luzin and Egorov drew him into pure mathematics. He graduated in 1919, took his doctorate under Luzin with a thesis on integral equations (1919–1921), habilitated in June 1921, and became an assistant professor at Moscow University. In the summer of 1921 Egorov set the Moscow school two problems — to define curve and surface intrinsically, by topology alone — and on a holiday morning near the end of August 1921, at Burkov near Moscow, the definition of dimension came to him; he told Aleksandrov of it at once. The dimension memoir followed, and with it, in 1923, the modern definition of compactness, written with Aleksandrov. The summers of 1923 and 1924 the two friends spent travelling — Göttingen and Hilbert, Bonn and Hausdorff, Holland and Brouwer. At Bonn in the summer of 1924 they swam the Rhine every day, a feat their hosts thought far from safe.
+
+His death. On the morning of 17 August 1924, at Bourg de Batz on the coast of Brittany — Batz-sur-Mer — he began to write a new paper. That day he drowned while swimming in the Atlantic, in rough seas, on one of the regular swims he took with Aleksandrov. He was twenty-six. After his death Brouwer and Aleksandrov took charge of his scientific estate; Aleksandrov spent part of 1925 and 1926 in Holland with Brouwer, preparing the unpublished papers for print. The two papers in this volume are part of that estate: the first is dated at Le Batz on 14 August 1924, three days before the drowning, and the second reached the journal six weeks after it. Of the second, only its first paragraph is Urysohn's own editing; the rest Aleksandrov set in order after his friend's death, from the oral communications in which — his signed footnote in the paper says — he had been made exactly acquainted "both with the whole plan of the work and with all the details of the conduct of the proofs." Urysohn's sister, Lina Neiman, afterwards wrote a memoir of his life. The paper that follows his in the journal volume is Aleksandrov's, and it is headed: To the memory of my dear friend Paul Urysohn.
+
+Why this work is vital — to prove his logic. Because here the logic can be checked, step by step, in the author's own words. The chain he forges is one of the cleanest in modern mathematics: in a normal space, two disjoint closed sets can be separated by a continuous function taking the values 0 and 1 on them (his Theorem of §25); from a countable basis of neighbourhoods one can then build such functions in every needed place; and the weighted sum of their differences is a distance that makes the space, with no point moved, into a metric space — exactly when the space is normal and satisfies the second axiom of countability. That is the metrization theorem, and it is proved here entire. Alongside it stand the cardinality theorems of the first paper: in a normal space, anything of positive dimension — in particular anything connected — already has the cardinality of the continuum. A century of textbooks has restated these results, but restatement is not the paper; the paper itself, with its own definitions, its own dyadic machinery, and Aleksandrov's posthumous hand visible in its second half, has had no English translation found after research. This volume lets an English reader audit the proof, not merely admire the theorem.
+
+His relation to this series. The Boneyard keeps works the world shelved before it finished listening, and few were shelved so early. Urysohn had three years of topology and left it the dimension theory, the compactness definition, the lemma, and this metrization theorem; the papers themselves were still warm from the press — signed with the cross of the dead, "Paul Urysohn †" — when the volume appeared without him. The series' rule is to rescue the author's own bones: so here is his own text, neither completed nor improved, its posthumous editing credited where he himself documented it, and its unfinished business named openly at the end. He announced this very volume's second paper in the first, three days before the sea took him; a rescued-work series can do him no better justice than to publish the announcement and the fulfillment side by side, at last in English.
+
+— The Editor
+
+
+* * *
+
+
+
+A note on this edition
+
+This volume translates a bounded, self-contained portion of two papers by Pavel Urysohn, both printed posthumously in Mathematische Annalen 94 (1925):
+
+- Part I. "Über die Mächtigkeit der zusammenhängenden Mengen" [On the cardinality of connected sets], pp. 262–295 — translated here: §§1–11 complete (printed pp. 262–273), the paper's first movement entire: the statement of the problem; the auxiliary notions of regularity, separation, dimension 0; and the two cardinality theorems, with the nest-of-domains machinery (the auxiliary theorems of §10) by which the main theorem is proved. The paper is signed "Paul Urysohn †" and dedicated "To my friend Paul Alexandroff"; it closes at Le Batz, 14 August 1924, and was received by the journal on 23 August 1924, six days after the author's death. - Part II. From the same paper's Appendix III ("On a problem of M. Fréchet"), §§24–25 complete (printed pp. 290–291): Fréchet's problem of the existence of non-constant continuous functions, and the Theorem — two element-disjoint closed sets in a normal space can be separated by a continuous function equal to 0 on the one and 1 on the other — with its remark and its proof. A short, separately labelled excerpt from §28 closes the panel: his announcement of the metrization paper, and the paper's own closing remark. The cut before §26 is marked where it falls; the remainder of the Mächtigkeit paper is mapped in the notes file (NOTES.md). - Part III. "Zum Metrisationsproblem" [On the metrization problem], pp. 309–315 — translated complete: the statement of the problem; the main theorem (every normal topological space satisfying the second axiom of countability is metrizable); the lemma restated from the Mächtigkeit paper, with its proof repeated in short form "to make the reading of the present paper independent of the work just cited"; the construction of the metric ρ(x, y) = Σ 2^{-n} |f_n(x) − f_n(y)| and the proof that the two spaces are homeomorphic; and the corollary for compact spaces, with the paper's closing open question. The paper was received on 28 September 1924; its first paragraph alone is the author's own editing, the remainder being Aleksandrov's posthumous redaction, as his signed footnote in the original records.
+
+Urysohn printed his own table of contents at the head of the Mächtigkeit paper; it is the surest map of what stands outside this volume, and it is reproduced here (the page numbers are his own relative pagination, 1 = printed p. 262):
+
+Introduction. §1 ..... 1 — Chapter I. Auxiliary notions. Separation. §§2–8 ..... 3 — Chapter II. Cardinality theorems for connected sets. §§9–11 ..... 10 — Chapter III. A connected countable topological space. §§12–17 ..... 16 — Appendix I. Separation demands, transitive properties, and axioms of countability. §§18–21 ..... 22 — Appendix II. A countable space in which the first axiom of countability is not fulfilled. §§22–23 ..... 27 — Appendix III. On a problem of M. Fréchet. §§24–28 ..... 29.
+
+The translation was made from the digitised copy of the volume held at the Internet Archive (item `sim_mathematische-annalen_1925_94`, "Mathematische Annalen 1925: Vol 94"; the machine-read text files are pinned, with their archive checksums, in NOTES.md). The author died in 1924; the text is public domain. The machine-read text is noisy in the way of such copies — Fraktur confusions are few in this roman-type journal, but formulas and subscripts suffer — and uncertain readings are therefore bracketed, never silently repaired; where a stretch of the machine-read text could not carry a sentence, it is carried as a bracketed description of what stands there, and every such place awaits collation against the page images. It was made without consulting any modern copyrighted translation; no English translation of either paper was found after research, though both theorems are restated in every textbook of topology. Page anchors in the form [1925, p. n] refer to the printed pagination of the journal.
+
+A word on notation, since the argument is built of it. Urysohn writes A + B for the union of two sets and AB for their intersection; B ⊂ A means B is a (proper or improper) subset of A; A − B is the difference. His Ā, the closure of A, is here printed cl A, since the overline does not survive this edition's plain type; everything else is carried over as he prints it, G_t being a domain indexed by a dyadic fraction t between 0 and 1. His Gebiet is a domain, that is, an open set; his "element-disjoint" [elementenfremd] sets are sets with no point in common. Where later mathematics has given his results names of their own — the Theorem of §25 is now Urysohn's lemma, the Hauptsatz of the second paper the Urysohn metrization theorem — those names are the textbooks', and the apparatus says so; in the text itself his words stand as he left them.
+
+
+* * *
+
+
+* * *
+
+THE PAPERS
+
+
+
+Part I — On the Cardinality of Connected Sets: the first movement (§§1–11) [1925, pp. 262–273]
+
+
+
+§1. Statement of the problem [1925, p. 262]
+
+A set lying in a topological space is called connected, following Hausdorff's definition [Footnote: Hausdorff, Grundzüge der Mengenlehre, Leipzig 1914, p. 213.], if it cannot be split into two non-empty separated [abgesondert] partial sets. Two sets A and B we call separated if they are disjoint from each other and, besides, neither of them contains a limit point [Häufungspunkt] of the other, that is, if
+
+H(A, B) = (cl A)B + A(cl B) = 0
+
+is satisfied [Footnote: Loc. cit., p. 244. The definition given here is identical in content with Hausdorff's, but differs from it in wording.]. For brevity we shall denote the set (cl A)B + A(cl B) by H(A, B). [Footnote: By A I everywhere mean the closed hull [abgeschlossene Hülle] of A, that is, the set that arises from A by adjoining all its limit points; here it is printed cl A. AB is the intersection (common part) of A and of B, A + B their union, A − B their difference (the set of the points of A not contained in B; it is not assumed that B ⊂ A). Finally B ⊂ A means that B is a (proper or improper) subset of A.]
+
+A set consisting of a single point is obviously connected. We shall, however, disregard this case and in what follows consider only such connected sets as contain more than one point. There then holds the theorem (proved by Hausdorff [Footnote: Loc. cit., p. 248.]):
+
+Theorem. A connected set lying in a metric space [Footnote: Loc. cit., p. 211.] is at least of the cardinality of the continuum [Footnote: That higher cardinalities can also occur is easily seen. So, for example, the space whose "points" are the bounded functions f(x) defined on [0, 1] is connected if one defines the distance ρ(f, g) as the least upper bound of |f(x) − g(x)|: the "points" f(x) and g(x) can indeed be joined by the "segment" (1 − t)f(x) + tg(x), 0 ≤ t ≤ 1. One can also obtain a connected space of arbitrary cardinality κ > 2^{ℵ0} by identifying all the a_γ with one another in a system of (abstractly given) unit segments J_γ = [a_γ, b_γ] (where {γ} is an index system of cardinality κ) and setting the distance of two points x and y belonging to two different J_γ equal to α_x + α_y [the OCR subscripts are partly garbled here].].
+
+Starting from the conviction that every topological result can be proved on a purely topological basis — that is, with topological hypotheses (replacement of the metric space by a suitably chosen topological space) and with tools of the same kind [Footnote: If the second demand (the tools) is only of methodological interest, the first (the hypotheses) is also in principle quite important. The investigations bound up with this question culminate in the solution of the so-called metrization problem: to set up the (purely topological) conditions under which a topological space may be regarded as a metric space, that is, is homeomorphic to a metric space. In the note "P. Alexandroff et P. Urysohn, Une condition nécessaire et suffisante …," Comptes Rendus Paris 177 (1923), p. 1274, this problem has found a complete settlement, though in a form of little use. A wholly satisfactory solution of the metrization problem is so far known only in the following two (incidentally extremely important) cases: 1. For compact spaces: here Hausdorff's second axiom of countability is the necessary and sufficient condition. See P. Urysohn, "Über die Metrisation der kompakten topologischen Räume," Math. Annalen 92, p. 275, and the work of the same author, "Zum Metrisationsproblem," shortly to appear in these Annalen, where among other things a very simple proof of this theorem is given. 2. For the spaces compact in the small. See P. Alexandroff, "Über die Metrisation der im Kleinen kompakten topologischen Räume," Math. Annalen 92, p. 274 (where references to further work of the same author will also be found).] — I have sought to determine as extensive a class of topological spaces as possible in which the theorem named is still true; in particular it was to be decided whether this is not the case for all topological spaces, or at least for all that satisfy the second axiom of countability [Footnote: Hausdorff, loc. cit., p. 268. It would be better to formulate this axiom as follows: "There exists at least one system, equivalent (loc. cit., p. 260) to the given system of neighbourhoods, that consists of countably many distinct neighbourhoods"; for only under this convention has the expression "a topological space in which the second axiom of countability is not fulfilled" a precise topological sense. The same holds for the first axiom of countability. In my view it would also be appropriate, in the above formulation, to drop the word "distinct," that is, to regard spaces consisting of finitely many points as satisfying the second axiom of countability. Both modifications are adopted in this work.] [Footnote: The latter problem was communicated to me by P. Alexandroff.].
+
+I intend here to communicate those — perhaps rather unexpected [Footnote: See Chapter III.] — results that I have obtained on this path [Footnote: I presented the main result of this treatise in March 1922 to the Moscow Mathematical Society.].
+
+
+
+Chapter I. Auxiliary notions. Separation [1925, p. 264]
+
+
+
+§2. Regularity [1925, p. 264]
+
+A topological space is called regular at the point a if the condition R (or the equivalent condition R′) is fulfilled:
+
+R. In every neighbourhood U_a of the point a one can find a neighbourhood V_a satisfying the condition cl V_a ⊂ U_a.
+
+R′. In every neighbourhood U_a one can find such a neighbourhood V_a that every point x lying outside U_a possesses at least one neighbourhood U_x disjoint from V_a.
+
+A topological space that is regular at every point is called regular simply [Footnote: The demand of regularity of the space occurs first with Vietoris ("Stetige Mengen," Monatsh. f. Math. u. Phys. 1921, p. 173) as an additional axiom, which all spaces considered by him must satisfy. This additional axiom is incidentally superfluous to the extent that, for the bicompact spaces (in his terminology, "gapless") alone considered by Vietoris, this axiom is of itself fulfilled (see the work cited in the footnote above). The term "regular," and also regularity at a point, were introduced by P. Alexandroff. The contents of this chapter are (excepting §§4 and 7) not new; its proofs will be found in the treatise of Alexandroff and Urysohn, Mémoire sur les espaces topologiques compacts, shortly to appear in Fundamenta Mathematicae.].
+
+Let E be a regular space, F a closed set, and x a point lying outside F. Then one can find two element-disjoint domains [Gebiete] G_1 and G_2 that contain F and x respectively: G_1 ⊃ F, G_2 ⊃ x. Conversely, if this is the case for arbitrary F and x (F disjoint from x), then the space is regular [Footnote: In Hausdorff's sense: loc. cit., p. 215; see also the footnote above.].
+
+
+
+§3. Separation [1925, p. 265]
+
+This last result invites the following definition:
+
+We shall say that the sets A and B are separable by domains if there exist two element-disjoint domains G_1 ⊃ A and G_2 ⊃ B. Obviously, this can be the case only if AB = 0.
+
+This definition gives occasion for the introduction of the following categories of spaces [Footnote: See H. Tietze, Beiträge…, Math. Annalen 88, p. 290; and for what follows, the work cited in the preceding footnotes.]:
+
+α) Spaces in which an arbitrary pair of points is separable by domains. This property belongs to all topological spaces; by it the topological spaces are indeed distinguished within the more general category of Fréchet's (H)-classes [Footnote: See, e.g., M. Fréchet, Sur les ensembles abstraits, Annales de l'École Normale (3) 38 (1921), pp. 365–366.].
+
+β) Spaces in which every closed set is separable by domains from every point (not contained in that set): these are the regular spaces.
+
+γ) Spaces in which any two mutually disjoint closed sets are separable by domains. These we shall call normal spaces.
+
+δ) Spaces in which any two separated sets are separable by domains. These we shall call completely normal.
+
+Every space that belongs to one of these categories belongs also to the preceding ones, but not conversely, as can be shown by examples [Footnote: See Tietze, loc. cit., p. 310.]. The metric spaces are completely normal [Footnote: See the works of Alexandroff and Urysohn cited above.], and so belong to all four categories.
+
+
+
+§4. Theorem. Two separated sets in a regular space, if both are at most countable, can always be separated by domains [1925, pp. 265–267]
+
+Theorem. In a regular space E, two separated sets A and B are always separable by domains when they are both at most countable [Footnote: Formulation and proof of this theorem for the case of two element-disjoint closed sets were communicated to me by P. Alexandroff; the same holds of the following corollary. The proof here reproduced of the general case also runs throughout parallel to Alexandroff's proof.].
+
+Proof. Let
+
+A = a_1 + a_2 + … ; B = b_1 + b_2 + …
+
+(to exclude the case of finite sets we do not assume that a_n ≠ a_m and b_n ≠ b_m for n ≠ m [Footnote: The summation sign + (applied to sets or points) always means the union.]). Since H(A, B) = 0, every a_n is disjoint from B, and every b_n from A.
+
+Let now U_{a_1} and U_{b_1} be two element-disjoint neighbourhoods. Since E − B, and hence also U_{a_1}(E − B) = U_{a_1} − B, is a domain containing the point a_1, there is a neighbourhood V_{a_1} ⊂ U_{a_1} − B; consequently, by regularity, also a neighbourhood W_{a_1} that is contained in U_{a_1} − B together with its closure:
+
+cl W_{a_1} ⊂ V_{a_1} ⊂ U_{a_1} − B.
+
+In the same way we can infer the existence of a neighbourhood W_{b_1} satisfying cl W_{b_1} ⊂ U_{b_1} − A. In consequence of U_{a_1} ∩ U_{b_1} = 0 the following set-equations are then fulfilled:
+
+{ (cl W_{a_1})B = 0, (cl W_{b_1})A = 0; (cl W_{a_1})(cl W_{b_1}) = 0. (3_1)
+
+We proceed further by induction. We suppose neighbourhoods W_{a_1}, …, W_{a_n} and W_{b_1}, …, W_{b_n} to have been found that satisfy the conditions
+
+{ (cl W_{a_i})B = 0, (cl W_{b_i})A = 0 (i = 1, …, n); (cl W_{a_i})(cl W_{b_k}) = 0 (i, k = 1, …, n). (3_n)
+
+We shall show that W_{a_{n+1}} and W_{b_{n+1}} can then also be found in the same way. Let, in fact, U_{a_{n+1}} and U_{b_{n+1}} be two mutually disjoint neighbourhoods. Since a_{n+1} ⊂ [lies in] A, it follows from (3_n) that a_{n+1} is disjoint from the closed set
+
+Q_n = B + (cl W_{a_1} + … + cl W_{a_n}) (4′)
+
+and so belongs to the domain E − Q_n. Likewise b_{n+1} is disjoint from the set
+
+P_n = A + (cl W_{b_1} + … + cl W_{b_n}). (4)
+
+From a_{n+1} ⊂ U_{a_{n+1}}(E − Q_n) = U_{a_{n+1}} − Q_n, where the latter set is a domain, we infer as before the existence of a W_{a_{n+1}} with cl W_{a_{n+1}} ⊂ U_{a_{n+1}} − Q_n. We likewise obtain cl W_{b_{n+1}} ⊂ U_{b_{n+1}} − P_n. In the equations that follow from this,
+
+(cl W_{a_{n+1}})Q_n = 0, (cl W_{b_{n+1}})P_n = 0; (cl W_{a_{n+1}})(cl W_{b_{n+1}}) = 0,
+
+there are contained — as is seen from (4) and (4′) — precisely those equations that complete (3_n) to the analogous equations (3_{n+1}).
+
+Thereby the existence of neighbourhoods W_{a_i} and W_{b_i} is secured that are so constituted that
+
+(cl W_{a_i})(cl W_{b_k}) = 0 (i, k = 1, 2, …). (3^∞)
+
+We now set
+
+G_A = W_{a_1} + W_{a_2} + … ; G_B = W_{b_1} + W_{b_2} + …
+
+G_A and G_B are obviously domains, and by (3^∞) they are disjoint from each other. But now
+
+A = a_1 + a_2 + … ⊂ W_{a_1} + W_{a_2} + … = G_A, and likewise B ⊂ G_B;
+
+that is, A and B are separable by domains, as was to be proved.
+
+Corollary. Every countable (that is, consisting of countably many points) regular space is completely normal.
+
+For countable spaces, therefore, the categories β, γ, and δ fall together. There are, incidentally — as we shall soon see — irregular countable spaces.
+
+
+
+§5. Separation by closed domains [1925, p. 267]
+
+We shall say that the sets A and B are separable by closed domains if two domains G_1 ⊃ A and G_2 ⊃ B can be found of such a kind that
+
+(cl G_1)(cl G_2) = 0. (5)
+
+This definition permits us to introduce four new categories α′, β′, γ′, δ′ of spaces, which arise from α, β, γ, δ by replacing, in the corresponding demands, the "domains" by "closed domains." It is, however, easy to show [Footnote: See the footnote at §3.] that the demand β′ is equivalent to β, and γ′ to γ. As for the demand δ′, it goes much too far: it excludes, for instance, all those spaces in which there exists even a single convergent sequence.
+
+Only in α′ have we obtained a new and important category, which inserts itself between α and β (for the demand α′ follows from β), but coincides with neither of them, as is seen from the examples given in the next paragraph [Footnote: See also the works cited in the footnote at §3.].
+
+If we call two points that cannot be separated by closed domains inseparable points [untrennbare Punkte], then we may designate the spaces satisfying the demand α′ as spaces without inseparable points.
+
+It may further be remarked that an inseparable pair of points a, b can also be characterised by this: that every pair of neighbourhoods U_a, U_b satisfies the inequality
+
+(cl U_a)(cl U_b) ≠ 0. (5*)
+
+[Footnote: See the footnote at §3.]
+
+
+
+§6. A countable space with an inseparable pair of points [1925, pp. 268–269]
+
+Let
+
+E = a + b + {a_ν} + {b_ν} + {c_{νμ}} (ν, μ = 1, 2, 3, …);
+
+we shall designate the points of E, according to the number of their indices, as points of the 0-th, 1-st, and 2-nd order.
+
+We define the neighbourhoods as follows:
+
+V_{c_{νμ}} = {c_{νμ}} (that is, the points of second order are isolated);
+
+[The three remaining neighbourhood formulas are carried here as a description, the machine-read text garbling their subscript ranges: the basic neighbourhoods V^{(n)}_{a_ν} of a first-order point a_ν consist of a_ν together with all points c_{νk}, c_{νμk}… of second order whose first index is ν and whose remaining index runs from n onward; the basic neighbourhoods V^{(n)}_a of the point a consist of a together with all first-order points a_ν (ν ≥ n) and all second-order points c_{νμ} with ν ≥ n; and the basic neighbourhoods V^{(n)}_b of b are defined symmetrically out of the points b_ν and c_{νμ}.]
+
+Hausdorff's neighbourhood axioms are fulfilled: Axiom A is evident; Axiom B follows from the relation (valid for every point x)
+
+V^{(n)}_x ∩ V^{(m)}_x = V^{(n+m)}_x [the machine-read text garbles the indices of this intersection formula];
+
+Axiom C follows from this, that only the points of second order — which indeed coincide with their neighbourhoods — can be contained in a neighbourhood of another point.
+
+Axiom D is obviously fulfilled for two points of the same order (arbitrary neighbourhoods of these points are element-disjoint); that this is also the case for all other pairs of points is seen from the equations [Footnote: Hausdorff, loc. cit., p. 213; see also the works cited in the footnote above.]:
+
+1. (a point of second and a point of first order): [the neighbourhood intersections printed here are empty; the machine-read text garbles the subscript combinations];
+
+2. (second and 0-th order): [the same; the machine-read text garbles the combinations];
+
+3. (first and 0-th order): [the same].
+
+In the space E so defined, the pair of points of 0-th order is inseparable. For arbitrary n and m there is indeed (see the closing remark of the preceding paragraph)
+
+cl V^{(n)}_a ∩ cl V^{(m)}_b ⊃ [a sum of second-order points c_{νμ} with large indices, as the machine-read text gives it in garbled form] ≠ 0.
+
+If we exclude from E the point b and all the b_ν, we obtain a simple example of an irregular space without inseparable points.
+
+
+
+§7. A generalisation of the notion of connectedness [1925, pp. 269–270]
+
+We shall say that the set C is connected between a and b (a and b are points of C) if C cannot be split into two separated partial sets A and B that contain a and b respectively: A ∋ a, B ∋ b.
+
+A set is obviously connected simply [Footnote: I recall that we have left the connected sets consisting of a single point out of consideration.] if and only if it is connected between every two (of its) points; it suffices incidentally to assume that the set is connected between one fixed point and an arbitrarily variable point. From the bare existence of a pair of points between which C is connected it does not, however, by any means follow (even for plane sets) that C contains connected partial sets, let alone that it is itself connected [Footnote: The latter assertion is trivial; for the first, Sierpiński has given an example (Fund. Math. 2, pp. 81–95).].
+
+Theorem. If a and b are inseparable points of a space E, then E is connected between a and b.
+
+Otherwise one could set E = A + B, where A ∋ a, B ∋ b, and H(A, B) = 0. From this it would follow that A and B are at the same time closed sets and domains, and so that a and b are separable by closed domains — which contradicts the hypothesis.
+
+Corollary. A space in which a fixed point a is inseparable from every other point is connected. Still more does this assertion hold for a space in which every pair of points is inseparable.
+
+
+
+§8. Dimension 0 [1925, p. 270]
+
+A further generalisation of the notion of connectedness can be supplied by considering the dimension of sets [Footnote: See my note "Sur les multiplicités cantoriennes" (C. R. Paris 175 (1922), p. 440), where the dimension of sets is defined in general for metric spaces, and my "Mémoire sur les multiplicités cantoriennes," whose first section will appear in vol. 7 of Fund. Math. The dimension 0, with which alone we are here concerned, has incidentally already been introduced implicitly by Sierpiński (loc. cit.).].
+
+A (non-empty) set C is called of dimension 0 (in symbols: dim C = 0) if for every point x of C and every neighbourhood U_x of x a splitting
+
+C = A + B
+
+can be found that satisfies the conditions
+
+{ H(A, B) = 0; x ∈ A ⊂ U_x. (6)
+
+(N.B. It is not assumed that B ≠ 0.) If neither C = 0 nor dim C = 0, we write
+
+dim C > 0
+
+and say that C is of positive dimension.
+
+Sets of positive dimension furnish us a still wider — and, if only topologically invariant notions are taken into account, final [Footnote: Loc. cit.] — generalisation of the notion of connectedness: for it is clear that every set connected between two points is of positive dimension, while Sierpiński has shown that the converse of this theorem is not true — there even exist plane sets of positive dimension that are connected between no pair of points at all.
+
+
+
+Chapter II. Cardinality theorems for connected sets [1925, p. 271]
+
+
+
+§9. Formulation of the theorems [1925, p. 271]
+
+I shall in this chapter prove two theorems on the cardinality of sets of positive dimension, which are therefore immediately applicable in particular to connected sets, or to sets connected between a pair of points [Footnote: That a finite set — even in an irregular space — cannot be of positive dimension is indeed self-evident: it suffices, in (6), to set A = {x}, B = C − x.]. By these theorems the problem posed in the Introduction is solved completely, in the positive sense, for normal spaces, and to a certain degree for regular spaces. For the irregular spaces we shall obtain a negative solution in the following chapter.
+
+The two theorems run as follows:
+
+Theorem I. In a normal space, every set of positive dimension is at least of the cardinality of the continuum.
+
+Theorem II. In a regular space, every set of positive dimension is uncountable.
+
+The second theorem was (for connected sets) formulated by P. Alexandroff and proved by means of a method closely bound up with the method set out in §4. It is, however, simpler not to use the method, but to use the results of §4, in order with their help to derive Theorem II from Theorem I.
+
+This last is done as follows. If Theorem II were false, there would be a countable set C of positive dimension lying in a regular space E [Footnote: Hausdorff, loc. cit., pp. 241–242. As "relative neighbourhoods" in C count the sets U_x ∩ C (where x ∈ C and U_x is an arbitrary neighbourhood of this point in E); one sees at once that the demand R′ (§2), if it holds for E, also holds for C.]. If we now disregard the points of the complementary set E − C — that is, regard C as a relative space — then C is likewise a regular space [Footnote: See the preceding footnote.].
+
+The corollary of §4 then tells us that C is a normal countable space; that is, the correctness of the assumption dim C > 0 would carry with it the incorrectness of Theorem I.
+
+It is thereby shown that Theorem II follows from Theorem I; and it remains only to prove the latter theorem.
+
+
+
+§10. Proof of Theorem I [1925, pp. 272–273]
+
+Let E be a normal space. We first prove the following auxiliary theorems [Footnote: To avoid repetitions, we make once and for all the convention that G (with any indices) always means a domain, F a closed set, and the small Latin letters always points (or numbers).]:
+
+Auxiliary theorem 1. Let F ⊂ G_1. There is then a G_0 that satisfies the condition
+
+F ⊂ G_0 ⊂ cl G_0 ⊂ G_1.
+
+Proof. The closed sets F and E − G_1 are element-disjoint; they can therefore be separated by domains G_0 and G: F ⊂ G_0, E − G_1 ⊂ G, G_0 ∩ G = 0. Since G_0 and G are domains, it follows from this that (cl G_0) ∩ G* = 0, and so (cl G_0) ∩ (E − G_1) = 0, that is, cl G_0 ⊂ G_1, as was to be proved.
+
+Auxiliary theorem 2. If G_0 ⊂ G_1, there is then a G_{1/2} satisfying the condition
+
+G_0 ⊂ G_{1/2} ⊂ cl G_{1/2} ⊂ G_1.
+
+Proof. It suffices, in the preceding auxiliary theorem, to replace F by cl G_0 and G_1 by G_1 [i.e., to apply auxiliary theorem 1 to the pair cl G_0 ⊂ G_1].
+
+Auxiliary theorem 3. Let F ⊂ G_1. One can then find a system {G_t} of domains, which correspond to all the dyadic fractions lying between 0 and 1,
+
+t = m / 2^n, 0 ≤ t ≤ 1 (n = 0, 1, 2, …),
+
+and which have the property that
+
+1. F ⊂ G_t, 2. from t_1 < t_2 the inclusion cl G_{t_1} ⊂ G_{t_2} follows [the machine-read text gives the inclusions in compressed form].
+
+Proof. The domain G_0 is supplied by auxiliary theorem 1; it then suffices to apply auxiliary theorem 2 successively, in order to pass in general from G_{t_1} and G_{t_2} to the domain G_{(t_1 + t_2)/2} [the machine-read display is compressed; the dyadic midpoint construction is meant].
+
+Auxiliary theorem 4. Under the same hypotheses one can also find a system {G_t} of domains with analogous properties, in which, however, t takes all real values between 0 and 1 (0 ≤ t ≤ 1).
+
+Proof. The G_t for dyadic t we define as before; if, however, t is not a dyadic fraction, we set
+
+G_t = Σ_{r < t} G_r [the union of all G_r with dyadic r < t].
+
+Since G_r ⊂ cl G_r ⊂ G_{r′} for r < r′, we can therefore set G_t = ⋃_{r<t} G_r for every t. From this it already follows that from t_1 < t_2 the inclusion G_{t_1} ⊂ G_{t_2} can be inferred; but in order to show that cl G_{t_1} ⊂ G_{t_2} also holds, we insert between t_1 and t_2 two dyadic fractions r_1 and r_2 (t_1 < r_1 < r_2 < t_2) and take into account the inclusion cl G_{r_1} ⊂ G_{r_2}; there then comes cl G_{t_1} ⊂ G_{r_1}, and so G_{t_1} ⊂ cl G_{t_1} ⊂ G_{r_1}, hence cl G_{t_1} ⊂ G_{t_2}, as was to be proved.
+
+Addition. Let ∂_t = cl G_t − G_t be the boundary of G_t. For t_1 ≠ t_2, ∂_{t_1} and ∂_{t_2} are then element-disjoint.
+
+In fact ∂_{t_1} ⊂ cl G_{t_1} ⊂ G_{t_2} (for t_1 < t_2), while ∂_{t_2} is disjoint from G_{t_2} [so from cl G_{t_1}]; the case t_2 < t_1 is symmetric.
+
+
+
+§11. Completion of the proof [1925, p. 273]
+
+Let now C be any set lying in E whose cardinality is < 2^{ℵ0}. Let further x be any point of C, and U_x an arbitrary neighbourhood of this point.
+
+We set F = {x}, G_1 = U_x, and define the G_t and ∂_t according to auxiliary theorem 4 and its Addition. Since the 2^{ℵ0} sets ∂_t (we here consider only those for which 0 < t < 1) are pairwise element-disjoint, C certainly cannot have points in common with every ∂_t. Let there be, then, a t_0 (0 < t_0 < 1) with
+
+C ∩ ∂_{t_0} = 0; (7)
+
+we then set
+
+A = C ∩ G_{t_0}, B = C − A.
+
+By (7), B is disjoint from G_{t_0} + ∂_{t_0} = cl G_{t_0}, and so is contained in the domain E − cl G_{t_0}; that is, A and B are contained respectively in the mutually disjoint domains G_{t_0} and E − cl G_{t_0}. From this it follows that
+
+H(A, B) = 0.
+
+On the other hand,
+
+C = A + B,
+
+and it follows from auxiliary theorem 4 that
+
+A ⊂ G_{t_0} ⊂ cl G_{t_0} ⊂ G_1 = U_x,
+
+and that
+
+G_t ⊃ {x} = F for every t, so (since C ∋ x)
+
+A ∋ x.
+
+Now x and U_x were chosen arbitrarily; we therefore see (§8) that
+
+dim C = 0.
+
+Thereby it is shown that in the normal space E every set of positive dimension is at least of the cardinality 2^{ℵ0}, as was to be proved.
+
+[Here Part I of the paper closes. Chapter III of the Mächtigkeit paper (§§12–17, the construction of a connected countable topological space) and Appendices I–II (§§18–23) are not translated in this volume; they are mapped in NOTES.md. The translation resumes, in the next panel, at Appendix III, §24.]
+
+
+
+Part II — From Appendix III of the Mächtigkeit paper: Fréchet's problem, and the Theorem (§§24–25, with an excerpt from §28) [1925, pp. 290–291, 293, 295]
+
+
+
+§24. Fréchet's problem [1925, p. 290]
+
+M. Fréchet has posed the problem [Footnote: See, e.g., his "Esquisse," p. 377.] of seeking out the most general possible categories of spaces in which non-constant continuous functions exist [Footnote: The functions f(x) of which there will be talk here are to be defined in the space in question and real-valued (that is, f(x) is a real number). On continuity see, e.g., Hausdorff, loc. cit., chap. IX, §1.].
+
+The preceding considerations (Chapters II and III) permit us to settle this problem almost completely. We shall see, namely, that such functions exist in all normal spaces, but that this is not the case in all topological spaces — indeed, not even in all spaces with the second axiom of countability. It is only the question whether there also exist regular spaces in which all continuous functions are constant that I have not succeeded in deciding.
+
+
+
+§25. The Theorem [1925, pp. 290–291]
+
+We can, as already said, infer from the considerations of Chapter II that in every normal space non-constant continuous functions exist [Footnote: Spaces consisting of a single point are, self-evidently, to be left out of consideration.]. Indeed still more! There holds, in fact, the
+
+Theorem. Let A and B be two element-disjoint closed sets lying in the normal space E. One can then define in E a continuous function f(x) such that
+
+f(x) = 0 on A, f(x) = 1 on B, 0 ≤ f(x) ≤ 1 in all other points of E.
+
+Remark. From this it follows in particular that there are (in a normal space) continuous functions f(x) that take different values at two arbitrarily prescribed points a and b: f(a) ≠ f(b).
+
+Or somewhat more generally: to every a and every domain G ∋ a a continuous function can be found that is equal to 0 at a and everywhere equal to 1 outside G [Footnote: See the theorems in §27.].
+
+Proof. We set F = A, G_1 = E − B — which indeed leads to the inclusion F ⊂ G_1 — and define the domains G_t (0 ≤ t ≤ 1) according to auxiliary theorem 4 of §10. We set besides G_t = 0 [the empty set] for t < 0, and G_t = E for t > 1; then the condition
+
+from t_1 < t_2 follows G_{t_1} ⊂ cl G_{t_1} ⊂ G_{t_2}
+
+is fulfilled for arbitrary real t_1 and t_2. If now x is any point of E, it follows from this condition that the indices t of those domains G_t that do not contain the point x form a half-line −∞ < t < t_x, or −∞ < t ≤ t_x; and we will set f(x) = t_x.
+
+For a point x belonging to G_0 (and so in particular to A) it is then the case that f(x) = 0; outside G_1 (that is, on B), f(x) is obviously = 1. One further sees easily that f(x) is everywhere non-negative and ≤ 1. But that this function is also continuous can be seen as follows:
+
+Let the point a of E and the positive number ε be arbitrarily given. Since a belongs to the domain G_{t_a + ε} but not to the domain G_{t_a − ε}, it follows from this, because G_{t_a − ε} ⊂ cl G_{t_a − ε} ⊂ G_{t_a + ε} [the machine-read indices are compressed here], that a lies in the domain G_{t_a + ε} − cl G_{t_a − ε}. We can consequently find a neighbourhood U_a that lies in this domain: U_a ⊂ G_{t_a + ε} − cl G_{t_a − ε}.
+
+Since every point x of U_a lies in G_{t_a + ε} but not in G_{t_a − ε}, throughout U_a we have t_a − ε < t_x < t_a + ε, that is,
+
+|f(x) − f(a)| ≤ ε,
+
+which signifies the continuity of f(x) at the (arbitrary) point a.
+
+[Here the translation of the Mächtigkeit paper pauses, by the editor's ruling, at the end of §25. §26 (a space with the second axiom of countability in which every continuous function is constant), §27 (the two cardinality theorems that follow from point-separation by continuous functions), and the body of §28 — including his proof that the theorem of §25 yields the extension theorem for continuous functions on normal spaces — are not translated in this volume; they are mapped in NOTES.md. One excerpt from §28 follows, separately labelled.]
+
+
+
+An excerpt from §28: supplementary remarks [1925, pp. 293, 295]
+
+The theorem of §25 is of great importance for the metrization problem: I intend shortly to publish a work in which I shall show, by means of this theorem, that every normal topological space with the second axiom of countability is homeomorphic to a metric space [Footnote: An immediate consequence of the metrization theorem named is the theorem proved in §19 (though not its generalisation in the footnote there).].
+
+[The body of §28 — the proof, by means of §25, of the extension theorem for bounded continuous functions on closed subsets of a normal space — is passed over here; it is mapped in NOTES.md. The paper's closing remark, printed p. 295, reads:]
+
+In closing I should like still to remark that the theorem of §25 expresses a property of normal spaces that is equivalent to normality; that is, a space in which this property — or even only the weaker property that arises when one strikes out the additional condition "0 ≤ f(x) ≤ 1 in all other points of E" — is fulfilled is eo ipso normal. Let E, in fact, be a space in which the weaker property is fulfilled, and A and B two mutually disjoint closed sets of this space; by forming a continuous function f(x) that is = 0 and = 1 respectively on these sets, and then denoting by G_1 and G_2 the sets in which f(x) < 1/2 and f(x) > 1/2 respectively, we obtain obviously the domains demanded in the definition of normality.
+
+Le Batz (Loire-Inférieure), 14. 8. 1924.
+
+(Received 23. 8. 1924.)
+
+
+
+Part III — On the Metrization Problem (§§1–4, complete) [1925, pp. 309–315]
+
+
+
+§1. The problem [1925, p. 309]
+
+The metrization problem — that is, the problem of setting up the conditions under which a topological space [Footnote: Hausdorff, Grundzüge der Mengenlehre, Leipzig 1914 (in the following cited simply as "Hausdorff"), p. 213.] is homeomorphic to a metric space [Footnote: Hausdorff, p. 211.] — has lately found both a general, but rather complicated, solution, and also a completely satisfactory solution in some important special cases [Footnote: See P. Alexandroff et P. Urysohn, Une condition nécessaire et suffisante …, Comptes Rendus Paris 177, p. 1274; P. Urysohn, Über die Metrisation der kompakten topologischen Räume, Math. Annalen 92, pp. 275–293; P. Alexandroff, Über die Metrisation der im Kleinen kompakten topologischen Räume, ibid., p. 294 ff. In these works further references to the literature will also be found. Compare also the work P. Urysohn, Über die Mächtigkeit der zusammenhängenden Mengen, Math. Annalen 94, pp. 262–295, in particular its footnote and §28.] [Footnote: The contents of this paper were presented by Paul Urysohn in April 1924 to the Moscow Mathematical Society and on 8 July 1924 to the Göttingen Mathematical Society. Of the present text only the first paragraph was edited by himself; the rest was edited after his death by the undersigned, who, on the basis of oral communications, was exactly acquainted both with the whole plan of the work and with all the details of the conduct of the proofs. — Paul Alexandroff.]. In this work I will show how one can solve the metrization problem in a very simple way for all spaces with the second axiom of countability [Footnote: Hausdorff, p. 268; compare also "Über die Mächtigkeit der zusammenhängenden Mengen," its footnote. One can (as is easily seen) also formulate the second axiom of countability as follows: There exists in the space a countable system of domains such that every domain is the union of certain domains of this system.]: there the normality of the space appears as the necessary and sufficient condition of metrizability. I recall that a topological space is called normal if the following property (Tietze's [Footnote: Tietze, Beiträge zur allgemeinen Topologie I, Math. Annalen 88, p. 290.] IIIrd separation axiom) is fulfilled in it: if A and B are two element-disjoint closed sets, they are separable by domains [Footnote: Domain = open set. See Hausdorff, p. 215.], that is, two mutually disjoint domains G_1 and G_2 can be found that contain these sets respectively: G_1 ⊃ A, G_2 ⊃ B [Footnote: P. Alexandroff and P. Urysohn, Zur Theorie der topologischen Räume, Math. Annalen 92, p. 263, §4.].
+
+
+
+§2. The main theorem, and the lemma it rests on [1925, pp. 310–311]
+
+We wish, then, to prove the following theorem:
+
+Main theorem. Every normal topological space satisfying the second axiom of countability is metrizable (that is, homeomorphic to a metric space).
+
+Since a metric space, as is easily seen, is always normal [Footnote: See Tietze, loc. cit., p. 310. Compare also P. Urysohn, loc. cit., §3.], the condition of normality is a not only sufficient but also necessary condition for the metrizability of the topological spaces with the second axiom of countability.
+
+Since finally, in metric spaces, the second axiom of countability is equivalent to the demand for the existence of a countable everywhere dense subset, the theorem just enunciated can also be formulated as follows:
+
+In order that a topological space E be homeomorphic to a metric space with a countable everywhere dense subset, it is necessary and sufficient that in E the two hypotheses of normality and of the second axiom of countability be fulfilled [Footnote: On the other hand (as can be shown by examples) the presence of a countable everywhere dense subset in a normal topological space is by no means sufficient for the metrizability of this space; see on this P. Alexandroff, loc. cit., §3.].
+
+We rest the proof on the following lemma, proved in the work "Über die Mächtigkeit der zusammenhängenden Mengen," Appendix III:
+
+Lemma. Let A and B be two element-disjoint closed sets lying in the normal space E. One can then define in E a continuous function f(x) such that
+
+f(x) = 0 on A, f(x) = 1 on B, 0 ≤ f(x) ≤ 1 in all other points of E.
+
+To make the reading of the present paper independent of the work just cited, we give here the proof of the lemma again in short form.
+
+Let G_1 = E − B be the domain complementary to the set B; A ⊂ G_1. A and B are element-disjoint, and therefore separable by domains G_A ⊃ A, G ⊃ B. From G_A ∩ G = 0 there follows at once (cl G_A) ∩ G* = 0 (where cl M always means the closed hull M = M + M′ [M together with its derived set] of the set M), that is, A ⊂ G_A ⊂ cl G_A ⊂ G_1.
+
+Let now all the domains G_{m/2^n} (n a fixed integer, 0 ≤ m ≤ 2^n) already be so defined that from m/2^n < m′/2^n the inclusion G_{m/2^n} ⊂ cl G_{m/2^n} ⊂ G_{m′/2^n} follows (for the case n = 0 this has indeed succeeded for us). G_{m/2^n} and E − G_{(m+1)/2^n} are element-disjoint closed sets. One can therefore separate them by domains G_{(2m+1)/2^{n+1}} ⊃ cl G_{m/2^n} [the machine-read text compresses these indices] and G† ⊃ E − G_{(m+1)/2^n}; and since also
+
+cl G_{(2m+1)/2^{n+1}} ∩ G† = 0,
+
+there is
+
+G_{m/2^n} ⊂ cl G_{m/2^n} ⊂ G_{(2m+1)/2^{n+1}} ⊂ cl G_{(2m+1)/2^{n+1}} ⊂ G_{(m+1)/2^n} [indices as just described].
+
+Proceeding in this way, one obtains a system {G_t} (where t = m/2^n, 0 ≤ t ≤ 1, n = 1, 2, …) of domains that correspond to all the dyadic fractions lying between 0 and 1, and that are so constituted that
+
+1. A ⊂ G_t, 2. from t_1 < t_2 the inclusion G_{t_1} ⊂ cl G_{t_1} ⊂ G_{t_2} follows.
+
+One can complete this system {G_t} to a system {G_t} in which t takes all values between 0 and 1, by setting, for non-dyadic t,
+
+G_t = Σ_{r < t} G_r (r dyadic) [printed in compressed form in the original].
+
+From t_1 < t_2 there then follows G_{t_1} ⊂ cl G_{t_1} ⊂ G_{t_2} (for if t_1 < r < t_2 with r dyadic, then G_{t_1} ⊂ cl G_{t_1} ⊂ G_r, and so G_{t_1} ⊂ cl G_{t_1} ⊂ G_r ⊂ cl G_r ⊂ G_{t_2}). We finally set G_t = 0 (0 is here the sign for the empty set) for t < 0, and G_t = E for t > 1; then the condition
+
+from t_1 < t_2 follows G_{t_1} ⊂ cl G_{t_1} ⊂ G_{t_2}
+
+is fulfilled for arbitrary real t_1 and t_2. If now x is any point of E, it follows from this condition that the indices t of those domains G_t that do not contain the point x form a half-line −∞ < t < t_x, or −∞ < t ≤ t_x; and we will set f(x) = t_x.
+
+For a point x belonging to G_0 (and so in particular to A), f(x) = 0; outside G_1 (that is, on B), f(x) = 1; in the remaining points of the space, f(x) is non-negative and ≤ 1. The function f(x) is continuous. Let there be given, in fact, a point a ∈ E and an ε > 0, arbitrarily. Obviously a ∈ G_{t_a + ε} − G_{t_a − ε} [indices compressed in the machine-read text]; there therefore exists a neighbourhood U_a of a that lies in that same domain G_{t_a + ε} − cl G_{t_a − ε}; for all points x ∈ U_a we then have t_a − ε < t_x < t_a + ε, that is, |f(x) − f(a)| < ε. The lemma is thereby proved.
+
+
+
+§3. The metric defined, and the homeomorphism proved [1925, pp. 312–313]
+
+Let now
+
+{U_1, U_2, U_3, …} (1)
+
+be a countable system of neighbourhoods that defines the given space E as a topological space [Footnote: See on this P. Urysohn, loc. cit., its footnote.].
+
+Let
+
+π_1, π_2, π_3, …, π_n, … (2)
+
+be all the pairs of neighbourhoods, π_n = (U_i, U_k), of the kind that cl U_i ⊂ U_k. Let finally, for arbitrary whole n > 0, f_n(x) be the continuous function, corresponding to the pair π_n = (U_i, U_k), existing according to the lemma and defined in all points of the space E, with the properties:
+
+f_n(x) = 0 on cl U_i, f_n(x) = 1 on E − U_k, 0 ≤ f_n(x) ≤ 1 in all points of E.
+
+For two arbitrary points x, y of the space E we now set
+
+ρ(x, y) = Σ_n 2^{−n} |f_n(x) − f_n(y)|. (3)
+
+[In the German the sum is written without displayed limits; the weights 2^{−n} are forced by the argument that follows and by the bound ρ(x, y) ≤ 1 used below.]
+
+Obviously
+
+ρ(x, x) = 0, ρ(x, y) = ρ(y, x), ρ(x, y) + ρ(y, z) ≥ ρ(x, z).
+
+We prove further that for two distinct points x ≠ y, ρ(x, y) = 0 is impossible. In fact, by Hausdorff's axiom (D) [Footnote: Hausdorff, p. 213.] there are two neighbourhoods U_i and U_k from (1) such that U_i ∋ x, U_k ∋ y, U_i ∩ U_k = 0. Now the two closed sets {x} and E − U_k are separable by domains G_1 ∋ x, G_2 ⊃ E − U_k, so that (cl G_1) ∩ G_2 = 0, and consequently x ∈ G_1 with cl G_1 ⊂ U_i. Since G_1 is a domain, there exists a neighbourhood U_j of the point x that is contained in G_1, and so a fortiori x ∈ U_j with cl U_j ⊂ U_i [Footnote: We have thereby proved that in a normal space every neighbourhood U_k of an arbitrary point x contains the closed hull cl U_j of a certain neighbourhood U_j of the same point x — that is, that a normal space is always regular. See P. Alexandroff and P. Urysohn, Zur Theorie der topologischen Räume, loc. cit., and P. Urysohn, loc. cit., §§2, 3.]. The neighbourhood pair (U_j, U_i) is therefore a certain π_n of the sequence (2). Since x ∈ cl U_j [x belongs to the first member of the pair], f_n(x) = 0; but since y ∈ E − U_i, f_n(y) = 1, and so |f_n(x) − f_n(y)| = 1, whence ρ(x, y) ≥ 2^{−n} > 0 [the weight is compressed in the machine-read text].
+
+By regarding the function ρ(x, y) defined by (3) as the distance of the two points x and y, we thus obtain a metric space M whose stock of points is the same as that of the topological space E; it remains only to prove that the limit-formations in the two spaces are also the same — that is, that E and M are homeomorphic. For this we need confirm only the following facts I and II:
+
+I. For an arbitrary point a ∈ E and an arbitrary ε > 0 there is a neighbourhood U_a of the point a that is contained in the sphere S(a, ε) [Footnote: The sphere S(a, ε) is in a metric space by definition the set of all points whose distance from the "centre" a is less than ε (the "radius").] defined on the basis of the distance-definition just given.
+
+II. To every neighbourhood U_a of the arbitrary point a ∈ E there is a certain sphere S(a, ε) contained in this neighbourhood.
+
+Proof of I. The function φ(x) = ρ(a, x) is (in consequence of the uniform convergence of the series (3)) continuous; for every ε there is therefore a neighbourhood U_a of the point x = a such that
+
+|φ(x) − φ(a)| = ρ(a, x) − ρ(a, a) = ρ(a, x) < ε
+
+for all x ∈ U_a, that is, U_a ⊂ S(a, ε).
+
+Proof of II. Let U_a be an arbitrary neighbourhood of the point a. Suppose there were no ε of the kind that S(a, ε) ⊂ U_a. There then exists for every m a point x_m satisfying
+
+ρ(a, x_m) < 2^{−m} [the machine-read text garbles the exponent], x_m ∈ E − U_a.
+
+There now exists [Footnote: See the preceding footnote.] a neighbourhood U_j of the point a such that cl U_j ⊂ U_a. Let π_N be the pair (U_j, U_a); since, for every m, x_m ∈ E − U_a and a ∈ cl U_j, we have f_N(a) = 0 and f_N(x_m) = 1, and so
+
+ρ(a, x_m) ≥ 2^{−N},
+
+which for m > N leads to a contradiction with the definition of the point x_m.
+
+Our main theorem is thereby proved.
+
+
+
+§4. Corollary: the compact case; and a question left open [1925, pp. 313–315]
+
+Corollary. The second axiom of countability is a necessary and sufficient condition for a compact topological space to be homeomorphic to a metric space.
+
+The necessity of the condition just enunciated is already contained in Hausdorff (p. 274, X, and p. 273); in order to see that this condition is also sufficient, we need now only prove the normality of the compact spaces with the second axiom of countability — which is very simple, and indeed as follows.
+
+Let F_1 and F_2 be two element-disjoint closed sets lying in a compact topological space E satisfying the second axiom of countability. Let
+
+{U_1, U_2, …} (4)
+
+be the countable neighbourhood system of the space E. We take any point x — to be thought of first as fixed — from the set F_1; by Hausdorff's axiom (D) there is, for every pair of points (x, y), where x is the already chosen point of the set F_1 and y an arbitrary point of the second set F_2, a pair of neighbourhoods U_{i(x, y)}, U_{k(x, y)} of the kind that
+
+U_{i(x, y)} ∋ x, U_{k(x, y)} ∋ y, (cl U_{i(x, y)}) ∩ U_{k(x, y)} = 0 [the machine-read text garbles these indices].
+
+While y runs through all the points of the set F_2 (x remaining fixed), we obtain a certain subset of the neighbourhood system (4), consisting of all the U_{k(x, y)}, that covers the set F_2; by the Heine–Borel theorem (valid because of the compactness of the space E) one can therefore choose from the U_{k(x, y)} a finite number — let them be U_{k_1}, …, U_{k_q} — such that G_{x,2} = U_{k_1} + … + U_{k_q} contains the set F_2. Let the U_{i_j} corresponding to the U_{k_j} so chosen be U_{i_1}, …, U_{i_q}. The intersection U_{i_1} ∩ … ∩ U_{i_q} is a domain G_x containing the point x; there therefore exists a definite neighbourhood U_{i_x} (from the system (4), e.g. the one furnished with the smallest possible index) of the point x that is contained in G_x. There holds the relation
+
+cl U_{i_x} ⊂ cl G_x = (cl U_{i_1}) ∩ … ∩ (cl U_{i_q}) ⊂ U_{k_1} ∩ … ∩ U_{k_q} [the machine-read text garbles the expansion printed here].
+
+We now determine, for every point x ∈ F_1, the neighbourhood U_{i_x} just explained and the domain G_{x,2}. An application of Borel's theorem again permits us to choose finitely many of the U_{i_x} — let them be U_{i_{x_1}}, …, U_{i_{x_p}} — such that G_1 = U_{i_{x_1}} + … + U_{i_{x_p}} ⊃ F_1. Let the domains G_{x_j, 2} corresponding to these chosen U_{i_{x_j}} be G_{x_1, 2}, …, G_{x_p, 2}; their intersection is again a domain G_2 containing the set F_2. Since
+
+G_1 ∩ G_2 ⊂ (U_{i_{x_1}} + … + U_{i_{x_p}}) ∩ G_{x_1, 2} ∩ … ∩ G_{x_p, 2} ⊂ (sum of terms each contained in the corresponding U_{k} ∩ cl U_{i} combination) = 0,
+
+[the machine-read text garbles the printed expansion of this intersection; its sense is that every summand meets its paired closed neighbourhood in the empty set, as constructed above], the normality of E — and in consequence of it the metrization theorem for compact spaces — is proved [Footnote: The proof of the normality of the compact spaces satisfying the second axiom of countability given here evidently contains the proof of the normality of a much broader class of spaces, namely of the so-called bicompact spaces. See on this P. Alexandroff and P. Urysohn, Zur Theorie der topologischen Räume, where reference is also made to other works of the same authors.].
+
+[Footnote (the author's own, closing the account of the corollary): The first proof of this theorem forms the content of the work P. Urysohn, Über die Metrisation der kompakten topologischen Räume, Math. Annalen 92, p. 275 ff.]
+
+At the end, let the following problem be pointed out. In a footnote it has already been remarked that every normal space is also regular. The converse of this last assertion is, on the other hand, false. Now the question arises whether this converse does not nevertheless remain right if one restricts oneself to topological spaces with the second axiom of countability — that is, whether regularity alone does not already suffice for the metrizability of the spaces fulfilling the second axiom of countability.
+
+(Received 28. 9. 1924.)
