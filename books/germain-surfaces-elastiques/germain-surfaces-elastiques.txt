@@ -1,0 +1,351 @@
+THE PRINCIPLES OF THE THEORY OF ELASTIC SURFACES
+
+
+
+The Avertissement and § I complete: the exposition of the principles that can serve as the basis of the theory of elastic surfaces
+
+
+
+From Recherches sur la théorie des surfaces élastiques (Paris: Huzard-Courcier, 1821)
+
+Sophie Germain (1776–1831)
+
+A fresh English translation, made from the French of 1821.
+
+The Boneyard — Rescued Works
+
+
+* * *
+
+> DRAFT — NOT FOR PUBLICATION. This edition is offered as a working draft. It awaits review by a historian of mathematical physics and by a reader of the period French, including collation of the translation against the page images of the printed original, before any publication. No claim in it should be quoted as settled until those reviews are done.
+
+Public domain source text; modern edition (c) editor, free redistribution.
+
+
+* * *
+
+
+
+DEDICATION
+
+Who she was. Marie-Sophie Germain (1776–1831), the self-taught Parisian who took on the hardest open problem the Academy of her day could set, and the only person who would try. Born 1 April 1776 in Paris, the middle daughter of Ambroise-François Germain — a prosperous merchant, goldsmith and jeweller, later a silk-merchant — she was thirteen when the Revolution began, and she passed the years of the Terror not in the streets but in her father's extensive library at 336 rue Saint-Denis, reading Bézout, Cousin, Newton and Euler through the night with her fire and her lamp taken away, until her parents found her asleep over the ink-pot with the ink frozen in the well and surrendered. No university would receive her, so she read the École Polytechnique's courses in borrowed notes and wrote to its masters as "M. LeBlanc," a young man who never existed — Lagrange found the substance, sought out the author, and became her counsellor; Gauss, in Brunswick, received letters signed LeBlanc that praised their penetration, and when her fear for his safety under the French occupation forced her to reveal herself, he gave her, he wrote, even more praise.
+
+Her home and circumstances. In 1808 Chladni came to Paris with his vibrating plates, and Napoleon offered a kilogram of gold to whoever would found a mathematical theory of the patterns the sand traced. Lagrange himself had declared the means insufficient. Germain sent the only entry in 1811 — a memoir the judges refused to crown, admitting grave errors of calculation she never denied — and yet Lagrange looked past the errors, saw the hypothesis, and derived from it the differential equation she should have given herself. She was the only entrant again in 1813 and took an honourable mention; in her third entry, signed with her own name, she carried the prize itself on 8 January 1816 — the first woman to take a prize of the Academy of Sciences. She did not walk to it: she thought the judges had not fully appreciated the work, and the scientific community did not show the respect that seemed due her. Poisson, her chief rival on the subject and also one of her judges, answered her with a laconic formality and discussed nothing. The Academy never opened its membership to her; the obituary written by her nephew's executor shows her attending its sessions only later, with Fourier's help.
+
+Her death. Breast cancer struck in 1829. She worked through it and through the fighting of the July Revolution, finishing papers on number theory and on the curvature of surfaces in 1831. She died in Paris on 27 June 1831, aged fifty-five. The official who made out her death certificate set her down not as a mathematician, but as a rentière — a property-holder. One account records that Gauss moved the University of Göttingen to award her an honorary degree; she died before it could arrive. She is buried at Père Lachaise.
+
+Why this work is vital — to prove her logic. The pages translated here contain the founding act of the theory of elastic surfaces: the hypothesis that the force of elasticity at a point of a surface is measured by the sum of the inverse radii of its two principal curvatures — taken before and after deformation — and two geometric proofs of it, the second one drawn from Bernoulli's treatment of the elastic strip. Navier, her slightly younger contemporary, is reported to have called the 1821 book a work which few men are able to read and which only one woman was able to write. Her Avertissement — the notice that opens this volume — is itself a document of method: she lays the whole prize history bare, admits her errors, answers the rival hypothesis of the celebrated name (Poisson's molecular repulsions), and asks the enlightened public, not the Academy, to judge between them. She writes in the feminine throughout — empêchée, occupée, conformée — and the translation leaves that visible wherever English permits.
+
+Her relation to this series. The Boneyard keeps works the world shelved before it finished listening. Her number-theory manuscripts — the grand plan against Fermat, the auxiliary primes — never reached print in her lifetime and are an archive story, not this book's business; this memoir she published herself, at her own expense, because she would not let the argument rest. It has, after the research recorded in the notes, no English translation to its name. Here is the opening movement, carried across at last — because she proved her logic, and then the century credited the plate equation and forgot to read her proof.
+
+— The Editor
+
+
+
+A note on this edition
+
+This volume translates, complete, the opening movement of Sophie Germain's Recherches sur la théorie des surfaces élastiques (Paris: Huzard-Courcier, 1821), printed x + 96 pages with one fold-out plate:
+
+- the Avertissement (printed pp. v–x), in full; - § I, Exposition des principes qui peuvent servir de base à la théorie des surfaces élastiques [Exposition of the principles that can serve as the basis of the theory of elastic surfaces] (printed pp. 1–14), articles 1 through 8, complete.
+
+The cut is disclosed in place at the head of the memoir: § II ("Recherche des termes qui doivent conduire à l'équation de la surface élastique") begins on printed p. 15 and is not translated here; §§ II–IV, the Errata, and the plate belong to the remainder map in NOTES.md.
+
+The translation was made from the digitised 1821 Huzard-Courcier edition (Internet Archive item `TO0E039736_TO0324_PNI-1705_000000`, the Accademia delle Scienze of Turin copy; djvu text 215,241 B, MD5 `1f82aaccc2617d9841ca15e8853060a1`; djvu XML 2,732,673 B, MD5 `8c0dd52579fd269d24bccc6d12b0a828`, 118 scan leaves; the leaf-to-printed-page map is pinned in NOTES.md §2). The author died in 1831; the text is public domain. The machine-read text is excellent in the prose and treacherous in the formulas — the equation displays suffer the usual OCR violence — and the translation therefore brackets what it cannot certify: uncertain readings are bracketed, never silently repaired; the handful of load-bearing formulas (the hypothesis itself, Euler's section formula, the N-coefficient terms) were reconstructed from the surrounding argument and are flagged wherever the machine text could not certify them. Page anchors in the form [1821, p. n] refer to the printed pagination of the 1821 volume; front-matter anchors read [1821, pp. v–x].
+
+Her notation stands. Her R, R′ are the radii of natural principal curvature, her r, r′ the radii of elastic (deformed) principal curvature; her ρ is the radius of curvature of a section curve; her N is the coefficient of elastic resistance, e the thickness. Her articles are numbered in the French manner (n° 1, n° 2 …), kept as "art. 1," "art. 2," …. She quotes d'Alembert's Encyclopédie article Élasticité and Euler (Berlin memoir, 1760, p. 119) in her own words; the translations of those quotations are this edition's, marked as quotations of her quotations. The modern names — the Germain–Lagrange plate equation, Germain primes, her mean curvature — are the textbooks' and the historians', and they live in the dedication and the notes, not in her text. This edition was made without consulting any modern copyrighted translation; no English translation of this memoir was found after research, though its ideas are discussed wherever elasticity is taught.
+
+One caution for the reader, honestly printed: her variational argument carries the errors the 1811 judges flagged and which she herself admits in the Avertissement. The edition annotates them in footnotes; it does not correct them.
+
+
+* * *
+
+
+* * *
+
+THE AVERTISSEMENT AND § I
+
+
+
+Avertissement [1821, pp. v–x]
+
+The acoustic phenomena, our knowledge of which we owe to M. Chladni, have directed the attention of geometers toward the question of elastic surfaces.
+
+Despite their labours, there remains some embarrassment in the choice of the principles which ought to serve as the basis of this whole theory.
+
+Two essentially different hypotheses have been proposed. One of them has the support of a justly celebrated name; that is a strong reason for distrusting the one that is mine: so I have made every effort to renounce it.
+
+I feel I need the support of a judgment not my own. I have no other means left of dispelling the doubt that haunts me amid the researches I have undertaken. In setting forth my opinion, I join to it my reasons, so that the enlightened public may weigh them, and teach me to judge them better.
+
+If I sometimes take an affirmative tone, it is only to free myself from the tiresome expression of doubt. It suffices to warn the reader once that, far from claiming to fix his opinion, I solicit on his part the critical examination of mine; he will surely pardon me if I then conceal none of the advantages I believe I recognise in my hypothesis.
+
+As soon as Chladni's first experiments were known to me, it seemed to me that analysis could determine the laws to which they are subject. But I had occasion to learn from a great geometer, whose earliest labours had been devoted to the theory of sound, that this question contained difficulties I had not even suspected. I ceased to think of it.
+
+At the time of Chladni's stay in Paris, the sight of his experiments excited my curiosity anew. I studied Euler's memoir on the linear case — certainly not with the intention of competing for the extraordinary prize which the Institut then proposed, but with the sole desire to appreciate the difficulties whose very terms the programme renewed in my mind.
+
+In the linear case, the forces of elasticity are supposed proportional to the inverse ratio of the radius of curvature. The hypothesis which gives, in place of the inverse ratio of the radius of curvature of a simple curve, the sum of the inverse ratios of the radii of the two principal curvatures of a surface, struck me by its analogy and by its simplicity.
+
+Neither the sense of my incapacity, nor my want of habit in calculation, nor the little time that remained to me before the date of the competition (October 1811), could prevent me from addressing to the Institut a memoir in which I proposed the hypothesis I had imagined. I felt even then how worthy of attention this hypothesis was, and I put the greatest eagerness into submitting it to the judgment of the Academy.
+
+I had committed grave errors; a single glance sufficed to perceive them; the piece might therefore have been condemned without taking the trouble to read it. Fortunately, one of the commissioners, M. de Lagrange, noticed the hypothesis; he deduced from it the equation which I ought myself to have given, had I conformed to the rules of calculation.
+
+When I learned that this great geometer, who had until then seemed struck by the difficulties of the question, seemed to have augured well of the hypothesis I had proposed, it acquired in my eyes a new degree of importance.
+
+The first sight of the equation increased my hopes still further;* for it fulfilled indeed all the indications which observation of the phenomena had already furnished me concerning the properties the sought equation must unite.
+
+* [The footnote here presents, in the scan's text layer, a badly damaged computation; its formula lines are not recoverable from the machine-read text. The note's sense — carried in the surviving prose — is that the equation satisfies the observed properties.]
+
+The Classe put the question to competition anew, this time granting a delay of two years.
+
+Before the 1st of October 1813 I sent a memoir in which are found the already-known equation, and also the conditions of the extremities, determined by means of the hypothesis which had furnished the equation. This memoir ends with the comparison between the results of the theory and those of experiment.
+
+I had occasion to remark, against the opinion stated in the programme, that it was far from true that the lines of rest observed by M. Chladni were always analogous to the nodes of vibration of vibrating strings. I showed that this analogy holds only in those cases where, by reason of the nature of the integral, all the lines of rest satisfy the conditions of the limits.
+
+The Classe gave honourable mention to my memoir, and granted its approval to the comparison between theory and experiment. The equation which this comparison had justified had nevertheless not yet been demonstrated. The demonstration of the equation became the subject of a third competition, whose term was to expire on the 1st of October 1815.
+
+May I be permitted to remark that the question of elastic surfaces had by then lost a part of the difficulties mentioned in the programme (†)?
+
+(†) [The note quotes at length the programme printed at the end of Chladni's Traité d'Acoustique, p. 355–356, on the essential difference between the one-dimensional and two-dimensional problems and the great augmentation of difficulties when two dimensions are introduced into the calculation, with simplifications "which change the natural state of things" — the scan's text layer renders this quotation partially; its substance is as above.]
+
+An hypothesis was now in hand which introduced two dimensions into the calculation. If this hypothesis was not yet justified a priori, at least it rested on no simplification that changed the natural state of things. Finally, no one contested that the differential equation which I attributed to the motion of vibrating plates belonged really to that kind of vibrations, considering their phenomena as nature gives them.
+
+The difficulty seemed therefore reduced to demonstrating either my hypothesis or any other that would lead equally to the known equation. Perhaps it was also to be desired that the chosen hypothesis should lead immediately to the knowledge of the conditions relating to the limits.
+
+In the month of August 1814, a member of the Classe read a memoir on elastic surfaces. The author adopts a new hypothesis; he treats it with the talent which characterises all his works; and, confining himself to the case of naturally plane surfaces, he arrives at the general equation of that kind of surface; but he puts off to another time the determination of the conditions to which the limits must be subjected.
+
+It results from a theorem due to the author himself of the memoir of which I have just spoken, that my hypothesis would equally lead to his general equation.
+
+This identity of results would seem bound to guarantee me the certainty of the theory I seek to establish; but still, between the doctrine of that learned author and mine, there remain differences so essential that I do not think I ought to defer the choice to them.
+
+I tried in vain to renounce the hypothesis I had adopted; it resisted all the objections by which I attempted to combat it. I ended by believing that this hypothesis might be regarded as an immediate consequence of the very definition of elastic force, and that thus it must apply, by means of a suitable generalisation, to the case of a naturally curved surface.
+
+The theory of elastic plates had seemed to content them; the memoir on elastic surfaces related only to that kind of surface.
+
+In the piece I addressed to the Institut before the 1st of October 1815, I gave a hypothesis more general than the one found in my preceding memoirs. I tried to demonstrate my new hypothesis, and I applied it particularly to the search for the equation of vibrating cylindrical surfaces.
+
+I gave an account of a small number of experiments I had attempted, in the hope of verifying this equation. Already some facts seemed favourable to it; meanwhile I remarked that, whereas the theory led to believing that the sound corresponding to a certain nodal figure must be graver than before the curvature, it happened, on the contrary, that the sound was more acute. I have since recognised that this want of agreement came from an error of sign relative to the term depending on the curvature — in the choice of which I had followed, without any examination, the indication given by Euler (Mem. de sono campanorum).
+
+The Classe awarded the prize to my memoir; but it announced nevertheless that my demonstration had not appeared to it entirely satisfactory.
+
+Since that time, I have occupied myself, at various times, with the theory of elastic surfaces. I have multiplied experiments, calculations, and reflections. I will confess that I have always believed I saw new motives for holding to my opinion.
+
+I was preparing to publish my reasons, when M. Fourier came to take cognizance of my demonstration. That enlightened judge declared that he preferred, to the reasonings on which I relied, a purely geometric demonstration; he proposed to me as a model the one that — [the text here is badly damaged in the scan's text layer; the surrounding sense is that Fourier pointed her toward the manner in which Bernoulli had treated the elastic strip, whose works she names below: the Mécanique analytique, the memoir on springs]. I had believed it permissible to think that, whatever the demonstration substituted for mine, it would be found bound to sow ideas equivalent to it. Indeed, as soon as I had well grasped the manner in which Bernoulli had considered the elastic strip, it became easy for me — [damaged] — applying the same principles to surfaces, one would obtain a geometric demonstration of the hypothesis I had proposed.
+
+It was a new frame into which the whole of the — [damaged: the sense is "the proofs regarded as essential to this theory"] — would come to be placed.
+
+The theory I seek to establish is not yet known to the public.
+
+— [A damaged passage follows, in which she distinguishes her doctrine from that of the celebrated author, whose principles, she says, are absolutely irreconcilable with those she finds herself led to adopt. She writes that were he an obscure author she would simply expound the question as she conceives it; but that the authority attached to his name gives her most powerful objection against her own hypothesis its full weight, and she would hide from the reader the strongest objection she can make against herself if she did not confess that it differs entirely from that learned author's.]
+
+In a first § devoted to the exposition of the principles that can serve as the basis of the theory of elastic surfaces, I shall set forth, besides the demonstration suggested to me by the reading of Bernoulli's memoir — [damaged: "presented in"] — the question will thus be found under two different points of view, and if the hypothesis is vicious, this will serve to make its contradictions better noticed — [damaged].
+
+[The memoir's § I begins after a plan-summary, translated entire below:] I shall close this § by setting forth the reasons which have prevented me from adopting the opposing hypothesis. I did not think I could dispense with entering into this discussion, without which the question would not be sufficiently elucidated. It will readily be conceived with what reluctance I must have decided to contradict the principles of an author whose talents inspire me with the highest esteem. If he does not disdain to answer my objections, I shall hasten to retract the errors he shall have pointed out.
+
+I shall occupy myself in the second § with the search for the general terms which must lead to the equation of elastic surfaces.
+
+Having thus established the first principles of this whole theory, I shall confine myself in the third § to deducing from them the equation of curved plates and that of vibrating cylindrical surfaces. My present aim being only to call the attention of geometers to the choice of the hypothesis, I have had to seek first to obtain an equation that experiment might justify.
+
+In the fourth and last §, I shall give an account of some experiments; and, despite the numerous anomalies I shall not seek to dissimulate, I dare hope the facts will appear favourable to the theory.
+
+I propose to publish in the sequel a more detailed comparison between theory and experiment; it will relate not only to the case of vibrating plates, for which I have long since obtained the Academy's approbation, but will also comprise that of rings and of cylindrical surfaces, of which I present at this moment only the first glimpses.
+
+
+
+§ I. Exposition of the principles that can serve as the basis of the theory of elastic surfaces [1821, pp. 1–14]
+
+1. "Elastic force is a property or power of bodies, by means of which they re-establish themselves in the figure and the extension which an exterior cause had made them lose." (D'Alembert, Encyclopédie, article Élasticité.)
+
+It results from this definition that elasticity manifests itself in the bodies endowed with this force only when their natural figure has been changed by the action of an exterior cause. I shall call the elastic figure of a surface the one which an exterior cause shall have forced it to take, and natural figure the one which the same surface affected before the supposed action.
+
+Designating by R, R′ the radii of the natural principal curvatures of a surface, and by r, r′ the radii of the elastic principal curvatures of the same surface, I have proposed to regard the action of the forces of elasticity which act upon this surface as proportional to the quantity
+
+[1/r + 1/r′ − (1/R + 1/R′)].
+
+I am going to try to prove the legitimacy of this hypothesis.
+
+2. I think it needless to reproduce here the series of propositions by means of which Bernoulli arrived at finding the equation of the naturally straight elastic line; it suffices to warn that the demonstration of the hypothesis relative to the naturally curved elastic line — the demonstration which will lead us to that of the general hypothesis — must be regarded as a generalisation of the one that could be extracted from the memoir of that able geometer (Mémoires de l'Académie des Sciences, year 1705, p. 176 and following).
+
+Retaining, as I shall always do in the sequel of this memoir, the denominations indicated in art. 1, I propose first to demonstrate that, if it is a question of a naturally curved elastic plate, the action of the forces of elasticity will be proportional to the quantity 1/r − 1/R.
+
+IKNC, fig. 1 [her plate], represents the natural figure of the plate, EH its thickness, and EHB′G′ one of its elements. The lines EH and B′G′ prolonged meet at the point M, centre of the osculating circle. Designating by e the thickness and by R the radius of the osculating circle, we have then EH = e, MH = R.
+
+It must be observed that if the plate were extended in a straight line, its element EHBG′ would take the form EHBG.
+
+Suppose now that the same plate has to support the action of the weight P, applied to one of its extremities NC, and that it is at the same time fixed by the other extremity IK, in such a way that the effort of the weight P is employed entirely in changing the figure of the element EHB′G′; equilibrium will establish itself between the moment of the weight P and the force with which the element EHB′G′ will be at once extended by the quantity of the triangle B′SF and compressed by the quantity of the triangle SAG′. Because of the small thickness of the plate, the lever-arms AD, FC are regarded as equal to each other. For the same reason, the small lines AG′, B′F are taken as parallel to each other, and the sides B′S, SA are regarded as equal to each other, as well as to half of the line EH, which measures the thickness of the plate. It results from this that the triangles B′SF and SAG′ are similar.
+
+We have just seen that the force to which the moment of the weight P makes equilibrium is proportional to the quantity of the two triangles B′SF, ASG′; consequently, regarding the lines B′S, SA as constant, the force in question is proportional to the sum of the sides B′F and G′A of the two triangles B′SF and ASG′. The proportion B′F + G′A : B′F :: B′G′ : B′S shows that the same force is equally proportional to the side B′F of the triangle B′SF. If the two lines EH, FA are prolonged, they will meet at the point m, which is the centre of the osculating circle; we shall have therefore Hm = r.
+
+The similar triangles BSF, HmA give the proportion BF : BS :: HA : Hm; whence is drawn BF = BS · HA / Hm.
+
+When the plate still preserves its natural curvature, the similar triangles BSB′, HMG′, fig. 1, give the proportion BB′ : BS :: HG′ : HM; whence is drawn BB′ = BS · HG′ / HM, and we have B′F = BF − BB′ = BS · (HA / Hm − HG′ / HM).
+
+HA differs infinitely little from HG′. We may therefore put HA = HG′ = dz. We shall thus have, putting for BS or B′S, Hm and HM their values, [the printed display is not recoverable from the scan's text layer in a certifiable form; the argument yields B′F ∝ 1/r − 1/R].
+
+We have seen above that the force to which the moment of the weight P makes equilibrium is proportional to the side B′F of the triangle B′SF; thus, observing that dz represents here the element of the elastic curve, and that the thickness e is a constant quantity, we are led to regard the force in question as proportional to the quantity 1/r − 1/R.
+
+The hypothesis that has just been demonstrated has long been admitted. Euler mentions it in several of his works, notably in his Mem. de Sono campanorum, vol. X of the Mémoires de St.-Pétersbourg.
+
+The only case treated in this memoir is that of the circular ring. It may be seen, arts. 4 and 5, that the illustrious author contents himself with establishing, taking a for the radius of natural curvature, that the angle of inflection is equal to — [the printed display is damaged in the text layer]. The equation at which he arrives will be the object of some observations I shall present in the following §§.
+
+3. It is a question now of demonstrating that the action of the forces of elasticity on one of the points of a naturally curved surface is proportional to the quantity (1/r + 1/r′) − (1/R + 1/R′).
+
+We shall suppose that an elastic surface of whatever figure is attached fixedly in one or several points of its contour, so that the totality of the forces which can act upon it is employed in making its curvature change; we shall suppose at the same time that this surface has to support the effort of any number of weights applied to different points of its contour.
+
+Whatever the number of these weights and the manner in which they shall be distributed, their effort on a given point of the surface will be known. If, taking this point for the origin of the three rectangular coordinates z, y and x, we decompose the moment of each of the supposed weights along the directions of those same lines z, y and x.
+
+Nothing prevents supposing that the plane of the zx contains the line of greatest curvature of the surface, while the plane of the zy would contain that of least curvature of the same surface.
+
+The sum of the moments which act in the plane of the zx may be replaced by the moment of a single weight, which would be applied at the extremity of the elastic curve comprised in this plane; by what has been demonstrated in art. 2, the force to which the moment of the supposed weight makes equilibrium will be proportional to the quantity 1/r − 1/R.
+
+The same reasoning is equally applicable to the sum of the moments which act in the plane of the zy; accenting the r and R relative to the least elastic and natural curvatures, we shall also find that the force to which this sum makes equilibrium is proportional to the quantity 1/r′ − 1/R′.
+
+The force which at a given point of the elastic surface makes equilibrium to the sum of the moments of all the weights applied to the different points of the surface is therefore proportional to the quantity (1/r + 1/r′) − (1/R + 1/R′).
+
+4. To arrive at the preceding demonstration, we considered the surface at the very moment when the action of an exterior cause forces it to change figure. The demonstration I had at first adopted relates to the following instant — that is, to the one at which, some exterior cause whatever having acted upon the surface, this surface tends, by virtue of the force of elasticity with which it is endowed, to re-establish itself in the figure and the extension which belonged to it before the supposed action.
+
+Here is that demonstration.
+
+Whatever the nature of the force considered, it is proportional to the effect it produces or tends to produce. The forces of elasticity tend to re-establish the bodies endowed with them in the form and the extension which an exterior cause would have made them lose — that is to say, these forces tend to destroy the difference which exists between the elastic figure and the natural figure of the same bodies. The forces of elasticity are therefore proportional to the difference just spoken of, and the difficulty reduces to finding in each case the measure of this difference.
+
+In the linear case, the osculating radius furnishes the just measure of the curvature; the difference sought will therefore be 1/r − 1/R. This results indeed from the fact that the inverse ratio of the radius of the elastic curvature at the point considered expresses the elastic curvature, while the inverse ratio of the radius of the natural curvature at the same point is equally the measure of that latter curvature.
+
+When it is a question of a surface, the question is more complicated; for, according to Euler's observation (Recherches sur la courbure des surfaces, Mémoires de Berlin, for 1760, p. 119): "...since by each point of a surface an infinity of directions may be drawn, the curvature must be known according to each, before one can form a just idea of the curvature of the surface. Now, by each point of a surface an infinity of sections may be made to pass, and this not only with respect to all the directions on the surface itself, but also with respect to their different inclinations on the surface."
+
+We shall consider the assemblage of the curves that would result from the section of a plane passing through the given point of a surface, and cutting it successively not only in all the directions, but further, in each of these directions, under all the possible inclinations.
+
+The curvature of a curved line is expressed by the inverse ratio of its radius of curvature; we shall therefore seek the sum of the inverse ratios of the radii of curvatures of all the lines produced by the different sections of the surface.
+
+Let ρ be the radius of curvature of the curve produced by a normal section, ρθ and ρθ′ the radii of curvature of the curves which, having a common tangent with the first, are produced by the sections inclined by θ and θ′ degrees; we shall have [the printed display is damaged in the text layer; Euler's theorem of the relation between inclined and normal sections] and consequently [the sum over the inclined sections vanishes].
+
+The sum of the inverse ratios of the radii of curvatures of all the curves produced by the inclined sections being null, we shall have no more to occupy ourselves with than the normal sections alone.
+
+r and r′ being as usual the radii of principal curvatures of the surface; if ρ and ρ′ are the radii of curvatures produced by two normal sections perpendicular to each other, and A the angle which the plane containing the curve whose radius is ρ makes with the plane containing the curve whose radius is ρ′, we shall have, by virtue of the known relations,
+
+1/ρ = −sin²A/r + cos²A/r′,
+
+[reconstructed from the argument; the scan's text layer is damaged on the signs] and consequently
+
+1/ρ + 1/ρ′ = 1/r + 1/r′.
+
+Thus the sum of the inverse ratios of the radii of curvatures of all the curves produced by the different sections of the surface reduces to the sum of the inverse ratios of the two radii of principal curvatures of the same surface, taken an infinity of times. The idea of the infinite presents itself here only by reason of the repetition of one and the same measure, which is indeed that of the curvature of the surface. This measure, taken before and after the supposed action of an exterior cause, gives
+
+[(1/r + 1/r′) − (1/R + 1/R′)]
+
+for the expression of the difference between the elastic curvature and the natural curvature of the same surface.
+
+Conformably to the proposed hypothesis, the forces of elasticity are therefore proportional to the quantity (1/r + 1/r′) − (1/R + 1/R′).
+
+5. The two demonstrations just read have between them an evident connection; for they lead, the one and the other, to remarking that, whatever be, with respect to the planes of principal curvatures, the situation of the two normal planes whose sections one wishes to consider, one will always obtain, in the first, the measure of a force equal to that which makes equilibrium to the sum of the moments of all the forces which act upon the surface, and in the second, a measure equally equal of the difference between the elastic figure and the natural figure of the surface.
+
+Following the spirit of the first demonstration, the choice of the planes in question influences the respective values of the two moments, whose sum is always the same. Adopting the second, a like difference makes itself felt between the respective curvatures whose consideration leads to the measure of the difference between the elastic curvature and the natural curvature of the surface.
+
+Among the different positions that may be given to the two normal planes, there is one very remarkable — I mean the case where each of these planes would make an angle of 45° with the planes containing the principal curvatures of the surface.
+
+Indeed, the formulas of the preceding art.,
+
+1/ρ = −sin²A/r + cos²A/r′, 1/ρ′ = −cos²A/r + sin²A/r′,
+
+give
+
+1/ρ − 1/ρ′ = (sin²A − cos²A)(1/r − 1/r′).
+
+If A = 45° be taken, we shall have cos²A = sin²A, and consequently 1/ρ = 1/ρ′.
+
+We should find in the same way, designating by Rθ and R′θ the radii of curvatures of the two curves produced by the intersections of the normal planes which make the angle of 45° with those of the natural principal curvatures, that 1/Rθ = 1/R′θ; we shall have therefore 1/ρ − 1/Rθ = 1/ρ′ − 1/R′θ.
+
+Conformably to the principles on which the first demonstration rests, it results from this that, if it happened that the planes of natural principal curvatures of the surface coincided with those of elastic principal curvatures of the same surface, the weights which could be applied at the extremities of the two elastic curves whose radii of curvatures are ρ and ρ′ would have to be equal to each other.
+
+In the one and the other demonstration, I have sought to establish that the force which makes equilibrium to the sum of the moments of all the weights which act upon a given point of the surface — or, what is the same thing, the force of elasticity which tends to bring the same surface back to its natural figure — is proportional to the quantity (1/r + 1/r′) − (1/R + 1/R′). Keeping the preceding denominations, we shall have (1/ρ + 1/ρ′) − (1/Rθ + 1/R′θ) = 2[(1/ρ) − (1/Rθ)].
+
+The force in question will therefore be the same as if it were employed in changing the curvature of a spherical surface, whose radius would be R, into that of another equally spherical surface, whose radius would be ρ.
+
+Thus, although the curvature of a surface cannot be compared to that of a sphere in the absolute sense in which the curvature of a curve is compared to that of a circle, it happens nevertheless that the quantity of curvature of a surface can be equal to the quantity of curvature of a sphere.
+
+I say quantity of curvature, for in whatever manner the curvature be distributed around the given point of the surface, it will make equilibrium to the same dynamical quantity.
+
+For the rest, I do not hide from myself that this manner of envisaging curvature is entirely new. The geometers will decide whether it ought to be adopted.
+
+6. Let us now examine the principles put forth by the author of the memoir on elastic surfaces (Mémoires de l'Institut, year 1812, second part, p. 166 and following).
+
+There is read, p. 191: "Now, whatever be the cause of this quality of matter (elasticity), it consists in a tendency of the molecules of bodies to repel each other mutually, and it may be attributed to a repulsive force which exerts itself between these points, according to a certain function of their distances."
+
+The quality of matter of which this passage speaks seems to me to be rather expansibility than elasticity. Indeed, the action of repulsive forces tends to remove each molecule from the neighbouring molecules, and not to bring them back to the situation which an exterior cause would have made them lose.
+
+If we conceive that a surface, all of whose material points were endowed with repulsive forces, had been deranged from the state in which these forces, by a cause I shall not undertake to assign, remained inactive, the distance of neighbouring points at which each of these points will tend to place itself will depend, if I am not mistaken, on the extent of their sphere of activity. When the sphere of activity is equal for each of the molecules composing the surface, the repulsive forces will therefore tend to place each of these molecules at an equal distance from the neighbouring molecules. It seems to me that this condition can be fulfilled only when the surface shall have become spherical or plane, if it is infinite.
+
+There would result from this observation that the hypothesis admitted by the learned author of the memoir just cited would tend to substitute, for the notion of elastic force, that of a force which — save in the cases where the natural figure of the surface were spherical or plane and infinite — could never bring this surface back to the figure which the action of an exterior cause would have made it lose.*
+
+The author confines his researches to the case of the naturally plane elastic surface, and it is easy to see, in pursuing the reading of his memoir, that the hypothesis he admits leads to regarding the forces of elasticity which act upon that kind of surface as proportional to the quantity 1/r + 1/r′.
+
+I believe I have demonstrated that these forces are proportional to the quantity — [the display reads the opposing hypothesis against hers; the scan's text layer is damaged here; the sense is (1/r + 1/r′) − (1/R + 1/R′), reduced for the plane case];
+
+* [A long note follows in the print, quoting at length the rival author's argument on the limits of integration and the sphere of activity; the scan's text layer renders this passage too corrupt to certify word for word. Its visible substance — bracketed as reconstructed — is: the integrals over the contour must be taken within other limits; but to find the differential equation of the elastic surface in equilibrium it suffices to consider interior points at any distance from the contour; the determination of the forces to be applied at the limits, a very delicate matter she proposes to return to in the sequel, is not treated in this memoir.]
+
+but it must be observed that, since it is here a question only of simple plates, the sum 1/r + 1/r′ and the difference 1/r − 1/r′ of the inverse ratios of the two radii of elastic principal curvatures have between them such a dependence that a force which would tend to diminish the first of these quantities — [damaged passage; the sense:] — would exhaust its action only when the surface had become plane, that is, when 1/r = 0 and 1/r′ = 0 at once; whence it has been seen above that the present case is one of those in which, on the hypothesis of repulsive forces, the surface could not return to its natural figure. If, as it seems to me permissible to suppose here, the quantities [·] and [·] are proportional, the interior points of the surface in which a force represented by [hers] would tend to make the same quantity (1/r + 1/r′) vary would be subject to the same analytical conditions as the interior points of the surface in which a force represented by [his] would tend to make the same quantity 1/r + 1/r′ vary.
+
+This manner of envisaging the quantities 1/r + 1/r′ and 1/r − 1/r′ is perfectly — [damaged: the visible French reads, approximately, "…integration by parts, one abstracts the terms which pass outside the double sign ΣΣ, the two integrals ΣΣ(1/r + 1/r′)² dxdy and ΣΣ(1/r − 1/r′)² dxdy give identical results."] — It is seen therefore that, when it is a question of a simple plate, the choice of the hypothesis influences only the determination of the conditions to which the points of the limits may be subjected. It had seemed to me, as I have already said, that in admitting the existence — [damaged] — the able geometer was led to suppose the surface infinite; whence the difficulties — [damaged] — which I combat with regret the principles — [damaged] — which the research of the conditions — [damaged] — at the extremities would present. This is what — [damaged: a passage concerning a point situated on the contour of the surface, at very little distance, whose sphere of activity of the repulsive force would no longer be complete around that point].
+
+I have long waited for the author to publish the determination in question here; I should have desired, in the interest of the question, that he develop himself all the consequences of the hypothesis he has adopted. Abandoned to my own reflections, I find myself exposed to presenting a theory which contradicts my ideas under an unfavourable point of view. Perhaps even the following reasoning ought to be attributed only to the kind of preoccupation which has always attached me, as despite myself, to the hypothesis I had first imagined.
+
+If a hypothesis contains all that is of the question, and it may be regarded as a true definition, it will suffice to introduce this hypothesis into the calculation, to obtain all the analytical consequences which belong to the solution of the same question. The determination of the state of the limit-points of the surface is no more foreign to the question than that of the interior points of the same surface; integration by parts must therefore give at once the terms which belong to the limits and those which enter into the equation of the surface. I will confess that this condition appears the more indispensable in the application, in that there are often analytical limit-lines in the middle of the vibrating parts.
+
+The hypothesis I have proposed fulfils the condition in question; and, in the cases which have served me to establish the comparison of theory with experiment, the state of the limit-points has been no less justified than that of the interior points of the surface. It seems to result from this that my hypothesis might be regarded as equivalent to a true definition of elastic force. For the rest, an essential difference makes itself remarked between the two manners in which the nature of elastic force has been envisaged; for, on the one hand, if we confine ourselves to admitting that this kind of force is a tendency of bodies to resume the form and the extension from which they would have been deranged by the action of an exterior cause, it will be natural to attribute the same tendency to each of the material points composing the elastic body, while, on the other, if we would have the elastic force be due to an action and reaction, we can no longer conceive that it be proper to each of the material points, considered in isolation.
+
+The difficulty which presents itself, in this latter hypothesis, in the determination of the conditions relative to the state of the extremities, seems to me capable of being explained by the preceding observation.
+
+A difficulty of the same kind still makes itself felt, when by means of the same hypothesis one attempts to explain the following fact, mentioned in the memoir sent for the competition of January 1814.
+
+If, after having cut off any portion of the part of an elastic plate comprised between the nodal line nearest one of the extremities and that extremity, one replaces this portion by a non-elastic matter of the same weight, and takes care to distribute it equally over all the points of the line of section, the sound and the corresponding nodal figure remain the same as before this substitution; so that the nodal line nearest the substituted part approaches it the more, the more considerable that part is.
+
+The only change observed consists in the diminution of the intensity of the sound and in the greater width of the nodal lines.
+
+If my hypothesis be admitted, this fact seems to me easy to explain; for each of the material points composing the plate being endowed with a proper force, by virtue of which they tend to resume their natural situation, it suffices that these points remain subjected to the same exterior conditions for them to continue to move in the same manner. The relative position of the conserved material points can undergo no change by the operated substitution; it must therefore suffice to choose the same point of support and to apply the bow to the same point, in order to determine upon the plate — whether after or before the substitution — a given case of vibration, to the exclusion of all others.
+
+The only difference that must result from the substitution of an inert matter is the enfeeblement of the vibratory motion; for this motion finds itself hindered by the tenacity of every substance susceptible of adhering to the plate. The lesser intensity of the sound and the greater width of the nodal lines are inseparable effects; they equally manifest an enfeeblement of the motion.
+
+But when it is desired, on the contrary, that the elastic force with which each molecule is endowed be due to repulsive forces, how conceive that the substitution of molecules to which such forces can no longer be attributed does not change the conditions of the motion of the plate?
+
+Such are the difficulties which have always embarrassed me. Before publishing them, I put all my care into making them disappear, and it is only after having lost the hope of it that I have at last decided to submit them to the judgment of geometers.
+
+I hope the learned author whose hypothesis I have combated will pardon me for having had recourse to the only means that can dispel the doubts that remain to me still. I feel that it belongs much more to him than to me to fix opinion in so difficult a matter; also, I shall renounce without pain the theory I have just expounded, if he should judge it defective.
+
+7. We are going now to occupy ourselves with the research of the terms which, being integrated by parts, must give at once both the general equation of naturally curved elastic surfaces and the conditions to which the limits of the same surfaces are found subjected.
+
+§ 2. Research of the terms which must lead to the equation of the elastic surface.
+
+7. To obtain the term due to the action of the forces of elasticity, we shall suppose, conformably to what has been demonstrated in arts. 3 and 4, that when it is a question of a surface, this action is proportional to the quantity (1/r + 1/r′) − (1/R + 1/R′).
+
+The action of the forces of elasticity tends to diminish the quantity 1/r + 1/r′, which is proportional to the elastic curvature of the surface. The moment of the forces of elasticity which act in each of the points of the same surface will therefore be [the printed display is damaged in the text layer; it presents the moment in terms of N and the variation of the curvature].
+
+Before going further, it must be observed that the intensity of the forces of elasticity depends on the resistance which a given surface opposes to its flexure. This resistance itself varies with the thickness and the nature of the employed substance. Supposing the thickness uniform in all the points of the surface, the preceding term must be multiplied by the coefficient N —
+
+[1821, p. 13] which will be a function of the resistance or natural elasticity of the surface, and of a certain power of its thickness.
+
+I am going to try to determine what this power must be.
+
+8. Following the example of the geometers who have occupied themselves with questions of the same kind, I had at first regarded the coefficient N as a function of the square of the thickness. I have since desired to give myself an account of the choice of this power, the motives of which have been explained nowhere that I know. I believed I recognised that it was not the simple square, but rather the fourth power of the thickness, which must enter into the coefficient N.
+
+To assure oneself of this, one must go back to the manner in which the hypothesis was established.
+
+If it has been possible to demonstrate, in art. 2, that the force of elasticity which acts on the given point of a curved plate is proportional to the quantity 1/r − 1/R, it was only by making abstraction of the thickness of this plate.
+
+Such an abstraction is authorised by the constancy of the thickness; for when the proportion is established between two or a greater number of quantities, each of these quantities may be multiplied by a constant factor, without that proportion being destroyed.
+
+Going further back, we see that the force which acts on the element EHB′G′, fig. 2, is proportional to the quantity of the triangle B′SF — that is, to the difference between the two triangles BSF and BSB′.
+
+[We have found BF = BS·HA/Hm = BS·dz/r, and BB′ = BS·HG′/HM = BS·dz/R;] consequently, on account of the infinitely small quantity by which BS differs from B′S — which, according to what was said in art. 2, represents half the thickness — the quantity of the triangle BSF will be ½BF·BS − ½BB′·BS = (e²/8)·dz·(1/r − 1/R); and the force which will act, no longer on the element of the curved plate, but only on the point E, origin of this element, will be expressed by [the display is damaged in the text layer: f·(1/r − 1/R) with the thickness factor]. It will be the same relatively to the plate whose radii are — [damaged: the radii r′, R′]. The preceding observation shows therefore, having regard to what has been demonstrated in art. 3, that the force which acts on the given point of the surface must be expressed by [the quantity (1/r + 1/r′) − (1/R + 1/R′) with its thickness factor].
+
+Let us see now what is the quantity which this force tends to make vary.
+
+Returning again to the consideration of the simple plate, we shall observe that if we seek what is the quantity that the force which acts on the element EHFA of the curved plate, fig. 2, tends to make vary, we shall find, on account of the supposed equality between the triangles BSF and ASG, that this quantity has the triangle BSF for measure. The sum of the two triangles BSF + ASG expresses indeed the change which this element would undergo, if the plate were extended in a straight line.
+
+We have just found ½BF·BS = (e²/8)·dz·(1/r − 1/R) for the expression of the quantity of the triangle BSF; and as we have stopped to determine the effect produced by the elastic force on the element EHFA only to arrive at knowing that which the same kind of force tends to produce on the given point of the curved plate, we shall divide the quantity [above] by the element dz. We shall find thus that the forces of elasticity which act on one of the points of the curved plate tend to make the quantity (e²/8)·(1/r − 1/R) vary.
+
+When the point E belongs to a surface, the forces which act upon it exercise at once their action in all directions; the quantity which they tend to make vary is therefore [(1/r + 1/r′) − (1/R + 1/R′)]². And because the variation cannot be attributed to the factor N, this factor enters into the value of the coefficient N. We have said above that this coefficient is composed of two factors depending the one on the thickness, the other on the natural elasticity of the surface. Making here abstraction of the natural elasticity, we find that the term due to the action of the forces of elasticity which act on a given point of the surface is [the display is damaged in the text layer; the argument concludes:] N·{[(1/r + 1/r′) − (1/R + 1/R′)]²}.
+
+It results from this that it is not the simple square, but the fourth power of the thickness which enters into the coefficient N*.
+
+If [a constant] represents the natural elasticity of the surface, we shall therefore have [the display is damaged in the text layer; the conclusion of the article, carried in the prose, is that N* is proportional to the fourth power of the thickness].
+
+In the sequel of this memoir, I shall present some further observations on the determination of the coefficient N*.
+
+[§ II, "Research of the terms which must lead to the equation of the elastic surface," begins on printed p. 15 and is not translated in this volume. The remainder of the memoir — §§ II–IV, the Errata, and the plate — is mapped in NOTES.md.]
