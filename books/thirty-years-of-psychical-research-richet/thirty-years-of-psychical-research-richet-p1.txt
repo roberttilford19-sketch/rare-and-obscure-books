@@ -2,7 +2,7 @@ THIRTY YEARS OF PSYCHICAL RESEARCH
 
 by Charles Richet (1850-1935)
 
-Basis: Clean reading edition of Charles Richet's Thirty Years of Psychical Research (English edition, Macmillan, 1923, translated by Stanley De Brath; Internet Archive 30YearsRichet); spelling and wording original; running headers, page numbers and scanner noise removed.
+Basis: Reading edition of Charles Richet's Thirty Years of Psychical Research (English edition, Macmillan, 1923, translated by Stanley De Brath; Internet Archive 30YearsRichet); spelling and wording follow the scan; OCR errors corrected where identified, others may remain — see the repair log.
 
 Reader note: Charles Richet (1850–1935), Nobel laureate in physiology, presents the sum of thirty years' psychical research as a treatise on metapsychics: cryptesthesia (cognition otherwise than through the senses), telekinesis (movement without contact), and ectoplasm (materialization). Book II treats the subjective phenomena, Book III the objective; Book II, Chapter IV is his divining-rod chapter, where the rod and the pendulum alike are indicators of cryptesthesia through unconscious muscular action. The text figures (Figs. 1–25) are not reproduced; their captions and references stand in place. Footnotes are Richet's and his translator's, kept where they fall in the 1923 printing.
 
@@ -307,7 +307,7 @@ Socrates, on hearing these voices, would break off his conversation, or stop in 
 
 Myers has written ably on this subject, comparing it (with good reason, as I think) to the voices heard from childhood by Jeanne d'Arc. He finds, however, only one instance of clairvoyance attributed to this daemon: As the philosopher was in conversation with Eutyphron, he suddenly stopped and warned his friends to turn into another street. They would not listen; but misfortune overtook them — they met a drove of swine that jostled them and threw them down.
 
-In his treatise De Divinatione Cicero speaks without reserve of predictions, as in the case of Socrates; but, strange to say, he expresses no astonishment. Without believing in it he does not reject it. He says, De Legibus, ii, 32, 33, "I think there veritably is a divination, that which the Greeks call ^avTiKr/. If we admit that there are gods whose spirit governs the world and watches over mankind, I do not see why we should refuse credence to divination."
+In his treatise De Divinatione Cicero speaks without reserve of predictions, as in the case of Socrates; but, strange to say, he expresses no astonishment. Without believing in it he does not reject it. He says, De Legibus, ii, 32, 33, "I think there veritably is a divination, that which the Greeks call [Greek: mantike]. If we admit that there are gods whose spirit governs the world and watches over mankind, I do not see why we should refuse credence to divination."
 
 Referring to his brother Quintus he gives some instances of premonition, notably a dream of Quintus, in which he saw his brother Tullius fall from his horse (which was a fact). Tullius replied, "The anxiety you felt for me caused you to dream of me. The coincidence of the dream and the accident was a matter of chance"; and this answer appears to have satisfied Cicero.
 
@@ -321,7 +321,7 @@ A search through history would reveal many facts of a metapsychic nature; but no
 
 The apparition to Brutus, recounted by Plutarch, deserves mention: "A little before he left Asia he was sitting alone in his tent, by a dim light, and at a late hour. The whole army lay in sleep and silence, while the general, wrapped in meditation, thought he perceived something enter his tent: turning towards the
 
-Translator's Note — The passages quoted may be rendered as follows: ^'That he had been killed and thrown into a waggon by the innkeeper and that manure had been thrown over his body. Alarmed at this dream in the morning he had waited for the waggoner by the gate (of the town) and had asked him what was in the waggon; the man fled, terrified, and the corpse had been uncovered. The innkeeper on the case being proved had paid the penalty."
+Translator's Note — The passages quoted may be rendered as follows: 'That he had been killed and thrown into a waggon by the innkeeper and that manure had been thrown over his body. Alarmed at this dream in the morning he had waited for the waggoner by the gate (of the town) and had asked him what was in the waggon; the man fled, terrified, and the corpse had been uncovered. The innkeeper on the case being proved had paid the penalty."
 
 What clearer proof of the intervention of Heaven can there be than this dream?
 
@@ -429,7 +429,7 @@ Belonging strictly to the metapsychic domain were the observations made in Franc
 
 Credulous people visited them and men of science shrugged their shoulders. In such a medley, the clairvoyance of persons like Mme. Lenormand, Mme. Pigeaire, and Alexis Didier was lost, though some serious notices were published.2
 
-\A. de Rochas has published part of these in French with some interesting notes.
+A. de Rochas has published part of these in French with some interesting notes.
 
 2Du Potet, Essai sur Venseignement philosophique du magnetisme animal, Paris, 1845. Lafontaine, Vart de magnktiser ou le magnetisme vital considire sous le point de vue theorique, pratique et thkrapeutique, Paris, 1847. Fifth edition, 1887. A. Bertrand, Du magnetisme animal en France, suivi de considerations sur Vapparition de Vexiase dans les traitements magnHiques, Paris, 1826. Teste, Manuel pratique du magnetisme animal, Paris, 1840. Elliotson, Animal Magnetism, Lancet, 1837, 1838, pp. 122, 282, 377, 400, 441, 516, 546, 615, 634. Esdaille, Reports of the magnetic hospital, Calcutta, 1848, p. 761. Passavant, Untersuchungen iiber den Lebenmagnetismus und das Hellsehen, second edition, Franckfurt A. M., 1837.
 
@@ -485,7 +485,7 @@ Among the early American spiritualists, besides Edmunds, must be placed Professo
 
 In Europe spiritualism spread very rapidly; not without stirring up lively opposition. Scientific men, especially, refused to admit the actuality of the phenomena, and to explain the undeniable facts of raps and table-turning, they invented compli-
 
-\A.ccording to J. Maxwell (Les Sciences psychiques, Revue de Paris, March i, 1 921) the bishop, Adrien de Montalembert, seems to have verified that such raps took place with a nun of Lyons.
+According to J. Maxwell (Les Sciences psychiques, Revue de Paris, March i, 1921) the bishop, Adrien de Montalembert, seems to have verified that such raps took place with a nun of Lyons.
 
 2The experiments by Aksakoff and Boutleroff with Kate Fox (of little interest now) are mentioned further on (A. S. P., 1901, xi, 192). For further details in the history of spiritualism, see E. Morselli, who gives abundant and precise details (Psicologia e spiritismo, Turin, 1908, i, 12-27).
 
@@ -499,7 +499,7 @@ In point of fact the study of table-turning is one of the most difficult in obje
 
 Similarly for the raps. An eminent physiologist, M. Schiff, showed in his own person that a crack, comparable to the raps supposed to be produced by spirits, could be made by muscular displacement of a certain tendon. This infantile explanation that we smile at today was well received by scientists who probably had never heard the raps which cause wood to vibrate sometimes loudly, sometimes with musical rhythm, and have nothing in common with the snappings of a tendon, even supposing that other persons than the illustrious Florentine physiologist can produce them. His assertions had been preceded by those of
 
-^ee De Mirville, Pneumatologie des isprits et de leurs manifestations diver ses (fluidiques, historiques, etc.), Paris, first edition, 1853, fifth edition, 5 vols., 1 863- 1 864. Gasparin, Des tables tournantes, du surnaturel en giniral, etc., Paris, 1854. Thiery (2) Les tables tournantes considkrees an point de vue de la physique generate, Geneva, Kessmann, 1855. E. Hornung, Spiritualistiche Mittheilungen aus der Geisterzvelt, Berlin, 1859 and 1862. C. Kiesewetter, Die Entwickelungsgeschichte des Spiritismus von der Urseit bis zur Gegenwart, Leipzig, Spohr, 1893. Leymarie, Histoire du spiritisme, compte rendu du congres spirite de 1889, Paris, librarie spirite, 1890, pp. 3-45. Malgras, Les pionniers du spiritisme, Paris, Lib. des sciences psychologiques, 1906.
+See De Mirville, Pneumatologie des isprits et de leurs manifestations diver ses (fluidiques, historiques, etc.), Paris, first edition, 1853, fifth edition, 5 vols., 1863-1864. Gasparin, Des tables tournantes, du surnaturel en giniral, etc., Paris, 1854. Thiery (2) Les tables tournantes considkrees an point de vue de la physique generate, Geneva, Kessmann, 1855. E. Hornung, Spiritualistiche Mittheilungen aus der Geisterzvelt, Berlin, 1859 and 1862. C. Kiesewetter, Die Entwickelungsgeschichte des Spiritismus von der Urseit bis zur Gegenwart, Leipzig, Spohr, 1893. Leymarie, Histoire du spiritisme, compte rendu du congres spirite de 1889, Paris, librarie spirite, 1890, pp. 3-45. Malgras, Les pionniers du spiritisme, Paris, Lib. des sciences psychologiques, 1906.
 
 2Chevreul, De la baguette divinatoire, du pendule explorateur, et des tables tournantes, Paris, 1854. Babinet, Etudes et lectures sur les sciences d' observation, Paris, 1856. Carpenter, Principles of mental physiology and psychological curiosities of spiritualism (Pop. Sci. Monthly, 1877, iii, 128). Faraday, The table-turning delusion, Lancet, 1853. Cumberland, Fraudulent aspects of spiritualism, Journal of Mental Science, 1881, xxvii, 280-628. Morin, Le magnktisme et les sciences occultes, Paris, 1855. See also on Faraday's work the recent article by Fr. Grunewald, Faraday iiber d. Tischrucken, Psych. Stud., 1920, xlvii, 151, 295, 298.
 

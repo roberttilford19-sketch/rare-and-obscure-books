@@ -310,7 +310,7 @@ To show how chance may intervene I will quote the following personal fact which 
 
 On the 20th of May no perspicacity could foresee the end of the war. To all appearances, and my own opinion was in agreement, the war would last another year; but on the 24th of September the Bulgarian armistice was signed, and that date is nearly as important with regard to the end of the war as November 11, 1918, when the general armistice took effect.
 
-If the calculus of probabilities be applied to the above, from the 20th of May, 1918, to the same date a year later, there are 360 days, and since two dates are specified we may put the odds against one of them being right as 2: 360 or 1: 180, a probability fairly comparable to that of predicting that first the ace of hearts and then a club would be drawn from a pack of cards, 1/52 x ^4, say, 1/208. I have no notion why I wrote "Finis belli" under September 24th. I never but once made any similar forecast, and that turned out wrong. It would be absurd to consider this a premonition; it is a mere coincidence, curious enough but fortuitous.
+If the calculus of probabilities be applied to the above, from the 20th of May, 1918, to the same date a year later, there are 360 days, and since two dates are specified we may put the odds against one of them being right as 2: 360 or 1: 180, a probability fairly comparable to that of predicting that first the ace of hearts and then a club would be drawn from a pack of cards, 1/52 × 1/4, say, 1/208. I have no notion why I wrote "Finis belli" under September 24th. I never but once made any similar forecast, and that turned out wrong. It would be absurd to consider this a premonition; it is a mere coincidence, curious enough but fortuitous.
 
 I think that Dr. Conan Doyle's Piavc, to which I shall allude further on, is similarly fortuitous.
 
@@ -382,7 +382,7 @@ These organic subconsciousnesses sometimes assume the form of an exterior halluc
 
 It is, however, impossible to suppose organic subconsciousness when the premonition takes place seventy years before the event. Mr. Banister, then a schoolboy, dreamed about the year 1813 that he saw on a gravestone his own name with date of his
 
-^Contribution a V etude de certaines facultes cerebrates meconnues, Lausanne, Payot, 191 1, 13-16.
+Contribution à l'étude de certaines facultés cérébrales méconnues, Lausanne, Payot, 1911, 13-16.
 
 birth and death, the latter being Jun. 9th. Was it, however Jun., which is an unusual abbreviation for June, or was it Jan., for January? On the 9th of June, 1835, his eldest son died. He was then persuaded that the inscription must have read June 9th; but in fact Mr. Banister died on the 9th of January, 1883.
 

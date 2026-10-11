@@ -266,15 +266,15 @@ Let us suppose that in twelve trials we get five white and seven black, that is,
 
 1X2X3X4X5X6X7X8X9X10X11X12
 
-X (5)X X (7)K = about^
+X (5)X X (7)K = about.
 
 (1X2X3X4X5) (1X2X3X4X5X6X7)
 
 The calculus of probabilities gives very interesting results, but it must be used with extreme caution, for the smallest experimental error vitiates the whole result.
 
-Mere good sense, apart from all arithmetic, can lead us to conclusions. If the word Kerveguen is given by spelling over the letters of the alphabet, that being really the correct word, it is useless to work out the probabilities that chance has had no part in the matter, for the odds against the result being by ^chance is (ts)9- Cryptesthesia in this case is a moral certainty.
+Mere good sense, apart from all arithmetic, can lead us to conclusions. If the word Kerveguen is given by spelling over the letters of the alphabet, that being really the correct word, it is useless to work out the probabilities that chance has had no part in the matter, for the odds against the result being by chance is (ts)9- Cryptesthesia in this case is a moral certainty.
 
-It should not be objected that there is no absolute certainty, since even with a probability of (^V)100 the mathematical certainty would not be absolute. In fact the moral certainty is much the same with (^V)9 or (^V)100, and would still be much the same with (2V)3 for no one has had a chance success with any single experiment when the real probability was only l5*m-
+It should not be objected that there is no absolute certainty, since even with a probability of (√)100 the mathematical certainty would not be absolute. In fact the moral certainty is much the same with (√)9 or (√)100, and would still be much the same with (∛)3 for no one has had a chance success with any single experiment when the real probability was only l5*m-
 
 It is much more important to exact the utmost scientific rigour in the experiment itself.
 
@@ -516,7 +516,7 @@ Vex not the bard, his lyre is broken, His last song sung, his last word spoken.
 
 Strange apocalyptic answers are attributed to Ezekiel, and — to the lion of Androcles! On the margin of the MS. Victor Hugo writes the stupefying words, "The volumes dictated to my son Charles by the table contain an answer from the lion of Androcles."
 
-Each verse given is good in itself, but the development of the poem is incoherent: "^Eschylus" expresses himself thus:
+Each verse given is good in itself, but the development of the poem is incoherent: "Æschylus" expresses himself thus:
 
 Non, 1'homme ne sera jamais libre sur terre: Cest le triste captif du bien, du mal, du beau, II ne peut devenir — c'est la loi du mystere — Libre qu'en devenant prisonnier du tombeau.
 
@@ -556,7 +556,7 @@ Esprit qui veux savoir le secret des tenebres, Et qui, tenant en main le celeste
 
 Rentre dans ton silence, et souffle tes chandelles, Rentre dans cette nuit dont quelquefois tu sors, L'ceil humain ne voit pas les choses eternelles, Par dessus l'epaule des morts.
 
-Fine verses, but not due to Moliere or to ^Eschylus, any more than to the lion of Androcles.
+Fine verses, but not due to Moliere or to Æschylus, any more than to the lion of Androcles.
 
 In the first seances given by Helen Smith, Victor Hugo is supposed to be the inspiring influence; and as interpreted by Helen Smith, his poetic faculty has strangely gone off:
 

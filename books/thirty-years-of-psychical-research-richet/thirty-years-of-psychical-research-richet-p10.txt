@@ -100,7 +100,7 @@ Mrs. Campbell (xlvi) dreamed that she was attending a funeral in a snow-storm. S
 
 Alexandra S., aged nine, at Trieste, saw a hearse and dead body just as she was about to go out for a walk. She threw herself into her mother's arms, crying and saying, "Someone is
 
-^his case is reported by Flournoy in the Arch, de Psychologie of Geneva. He adds also some critical remarks that I cannot endorse; they seem to me insufficient. See also A. S. P., 1907, xvii, 710.
+This case is reported by Flournoy in the Arch, de Psychologie of Geneva. He adds also some critical remarks that I cannot endorse; they seem to me insufficient. See also A. S. P., 1907, xvii, 710.
 
 dead." All those about her were in perfect health, but three days later her father was taken ill in the night. He looked at the child, who said, "Mother, how do people look when they are going to die?" Her father died a few minutes later (A. S. P., 1899, ix, 196).
 
@@ -238,7 +238,7 @@ Other numbers, less than 6 times.
 
 The 32 and the 35 therefore came up nearly twice as often as was to be looked for. It will be remarked that 34 is intermediate between 32 and 35.
 
-The probability can be roughly calculated as follows: Supposing that the 32 and the 35 came up 14 times when they should have come up 6, 8, or say 7 times, that would mean that they had come up 7 times more than was probable. This is a probability of (z^)7, say 1: 128. To simplify matters we will suppose that the compounded probability on the five days' play (with two failures) is 1: 110 instead of 1: 111. Then, according to the recognized formula, the total probability in round numbers is 1: 130,000.
+The probability can be roughly calculated as follows: Supposing that the 32 and the 35 came up 14 times when they should have come up 6, 8, or say 7 times, that would mean that they had come up 7 times more than was probable. This is a probability of (½)^7, say 1: 128. To simplify matters we will suppose that the compounded probability on the five days' play (with two failures) is 1: 110 instead of 1: 111. Then, according to the recognized formula, the total probability in round numbers is 1: 130,000.
 
 The sixth day Lydia dreamed that she would win on the 16. At a given moment she staked on the 16, which won, the probability being 1: 37. So that on the six compounded trials the odds against correct prediction by chance alone would be 1: 5,000,000.
 
