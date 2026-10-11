@@ -1,0 +1,1114 @@
+THE OFFICE OF THE STEWARD
+(Ufficio dello Scalco)
+
+Being the First Book of "Panonto. Dottrina singolare" —
+the steward's treatise of Domenico Romoli, called Panonto
+
+Author: Domenico Romoli, called Panonto (fl. 1560)
+
+Source: Panonto. Dottrina singolare di M. Domenico Romoli.
+Venice: presso Gio. Battista Combi, 1637.
+First edition: Venice, Michele Tramezzino, 1560, as "La singolare
+dottrina di M. Domenico Romoli soprannominato Panunto."
+This rescue covers LIBRO PRIMO only — "Dello ammaestramento del
+famoso scalco, detto il Panonto" (Instruction of the famous steward
+called Panonto), chapters I through XV: the office of the steward,
+his officers, and the staging of the ordinary table, the wedding
+feast, and the great banquets. It is translated from the 1637
+Venice printing, not from the 1560 first edition. (The working shelf
+directory kept the old "romoli-scalco-1560" name; on any
+re-shelving it should be renamed to match the 1637 source, e.g.
+romoli-panonto-1637.)
+
+The Rare & Obscure Books series — the Boneyard
+
+----------------------------------------------------------------
+DRAFT — WORKSHOP COPY. NOT PUBLISHED, NOT SENT.
+The shelf copy of this book remains public pending Robert Tilford's
+decision; this workshop copy is being repaired off-shelf. Prepared
+with AI assistance under the editorial direction of Robert Tilford.
+It is a fresh English rendering made from the Italian text of the
+1637 edition. It has not yet had the final checks required before
+any public use.
+----------------------------------------------------------------
+
+HISTORICAL TEXT — NOT CULINARY OR MEDICAL ADVICE. This is a
+sixteenth-century steward's manual, rendered for reading. It is not
+a cookbook to cook from nor a guide to remedies; Book I contains no
+recipes, quantities, doses, or remedies at all.
+
+DEDICATION — to Domenico Romoli, called Panonto
+
+Who he was. Domenico Romoli was a Florentine gentleman of the
+sixteenth century who made his life in the kitchens and courts of
+Renaissance Italy. A modern food-history site quotes a contemporary
+description of him as "a Florentine gentleman, well-versed in the
+art of cooking as well as court, with a profound knowledge of the
+classic and modern authors" (coquinaria.nl, "A recipe for crostini
+from the sixteenth century").
+He published under his kitchen nickname — Panonto, "oiled bread"
+(bread rubbed with fat) — and he was proud enough of it to set it
+on the title page of his book for all the world to read.
+
+His circumstances and death. Almost nothing is documented about
+Romoli's life beyond what the book itself tells. His dates of birth
+and death are not recorded — UNVERIFIED, and this edition asserts
+nothing about them. He flourished by 1560, the year his book first
+appeared in Venice. A kitchen man's nickname became his immortal
+byline, and then he walked off the page of history.
+
+Why his work is vital — proved, not praised. The book kept selling
+for generations: this rescue is made from the Venice printing of
+1637, seventy-seven years after the first edition — proof that
+readers kept it alive. The food historian Katherine Golden Bitting
+judged it "one of the most famous Italian 16th-century cookery
+books." It is not a mere recipe list but a complete working manual
+for a princely household: how the steward runs his office, the
+duties of every officer under him, the true season of every meat
+and every fish, the service of the daily table and the wedding
+feast. (The seasons of meats and fishes, and the menus laid out
+for a whole year, belong to the later books of the same volume —
+not to this First Book, which is the steward's treatise alone.)
+It is a court kitchen on paper, written by a man who worked in one.
+
+His place in this rescue. The Boneyard shelves the workers, not
+the princes. Romoli was not a lord writing about banquets from
+above; he was the man who staged them, and he wrote down how it
+is done so another young man could learn. That is why he belongs
+here: the craft remembered, the craftsman honored.
+
+Where the reader goes next. The full 1637 text stands free on the
+Internet Archive (scan identifier bub_gb_vZo37jO2HdQC). For the
+book's standing among early cookery books, see Bitting,
+Gastronomic Bibliography, p. 403. Reenactors have published
+redactions of individual Romoli recipes online — useful, but no
+complete English of this treatise was found.
+
+A NOTE ON THIS RENDERING
+
+This is a fresh translation from the Italian of the 1637 Combi
+edition, made for plain reading — no modern copyrighted rendering
+has been copied. Where the scan's OCR misread the print, the
+Italian has been re-read from the page images; every passage
+re-read this way is recorded in the repair log, never hidden.
+Old measures and offices keep their names, with a plain gloss at
+first use: the reader meets the Renaissance household as it was.
+
+Words for the household (used throughout):
+  scalco — the steward: the officer who commands the prince's
+      table, its service, and all the officers below him.
+  scalco secreto — the private steward: the prince's own
+      confidential steward, as against the public banquet staff.
+  spenditore — the buyer: who lays out money for provisions.
+  cuoco secreto — the private cook.
+  credenziere — the credenza officer: keeper of the credenza, the
+      sideboard and pantry of cold dishes, fruits, and linen.
+  bottigliere — the bottler: keeper of bottles and wine service.
+  dispensiere — the dispenser: keeper of the storeroom.
+  panattiere — the bread-keeper.
+  soprastante del piatto — overseer of the serving of dishes.
+  coppiere — the cupbearer.   trinciante — the carver.
+  convito — a banquet, a feast.   imbandire — to set out the table.
+
+================================================================
+AMMAESTRAMENTO DEL FAMOSO SCALCO DETTO IL PANONTO
+Instruction of the Famous Steward Called Panonto
+(Libro Primo — the First Book)
+================================================================
+
+TO MASTER FRANCESCO RODOLFI
+
+It seems to me a reasonable thing, Master Francesco, that when one
+friend lovingly asks another for some service which may be granted,
+it should never be denied him. And since you have begged me to show
+and teach you the business belonging to the office of a private
+steward [scalco secreto] to most noble lords and most reverend
+cardinals — it seeming to you that, by the long experience I have
+of it, I may satisfy you — if this instruction of mine should not
+reach the perfection of what might perhaps be said in this
+profession, it will at least serve to stir the wits of others to
+discourse of it in such manner as the matter of itself, being a
+cheerful one, calls for, and as I shall best know how. I set myself
+willingly to do it, for since you are a young nobleman of good wit,
+it will be small labor for me to teach you, and [small labor] for
+you to learn. Now, just as, setting yourself to love a beautiful
+and graceful lady, you would so act as to come to the perfection of
+your love, so — setting that aside for the moment, and giving
+yourself with delight to this office — you will turn out most
+admirable, for delight is what makes the work perfect.
+
+CHAPTER I. How the office [of private steward] to whatever prince
+you please is to be exercised.
+
+The first lesson I would give you is this: that the officers you
+shall choose under your office of steward be treated by you
+humanely, and not with pride, so that they love and honor you and
+rest content with you; they are to be kept by you in due esteem,
+and at times you are to gather with them — yet always holding firm
+the dignity of your office.
+
+It is no small matter to make a good choice of the officers under
+this office, for if they are able and faithful, the steward will be
+reputed prudent, and besides they will do him honor in their
+exercise of it; and if he choose them otherwise, no good judgment
+can be made of him, and he commits an error fit to destroy all his
+competence. Never set among those officers, my Francesco, to
+please any person whatsoever — even, though I will not say by
+whose hand, of your most reverend master's own [household] — any
+man of whose record you have not first had good information; but
+once you have found them obedient and faithful, you must know how
+to acknowledge them, by doing them good and cherishing them.
+
+When a steward thinks more of himself than of his master, seeking
+his own private profit in everything, he will never be good; for
+having his lord's life in his hands, he must never think of
+himself, but of the duty and the weight of his office. And for that
+cause his lord ought to keep him good and trusted — honoring him
+and making him rich — so that he shall not be put in mind to seek
+other riches or honors.
+
+You must see that your officers are at least practiced and
+competent — above all, since you are new to it — namely the cook, the credenza officer, and the buyer;
+and since you must command them, you need, with their help and my
+example, to learn, and to carry out all their business excellently.
+Once you have found them, see that in commanding them you bear yourself toward them so that your
+commanding seems rather entreaty than command — without injurious
+words or words that offend, and without affectation, importunity,
+or bravado, but with modesty. Do not imitate in this certain
+stewards, whom I could well name, who think to show they know how
+to do everything by shouting; for men so browbeaten by you will do
+far less. Be ever obedient to your betters, modest with your
+equals, and pleasant with your inferiors. And that your officers
+may serve and obey with better heart, being commanded by you — who
+come to be a father and a master to them — you must not fail them
+in their lawful requests, but be their advocate with your common
+lord; for you know above all how pleasing in God's sight is the
+office of charity: favor them by placing them [well] and bringing
+now one, now another, into his presence, pleading that they be well
+treated and benefited, and that they be given good counsel and good
+words with better deeds. So you will come to serve, at one and the
+same time, God, your master, and your officers; and you will come
+to be loved not only by them but by the household and those
+outside; and you will be the cause that good officers become
+better when they see themselves benefited and honored — besides
+which another good will follow: that they, rising in time to the
+rank of stewards, will by your good example do the same good works
+toward others. See that you give heed and are diligent in looking
+over all the things that shall serve for your master's table; and
+above all else order that the kitchen, the credenza, and the secret
+storeroom be kept as a miser keeps his treasure; and let no one set
+foot there until you have served your lord morning and evening —
+save your own ministers, helpers, and lads.
+
+I have shown you in this discourse how you are to govern and keep
+not only your officers but all the rest of your lord's household.
+Now I must show you how and by what way each of the said officers
+is to serve in his office; likewise at what time and in what
+manner the gentlemen of the house, the chamberlains, cupbearers,
+carver, squires, and pages are to serve and obey you, when by your
+lord's order it falls to you to serve a noble banquet. But first I
+must tell you how you are to govern yourself in your honorable and
+befitting dress. You must be courtesy itself, with hands ever white
+and delicate, without scab or any kind of itch — since you must
+often handle the dishes for your lord's own mouth in making the
+wonted tastings [credenze]. And to all the officers — even though
+those tastings be ceremonies — never fail to use them in every
+smallest thing, toward everyone, though he were your steward of
+the household or your own blood brother; and the more so with
+gifts, of which you may take all such things as seem fit for the
+service of your master's table, consigning them to your secret
+dispenser, who shall keep them in safe custody. But to return to
+our discourse: I say that although you are not, nor would be, a
+churchman, you must — serving cardinals, as you now do — wear long
+garments, if not wholly then at least in part, of the finest cloths
+in summer and in winter, and above all when you serve your most
+reverend [master], and with a priest's cap; and let these garments
+be neither colored, nor trimmed, nor embroidered — lest you come to
+imitate Rosso the buffoon, or Pope Ape, or some other steward I
+have seen, who, serving such great prelates, go about dressed in
+certain threadbare doublets that scarce cover half their backsides,
+or sling a cloak across the shoulder with a little feather in a
+threadbare velvet cap. And for this I would dare say that no one
+ought to set himself to this honorable office, young or old, who
+has not the means to maintain himself in that degree — unless his
+most reverend master give him the means by some way. In this, mark
+well that avarice bring you no disgrace. But let us return to the
+order of our officers.
+
+CHAPTER II. Of the Buyer [spenditore].
+
+You must know that, as has been told you, a great part of your own
+honor comes to you from having that officer able in his office; and
+if I would know precisely whence his competence proceeds, it would
+be too great a trouble — but touching the substantial points, I say
+that in my judgment he must be born and bred a refined gourmand,
+and not a pig — for with that keen gourmand's polish he will come
+to buy all his goods well. Being a novice, he must be pleasant, courteous, generous,
+faithful, and diligent, seeking to gain practice with some of those
+old and practiced buyers, and going with them up and down the
+squares, markets, and shops; and with his good wit he will be able
+to learn. Those too will make him competent: the collaroli, the
+pork-butchers, the butchers, the market-gardeners, and the
+fruiterers — who, from their eagerness to serve the courts of
+nobles, will not fail to serve most devotedly, jealous only of not
+losing that court.
+
+Once he is, as it were, graduated, I would not have him do as some
+of them have done and do — many shames in stealing; for such men
+are thieves by nature, and avarice, from handling money, strangles
+them as a rope would damn them were they hanged by the throat.
+They reck not of the gluttonies and murders [of reputation] they
+commit; they want, even from those of whom they buy, a gratuity, as
+if they were Auditors of the Rota. I say nothing of the quibbles
+they make over the ordinary of their spending, nor of the exchange
+of gold for small coin. But the time of their greatest thievery
+will be when you have to order a banquet or a great feast; for if
+at ordinary meals they steal by tens, at such times they steal by
+hundreds. I do not say this in general, for there are good ones
+among them, lovers of their own honor and of their souls. You will
+see such men — I speak of the wretches — when with petty thefts
+they have heaped and put together a hundred or two hundred crowns,
+straightway make common cause with some of the said tradesmen, or take friendship with some one of those crafty old women,
+and furnish her with hens, capons, pullets, pigeons, geese, and
+rabbits; nor will they lack, in season, cages or little rooms full
+of turtledoves and other small birds; and in that way the goods get
+paid for twice over. Marvel not if in this I rail rather too much,
+for many such murders are done; and I would not have it befall you
+to have such buyers — so open your eyes and your ears.
+
+As for the goods brought home — I mean those bought for your lord's
+own mouth — see that they are brought home in those clean,
+lidded baskets, and let their little keys never be wanting,
+though rogues or scullions carry them, as oftentimes happens. I
+would have some lad of the house go with that buyer to carry the
+goods home.
+
+The buyer should be young, clean, and practiced, able to read and
+write; nor let him lack a good provision, since he does well-nigh
+all the business. See that this buyer keeps your storeroom
+furnished at all times with variety, and that meats and poultry are
+kept there tender and not tainted; and when you see that some thing
+cannot last, keep your eye on it together with the dispenser, that
+it be not left to spoil, but given to the common storeroom for the
+household to enjoy. And when you have found a competent buyer —
+for that is the first requirement in a court — bear with him if he
+rubs you, so long as he does not bite.
+
+CHAPTER III. Of the Private Cook [cuoco secreto].
+
+I go sometimes considering with myself of what weight a secret
+officer of those most noble princes is, since with so many perils
+they put their lives into his hands. Among the chief ones the cook
+is one; and it frightened me when I exercised this office which
+you desire to exercise, and now I thank God most highly that He
+let me come out of it with honor. Truly it is one of the most
+troublesome offices that can be thought of; you must stand
+continually with open eyes, if you would do your duty and no
+mishap befall you. Think ever on the danger you are in; and to do
+well, you must arm yourself with a breastplate compounded of
+charity, faith, and diligence.
+
+Now to return to our discourse: I say that after you have found
+the buyer, you must provide yourself with a good and able cook,
+who must be like an old physician grown old in his art. Above all, have no
+dealings with drunkards — though they were the most excellent
+masters of cookery in the world — for, having to serve you in
+cooking the victuals, they would sooner cook themselves than the
+first courses. I give you this warning because it has oftentimes
+happened to me; beware of it then.
+
+The business of a kitchen is noble, great, toilsome, and wearying;
+and so, an old man not being able to endure it long, he should be
+given a willing young man, [chosen] by him or by others his peers,
+for under-cook; the helpers less practiced, and few lads; and with
+your instruction you will keep them thus clean and neat. Furnish
+them liberally with tablecloths, aprons, and dishcloths. Have them
+keep their beards ever shaven, and likewise their hair; let them
+have their botta aprons, their white shirts, with dress short,
+clean, and close; see they be not taken full of sores or bad legs;
+let them be pleasant, obedient, humane, cheerful — Italians if it
+may be, and not northerners.
+
+And when their dishes are in order and you would make a beginning
+of serving, have them lay out their clean little table where the
+dishes shall be set forth, furnished with all needful things that
+you require morning and evening — such as lemons, bitter oranges,
+cheeses, and sugar, with a little casket of secret spices, and his
+clean knives, and your napkin with clean bread, laid out for the
+wonted tastings of the soups and sauces, [and] a middle-sized iron
+fork.
+
+Above all you must keep that cook cheerful — but not with the
+cheer that comes of too much drinking, as I have told you. I need
+not now say more of the business of the rest of the officers, but
+rather show you how you are to command them and order their
+business and your own.
+
+After you have supped at night, have your cook and your buyer come
+to your chamber, and together you will gather [the list of] those
+dishes that must serve for the morning; and so the buyer will
+betimes carry them to the storeroom. And since he will perhaps not
+have found all the things he had in commission, you must rise at a
+very good hour, and leaving every other business, go see what he
+has brought, order your dishes anew, and send to seek what is
+lacking.
+
+When you have finished the service of the master's dinner, you will
+return to the kitchen, ordering supper; for many times in the
+morning some little things or choice morsels are left over, which,
+served cold, can do for supper. I would have you use diligence,
+together with your cook, to come to know your lord's taste
+entirely; for as one sees, some like no spices, or sauces, or sweet
+things, or sharp things. Likewise you must know the appointed hour
+of his wonted eating, morning and evening — though the appetites
+of lords are hard to know, for they are mostly fancies — but you
+must use what devices you can; for in this examination a man must
+first be a diviner and then a steward. And since those hours of
+theirs cannot be observed, no marvel if they are ill served; for
+the dishes and first courses dry up, the sauces and soups spoil,
+the boiled meats cool, and the roasts drip in their warming-pans.
+But I tell you plainly,
+if the appointed hour be known, nothing shall be missed. You must
+use diligence with the small first courses, which want little
+cooking — while you have the table laid, they will be done; the
+great roasts will wait upon the spits till the serving; and so
+neither your honor shall fail, nor shall your master lack the good
+savor of all your dishes, when they are well seasoned by that able
+cook. Nor will I say more of this, but come to the business of the
+Credenza Officer.
+
+CHAPTER IV. Of the Credenza Officer [credenziere].
+
+Having somewhat sketched my instruction concerning these two
+officers we have [treated], it remains to say that you must have a
+diligent and practiced credenza officer — for he, without fail,
+will much ennoble your office, if he be able and good. I marvel
+exceedingly how nowadays the competence and grace of these credenza
+officers has been so refined; in my time they were not at that
+perfection and gallantry which is now the fashion — with the
+mastery of so many salads worked and dressed in so many various
+ways, with the admirable folding of tablecloths and napkins,
+shaping them into whatever forms they please. And particularly I
+would speak of our credenza officer Nicolò Molino, who — not to
+blame the others — has not in Rome a more competent man.
+
+Now I say that when in the morning you have visited the kitchen,
+you must visit the credenza straightway, ordering all the things
+that must serve for dinner — such as fruits and other like things —
+urging him to be ready in laying out at the hour given him, in
+order, and to have his public credenza in readiness, and to
+furnish himself with all the things you shall have ordered him;
+nor can it hurt to have him lay the credenza a little before it is
+due, gladdening the sight of the gluttons and the daily diners
+at the master's tables, and of the many strangers who for their
+business come and go. And when your master's pleasure shall be made
+known to you, you will straightway have the table laid, decked, and
+furnished with all needful things; and so laid and decked it shall
+stand, showing how it is to be served another time, following our
+order.
+
+CHAPTER V. Of the Bottler [bottigliere].
+
+I would not be blamed for wanting to show you how the bottler is
+to serve you, his office depending on the cupbearer — to say things
+so known to everyone; yet I will tell you that when by your order
+some banquet shall be served at your lord's instance, then you
+shall command and order him the array of the wines and their sorts:
+red, white, sweet, and sharp — letting him know which he is to
+serve first and after. First, when melon or salad is served, let it
+be a Greco or a white Salerno; in winter, malmsey, muscatel, or
+vernaccia; with the antipasti and the boiled meats, small white
+wines; with the roasts, red and biting wines; with the fruits, hippocras,
+Magnaguerra, or red sweet Salerno.
+
+Of all this the bottler must serve you. Nevertheless, while the
+credenza officer lays and decks his credenza, have him lay and
+deck his own clean little table of the bottle-office, with its
+little white cloth covered with flowers and greens, making a show
+of all his clean little beakers and flasks and other vessels of
+crystal and of silver, awaiting the hour of his service. Of the
+cup, the beaker, and the other vessels that serve for your master's
+own mouth, let no show be made until he is set at table.
+
+I am forced to step somewhat out of my course. If you remember, I
+told you that if you would know how to command, you must know how
+to do; and just as a cupbearer and a bottler must needs have taste,
+savor, and smell — and that they be drinkers and not guzzlers —
+you will know to use above all good diligence in this, so that you
+may know all the faults a wine may have, and which wine will most
+please your master. And here I
+could tell you how and in what manner the cupbearer, by your
+instruction, shall well serve his master — but I reserve it to tell
+another time.
+
+CHAPTER VI. Of the Dispenser [dispensiere].
+
+It is become the custom in these courts — even of rich and great
+lords — that one dispenser furnish and have care both of the public
+storeroom and of the secret one, yea make them all one; which I
+neither blame nor praise, but I say it would be an honest thing
+that one man alone were he who keeps and handles only the things
+that must serve for your lord's own mouth. But since it cannot be
+done my way, let it at least be sought that, since there is but the
+one dispenser, there be in that common storeroom a little cool and
+not damp closet, white and airy, fitted with cupboards, little benches, racks, and tables,
+as an able and good dispenser will know how to fit it. And in it
+let all the secret things be kept; and he who has such charge must
+be most trusty, pleasant, discreet, and diligent — for it is wont
+to happen that while the steward serves, some unthought-of thing
+is lacking for the kitchen or the credenza; and the credenza
+officer having none to leave in his stead, it follows that, the
+credenza being locked at that time, the door of it must be broken
+— as has happened to me.
+
+It does not please me that the dispenser go to carry to kitchen or
+credenza the stuff the cook or the credenza officer needs, but
+rather that they go to fetch it in the storeroom.
+
+When your master is presented [with a gift of victuals], you will
+diligently, together with your steward of the household, have kept
+in that secret storeroom all of the present that can serve for that
+lord's table.
+
+CHAPTER VII. Of the Bread-Keeper [panattiere].
+
+This office — whether of the secret or the open bread-keepers —
+will give no trouble, for its few businesses. But I tell you that
+when the pantry has no small storeroom, order for him a very good
+cupboard with its little keys; and in it, by your order, let there
+be kept not only the master's ordinary bread, but at all times many
+little appetizing things — such as little cakes of elderflowers
+with butter and sugar, with pepper and salt; olives, figs, raisins,
+walnuts, saffron, fennel, pepper, ring-cakes, biscuits, little
+arm-breads [bracciatelli] with anise, biscuits of barley meal,
+little rings with eggs and sugar, little sugar-cakes, and
+berlingozzi; and every day have the service of the bread
+accompanied with these things according to the month and the
+season. And I remind you that, although these things are of small
+moment, they please greatly those without appetite.
+
+CHAPTER VIII. Of the Overseer of the Dishes [soprastante del piatto].
+
+It would not occur to me to want to show you the business
+belonging to the overseer of the dishes — doing no injury to the
+office of the steward of the household — for whenever the dishes
+have been lifted from the master's table and are in his hand, you
+have no more to do with them. And with forbearance, when you have
+to serve a noble banquet by your master's commission, out of
+regard for the foreign servants whom you must honor, it will often
+fall to you to have an eye to everything — ordering that overseer
+that, the first dishes being lifted, all the things that are least
+touched and most whole he send straightway to the kitchen to be
+kept hot, or to some other place convenient to you until you call
+for them; and that they go not into the mouths of the rossi, and
+that to please anyone he send no presents, nor touch anything
+without your leave.
+
+We are to sketch the laying and the service of a noble banquet in
+the French style for the morning. Herein I will show you how you
+are to govern yourself, having to serve twelve honored lords or
+cardinals. You must use herein the greatest diligence, nor fail in
+any point of what is shown you; and because in this act great
+effort must be used, I might leave many things behind — so where I
+shall fail, I will beg those lord private stewards more practiced
+than I to add it here.
+
+Before we give beginning to the banquet, we must see where and how
+the table of the guests is to be set. Regard must first be had that
+it be roomy for all, and that the dishes have not to incommode
+you; and without further trouble, you will take the fashion of the
+public table of your common master — and where it shall be laid,
+let them take a basin and a ewer apiece, with perfumed water — and
+since these great personages ever bring with them their
+cupbearers, bottlers, and certain other gentlemen. When you would serve the
+service of water to the hands, those clean squires of yours shall
+present to their cupbearers a napkin apiece, using the ceremony of
+the tasting [credenza]. And at this point your person must show
+itself well dressed and clean; and you shall present yourself, with
+your little wand in hand, before your most reverend master, to let
+him know the hour of going to table. When these most reverend
+guests shall have come forth to go to eat, let these graceful
+gentlemen appear with their basins held high, and the tasting of
+the water being made, they shall give water to the hands — two
+guests washing in one basin — and their cupbearers shall serve
+them with a napkin apiece.
+
+At this point two comely carvers shall appear; and setting
+themselves, one at the head and the other at the foot of the table,
+they — once the guests are seated — shall at one and the same time
+lift those cloths which we said serve for the cover of the table,
+showing in a trice that noble order of those public little dishes,
+keeping to the same places. There the carvers shall do their
+service of carving, though it be but little — for they shall
+dismember or carve some great or gross hen, some boiled meat or small roast; and you shall order
+twelve of your gentlemen, that each do the service of the chairs.
+And once they are set at table, that clean credenza officer shall
+have dressed those delicate little salads; and with your gentlemen,
+with a napkin apiece, you shall serve them; and with the same men
+you shall go to the kitchen to serve your first dishes, finding
+them set out and laid; and of each of the three plates you shall
+have the cook make good tasting [credenza].
+
+And not to entangle yourself: when the first plate with the eight
+dishes is upon the gentlemen's arms, they shall come out of the
+kitchen; the like in the second service and the third; you shall go
+merrily to carry them to table; and before your most reverend
+master you shall make sign of reverence. And those six trained
+squires shall straightway lift the first dishes from the table, and
+the three practiced gentlemen shall set the others upon it, each of
+them before his four appointed guests; and these being set, with
+the same men you shall go and serve those of the credenza.
+
+But before I tell you more, I mean to give you a good reminder.
+You must use a mean in these banquets: neither hurry them too much
+in furnishing them, nor yet tarry so long that you keep the guests
+ill at ease. But indeed such noble banquets as these should be
+served rather more slowly than with too much haste, if they are to
+be reputed well served; for in the first and second dishes the
+guests satisfy themselves, and in all the rest they dally; and
+where there are no entertainments of fair ladies, you may hurry
+more — but where there are such entertainments, it matters not too
+much. And when you would entertain them through the fennel [the
+fennel course closed the meal], those clean squires shall lift all
+the remainder of the fruits; four of your gentlemen, with a round
+dish apiece, shall lift the four little salt-cellars; twelve others
+shall lift the service of the bread; and the two carvers shall lift
+the first tablecloth. And upon the other, water shall be given to
+the hands in the order aforesaid; and washed and dried, the other
+cloth shall be lifted by the same carvers. Then you may serve the
+service of the toothpicks, with all those noble little things which
+are shown you at the end of these March banquets, upon the carpet.
+That done, you must use very great diligence to honor the servants
+of the guests, as is shown you here below.
+
+CHAPTER IX. The steward's diligence toward the servants of the
+guests.
+
+It has been small labor for you to have brought our honorable
+banquet to a good end, in respect of what you must do to honor the
+gentlemen of the guests and the other servants, if you would earn
+the name of a competent steward — having to keep those means
+which honor your lord — whereby he, through your competence, may
+bring you to the end you have set before you. And likewise see
+that you fail not to furnish liberally the grooms' table — for your
+honor and your master's — with all the things that may let them
+triumph honorably with their foreign comrades in their chambers.
+You shall give order to one of your
+practiced squires that, as their steward, he have care of this,
+giving him certain other well-mannered servants and pages, showing
+him where and how they may be lodged honorably; and put them not in
+the public servants' halls this time, but rather they may well be
+put in a secret, honored hall, where the credenza officer must not
+fail to furnish them with tablecloths and napkins in various folds,
+with salads and fruits and other needful things, and with plate
+enough to suffice; nor let the bottle-office be wanting, with most
+beautiful beakers, little flasks, and very good wines in abundance.
+And the table must be furnished with those first little dishes in
+the manner kept at the first [table]; and you shall order the cook
+to provide it with certain extraordinary things — such as tarts,
+pies, crostate — and let the other things go whole and hot to
+table.
+
+Now this table being in order, you — the banquet being finished —
+shall go, together with the secret chamberlain, the cupbearer and
+the carver, and six of the noblest and best-placed gentlemen of
+your most reverend master, showing your humanity and courtesy,
+without disrepute, in inviting the servants of the guests, showing them how dear it is to you to have to serve
+them. Come to the place laid out, the deputed squire shall give
+them water to the hands, each of you washing together with them;
+and take heed that the whole household sit not at table with them;
+and set not yourself at table before you have seen it all
+provided, looking well everywhere to see if anything is lacking.
+That done, you shall set yourself at the head of the table — not
+for your own recreation, but for their entertainment — discoursing
+of cheerful things, now presenting one, now another, yet ever
+keeping your eye upon the table to see if anything be lacking; and
+if it lack, remedy it deftly. For when those assorted gentlemen,
+perhaps of diverse nations, see this great courtesy and
+forethought of yours, they will give you infinite praise, and
+through it your master shall gain honor.
+
+And I assure you that in such banquets the servants of the guests
+must respectively be as well treated as the guests themselves; for
+the masters will not go blazoning and publishing the excellence of
+the banquet and the good or ill treatment — but the servants will,
+who talk often among themselves and with others.
+
+CHAPTER X. Showing the steward the service to be done at his
+master's ordinary table.
+
+We have left behind, but not forgotten, a lesson that concerns you
+in serving your lord's ordinary table, morning and evening;
+whereupon we shall tell how you are to order the officers to
+serve, and how they are to serve: cupbearer, carvers, squires, and
+pages.
+
+When your master lets you know, by one of his pages or
+chamberlains, that he will eat, you shall send to the kitchen the
+plate that shall be needed for the dishes, letting the master cook
+know the hour of his service. But since I have already shown you
+[elsewhere in this work] and ordered for him the daily service of
+all the dishes that can serve for the morning, for the whole year,
+the rest will be well; nor have I ordered you the suppers, not to
+be long — but you may order them.
+
+CHAPTER XI. The business of the squires and pages at the master's
+ordinary meal.
+
+It is the custom in those honored and great courts that, the pages
+having served their lords some time as pages, when they have well
+learned by long practice the furnishing of the table, and are come
+out of pagehood, they are now taken for squires in the service of
+the lord's eating. Such are they who, being noble and of good wit,
+become with practice excellent stewards, and cupbearers and
+carvers.
+
+Seek to make three of those who seem to you most fit, calling
+them, as has been said, secret squires; and one of them shall
+serve the master's first dishes, the second the plate of the
+boiled meat, and the third the salame — all three serving the
+three first antipasti, as is shown you in our
+order; the other squires and pages may serve the rest of the
+table.
+
+You shall go to the kitchen with these three squires of yours,
+with a napkin apiece, and the others without — you entering alone
+with the said three squires; and when you have had the secret and
+covered dishes set out and served, and the wonted tastings made,
+and taken them in hand, you shall come out with them; then letting
+all the others enter for the other dishes, which the gentle cook
+shall give you for the rest of the table. And once you are entered,
+you shall let the cupbearer know his business.
+
+CHAPTER XII. Of the Cupbearer [coppiere].
+
+I must first, before I show you what the cupbearer's office is and
+how he is to exercise it, tell you what manner of man he ought to
+be — that office being so noble; and to describe him I know no
+briefer way than to fashion him such as Count Baldassarre ["il Conte Baldassarre," Castiglione] fashions to form his
+courtier: besides the gallantry of his person, mark that he be all
+faith — young and not old, well-disposed and not rude, not
+squinting nor blind, middling, neither too small nor too great,
+fair of face and not ugly, cheerful and not melancholy, mannerly
+and discreet; and that he have his hands white and delicate,
+wearing on one of his fingers a pretty jewel of value, fair to
+see; let his dress be honest and befitting, of rich long cloths and
+not short, his sleeves above all; for nothing in the world let him
+make show of those broad lettuce-ruffs of his shirt-sleeves,
+worked in a thousand colors, like your strumpets; he shall wear a priest's
+cap, scarlet hose, shoes of black velvet — and not red, for the
+greatness of his office does not call for it — having in his keeping
+the life of that most noble cardinal his master, or other prince.
+
+And when he goes to take the cup or beaker, let him settle his cap
+and ask the bottler the quality of the wine he would serve for the
+first drinking; and having had his tasting made by the bottler,
+largely, of the wine and water, let him take it and think in what
+manner and gallantry he is to carry this service in hand. It will
+be most seemly to carry it in a cup of gold — at least gilded — a
+covered beaker, and his little flask of water, carrying it held
+high, without timidity or faint-heartedness — as many do from
+their worthlessness, who are ever afraid of tripping with their
+feet, their eyes continually fixed on the ground, and like senseless
+men go trembling with that service of the cup, so that at that
+clatter one might easily make a morris-dance of it — not knowing
+what they are about; but doing it our way, he shall carry it held
+high and firm of arm, walking and showing a cheerful face.
+
+And come before his lord, with his right hand let him uncover the
+beaker, and deftly pour a little wine into the cup, putting it into
+the master's hand; and likewise a little water; and the tasting
+being made and the wine watered, let him set the cup beneath the
+beaker. Let him make this ceremony quickly, chatting with His Most
+Reverend [Lordship] of the quality of the wine until he has drunk;
+and with a graceful act let him bow low — and not hunched —
+and the beaker being taken up again, return to the bottle-office,
+awaiting at his convenience the next return.
+
+CHAPTER XIII. Of the Carver [trinciante].
+
+The carver's office shall be made for a well-disposed, deft, and
+clean young man — greedy for others and not for himself; and
+though I would show you in what manner and from which side he is
+to begin to serve, I know not how to be brief. But if you have a
+novice in hand, he must keep continually beside an able carver when
+he works, minding one thing alone at a time: how that carver
+dismembers, how he carves small, how he cuts a thrush, or carves
+fruits. And let him fix it in his memory; and returning to his
+chamber, let him make trial of it. And having no beef, fowls, or
+the like at hand, let him take a turnip, a great hard-crusted loaf,
+or a well-closed cabbage-head. These will serve to learn small
+carving. And to learn dismembering, let him make friends with one
+of these able carvers, bringing with him good capons or pheasants
+— providing himself above all with those knives which are nowadays
+used for that purpose.
+
+But to return to our first purpose: I say that, we having now
+appeared with the first dishes, this carver of yours shall go to
+the credenza to take, where it is locked up, the service of his
+knives and the round dish of the service of the master's bread —
+locked and covered with those most beautiful worked napkins. And
+as soon as the lord has washed his hands and is set at table, let
+him present himself with his gear at the table, leaving the master
+on the right hand; and above all, let no man in the world be set
+at table above him, unless it were another cardinal or some other
+great personage.
+
+And not to forget, we return to the cupbearer, who by your
+commission shall already have taken the ewer and the flagon with
+the water for the master's hands; and that discreet squire shall
+present the napkin, folded between two round dishes, to the first
+prelate — [or to the] servants of the house, if not to the steward
+of the household or the first gentleman there be. The cupbearer
+shall thus wash his master's hands; and a clean chamberlain shall
+take the chair; and the others being seated by other squires and
+pages, let the service of water to the hands be done, and let the
+daily diners who eat at table with him be seated. And at this hour
+the carver shall spread before him that napkin which serves for
+the cover of his service; and with his right hand he shall take
+the round dish of the bread service, and lifting with his left that
+dish he keeps for a cover, he shall lay it face-down ["vi porrà à
+bocca"], setting with his right the bread before the prince, near
+his right hand, settling himself with his clean napkin carried on
+his left arm.
+
+And at this hour let the three squires appear with the first
+courses, and present them at table beside the carver's left hand —
+he giving them the wonted tastings; and with the same [squires]
+you shall serve those of the credenza, keeping this order down to
+the fruits. And your master being satisfied, or dallying, at this
+hour, the squires shall lift all the fruits and the other things
+that serve the master, and the pages shall lift the rest.
+
+The carver, as he presented the first service of the bread, shall
+now lift it; and with another clean round dish let him sweep the
+table before the master; and with the wonted ceremony let him
+cover again the one and the other service, consigning it to
+another squire to carry it back — using his grateful reverence.
+And at this hour the cupbearer must come, as at first, to give
+water to the hands. All being washed and dried, the carver shall
+take the tablecloth from the head where the master sits, and
+kissing it shall lift it; and from the foot of the table, by a
+secret squire, the service of the toothpicks shall be presented to
+the carver; and the ceremony of the tasting being made, he shall
+serve it.
+
+At this hour you shall show how pleasing it has been to you to
+have served your office diligently — with that courteous presence
+and fine reverence, your cap in hand and your voice low, near the
+master — you shall say to him "Prosit" [much good
+may it do you].
+
+I will not tangle your brain showing you how many, and in how many
+ways, and in various of those noble sorts, are the many ceremonies
+used in this table-service of those most reverend cardinals —
+which, being for the most part Spanish ceremonies, I will tell
+only three or four of, which truly seem to me to befit them, and
+which please me much.
+
+When your most reverend [master] washes his hands, before and
+after, all the bystanders must stand far from the table and with
+no cap on head. And that prelate who before has served with the
+napkin — if he were seated, because he had eaten at the most
+reverend's table — must rise to his feet, and taking the napkin
+again, serve it anew; and taken back and returned to the squires,
+he may sit again in his place — rising afterwards together with
+the others.
+
+And I tell you moreover that it is my opinion it is an honest
+thing that when the cardinal thus rises, all the guests and other
+daily diners must rise to their feet — yet not from their places;
+and that till the master is risen and dried, they must not sit
+again, but stand thus with cap in hand.
+
+The other [ceremony] is that when the cardinal drinks at night —
+the carver having nothing else to do — he must take the nearest
+candlestick with its light, and bringing it near and holding it
+high above the beaker, when the cupbearer comes, let him hold it
+steady until [the master] has done drinking — or else a
+chamberlain or gentleman [shall do it].
+
+This next is of greater weight: that you must in seemly fashion
+keep the bystanders and chatterers of these noble tables so far
+off that you may without their disturbance serve your office;
+which will be hard, there being many great presumptuous ones who
+are not ashamed, not only to thrust themselves all beside the
+master, but for the most part of them to be continually leaning on
+his chair. And it is a great shame. It will fall to you to find
+the way; but of this I will discourse to you more fully when we
+come
+to the order of a most beautiful wedding pair.
+
+CHAPTER XIV. Showing the steward how he is to serve a pair of
+most noble nuptials, or a banquet of gentlemen, for fifty guests at
+table.
+
+Having to order and serve a banquet of most noble nuptials, you
+must — after you have examined the services and thought very well
+upon your honor; think of the joy and good entertainment which the guests are to take of these nuptials. To
+serve them as is the custom in Rome will be hard; nor does it
+please me at all to separate the men's table from the women's; and
+that, the room not being roomy for all, in some of them [rooms]
+you lay one — whether for the men apart or for the women — and in
+another you lay the other. It is not possible for the nuptials in
+this way to be well served, nor the guests well satisfied; for the
+chief joy of nuptials is the honest conversation and the sweet
+sight which men have of women, and which women receive in being
+entertained by men — which cannot take effect with them parted at
+the tables.
+
+The women's servants will triumph and the men's will struggle; and many times, leaving the men's table,
+they go to the women's service — where the steward suffers great
+pain, nor knows where to turn; and if there be nobles there, they
+will not be merry or pleasant. But it delights me that you observe
+the custom of the noble nuptials of our Florentine citizens; and
+keeping that order, you must first find a hall so great that it
+easily and commodiously receive all the tables you shall need.
+And I would fain have the decking of it be by the hands of some of
+our divine Florentine wits — of whom I have seen miracles. And
+where that decking or laying is done, see that no man in the world
+enter, until the hour of going to table — save those who have care
+of it.
+
+I remind you, moreover, to have other chambers decked near that
+hall, where before the banquet those most noble ladies and
+gentlemen guests may commodiously be entertained, with infinite
+instruments of various musics and other pleasant pastimes.
+
+In the guests' hall you shall lay two tables along the wall, so
+that they may easily sit on the inner side — leaving between the
+one table and the other a space through which they may
+commodiously pass; and the said most noble ladies, accompanied
+each by her husband or near kinsman — and where there is neither
+the one nor the other, [by] those most noble guests. And I tell
+you plainly that the office of setting the ladies at table must
+not be yours, but a qualified lady's, who with another gentleman
+of the house, or kinsman of the one or the other spouse, shall have
+this care.
+
+And the decking being most beautiful, your competent credenza
+officer will make it honorable — if in a recess of the hall he lay
+a credenza for show, beginning its steps near the dais, coming to
+end upon a table high to a just man's breast, its top four palms
+broad; and let it be furnished with vessels of gold, or gilded,
+and most beautiful silvers, and others varied likewise — all
+things for show; and the richer it is, the better. The table's top
+may serve for all the comfits for the service of the guests; and
+two practiced and well-trusted servants shall be its guardians.
+
+At the other head, over against this, you shall lay the
+bottle-office table, which shall liberally give all its service —
+so far from the wall that the bottlers may commodiously serve it.
+Over against the guests' table you shall lay the public credenza
+for its service; and before this table a magnificent one, where
+the credenza officers, passing between the one and the other, may
+easily set out and serve all their dishes.
+
+I would not have a most merry thing forgotten, and to our purpose
+— most of all for the guests. Above the bottle-office table you
+are to fix in the wall a little table after the fashion of a
+pulpit, so broad that all the musics may easily be given there,
+with those Lombard sounds.
+
+Now, as I have shown you the laying of the table in the French
+style, I must show you this one with its service. The two tables
+of these guests being first covered with two most noble carpets.
+The credenza officer shall lay them with two tablecloths apiece, worked and fancied after his fashion. And for each, then,
+five most beautiful salt-cellars, with six silver candlesticks; the
+service of the bread in a round dish, with cacchiatele and
+Florentine bread; knife or fork; little ring-cakes,
+biscuits, and morseletti of Naples.
+
+And the number of the carvers shall be five; that discreet credenza
+officer must present himself and set the service of their knives
+in their places, so that each may serve ten guests. It will
+not be amiss to have two most beautiful perfume-burners. At that
+hour the credenza officer shall serve all those little things that
+go for the accompaniment of the salad; and before the service of
+the carvers' knives, a plate of salt-cured capons and a plate of
+cold roe-deer pies — as is shown you at the beginning of those
+nuptials.
+
+I would fain furnish you with lights enough that all might be
+seen; nor know I on which side to begin. But the show-credenza
+being full of them, and the bottle-office, and the musicians' dais
+with the guests' table, they may perhaps suffice; but if you see
+they do not, hang from the dais one of those chandeliers with so
+many beautiful works and brass candlesticks — which truly give
+great light and seem of gold; in them let there be thick tapers
+of white wax. And this light will be more
+sweet-smelling than that of the torches hung with iron wires from
+the dais — which, besides giving little light, fill the hall with
+smoke.
+
+But to come to the conclusion of what most imports: I say you must
+remember the two lists for kitchen and credenza, which I showed
+you to be needful when I described to you the banquet in the French
+style. I say moreover that, for the cooks' great business, the
+kitchen at this time must be well lighted and without smoke; that
+its overseer be a most practiced and diligent man. And having to
+serve five plates, with six varied dishes apiece, I would have you
+take five most practiced squires, with five other pages — clean
+and honorable servants; each of them, like stewards, with their
+five helpers, shall observe their carver as their prince, keeping
+this order from beginning to end.
+
+Your practiced overseer shall have each plate set out and laid by
+itself, with all its varied dishes — tables being laid in the
+kitchen sufficient for the setting-out. And since the number of
+those squires and servants is great, you must make election of a
+practiced under-steward — so that when you have had the kitchen
+and credenza dishes set and served, those squires shall return
+trotting to the kitchen; [under] this under-steward they shall
+enter one by one into the kitchen, each taking the first plate he
+finds ordered there; and the dishes taken, they shall return forth
+— the second entering, the third, and so to the fifth, each
+awaiting the other.
+
+In the meanwhile you shall watch and guard the table, [to see] if
+aught be lacking; and at the hour that seems good to you, return
+to the kitchen, your squires being returned furnished with your
+dishes. And that you may know: for this service of kitchen and
+credenza the number of thirty of them is needful. And when you are
+at the service of the soups and sauces, part of the servants
+ordered for the table shall supply — of whom you shall order two practiced ones for each of the carvers: one to keep him
+furnished with silver round dishes, the other, when a round dish is
+carved, to go present it diligently to that guest, first or second.
+
+These shall lift all those plates which the carver shall have
+furnished, ever leaving one apiece, until the other dishes appear
+— giving them into the good keeping of the overseers of the
+dishes. And for the service of handing the drink — you mean the
+cupbearers — ten noble youths shall suffice; and to replenish the
+table, six, who shall be six-and-forty in all. And for greater merriment, at every coming you make with the kitchen
+dishes, let the Lombard instruments strike in, sounding while you
+serve and set them on table. At this hour they shall halt,
+beginning again other sweeter musics. Now it seems to me there is
+nothing more to send, save to give water to the hands and set them
+at table.
+
+For this, then, order basins: five ewers with perfumed water,
+putting them into the hands of five of those clean cupbearers, and
+to ten others of those noble youths a perfumed towel apiece for
+the service of the hands — each basin serving two guests at a
+time. And they being in order, call five pages with five white
+torches; and go to bid the bridegroom and the bride; and that
+deputed gentlewoman and gentleman of whom we spoke shall couple
+man and woman together to go sit at table. And see that, as they
+move, a page with his lighted torch be ready for every ten couples;
+and go you before, having the door of the decked hall — seen no
+more by them — flung open, with great noise of those merry sounds
+and other various musics. And as soon as all are entered,
+each youth with his basin shall serve ten couples, and wash them
+in the order said above.
+
+Seated at table, those five clean carvers shall appear, setting
+themselves where the service of their knives shall be, doing their
+office. And you, seeing the first dishes served, shall go with five
+pages with the torches to the kitchen — finding your squires in
+order, as has been said — ordering a page with the torch for each
+of the first squires, and the other [page] before [them]. And
+continuing that order to the last course, you shall make an end of
+your banquet. And in clearing the table the order shall be kept
+which was told in serving the table in the French style; and the
+same shall be done in the service upon the carpet.
+
+But let us see that, after you have taken great pains to bring so
+honorable a banquet to an end, for the multitude of those come to
+see it, there arise no disturbance to dishonor everything for you;
+and hereof we shall say briefly what is fit to be done.
+
+CHAPTER XV. Showing the steward how and in what manner it would
+be possible to quell tumults at great banquets.
+
+Since it is the ordinary custom of peoples that where some merry
+spectacle of games or nuptials or other such pleasant feasts is
+made, the concourse of folk is great — and it is a hard thing to
+expressly forbid them that entry, most of all where there is a
+number of fair ladies — I find no other remedy to flee this
+uproar than to order that in the house or palace where the nuptials
+shall be made there be but one single entrance, and that it be
+guarded by a guard that may easily withstand them against every
+great press; otherwise remedies are scant.
+
+But since many times this disorder is born by fault of the
+servants or gentlemen of the house, who privily seek to bring in
+their friends, you must order that none of them give lodging or
+feast to any — though it were his brother — whereby their chambers
+come to be filled with foreign courtiers and a number of masks,
+making infinite banquets through the chambers, as is the custom in
+this court of ours. And hence is born the ruin of the banquet; for
+your first dishes being served, no sooner are they lifted than
+they are vanished, and everything put to sack — they meaning with
+them to entertain and honor their friends; and when they have well
+filled their bellies, they go off a-chasing, and fill the banquet
+hall without any respect — this one playing the nymph and that
+the Ganymede, one in a mask and the other muffled; this one makes
+love, and that shows himself love-sick; that one sets himself in
+view to show his
+person disposed to the ladies, thinking they will fall in love
+with him.
+
+Other swaggering and presumptuous ones thrust themselves so upon
+the table that not only the steward cannot serve, but neither the
+cupbearers nor the carvers, with all the rest of those who serve. I give you this for one of the
+most useful warnings I can give you; and if by ill luck you forget
+it, you will find there shall befall you what I have told you.
+
+And if by chance [a tumult] befalling you, and you could give
+yourself no other remedy, hasten with courtesy to those who most
+disturb you; and those too whom you know to be the best-qualified
+gentlemen, drawing them aside, entertaining them while the banquet
+is kept up in those rooms where the guests diverted themselves
+before supper, or elsewhere; and having drawn them there,
+entertain them — or to say it better, see that they be entertained,
+when you have no time to do it yourself — by having drink given
+them, and some fruit, until your banquet is furnished; promising
+them every courtesy, and then praying them to tarry here a while,
+till the dancing is
+sounded. And with this courtesy, if such men be not worse than
+asses, they will not only offer to stand at obedience with their
+persons, but will willingly keep the other common folk behind.
+Nor make mock of this diligence, for I have proved it many times.
+
+But I tell you plainly that when the banquet is finished, and the
+tables cleared, and the plate put away, with great noise of sounds
+see that all the tables be lifted and the doors flung open; and if
+the doors suffice not for the crowd desirous to enter, let them in
+by the windows too. Nor care you a whit — though your lady were
+there, and were ogled and jeered at — it sufficing you only to have
+brought your banquet to a good end. Nor for the present have I
+more to tell you.
+
+[Here ends the Fifteenth and last Chapter of the First Book — the
+steward's treatise. What follows in the 1637 printing is the
+opening of the Second Book, "the true seasons" of meats and
+fishes, which lies outside this rescue.]
+
+================================================================
+PRIMACY NOTE
+================================================================
+
+None found after research (search conducted 2026-10-11): no
+complete, free English rendering of Romoli's "Ufficio dello scalco"
+(Libro Primo, chapters I–XV) was found. What exists in English are
+only scattered reenactor redactions of individual recipes from the
+later cookery books of the same work (e.g., the "panunto with fresh
+provatura" redaction circulating online), not a rendering of the
+steward's treatise. Caveats: the search covered the open web; a
+rendering tucked inside a paywalled book or thesis would not have
+surfaced. If one is found, this note will be corrected.
+
+This edition makes no claim to be first, oldest, most authentic,
+or only. It is simply a fresh rendering, honestly labeled, from a
+stated edition.
+
+================================================================
+RIGHTS
+================================================================
+
+The 1637 Italian text is public domain. This modern English
+rendering is released freely for redistribution, with attribution
+to the Rare & Obscure Books series.
+
+[End of draft]
