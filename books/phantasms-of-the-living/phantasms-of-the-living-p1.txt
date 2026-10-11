@@ -2,7 +2,7 @@ PHANTASMS OF THE LIVING
 
 by Edmund Gurney, Frederic W. H. Myers, and Frank Podmore
 
-Basis: Clean reading edition of Phantasms of the Living by Edmund Gurney, Frederic W. H. Myers, and Frank Podmore (London, 1886, two volumes complete; Internet Archive phantasmsoflivin001gurn and phantasmsoflivin02gurn); spelling and wording original; running headers, signature marks, page numbers and scanner noise removed
+Basis: Reading text of Phantasms of the Living by Edmund Gurney, Frederic W. H. Myers, and Frank Podmore (London, 1886, two volumes complete; Internet Archive phantasmsoflivin001gurn and phantasmsoflivin02gurn), taken from the IA OCR; spelling and wording original. Signature marks removed in a 2026 repair; the Table of Numbered Cases is omitted as an honest labeled note (its columns were shredded in the scan's text layer). OCR errors corrected where found, but no full proofreading has been done
 
 Rare & Obscure Books series
 
@@ -171,7 +171,7 @@ HONORARY SECRETARY. Edmund Gurney, 14, Dean's Yard, Westminster, S.W.
 
 In addition to the above, the Society includes over 600 Members and Associates. The privileges and conditions of membership are thus defined in the Rules: —
 
-Rule IY. — The Society shall consist of: —
+Rule IV. — The Society shall consist of: —
 
 (a) Members, who shall contribute not less than two guineas annually, or a single payment of twenty guineas, and who shall be entitled to hold any of the offices of the Society; to vote in the election of the Governing Council; to attend all meetings of the Society; to use its Reading Room and Library; to borrow books from its Library; and to the free receipt of any journal, transactions, or periodical publication which may be issued by the Council.
 
@@ -187,7 +187,7 @@ The following note appears on the first page of the Society's Constitution: —
 
 Reports of investigation, or information relating to any branch of the Society's work, should be addressed to the Hon. Secretary, 14, Dean's Yard, Westminster, S.W.; letters of inquiry, or applications for Membership, should be addressed to the Assistant-Secretary at the same address.
 
-The Proceedings of the Society (of which ten parts have been published — the first nine making three bound volumes) may be obtained from all booksellers through Messrs. Triibner and Co., Ludgate Hill, London, E.C.; or on direct application to the Assistant-Secretary, 14, Dean's Yard,
+The Proceedings of the Society (of which ten parts have been published — the first nine making three bound volumes) may be obtained from all booksellers through Messrs. Trübner and Co., Ludgate Hill, London, E.C.; or on direct application to the Assistant-Secretary, 14, Dean's Yard,
 
 Westminster S.W.
 
@@ -727,7 +727,9 @@ In cases where the details of the phantasm are such as either mind might conceiv
 
 INTRODUCTION.
 
-Kal rbv deov toiovtov e^eTTLara^iai, <ro<po1s fiev alviKTrjpa decrffxircov aei, crKatots 8e (fyaiikov kclv /3pa^€t 8i8d(TKa\ov.
+καὶ τὸν θεὸν τοιοῦτον ἐξεπίσταμαι,
+σοφοῖς μὲν αἰνικτῆρα θεσφάτων ἀεί,
+σκαιοῖς δὲ φαῦλον κἂν βραχεῖ διδάσκαλον.
 
 Sophocles.
 
