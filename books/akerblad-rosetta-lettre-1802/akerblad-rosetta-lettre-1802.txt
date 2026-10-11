@@ -2,7 +2,7 @@
 
 **from Johan David Åkerblad's *Lettre sur l'inscription égyptienne de
 Rosette* (Paris, 1802)**
-A fresh English rendering, plain and complete
+A fresh English rendering, in plain language
 
 ---
 
@@ -15,9 +15,9 @@ his 29-sign alphabet laid out in Coptic order, his naming of the
 Greek proper names (Ptolemy, Alexander, Arsinoë, Berenice, Aetos)
 in Egyptian characters, his Coptic readings of the words for
 Egypt, temples, king, and "in the Greek tongue," and his closing
-restoration of the Greek text's final lacuna — translated sentence
-by sentence from the French of the 1802 Paris edition, in order,
-nothing left out and nothing added.
+restoration of the Greek text's final lacuna — translated from the French of the 1802 Paris edition, in order. Where the
+two-hundred-twenty-year-old print and the OCR defeat a certain reading, the
+English says what can be said and marks the rest rather than inventing it.
 
 Original: French letter-pamphlet, Paris, Imprimerie de la
 République, An X (= 1802 old style). Basis for this rendering: the
@@ -53,7 +53,7 @@ The Rare & Obscure Books series — the Boneyard
 
 ---
 
-DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+DRAFT — SHELVED AS A WORKING DRAFT. FURTHER CHECKS PENDING.
 This draft was prepared with AI assistance under the editorial
 direction of Robert Tilford. It is a fresh English rendering made from
 the French text of the 1802 edition. It has not yet had the final checks
