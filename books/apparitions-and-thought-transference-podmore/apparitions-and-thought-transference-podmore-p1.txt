@@ -2,7 +2,7 @@ APPARITIONS AND THOUGHT-TRANSFERENCE
 
 by Frank Podmore (1856–1910)
 
-Basis: Clean reading edition of Frank Podmore's Apparitions and Thought-Transference: An Examination of the Evidence for Telepathy (London: Walter Scott, 1894; Internet Archive apparitionsthoug00podmuoft); spelling and wording original; running headers, page numbers and scanner noise removed
+Basis: Reading text of Frank Podmore's Apparitions and Thought-Transference: An Examination of the Evidence for Telepathy (London: Walter Scott, 1894; Internet Archive apparitionsthoug00podmuoft), taken from the IA OCR; spelling and wording original. Running headers and page numbers removed in a 2026 repair; OCR errors corrected where found, but no full proofreading has been done
 
 Rare & Obscure Books series
 
@@ -25,17 +25,16 @@ LONDON: WALTER SCOTT, LTD., 24 WARWICK LANE, PATERNOSTER ROW
 
 Contents
 
-- Preface — xi - I. Introductory — 1 - II. Experimental Transference of Simple Sensations in the Normal State — 18 - III. Experimental Transference of Simple Sensations with Hypnotised Percipients — 58 - IV. Experimental Production of Movements and Other Effects — 82 - V. Experimental Production of Telepathic Effects at a Distance — 105 - VI. General Criticism of the Evidence for Spontaneous Thought-Transference — 143 - VII. Transference of Ideas and Emotions — 161 - VIII. Coincident Dreams — 185 - IX. On Hallucination in General — 207 - X. Induced Telepathic Hallucinations — 226 - XI. Spontaneous Telepathic Hallucinations — 247 - XII. Collective Hallucinations — 268 - XIII. Some Less Common Types of Telepathic Hallucination — 297 - XIV. On Clairvoyance in Trance - XV. On Clairvoyance in the Normal State - XVI. Theories and Conclusions - Index [not reproduced]
+- Preface — xi - I. Introductory — 1 - II. Experimental Transference of Simple Sensations in the Normal State — 18 - III. Experimental Transference of Simple Sensations with Hypnotised Percipients — 58 - IV. Experimental Production of Movements and Other Effects — 82 - V. Experimental Production of Telepathic Effects at a Distance — 105 - VI. General Criticism of the Evidence for Spontaneous Thought-Transference — 143 - VII. Transference of Ideas and Emotions — 161 - VIII. Coincident Dreams — 185 - IX. On Hallucination in General — 207 - X. Induced Telepathic Hallucinations — 226 - XI. Spontaneous Telepathic Hallucinations — 247 - XII. Collective Hallucinations — 268 - XIII. Some Less Common Types of Telepathic Hallucination — 297 - XIV. On Clairvoyance in Trance - XV. On Clairvoyance in the Normal State - XVI. Theories and Conclusions - Index
 
 
 
 Preface
 
-The following pages aim at presenting in brief compass a selection of the evidence upon which the hypothesis of thought-transference, or telepathy, is based. It is now more than twelve years since the Society for Psychical Research was founded, and nearly eight since the publication oi Phantasms of the Living. Both in the periodical Proceedings of the Society and in the pages of Edmund Gurney's book,^ a large mass of evidence has been laid before the public. But the papers included in the Proceedings are interspersed with other matter, some of it too technical for the taste of the general reader; whilst the two volumes of Phantasms of the Livings which have for some time
+The following pages aim at presenting in brief compass a selection of the evidence upon which the hypothesis of thought-transference, or telepathy, is based. It is now more than twelve years since the Society for Psychical Research was founded, and nearly eight since the publication of Phantasms of the Living. Both in the periodical Proceedings of the Society and in the pages of Edmund Gurney's book,^ a large mass of evidence has been laid before the public. But the papers included in the Proceedings are interspersed with other matter, some of it too technical for the taste of the general reader; whilst the two volumes of Phantasms of the Living which have for some time
 
 ^ The book actually bore on the title-page the names of Edmund Gurney, F. W. H. Myers, and the present writer. But the division of authorship, as explained in the Preface, was as follows: — " As regards the writing and the views expressed, Mr. Myers is solely responsible for the Introduction, and for the ' Note on a Suggested Mode of Psychical Interaction; ' and Mr. Gurney is solely responsible for the remainder of the book.... But the collection, examination, and appraisal of evidence has been a joint labour."
 
-Xli PREFACE.
 
 been out of print, were too costly for the purse of some, and too bulky for the patience of others. The attention which, notwithstanding these drawbacks, that work excited on its first appearance, the friendly reception which it met with in many quarters, and the fact that a considerable edition has been disposed of, encouraged the hope that a book on somewhat similar lines, but on a smaller scale, might be of service to those — and their number has probably increased within the last few years — who take a genuine interest in this inquiry. Accordingly in the autumn of 1892 I obtained permission from the Council of the Society for Psychical Research to make full use, in the compilation of the present work, not merely of the evidence already published by us, but of the not inconsiderable mass of unpublished records in the possession of the Society.
 
@@ -43,7 +42,7 @@ It will be seen that the present book has little claim to novelty of design; but
 
 I
 
-thought-transference, and have gone far to solve one or two of the problems connected with the subject; and the evidence for the experimental production of telepathic effects at a distance has been greatly enlarged by the work of MM. Janet and Gibcrt,^ Richet, Gibotteau, Schrenck-Notzing, and in this country by Mr. Kirk and others. ^ It may be added that some of the criticisms called forth by Phantasms of the Livings and our own further researches, have led us to modify our estimate of the evidence in some directions, and to strengthen generally the precautions taken against the unconscious warping of testimony.
+thought-transference, and have gone far to solve one or two of the problems connected with the subject; and the evidence for the experimental production of telepathic effects at a distance has been greatly enlarged by the work of MM. Janet and Gibert,^ Richet, Gibotteau, Schrenck-Notzing, and in this country by Mr. Kirk and others. ^ It may be added that some of the criticisms called forth by Phantasms of the Living and our own further researches, have led us to modify our estimate of the evidence in some directions, and to strengthen generally the precautions taken against the unconscious warping of testimony.
 
 To say, however, that the following pages owe much to Edmund Gurney is but to acknowledge the obligation which all students of the subject must recognise to his keen and vigorous intellect and his colossal industry. My own debt is a more personal one. To have worked under his guidance, and to have been stimulated by his example, was an invaluable schooling in the qualities demanded by an inquiry of this nature. Of the living, I owe grateful thanks, in the first instance, to Professor and Mrs. Henry Sidgwick, who have read through the whole of the book in typescript, and have given help and counsel throughout. Miss Alice Johnson, Mr. F. W. H. Myers, the late Dr. A. T. Myers, Miss Porter,
 
@@ -77,7 +76,6 @@ It is salutary sometimes to reflect how recent is the growth of our scientific c
 
 I
 
-2 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 any rate, had been dropped from the hats of pilgrims returning from the Holy Land. Yet Werner and Hutton were even then preparing to elucidate the causes of stratification and the genesis of the igneous rocks. Cuvier in the next generation was to demonstrate the essential analogies of the fossils found in the Paris basin with living species; Agassiz was to investigate the relation of fossil fishes and to show the true nature of their embedded remains. Nay, even in the middle of the present century, so slow is the growth and spread of organised knowledge, it was possible for a pious Scotchman to ascribe the origin of mountain chains to a cataclysm which, after the fall of Man, had broken up and distorted the once symmetrical surface of the earth;^ for a Dean of York to essay to bring the Mediaeval theory up to date and prove that the whole series of geological strata, with their varied organic remains, were formed by volcanic eruptions acting in concert with the Mosaic Deluge; ^ and for another English divine to warn his readers against any sacrilegious meddling with the arcana of the rocks, because they represented the tentative essays of the Creator at organic forms — a concealed storehouse of celestial misfits! ^
 
@@ -85,23 +83,21 @@ The subject-matter of the present inquiry has passed, or is now passing, through
 
 1 Primary and Present State of the Solar System, by P. McFarlane. Edinburgh, Thomas Grant, circa 1845.
 
-"^ At the meeting of the British Association in 1844; quoted by Hugh Miller, Tesiiviony of the Rocks, pp. 358, 359.
+"^ At the meeting of the British Association in 1844; quoted by Hugh Miller, Testimony of the Rocks, pp. 358, 359.
 
-3 A Brief and Complete Refutation of the Antiscripttiral Theory of the Geologists, by a Clergyman of the Church of England. London, 1853; quoted by Hugh Miller, loc. cit.
+3 A Brief and Complete Refutation of the Antiscriptural Theory of the Geologists, by a Clergyman of the Church of England. London, 1853; quoted by Hugh Miller, loc. cit.
 
 witchcraft were probably due to the agency of hypnotism, which in later times, under the various names of mesmerism, electrobiology, animal magnetism, has attracted the curiosity of the unlettered, and from time to time the serious interest of the learned. These phenomena indeed were made the subject of scientific inquiry, first in France and later in England, during the first half of the present century; have now again, after a brief period of eclipse, been investigated for the last two decades by competent observers on the Continent, and are at length winning a recognised footing in scientific circles in this country. Yet within the last two or three years we have witnessed the spectacle of more than one medical man, of some repute in this island, laughing to scorn all the researches of Charcot and Bernheim, just as their prototypes a generation or two ago ignored the results of Cuvier and Agassiz, and held it an insult to the Creator to accept the scientific explanation of coprolites.
 
 And as regards the other subjects, to which must be added the alleged marvels of the Spiritualists, there have indeed been one or two isolated series of observations by competent inquirers, but for the most part the learned have held themselves free to ascribe the phenomena without investigation to fraud and hysteria, and the unlearned to " magnetism," "psychic force," or the Devil. For whilst men of science, preoccupied for the most part with other lines of inquiry, have kept themselves aloof, the vacant ground was naturally occupied by the ignorant and 'credulous, and by those who looked to win a harvest from ignorance and credulity. It is not of course implied that all persons who interested themselves in such matters came under one or other of these categories. There were many sensible men and women amongst them, but they lacked for the most part the special training necessary for such inquiries, or they failed through want of co-operation
 
-4 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
-and support. No serious and organised attempt at investigation was made until, in 1882, the Society for Psychical Research was founded in London, under the presidency of Professor Henry Sidgwick. He and his colleagues were the pioneers in the research, and their example has been widely followed. Two years later an American society under the same title (now a flourishing branch of the English society) was founded in Boston; and there are at the present time societies with similar objects at Berlin, Munich, Stockholm, and elsewhere. Moreover, the Soci^te de Psychologic Physiologique, which was founded in Paris, under the presidency of M. Charcot, in 1885, has devoted much attention to some forms of telepathy.
+and support. No serious and organised attempt at investigation was made until, in 1882, the Society for Psychical Research was founded in London, under the presidency of Professor Henry Sidgwick. He and his colleagues were the pioneers in the research, and their example has been widely followed. Two years later an American society under the same title (now a flourishing branch of the English society) was founded in Boston; and there are at the present time societies with similar objects at Berlin, Munich, Stockholm, and elsewhere. Moreover, the Société de Psychologie Physiologique, which was founded in Paris, under the presidency of M. Charcot, in 1885, has devoted much attention to some forms of telepathy.
 
 But the forces of superstition and charlatanry, to which this vast territory has been ceded for so long, have bequeathed an unfortunate legacy to those who would now colonise it in the name of Science; and the preliminary difficulties of the undertaking can perhaps most effectually be met by a frank recognition of that fact On the one hand, a large number of thinking men have been repelled, and still feel repulsion, from a subject whose record is so unsavoury. On the other hand, the appetite for the marvellous which has been so long unchecked is not easily restrained. The old habits of inaccuracy, of magnifying the proportions of things, of confusing surmises with facts, cannot be eradicated without long and careful discipline. To one writer, indeed, those dangers seemed so serious that he solemnly warned the Society for Psychical Research, at the outset of its career, against the risk of stimulating into disastrous activity inborn tendencies to superstition, by even the semblance of an inquiry into these matters. Without going to such lengths, it may be conceded to the critic that even with those who endeavour to apply scientific methods to the investigation the mental attitude is liable to be warped by the environment, and that here, as elsewhere, evil communications may corrupt.
 
 As regards the actual investigators this difficulty is growing less serious, as more men who have received their training in other branches of science are attracted to the inquiry, and as the affinities of the subject to long-recognised departments of knowledge become daily more apparent. In another direction, however, this mental attitude presents still a more or less formidable obstacle. Many of the observations on which students of the subject are compelled to rely are derived from persons who have had no training in such habits of accuracy as are required in scientific research. When accounts of the ornithorhynchus first reached this country naturalists laughed at the traveller's tale of a beast with the tail of a beaver and the bill and webbed feet of a duck. In the same way scientific men for long refused to admit the existence of aerolites, as they now decline to credit the reports of a Sea Serpent of colossal proportions. In all these cases, so long as the alleged facts rest solely on the testimony of men untrained in habits of close observation and accurate reporting, a suspension of judgment seems to be justified. And if these considerations are valid in ordinary cases, a much higher degree of caution may be reasonably demanded of investigators who leave the neutral ground of the physical sciences to enter upon a field in which the emotions and sympathies are most keenly engaged, and in which the incidents narrated may have served to afford support to the dearest hopes and sanction to the deepest convictions of the narrator. So insidious, in such a case, is the work of the imagination, so untrustworthy is the memory, so various are the sources of error in human testimony, that it may be doubted whether we should be justified in attaching weight to the phenomena of telepathic hallucination and clairvoyance, to which a large part of this book is devoted, if the alleged observations were incapable of experimental verification. Certainly in such a case, though the recipient of an experience of this kind
 
-6 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 might cherish a private conviction of its significance, it would hardly be possible for such a view to win general assent.
 
@@ -109,7 +105,6 @@ In fact, however, the clue to the interpretation of the more striking phenomena,
 
 absolute accuracy the amount of energy produced is simply due to the difficulty of measuring with precision all the factors in the case. But when we leave the problems of chemistry and physics and approach the problems of biology, the difficulties increase a hundredfold. Here not only are we unable to measure the various factors, we cannot even name them. No skill or forethought would have enabled an observer, from however patient a study of parentage and environment, to have predicted the appearance, say, of Emanuel Swedenborg or Michael Faraday. Of the seven children of John Lamb and his wife it might have seemed easier to conjecture that the majority would not survive childhood, and that one would become insane, than that another should take his place amongst those whose writings the world would not willingly let die. And even where, as in most biological researches, the results drawn from observation can be to some extent checked and controlled by direct experiment, generations may elapse before the balance of probabilities on one side or the other becomes so great as to lead to unanimity amongst the inquirers. One of the most interesting, and certainly not the least important, of the questions now occupying biologists, is that of the transmission to the offspring of characters acquired in the lifetime of the individual. Observations have been accumulated on the subject since before the days of Lamarck; and these observations, interpreted and confirmed by experiment, have been adduced and are still held by many as evidence that such transmission occurs. On the other hand, Weismann and his followers contend that no such inference can legitimately be drawn from the observations and experiments quoted, and that the occurrence of such transmission is irreconcilable with what is known of the growth and development of the germ. And for all that has been said and written the opinion of competent biologists is still divided upon the question.
 
-8 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 But in many biological problems the conditions are much simpler, and the questions at issue can more readily be brought to the test of experiment. Yet even so various unknown factors are included, and the results obtained are correspondingly difficult of interpretation. No question affects us more nearly than the part played by the several kinds of food in repairing the daily waste of the human body. Statistics and analyses have been collected of workhouse, prison, and military dietaries; innumerable experiments have been conducted on fasting men and hypertrophied dogs and rabbits; and yet the precise function of nitrogenous substances in nutrition is still undetermined. Again, the import of the experiments made during the last few decades by Goltz, Hitzig, Ferrier, Horsley, and others on the functions of various areas of the brain substance, and the exact nature and degree of localisation which those experiments imply, are still matter of debate amongst the physiologists concerned.
 
@@ -123,7 +118,6 @@ The conclusion that under certain conditions thought-transference may occur rest
 
 Whether the elimination of all other possible causes
 
-10 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 is indeed complete, or whether, as in Dr. Bastian's case, there may yet lurk in these experiments some hitherto unsuspected source of error, the reader will have the opportunity of judging for himself. To assist him in forming a judgment some of the main disturbing causes will be briefly indicated.
 
@@ -133,25 +127,23 @@ In the autumn of 1888 some experiments were conducted with a person named D., wh
 
 the hall with a coin or other object in his hand, a description of which he communicated to his confederate on the platform by means of a series of breathings, deep enough visibly to move his dresscoat up and down on the surface of his white collar, punctuated by slight movements of head or hand. The novel feature in the first case, however, was that the percipient herself furnished the groundwork of the code, the punctuation alone being given by the conjurer. A still more elaborate form of collusion is described at length by Bonjean.^ In this case the subject, a young woman named Lully, appears to have read the words to be conveyed after the fashion of a deaf mute, by the motion of the lips of the showman. Lully was apparently in a hypnotic trance, with the eyes fast closed. Another form of fraud, since it does not require the aid of a confederate, is perhaps worthy of note. Some years ago a young Australian came to this country with a reputation for "genuine thoughtreading," based on the successful mystification of some members of a certain Colonial Legislature. The writer had a few experiments with this person, in which several small objects — a knife, a glass bottle, etc. — placed in the full light of a shaded lamp, were correctly named. The object was in each case placed behind the back of the " Thought-reader," who looked intently at the writer's eyes, which were in turn fixed upon the brightly illuminated object. Experiments made under more usual conditions, not dictated by the " Thought-reader," completely failed; and there can be little doubt that the initial successes were due to the "Thought-reader" seeing the image of the object reflected in the agent's cornea.
 
-(2) HypercBsthesia. — But, after all, it is rarely necessary to take special precautions against fraud, for there are dangers to be guarded against of a more subtle kind. There are various, and as yet imperfectly
+(2) Hyperaesthesia. — But, after all, it is rarely necessary to take special precautions against fraud, for there are dangers to be guarded against of a more subtle kind. There are various, and as yet imperfectly
 
-* UHypnotisTne et la stiggestion mentale. Germer Bailli^re et Cie. Paris, pp. 261-316.
+* L'Hypnotisme et la suggestion mentale. Germer Baillière et Cie. Paris, pp. 261-316.
 
-12 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 known methods of communication by which indications may be unconsciously given and as unconsciously received. Thus, to take the last instance, it is pretty certain that cornea-reading does not always imply fraud, and that hints may be gained in all good faith from any reflecting surface in the neighbourhood of the experimenter; or the movements of lips, larynx, and even hands and limbs may betray the secret to eye or ear. We know little of the limits of our sensory powers even in normal life; and we do know that in certain subconscious states — automatic, hypnotic, somnambulic — these limits may be greatly exceeded, and that indications so subtle as frequently to escape the vigilance of trained observers may be seized and interpreted by the hypnotic or automatic subject. It is clear, therefore, that results which it is possible to attribute to deliberate fraud stand almost necessarily self-condemned. For if the precautions taken by the investigators left such an explanation open, much more were those precautions insufficient to guard against the subtler modes of communication referred to. It is not the friend whom we know whose eyes must be closed and his ears muffled, but the ** Mr. Hyde," whose lurking presence in each of us we are only now beginning to suspect.
 
-There is a case recorded by M. Bergson,^ in which a hypnotised boy is said to have been able to state correctly the number of the page in a book held by the observer, by reading the corneal image of the figures. The actual figures were three millimetres high, and their corneal image is calculated by M. Bergson to have been o.i mm., or about 2^^ of an inch in height! In some other experiments conducted by M. Bergson with the same subject the acuteness of vision is said to have exceeded even this limit. In another case, recorded by Dr. Sauvaire,^ a hypnotised
+There is a case recorded by M. Bergson,^ in which a hypnotised boy is said to have been able to state correctly the number of the page in a book held by the observer, by reading the corneal image of the figures. The actual figures were three millimetres high, and their corneal image is calculated by M. Bergson to have been 0.1 mm., or about 1/250 of an inch in height! In some other experiments conducted by M. Bergson with the same subject the acuteness of vision is said to have exceeded even this limit. In another case, recorded by Dr. Sauvaire,^ a hypnotised
 
-1 Revue Philosophique, Nov. 1887, quoted in Proceedings of the Sac. Psych. Research, vol. iv. p. 532. ' Revue Philosophique^ March 1887.
+1 Revue Philosophique, Nov. 1887, quoted in Proceedings of the Soc. Psych. Research, vol. iv. p. 532. ' Revue Philosophique^ March 1887.
 
 subject was able to recognise the King of Clubs, face downwards, in two different packs of cards. In the first of these cases the results, which could not have been attained by the senses under normal conditions, must apparently be attributed to hyperaesthesia. Instances, especially of auditory hyperaisthesia, are of course quite familiar to those who have studied the phenomena of hypnotism. In Dr. Sauvaire's case, however, the power of distinguishing the cards by touch may have been the result of practice. Mrs. Verrall records {Proceedings Soc. Psych, Research, vol. viii. p. 480) that she acquired such a power by means of "a longish series of experiments"; and Mr. Hudson, in Idle Days hi Patagonia, tells of a gambler who by careful training had developed the same faculty in a very high degree.
 
 It seems probable in the cases described by M. Bergson and Dr. Sauvaire, and possible also in the case of Mr. D.'s subject, that there was no intentional deception, and that the hypnotised person was not himself aware of the means by which his knowledge was attained.^ The same remark probably applies to the following case, in which, though the conditions of vision were certainly unusual, it seems not clear whether the degree of success attained should be attributed to abnormal sensibility of the eyes, or to the facility acquired by long practice. In a series of experiments at which the writer assisted, in 1884, an illiterate youth named Dick was hypnotised, a penny was placed over each eye, and the eyes and surrounding features were elaborately bandaged with strips of sticking-plaster; a handkerchief being bound over all. Under these conditions Dick named correctly objects held in front of him, even at a considerable distance, a little above the level of his eyes. Normal vision appeared to be impossible. Mr. R. Hodgson, how-
 
-1 Mrs, Verrall states that after long practice she '* lost all consciousness of the means which enabled her to guess, and saw pictures of the cards."
+1 Mrs. Verrall states that after long practice she '* lost all consciousness of the means which enabled her to guess, and saw pictures of the cards."
 
-14 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 ever, repeated the experiment upon himself, and found after several trials that he also could see objects, though fitfully and imperfectly, under the same conditions, the channel of vision being a small chink in the sticking-plaster on the line where it was fastened to the brow.
 
@@ -159,11 +151,10 @@ ever, repeated the experiment upon himself, and found after several trials that 
 
 telepathy is a fact, we should expect to find it operating not merely where, from the conditions of the experiment, it must be presumed to be the sole source of communication, but also as an auxiliary to other more familiar modes of expression. It seems not improbable, therefore, that some of the more startling successes of the professional "thought-reader" and some of the results obtained in the "willing game" may be due to this cause.
 
-(4) Thought - forms. — There remains one other source of error to be guarded against. An image — whether of an object, diagram, or name — which is chosen by the agent may be correctly described by the percipient simply because their minds are set to move in the same direction. It must be remembered that, however unexpected and spontaneous they may appear, ideas do not come by chance, but have their origin mostly in the previous experience of the thinker. Persons living constantly in the same physical and intellectual environment are apt to present a close similarity in their ideas. It would not even ho. prima facie evidence of thought-transference, for instance, if husband and wife, asked to think of a town orjDf an acquaintance, should select the same name. ^And investigation has shown that our thoughts move in grooves which are determined for us by causes more deep-seated and more general than the accident of particular circumstances, j Thus it is found that individuals will show a preference for certain figures or certain numbers over others; and that the preference for some geometrical figures tends to be tolerably constant. The American Society for Psychical Research ^ made some interesting observations on this point in 1888. Blank cards were issued to a large number of persons, with the request that the recipients would draw on the card "ten diagrams." 501 cards were returned, and the diagrams inscribed on them were carefully tabulated. It was
+(4) Thought - forms. — There remains one other source of error to be guarded against. An image — whether of an object, diagram, or name — which is chosen by the agent may be correctly described by the percipient simply because their minds are set to move in the same direction. It must be remembered that, however unexpected and spontaneous they may appear, ideas do not come by chance, but have their origin mostly in the previous experience of the thinker. Persons living constantly in the same physical and intellectual environment are apt to present a close similarity in their ideas. It would not even no prima facie evidence of thought-transference, for instance, if husband and wife, asked to think of a town or of an acquaintance, should select the same name. ^And investigation has shown that our thoughts move in grooves which are determined for us by causes more deep-seated and more general than the accident of particular circumstances, j Thus it is found that individuals will show a preference for certain figures or certain numbers over others; and that the preference for some geometrical figures tends to be tolerably constant. The American Society for Psychical Research ^ made some interesting observations on this point in 1888. Blank cards were issued to a large number of persons, with the request that the recipients would draw on the card "ten diagrams." 501 cards were returned, and the diagrams inscribed on them were carefully tabulated. It was
 
 * Proceedings of the American Soc. Psych. Research ^ pp. 302 el seq.
 
-l6 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 found that of the 501 persons no less than 209 drew circles, 174 squares, 160 equilateral triangles and crosses, while three only drew wheels, two candlesticks, and one each a corkscrew, a ball, and a knife. It was found that the simpler geometrical figures^ occurred not only most frequently but as a general rule early in each series of ten. It follows, therefore, that in an experiment the success of the percipient in reproducing a circle, a square, or a triangle raises a much fainter presumption of thought-transference than if the object reproduced had been a corkscrew or a pine-apple. But so much was perhaps obvious even without a detailed investigation. From a similar analysis of the guesses made, it can be shown that some percipients have decided preferences amongst the simple numerals. And in the same way it seems probable that others have a preference for particular cards. An important illustration of the working of the "number-habit" has been brought forward by Professor E. C Pickering of the Harvard College Observatory, U.S.A.^ A revision of part of the Argelander Star-Chart had been undertaken by several observatories, of which the Harvard Observatory was one. For the purposes of the revision the assistant had the Argelander chart before him, whilst the observer, who was in ignorance of the magnitude assigned in the chart, made an independent estimate of the magnitude of each star. If no thought-transference or other disturbing cause affected the result, the amount of deviation of the later observations from the earlier in each tenth of a degree of magnitude would be represented by a smooth curve. As a matter of fact, it was found that the number of cases
 
@@ -173,7 +164,7 @@ found that of the 501 persons no less than 209 drew circles, 174 squares, 160 eq
 
 I
 
-of complete agreement were much greater, with some observers more than 50 per cent, greater, than they should have been on an estimate of the probabilities. At first sight this excess of the actual over the theoretical numbers suggested the action of thoughttransference between the assistant and the observer. But Professor Pickering shows, on a further analysis of the figures, that almost the whole of the excess was due to the preference of both the earlier and the later observers for 5 and 10 over all other fractions of a degree.
+of complete agreement were much greater, with some observers more than 50 per cent, greater, than they should have been on an estimate of the probabilities. At first sight this excess of the actual over the theoretical numbers suggested the action of thought-transference between the assistant and the observer. But Professor Pickering shows, on a further analysis of the figures, that almost the whole of the excess was due to the preference of both the earlier and the later observers for 5 and 10 over all other fractions of a degree.
 
 The practical deduction from this investigation is that in any experiment care should be taken to exclude, as regards the agent at any rate, the operation of any diagram or number-habit.^ If an object is thought of, it should if possible be chosen by lot, and should not be an object actually present in the room. If a card, it should be drawn from the pack at random; if a number, from a receptacle containing a definite series of numbers; if a diagram, it is preferable that it should be taken at random from a set of previously-prepared drawings. It will be seen that in the majority of the cases quoted in the four succeeding chapters these precautions have been observed.
 
@@ -187,7 +178,7 @@ Chapter II. Experimental Transference of Simple Sensations in the Normal State
 
 SATIONS IN THE NORMAL STATE.
 
-It is somewhat remarkable that the facts of thoughttransference should only have attracted serious attention within the last two decades. With waking percipients, indeed, such phenomena do not seem to occur unsought with sufficient frequency, or — if we leave on one side for the moment telepathic hallucinations— on a sufficiently striking scale to afford evidence of any transmission of thought or sensation otherwise than through the familiar channels. But the hypnotic state appears to offer peculiar facilities for such transmission, and hypnotism, under the name of mesmerism, has now been closely studied by numerous observers for upwards of a century. The earlier French observers,^ indeed, occasionally recorded instances of what appears to have been thoughttransference between the mesmerist and his subject. But these facts were observed by the way, in the search for phenomena of another kind; and no attempt appears to have been made to follow up the clue by means of direct experiment. Even the English observers of 1840 and onwards, though familiar with what they termed "community of sensation" between the operator and his subject,
+It is somewhat remarkable that the facts of thoughttransference should only have attracted serious attention within the last two decades. With waking percipients, indeed, such phenomena do not seem to occur unsought with sufficient frequency, or — if we leave on one side for the moment telepathic hallucinations— on a sufficiently striking scale to afford evidence of any transmission of thought or sensation otherwise than through the familiar channels. But the hypnotic state appears to offer peculiar facilities for such transmission, and hypnotism, under the name of mesmerism, has now been closely studied by numerous observers for upwards of a century. The earlier French observers,^ indeed, occasionally recorded instances of what appears to have been thought-transference between the mesmerist and his subject. But these facts were observed by the way, in the search for phenomena of another kind; and no attempt appears to have been made to follow up the clue by means of direct experiment. Even the English observers of 1840 and onwards, though familiar with what they termed "community of sensation" between the operator and his subject,
 
 ^ See, for instance, Puysegur, Menioires pour servir h rStablissement du j/iagnetisjtie, pp. 22, 29 ei seq., and Petetin, Electricity Animale^ p. 127, etc. (quoted by Dr. Ocborowicz, De la Suggestion mentale).
 
@@ -197,7 +188,6 @@ appear never to have realised its possible significance. Dr. Elliotson, for inst
 
 It was Professor Barrett, of the Royal College of Science, Dublin, who, in a paper read before the British Association at Glasgow in 1876, first isolated the phenomenon from its somewhat dubious surroundings, and drew public attention to its importance. Up to that time " community of sensation " or thoughttransference seems to have been known only as a rare and fitful accompaniment of the hypnotic trance. But in the course of the correspondence arising out of his paper Professor Barrett learnt of several instances where similar phenomena had been observed in the waking state. The Willing game was just then coming into fashion, and cases had been observed in which the thing willed had been performed without contact between the performer and the person willing, and apparently without the possibility of any normal means of communication between them. Later, in the years 1881-82, a long series of experiments, in
 
-20 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 which Professor Sidgwick, the late Professor Balfour Stewart, the late Edmund Gurney, Mr. F. W. H. Myers and others joined with Professor Barrett, seemed to establish the possibility of a new mode of communication. And these earlier results have been confirmed by further experiments continued down to the present time by many observers both in this country and abroad. In the present chapter some account will be given of experiments in the transference of simple ideas and sensations performed with percipients in the ordinary waking state. The next chapter will deal with similar results obtained with hypnotised persons. In Chapters IV. and V. results of a more complicated or unusual character will be described and discussed.
 
@@ -245,7 +235,6 @@ vinegar. I feel it on my lips— it is as if I had been eating alum."
 
 no« tasting bitter aloes, as E. G. and M. supposed, but something different. No distinct perception on account of the persistence of the bitter taste.)
 
-22 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 EXPT. TASTER, PERCIPIENT. SUBSTANCE. ANSWERS GIVEN.
 
@@ -379,7 +368,6 @@ This lack of evidence for auditory transmission is no doubt largely due to a des
 
 ^ See below. Chapter III. — Mrs. Sidgwick's experiments.
 
-26 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 telepathic hallucinations. It seems probable that the apparent infrequency of auditory transmission may be in part due to the fact that in the modern world the sense of vision is for educated persons the habitual channel for precise or important information. To the Greek in the time of Socrates no doubt the ear was the main avenue for all knowledge; it was the ear that received not merely the current talk of the marketplace and the gymnasium, but the oratory of the law-court, the literature of the stage, and the philosophy of the Schools. But for modern civilised societies the newspaper and the libraries have placed the eye in a position of unquestioned pre-eminence. It seems likely therefore, apart from all defects in such evidence, that the agent would find a greater difficulty, as a rule, in calling up a vivid representation of a sound than of a vision; and that the percipient would experience a corresponding difference in the reception and discrimination of the two classes of impressions.
 
@@ -393,7 +381,6 @@ on Edmund Gurney's initiative, by some members of the S.P.R. and others. There w
 
 2 Proc. American S.P.R., pp. IT ei seq.
 
-28 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 agent, but after about lOOO trials had been made her back was turned to the table — and this position was continued to the end. The paper containing the numbers to be guessed was placed in the agent's lap, out of sight of the percipient. There was no mirror in the room. In the result the digits were correctlynamed 584 times, or nearly twice the probable number, 300. The proportion of the successes steadilyincreased, from 175 in the first batch of lOOO trials, to 190 in the second, and 219 in the third batch.
 
@@ -505,7 +492,6 @@ V,
 
 Y.
 
-30 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 Fourth Series-
 
@@ -581,19 +567,18 @@ The experiments which follow were made by Dr. Blair Thaw, M.D., of New York. The
 
 \st Object. Silk Pincushion, in form of Orange-Red Apple, quite round. — Percipient: A Disc. When asked what colour, said. Red or Ora?jge. When asked what object, named Piticushiofi.
 
-2nd Object. A Short Lead Pencil, nearly covered by the nickel cover. Never seen by percipient. Percipient: So7nei king white or light. A card. I thought of Mr. Wyatt^s silver pencil.
+2nd Object. A Short Lead Pencil, nearly covered by the nickel cover. Never seen by percipient. Percipient: So7nei king white or light. A card. I thought of Mr. Wyatt's silver pencil.
 
-2,rd Object. A Dark Violet in Mr. Wyatt's button-hole, but not known to be in the house by percipient. Percipient: Something dark. Not very big. Longish. Narrow. Soft. It can^t be a cigarette because it is dark brown. A dirty colour. Asked about smell, said: Not strongs but what you might call pungent J a cleaii smell.
+2,rd Object. A Dark Violet in Mr. Wyatt's button-hole, but not known to be in the house by percipient. Percipient: Something dark. Not very big. Longish. Narrow. Soft. It can't be a cigarette because it is dark brown. A dirty colour. Asked about smell, said: Not strongs but what you might call pungent J a cleaii smell.
 
 Percipient had not noticed smell before, though sitting by Mr. Wyatt some time, but when afterwards told of the violet knew that this was the odour noticed in experiment.
 
-Asked to spell name, percipient said: Phry^ian^ Phrigid, or frst letter V if not Ph.
+Asked to spell name, percipient said: Phrygian^ Phrigid, or frst letter V if not Ph.
 
 ^th Object. Watch, dull silver with filigree. Percipient: Yellow or dirty ivory. Not very big. Like carving on it. Watch is opened by agent, and percipient is asked what was done. Percipient says: You opened it. It is shaped like a
 
 ^ See Dr. Thaw's paper, Proc. Soc. Psych. Research, vol. viii. pp. 422 et seq.
 
-32 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 butterfly. Percipient held finger and thumb of each hand making figure much like that of opened watch. Percipient asked to spell it, said: I get r-i-n-g with a W at first.
 
@@ -659,7 +644,6 @@ Reference has already been made to the long series of experiments carried on dur
 
 ^ Records of these experiments will be found in the Pi-oc. of the Soc. Psych. Research, vol, i. pp. 263-283; vol. ii. pp. I-5, 24-42, 189-200; vol. iii. pp. 424-452.
 
-34 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 deavoured to work it out in what I thought a reasonable way, but I experienced much difficulty in assigning to its proper column each experiment we made. This, however, is a task which each student of the subject will be able to undertake for himself according to his own judgment. I do not submit my summary as a basis for calculation of probability. A few successful experiments of a certain kind carry greater weight with them than a large number of another kind; for some experiments are practically beyond the region of guesses....
 
@@ -711,7 +695,6 @@ Object — a blue square of silk. — (Now, it's going to be a colour; ready.) "
 
 ^ Proc, Soc. Psych. Research, vol. ii. pp. 194-196.
 
-36 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 any means, and it is to be understood that it was only to make a start on the first experiment that so much help was given as is involve.d in saying "it's a colour." When they are simply told " it's an object," or, what is much the same, when nothing is said at all, the fiald for guessing is practically infinite. When no remark at starting is recorded none was made, except such an one as " Now we are ready," by myself.]
 
@@ -767,7 +750,6 @@ the other. Miss R d looked at the side with
 
 /\ with the cross. Neither knew what the other was looking at — nor did the percipient know ORIGINALS. that anything unusual was being tried. Mr. Birchall was silently asked to take off his attention and he got up and looked out of window before the drawings were brought in, and during the experiment. There was no con-REPRODucTioN. tact. Vcry soon Miss R. said, " I see things moving about... I seem to see two things... I see first one up there, and then one down there... I don't know which to draw.,.. I can't see either distinctly." (Well, anyhow, draw what you have seen.) She took off the bandage and drew first a square, and then said, " Then there was the other thing as well... afterwards they seemed to go into one," and she
 
-38 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 drew a cross inside the square from corner to corner, adding afterwards, " I don't know what made me put it inside."
 
@@ -829,7 +811,6 @@ Rep.
 
 Rep. 2.
 
-42 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 Orig.
 
@@ -863,7 +844,6 @@ Agents — Mdlle. Louise, M. Mabire, Frau Schmoll. Percipient — S chmoU. Objec
 
 Result — " I see two double lines, that cross each other at about right angles." (Pause.) " The two double lines now appear
 
-44 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 single, but like rays of light, and in the form of an X." (Another pause.) "Now I see the upper part of the X separated from the lower by a vertical line." I draw: —
 
@@ -935,7 +915,6 @@ Percipie7it — M. Mabire.
 
 Object — The stamp of the firm was placed on the table: —
 
-46 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 Result — After twenty minutes: " The picture appears to be rather confused. But I believe that I see the lower part of a drinking glass." (Pause.) " Now it has gone again." (A pause of five minutes.) " Now I see another form, like two symmetrical S -shaped double curves, placed side by side." Then M. Mabire drew:—
 
@@ -1159,7 +1138,6 @@ Appended is a statement from Mdlle. Jane D., a young lady of 20, who appears to 
 
 " Whenever I have taken part in the experiments as percipient, I have endeavoured to expel from my mind all thoughts and images, and have remained inactive, with my hands over my eyes, waiting for the production of an impression; sometimes I have tied up my eyes, but this plan has not always been
 
-50 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 successful. At other times the idea of an object has presented itself to me before I have seized its form, but most frequently I seemed to see the picture either black on a white ground, or white on a black ground. In general, the objects present themselves in an undecided manner, and pass away very rapidly; usually I only grasp a portion of them.
 
@@ -1179,7 +1157,6 @@ No. 53.— Original.
 
 No. 53.— Reproduction.
 
-52 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
 No 56. — Original.
 
@@ -1213,5 +1190,4 @@ In the third experiment the agent drew a triangle inscribed in a circle; also tw
 
 "The drawing was done in the following way. I began with the triangle, and then drew the perpendicular on the base. The idea that thereupon occurred to me, that the figure was too simple, induced me to add a circle and to prolong the perpendicular to the circumference; finally I
 
-56 APPARITIONS AND THOUGHT-TRANSFERENCE.
 
