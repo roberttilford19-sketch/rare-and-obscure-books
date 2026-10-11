@@ -1,0 +1,963 @@
+# The Life of Olympias the Deaconess, and Sergia's Account of the Return of Her Relics
+
+**two Greek texts from Constantinople — the fifth-century Life by an anonymous sister of her house, and the seventh-century account of the translation of her relics by the abbess Sergia**
+A fresh English rendering, plain and complete
+
+---
+
+**A fresh translation, not a reprint.** The two texts in this
+booklet belong together, and either alone is thin. The first is
+the *Life of Olympias the Deaconess* — the whole story, from her
+birth to an heiress's fortune in Constantinople, through her
+days-long marriage, her refusal of a second husband, her years as
+deaconess and the right hand of John Chrysostom, her trial and
+exile when he fell, to her death in banishment at Nicomedia and
+the miracles at her tomb. The second is the *Account of Sergia*
+— how, more than a century after Olympias died, the abbess
+Sergia recovered her relics from the ruined church of St. Thomas
+at Brochthoi and brought them home to the rebuilt monastery in
+the city, with the signs and healings that attended them.
+Both are here rendered whole into plain English, sentence by
+sentence from the Greek, the Life first and Sergia's Account
+after it.
+
+Originals: Byzantine Greek, Constantinople — the Life from the
+fifth century, written by an unnamed sister of Olympias's own
+house; Sergia's Account from the seventh, written by Sergia
+herself, abbess of Olympias's monastery after Justinian rebuilt
+it. Basis for this rendering: the critical Greek texts printed
+by Hippolyte Delehaye in the *Analecta Bollandiana* — the Life
+in vol. 15 (1896), pp. 400–423, and Sergia's *Narratio de
+translatione* in vol. 16 (1897), pp. 43–62 — as digitized by the
+Internet Archive, identifiers `AnalectaBollandiana1896`
+(OCR `Analecta_Bollandiana_15_djvu.txt`, read 2026-10-11; the
+Life's Greek at OCR lines ~22463–23370) and
+`analecta-bollandiana_1897_16` (the Narratio's Greek at OCR
+lines ~2284–2890; journal pp. 43–62 re-read from the page
+images, leaves 47–66, for a clean Greek text).
+
+**How it is presented:** the Greek in clear modern English, plain
+enough for a humble reader to follow. The chapter numbers are
+the editor's (Prologue and chapters 2–18 for the Life; chapters
+1–16 for Sergia's Account). Scripture citations the old print
+carries in its margins are kept where they stand. Where the old
+print or the scan defeats a certain reading, the English says
+what can be said and marks the rest — [obscured in the scan] —
+rather than inventing it. A short note describes the state of
+the Greek texts.
+
+**Reader note:** This is a working saint's book from the early
+Church: how a rich young widow gave away a fortune, ran a
+house of holy women at the shoulder of the great church of
+Constantinople, stood by her bishop when the court destroyed
+him, and was destroyed with him — and how her sisters kept her
+memory for a hundred years until an abbess brought her bones
+home. Nothing in it is praised or modernized — it is presented
+as the two sisters wrote it, for the reader to judge. Readers
+should note that this is a historical record, not a modern
+history: names, dates, and wonders belong to their century.
+
+The Rare & Obscure Books series — the Boneyard
+
+---
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial
+direction of Robert Tilford. It is a fresh English rendering made from
+the Greek texts printed in the *Analecta Bollandiana*, vols. 15–16.
+It has not yet had the final checks required before any public use.
+
+---
+
+## Dedication
+
+**Olympias (d. 408)** — orphaned heiress of Constantinople,
+deaconess, and the financier and friend of John Chrysostom. She
+was left an orphan young, married for a matter of days to
+Nebridius the prefect, and widowed before the year was out; she
+refused every second marriage, gave her fortune to the poor and
+the churches, and was ordained deaconess. When Chrysostom fell
+she refused communion with his successor, saw her convent
+seized, and died in banishment at Nicomedia on 25 July 408. Her
+*Life*, and the account of the return of her relics written more
+than a century later, were set down by sisters of her own house
+whose names were never kept.
+
+---
+
+## A word on the two writers
+
+The *Life* names no author. It was written, by its own account,
+by one who knew the house from inside — the Bollandist editor
+judged the writer to belong to the fourth or fifth century,
+nearer Olympias's own time than not. The *Account* names its
+writer on nearly every page: *I, Sergia the sinner*, abbess of
+the monastery of St. Olympias at Constantinople after the
+Emperor Justinian rebuilt it following the Nika fire of 532, in
+the days of the Patriarch Sergius (610–638). She writes as one
+who did the things she tells — who opened the tomb, lifted the
+relics, and carried them home.
+
+---
+
+## THE LIFE OF OLYMPIAS THE DEACONESS
+
+*The Life, that is, the conduct and deeds, of the holy, blessed
+and righteous Olympias, who became deaconess of the most holy
+Great Church of Constantinople. Bless, father.*
+
+### Prologue
+
+The kingdom of our Saviour Jesus Christ — which was before the
+ages and shines through unending ages — makes its own
+shield-bearers immortal: those who finished the race, and those
+who kept their faith toward God spotless and unbent. [II Tim.
+4:7]
+
+For some worked at hospitality, the crown of good deeds, like
+the holy forefather Abraham and his nephew Lot; some contended
+for chastity, like holy Joseph; some strove in labors with
+patience, like blessed Job; and some gave their bodies to fire
+and torments, to receive the crown of incorruption — not fearing
+the tortures of the tyrants, but fighting nobly and trampling
+the devil, and were shown to be heirs of the kingdom of heaven.
+
+Among them also Thecla, citizen of heaven, the much-contending
+martyr, the holy one among women — who despised riches, who
+hated the fleeting and bitter pleasures of this world, who
+refused a costly marriage and confessed her resolve to stand a
+pure virgin before the true Bridegroom — who followed the
+teachings of Paul the blessed apostle and embraced the
+God-breathed Scriptures in her heart — received the crown of
+incorruption from the Master and our Saviour Jesus Christ, and
+rests through unending ages with all the saints who from the
+beginning pleased the Lord Jesus Christ.
+
+Walking in her footsteps, and in every virtue of the God-given
+way of life, the most reverend and most zealous Olympias took
+the road that leads to heaven; in all things she followed the
+mind of the divine Scriptures, and in them she was made perfect.
+
+### 2. Her birth and her marriage
+
+She was, in the flesh, the daughter of Seleucus, who had been a
+count — but a true child of God in the spirit. She is said to
+have been the granddaughter of Ablabius, who had been prefect,
+and for a few days the bride of Nebridius, prefect of the city
+of Constantine. But in truth, as far as the marriage-bed goes,
+she was wife of no man: for she is said to have slept
+undefiled, a virgin — having become the wedded companion of the
+divine Word, and the bedfellow of all true lowliness of mind,
+and a sharer and deaconess of God's holy catholic and apostolic
+Church.
+
+For she was left an orphan, and was joined to a husband; yet by
+God's love toward mankind she was kept uncorrupted in flesh and
+in spirit. For by the all-seeing God, who foresees the outcomes
+of men's lives, her fleeting husband was not counted worthy to
+live with her even a year — the debt of nature being swiftly
+required of him — and she was kept a spotless virgin to the
+end.
+
+### 3. She refuses a second marriage
+
+She could have used the apostle's law, which says, "I would have
+the younger widows marry, and rule their households" [I Tim.
+5:14] — but she would not bear it. Though she was adorned with
+birth and riches and costly schooling, with a gifted nature and
+the bloom of youth, like a gazelle she bounded clear over the
+trap of a second marriage. For law is not laid down for the
+righteous, but for the unruly, the profane, and the insatiable.
+[I Tim. 1:9]
+
+But it came about, by a certain satanic envy, that her
+surpassing widowhood was made public. She was slandered before
+the emperor Theodosius as scattering her substance recklessly —
+and since she was his kinswoman, he made it his business to join
+her in marriage to a certain young Elpidius, a kinsman of the
+emperor himself. He pressed the man hard, but failed, and was
+grieved.
+
+The holy Olympias declared to the emperor Theodosius: "If my
+king, the Lord Jesus Christ, had wished me to live with a
+husband, He would not have taken my first from me. But since He
+knew me unfit for the mingled life of marriage — unable to
+please a husband — He freed him from the bond, and freed me from
+the heaviest yoke and from a husband's slavery, laying upon my
+mind His own good yoke of continence."
+
+### 4. Her goods are put under guard; her answer
+
+When she had thus declared these things to the emperor
+Theodosius — this was before the plotting against the most holy
+John of Constantinople — the emperor, hearing what the holy
+Olympias had declared to him, ordered Clementinus, the prefect
+of the city at that time, to keep her property under guard until
+she should complete her thirtieth year, that is, the age of
+bodily maturity.
+
+And the prefect, taking the emperor's commission — and egged on
+by Elpidius — pressed her so hard that she had no leave even to
+meet with the notable bishops, nor to set foot in church, so
+that, straitened by despondency, she might fall into the snare
+of marriage.
+
+But she, giving thanks to God the more, answered back: "You
+have shown toward me, your lowly servant, a virtue befitting a
+king and becoming a bishop, master and emperor, in ordering my
+heaviest burden — about which I was anxious, how it might be
+managed — to be kept under guard. You will do a greater thing
+if you order it to be scattered among the poor and the
+churches. For I long ago renounced the vainglory that comes of
+giving, lest I neglect the riches of my nature, dragged down as
+I am among the stuff of this world."
+
+---
+
+### 5. The emperor frees her goods; she gives all away
+
+When the emperor came back from the war against Maximus, hearing
+the pitch of her ascetic life, he ordered her to have the free
+use of her property. And she, scattering that boundless and
+unmeasured wealth, supplied all men simply and without
+distinction — and for many reasons she surpassed that Samaritan
+of the holy Gospels, who once found the half-dead man beaten by
+robbers on the way down to Jericho, set him on his own beast and
+bore him to the inn, and mixing the oil of mercy with the sharp
+wine, healed his swellings.
+
+So straightway, when her substance was released and unsealed, she
+kindled the divine love in herself with fresh fire and fled to
+the harbor of salvation — to God's holy, great, catholic and
+apostolic Church of this imperial city — following most wisely
+and purely the God-breathed teachings of John, the most holy
+archbishop of that same holy church. And to him, for that same
+holy church — imitating in this too those burning lovers and
+disciples of Christ who, at the beginning of the saving
+preaching, laid their possessions at the apostles' feet — she
+gave ten thousand pounds of gold, twenty thousand pounds of
+silver, and all the landed estates that belonged to her, lying
+in the provinces of Thrace and Galatia and First Cappadocia and
+Bithynia; and besides, the houses in the imperial city that were
+hers — the one next to the most holy Great Church, called
+"Olympias's," with its tribunal-hall and its full bath and all
+the buildings around it and the *silignarion*; and the house of
+hers near the public Constantinian baths, where she herself
+lived; and her other house, called [obscured in the scan]; and
+all her country estates.
+
+### 6. She is made deaconess; she builds the monastery
+
+By God's will, then, she is ordained deaconess of that same
+holy Great Church of God, and she builds a monastery on its
+southern portico — for all the buildings next to the holy church
+and all the workshops on what is called the southern portico
+were hers. She made the entrance of the monastery open into the
+narthex of the holy church. First of all she shut up in it her
+own fifty household women, all of whom had lived in chastity
+and virginity. Then Elisanthia, her kinswoman, seeing the good
+and God-pleasing work which God had granted her to accomplish —
+being herself also a virgin — caught the divine zeal, renounced
+the fleeting and vain affairs of this life, together with
+Martyria and Palladia, her sisters, themselves also virgins; and
+the three came in with all the rest and made over to that same
+holy monastery all that they had. Likewise Olympias — the niece
+of the said saintly Olympias — with many other women of
+senatorial family, by the grace and good pleasure of God "who
+would have all men to be saved" [I Tim. 2:4], nourished the
+divine love in themselves and chose the heavenly kingdom,
+despising these groveling, earth-dragged things; and they too
+came in with the rest — so that all who were gathered by God's
+grace in that holy fold of Christ numbered two hundred and
+fifty, all crowned with the crown of virginity and living the
+highest life, befitting saints.
+
+### 7. She gives the rest, and her kinswomen are made deaconesses
+
+When these things had thus gone forward with God's help, the
+genuine handmaid of God, Olympias, again offered to the said
+holy church, through the most holy Patriarch John, all her
+remaining landed possessions, lying in every province, and the
+civic bread-rations that came to her. And he ordained as
+deaconesses of the holy church her three kinswomen too —
+Elisanthia, Martyria, and Palladia — so that the holy monastery
+she had founded should keep its four deaconesses in perpetuity.
+
+---
+
+### 8. The life of the sisterhood; her care for John in exile
+
+It was a sight to move wonder in any who saw it — the holy
+choir and angelic order of those holy women: their unceasing
+self-denial and night-watches, their unbroken glorifying of God
+and thanksgiving, the love which is the bond of perfection, the
+stillness. For no one from outside, man or woman, could come in
+to them — no one but the most holy Patriarch John, coming in
+continually and strengthening them with his all-wise teaching.
+And so, built up daily by his God-breathed lessons, and
+kindling the divine love in themselves with their great and
+poured-out godly love toward him, the holy and blessed Olympias
+— imitating in this too the Lord's women disciples, who
+ministered to Him of their substance — made ready and sent
+John's daily expenses to the bishop's house. For there was not
+much between the bishop's house and the monastery — only a
+single wall. And this she did not only before the plot was laid
+against him, but also after he was exiled, and until his death —
+providing his whole expenses, his and those who were with him in
+exile.
+
+### 9. The devil moves; John is exiled; she is put on trial
+
+The devil, then, could not bear the great and wondrous way of
+life of those holy women — wrought, in the first place, by God's
+grace, and in the second by the unceasing teaching of the most
+holy patriarch. He put it into the minds of wicked men, who
+hated and loathed the saintly John for his unsparing rebuke of
+wrongdoers, and the hater of good, the demon, kindled in them
+the dart of slander. They made ready their devilish engine
+against him and against that holy woman. They slandered him —
+not about her only, but about church matters, as seemed good to
+them — and exiled him. But the herald and teacher of the truth,
+like a noble athlete, took the onset of his adversaries and
+carried off the prize of victory; he slipped out from the
+turmoil of this present life and was translated to the calm
+above. [II Tim. 4:8]
+
+As for the holy woman — since, after his exile, she kept up an
+unbending agitation, through every imperial and priestly person,
+for his recall — her enemies ringed her with many evils,
+stitching together ill-timed slanders and revilings against
+her, until they had her haled before the prefect of the city to
+be examined by him.
+
+### 10. She is exiled to Nicomedia; her death
+
+Seeing her boldness for the truth, and unable to bear the
+nobility and unchangeableness of her love toward God, and
+wishing to stop her unceasing agitation for the recall of the
+saintly John, they sent her too into exile, to the metropolis
+of the Nicomedians in the province of Bithynia. She had tasted
+God's grace, and nobly and manfully she bore, for love toward
+God, the snowstorms of the trials and manifold afflictions that
+came upon her. All the rest of her life she spent in the
+metropolis of the Nicomedians, fulfilling there too, unchanged,
+all her ascetic practice and her rule. Having fought the good
+fight, [she received] the crown of patience; and she commended
+her flock to Marina — holy, and fallen asleep in God — her
+kinswoman and spiritual daughter, whom she had received from
+the spotless and saving baptism, beseeching her to take up the
+care of the souls there and to keep herself unshaken in all
+things. And this Marina did — not only for the rest of the
+time the saintly Olympias spent in the metropolis of the
+Nicomedians, but also after her death.
+
+### 11. Her last charge to Marina
+
+For when the holy woman was about to be added to the holy
+fathers, and to depart from this present life and be with
+Christ, she once more charged in writing the said Marina —
+asleep in God — to take all the more thought and oversight,
+commending to her, after God, all the sisters and the care of
+them. And having done this, she slipped out from the winter of
+human affairs, putting in to the calm harbor of our souls,
+Christ God.
+
+---
+
+### 12. Her burial at St. Thomas's at Brochthoi; her death-day
+
+But before her holy body was buried, she appeared in a dream to
+the metropolitan of that city of the Nicomedians, saying: "Put
+my relic in a coffin, and put it in a ship, and let it go on
+its voyage; and in whatever place the ship comes to rest, go
+ashore there and lay me down."
+
+The metropolitan did what she told him in the vision: he put
+the body with the coffin in the ship and let it go on its
+voyage. At the hour of midnight the ship reached the shore
+before the porch of the venerable house of the holy apostle
+Thomas at Brochthoi, and stood still there, going no farther.
+
+At that same hour an angel of the Lord appeared in a dream to
+the abbot and the steward of that venerable house, saying:
+"Rise, and take the coffin which you will find in the ship that
+is putting in at the shore before the porch, and lay it in the
+sanctuary."
+
+When this was told them, they saw all the gates of the church
+opened of themselves. But they were still dreaming, and thought
+what had happened was a fantasy, and barred the gates again —
+and he who had appeared before appeared to them again, up to
+three times pressing them with great vehemence and saying:
+"Go out and take up the coffin of the holy Olympias — for she
+endured much for God's sake — and lay it in the sanctuary."
+
+Then they rose, and saw again the gates of the church opened,
+and doubting no longer, they took the holy Gospels and a cross
+and hand-candlesticks, with candles and incense, and went out
+in procession to the porch. Finding her holy relic in the ship
+[obscured in the scan], with candles and great glorifying of
+God and thanksgiving they laid her holy relic in the sanctuary
+of the said venerable house of the holy apostle Thomas at
+Brochthoi. Many healings were to be seen taking place at her
+holy tomb — unclean spirits driven out, and many manifold
+diseases fleeing from those oppressed by them.
+
+The holy and saintly and blessed handmaid of God, Olympias,
+died on the twenty-fifth of the month of July, in the reign of
+Arcadius, the most divine and most pious emperor — numbered
+with the choir of the holy confessors, and reigning together
+through the unending ages with the immortal king, Christ our
+God.
+
+After her death, Marina — the true handmaid of God, her
+Christ-loving kinswoman and spiritual daughter, whom, as was
+said, she had received from the holy and spotless and saving
+baptism — made the love she bore that blessed soul plain to
+all. She fulfilled her bequest and all that had been charged
+upon her, and embraced and cherished and steered the whole
+company of her flock, which Olympias had commended, after God
+and our lady the all-holy Mother of God, into her hands — so
+that none of the sisters felt any lack from the parting with
+that saint. And after the holy woman's death, the aforesaid
+Elisanthia the deaconess, her kinswoman, was appointed hegumene
+of that holy flock of Christ — keeping unchanged all the rule
+she had received from that holy and blessed soul, and imitating
+all her virtues.
+
+### 13. Her alms and her ascetic life
+
+So much be said. But I judged it necessary and most useful to
+set down in this account, one by one, the holy virtues of the
+saintly and genuine handmaid of God, Olympias, for the profit
+of many. For no place, no country, no desert, no island, no
+far corner was left without a share of this famous woman's
+gifts: she supplied churches with vessels for the holy service,
+and monasteries and common houses of monks, and the poor, and
+those in prison, and those in exile — sowing, in a word, the
+whole inhabited world with her alms. And the blessed Olympias
+herself leapt up to the highest bound of almsgiving and
+lowliness of mind, beyond which nothing further could be found:
+a life without vainglory, a form without affectation, an
+unfeigned character, an unadorned face, a sleepless wakefulness,
+a body made thin as spirit, a mind that never crawled, a
+thought without arrogance, an untroubled heart, a spirit
+without meddling, a love without measure, a fellowship past
+understanding, clothing easy to despise, self-denial without
+measure, straightness of mind, hopes in God unceasing, alms
+past telling — the ornament of all the lowly. And she was
+duly honored by the most holy Patriarch John. She abstained
+from meat, and for the most part went unwashed; if need arose
+through sickness, she bore it — for her stomach troubled her
+continually — and she went down into the water in her little
+tunic, ashamed, as they say, even before herself.
+
+---
+
+### 14. She serves the bishops
+
+With many fathers, as I said, she served the most blessed John
+the archbishop, and showed herself worthy of his virtue. When
+the plot was laid against him and he was exiled, as was said
+before, the holy woman supplied his needs and those of his
+companions unceasingly — which is no small thing for Christ's
+workers, who night and day care for the things of Christ. It is
+as when Paul greets Persis, Tryphaena, and Tryphosa [Rom.
+16:12]: that same greeting the holy and God-imitating Olympias
+too, it may be, received.
+
+I know that this all-virtuous and God-breathed Olympias served
+also the blessed Nectarius, archbishop of Constantinople — who
+in church matters put great trust in her — and Amphilochius,
+bishop of Iconium, and Optimus, and Peter, and Gregory the
+brother of holy Basil, and Epiphanius, archbishop of
+Constantia in Cyprus, and many other of the holy and
+God-bearing fathers who sojourned in the imperial city. Why
+speak of those to whom she gave fields and money besides? When
+Optimus, named above, died then in Constantinople, with her
+own hands she closed his eyes, as one does for a great man.
+And besides these she refreshed the afflicted not a little in
+all things — Antiochus of Ptolemais, and Acacius the bishop of
+Beroea, and the holy Severianus the bishop of Gabala — and in a
+word she served, one by one, all the clergy who sojourned
+there, and countless ascetics and virgins.
+
+### 15. Her trials and her virtues
+
+For the sake of their sympathy with them, she drained many
+temptations to the dregs through the working of the one willing
+in evil and unpracticed in good; she fought no small fights for
+the truth of God; night and day she lived inseparably with
+boundless tears; submitting to every human ordinance for the
+Lord's sake [I Pet. 2:13], full of all reverence, bowing to the
+saints, honoring bishops, revering the presbyters, respecting
+the clergy, welcoming asceticism, cherishing virginity,
+sustaining widows, rearing orphans, shielding the aged,
+visiting the sick, mourning with sinners, guiding the strayed,
+pitying all, unsparingly tender to the poor — and she catechized
+many unbelieving women and helped them with the means of life.
+An unforgettable name for kindness she left through her whole
+life. The ten-thousand swarm of her household slaves she called
+back from slavery to freedom, and showed them equal in honor to
+her own nobility — or rather, to tell the truth, in the holy
+woman's dress they looked nobler still. For nothing could be
+found meaner than her garments: the coverings of this brave
+woman were unworthy of the very meanest. The gentleness she
+nurtured surpassed in innocence even that of little children.
+No blame was ever found in this Christ-bearer, not even toward
+her neighbors; all her unworldly life was spent in compunction
+and a constant flow of tears. One might sooner see a spring
+failing of its waters in the summer heat than see her eyes —
+ever downcast, ever beholding Christ — cease from tears. Why
+should I linger? However much leisure I give my mind in telling
+the contests of her fired soul and her virtues, words will be
+found far behind deeds. Let no one think I speak in fine
+phrases about the passionless Olympias, now wholly a precious
+vessel of the Holy Spirit — I speak as an eyewitness who beheld
+the life and angelic conduct of this blessed one, as her true
+spiritual friend and nearest kin — and many things were
+dispensed at her direction.
+
+### 16. Exhortation
+
+This divine and God-breathed Olympias, then, no longer minding
+the things of the flesh — submitting herself, obeying rulers,
+bowing to the authorities of the Church, honoring bishops and
+presbyters with reverent speech, esteeming the whole clergy —
+was counted worthy of confession for the truth, receiving many
+snowstorms of ill-timed slanders. Her life is judged among the
+confessors by all the godly who dwell in Constantinople: for
+she came within a hair of death in her struggles for God. And
+dying in these, she took up the blessed glory — crowned in the
+unending age, dancing in the undefiled dwellings with holy
+souls, dwelling forever with those like herself, and boldly
+demanding from the Master God the rewards of her good works.
+
+---
+
+### 17. A prayer for the readers
+
+Let us ask in our prayers the all-merciful and man-loving God
+to turn aside the torments of our sins, and to quench the
+Gehenna kindled by our own offenses — and to draw near in
+repentance to the compassionate God, and receive from Him the
+great mercy. The holy and blessed woman charges us who read
+and who hear, in Christ Jesus, teaching from the voice of holy
+Paul, the chief of the holy apostles: "Hold the traditions"
+[I Cor. 11:2]; "and see how you walk, not as unwise but as
+wise, buying up the time, for the days are evil" [Eph.
+5:15–16]; "for our wrestling is not against blood and flesh,
+but against the principalities, against the powers, against
+the world-rulers of the darkness of this age, against the
+spiritual hosts of wickedness in the heavenly places" [Eph.
+6:12] — that is, he speaks not of men only, but of the unclean
+spirits that exceedingly press in upon each of the erring and
+undermine the unstable. "Therefore take up the panoply of God"
+[Eph. 6:13] — that is, chastity in body and in spirit,
+lowliness of mind, meekness, self-denial. "Let no one render
+evil for evil to anyone" [I Thess. 5:15]; but if you see your
+brother stumbling in anything, or about to be bruised by the
+devil, do not pass him by in silence and let him fall — but,
+as the divine Scripture teaches us, "reprove, rebuke, exhort"
+[II Tim. 4:2], "watching yourself, lest you also be tempted"
+[Gal. 6:1]. Let no one deceive you, then, with persuasive
+flattery of empty and vain words; but live honorably toward
+all, and most of all "toward those of the household of faith"
+[Gal. 6:10]. Consider this too: if a woman joined to a fleeting
+and corruptible husband is found being corrupted by another,
+she is subjected to punishments and penalties and banishments
+— how much more shall he who was betrothed to our Master and
+Lord Jesus Christ, and left Him, and clung to this fleeting
+and vain life, be counted worthy of worse punishments? But may
+the Lord make us blameless and spotless before Him in love, by
+the prayers of our holy glorious lady, the Mother of God and
+ever-virgin Mary, and of the holy Olympias — giving, to those
+who read and those who hear with their whole soul, grace and
+mercy in the day of defense, and delivering one and all from
+the working of the devil.
+
+### 18. The writer's request
+
+I too, the sinner who also wrote this, ask you and adjure you,
+by the man-loving God the Almighty, and by our Lord Jesus
+Christ, and by the Holy Spirit — you who read in peace, and
+you who hear in good hope — pray that forgiveness of sins and
+a good defense be granted to my poor soul, and to all who read,
+by the man-loving Saviour, our true and living God, Jesus
+Christ. For to Him belongs glory, honor, and worship, with the
+Father and the Holy Spirit, now and ever and to the ages of
+ages. Amen.
+
+*Here ends the Life of the holy Olympias the deaconess.*
+
+---
+
+---
+
+## SERGIA'S ACCOUNT OF THE RETURN OF HER RELICS
+
+*The Account of the holy and most God-loving abbess Sergia
+concerning the holy Olympias. Bless, father.*
+
+### 1. Why she writes
+
+Though we have come to know in small part — the godly and
+virtuous asceticism and conduct of the holy Olympias being sure
+through what was set forth before — yet I, the sinner Sergia, to
+whom by God's allowance the governance, that is the abbacy, of
+this venerable monastery has been entrusted, wish to hand down
+a few things of what I received from my holy mothers and
+teachers who have fallen asleep before me, to those who after
+me shall succeed to the governance of the monastery. I thought
+it good, then, to put this too into the present book, for the
+safety and profit of our souls — and so that all, men and
+women, may know the removal that came about through sins, and
+the restoration again through God's grace in this present
+monastery.
+
+### 2. The Nika fire; the sisters at St. Menas
+
+Let it be plain to all, then, that the foundation and the
+monastery built by the holy and memorable Olympias — and with
+it that godly and unceasing and virtuous rule of hers — held
+unbroken until the Nika riot that happened in the reign of the
+saintly Justinian. But when, through sins, the burning came
+about at the Nika, as was said, and the Great Church was
+burned, then the said monastery of the holy Olympias, lying
+next to it, was burned with it; and all things went to ruin
+together in that burning. Under that necessity and the violent
+calamity, all the souls dwelling in her said monastery fled
+with nothing, and went to St. Menas, and lived there six years
+— because near St. Menas lay the house called "of the Mangana"
+and its bakery, and from this they had a little comfort for
+their need — the same house belonging to this day to the
+oft-mentioned monastery of the holy Olympias.
+
+After that burning, the holy and all-venerable Great Church
+was built by the saintly Justinian. Likewise the now-surviving
+monastery of the holy Olympias — which to this day, as you all
+know, is called "Olympias's" after her holy name, as if from
+above and from the beginning the holy Olympias herself had
+become the founder and establishment and salvation of her said
+monastery and of the souls in it. And to this day she does not
+cease, awfully, through her wondrous visions, to visit and care
+for and shelter and preside over in all things her own
+monastery and the souls in it, as was said — as will be shown
+in what follows, through her vision speaking in her own words:
+"I am with you all the days of your life." [Matth. 28:20]
+
+### 3. Justinian rebuilds; the dedication at Christmas
+
+After the said monastery was built by the saintly Justinian, he
+restored all those souls again from St. Menas to their own
+monastery — granting to the monastery three ounces of water
+daily, and civic loaves, and precious furnishings — for the
+burning, as was said, had consumed the first things with
+everything else. The saintly Justinian held the dedication of
+the Great Church on the eve of the holy and all-glorious
+Nativity of our Lord and Saviour Jesus Christ; and on the next
+day — that is, on the all-venerable feast itself of Christ's
+holy Nativity — he held the dedication of the monastery of the
+holy and righteous Olympias, which survives to this day,
+granting it, as was said, the three daily ounces of water, and
+the rest.
+
+### 4. The Persians burn St. Thomas's; the relics on the waters
+
+Some years after I, the sinner and unworthy Sergia, had
+succeeded by God's allowance to the abbacy of that monastery,
+the godless Persians made their raid, and the monastery of St.
+Thomas across the water at Brochthoi was burned — where, as was
+shown before, the precious and venerable relic of the holy
+Olympias was kept — so that the coffin itself and her holy
+relics were carried about upon the waters. I judged it fitting,
+for the profit and stirring of many souls — especially of those
+devoted to God — to make this too plain in the present book.
+
+---
+
+### 5. Sergia gathers the relics from the waters
+
+When I, the sinner and unworthy Sergia, learned that through
+sins the said monastery of St. Thomas had been burned, I fell
+into great despondency. Crossing over with great haste, I
+gathered her holy relics, soaked through with the waters — and
+the waters where they floated, believe me, were filled with
+blood — so that I was struck with wonder, and glorified the
+man-loving God who gives grace to His saints and works wonders
+through them in life and after their falling asleep — who also
+glorifies those who glorify Him, as the divine Scripture says
+[I Kings 2:30] — so that in this holy and blessed woman was
+fulfilled the thirty-third psalm, which says through the holy
+prophet and hymn-writer David: "The Lord keeps all their bones;
+not one of them shall be broken" [Ps. 33:21]. So I, the sinner
+Sergia, as was said, took and gathered them all with fear and
+great carefulness — held at the same time by boundless joy —
+and brought them to her lowly monastery.
+
+### 6. Olympias appears to a sister in a dream
+
+So greatly did the grace of the saint consent to dwell with us,
+her sinful and unworthy servants — impressing in this, as it
+were, the stamp of her life and converse in the flesh — that
+while I, the sinner Sergia, was there across the water at
+Brochthoi, as was said, to gather and bring back her precious
+and holy relics, in that very night she appeared within the
+monastery in a dream to one of the sisters, saying to her:
+"Behold, after so many years I have come to dwell with you, and
+I will not leave you henceforth." When I returned from across
+the water with her holy relics and learned this, I glorified
+the man-loving God still more — who, as was said, alone works
+great wonders through His saints, for the salvation of our
+sinful souls, and for the stirring of our sluggishness.
+
+### 7. Patriarch Sergius sends John; the relics bleed at the anointing
+
+Straightway, then, I reported to our most holy and most blessed
+ecumenical Patriarch Sergius, that her precious relic should be
+laid in her lowly monastery. And he sent John the presbyter,
+surnamed "of the bakers," with other most reverent clergy, to
+perform the laying. Believe me, then — me, the wretched and
+sinful Sergia — that I say nothing outside the truth; only I
+cannot tell the virtues of the holy and blessed woman as they
+deserve. But when the said papa John the presbyter came to
+anoint her holy relics in the basin of the holy baptism, in the
+presence of the said lords and the most reverent clergy and all
+of us sinful nuns, her holy relics gushed forth before them all
+so much blood that the hands of papa John himself were filled;
+and he touched his hands to his own face for faith and
+sanctification, and his face too was filled with blood. And the
+linens were filled besides, in which her holy relics were
+wrapped. Nor was this all: one of the most reverent clergy
+standing by, receiving those same holy and all-venerable relics
+from the hands of papa John in that anointing — from the
+abundance of the precious blood his hands too became full of
+blood, and his face likewise, for he too rubbed his hands on
+his own face for sanctification. At all this, fear and trembling
+and amazement, so great and of such a kind, seized all, small
+and great, that all said with weeping: "Never have we beheld
+such wondrous marvels."
+
+### 8. The healings; the demons' testimony
+
+But of the wondrous and memorable healings that took place at
+the laying of her holy relics, there is no need to pass this
+over either without marking it — lest we be called to account
+as having written the virtues of the saint carelessly. For you
+who have the divine love and light upon this book do not ignore
+what profit and stirring it puts into God's contenders and
+God-lovers among you, to read the memories and virtues of
+saints — especially of those who passed the whole time of their
+life in asceticism and affliction and patience, and reached the
+calm harbor of unfailing salvation. What concerns the godly and
+virtuous asceticism and conduct and patience of this holy
+Olympias has already been set forth to you above, as you know;
+but now it is needful and most profitable to take up the word
+again and make plain to you a few of the healings worked by the
+precious relics of the ever-memorable and blessed woman. But,
+for the Lord's sake, all you who light upon this present book,
+receive with all assurance what is written by me, the sinner
+Sergia; and let no one think I have marked down anything
+outside the truth and what is fitting — for this too tends to
+the profit of your souls. For as you know, our Lord Jesus
+Christ says to the holy apostle Thomas, when he disbelieved:
+"Be believing, and not unbelieving" [John 20:27]; and elsewhere
+again: "Blessed are those who have not seen, and have believed"
+[John 20:29]. I say this because the holy and precious relics of
+this holy and virtuous Olympias healed very many, men and
+women, of unclean demons and other diseases. Those healed of
+the unclean spirits had kept them hidden for many years — as
+the unclean spirits themselves cried out, going forth and being
+driven: "So many years have we lain hidden in men, and no one
+exposed us — until now, when this wicked old woman did." One
+demon she drew up from the very ankles of the woman and cast
+out, after nine years.
+
+---
+
+### 9. More healings, to this day
+
+Why speak one by one of the healings and wonder-workings of
+this godly and virtuous Olympias? For I know well that if I
+wished to write her virtues in detail, time would wholly fail
+me in the telling; and I fear lest, with the multitude of
+things said, I weary the God-loving hearers and those who light
+upon this present book. To speak simply: many other healings
+took place as her holy relics were laid. And to this day we see
+them wrought upon many men and women and children — through
+her manifest and wondrous visions and overshadowings, and
+through her holy relics, as was said — she granting, to those
+who come to her with all their soul and unfeigned faith,
+release from afflictions together with healing of pains.
+
+### 10. Glory to God for His saints
+
+For all this, then, we must glorify the man-loving and merciful
+God, who gives grace to His saints — especially to those who
+through much affliction and patience walked the strait and
+narrow way that leads to life. For as you know, the divine
+Scripture says: "Strait and narrow is the way that leads to
+life, and few are those who enter by it" [Matth. 7:14]. So much
+for this; and of His giving grace to His saints and to all who
+fear Him, our holy and righteous forefather David the prophet
+says thus in his songs: "The Lord is near to all who call upon
+Him in truth; He will do the will of those who fear Him, and He
+will hear their supplication and save them" [Ps. 144:18–19].
+
+### 11. Her charge to the sisters
+
+You, then, my little children and sisters, I, the wretched and
+sinful Sergia — called by God's allowance your mother —
+beseech, by the mercies of God: knowing what a holy and saintly
+and blessed woman's children and servants you are called, so
+strive in all things for the Lord's sake, and imitate to your
+power her godly conduct in ways and in asceticism and in
+patience — so that through her holy prayers you may be counted
+worthy, without condemnation and without shame, with unveiled
+face [II Cor. 3:18] — all of you, and those who by God's
+command after my death shall join you and contend with you in
+the angelic and God-pleasing conduct — unceasingly, all, small
+and great, bearing your lamps filled with oil [Matth. 25:7] —
+to stand before His fearful and dread tribunal, and to be
+numbered with those blessed and wise virgins.
+
+### 12. Pray for me
+
+I beseech all of you, for the Lord's sake, to pray earnestly
+also for me, the sinful and pitiable Sergia, your mother by
+God's allowance — that the compassionate God may overlook the
+multitude of my grievous sins, and count me worthy of mercy,
+and give me strength — so that I too, having contended with you
+to my power and lived well in love toward mankind, when it
+pleases His goodness, may slip out of this human life and have
+boldness in His heavenly and eternal kingdom, numbered with the
+holy and righteous souls who pleased Him, together with all of
+you — so that I may say to Him: "Behold, I and the children
+whom Thou hast given me, Lord."
+
+### 13. Keep the commandments; the two warnings
+
+Yes, my blessed ladies and sisters, hear me beseeching you: let
+us fear God from our soul and love Him, keeping in all things,
+with earnestness and readiness and much care and wakefulness,
+with much lowliness of mind and a contrite heart, with unroving
+and downcast eye, His righteous and good commandments. For as
+you know, no small condemnation lies upon those who serve Him
+with contempt and carelessness — and above all upon us, who
+have renounced the world and all its cares, and pledged
+ourselves to serve Him alone, the man-loving God, and to cleave
+to Him always, together with our all-holy and blessed and
+spotless lady, the Mother of God, who bore Him without seed,
+and with all His saints. Let us love one another sincerely from
+the heart, honor one another, and submit to one another for the
+Lord's sake; and, to speak simply, let us bear one another's
+burdens, and so fulfill the law of Christ [Gal. 6:2]. For as you
+all know, for this we left the world, as was said, and all
+things in it, and promised to bear His good and light yoke
+[Matth. 11:30] — so that through small affliction, and the
+contending and patience amid the terrors that, as is likely,
+come upon us, we may all be counted worthy, unceasingly, pure
+and clean in soul and in body, having no spot or wrinkle at all,
+at any time, nor our conscience condemning us in anything
+[Ephes. 5:27] — bearing, as was said, our lamps bright and
+unquenched, to meet our Bridegroom Jesus Christ, and with Him,
+clothed in white and spotless robes, to enter into the
+marriage-feast of the kingdom of heaven, and to be counted
+worthy to hear that blessed voice crying: "Come, you blessed of
+My Father, inherit the kingdom prepared for you from the
+foundation of the world" [Matth. 25:34]. And may we never hear:
+"How did you come in here, not having a wedding garment?"
+[Matth. 22:12] Nor may we hear that other: "Depart from Me; I
+do not know who you are" [Matth. 25:12] — but, passing without
+hindrance and without obstacle by all the opposing and adverse
+powers, may we be counted worthy to encamp in the eternal
+tents, and to be in enjoyment, with all His righteous, of His
+eternal good things, by the prayers of the saints. Amen.
+
+---
+
+### 14. Trust in her prayers
+
+For I believe my Christ, that through the prayers of the
+handmaid of God, the holy Olympias — our lady and mother, who
+after the compassionate and merciful God became the salvation
+and establishment and succor of us all (and becomes it to this
+day, as you all know) — through her unceasing converse and
+protection and stirring of our sluggishness, we shall be counted
+worthy to obtain the good things He promised to all who pleased
+Him — we, as was said, waking to our power out of the sleep of
+laziness that holds us, and keeping the rule handed down to us
+with all readiness, unwounded and undiminished. For in all
+these God is well pleased. [Rom. 13:11]
+
+### 15. Forgive me
+
+But if I, the sinner, your mother Sergia, ever in anything
+grieved you — whether by word or by manner or by deed — for the
+Lord's sake forgive me. For you know what care and affliction
+those who preside have, and how they are constrained, as those
+who shall give account, if they neglect anything of the flock,
+or overlook anything that tends to the establishment and
+salvation of those under them. And when it goes well, we ought
+not to grieve. But since we are all weak, may God have mercy on
+us all. Pray, then, for me, for the Lord's sake, that I may be
+counted worthy, together with you, to stand without
+condemnation before His fearful and dread tribunal.
+
+### 16. Her promise
+
+And I, the sinner, making bold, say to you: if I find boldness
+there, I will not cease importuning the merciful and
+compassionate God — that He shelter and steer you all, both in
+this present life, and after your departure hence count you
+worthy of His heavenly and immortal kingdom, and number you
+together with me, your mother by God's allowance — so that
+then, as was said before, I may say to Him: "Behold, I and the
+children whom Thou hast given me, Lord." Amen. So be it, in
+Christ Jesus our Lord, to whom be glory and might to the ages
+of ages. Amen.
+
+*Here ends the Account of Sergia concerning the holy Olympias.*
+
+---
+
+## Note on the Greek texts
+
+The *Life* is printed from several manuscripts (sigla P, F, E in
+the apparatus) in *Analecta Bollandiana* 15 (1896), pp. 400–423.
+The Internet Archive OCR of vol. 15 gives clean Greek with only
+light noise — *k* for *kh*, *o* for *s*, and the like — which the
+translation reads through. The print carries Latin marginal
+summaries and Scripture references; the references are kept
+where they stand. Its Latin critical apparatus and its long
+Latin footnotes are the editor's, not the text's, and are not
+translated here.
+
+Sergia's *Account* is printed in *Analecta Bollandiana* 16
+(1897), pp. 43–62. The Archive's OCR of vol. 16 renders the
+Greek type in Latin lookalike characters and cannot be read as
+it stands; the Greek was therefore re-read from the page images
+themselves (journal pp. 43–62, scan leaves 47–66), with a fresh
+Greek OCR checked by eye against the printed page at every
+difficult spot. A handful of readings stay uncertain and are
+flagged in the English: the *silignarion* named among Olympias's
+gifts (a word the dictionaries do not know), the name of her
+second city house (lost in the scan), one clause at the finding
+of the relics in the ship at Brochthoi, and two nonstandard
+forms in Sergia (*klētoreuesthe*, *arembastō* — given as the
+codex has them). The print's own chapter numbers are kept; the
+OCR's misreadings of them (13 as 18, 10 as 40, 16 as 17) are
+corrected silently. The succession of Marina and Elisanthia at
+the end of the *Life*'s chapter 12 is confused in the source
+itself; it is translated as printed.
+
+---
+
+**A note on primacy.** No freely available complete English found
+after research (Elizabeth A. Clark, 1979, in copyright,
+check-only).
+
+**Rights.** Public domain source text; modern edition (c) editor,
+free redistribution.
+
+---
