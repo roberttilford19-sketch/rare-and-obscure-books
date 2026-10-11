@@ -2,7 +2,7 @@ HUMAN PERSONALITY AND ITS SURVIVAL OF BODILY DEATH
 
 by Frederic W. H. Myers (1843-1901)
 
-Basis: Clean reading edition of Frederic W. H. Myers's Human Personality and Its Survival of Bodily Death, complete in two volumes as first published (London: Longmans, Green, and Co., 1903; Internet Archive humanpersonality01myer and humanpersonality02myeruoft); spelling and wording original; running headers, page numbers and scanner noise removed; the Index is not reproduced in this reading edition.
+Basis: Reading edition of Frederic W. H. Myers's Human Personality and Its Survival of Bodily Death, complete in two volumes (London: Longmans, Green, and Co.; Internet Archive humanpersonality01myer [March/June 1903 reprint] and humanpersonality02myeruoft [March 1903 reprint]; the first edition was February 1903); spelling and wording follow the scans; OCR errors corrected where identified, others may remain — see the repair log; a duplicated syllabus section and running headers have been removed; the Index is not reproduced in this reading edition.
 
 Reader note: A one-volume abridgement of this work appeared in 1907 (Internet Archive humanpersonality00myer). This edition is not that abridgement: it is the complete two-volume 1903 text, syllabuses, glossary and the full appendix case reports included, as Myers's editors issued it after his death.
 
@@ -217,7 +217,7 @@ Illusion. —The misinterpretation of some object actually present to sight, hea
 
 Imaginal. — A word used of characteristics belonging to the perfect insect or imago J — and thus opposed to larval; — metaphorically applied to transcendental faculties shown in rudiment in ordinary life.
 
-Induced. — Of phantasms, &c., intentionally pi^oduced.
+Induced. — Of phantasms, &c., intentionally produced.
 
 Levitation. — A raising of objects from the ground by supposed supernormal means: especially of living persons; asserted in the case of St. Joseph of Copertino, and many other saints; of D. D. Home, and of W. Stainton Moses.
 
@@ -233,7 +233,7 @@ Metastasis. — Change of the seat of a bodily function from one place {e.g. a b
 
 *Metetherial. — That which appears to lie after or beyond the ether; the metetherial environment denotes the spiritual or transcendental world in which the soul exists.
 
-*Methectic. — Of communications between one stratum of a man's intelligence and another; as when he writes messages whose origin is in his own subliminal self. Some word is needed to express this novel conception; and Plato's use of the word fiede^is, participation (Farm. 132 D), suggests methectic as the most appropriate term of Greek origin.
+*Methectic. — Of communications between one stratum of a man's intelligence and another; as when he writes messages whose origin is in his own subliminal self. Some word is needed to express this novel conception; and Plato's use of the word methexis, participation (Farm. 132 D), suggests methectic as the most appropriate term of Greek origin.
 
 Mirror-writing {ecriture renversee, Spiegel-schriff) . Writing so inverted, or, more exactly, perverted^ as to resemble writing reflected in a mirror, or blotted off on to a sheet of blotting paper. This form of writing is natural to some left-handed persons. It also frequently appears in automatic script.
 
@@ -717,7 +717,7 @@ Analysing, in the next place, the main achievements of hypnotism, I find that th
 
 505. Mesmer showed broadly that a profound nervous change, often therapeutic, would often follow upon an obscure stimulus which he regarded as a specific efiluence passing from hypnotiser to subject.
 
-506. De Puys^gur developed this nervous change into its most important phase, namely, induced somnambulism, and in this phase obtained indications of supernormal faculty.
+506. De Puységur developed this nervous change into its most important phase, namely, induced somnambulism, and in this phase obtained indications of supernormal faculty.
 
 507. EUiotson and Esdaile, using mesmeric passes, effected remarkable cures, with deep anaesthesia under surgical operations.
 
@@ -849,7 +849,7 @@ we try to follow in education; — proceeding from external senses to internal s
 
 567. This evidence shows us that the supernormal powers which we have traced in each of the preceding chapters in turn present themselves in much the same fashion in spontaneous sleep-waking states also. We must now return to hypnotism, and ask whether these powers are also manifest in sleepwaking states experimentally induced.
 
-568. And first, as to the supernormal induction of hypnotic states. Can hypnosis be telepathically produced from a distance ? Experiments of : 568 A. Janet and Gibert. 568 B. H^ricourt. 568C. Dusart. 568D. Dufay. 568 E. Other cases.
+568. And first, as to the supernormal induction of hypnotic states. Can hypnosis be telepathically produced from a distance ? Experiments of : 568 A. Janet and Gibert. 568 B. Héricourt. 568C. Dusart. 568D. Dufay. 568 E. Other cases.
 
 569. If, then, a supernormal influence is exercised from a distance, it may presumably be exercised from close at hand, and we may thus be better able to analyse its true nature. Experiments in the telepathic production of local organic effects and in siletit willittg in proximity. 569 A. Experiments in the production of local anaesthesia by Gurney. 569 B. The same, by Mrs. Sidgwick. 569 C. Experiments in silent willing by Barrett, H. S. Thompson, &c.
 
