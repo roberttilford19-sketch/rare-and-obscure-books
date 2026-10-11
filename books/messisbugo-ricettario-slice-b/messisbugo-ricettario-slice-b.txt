@@ -1,0 +1,4112 @@
+# The Recipe Book — Slice B: Fish, Meats, Sauces, Soups, and Tarts
+
+**from Cristoforo di Messisbugo's *Banchetti* (Ferrara, 1549)**
+A fresh English rendering, plain and complete
+
+---
+
+**A fresh translation, not a reprint.** This slice of Cristoforo di
+Messisbugo's *Banchetti, compositioni di vivande e apparecchio
+generale* — the great middle of the recipe book: pies (*pastelli*)
+of eels and fish and calves' heads, great fish dressed in wine and
+in salt, fish sausages and the aspics called *gelatine* in their
+white, turbid, and clear forms, *tomaselle*, white *cervellati*,
+stuffed veal breast, verjuices and larded broth, *camellino*,
+soups and soups for ten dishes (*cibibo*, lentils in savor,
+*carabazada*, Turkish rice, *genestrata*, grape soup, meat soup,
+egg soup, stuffed cabbages, lettuce, rice, tripe), the white dishes
+and the yellow, *capirotta*, golden soup, fish tarts and
+crayfish-tail tarts, lean fried cakes and puff-pastes, tortelli
+and fritters, the meat tart, squash tart, wheat tarts, the mad
+tart, bread tart, German tarts and tartlets, white *migliaccio*,
+flower fritters, rich ravioli, the closing pies — of the sea, of
+quinces, the beaten one — lasagne, *pastelletti*, macaroni — is here
+rendered whole into plain English, recipe by recipe, in order,
+translated sentence by sentence from the Italian of the 1549
+Ferrara edition.
+
+Original: Italian cookbook, Ferrara, 1549 (posthumous). Basis for
+this rendering: the Google-digitized copy of the 1549 edition as
+served by the Internet Archive, identifier
+`bub_gb_9yA8AAAAcAAJ` (OCR text `..._djvu.txt`, 11,602 lines, read
+2026-10-11) — slice: the great middle, OCR lines 1984–6871.
+
+**How it is presented:** Messisbugo's Italian in clear modern
+English, plain enough for a humble cook to follow. Where the
+four-hundred-seventy-year-old print and the OCR defeat a certain
+reading, the English says what can be said and marks the rest —
+[obscured in the scan] — rather than inventing it. A short preface
+explains the conventions, a note describes the state of the
+Italian text, and a glossary gathers the book's measures and
+pantry words.
+
+**Reader note:** This is a working steward's book from the Este
+court at Ferrara: how to dress a great fish in wine with its
+*persutti* of fish, how to salt a pike whole German-style, how to
+set an aspic clear or turbid, how to stuff a breast of veal, how
+to feed ten dishes of soup from one pot, how to build a tart of
+two sheets of paste on nothing but flour and rose water. Nothing
+in it is praised or modernized — it is presented as Messisbugo
+made it, for the reader to judge. Cooks should note that this is
+a historical record, not a modern kitchen manual: measures are
+old, and some methods belong to their century.
+
+The Rare & Obscure Books series — the Boneyard
+
+---
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial
+direction of Robert Tilford. It is a fresh English rendering made from
+the Italian text of the 1549 edition. It has not yet had the final checks
+required before any public use.
+
+---
+
+## Dedication
+
+**Cristoforo di Messisbugo (d. 1548)** — who he was: steward
+(*scalco*) of the House of Este at Ferrara, and a cook of the
+Italian Renaissance. The verifiable record (Wikipedia, "Cristoforo
+di Messisbugo") gives it plain: from 1524 to 1548 he served at the
+courts of Alfonso I d'Este and his son Ercole II at Ferrara, where
+he ordered many lavish banquets; greatly esteemed as a master of
+ceremonies, he was made count palatine on 20 January 1533 by the
+Holy Roman Emperor Charles V.
+
+The circumstances of his death: he died in 1548, and his book —
+*Banchetti, compositioni di vivande e apparecchio generale* — was
+published posthumously at Ferrara in 1549. He is buried in the
+church of the monastery of Sant'Antonio in Polesine.
+
+Why his work is vital — proved, not praised: the record gives two
+hard facts. First, the known reference in Italy to the
+preparation of Beluga sturgeon caviar — from the Po, where the
+great sturgeon abounded in his century — is in Messisbugo's books:
+he described serving it and preserving it. Second, the *Banchetti*
+is a cookbook of early modern cookery in Italy (Goodreads'
+redaction of the 2023 Kindle selection), addressed to those who
+prepare princely feasts, giving not only the 323 recipes but the
+menus of his official Este banquets, and treating logistics,
+decor, and kitchen equipment besides. Some of the dishes he
+described survive today in the Ferrara country. A master who wrote
+down how a Renaissance court actually ate — and whose caviar
+passage stands in his country's record — needs no praise; the
+facts are the monument.
+
+Its relation to this rescue: the Boneyard rescues the working
+knowledge of dead masters, and a master cook's working knowledge
+is among the most perishable of all — it dies with the kitchen.
+The series sets out to give the master himself back his voice,
+recipe by recipe, in plain English a working cook can read. This
+slice — fish, meats, sausages, sauces, soups, and tarts, the great
+middle of the recipe book — is the second serving.
+
+Where a reader goes next: the 1549 Ferrara edition itself, in the
+Internet Archive's digitization (identifier `bub_gb_9yA8AAAAcAAJ`)
+— the source of this rendering; the Wikipedia article "Cristoforo
+di Messisbugo" for the life in brief; and Charles A. Potter's 2023
+Kindle selection, *Cooking Renaissance Italian Food: 51 Redacted
+Recipes from the 1549 Banchetti*, for a modern cook's redaction of
+51 of the 323 recipes.
+
+---
+
+## How to read this book
+
+Messisbugo writes for a steward's kitchen. His words are kept in
+Italian in parentheses at first use:
+
+- *libbra* — the pound (about 12 ounces in Ferrara's measure);
+  *oncia* — the ounce; *meza* — half.
+- *pignatta, tiella, orna* — pot, shallow pan, big earthenware jar.
+- *testo* — the domed cover set over a pan with coals on top: the
+  period's oven-lid.
+- *buttiero* — butter; *zucchero* — sugar; *mele* — honey (not
+  apples); *sabba/saba* — boiled grape must; *agrefto* — verjuice,
+  the sour juice of unripe grapes; *acqua rosata* — rose water.
+- *da grasso / da magro* — "of fat" / "of lean": feast-day food
+  (meat, butter, eggs) and fast-day food (fish, oil, vegetables).
+- *imbandire* — to dish up, to set on the board.
+
+Bracketed notes in the form [Editor's note] are the editor's, not
+Messisbugo's. Where the scan defeats the reading, the English
+marks it [obscured in the scan] rather than guessing.
+
+## Note on the Italian text
+
+The source is the raw OCR of a 1549 printing, and it shows its age:
+the long *s* prints as *f*, *u* and *v* interchange, and the
+digitization mangles letters throughout (*zucchero* as *Zuccharo*,
+*pevere* as *Peuere*). The translation was made by reading through
+the noise to the Italian beneath; uncertain readings are flagged,
+never smoothed over. The slice runs from the fish pies through
+the tarts to the macaroni; no table is given in this portion of
+the book, only the recipes in order. Two cautioned duplicate-scan
+blocks (lines ~1555–1983 and ~6872–7283) fall outside this slice
+and were left untranslated on the brief's order; this slice is
+translated once, straight through, as found.
+
+---
+
+## The recipes
+
+### [An eel pie with royal paste — the opening recipe]
+
+[The slice opens mid-recipe; what survives is the latter half.]
+First make a sheet of royal paste (*pasta reale*), as is that of
+the *fiadoncelli*. You shall take the eels, unscored, and purge
+them in clear water; then cut away the head and the tail, and take
+out the entrails first, then cut them in morsels a finger [long —
+obscured] more or less, as you please; and then lay them one by
+one upon the sheet — which must have its body [thickness —
+understood] — and, with a little cinnamon and salt, and
+anointing the paste well with butter, give it two turns, as is
+done for the *fiadoncelli*; and close it at the ends. Then put it
+in a *tiella* and cook it in the oven, or under the *testo*; and
+you may put two or three per little dish.
+
+[Editor's note — in plain words: The tail end of a pie: a sheet of
+royal paste, unscored eels purged in clear water, cut in
+finger-long morsels, laid out on the paste with cinnamon and salt,
+the paste buttered and folded twice like the *fiadoncelli*,
+baked in a pan in the oven or under the lid — two or three to a
+little dish.]
+
+### [A pie of artichokes — the title obscured in the scan]
+
+[The title survives only as a garble — *castello di carchiofoli,
+o ru...*; the recipe begins here.] First make the case of the pie
+of the [same (?)] measure for making the *grostoli* of lean days
+[obscured]; then put in good oil, and some pieces of smoked
+*meggia* (grey mullet — as printed), a little pepper inside; then
+put on top the artichokes, adding on top of them a little oil,
+pepper, and some pieces of the aforesaid smoked *meggia*, or
+*bottarga* (cured fish roe) cut small. Then have some eggs of
+*luccio* (pike), or of *tenca* (tench), with two ounces of sugar,
+and juice of oranges, or *agresto*; beat them well, and mix them
+well together, passing them through the sieve with little salt —
+until it is a little more than half a goblet of the composition;
+and put it in the said pie, putting its cover on top of it, and
+cook it.
+
+[Editor's note — in plain words: A lean pie with smoked mullet or
+bottarga and artichokes, flooded with a sauce of fish-eggs beaten
+with sugar and orange juice, covered, and baked.]
+
+### Another lean *potaccio* [stew-pot]
+
+Take the same [measure (?) — obscured] and take your fish
+[boned (?) — obscured], skinned and cut in pieces, and fry it in
+oil; then take a little *agresto*, a little *sabba*, and a little
+water, and let it boil — and when it is nearly cooked, put in
+spices as above; but mind that it wants to be [with] little broth.
+
+### To make an eel pie (*pastello d'anguilla*)
+
+First take your case, round, of the measure aforesaid; then take a
+large eel, more or less according as you please — cut out the
+entrails, [take (?)] out the liver, and cut away its head; then
+cut it in morsels, but not piercing it all the way through on one
+side; then return the liver where you took it out; and make it
+into a roll — but first wrap it in good spices, salt; and put it
+in the case with butter, and few spices, and the juice of two
+oranges, and a little *agresto*. And when it is the time of the
+[crisped (?)] sour cherries (*marasche*), or unripe *agresto* in
+grain, or [soft (?) — obscured] cherries, you may put in some —
+now of one, now of the other; and then close its lid and put it
+to cook in the oven.
+
+[Editor's note — in plain words: A whole eel, slit but not cut
+through, stuffed back with its own liver, rolled in spices and
+salt, baked in its pie case with butter, orange juice, verjuice —
+and, in season, sour cherries or unripe grapes for company.]
+
+### To make an eel pie, or of other fish, in another manner
+
+Take the eels, and score them, and remove the slime; put them on
+the spit — and when they are half cooked, have your case made
+round, and put them inside. Then take peeled almonds, pound them,
+and temper them with *agresto* and a little water, crushed
+cinnamon, well-washed raisins, and sugar, and a little saffron;
+incorporate everything well together, and put the said savor
+[understood: on top — the sentence breaks off in the scan].
+
+### To make a fish *potaccio* in the Hungarian fashion (*all'ongharescha*)
+
+Take onions cut small; put them in a well-[greased (?) — obscured]
+pot with good oil; put the fish inside; fry it well; then put in
+white wine [and, if it were sweet, it were better], water, white
+vinegar; and then put it to the fire. As it boils, skim it very
+well; then have clean raisins, honey, and a little cinnamon,
+pepper, enough saffron to give it color — then boil it until
+four [times?]; [take] sweet apples, cut small; then have the
+crumb of two loaves soaked in broth; pass it through the sieve;
+throw it inside; let it cook so, gently; and then dish it.
+
+[Editor's note — in plain words: Fish fried with onions, then
+boiled in sweet white wine, water, and white vinegar; skimmed;
+sweetened with raisins, honey, and apples; thickened with
+bread-crumb passed through the sieve; colored with saffron —
+dished slow.]
+
+### To make a *potaccio* of *varolo*, *meggia*, turbot — others for a great fish
+
+[The title lists fishes: *varolo* (sea bass?), grey mullet
+(*meggia*), turbot; then adds others fit for a great fish.] Take
+your fish, boned and cut as it seems good to you, washed as you
+shall have it; then take onions, and leeks, pounded small
+together, and put them in a pot with oil, and fry them very well;
+then put in also the fish to fry; then put in sharp vinegar and
+water inside, as much of one as of the other; let it boil. When
+it is nearly cooked, put in mixed spices according as it seems to
+you needful for the taste, a little saffron to give it color.
+
+[Editor's note — in plain words: The fish — sea bass, mullet,
+turbot, or any great fish — fried with pounded onions and leeks,
+then boiled in vinegar and water with spices and saffron to the
+color.]
+
+### [Tail of the preceding great-fish recipe]
+
+...oil, and when it is fried, you shall cut away the [obscured],
+and dish it, putting on top [obscured] oranges, or vinegar, or
+*cisame* [obscured], or *camelino*, or *galatina*, or other as you
+please for variety.
+
+### To make a great fish, [title obscured — another manner]
+
+Take your boned fish, cut as you please; then have [a quantity of
+obscured] small fishes, and fry them lightly with oil; then put
+the fish inside with raisins, sweet white wine, a little strong
+white vinegar, and let it boil; and when it is as if cooked, put
+in spices as above in the other [recipe].
+
+### Another fish in salt
+
+Take a large live pike, and put it whole in salt without gutting
+it, and leave it so a night and a day; then take it out, and put
+it in smoke, and leave it so for two days; then wash it, thus
+coarsely, without scaling it in pieces; and then cook it in wine,
+with vinegar and pepper, as is said above, in the German fashion.
+
+### Fish in the manner called *capucciollo*
+
+In the great variety of fishes I find that the grey mullet
+(*meggia*), the old sea-bream (*orata*), the dentex, the perch,
+and the grayling are good cooked in this manner, which is called
+*capucciollo*. You shall take one of the aforesaid fishes, and
+split it along the back, and take out the entrails, and put it to
+soak in vinegar, wine, and salt, and powder of coriander seed, or
+of pounded fennel; and let it stand in the said vinegar and wine
+for three or four hours, and no more; then give it a washing, and
+flour it lightly, and put it on the spit, and put it to cook,
+turning the spit sometimes, now on one side, now on the other,
+from when you put it on the spit to when it is handled. And when
+it is cooked, take shelled walnuts, hard egg yolks, a little
+honey, sugar, and parsley, and mint, and pound everything
+together, tempering everything with *agresto*; pass it through the
+sieve, and put it to boil in a *pignatta* until it thickens a
+little. And then, when you have dished the said fish opened, put
+the said savor on top; and if you will not [bear] the expense of
+this savor, put vinegar and parsley.
+
+[Editor's note — in plain words: The master's ranking of fishes
+for spit-roasting in vinegar-wine — mullet, old bream, dentex,
+perch, grayling — soaked four hours, floured, turned on the spit,
+and sauced with a pounded walnut-yolk-mint sauce tempered with
+verjuice; or, cheaply, with vinegar and parsley.]
+
+### [Fish with sage — a fragment]
+
+...and throw inside a handful of sage branches, and let it cook;
+as it is cooked, it may be eaten hot, but it is better cold.
+
+### Fish in salt
+
+Take your fish live, or else fresh, and scald it with the scale,
+and fillet it in pieces, and give it a washing in fresh water.
+Then put it in a vessel, and enough strong vinegar to be under
+[it], and a bowl of salt, and leave it so for four hours or a
+little more; then take pure water and put it to boil with a
+handful of salt; and as it boils throw in the fish; skim it until
+it is cooked; then dish it as if it were cold.
+
+### Fish in another manner
+
+Take good white wine, and strong white vinegar, as much of one as
+of the other, and put it to boil with salt, pounded pepper, and
+pounded ginger; and as it boils, take the fish, live, fresh,
+without boning it, and throw it inside, and let it boil until it
+is cooked; it will be better cold than hot.
+
+### Excellent tench turned inside out (*tencha rovesciata*)
+
+Take a good tench, skinned, its head attached to the skin,
+[split] first for length. Then take the meat (?) well cleaned of
+the bones, and pound it small with the knives, as one does lard
+to put in a meat [stuffing]; and pound with it oily herbs; then
+have pounded walnuts, and a little hard cheese, and beaten egg
+yolks, and good spices, and clean whole raisins; and mix
+everything well together, and with this composition fill the skin
+of the tench, turned inside out; and if you put in a little garlic
+well minced it will not spoil it. Then tie the said tench with a
+thin string, and fry it in good [oil — obscured]... and cook it
+gently. Then prepare the [savor]... vinegar, blood, except the
+[obscured]; and take whole cinnamon, sugar, and salt, and put it
+under the spit in the dripping-pan, so its juice falls inside;
+and let it boil gently; as it seems to you cooked, put it in the
+said savor in a little dish, carry it to table.
+
+In another manner: dress the lamprey as is said above, as far as
+the washing; then take a *pignatta* and put it inside with good
+oil, so it is three good fingers under the oil, and let it boil
+gently for the space of two hours. Then take hazelnuts, or burnt
+almonds; have a linen cloth, rub them; then pound them in the
+mortar with a slice of toasted bread; and when they are well
+pounded, temper them in the washing and blood of the lamprey;
+pass it through the sieve. Then put it in a vessel, with sugar,
+cinnamon, and other spices, and salt, oil, and put it on the
+embers, letting it boil gently, always stirring it; and as it
+seems to you cooked, remove the savor from the fire, and take the
+lamprey out of the other vessel, as it is cooked, and drain it
+well of that oil, and then put it in a dish, and put on top the
+said savor, and sugar and cinnamon on top. The little lampreys
+shall be fried in good oil, as they are washed and floured; then
+put on top juice of oranges.
+
+[Editor's note — in plain words: A tench skinned whole and
+restuffed with its own pounded flesh, walnuts, cheese, yolks,
+raisins, and herbs, tied and fried; and the lamprey two ways —
+slow-poached in oil for two hours with a hazelnut savor in its
+own blood, or little ones floured, fried, and orange-juiced.]
+
+### Trout, or pike, or *varolio*, or mullet, in wine
+
+Take sweet white wine, and a little strong vinegar, salt,
+raisins, pepper, and pounded cinnamon and ginger, and a little
+saffron, and put everything to boil with cut parsley, and slices
+of bread, and the fish cut in pieces; and if the wine is not
+sweet, put honey or sugar.
+
+### Fish in *cassonada* [a sweet-sour dressing — as printed]
+
+Take the fish, well scaled and washed, cut in small pieces, as
+you see fit, and take good white wine, strong vinegar, and a
+handful of [obscured] to boil everything with the fish, that it
+be well skimmed, and... [the recipe breaks off in the scan].
+
+In another manner: you shall take the mushrooms, floured, fried,
+and put them in a pan with garlic and parsley pounded small with
+the knives, and good oil, and *agresto*, or juice of oranges, and
+pepper, and fry everything together with salt in [good order —
+obscured]; and so you may dress salted mushrooms, letting them
+stand four hours in tepid water, and serve them in the last
+manner — except that you shall not put salt in them.
+
+### Gurnards in savor, and fried (*gallane in sapore, e fritte*), for ten dishes
+
+Take two pounds of ambrosian almonds, burnt, and half [a pound]
+of coarse (?) toasted [pine-nuts (?) — obscured] soaked in
+*agresto*, and pound everything well together. Then temper well
+with *agresto*, and pass through the sieve; and make it thin,
+because in cooking it thickens. Then take salt, half an ounce of
+pepper, half an ounce of cinnamon, half an ounce of ginger, four
+ounces of sugar, or honey that has a little of the sweet; then
+cook it over a slow fire; and when the gurnards are cooked,
+either boiled or fried, put them inside, and leave them a little
+while drawing [flavor]; then dish them; they want to be eaten
+hot.
+
+In another manner: when the gurnards are nearly cooked boiled,
+put them to fry in the pan, with oil, fresh herbs pounded with
+the knives minutely, and good oil, and *agresto*, and juice of
+oranges, pepper, and salt, and fry everything together; and they
+will be excellent — they want to be eaten hot.
+
+[Editor's note — in plain words: An almond savor, thinned with
+verjuice, cooked down with spices and sugar, for gurnards boiled
+or fried — and a second manner, pan-fried with herbs, oil,
+verjuice, and orange juice.]
+
+### Lampreys roast, and in savor, and fried
+
+Take the lamprey, and wash it [obscured]; and have a vessel with
+white vinegar, and give it a cut in the belly for length, so you
+can take out its entrails, and you shall save all its blood, and
+wash it well with vinegar in the said cut to take out well all
+its blood; then take whole cinnamon, and cloves, and stick them
+through those holes it has near the head, [and] in the mouth a
+stalk of [obscured]; then spit it like an eel and cook it [the
+recipe breaks off in the scan].
+
+### Dressed eel (*anguilla rivestita*)
+
+Take fresh *miglioramenti* [some small fish — as printed], and
+score them, and [wash them (?) — obscured] at several waters;
+[then (?)] put the *miglioramenti* to boil in morsels; as they are
+well cooked, take them, pound them in the mortar — keeping the
+bits of the spines apart — and the good [flesh] pound in the
+mortar with a few peeled ambrosian almonds, and sugar, and fine
+cinnamon, raisins, oily herbs, and fitting salt; and pound
+everything well together; then take pieces of the scored skins,
+big like morsels, fill them with the said paste, putting in the
+middle the pieces of the spines, and with the needle sew them
+from the ends, and put them on the spit with the [obscured],
+until the skin is cooked; and when cooked you shall loose them
+from the ends. Then dish them, putting on top sugar, cinnamon,
+and little salt.
+
+[Editor's note — in plain words: Small fish boned and pounded to
+a paste with almonds, sugar, cinnamon, raisins, and herbs,
+sewn back inside their own skins and spit-roasted.]
+
+### Fresh and salted mushrooms, in several manners
+
+Take your fresh mushrooms, and cut them in quarters if they are
+large, and put half to boil in water with crumb of bread (?) and
+garlic, to take out the poison; then let them drain well of that
+water, and put them in a vessel with a little good oil, and salt,
+and parsley, and mint very well pounded, and fry everything
+gently; then take [obscured]... and put of it in the said
+mushrooms, so that it seems to have of the sour; then put it to
+boil very well for half an hour; and put inside cloves, cinnamon,
+ginger, salt, and saffron, so that it seems to you they are well
+[seasoned]; a little honey, or sugar, so that it has a little of
+the tender; and put the said things in as they boil, and they
+will be good.
+
+In another manner: you shall clean them, and put them to cook in
+the *tiella*, with very little oil, and salt.
+
+In another manner: you shall put them to cook in the *tiella*
+with lard, salt, and pepper, and garlic pounded small with the
+knives.
+
+In another manner: after they have boiled, and been purged, fry
+them in the pan, with oranges, pepper, and salt on top.
+
+### [Spiced pressed fish — the title obscured in the scan]
+
+[The head of this recipe is lost; what survives begins
+mid-method.] ...one by one, and throw them into the said boiling
+wine, and scald them thus three or four times; set them aside one
+by one, and then return again to the head to [begin anew —
+obscured]; this you shall do six times for each. Then put them
+on a board spread out; then take [a measure — obscured] of
+well-pounded coriander; you shall wrap the fishes all in the said
+powder; and then put them in press between two [boards —
+obscured]; when they have been a time thus, you shall take two
+pounds of bruised coriander, a pound of fennel, and three ounces
+of clove powder; you shall cover them with the said things; then
+return them another time in press for two other days; then take
+them out of press; put them to dry in a warm place, but where
+there is not too much fire; they will be perfect.
+
+### To pickle (*accarpionare*) every fish: trout, *carpioni*, eels, sea-bream, barbels, sardines, *pastri* (?), sardelles, pikes, sturgeons, in slices — the small, middling, and great fishes
+
+You shall take a vessel with good vinegar, pepper, cinnamon,
+ginger, cloves, salt, and saffron enough to give it color; mix
+well together, throw it in said vinegar; then have the fish you
+will pickle well scaled, and cleaned inside, and washed, and a
+little salt on top; flour it, then fry it in good oil, and as
+soon as it is cooked, take it out of the pan, draining it well
+of the oil with the pierced ladle; thus hot put it in the vessel
+of vinegar, so it is all under, for the saying of a *Miserere*.
+Then take it out of the said vinegar, and lay it out on a board
+to drain; as it is drained, well cooled, keep it in bay leaves,
+[and (?)]...; and you may send it in baskets, from place to
+place, in the greatest heat; it will keep eight or ten days, and
+thus at every time, and good; and when it is hot from the cooking,
+it is divine, with of the same vinegar on top.
+
+[Editor's note — in plain words: The court's fish-pickle:
+fried, plunged hot into spiced colored vinegar for the length of
+a prayer, drained cool, packed in bay — keeping eight or ten
+days, even in great heat; and eaten hot from the pan it is
+"divine."]
+
+### [A mortadelle recipe — the head lost in the scan; the tail survives]
+
+...with a little salt sprinkled on top; for thus they take the
+salt at once; and leave them so for three days; wash everything
+well with black wine, and put everything in a clean vessel to
+keep in pure black wine, for another day; and then wring
+everything from the wine very well; and [take out (?)] the
+[casings (?) — obscured]; wash everything of wine at several
+washings; and wring these things very well, and with white cloths
+wiped of the wine. And then make the mortadelle well pressed,
+and the [plain (?) — obscured], and those you will want mixed.
+
+### The *salcizzoni* [great sausages]
+
+Take two parts of pork meat, and one part of beef (?), and pound
+everything well together; and for every pound of meat put half
+an ounce of salt, and six grains of bruised pepper, a little
+fennel at your judgment; and mix everything well; then stuff
+these things, and see that they are well pressed in casings of
+pork (?), washed and cured, as the other aforesaid.
+
+### *Zambudelli* [small stuffed casings]
+
+Take the small *zambudelle* of pork, or of veal; see that they are
+flayed (?); then split them lengthwise, and wash very well at
+several waters, and see that the water is hot; then have good
+vinegar and throw it in the vessel where you will put the said
+*zambudelle*; and after they have been well washed, you shall
+throw inside fennel and salt, and let them stand so for a night
+in the said savor, and a day, and a little of sweet will not be
+ungrateful to them; then stuff them according to custom, and put
+them in smoke to dry.
+
+### To make *persutti* [cured hams — as printed]
+
+Take the [cuts (?) — obscured] of pork (?), pounded (?), and put
+them in salt; and every two days rub them with the hands very
+well; and when they have well taken the salt, take them out of
+that brine; and they are wont to take the salt in twenty-three
+days. Then take a cauldron of white wine, or black, and let it
+boil; and take the *persutti* to [— the recipe breaks off in the
+scan].
+
+### To make meat *mortadelle*
+
+First you must take the casings, or *bondele* (?), of pork, well
+washed at several washings, without pulling out the fat that
+remains; to [cure] them [with — obscured]; rub them with the
+hands, and beat them very well; wash them at several washings of
+black wine; then wring them of said wine, and put them in a
+vessel, with a measure (?) of salt, and mix them with said salt,
+and then leave them so for the space of days. Then take the
+netted (?) meat from those skins (?), that it may be good
+inside; accompany the lean with the fat, so it stands well at
+the judgment of who wants to make them; and pound everything
+very well; then [season it (?)] and for every twenty-five pounds
+of meat throw in at two or three times ten ounces of salt, and
+one ounce of bruised pepper; and pig's feet four, snouts six,
+*levesini* (?) four, and a *penola* (?) of *pigato* (?) —
+everything of pork; and this for weight of stuff, that you will
+have with these four sorts together, or that will be liquid of
+itself; and make a hole in the pounded meat with the fist, and
+throw the said composition inside, and then mix everything
+together for the space of an hour, kneading; and then add a
+beaker of pure black wine, for weight of the first meat, in
+several times, always kneading; then leave it for two or three
+days... [obscured; the recipe's close is lost].
+
+[Of the stuffing — *investiture*:] Take pig's head (?) without
+the fat, [see] that they are well scraped, and clean. Loins
+according to the greatness, cut in morsels. Ears scraped, burnt,
+[cut] in half. Muzzles. Tongues peeled with hot water, well
+clean. *Gambruzzi* (?) burnt, [obscured], fresh, taken out all
+the red (?) whole, and the little breast likewise; and all these
+things you shall put in a clean vessel, putting at the bottom
+*gambruzzi*, ears, and muzzles with coarse salt on top, and then
+on top the tongues, with light salt, and on top the head, loins,
+and breast [— the list breaks off in the scan].
+
+[Editor's note — in plain words: The great mortadella making:
+cured casings, twenty-five-pound batches of lean-and-fat pork
+salted in stages, feet and snouts and *levesini* worked in with
+fists and wine. The head-to-foot list reads like the whole pig
+accounted for.]
+
+### To make fish *gelatia* [aspic]
+
+If you will make it of fish, in place of feet take eels, or
+trout, pike (?), or *varolo*; then putting them in the bottom —
+for the turbid, as for the clear; in the decoction boil six
+ounces of fish glue.
+
+### To make a capon in *gelatia* [aspic]
+
+Take a capon; the feet of four other capons; put it to boil in
+sweet white wine as much as suffices; and as it is cooked, take
+the pulp and wings, and what you want to cover; and the rest
+return to boil, and let it undo itself; then put a small glass
+(?) of vinegar, and half a pound of sugar, or honey, and half an
+ounce of cinnamon, a sixth of pepper, a quarter of black ginger
+(?), a sixth of mace, and little saffron; then with the said
+decoction through the sieve, and [wash (?)] your little dishes
+with the capon dished in the bottom, and bay leaves; throw [it]
+on top; then let it cool, and it will be good.
+
+### To make *gelatia* in the dozen manner (*da dozena*)
+
+Take feet of veal (?), or of mutton, or of the one and the other
+together, and put them in a vessel with water so they are barely
+under; then add so much vinegar and white wine that it fills the
+said vessel — but [in] measure fitting to the quantity of which
+you want to make. And if the white wine is sweet, it will be
+better; and put it to boil, skimming it very well of the foam
+and of the fat. Then have half an ounce of cinnamon, half an
+ounce of pepper, and a quarter of mace, and a pound of sugar, or
+well-clarified honey; let everything boil together; and as it
+has boiled so that it is fallen by half, strain it through the
+sieve. Then throw it in the *calza* [straining-cloth] to strain
+with so much saffron that it gives the color; and thus as it is
+strained, put it in your dishes on top of what you will; and let
+it cool.
+
+### [A *gelatia* — the head obscured in the scan]
+
+...saffron, a [bit] of long pepper a quarter, and half an ounce of
+[obscured], everything pounded, and the whites of ten eggs well
+beaten, and a glass of strong white vinegar, and put everything
+to boil in the decoction; and as it has boiled a little, put it
+in the *calza* to strain twice; putting always the fitting salt;
+and it will be most good.
+
+### To make white *gelatia*, for ten dishes
+
+Take a large *bocale* [jug] of the whitest wine you can find; and
+take eight feet of veal, or mutton, or pork — not being able to
+have others — and little salt, and let boil a good hour; as it
+has boiled the three quarters of an hour, add an ounce and a half
+of pounded ginger, and three whole nutmegs; and as it has boiled
+a quarter of an hour, take everything out, and strain the
+decoction, and add two pounds of fine sugar, and the whites of
+ten eggs well beaten, and let it take the boil. Then have good
+almond milk, clarified (?) passed through the sieve; and passed
+another time the decoction through the sieve, you shall put
+everything together, and pass the whole through the *calza*; it
+will be most white in the almond milk, and put in a little wheat
+starch (?) so that it passes through the sieve.
+
+To make it yellow... [obscured]. To make it morello [dark purple]
+[obscured]. To make it green — [obscured; wheat in grass, and
+better]. To make it turquoise — the [light (?) — obscured]
+mulberries [in (?) — obscured]; dried are good. To make it
+morello, the black mulberries will make it quite morello in
+color. To make it [obscured], the carobs (?). To make it [monk's
+(?) — obscured], the cornelians and morello cherries (?) are
+fitting. But these are things of little importance, to vary at
+some great banquet. The useful and good are the turbid and the
+clear.
+
+[Editor's note — in plain words: The white aspic — trotters
+boiled in the whitest wine, clarified with egg whites, whitened
+with almond milk — with the master's color-box for banquet
+variety: yellow, green, turquoise, morello, monk's; the useful
+two are turbid and clear.]
+
+### [For *dobba* — a note on the meats]
+
+The loin of pork, wild boar domestic (?), or deer, kid — to make
+*dobba* in the same manner, but it must stand two or three days
+soaking before it is dressed. Veal is not fitting to put in
+*dobba*. *Brasavole* (?) of fresh pork, loins, ox tongues sliced,
+sturgeon slices, trout tails, and other similar things, all are
+good.
+
+### To make turbid *gelatia*, for ten little dishes
+
+Take a *bocale* of white wine, and if it is sweet it is better;
+and take seven feet of veal, or pork, or mutton, well washed and
+cleaned, and put them to boil in said wine a good hour; and as
+they are cooked, take away the meat, and in the decoction put of
+coarse sugar one pound and a half, and of cinnamon an ounce and
+a half, of pepper an ounce and a half, of cloves half an ounce,
+of saffron an eighth, of ginger half an ounce, of mace a quarter,
+and a good glass of very strong vinegar. Then return to boil
+said things a little; then put them in the *calza* to strain.
+Then have in order your white little dishes, putting in the
+bottom [fish (?) — obscured], or wings of capons, or pheasants,
+or partridges, or feet, or ears, or muzzles of pork in pieces
+cooked, and bay leaves. Then throw on top the *gelatia* while it
+is hot; put them in a cool place until it is set, and it will be
+most good, always taking up a little salt.
+
+### To make clear *gelatia*, French-style, for ten dishes
+
+Take a large *bocale* of white wine, and if it is sweet, it will
+be better. Then take four feet of veal, and four *cigotelli* (?)
+of veal, that is the knuckle-bones (?), take out all the
+[obscured], and then wash at several washings; then put to boil
+the meat a good hour; and as the meat is well cooked take it out,
+and strain the decoction with the sieve; then have a pound and a
+half of sugar, an ounce and a half of cinnamon, and of cloves a
+third, of nutmeg a fifth, and [— the recipe breaks off in the
+scan].
+
+### Stuffing (*pino*) for filling kids, or lambs, or suckling pig
+
+Take the liver of the said animal, pound it with raisins, hard
+cheese, and little sugar, and spices, oily herbs, and egg yolks,
+and fat of the said animal (?)... [obscured] fennel, [obscured],
+a little whole raisins, dried grapes, according as you please,
+and you shall govern yourself according to the sort of animals
+you will roast, and according to the commodity of the time.
+
+### To make roast in the podestà's fashion
+
+Take the breast of veal (?) [cut (?) — obscured]... and put them
+to cook at the [obscured]... and put them and cool them; then
+throw them in a pan with melted [fat], or pounded lard; fry them
+well so they are colored; as they are cooked put them in the
+dishes with [obscured] on top, and [obscured].
+
+### Capons, chickens, squabs, and other birds in *bafetta* (?), or *dobba*, and the like
+
+Take a vessel to put the birds in vinegar with little salt, one
+on the other, and go making the [obscured] in the vessel, with
+little by little pounded pepper, and put in so much vinegar that
+it is under; and leave it so for an hour; then take them, and
+wash them very well; and as they are [drained (?)] of the water,
+flour them, and fry them in [obscured]; and as they are dished
+put on top cut lemon. And the like you shall do [for the others
+(?) — obscured] to put them in *dobba*, frying them then in oil
+... in *dobba*; and you may also put pounded garlic for who
+likes.
+
+### [Tail of a preceding recipe]
+
+...close to the other, then in a hot [pan] with the *testo*, and
+it will be excellent.
+
+### *Fracasea* [fricassee] in another manner
+
+Take *fratelli de possi* [as printed — obscured] number four to
+make a little dish of fricassee, and four ounces of veal fat,
+one ounce of good hard grated cheese, two egg yolks, and a
+little of good fine spices without salt, because the cheese
+satisfies for this also; pound everything minutely well with the
+knives; then have your slices of bread, keeping the aforesaid
+order.
+
+### Little heads of lamb, or kid, split (*testezzolle*)
+
+Take the little heads, and split them in half, and put them to
+boil; and as they are cooked, let them cool; and then have
+well-beaten eggs, and [put the] heads (?) piece by piece in said
+beaten eggs; fry them in the pan; and as they are cooked, dish
+them in the dishes with oranges, pepper, or sugar, and cinnamon.
+
+### Ox loin German-style (*alla alemana*)
+
+Take a loin of beef, [take away (?)] those skins, and nerves it
+has around; then beat it very well and put it to soak in
+malvasia and vinegar, more vinegar, with powder of coriander,
+fennel, and little salt; leave it for the space of five in six
+hours. Then put it to roast on the spit; and as it is cooked put
+it in a dish; but while it cooks, put in the *motta* (?) a little
+of that vinegar and malvasia where it was soaked; and after you
+have put it in the dish put on top said savor that you shall put
+in the dripping-pan with what will be collected from the loin
+on top; and let it [obscured]... it will be most perfect.
+
+### [Tail of a preceding recipe]
+
+...and [then (?)] dish them.
+
+### Fricassee in another manner
+
+Take meat of what sort you want, or chickens boiled, or roast,
+and cut them in small slices; put them to fry in a pan with
+melted [fat], or pounded lard; then have juice of oranges, or
+good *agresto*, a [bit] of broth, egg yolks, and a bit of
+cinnamon, ginger, and [obscured], a little well-pounded minutely
+parsley; mix everything well together, and throw them in the
+tinned pot, or pan, on top of the said meat that you have fried;
+give two turns in the pan so they incorporate well together;
+then dish.
+
+### English fricassee on sturgeon, or beef, [veal], or kid
+
+Take the sturgeon, and let it boil, and then cut it in slices,
+and put it to fry in fresh butter; then drain it of the butter;
+when it is well drained of the butter [— the recipe breaks off
+in the scan].
+
+### [English fricassee — the conclusion]
+
+...take juice of oranges, *agresto*, and [obscured], with
+cinnamon, pepper, and few cloves, less pounded ginger, and egg
+yolks according to the quantity you want to make; return the
+sturgeon to the pan with said savor, and give it a good heat, and
+then dish it, putting on top grains of fresh fennel at the time.
+And likewise you may do of beef, veal, or pork, after it is
+boiled, roasted; likewise on crayfish tails.
+
+[Editor's note — in plain words: The fricassee sauce: orange
+juice, verjuice, cinnamon, pepper, cloves, a little ginger, egg
+yolks — heated with the fish or meat and dished with fresh
+fennel-seed.]
+
+### Italian fricassee
+
+Take the leg (?) of roast veal with the [obscured], and pound
+well with the little knife one or two egg yolks, a little of
+good fine spices, [obscured]; and you shall throw (?) everything
+together; have square toasted slices of bread, go covering of
+the aforesaid composition. Then put them in a [obscured] well
+laid out one [by one — obscured]. [Then:] sugar, and pepper, and
+cinnamon, and double pepper, ginger, and few cloves, and a
+droplet of saffron, and temper everything together, and throw
+the said [slices] on top of the said savor; let them boil until
+they are cooked; and they will be excellent.
+
+### Meat meatballs in the *tiella*
+
+Take meat of leg of veal, and make meatballs, that is thin
+slices; then pound them well with the back of the knife; have a
+*tiella*, and lay them on the bottom, fill all the said bottom.
+Then take well-pounded lard, and a good handful of grated
+cheese, and three or four well-beaten eggs, and incorporate
+everything together, with pepper, ginger, and little saffron, and
+then spread that composition on top of the said meatballs. Then
+throw on top cleaned raisins; put it to cook on the embers, and
+put in so much broth that they are covered; and as they [cook],
+have your hot *testo*, and put it on top, until they are cooked,
+and then dish [them — the close obscured].
+
+### Capon in French fricassee
+
+Take a good boiled cold capon, and cut it in pieces [as] pigeon
+(?); throw it in a pan with an ounce and a half of butter, or
+fat, which will be better, and fry it very well; and as it is
+well fried throw it in a dish, with juice of [obscured]; if the
+capon were roast it matters not.
+
+### Fricassee in another manner [a fragment]
+
+Take what sort of meat you want, and make it in pieces, and
+throw it in the pan with fat, and yolks of well-beaten eggs,
+with *agresto*, and ginger, and well-pounded onions; and put
+everything together in the pan; give it four or five turns;
+then [obscured]; then powder it with a little pounded pepper,
+and [obscured], and leave it for a good hour in that manner.
+
+### [Stuffed meatballs in caul — the head lost in the scan]
+
+[The recipe begins mid-method.] ...then take parsley, and oily
+herbs, a little lard, and pound them very well together; then
+have one, or two egg yolks, according to the quantity you want
+to make; and if you want garlic, pound a little with said
+things; and then have pepper, cleaned raisins, salt, and fennel,
+and mix everything together, and fill said meatballs; then wrap
+them as you would a salami, and cook them on the spit; and as
+they are cooked put them to soften in a *pignatta* with juice of
+oranges; and if you wrapped them in pig's caul, or of veal, when
+you will put them on the spit they will be better; when you have
+not veal you may make of pork, or mutton; the veal is better. If
+you want to fill them otherwise, if they are big, in the
+stuffing you shall add hard grated cheese.
+
+### Fried meatballs in *bafetta* (?)
+
+Take the meat, make thin slices, as in the other is said, and
+pound them well with the back of the knife; and then put them in
+a vessel with salt, pepper, and pounded fennel; pounded garlic
+does not spoil them at all; and leave them for four hours. Then
+flour them, fry them in melted [fat]; and as they are cooked,
+put on top oranges, or *salsa reale*, or *camelino*, or other.
+
+### Meatballs in savor
+
+Take the lean meat of the leg, and slice it minutely; keep the
+order of the others, and pound them well, and fill them; and as
+they are filled, put them in a pot to fry gently, so they do not
+break in the fat; and as they are fried, put good broth so much
+that they are under; and thus let them boil for half an hour.
+Then put cleaned raisins; and as they are nearly cooked, take
+toasted slices of bread, and put them to soak in vinegar; as
+they are soaked, pound them in the mortar with a little other
+raisins, and parsley; and as they are well pounded, pass them
+through the sieve with vinegar and a little broth; and as they
+are passed, take honey, or [obscured — the recipe breaks off in
+the scan].
+
+### [Meatballs in caul, dipped in sugar — the head lost]
+
+[The recipe begins mid-method.] ...first (?) and [bind it (?)]
+to bind it, and pound it well with [obscured] lard, and veal
+fat, oily herbs; after it is well pounded, mince it together
+with the knives, with egg yolks, and grated cheese, mixed
+spices; according to the quantity you want to make, you shall
+spread pig's caul (?)... and wrap them in it as you did the
+others; and make them big or small as you want; then put them to
+cook on the spit with the skewers; and as they are cooked you
+shall dip them in a *pignatta* with sugar, and cinnamon, juice of
+oranges; and they want to be eaten hot.
+
+### *Coratelle*, or liver of kid, or lamb, or veal, filled
+
+Take the caul of the *coratella*, wash it in tepid water, lay it
+on the board, and then have a little lard pounded minutely with
+the knives with oily herbs, and raisins together, and with a
+little pepper, and ginger, and cinnamon, and cloves, and with
+little saffron, and little salt; and mix everything together,
+and make a *battuto*, and spread it on the caul; pierce around
+the *coratella*, or liver, and cook it on the spit; and as it is
+cooked, put on top juice of oranges, a little pepper; to vary
+sometimes you shall make the [savor] with egg yolks.
+
+### Filled livers
+
+The livers of veal, or pork, likewise are filled, [and] cooked;
+and put around them their caul with some of the aforesaid
+stuffing; then finish cooking them.
+
+### Stuffed meatballs, filled
+
+Take meat of veal of the leg, and make thin slices, and pound
+with the back of the knife; then lay them on a board and
+sprinkle with vinegar... [a passage obscured] ...mix everything
+together; wrap said composition in veal caul; cook it on the
+spit with two skewers. But mind to put in said paste of the
+spices as much as seems good to you.
+
+### Fat *tomaselle*
+
+Take [obscured] of pork (?), and one breast (?) of veal, or lamb,
+or kid; boil it, so that it barely [bleeds (?) — obscured], and
+put it to soak in fresh water; and as it is cold grate it
+lightly so that you have six ounces; and put in eight ounces of
+[flesh (?) — obscured], eight ounces of raisins, and eight
+ounces of sugar, and six ounces of veal marrow (?), or of ox;
+and not being able to have marrow, six ounces of melted veal
+fat (?) — capon or kid would be enough (?); then take eight egg
+yolks, two ounces of fine pounded cinnamon, and three ounces of
+good hard cheese, and five ounces of salt, a little saffron,
+that is half eighth (?); and incorporate everything together in
+the guise of fritters; and wrap them in pig's caul, or of veal,
+so they are well closed; shape them, leave them so for the space
+of two days; then fry them in good fat when you please.
+
+[Editor's note — in plain words: The rich tomasella — boiled
+meat grated, bound with raisins, sugar, marrow or melted fat,
+yolks, cinnamon, cheese, and saffron, wrapped in caul, rested
+two days, fried in fat.]
+
+### To make *tomaselle* of another sort
+
+Take half a pork liver (?); let it boil in water so it becomes
+hard; then grate it; put it in a vessel; then take two pounds of
+hard cheese, and two pounds of *tumino* cheese (?) together
+grated. Then have a boiled pork tripe (?) well beaten with the
+knives; and a pound of sugar, and a pound of clean raisins, an
+ounce (?) of pounded cinnamon; incorporate everything well
+together. Then make your *tomaselle* with your caul around, as
+you did the others, and then fry them in melted [fat]; note that
+the said dish wants to be made for three or four days [ahead —
+understood].
+
+### *Tomaselle* on the spit
+
+Take meat of [obscured], or mutton, or lean pork in the legs...
+[the recipe breaks off in the scan].
+
+### Red *cervellati* of another sort
+
+Take pig's blood well broken with the hands, four bowls, and
+cow's milk one bowl, and cleaned raisins one bowl, onions number
+three cut small, powder of cloves half an ounce, of fat, or fresh
+pork lard (?) cut small three bowls, salt and fennel at your
+judgment, and cooked (?) sugar.
+
+### To make white *cervellati*
+
+Take a [obscured] of milk, and twelve (?) yolks of eggs, and...
+[the recipe breaks off in the scan].
+
+### [White *cervellati* — the conclusion]
+
+...Take a [bowl (?) — obscured] of milk, and twelve (?) yolks of
+eggs, and two [ounces (?)] of fat grated cheese, and half an arm
+(?) of wheat starch, and put it in a vessel, and beat everything
+well together, with a pound of sugar, and a pound of clean
+raisins, and an ounce of cinnamon, and a quarter of pounded
+pepper, and incorporate everything well together; then have your
+casings well washed, and make your *cervellati* long as you
+please, and then put them in a cauldron of water, and give them a
+good boil, and then let them cool, and fry them in [obscured].
+
+### Ducal *cervellato*
+
+Take the paste of the [duck (?) — obscured], and [give it (?) —
+obscured], and a little saffron, and fill it making the casings
+yellow; then take this *cervellato*, and cook it boiled, and it
+must be dished in broth with slices of bread under, and this is
+for variety, and it may be made at every time.
+
+### French *cervellato*
+
+Take meat of the leg of veal as much as pleases you, according
+as you want to make it big or small, and have it well tamped
+(?). Then put in together veal fat, and fennel, and bruised
+pepper and little salt, and then stuff... [a page-break passage
+obscured] ...Then take the casings well washed at several
+washings, and [make them (?)] somewhat [obscured]; then take an
+eighth of pounded saffron distempered with a little white wine so
+that it incorporates together; and throw it in the casings,
+mixing them together in a vessel so that they take the yellow;
+make your mortadelle, or salami.
+
+[Editor's note — in plain words: The Frenchman's sausage —
+veal and fat with fennel and pepper, the casings dyed yellow
+with saffron in white wine before stuffing.]
+
+### Yellow sausage (*salcizza gialla*)
+
+Take twenty-five pounds of fat pork meat, and it is better in
+the leg; pound it very well with the pestle; then take two
+pounds of Piacentino grated cheese, of pounded pepper an ounce
+and a half, of pounded cinnamon an ounce, of pounded cloves half
+an ounce, of pounded saffron an eighth; and incorporate
+everything well together with fifteen ounces of salt, and knead
+it very well. Then dress the casings in that manner that are
+made those of the mortadelle above; and then stuff your
+*salcizza*, and it will be most perfect.
+
+### Red *cervellati*
+
+Take the blood of a pig, and three beakers of milk, and two
+pounds of coarse sugar, or two pounds of honey, and six ounces
+of raw pine-nuts, of pounded cinnamon three ounces, of pounded
+cloves two ounces, of lard four pounds, in pieces; [obscured]
+raisins one [measure]; and not having raisins you may put dried
+grapes, and incorporate everything together; and have the
+casings well washed at several washings, rubbed with salt, and
+flour, washed in water; not having the two pounds of raisins you
+shall put dried grapes at your judgment in the quantity; and
+because I have said that you take the blood of a pig, there are
+of those that have little, and of those that have much; it is
+understood [a] fitting blood of a pig of weight eight to ten
+[measures — obscured]. Then the stuffed, as they are, you shall
+boil in a cauldron, for a quarter of an hour; then cooled, you
+shall put them on the grill, or in another manner according as
+you will cook them.
+
+[Editor's note — in plain words: Blood pudding, Ferrara 1549:
+pig's blood with milk, sugar or honey, pine-nuts, cinnamon,
+cloves, lard, and raisins in casings — boiled a quarter hour,
+then grilled.]
+
+### Capons, squabs, or calves' trotters, in *crespina* [a sour grape]
+
+Take a bird, or a [obscured], and have it cooked with a [piece]
+of *persutto*, and a pounding of lard, according to the quantity
+you will make; and when it is nearly cooked, take egg yolks,
+and beat them with a bit of *agresto*, and pepper, and pounded
+ginger, and so much saffron that it gives a little color, and
+throw it in said vessel, where the meat is cooking with a
+handful of pounded oily herbs, and your *crespina* grapes, and
+that with the much broth, and finish cooking it with everything
+together; and if you want to put a little cleaned raisins, it
+will not spoil at all.
+
+### Liver *mortadelle*
+
+About the casings: wash them, and clean them as is fitting;
+then choose the meat that is coarse, as loins, and legs where
+the fat part is; pound it like that of the others; and if it
+were not well fat, add fat at your judgment; and for every
+weight of meat, add the things written below: of salt ten
+ounces, of bruised pepper one ounce, of pure red wine one
+beaker, livers three of pig, snouts four, *levesini* four, feet
+four, ears four, muzzles four, and let all those things be of
+pork well pounded, and incorporated everything together; keep
+the same order that is kept in those of meat.
+
+### Yellow *mortadelle*
+
+For every twenty-five pounds of pork meat pounded very well,
+two pounds and a half of hard cheese, and of pepper four ounces,
+and of pounded cinnamon an ounce, of pounded ginger an ounce,
+of pounded cloves half an ounce, of pounded nutmeg half an
+ounce, of pounded saffron an eighth, of pounded salt ten ounces,
+and pound everything well, and incorporate together, with a
+beaker of water in said meat, always kneading.
+
+### [A *ruvia* dish — the head lost in the scan]
+
+[A fragment, mid-recipe.] ...makes *persutto* with a good
+pounding of lard as the pheasant, capon, or squab will be nearly
+cooked; you shall put it in said *ruvia* (?), and finish cooking
+it inside, with parsley, and mint pounded minutely, with pounded
+pepper, and saffron at your judgment, according to the quantity
+you will make. Then you shall have a *budello* cooked by
+itself; you shall put it also to boil with said *ruvia*; and when
+you dish it you may cut said *budello* in slices on top of the
+*ruvia* in the dishes.
+
+### To make capons, or pheasants, or chickens, or squabs in [cabbages — the word obscured]
+
+Take the hearts (?) of cabbages, or lettuces, well cleaned and
+washed, and cut in quarters, and put them to cook in good fat
+broth, with a good piece of *persutto*, a good pounding of lard,
+and parsley cut small. Then have your birds nearly cooked, and
+put them to finish cooking in said cabbages; the turnips cut in
+slices, the onions in quarters, keeping the order of the rest
+that is said in the cabbages, or lettuces. Warning you that in
+the cabbages, or lettuces, are very good the birds well larded,
+and more than half cooked roast; then you must finish cooking
+them boiled in said cabbages, or lettuces; and among the others
+the wild duck and the [obscured] are very good.
+
+### To make capons, or pheasants, or chickens, or squabs in squashes
+
+Take the squashes cleaned, cut in small pieces, and some onion
+cut small together; put them to cook in good fat broth, with a
+piece of *persutto*, and a pounding of lard. Then take the birds
+half cooked boiled, and put them to finish cooking together with
+said squashes; then put mint, and parsley cut small, and a
+little saffron. Then if you want, have a liver *mortadella*
+cooked in another vessel, and put it in said squashes, when they
+are cooked, to vary sometimes.
+
+### [Filling birds and breast of veal — a fragment]
+
+...pounded; then sew with a needle the skinning, or cut; close
+it; put it to cook in a tinned [pot] with good broth. The capons
+or squabs to fill must be plucked [as (?)] they are dead; if you
+want to make a hole on each side below in the skin, and with
+the fingers go turning the said skin inside out up to under the
+wings on each side; fill them with the paste of the aforesaid
+sort, then sew the holes; and put to cook in fat broth. The
+breast of veal shall be filled as is said above; after it is
+cooled, put it in press with a white cloth around. Then cut it
+in slices, and fry it in butter, and as you have dished it put
+on top sugar (?)...
+
+### To make capons, or squabs, boned
+
+Take a capon, or squab, and kill it, and as soon as it is dead
+pluck it with water not too hot, but more than tepid; as soon as
+it is plucked, throw it in fresh water, and then take it at once
+out of said water; then open it from below, and do not make it
+too great a hole, and take out the entrails with dexterity; and
+then, at the body with a finger you shall go picking the skin
+from the flesh up to the wings, leaving the wings whole; thus
+you shall go picking the skin from the thighs up to the joint;
+and thus you shall take off the skin with the part of the neck
+attached, and the wings, from the joint down from the feet, and
+[obscured]; then take said capon when it is without skin, and
+take off the bones from the meat; and pound the meat well with
+oily herbs, spices, saffron, good cheese, and eggs, and nuts;
+and put said *battuto* in the said skin with raisins; and
+[lightly (?)] sew it; and put it to cook in a *pignatta* with
+good fat broth.
+
+[Editor's note — in plain words: The boned bird, whole: skin
+lifted off entire with neck and wings, the meat pounded with
+herbs, spices, saffron, cheese, eggs, and nuts, packed back in
+the skin with raisins, sewn, and poached in fat broth.]
+
+### To make capons, or pheasants [in *ruvia* — the word obscured]
+
+Take the *ruma* (?) cleaned, have it cooked in good fat broth
+with... [a passage obscured] ...six slices of *persutto*; as it
+will have [risen (?) — obscured], take four large cleaned onions
+cut in quarters, and put them to boil; then take the crumb of
+[bread] on every side white cut in slices toasted, soaked in
+*agresto*, and pass them through the sieve with a quarter of
+ginger, and little saffron so that it gives the color; ten
+cloves; put as the said bird, or other, will be nearly cooked,
+you shall put on top the said savor; finish cooking it.
+
+### Head of veal, or capon, or breast of veal
+
+Take the head of veal well cleaned, and give it a good boil.
+Then put it in a *tiella* with pounded lard, or melted [fat],
+and put it in the oven, or on the embers to fry on every side,
+that it comes colored; then put in a little broth with
+[obscured], and [cloves (?) — obscured] of garlic, [flowerets
+(?) — obscured] of fennel; then take a morsel of toasted bread
+in slices, soaked in *agresto*, pounded in the mortar, passed
+through the sieve, putting inside it [obscured] of [spices];
+throw everything on top of the head in the *tiella*, oily herbs
+[obscured]; and let it boil until it is cooked, and dish it in a
+dish, throwing on top the savor, and everything that is in the
+*tiella*.
+
+### To make a stuffed breast of veal Lombard-style, or capons, chickens, squabs...
+
+Take a breast of veal, and [skinned] between flesh and skin
+beginning... [the recipe breaks off in the scan].
+
+### [Stuffed breast of veal Lombard-style — the conclusion]
+
+...Take a breast of veal, and [skinned] between flesh and skin
+beginning at the point; take a pound of good cheese, and four
+eggs, oily herbs, and of pounded pepper an eighth, a little
+saffron, and grated bread, a little good raisins, and some
+well-pounded nuts, and a little pounded lard, and incorporate
+everything together; and see that said *battuto* is good; and
+fill the breast of said [veal — the sentence breaks off].
+
+### Pheasants, or capons, or squabs in broth, or a breast [of veal, another manner]
+
+Take the bird, ... put it to boil gently with a nutmeg, and a
+root of ginger bruised, and a stalk of whole cinnamon, and a
+little saffron so that it gives the color, with a handful of
+parsley, oily herbs cut small together; put in two ounces of
+raisins, that it will not spoil at all.
+
+### Pheasants, or capons, or squabs, or breast of veal, or other, cooked in sweet white wine or Vernaza or malvasia, German-style
+
+Take the bird, have it cooked in a *pignatta* with a half
+measure (?) of *persutto* cut small in one of the aforesaid
+sorts of wine, with a quarter of whole pepper, and half a pound
+of cleaned raisins; and then take the crumb of a bread toasted
+in slices soaked in strong vinegar, and then pass them through
+the sieve, with strong vinegar; put in half a pound of sugar,
+and a quarter of pounded pepper, and a quarter of pounded
+cinnamon, and a quarter of pounded ginger, and an eighth of
+cloves, and a little saffron, so that it gives the color. And
+when the bird, or other meat, is nearly cooked, put on top the
+aforesaid savor, and finish cooking it.
+
+### Pheasants, or capons, or squabs, or breast of veal cooked in wine, with onions, [the rest obscured]
+
+Take the bird, or breast of veal, have it cooked in wine of...
+[the recipe breaks off in the scan].
+
+### *Brodetto* [a little broth-sauce]
+
+Take an egg (?), and inside yolks of eggs, sugar, cinnamon,
+ginger, and rose water, and mix everything well together; then
+take fat broth and put said things little by little in said
+broth at the fire, always mixing, so that it boils; as it boils,
+it is cooked (?).
+
+### Capons, or pheasants in *potaccio* or other, with the soup under
+
+Take a capon, or other bird, and lard it well, as you would if
+you wanted to roast it; and put it in a vessel to boil until it
+is nearly cooked. Then have a pot of good broth with a handful
+of raisins, and a whole nutmeg, and a little pepper, cinnamon,
+pounded ginger, and little saffron; and put inside said capon
+to finish cooking; a little *agresto*, that it makes it sourish,
+and parsley, and a little *persutto*, to give it [color (?)] ;
+then dish it in a dish, with [slices (?)] under.
+
+### Pheasant, or capon, or squab, or breast of veal, or other meat stuffed (*tuffata*)
+
+Take the pheasant, or other, dressed, and trussed, and put it in
+a *pignatta* with a little *persutto*, salted meat cut in
+slices, and marjoram, and nutmeg, juice of oranges, and a
+little broth, and bruised pepper, and a little saffron; then
+have made a cover of paste set (?) over said *pignatta*; put it
+in the oven thus stopped so that it cooks what is said inside;
+then dish it; it wants to be eaten hot. A most divine dish.
+
+### Italian *potaccio* of another sort
+
+Take a [obscured]... and put it to boil, with eight ounces of
+fat salted pork meat; then take the [obscured] of said
+[obscured], and the salted meat cut small together, and put
+them another time to boil. Put in cinnamon, ginger, and eggs, so
+that the *potaccio* remains rather thin than thick; then take a
+*tiella* of low sides, and grease it with a little melted [fat];
+then make a sheet, as is made for the good tart, and lay said
+sheet in the *tiella*; and then put said things on top, and put
+it to cook in the oven, or under the *testo* until it is set.
+Then put on top cinnamon, and candied pine-nuts.
+
+### To make another *potaccio*
+
+Take a pound of ambrosian almonds half toasted, and pound them
+well; then temper them with fat broth, and pass through the
+sieve; and then put them in a *pignatta* with a pound and less
+of roasted mutton meat, or of veal, but not too cooked; cut it
+small, and put it in said *pignatta* with the tempered almonds,
+with three ounces of sugar, and [obscured], and of cinnamon, a
+quarter, and a little pounded ginger, and let it boil, mixing it
+often, until it is finished cooking; and after it is dished,
+put on top sugar and cinnamon.
+
+### *Potaccio* in the oven
+
+Take a capon, boiled hen, and make it in quarters, and put it
+in a *tiella* with good fat broth, and ten beaten eggs, and
+good grated cheese together with a little spices, raisins; and
+throw it on top of said pieces of capon, or hen, and then put it
+in the oven, to cook as much as suffices.
+
+### [A savor for dished meat — the head lost in the scan]
+
+...mix together, and temper with broth of [obscured] not too
+fat, and pass everything through the sieve; put in a tinned pot
+on the embers; let everything boil for the space of a quarter
+of an hour, with an ounce of cinnamon, and a quarter of pounded
+pepper, and eight ounces of clarified honey. Then take two
+onions cut very small, and put them in a *pignatta* with good
+pounded lard; and when the onions are cooked, turn them out,
+and mix them very well together with the lard where they are
+cooked; and then put them in the pot where are the other
+aforesaid things; and let them boil half a quarter of an hour
+all together. Then have your meat or bird cooked boiled in
+pieces; fry them in the pan with good lard, well beaten or
+melted; and dish them in the dishes; then put on top the said
+savor.
+
+### *Potaccio* of veal in fricassee, Hungarian-style
+
+Take a [piece (?) — obscured] of veal [cut in pieces], fry in
+melted fat; then have well-pounded onions, and throw them
+inside to fry; then as it is fried take it out of the pan, and
+put it in a *pignatta* with meat broth; and add a beaker of
+honey, half an ounce of pepper, and cinnamon, and an eighth of
+saffron, half a pound of raisins; and let it finish cooking
+gently; dish it.
+
+### Italian *potaccio*
+
+Take fat meat cut in pieces, neither big nor small; fry it in
+melted kid fat, so that it becomes colored. Then take a little
+broth, and few cleaned dried chestnuts, well washed, and put
+them to cook with said meat; and after it is fried in said
+broth put in together a little of spices of every sort, but a
+little more cinnamon, and raw pounded coriander, and half a
+pound of honey; let it another hour cook by itself; and become
+colored, put it in said *pignatta* together with the other
+things; and let it cook well; and when it is dished, put sugar,
+cinnamon on top.
+
+### Black broth for ten dishes
+
+Take two beakers of sweet black wine, and three bowls of washed
+dried black *brugnole* (?) (prunes), and three bowls of black
+dried grapes, and three [obscured] cut in slices well toasted,
+and put everything to boil at the fire very well; then pass
+through the sieve, and put in a stone vessel with two pounds of
+honey, and a third and an ounce of powder of fine cloves, and
+let it boil for half an hour. Then put said broth on top of
+boiled, or roast, with candied pine-nuts on top.
+
+### Another black broth, on game, or other
+
+Take of good black wine a large beaker, and two loaves cut in
+slices toasted, and put them to soak in said wine. Then have
+cleaned raisins, and put it with the bread to pound in the
+mortar; and as it is well pounded, you shall pass the wine, and
+the raisins, and the bread through the sieve; and as it is
+passed, put it in a vessel with sugar, or honey, and put it to
+boil; and if you put honey, skim it; and as said savor boils,
+put in pepper, and pounded cinnamon, and cloves inside, so it is
+strong, and that it responds; and see that the cloves stand
+[more] than the other spices; and mix everything well together,
+and that it is not too thick; and as it is cooked, have burnt
+almonds cut lengthwise in pieces, and cleaned raisins, and throw
+them in said savor; and then put the beef, or pork, or kid, or
+hare, in said savor in a pot on the embers; whole raisins if you
+put, when it boils, and a beaker of good strong vinegar.
+
+### Another black broth, on other meats for more
+
+Take a pound of dried grapes, or [obscured], taken out the
+seeds, and a pound of fine umbro (?) almonds without peeling
+them, and a pound of bread cut in slices, then a pound of
+slices of biscuit bread soaked in *agresto*, and pound
+everything well together... [the recipe breaks off in the scan].
+
+### To make clear *agresto* [verjuice]
+
+Take your *agresto*, and put it in a *pignatta* with [obscured]
+fresh (?), pepper, saffron, and a little droplet of oil, that it
+gives the eye; then let it take the boil; and it will be done.
+
+### Savor on fish in another manner, called *cordiale*
+
+Take *agresto*, and a little *sabba*, and beat inside [obscured]
+egg yolks, and a bit of saffron, and present it to the fire
+until it has taken body; and then throw it on top of what you
+please, with sugar, cinnamon on top.
+
+### *Potacci*, broths, and things in *tiella*, and in *pignatta* dipped, and in oven
+
+[So the book marks a new section: stews, broths, and pan-dishes.]
+
+### To make larded broth (*brodo lardiero*) of meat
+
+Take meat and cut it in pieces, thus cut square, like dice; then
+take lard a little cut small; then take broth, or water, and let
+it boil; then have raisins, put them inside. Then take crumb of
+burnt bread, and put it to soak in strong vinegar; then pass
+with the sieve, with said vinegar, and with a beaker of black
+wine, and honey, or sugar. Then put cinnamon, pepper, ginger,
+cloves, saffron. As the meat is nearly cooked throw inside said
+paste; and mind that there is not too much broth; and let it
+boil until it comes thick; and it wants to be eaten hot.
+
+### To make royal savor on [fish] for ten dishes
+
+Take half a pound of nuts (?), half a pound of hazelnuts, and
+half a pound of pine-nuts, half a pound of well-washed raisins,
+and up to six slices of bread soaked in black wine, and pound
+everything well together, and pass through the sieve with half
+an ounce of cinnamon, and a quarter of pepper, and a quarter of
+cloves, and half a pound of sugar, and a little saffron, in good
+fish broth; put it to boil in the *pignatta*; then [beat (?) —
+obscured] your fish fried in good oil, and put on top the said
+savor, which wants to have a little more of the thick than of
+the thin; it wants to be cold, and as you have dished it in the
+dishes put on top an ounce of cinnamon among all.
+
+### *Aglione* [great garlic sauce] on fishes, frogs, snails, and other like
+
+Take garlic, fennel, parsley, ... together, with crumb of bread
+soaked in *agresto*, and temper everything together, with
+*agresto*, and pass through the sieve, so that it is not too
+thin; then put a little pepper, and a little oil, and saffron;
+then put it to cook in a *pignatta* (?) so that it stands
+thickish. Then add fresh granati (?) fennel, and dish it hot on
+top of what you will.
+
+### To make cooked *agresto*
+
+Take strained *agresto*, and the crumb of two or three grated
+loaves, and basil (?), and green fennel, and pound everything
+well together in the mortar, and temper everything in the
+mortar with *agresto*, and then pass it through the sieve, with
+a little pepper and saffron, as it seems to you, and garlic if
+it pleases anyone; and put it in a *pignatta*, and let it take
+the boil so that it becomes thickish; as it is [obscured] put it
+on the embers always mixing it; let it cook gently; then put it
+on top of whatever sort of fish you will.
+
+### Savor called *galatina*, for ten dishes
+
+Take the slices of toasted bread, and put them to soak in
+strong white vinegar; then pound said bread, and pass it
+through the sieve; then take a pound of fine sugar or honey for
+that quantity you want to make, and of cinnamon an ounce and a
+half (?), and of pepper a quarter, and saffron; then put it in a
+*pignatta* at the fire, and let it boil a little, always mixing
+it; and [— the recipe breaks off in the scan].
+
+### Savor on fried prawns
+
+Take the prawns, after they are cooked boiled, and clean the
+tail, leaving the said tail thus cleaned attached to the bust,
+and put them to fry in the pan in fresh butter; then put on top
+sharp *agresto*, and a little fine cinnamon, and give them two
+turns in the pan, with some grains of *crespina*; then [obscured]
+whole *morene* (?), which... [obscured]; take them out of the
+pan, and let them stand a little; then dishing them (?) good
+prawns.
+
+### Savor of *marene*, or *brogne*, or fresh grapes, for ten dishes
+
+Take six bowls of *marene* (?), and clean them; put them in a
+*pignatta* with a crumb of bread, so that it stands dry (?);
+that humidity thereof (?); then pass the *marene* through the
+sieve; and put them in a [obscured] with of sugar six ounces,
+and of fine pounded cinnamon half an ounce, and tighten (?)
+as you please; it will be...; the same manner you shall keep in
+that of *brogne*, or grapes.
+
+### [Tail of a preceding savor]
+
+...put it in a *pignatta* with half a pound of sugar, and a
+little ginger, and put it to the fire, and let it take a boil;
+it will be done.
+
+### *Brognata* [prune savor] for ten dishes
+
+Take four bowls of clean prunes, and two crumbs of bread, and
+put them in a vessel with of *sabba*, or *agresto*, not much
+quantity, and let them boil a little; then pass them through the
+sieve, so that nothing remains of pulp; and what is passed,
+return to the fire in said vessel with a pound of sugar, and
+half an ounce of pounded cinnamon; let it boil so that it
+becomes somewhat thick; and of this savor you may put on many
+dishes; and when the prunes are dry put them first to soak in
+black wine.
+
+### *Peverata* [pepper savor] for ten dishes
+
+Take the [obscured] bread in [strong vinegar (?)], and then
+wring said bread with the hands; pound it well in the mortar;
+then pass it through the sieve with broth; and put it in a
+well-tinned pot with two pounds of honey, a third of fine
+pounded cinnamon, a third of pepper, and a little saffron, and
+it pleases so that it has of the yellowish. Then put it to the
+fire, and let it boil for the space of half an hour; then you
+shall put it on top of whatever roast you want; and you may put
+on top cut almonds, or shelled pine-nuts if it pleases you.
+
+### Fish *peverata*, for ten dishes
+
+Take two pounds of burnt ambrosian almonds with the husk, a
+pound of cleaned washed raisins, and pound everything well
+together, and temper with vinegar; pass through the sieve well
+thick. Then put the passed in a well-tinned pot with a pound of
+fine sugar or honey, and an ounce of fine pounded cinnamon, and
+half an ounce of pounded pepper; mix everything well together.
+Then [— the recipe breaks off in the scan].
+
+### French savor on capons, or loin [?], for ten dishes
+
+Take cooked apples (?), and four onions roasted in the embers;
+then pound said apples and onions in the mortar; then take
+black wine, and a little vinegar, and temper said things; pass
+them through the sieve, and put them in a tinned pot with of
+honey, or sugar eight ounces, and a sixth of pepper, and a
+sixth of ginger, and half an ounce of cinnamon, and a little
+pounded nutmeg; then put it to the fire to boil, always mixing,
+until it is thick; then you shall put a lemon cut in slices
+[obscured].
+
+### French-style savor on loin in another manner
+
+Take [obscured] well burnt, and put it to soak in [obscured],
+and *agresto*, as much of one as of the other; pass it through
+the sieve; and then put inside mace (?), pepper, and little
+pounded saffron, so that [obscured] cloves; and put it in a
+well-tinned [pot] to boil, so that the cloves give the odor.
+And when it is cooked take out the cloves; put it on top of
+whatever roast you want.
+
+### Savor on boiled, roast, and fried, for ten dishes
+
+Take a pound of peeled ambrosian almonds, and seven slices of
+white bread soaked in the broth, and well pounded everything
+together; temper with a little *agresto*, and pass everything
+through the sieve. Then [— the recipe breaks off in the scan].
+
+### White, morello, green, and yellow *agliata* [garlic sauce]
+
+Take the [obscured] of said nuts, and cleaned, and crumb of
+white bread soaked in good broth, and garlic as you please,
+and [obscured] pound everything well together; then temper it
+with good broth, or of meat or of fish, according as you
+please; and not wanting garlic, put pepper, and ginger; and
+wanting it yellow, put a little saffron; wanting it morella, or
+[obscured], take beets (?) (?), and put them to boil in water;
+and cooked take the part above that is colored, and pass it
+through the sieve with broth, and put it in a *pignatta*, and
+let it take the boil, and temper it with other broth, and pass
+it through the sieve, and then temper your *agliata* with more
+color, or less according as you want it open, or dark; and
+mulberries at the time would do such effect, and black grapes.
+Likewise wanting it green, take the juice of parsley, blite
+(?), and put it to boil in a *pignatta* with broth, and parsley,
+or beets; as the herb is well cooked, that it has come thick,
+pass it through the sieve; then temper it with broth; and then
+temper your *agliata*, and let it become cold; and in place of
+[obscured] you may make it of almonds, of cleaned walnuts, and
+kernels of pine-nuts, chiefly the roast, and it may be given
+alone, or incorporated of dishes of meat, or of boiled great
+fish, and on top of macaroni.
+
+[Editor's note — in plain words: The four-color garlic sauce —
+white, yellow with saffron, morello with beets or mulberries or
+black grapes, green with parsley juice — thinned to the shade
+you want, served cold, alone or over meat, great boiled fish, or
+macaroni.]
+
+### To make *camelino* for ten dishes
+
+Take a pound of cleaned raisins, and crumb of toasted bread
+soaked in strong vinegar; pound everything well together; then
+take a carafe of good black wine, and two beakers of good
+strong vinegar, and temper everything together, and pass
+through the sieve; then add a pound of honey, and more and less
+so that at your judgment it has of the sweet, and of the
+sourish; and an ounce of pounded cinnamon, and half an ounce of
+pepper, and half an ounce of ginger, and a quarter of cloves;
+and put it in a vessel, with a pound of cleaned raisins; let it
+boil so that it becomes thick, always mixing it, and letting it
+cook gently; then put it in the little dishes by itself, or on
+top of birds, and roast meat, and fried fish, or [obscured].
+
+### [Tail of a preceding savor]
+
+...strong... and pounded... and temper it with honey, sugar, and
+strong vinegar; and when it is dished, putting on top sugar,
+and cinnamon.
+
+### Sweet and strong green sauce
+
+Take parsley, mint, tarragon (?), and pound everything together;
+then have crumb of white bread soaked in strong vinegar, and
+[obscured] pepper, and temper everything together, with strong
+vinegar. And wanting a little garlic you may put it; wanting it
+sweet, put honey or sugar.
+
+### Sweet sauce in another manner
+
+### [Sweet sauce in another manner — the body]
+
+Take parsley, serpillo (?), fresh fennel, hard (?)... pound
+everything well together; then wanting it sweet add sugar or
+honey, and spices; and then temper everything well together,
+with strong vinegar; and not wanting it sweet put the spices
+without honey or sugar.
+
+[An obscured fragment follows — a line or two too mangled to
+render — then:]
+
+### Green sauce of *agresto*
+
+Take [parsley?], fresh fennel, basil, crumb of bread soaked in
+*agresto*, and pound everything well together; then temper with
+*agresto*.
+
+### French black sauce on roast loin
+
+Take burnt bread, and put it to soak in black wine, and juice
+of meat or capon, and pound it, and after it is pounded, pass it
+through the sieve; put it to boil, with a little cinnamon,
+pepper, cloves; it will be done.
+
+### [A sauce — the head lost in the scan]
+
+...whole, a piece of fine cinnamon, cut small. Then put it to
+the fire on the embers; let it boil so that it is thick as it
+ought; and well skimming it, watching it often so it does not
+pass the cooking; a little nutmeg... and it will be good. The
+French use this sauce on a liver of veal, or mutton in [obscured]
+of pounded lard roast.
+
+### Bastard sauce for ten dishes
+
+Take a pound of burnt almonds, and a pound of raisins, and a
+crumb of toasted bread that has been soaked in strong vinegar;
+and then pound everything together, and pass through the sieve
+with vinegar, and lean broth; put the passed in a *pignatta* of
+embers, with a pound of sugar, and half an ounce of fine
+cinnamon; let it boil so that it comes thick.
+
+### Peacock sauce for ten dishes
+
+Take a pound of burnt almonds, raisins, and eight *figadetti*
+(?) cooked on the embers, and six egg yolks. Then take strong
+vinegar, and lean broth; pound [so] that you will have the
+aforesaid things [obscured]... temper, pass through the sieve;
+then put them in a tinned pot or *pignatta* with a pound of
+sugar and half an ounce of fine pounded cinnamon, and let it
+boil nearly half an hour; and put inside the juice of six
+oranges; and according as it is nearly cooked...
+
+### Egg-yolk sauce
+
+Take parsley, ... fresh (?), serpillo (?), yolks of hard eggs,
+*figadetti* (?) cooked on the embers, sugar or honey, spices,
+crumb of bread soaked in strong vinegar; and pound everything
+well together; then temper with strong vinegar, and it will be
+excellent.
+
+The winter one you may make with [obscured] and [obscured],
+mint, dried fennel, taking little livers of chickens, and hard
+egg yolks, and spices of every sort.
+
+### [A savor — the head lost in the scan]
+
+...the ambrosian almonds, have an... [obscured]... and [obscured]
+sugar that is white, or a crumb of white bread, and pound well.
+Then with the water where the [obscured] were boiled, temper
+everything together, and put in a little *agresto*, or juice of
+lemon; and pass everything through the sieve, and put it in a
+tinned pot, with a little fine pounded cinnamon, on the
+embers, so that it takes the boil, and it will be done. And the
+mulberries do the same.
+
+### Yellow savor, imperial, for ten dishes
+
+Take half a pound of peeled ambrosian almonds, ground fine with
+the mill with a little [obscured] that it is like a salt (?);
+then take said things, and put them in a vessel, with half a
+pound of sugar, and half an ounce of fine pounded cinnamon, and
+two ounces of shelled pine-nuts, and two ounces of raisins, and
+half an eighth of saffron, and yolks of six (?) cooked eggs, and
+then of new (?); return to grind everything together, and
+temper with malvasia; and then put to the fire, so that it is
+cooked; putting on top sugar when it is dished; and you may
+also put on top grains of candied pomegranates.
+
+### Yellow savor of another sort
+
+Take the crumb (?) white, white wine, sweet white wine, and
+strong vinegar for half of the wine, and put them to boil with
+six ounces of well-purged white honey; and then pass it through
+the sieve with fine cinnamon, and so much saffron that it
+[gives the color].
+
+### Royal sauce for ten dishes
+
+Take a [obscured]... and put inside two pounds of coarse sugar,
+and [obscured] beakers of fine white vinegar, and twelve
+cloves... [the recipe breaks off in the scan].
+
+### Savor of carobs
+
+Take [obscured] carobs, well... only when they are well cooked;
+then pound them in the mortar, and pass them through the sieve
+with a little vinegar; then put them in a [obscured] with a
+pound of sugar, and half an ounce of cinnamon (?)...; then take
+it off the fire; and it will be... [obscured]. Cooked.
+
+### White savor for ten dishes
+
+Take the [obscured] well pounded, and temper with *agresto*,
+and a little rose water; you may also put the juice of two or
+three lemons; dished, put on top a little fine cinnamon.
+
+### Another white savor to put on fish or [obscured]
+
+Take the *galane* (?), or other fish fried in butter, or
+[obscured]; take ambrosian peeled almonds, and pound them with
+a clove (?) of garlic; then temper with *agresto*, adding a
+little saffron, and cinnamon; put everything together to the
+fire so that it takes the boil; and then throw it on top of the
+*galane*, and other [obscured].
+
+### Flesh-colored (*incarnato*) savor for ten dishes
+
+Take in winter time eight carobs, and grate a little on top the
+bark, and then put them to [obscured] according to the quantity
+you want to make; then [obscured]... [a page-break passage
+obscured] ...of ginger, an ounce, of [obscured] half, of
+[obscured] pounded six ounces; mix everything together, and pass
+through the sieve, or grind everything together with a little
+mill, and it will be most perfect; but not wanting it of sugar,
+make it of honey.
+
+### Mustard of another sort
+
+Take four pounds of honey, and put it to strain with two
+beakers of strong white vinegar, and let it take the boil so
+that it makes the foam; then take away that foam with a pierced
+ladle; strain said honey through the sieve; then return it to
+the fire and let it boil so that it returns thick, as it is when
+raw (?); then take it off, incorporate with it the mustard
+purged in strong vinegar, mixing it so well that it becomes
+like an electuary. But you must mix it often as it likes the
+strong (?). Then add an ounce of excellent cinnamon, and a
+little rose water.
+
+To purge the mustard: take it that it be pounded most finely,
+passed through the sieve; put it in a little pot, so that it
+incorporates with the strong vinegar, mixing it every day twice
+for the space of eight days, so that it loses the bitterness,
+that it remains in body of electuary.
+
+[Editor's note — in plain words: Mustard tamed the old way:
+eight days of twice-daily stirring in strong vinegar to take
+the bitterness out, then folded into honey boiled thick — an
+electuary of mustard with cinnamon and rose water.]
+
+### *Limonea* [lemon sauce] for ten dishes
+
+Take two pounds of cleaned almonds, take the pulps of a cooked
+capon (?), pound everything together; temper the whole with
+lean broth, and pass through the sieve; then put it in a
+well-tinned pot, and put a pound and a half of very white sugar
+inside, and three ounces of wheat starch, and temper well; put
+it on the embers; let it boil for the space of half an hour;
+then put inside the juice of eight lemons cut in very small
+pieces, with half of clear (?) rose water. This *limonea* is put
+on top of heads of veal, of boiled capons; tongues of
+pomegranates on top, or flowers of borage of other sort
+according to the time.
+
+### [Tail of a preceding recipe]
+
+...and it will be done.
+
+### To make a soup of *cibibo* [currants], or *brogne*, or figs, or dried morelles
+
+Take a pound of *cibibo*, and [obscured], and wash it well; then
+put in a *pignatta* with a beaker of sweet white wine, or
+malvasia, and half a beaker of rose water, half a pound of
+sugar, and four ounces of fresh butter, and a piece of whole
+cinnamon; then let it boil as long as it seems to you it has;
+and have your toasted bread cut in thin square slices, and put
+it in the bottom of the dish; throw on top the fruits and
+savor, and sugar, and cinnamon; and likewise do to the others;
+and also you may dish without [varying?]; in place of [obscured].
+
+### To make a soup of *calcinelli* (?) lean
+
+Take the *calcinelli* (?) after they have been soaked, and well
+cleaned of the [obscured], and put them in a vessel with oily
+herbs pounded minutely, with a little oil, a beaker of
+*agresto*, and a beaker of water, [obscured] of pepper, and
+ginger, and saffron, and let everything boil together; then
+have your bread cut in slices in the dishes, and throw on
+top said *calcinelli*, broth; it will be done.
+
+### Savors for fat, and for lean
+
+[So the book marks the turn from sauces to the soup run — and
+gives the heading of the next recipe:]
+
+### Mustard
+
+### [Mustard — the tail]
+
+Take a pound of clarified sugar, [obscured] fine cinnamon...
+
+### To make lentils in savor
+
+Take raisins, and clean them very well; put them in a vessel,
+and pound them very well with some toasted bread that has been
+soaked in black wine and a little vinegar together; and pound
+well said bread and raisins. Then temper everything with said
+black wine and vinegar; pass through the sieve; and as you have
+passed these things, put them in a vessel with honey, so that
+it has of the sweet and sourish. Then cinnamon, and pepper; and
+put them on the fire, that it boils gently, mixing the
+composition with a spoon until you see that it is honestly
+thick. Then take your cooked lentils that are cooked in the
+water, and put them to boil in said savor a little; and it is
+[done].
+
+### To make pike soup (*minestra di luzzo*)
+
+Take [small (?)] pikes, and scale them thus raw; then take the
+pulp, and the loins, and clean them well of the bones; pound
+them with the knives as one does the lard to put in minestra;
+then take an ounce and a half of butter, and pound with it oily
+herbs, and parsley, and a little onion if you want; and put all
+these things a little to dissolve. Then have a *pignatta*, and
+put all of them inside with little water, and juice of oranges,
+or *agresto*, and twelve egg yolks, six ounces of raisins, and
+of cinnamon half an ounce and of pepper a quarter, and of
+[obscured] a quarter, of cloves an eighth; let it cook gently,
+gently, and [— the recipe breaks off in the scan].
+
+### To make spinaches in savor
+
+Take the spinaches clean, and washed, and then [wash (?)] them
+very well in the [obscured]; wring them well of that water; and
+then put inside oil, honey, and vinegar according to the
+quantity you want to make, so that they have of the sweet, and
+of the sourish; take well-washed and cleaned raisins with
+cinnamon, pepper, and few cloves, and a little saffron, with a
+little *agresto*; let them boil in a *pignatta* (?)...
+
+### [A fruit savor — a fragment]
+
+...with raisins... and ten dates cut small, three ounces of
+Damascene prunes, and as it is cooked, put inside half a beaker
+of rose water; and as you have dished it put on top sugar,
+cinnamon; cooked, the... savor (?) of the raisins.
+
+### To make the *carabazada* lean, for ten dishes
+
+Take onions and clean them, and have them well cooked in water.
+Then take them out of said water (?), and put them in a
+well-tinned pot, with two pounds of good oil, and let them boil
+always breaking them, mixing them. Then have a pound and a half
+of well-peeled ambrosian almonds, and pound them, and temper
+them with *agresto*, so that it remains thickish; and throw them
+inside said pot with half an ounce of cinnamon, and let them
+boil a little always mixing. Then as it is cooked, and dished
+throw on top [sugar — cut off].
+
+[Editor's note — in plain words: Onions boiled, broken, and
+fried in two pounds of oil, bound with almond milk tempered in
+verjuice, cinnamon — the lean *carabazada*.]
+
+### Another golden soup, lean
+
+Take the [obscured]... half of well-washed clean raisins, and
+fish eggs cooked boiled, and pound everything well together,
+and temper with lean broth; pass through the sieve; put in a
+tinned pot with half a pound of sugar, and a quarter of
+cinnamon, and the juice of eight oranges, or *agresto*, and put
+it to the fire, and let it boil for the space of more than a
+quarter of an hour, always mixing; and then have slices of good
+toasted bread, and fried in good oil, and put them in little
+dishes; then throw on top said savor, with sugar and cinnamon
+on top; and in place of frying the bread, you may soak it a
+little in fish broth. Then put it in the dishes.
+
+### To make millet soup (*minestra d'omito* — of millet), lean, for ten dishes
+
+Take two pounds and a half of ambrosian almonds [peeled],
+well, and make milk; then have eight ounces of millet flour,
+and a pound of white sugar, and put everything together, in a
+well-tinned pot, and put it to the fire to boil, watching it
+(?); and let it boil for a quarter of an hour always mixing; as
+you take it off the fire, throw four ounces of rose water
+inside; and when you have dished it put on top sugar.
+
+### To make Turkish rice, lean, for ten dishes
+
+Take two pounds and a half of cleaned ambrosian almonds, and
+pound well, and make milk, tempering it with water. Then have
+two pounds of rice that is washed, rinsed with hot water, so
+that it is well white. Then have a tinned pot clean, and put
+inside the milk, and the rice with a pound of white sugar; and
+mix everything well together; and then put it to the clear
+fire, always mixing; as the rice shall seem well cooked to you,
+then take it off the fire, and put inside half a beaker of
+rose water; and as you have dished it put on top sugar.
+
+### To make *genestrata* [broom-flower soup] lean, for ten dishes
+
+Take [obscured] of ambrosian almonds [peeled], well, ... milk,
+tempering it with water. Then put it in a well-tinned pot, and
+put with it a pound and a half of rice flour which you shall
+temper well with said milk, and with a pound and a half of
+sugar; then put it on a trivet at the clear fire, always mixing,
+as is done for *bianco mangiare*. Then put inside an ounce of
+fine cinnamon, half (?) of pepper, and so much saffron that it
+[gives the color]; [obscured]... and it will be excellent.
+
+### To make a soup of royal *cibibo* [currants]
+
+Take half a pound of *cibibo*, and take out the seeds; then put
+it to soak in rose water for an hour. Then take it out of said
+water, and dry it well with a white napkin. Then put it in a
+clean *pignatta* with two beakers of trebbiano or other white
+wine, and if it is sweet it will be better, with a little sugar,
+and fine cinnamon, and let these things boil together, so that
+it comes thick in savor. Then have some slices of toasted
+*buffetto* bread, and put them in a dish. Then throw on top said
+*cibibo* and savor, and then a little sugar, and cinnamon on
+top; it will be excellent.
+
+### Soups for days of Lent
+
+[So the book marks the Lenten soup run.]
+
+### To make ten dishes of white *mangiare*, lean
+
+Take [obscured] of well-peeled ambrosian almonds; pound them,
+and then grind them with the mill with the milk of said
+almonds; as they are ground put them to the fire on a trivet in
+a well-tinned pot with a pound of rice flour, and a pound of
+fine sugar, and with a [pike (?) — obscured] or *varolo*
+pounded, and passed through the sieve; let everything boil
+together half a good hour always mixing with the wooden
+spatula; and as it is cooked this *mangiare* put inside a little
+rose water; and taken off the fire, and dished as it is, put on
+top fine sugar.
+
+[Editor's note — in plain words: The lean blancmange — almond
+milk ground with rice flour and sugar, thickened with pounded
+pike or *varolo* passed through the sieve, rose water, sugared
+on top.]
+
+### To make soup of hop-shoots, or asparagus, when they are small
+
+Take the tops of hop-shoots, and give them a boil; and then take
+them out, and put them in good fat broth with a slice of
+*persutto*; put a little pepper, and of saffron, and of
+cinnamon; let them boil thus gently, so they are cooked; and...
+[obscured]; then take [obscured] toasted fried... in fresh
+[obscured], or lardone; when you will dish said minestra,
+[obscured] slices of bread in the dish...
+
+### To make lean cabbages in another sort
+
+Take the hearts of the cabbages, cut in quarters, and wash very
+well; and have your water at the fire that it boils, and put
+them inside with a little crust of hard cheese, with half a
+pound of fresh butter, and salt; and as they are nearly cooked
+put inside another half pound of butter, and a good handful of
+parsley cut with the knives; as they are to be dished, put on
+top hard grated cheese with a little pepper mixed, and thus in
+change of butter you may make with oil.
+
+### To make a soup of passed raisins
+
+Take half a measure (?) of well-cleaned washed raisins; pound
+it in the mortar. Then temper it with black wine; if it is
+sweet it will be better; then pass it through the sieve in a
+clean *pignatta*; add sugar and cinnamon according to your
+judgment; then put it to cook on the embers. Then have ready a
+[obscured] with five or six thin slices of toasted *buffetto*
+bread, and throw on top...
+
+### [Stuffed cabbages — a fragment]
+
+...[obscured] according to the quantity you want to make. Then
+take the hearts of the cabbages, [obscured] of said paste, and
+then [obscured]... and put to cook in good fat broth with a
+piece of good *persutto*, and a good pounding of lard; and when
+it is nearly cooked put a handful of parsley pounded with the
+knives; if you want a yellow *mortadella* to cook with it they
+will be [good].
+
+### To make meat soup
+
+Take a leg of veal that is pounded small, and [obscured] of
+[obscured] clean of those small bones so much as are the two
+thirds of the meat, and pound everything well together; and
+then throw them in a *pignatta* on the embers with ginger, and
+little pepper according to your judgment, and of whole cloves
+more or less; and as it is cooked, put with it juice of
+oranges, or *agresto*; and if it were thick add a little water,
+or broth which is better, and let it cook; and as it is cooked,
+put it [in the dishes (?)] and then dish it in your dishes; and
+in the middle of said minestra put a hard cleaned egg, with
+three cloves inside; and an egg for a dish.
+
+### To make broken *cesi* (?), with *codeghe* [rinds]
+
+### To make broken *cesi* (?), with *codeghe* [rinds]
+
+Take your broken (?) chickpeas, cleaned, and wash them with
+well water, or river; and put them to cook in said water; and
+thus as they go cooking, add good fat broth; and then take a
+good pounding of lard, and throw it inside to cook; see that it
+is well pounded; and then take your boiled *codeghe* cooked
+boiled by themselves, and cut them in squares, and throw them
+inside with oily herbs that are well pounded with the knives;
+and see that there is on top of everything mint green (?);
+pepper, ginger; then dish it.
+
+### To make Hungarian [soup] of another sort, for ten dishes
+
+Take fifteen beakers of good cow's milk; not having [obscured]...
+half a pound of fresh butter, three beakers of *agresto*, or
+less, according as you want it sourish; then take the crumb of
+a big bread, and wet it in the *agresto*; pound it with three
+ounces of raisins, and three ounces of shelled pine-nuts, half
+a pound of sugar, and half an ounce of cinnamon; and pound a
+little saffron; let everything boil together, mixing it so that
+it is thick; put in, when you want to take it off the fire, a
+little rose water.
+
+### To make egg soup broken Hungarian-style, for ten dishes
+
+Take [obscured] forty, beat them well in a vessel with two
+[beakers] of *agresto*, and one of water; and after you have
+well beaten all these things together, pass them through the
+sieve. Then put them in a clean *pignatta*, and [obscured],
+with half a pound of fresh butter, and half a pound of sugar.
+Then have a cauldron of water on the fire, that it boils, and
+put inside said *pignatta* so that it is covered to the half;
+and mix always with a spatula until said eggs thicken a little,
+as would a savor; then dish it with sugar and cinnamon on top.
+
+### To make stuffed cabbages in soup
+
+Take whole cabbages, and take out the great leaves around, and
+[obscured], put them to soak in fresh water; then take hard
+grated cheese, and pounded lard, oily herbs, and cleaned
+bruised nuts, and a little pepper, ginger, cloves, or a little
+nutmeg, [obscured], and a little saffron, a little garlic, and
+incorporate everything well together... [a page-break passage
+obscured] ...quarter, and put inside, and let them bind a
+little, so they are cooked; then take them off the fire, and
+put on top the juice of four oranges, or *agresto*, or lemon;
+and when they are dished put on top two ounces of sugar, and a
+pinch of cinnamon.
+
+### Herb soup French-style
+
+Take the little herbs, and clean them, wash them whole, and put
+them in the water that boils; let them take a boil; and as they
+are half blanched, take them out of the water, and put them on
+a board, that they may drain; and then pound them with the
+knives, so they are well pounded, and wrung; then put them in a
+vessel with pounded small lard, and let them fry; and then have
+fat broth, put it inside in manner that they are not too thin;
+let them boil a little; and then put inside pounded pepper, and
+with salt that they are well of salt; and then have a piece of
+salted meat and cut it in slices, and fry it in the pan in
+white [fat]; and then take slices of toasted bread that are
+colored; as the herbs are cooked put the slices of bread in the
+bottom of the dish, and put the herbs on top, and then on top
+of the herbs put the slices of the salted fried meat.
+
+### To make ten dishes of soup Hungarian-style
+
+Take fifteen eggs, and beat them very well, and fifteen beakers
+of good cow's milk, and incorporate well together; and put a
+pound of pounded sugar, and a pound of fresh butter; and
+incorporated everything well together, put said composition in
+an earthen *pignatta* well glazed. Then take a vessel of water,
+and put inside the said covered *pignatta*; let said vessel
+boil, until it is cooked; and mind to keep water put in said
+vessel that it is not too full, and that it boils at a slow
+fire; and dished the dish put on top half a pound of sugar.
+
+### Passed barley soup, substantial
+
+Take pearled barley, [?], washed at several washings; then put
+to cook in broth so that it is well cooked; pass it through the
+sieve as it is well cooked; put it in an unglazed (?) vessel
+with good capon broth; have one pulp, or two of capon well
+pounded in the mortar, and then pass them with broth through
+the sieve; put everything in said vessel with sugar; put it on
+the embers, so that it takes the boil, always mixing; as it
+takes the boil throw inside a little rose water; as it is
+cooked, as it is dished put on top sugar; and it will be like
+a drink.
+
+### Barley soup, for the sick
+
+Take pearled barley, cleaned, well washed; let it cook in
+water; as it is well cooked pass it through the sieve. Then
+have a glazed vessel; put it inside with milk and kernels of
+melon, sugar; let it take the boil always mixing; and it will
+be cooked; you may add also a little rose water.
+
+### *Miraust* [Catalan-style roast] of squabs, or little livers, which is served in place of soup
+
+Take a pound and a half of toasted ambrosian almonds, pound
+them in a mortar, and after you have pounded them, temper them
+with a little broth that has of the thick, and put it in a
+*pignatta* with nine ounces of sugar, and half an ounce of
+cinnamon, and an eighth of pepper. Then put it on the embers to
+boil very gently, always mixing; and a little after have two
+pairs of squabs, or chickens roasted to half; and cut them in
+[pieces — the recipe breaks off in the scan].
+
+### [A milk cream — the head lost in the scan]
+
+...well beaten, and [obscured]. Then you shall make white flour
+with the half of said milk, and temper everything well with
+said composition. Then take the other half of the milk, and put
+it in a clean vessel on the flame of the fire well clear that
+it takes no smoke with good fresh butter; and as it boils,
+throw inside the said composition, stirring it very well with a
+staff largish in head below; and throw inside a little rose
+water according to the quantity you make; and as you see that
+it is thick, take it off the fire, and throw it in another
+vessel. Then you may fill the pastes (?) on said; give them for
+minestra with sugar and cinnamon on top.
+
+### Eggplants, or *pome di degno* (?), in soup, or filled, or fried, or in the *tecchia* (?) or on the grill
+
+Take the eggplants, and soften them; take out the [seeds]; and
+if you want them filled take of its paste, and good cheese and
+eggs and spices, and oily herbs, and pound everything well
+together, and fill, and put them their cover that you took
+away, and tie them well so that said paste does not come out.
+Then put them to cook in good fat broth; dish them taking away
+their cover. Then put on top grated cheese, and spices; and
+this shall be the first manner to make them in minestra filled.
+
+And wanting to make them in pieces, clean them, and give them a
+good boil, and then put them in a vessel to cook with good hard
+cheese, spices, eggs, and oily herbs minced; and it shall be
+minestra diurna (?).
+
+If you want in the *tecchia* (?), keep the manner that is kept
+to make the [obscured]; ... put among those (?) a little of
+pounded small *persutto*, and... and the [obscured] with
+condiment.
+
+If you want them fried, keep the manner of the [obscured].
+
+And if you want them on the grill, on the embers do not clean
+them; fill them in the first manner of those that go boiled;
+and after they are well cooked, clean them.
+
+### To make a dish of *marene*, or musk pears, or *brogne*, or *maniache* (?) or other fresh fruits
+
+Take a good [measure] of the aforesaid fruits, except the
+*morene* that do not want peeling, without (?)... and put it in
+a *pignatta* with half a pound of sugar, a piece of whole
+cinnamon, half a beaker of good black wine, and half a beaker
+of *agresto*, and an ounce of fresh butter, and put to the
+fire; let it take the boil; and when it has almost the cooking
+of the salted (?), put then the fruits; let them boil until
+they are cooked.
+
+### To make a soup of lettuce ribs in manner that they shall seem squashes, a month before the time
+
+Take the stalks, feet of lettuces, clean them very well, and
+cut away all the hard, [cut] them small. Then put them to boil
+in good broth, with a little of good *persutto*, or salted meat
+according to the quantity of which you want to make, a little
+pounded lard; and let them boil as if they were squashes; and
+after they are nearly cooked, put them a little fennel, and a
+little basil at its time inside, and a little saffron that they
+shall seem natural squashes; and a little *agresto* does them
+no harm; if you put inside also pounded onion it will be
+better.
+
+### French cream, for filling *fiordeligi*, scallop shells of Saint James, tarts, and [obscured]
+
+First [obscured] the milk [skimmed?]... [a page-break passage
+obscured] ...then put the mixture always at slow fire until it
+is [set]; then let it cool; cooled dish it; and then put on
+top, among all the dishes, a quarter (?) of fine sugar, a
+quarter of cinnamon.
+
+### To make ten dishes of *genestrata*
+
+Take two [obscured] of (?) fresh, and a pound of rice flour,
+and a pound of sugar, and nine ounces of clean raisins, and two
+ounces of shelled pine-nuts, and four ounces of Damascene
+prunes, taken out the seeds, cut lengthwise, and three (?) of
+dates cut in pieces, and an ounce and an eighth (?) of pounded
+cinnamon, and a pinch of pepper, and some pounded cloves, and
+ginger, and so much saffron that it gives the color; mix well,
+and put everything together in a well-tinned vessel, and put it
+to the fire, mixing always half an hour or less; while it boils
+throw inside half a pound of melted fat (?), or of fresh
+butter; when you want to take it off the fire, throw inside a
+little rose water. And mind that the raisins are not too
+cooked.
+
+### To make ten dishes of *levesini* (?) [as printed]
+
+Take two *levesini* of veal, have them cooked so they are well
+cooked; and then pound them with the knives well with oily
+herbs together; and then put them in a vessel to cook at the
+fire with good broth; and let them boil; then take a pound and
+a half of hard grated cheese, and ten eggs, and half a beaker
+of *agresto*, and a quarter of pounded pepper, and a little
+[obscured]; and beat everything well together, and throw that
+beaten in said *levesini*; and leave them a little at the fire;
+that is so long that they are well [bound (?)]; then take them
+off the fire; and throw them on top of a little fat broth; and
+it will be done.
+
+### [A sweet dish — the head lost in the scan]
+
+...put everything in said vessel; put it to the fire always
+mixing; as it has boiled for half an hour, take it off the
+fire, and put it on the embers always mixing, until it comes
+thick; then put it to cool; and as it is cooled, dish it
+putting on top half a pound of sugar, and half an ounce of
+cinnamon. This dish may be made also lean, tempering it with
+pike broth, with butter in place of fat broth.
+
+### To make ten dishes of soup, of *puvina* (?) passed through the sieve, of more colors
+
+Take five (?) fresh eggs (?), and pass them through the sieve
+in a well-glazed *pignatta* with half a pound of fresh butter,
+and of sugar a pound and a half (?), and of rose water three
+ounces, and mix it well; and as it takes the boil it will be
+cooked; and when you have dished it put on top half a pound of
+sugar; if you want to make it yellow put a little saffron; if
+flesh-colored, juice of mulberries, or carobs; if green, juice
+of parsley; and when you want so much juice of one of these
+things that it were too liquid, put a little wheat starch.
+
+### To make ten dishes of soup, of the paste à *smonta* (?) [whipped — as printed]
+
+Take three pounds (?) of white sugar, and break it, and put it
+in a [obscured], and [wet it] with four ounces of rose water,
+and put it to the fire to boil so that it is all undone; take
+away the foam that said sugar makes; take of wheat starch nine
+ounces, and put it in another vessel with eight ounces of rose
+water; and if it were mixed (?) it will be better; with a
+spoon temper it well until it becomes in milk; and become that
+it is, throw it on top of the sugar, keeping however the sugar
+hot; and put it on the fire, and with a [spatula — the recipe
+breaks off in the scan].
+
+### [A tripe dish — the head lost in the scan]
+
+...cook; when it is well cooked make it in small pieces, and
+put them in a vessel with good fat broth with a pounding of
+lard, and oily herbs mixed; let it boil. Then have hard grated
+cheese, and beaten egg yolks, and a little saffron, and pounded
+pepper according to the quantity of which you will make them,
+and throw them inside, and let them take the boil; and it will
+be done; and if in cooking the *triplette* (?) you put a little
+*persutto* to boil, it will be most excellent.
+
+### To make the *carabazada* of squashes, or melons, or onions, for ten dishes
+
+Take as many squashes as you want, and clean them, and cut them
+in pieces, and put them to boil in water with a piece of good
+*persutto*; and let them boil nearly half an hour. Then take
+them out of said water, and put them in another vessel with a
+[obscured] of milk, and two pounds of hard cheese, and a little
+*agresto*; and put everything to the fire, and let it boil a
+little. Then take out the cheese, and take it off the fire; and
+have two pounds of melted fresh [fat], throw it inside with ten
+beaten egg yolks; then return it to the fire, letting it boil
+for half an hour always mixing; and it will be cooked. Then as
+you dish it, put on top half a pound of sugar, [half] an ounce
+of cinnamon together.
+
+### To make ten dishes of *villanata* (?) of *nizzole* (?) Turkish-style
+
+Take four pounds of *nizzole* [hazelnuts (?) — as printed]
+well rubbed after they are toasted; then pound them in the
+mortar, and temper them with good broth, and pass through the
+sieve, and put them in a tinned vessel. Then have a pound of
+sugar, and an ounce and a half of cinnamon, and a sixth of
+pepper, and an eighth of cloves, and so much saffron that it
+gives the color, and a pound of melted [fat]... [a page-break
+passage obscured] ...half of butter inside, and a little rose
+water; and dished as it is, put on top sugar.
+
+### To make rice, or spelt, with egg yolks and cheese
+
+Take [obscured]... put it to boil in fat broth; and as it is
+cooked, take two pounds of good hard grated cheese, ten egg
+yolks, and mix said eggs with the cheese; throw them in said
+rice, with a quarter of pepper, and a little saffron, mixing
+everything well together with the [obscured]; until it is
+cooked; when it is dished, put on top [obscured] of sugar; put
+on top (?) cinnamon; it will not spoil at all; and you may also
+make without.
+
+### [A rice dish — the head lost in the scan]
+
+...You shall keep [obscured]... until it is dished in the little
+dishes; then make four or five [mounds] per little dish on top,
+of the bigness of an egg; put an egg for [each place]; with
+sugar and cinnamon on top, in the same quantity that is said in
+the other; then give them a heat with the *testo*, and send them
+to table; in place of the eggs you may put egg yolks on top; it
+will be the same effect.
+
+### To make tripe of veal, or of lamb, or kid
+
+Take the tripe well washed, clean in the manner... [a
+page-break passage obscured] ...rubbed, and clean, and pound
+them in the mortar with a boiled capon breast cut small, a
+pound of sugar, and pound everything well together; and as it
+is pounded and incorporated add [four (?)] beaten egg yolks,
+and two ounces of rice flour, and a quarter of fine cinnamon,
+and little ginger, and so much saffron that it gives the color;
+and when said things are well incorporated together, take good
+broth of meat, or of fat capon, and temper everything well
+together, and pass through the sieve a little thin, and put it
+in a [obscured] loaf (?) with so much *agresto* that it gives
+a little of the sourish; and put it to the fire of charcoal
+always mixing it for half an hour; and when it is cooked dish
+it putting on top [obscured] of sugar, and half an ounce of
+cinnamon. This dish may be made also for lean days, pounding
+the bellies of a pike, or [obscured] in place of the capon, and
+tempering them with [obscured] broth of [varolo] in place of
+fat broth.
+
+### To make tripe of beef, or cow
+
+Take your tripe after they are well clean, and cooked; in
+cooking them put a little *persutto* to boil inside. Then cut
+them in pieces, and put them in fat broth with a pounding of
+lard, and oily herbs pounded, and a little pepper, and saffron;
+and cooked, dish them putting on top a little hard grated
+cheese, and a little pounded pepper mixed together.
+
+### To make rice, or spelt, Turkish-style
+
+Take a pound and a half of rice that has not [obscured], and
+washed well with hot water, and after put it to dry, and clean
+it; then take the weight of good cow's milk, and put it in a
+well-tinned pot on a trivet at the fire, and put inside said
+rice with a pound of very white sugar, and let it boil, always
+mixing with a wooden spatula for half an hour... [the recipe
+breaks off in the scan].
+
+### To make white *mangiare* of [obscured], lean, for ten dishes
+
+Take two [obscured] of good cow's milk, and six ounces of wheat
+starch, and temper everything well together little by little
+at the fire with a pound of very white sugar; and put
+everything together to the fire on the trivet in a well-tinned
+pot as you would do the *bianco mangiare*, and let it boil for
+half an hour always mixing; and as it is cooked throw inside
+half [a pound (?)] of fresh butter, a little rose water, and
+take it off the fire; and when you dish it put on top saffron
+(?).
+
+### To make imperial yellow soup
+
+Take the pulps of a capon, half a pound of peeled ambrosian
+almonds; pound everything well together in the mortar; and then
+take the crumb of a big *buffetto* bread in slices that are
+soaked in four beakers of malvasia; take eight fresh egg yolks,
+and nine ounces of sugar, and half an ounce of cinnamon; mix
+everything well together; temper with good fat broth, and pass
+everything through the sieve; and then put it to the fire in a
+tinned pot, and let it boil for the space of half an hour
+always mixing and guarding it from the smoke; as it takes the
+boil, throw inside four ounces of cleaned shelled pine-nuts;
+when you take it off the fire throw inside half a beaker of
+rose water; when you have dished it [sugar] and cinnamon.
+
+### To make yellow dish Neapolitan-style for [ten]
+
+Take [obscured] of ambrosian almonds with... strip the pulps,
+and take six ounces of [rice (?)] flour, and thirty (?) of
+milk... [the recipe breaks off in the scan].
+
+### [Yellow dish Neapolitan-style — the body]
+
+...strip the pulps, and take six ounces of [rice (?)] flour, and
+thirty [obscured] of good milk, and put everything in a
+well-tinned pot, and do in this manner: take the milk, and put
+inside the aforesaid flour little by little, and incorporate
+well together; then put inside the stripped pulps of the hen,
+and a pound of fine sugar, and put the pot on the trivet, and
+give it the clear fire without smoke, keeping it always mixed
+until it is cooked; and when it is cooked, put inside half a
+beaker of rose water; and when it is dished put on top fine
+sugar. The chicken is gutted before it is cooked; I have found
+much better to strip the pulps of the hen, or chicken, and pass
+them through the sieve with the milk — it is easier, and
+cleaner; but everyone do in his own manner.
+
+[Editor's note — in plain words: The master pauses to teach:
+strip the meat off the hen and sieve it with the milk — easier
+and cleaner than boiling her whole.]
+
+### To make white *mangiare* of another sort
+
+Take two pounds of ambrosian almonds, and let them stand soaked
+a day and a night in fresh water; then clean them of the husk,
+and pound them in the mortar; and as they are well pounded put
+a little rose water on top, so that they do not make oil; and
+then take a breast of a black hen (?) boiled, or of a capon
+also boiled, and the crumb of a white bread soaked in lean
+broth, and pound everything together, and incorporate well with
+said almonds together, with a pound of fine sugar, a little
+*agresto*, and half an ounce of pounded cleaned ginger, before
+it remains well white; then temper all these things with lean
+broth of capon, or of veal, and pass everything well through
+the sieve, and put it in a clean *pignatta*, or other
+well-tinned vessel, and put it on the embers to boil far from
+the fire, so that it takes no smoke, always mixing it until it
+boils, thus for the space of half an hour; and as it is cooked,
+put three ounces of rose water, and this is a dish to dish
+alone, or on top of capon or other; putting then on top a
+little fine sugar, or some grains of pomegranate.
+
+### To make ten dishes of *capirotta*, which may serve for lean
+
+Take three pounds of good hard cheese, grate it, and then
+pound it in the mortar with a clove of garlic; the pulps of a
+boiled capon, and as you have well pounded everything together
+add fifteen egg yolks, and incorporate everything well
+together, and temper said things with good fat broth; then pass
+through the sieve, and put said passed composition in a
+*pignatta* at the fire always mixing it, and let it flower (?);
+throw inside a pound of fresh butter. Then have slices of
+toasted bread, and pulps of capons, or boiled pheasants, and
+lay them in the little dishes, and throw on top said
+composition; you may also make without pounding the pulps of
+the capons; and for fish days you may temper it with fish
+broth, and [obscured].
+
+### Soup of *calcinelli* (?) fat
+
+Take the *calcinelli* well washed, that have been well purged
+of the sand. Then put them to boil in good fat broth with a
+little sweet spices, and let them boil so that they open; and
+as they are opened have slices of bread; put in the bottom of
+the little dishes one layer, or two, as you please; and in the
+bottom of the little dish, and on top of the bread, between one
+layer and another, hard cheese or fat grated cheese, and
+spices mixed together; and then throw on top the broth of the
+*calcinelli*; and you will find it good.
+
+### To make ten dishes of white *mangiare* fat
+
+Take a hen [obscured] boiled... [the recipe breaks off in the
+scan — only the title survives].
+
+### To make a soup of *marene*, musk pears, or *brogne*, or *muniache* (?), or other fresh fruits
+
+Take a pound of *morene* at good weight, and clean them; put
+them in a *pignatta* with a piece of whole cinnamon, a bit of
+nutmeg, and two beakers of black wine, and four ounces of fresh
+butter, and six ounces of sugar; let it boil so that it has
+[obscured]; then have *buffetto* bread in thin square slices
+toasted, and lay it in a dish; throw on top the *marene*; and
+the same you shall do in that of musk pears, *brogne*, or
+*muniache* (?); but see that they boil more, according as it
+shall seem to you they are cooked. And note that the pears,
+*muniache*, *brogne* want to be peeled, which you shall do
+lightly; boil them in water, or broth; wine; you shall cut away
+half the stalk of the pears; you shall make of them...
+
+### Most good sourish soup
+
+Take a little milk; and not being able to have milk, take of
+the [obscured], a little loaf of fresh butter, and *agresto* as
+much as it seems to you it needs; it wants sourish; then take
+a little crumb of bread soaked in *agresto*, and pound it in
+the mortar with a few (?) pine-nuts; pass it through the sieve.
+Then put everything in a well-tinned pot with two beaten egg
+yolks, a little raisins, a little cinnamon, and sugar, and a
+little saffron, and cook it on the embers always stirring so
+that it becomes thick as it ought. And when you want to take it
+off the fire, throw a little rose water inside. Then have
+little slices of toasted bis (?) bread, and put them in the
+bottom of the dishes...
+
+### [A soup — the head lost in the scan]
+
+...[obscured]... and [six (?) — obscured]... a layer.
+
+### To make a lean English soup
+
+Take water (?) with a little salt; and then have roots of
+parsley scraped, and taken out the pith (?), and put them in
+said water with fresh butter, and pounded ginger, and let it
+boil so that the roots are cooked; and as they are cooked, take
+beaten egg yolks tempered in *agresto*, and throw them inside.
+And then take slices of *buffetto* bread cut, and toast them,
+and lay them in the dishes; throw on top said soup, and then on
+top sugar, and cinnamon as much as...
+
+### To make a soup, with squabs, or chickens
+
+Take slices of toasted bread; then take squabs in quarters
+cooked roast; have a tiella of stone, and put a layer of slices
+of bread in the bottom, with cheese and sugar, and cinnamon;
+and then make another layer with said quarters of squabs on
+top, with sugar, and grated cheese, and cinnamon, with another
+layer of slices of bread, with sugar, and grated cheese, and
+cinnamon; and then take good fat broth and put it on top, so
+that it is [under (?)]; and then give it another hand on top of
+sugar and cinnamon, and grated cheese; and give it a heat with
+the *testo*, and it is done. And thus you may do in a dish of
+*agresto*.
+
+### To make a royal golden soup
+
+Take half [a pound] of ambrosian almonds with the husk toasted,
+and pound them in the mortar, and temper them with juice of
+oranges, or *agresto*, and five egg yolks, and half a pound of
+sugar, and a little saffron to give it the color; mix
+everything well together, and pass through the sieve; and then
+put it in a well-tinned pot to cook it always stirring, until
+it is cooked; so that it does not smell of egg, nor of almonds;
+then have a *pignatta*, and put inside two ounces of sugar, two
+ounces of rose water, and two ounces of clean raisins, and let
+these things boil by themselves until the raisins are well
+tender; then have *buffetto* bread cut in square slices, a
+little toasted, and have well-beaten eggs; soak well inside
+said slices of bread, and then fry them in melted [fat] or
+fresh butter. Then [obscured]... of the raisins. Then on top
+another layer of slices of bread, and on top another savor,
+and on top of the savor, the other raisins; and it will be most
+perfect, putting then on top sugar, and cinnamon as much as it
+contains.
+
+[Editor's note — in plain words: The gilded soup — almond savor
+with egg yolks and saffron, bread soaked in egg and fried,
+layered with boiled raisins, sugared and cinnamonned: the
+book's showiest lean soup.]
+
+### To make golden soup of another sort
+
+Take of ambrosian almonds a pound, and rub them well with a
+cloth, and pound them well; and of fine pounded cinnamon half
+an ounce, and an eighth of pepper, and a little saffron, and
+six egg yolks, and half a pound of sugar, and temper everything
+well together, with a little rose water, and so much *agresto*
+that it is enough, and pass everything through the sieve; put
+the passed in a tinned pot... let it take the boil... [a
+page-break passage obscured] ...fried, and put in a little dish
+with said savor on top; and then put a quarter of cinnamon, and
+two ounces of sugar on top; if the soup is of made bread (?),
+do not do other; if it is of bread... put the dish on the
+embers, and with the *testo* give it a heat; and to fry the
+bread you may also soak the slices in milk...
+
+### Diverse soups — first, to make a fat soup
+
+Take slices of biscuit bread... in a tiella in the... and after
+they are biscuit, take of hard grated cheese, and sugar, and
+cinnamon as much as suffices, and a little pepper. Then have
+good capon broth, or of meat; put said cheese in the bottom of
+the little dish, and thus go putting on top the slices of bread
+layer by layer, and of the broth likewise; and thus on top;
+and being finished, put on top the hot [obscured] and with a
+dish (?) until you want to send it to table.
+
+### To make soup of French *capirotta*
+
+Take the [breast (?)] of a capon, or chicken, or [obscured], or
+a [obscured] of veal loin cooked; pound all these things well
+minutely with the knives as much as possible. Then take a
+little pounded cinnamon, and a little less pepper, and good
+hard grated cheese, and mix everything well together; then
+have slices of thin white bread fried in melted [fat], and put
+them in the dishes layer by layer, that is a layer of the
+composition on top of said [bread] a layer of the slices of
+bread. Then have good hot veal, or capon broth, and throw it on
+top of these things; and then cover it with another dish, until
+you want to send it to table.
+
+### [Tail of a preceding recipe]
+
+...your tart, cook it; and [sugar] as is done in the others.
+
+### To make a fish tart
+
+Take a [obscured] of three [?] in four, or other fish well
+scaled and washed; clean it well of the bones, and put it to
+pound in the mortar with the entrails together, with a pound of
+ambrosian almonds, and a handful of parsley, oily herbs; and
+temper everything with good broth of [obscured]... [the recipe
+breaks off in the scan].
+
+### [Fish tart — the conclusion]
+
+...and temper everything with good broth of [obscured] fat;
+pass through the sieve; and then put it in a vessel with nine
+ounces of sugar, and an ounce of cinnamon, and six ounces of
+raisins washed and cleaned, and four ounces of rose water; and
+mix everything together. Then make the sheets, greasing the
+*tiella* with good oil; make your tart, greasing also the sheet
+on top with good oil; then cook it; put sugar as is said in the
+others.
+
+### Tart of dates and other fruits
+
+Take [obscured] and half (?) dates, and... for length; and a
+pound of Damascene prunes, taken out the seeds; and have
+everything cooked in wine, which if it is sweet will be better;
+and then take a pound of raisins washed, cooked likewise in
+wine, and a pound and a half of dried figs cut small, and six
+ounces of shelled pine-nuts, six ounces of sugar, and an ounce
+of cinnamon, and a quarter of pepper; and mix everything
+together, with two ounces of wheat starch, and good fish broth
+so that the *battuto* is well [bound]; then make your sheets,
+fill it, and make the tart in the *tiella* greased with good
+oil; then put it to cook; and when it is nearly cooked put...
+on top four ounces of sugar, as it is cooked... [sprinkle] rose
+water.
+
+### White Lenten tart
+
+Take two pounds of ambrosian almonds, clean them, and then
+temper them with water, and a little rose water, and have of
+the thickish. Then take six ounces of wheat starch, eight
+ounces of sugar, and six ounces of raisins, and mix everything
+well together; then make a sheet with... [obscured] oil, and a
+little saffron, and put it in the *tiella* greased with good
+oil, and put on top the *battuto*, and put it to cook; and when
+it is nearly cooked, put on top four ounces of sugar, and
+another little rose water. Then finish cooking it; when you
+put sugar and rose water, put three ounces of bruised shelled
+pine-nuts on top; it will not spoil at all, indeed they will
+be most fitting.
+
+### Sage tart (*salviata*) for Lent
+
+Keep the order of the aforesaid tart; but when you temper the
+almonds, temper them with water and juice of sage; and then of
+the rest keep the order aforesaid.
+
+### To make a tart of prawn tails
+
+Take forty tails of boiled prawns, and pound them in the mortar
+with a handful of spinach, parsley, and mint, and half a
+[measure] of damascene *cibibo*. And as these things are well
+pounded, temper them with milk made of a pound of fine
+ambrosian almonds, and pass them through the sieve, adding
+three ounces of wheat starch; and put them in a vessel with
+eight ounces of sugar, and an ounce of cinnamon, and a quarter
+of ginger, and six ounces of washed and cleaned raisins;
+incorporate everything well together; then make your sheets,
+and fill them, and make... [a page-break passage obscured] ...
+or a little [obscured], or of smoked *meggia* cut small, it
+will not spoil at all.
+
+### Eel tart for Lent
+
+Take the spinaches washed, and clean, and fry them in the pan
+alone; take away well that water; fry them in four ounces of
+good oil; then take a pound of ambrosian almonds, and half a
+pound of cleaned raisins, and half a pound of pine-nuts, and up
+to six or eight sweet apples, and pound everything well
+together, and temper with good fish broth; and passed that you
+have it through the sieve, put everything in a vessel, in which
+you shall put together also the aforesaid spinaches, with
+sixteen ounces of sugar, and an ounce of cinnamon, and a
+quarter of pepper, and four ounces of Damascene *cibibo*, cut
+lengthwise without seeds; and incorporate everything well
+together. Then make a sheet, and put it in a *tiella* greased
+with good oil, and throw on top said *battuto*. Then have three
+or four eels scored, and cooked boiled, cut in morsels, and
+taken out the bones, and put them on top of said *battuto*.
+And then make on top strips with the sheet, in manner of
+lattices (*gelosie*), and cook them in manner of the others,
+with sugar on top, as is said.
+
+[Editor's note — in plain words: The Lenten eel tart — a
+spinach-almond-apple filling sugared and spiced, eels laid on
+top in morsels, a lattice of paste over all.]
+
+### Herb tart for Lent
+
+Take spinaches washed, clean, and then [put them in] a vessel,
+to soften (?), and then squeezed out the water, throw inside
+four ounces of oil, and fry them very well, breaking them with
+the ladle; then put them in a vessel, with four ounces of
+sugar, and an ounce of cinnamon, a quarter of pepper, of
+[obscured] six ounces (?) of figs a pound cut small, raisins
+half a pound, twenty bruised and cleaned nuts; mix everything
+well together. And if it seems to you that the *battuto* has
+not body, you shall make a little milk of fish (?) tempered
+with good broth, and passed through the sieve. Then incorporate
+it with said *battuto*; and make your tart, and cook it
+following the order of the others of Lent... [a page-break
+passage obscured] ...four ounces of sugar... when cooking it.
+
+### To make lean fritters, diverse
+
+Take two pounds of cleaned ambrosian almonds, and pound them
+well (?) with an ounce and a half of fine pounded cinnamon,
+and a pound and a half of sugar, and [obscured]; and pound
+everything together, as one makes the paste of the [obscured]
+bread. Then make your fritters big and small, and put them in
+a well-floured *tiella* in the bottom, and baste them with four
+ounces of liquid sugar. Then cook them gently with the *testo*;
+and when being to dish them, put on top four ounces of fine
+sugar; and you may also of such paste make souls of peaches
+(?) stamped, and fry them in oil, or in butter. And put on top
+sugar, and cinnamon; and when they are fried, you must put a
+little flour.
+
+### To make *ritortoli*, for Lent, or for a great vigil
+
+Make the lean paste, as is said in the chapter of the tarts,
+wanting it common in all perfection. Then make the sheets
+according to the greatness you want; for of these goes one per
+little dish; and cut them from the sides so they remain square.
+Then take according to the quantity you want to make, of the
+boiled eel, or of the ambrosian almonds, and together pound
+them in the mortar; then with a bit of fish broth pass
+everything through the sieve, and put in a vessel, with sugar
+and cinnamon, and little pepper; and drain (?) well everything
+together. Then lay this composition on top of the sheet,
+leaving from one side two fingers of empty. Then roll it in
+guise of *zaldoni*, beginning from the [side] where it is full;
+and make it in a *tiella*, accommodating it gently with the
+hands. Then put it in a well-greased *tiella* with good oil,
+and grease it also on top; and put it to cook; when it is
+nearly cooked, put sugar on top. And being... sprinkle rose
+water, and putting in the paste...
+
+### To make a *sfogliata*, [?] lean
+
+Take three pounds of white flour, and two ounces of sugar, and
+four ounces of cleaned ambrosian almonds made in milk with
+water, and rose water, make it tepid; then knead the paste
+adding two ounces of good oil; and make two sheets; and greased
+that you have the *tiella* with oil, put one in the bottom, and
+grease it on top. Then have a pound of [back (?)] of
+*tarantella* (?) of smoked *meggia*, nearly cooked boiled, and
+some *miglio* (?) of [obscured], or of *varolo*, or [obscured]
+of eels, or of *giuri* (?); and make a layer on top of said
+sheet, seasoned according to your judgment, with four ounces
+of [obscured], and [obscured] four (?) of raisins, and four
+ounces of damascene *cibibo* cut for half, taken out the
+seeds, and an ounce of fine cinnamon on top, and on top of said
+things; then give it a sprinkling with [obscured] of six
+oranges (?) or *agresto*. Then put on top said sheet, and
+grease it with a little oil; then put it to cook; as it is
+nearly cooked give it four ounces of sugar on top; then finish
+cooking it.
+
+### To make an almond *sfogliata*, lean, of the greatness of the *sfogliata* made
+
+Take a pound and a half of white flour, and two ounces of
+sugar, three ounces of rose water, and a little saffron, and
+half a beaker of oil; and knead your paste, and make two
+sheets, putting one in the bottom of the well-greased *tiella*.
+Then take half a pound of sugar, and half an ounce of cinnamon,
+and half a pound of raisins, and half a pound of dates in
+pieces; then have a pound and a half of cleaned ambrosian
+almonds, and pounded made tender, with rose water; and
+incorporate said pounded almonds with the sugar, raisins, and
+dates, as is said above; and put them on top of said sheet,
+sticking in said paste here and there three ounces of bruised
+shelled pine-nuts. Then wet it all well with rose water. Then
+put the other sheet well greased with oil, and put it to cook;
+and as it is nearly cooked, give it [four ounces of sugar on
+top — cut off].
+
+### To make ten dishes of lean *fiadoncelli*
+
+Take two pounds of cleaned raisins, and give them a little (?)
+in the wine; and if it is sweet it will be better; and half a
+pound of dried figs cut small minutely, and two boiled eels
+scored, well cooked, six ounces of sugar, and an ounce of
+cinnamon, and a quarter of pepper, and mix everything well
+together. Then make your paste, as is that of the *grostoli*;
+and make the *fiadoncelli* according to the others; then fry
+them in four pounds of oil; dishing them put on top honey,
+then sugar.
+
+### To make a *sfogliata* [of paste]
+
+Take [three (?)] pounds of white flour, and [ounces (?)] of
+pine-nuts made in milk with water, and rose water; and said
+milk make tepid; then knead the paste with two ounces of
+sugar, and a little saffron, and a pound and a half of good
+oil — but oil of sweet almonds will be much better; and made
+that you have the paste, make in a thin sheet; grease it well
+with oil; make of it a long twist (*tortiglione*), and make it
+in a little wheel (*rotella*) distending it well with the
+hands; and after you have well distended it, grease it on top
+so that in the kneading of the paste; the greasing the sheet,
+and the *tiella*, and the *sfogliata* on top go [with — obscured]
+two pounds of oil. Then put it to cook; and when it is nearly
+cooked, put four ounces of sugar; and then finish cooking it.
+
+### [A fritter dish — the head lost in the scan]
+
+...and then let it cool; put the fritters in a vessel, as they
+are cooked, with two pounds of honey; then cut said almonds
+lengthwise small, and put them in said vessel, and mix very
+well under over, so that the almonds go in every part. Then
+dish in the dishes, putting on top six ounces of sugar, and
+half and half of cinnamon.
+
+### To make ten dishes of lean *grosteli*
+
+Take of white flour two pounds and a half, and of rose water
+[obscured] ounces, and sugar three ounces, and oil two ounces,
+[obscured] of white wine, which if it is sweet will be better,
+a beaker, and a little saffron; and make your paste, mixing
+everything together; then make the sheets, and cut them, [and
+crisp them (?)] according as are the gloves (?); then fry them
+in three pounds of good oil; and dish them, giving... [the
+recipe breaks off in the scan].
+
+### [A sweet soup — a fragment]
+
+...on top six ounces of honey, six ounces of sugar.
+
+### To make ten dishes of lean *levatelli*
+
+Take of white flour three pounds, of leavening (?) an ounce
+and a half, of oil two ounces, of sugar eight ounces, of rose
+water three ounces, and the rest tepid water with little
+saffron; and knead everything together, and make as it were (?)
+and beat it very well in a vessel. Then keep it in a warm place
+for the space of two hours; then take it, beat it anew for a
+space. Then have a pan with four pounds of boiling oil, and put
+in said pan to cook, with a ladle, or spoon, according as you
+want them big or small; and fried as they are, throw on top six
+ounces of sugar.
+
+This paste makes the effect lean, that the German paste makes
+fat, but it is not so crisp, and of this you may make diverse
+shapes. Eagles, diamonds, fleur-de-lis, scallop shells of Saint
+James, crosses, stars, and other such things.
+
+### [A filled pastry — a fragment]
+
+...half a pound, of cinnamon an ounce and of pepper a [?]
+...together; make your sheets... tortelletti; and follow the
+rest as is said above.
+
+### To make ten dishes of lean *stellette* [little stars]
+
+Take two pounds and a half of white flour, of sweet white wine,
+or not sweet, one beaker, and two ounces of oil, and two ounces
+of rose water, and two ounces of sugar, and a bit of saffron;
+make a paste, and make two sheets with the rolling pin; make
+the little round sheets; then take three pounds of cleaned
+ambrosian almonds, four good boiled eels, and six ounces of
+sugar, and an ounce of cinnamon, and a quarter of pepper, and a
+quarter of ginger, and an eighth of cloves, and pound
+everything well together. Then add four ounces of whole
+cleaned raisins, and mix well with said paste. Then fill your
+little sheets, leaving so much empty space, that it grips the
+*battuto* around, and thus pinch them around with the hands,
+leaving uncovered a part on top. Then fry them in four pounds
+of oil with great dexterity; and being to dish them, put on top
+half a pound of purged honey, and half a pound of sugar.
+
+### To make ten dishes of lean *frilengotti*
+
+Take of white flour two pounds and a half, and half an ounce
+of ginger, and an ounce of cinnamon, and a quarter of pepper,
+and an eighth of cloves, half a pound of sugar, and of rose
+water two ounces, and a little saffron, three ounces of oil,
+and a beaker of white wine — and if it is sweet it is better;
+and thus knead all these things together; make a paste that is
+harder than is that of the macaroni. Make the *frilengotti*,
+wanting as much paste as is a big chestnut; rolling them on the
+reverse of the grater. Then fry them in oil; then take a pound
+of almonds with the husk; toast them in a pan on the embers...
+[the recipe breaks off in the scan].
+
+### To make ten other dishes of lean *tortelletti*
+
+Take a pound and a half of [apples (?) — obscured]; let it
+boil. Then have two big grated loaves, and six ounces of
+raisins, and half an ounce of pounded cinnamon, a quarter of
+pounded pepper, and an eighth of cloves; incorporate everything
+well together, with a little saffron, and let it stand so a
+little that it dries somewhat. Then make the sheets as is said
+above, and make the *tortelletti*, and fry them in four pounds
+of good oil; then give them on top honey, and sugar, as you
+did the others.
+
+### To make ten dishes of lean *tortelletti* of another sort
+
+Take spinaches that are well clean, and have them soften in the
+pan, so that they are well beaten; wring well that water that
+comes out; put a little oil, and half a pound of sugar, and an
+ounce of cinnamon, and a quarter of pepper, and half a pound of
+raisins, up to fifteen bruised and cleaned nuts, and of dried
+figs half a pound cut small, and four ounces of dried grapes
+without seeds, and mix everything well, and give it a good
+heat; then make your sheets as is said above, and the
+*tortelletti*; fry them, and put them between sugar and honey,
+as you did the first.
+
+### To make lean *tortelletti*, of another sort
+
+Take four ounces of clean dates, cut small, and of prunes half
+a pound, taken out the seeds, cut lengthwise, and of clean
+raisins a pound; and let everything boil in white wine for a
+quarter of an hour; then take them out, and put in a vessel;
+add a pound of shelled bruised pine-nuts, of sugar... [the
+recipe breaks off in the scan].
+
+### Lean *pastelle* of another sort, for ten dishes
+
+Take a pound of cleaned ambrosian almonds, a pound of shelled
+pine-nuts, half a pound of Damascene *cibibo*, taken out the
+seeds, and the pulps of a good boiled pike, and pound
+everything well together in the mortar; then add a pound of
+sugar, an ounce of cinnamon, and two ounces of wheat starch,
+and two (?) of rose water, and mix everything together; and if
+the composition were a little hard, add a little good fish
+broth so that the *battuto* is well [bound]; make the paste
+with white flour, and white wine — and if it is sweet it will
+be better — and rose water, and sugar, a little oil, and a
+little saffron; and kneaded that it is, make the sheets, and
+then cut them with the [spur (?)], and make your *pastelle* in
+guise of *tortelli*, as is said above; then fry them in four
+pounds of good oil; and as you dish them, throw on top sugar.
+
+### To make ten dishes of lean *tortelleti*
+
+Take a pound of sugar, and three pounds of well-peeled and
+cleaned ambrosian almonds, half a pound of shelled pine-nuts,
+and pound well, and incorporate everything together; then make
+a thin sheet, with a pound and a half of white flour, and half
+a beaker of white wine — and if it is sweet it will be better
+— with two ounces of sugar, and of rose water two ounces, and
+a little saffron, and a droplet of oil; and make two thin
+sheets; and with the spur (?) make the *pastelle* big and small
+as you please, and thin *tortelletti*; fry them in four pounds
+of good oil; and dished in the little dishes put a pound of
+purged honey, and then on top of the honey half a pound of
+sugar.
+
+### [A dish — a fragment]
+
+...as you want, and as they are cooked, serve them in the
+dishes with half a pound of melted [fat], half a pound of
+sugar.
+
+### Lean fritters of bitter herbs, for six dishes
+
+Take [obscured] and of white flour, and a little leavening
+(?), and a beaker of white wine, and two ounces of good oil,
+and so much water that suffices to knead said flour, and three
+ounces of raisins, a [obscured] of bitter herbs cut minutely,
+and incorporate everything well together, and [obscured] a
+piece with the ladle; then have your pan in order with three
+pounds of hot oil; with the ladle go putting your fritters one
+by one to cook; and cooked to dish them put on top six ounces
+of strained honey, then on top of the honey four ounces of
+sugar among all the dishes.
+
+### To make ten dishes of *pastatelle*, of marzipan, or of *tortelle*
+
+Take three pounds of peeled ambrosian almonds, then pound them
+in the mortar with a pound of sugar, and three ounces of rose
+water, and an ounce of cinnamon, and a quarter of pepper;
+pound everything well together. Then take three pounds (?) of
+white flour, and eight egg yolks, of sugar four ounces, and of
+butter, or melted [fat] four ounces, and of rose water three
+ounces, and a little saffron; make a paste as thin as possible.
+Then take of said *battuto* as much as is a walnut (?) and go
+laying it on top of said sheet. Then turn the sheet that is
+under over, and press it with the hands, and cut it then with
+the spur, or the [bussolo (?)] so that they are round; and make
+a little rim around as one would do to a *tortella*. Then have
+four pounds of melted [fat], or good butter; fry them; and then
+dish them ten per little dish; and put on top among all six
+ounces of sugar.
+
+### [A glue-batter — a fragment]
+
+...too cut small, and a beaker of white wine, and a bit of oil,
+and a bit of [obscured], and incorporate everything well
+together so that it becomes like a glue; and then have your
+pan, with three [pounds of] hot oil, and... of the others,
+giving them honey and sugar on top as is said.
+
+### Lean fritters, of branches, of sage, or of rosemary, or laurel, or fennel, or *vassomone* (?), leeks, for six dishes
+
+Take of white flour two [obscured], a beaker of sweet white
+wine, and [obscured] of honey, and a little saffron, and the
+fitting water; knead everything well together as one would make
+a glue; then have a pan with three pounds of hot oil, and take
+the branches of what sort you want bathed in said glue, and put
+them to fry in said oil; and cooked as they are, and to dish
+them put on top six ounces of honey, and four ounces of sugar;
+the parsnips must be prepared in this manner: boil them and
+take out the pith, and give them a boil in water with salt; and
+cooked as they are, put them to drain; and as they are drained,
+put them in said glue, and cook, and observe the order as is
+said above. Likewise do to the [obscured].
+
+### Parsnip fritters, in another manner, for ten dishes
+
+Take your parsnips clean and taken out the pith, put them to
+cook in the water; and as they are cooked put them to drain
+very well; then pound them with a knife; and then have three
+pounds of white flour, and said parsnips, and put them in a
+vessel with half a pound of well-cleaned and washed raisins,
+with a little saffron, so that it gives the color, and a beaker
+of white wine; and of water make a glue, mixing very well;
+then have a pan with four [pounds of] hot oil, and make your
+fritters big, and small according to... [the recipe breaks off
+in the scan].
+
+### To make lean fritters, of apples, and figs, for six dishes
+
+Take ten cleaned apples cut small number ten, and a pound of
+figs cut small, and then take a bowl and a half of white flour,
+(?) two of good oil, and three ounces of raisins, and a beaker
+of sweet white wine, a little saffron, and incorporate
+everything well together, adding so much water that said
+composition comes like a glue, and incorporate everything well
+together; and then have the pan with hot oil, and with the
+spoon go putting your fritters one by one inside; and fried,
+and to dish them put on top six ounces of purged honey, four
+ounces of sugar on top; they are done.
+
+### To make lean fritters, of nuts, dates, and [?]
+
+Take a bowl and a half of white flour, (?) nine (?) of...
+and (?) two of dates, everything cut in pieces, and up to
+twenty-five nuts well clean, and bruised, and cleaned, three
+ounces of raisins, a beaker of white wine, and a little
+saffron, and four ounces of honey, and two ounces of oil, and
+incorporate everything well together, adding so much water that
+it becomes like glue, keeping the order aforesaid; and as they
+are to be dished put the same sugar and honey that is put in
+the aforesaid; and they will be done.
+
+### Fritters of apples, dried grapes, and pine-nuts
+
+Take a bowl and a half of white flour, and four ounces of
+sugar, and twelve apples cut small, and four ounces of dried
+grapes... and four ounces of cleaned bruised pine-nuts, and
+four ounces of candied citron... [the recipe breaks off in the
+scan].
+
+### Tart of forced turnips
+
+Of the aforesaid composition of the forced turnips, you may
+make a sort of tart with the two sheets, that with one above,
+and one below, as is done to the tarts; adding a pound of hard
+grated cheese, and putting it between one layer and the other
+of the aforesaid turnips, of the cheese put also, and cooking
+it in the oven, or on the embers, with sugar, [obscured] on
+top.
+
+### To make a tart of *levesini* (?)
+
+Take *levesini* (?) of veal, and pound them with the knives so
+they are well pounded; and then take of good form cheese a
+pound, and an ounce of cinnamon, and a quarter of pepper, and
+of sugar three ounces, and three eggs, and of butter half a
+pound, and make your tart *battuto*; then make your sheets
+according to custom with the little nets (?) with butter on
+top, and then put it to cook; as it is nearly cooked put on
+top three ounces of sugar, and then finish cooking it.
+
+### To make a tart, without sheets
+
+Take a pound and a half of [obscured] (?) cleaned, and pounded
+well in the mortar with six ounces of sugar, and with twelve
+well-incorporated egg whites, and three ounces of rose water
+together; then take your *tegghia*, greased with butter and
+dusted with flour, and throw inside said *battuto*, as high as
+a finger; then give it the fire gently with the *testo* on top;
+and when it is nearly cooked put on top sugar, and then finish
+cooking it; when it is cooked, put on top candied *concilini*
+(?), or the like.
+
+### [A cheese tart — the head lost in the scan]
+
+...of good parmesan cheese or other sort finely grated, and
+twelve eggs, and an ounce of fine cinnamon, and a sixth of
+pepper, and a pinch of ginger, and a little saffron, and three
+ounces of well-cleaned and washed raisins; incorporate
+everything well together, with half a pound of sugar, and three
+ounces of rose water, and make your tart keeping the order
+that you kept in the others; putting the sugar on top in time,
+and the butter.
+
+### To make meat tart
+
+To make meat tart, follow the order of the meat *pastelle*, of
+which (?) with the same paste.
+
+### To make squash tart, fresh, or *more*, or *marine* (?)
+
+Take the squashes, warning that they are not bitter, and clean
+them, grate them as you would the cheese, and then put them to
+boil in good fat broth with a pound of ox marrow, or of beef
+fat; but it does not want too much boiling; and pass them
+through the sieve; and put in a vessel, with a pound of hard
+grated cheese, and of eggs ten, and six eggs, and a beaker of
+milk, and half a pound of sugar, and half an ounce of
+cinnamon, a quarter of pepper, ginger half quarter, a little
+saffron; and mix everything well together; then make your
+tart; and as it is made put on top four ounces of butter, and
+put it to cook; and as it is nearly cooked put on top three in
+four ounces of sugar, and then finish cooking it; in days that
+are not of meat, cook the squashes in the water with butter,
+or in the milk, and in place of the marrow, or fat, put butter.
+
+Warning that all the aforesaid tarts are fitting honestly for
+every great prince, and at banquets, and at other; but for the
+ordinary with little more than half of the spicery they would
+be made, and would be judged good.
+
+[Editor's note — in plain words: The master pauses mid-book to
+say it plain: these tarts are fit for any great prince and any
+banquet — but for ordinary days, make them with little more
+than half the spice, and they will still be judged good.]
+
+### [A fruit note — the head lost]
+
+...in place of the fat. Medlars, pears, apples, plums,
+[obscured], and quinces are better cooked in sweet wine or
+*sabba*; and you may also cook them under the embers; I propose
+to you many manners so that you take what you please.
+
+### Tart of *ruvia* (?), or beans, or *fasoli*, or asparagus, or squash (?), artichokes, or other things
+
+Take one of the aforesaid things, and cook it boiled, or in
+water with butter for lean days; then pass it through the
+sieve; and put it in a vessel with half a pound of hard grated
+cheese, and a pound of fresh butter, eight ounces of sugar, and
+an ounce of fine pounded cinnamon, a quarter of pounded
+pepper, and a pinch of pounded ginger, and three beaten eggs;
+and incorporate everything well together; and then fill your
+sheets; and made the tart put on top four ounces of fresh
+butter; put it to cook; and when it is nearly cooked put on
+top four ounces of sugar, and then finish cooking it. And in
+place of the butter, that goes in the *battuto* in meat days,
+would be better two pounds of beef, or veal fat; the *ruvia*
+is put to boil with the *ruvia* (?) with other things; and
+likewise in those of [obscured].
+
+### Restorative tart of capon pulps, or of veal meat
+
+First take the pulps of capons, and also the thighs and other
+part that is good to pound, or meat of leg of veal, or one and
+the other boiled; and pound it very well in the mortar with
+three, or four slices of bread soaked in broth, with a pound of
+shelled pine-nuts, and a pound of ox marrow, or a pound of
+[fat] not being able to have marrow; which things all well
+pounded together temper with little broth and pass through the
+sieve, and put them in a vessel; then add half a pound of fat
+grated cheese, half a [pound of — the recipe breaks off in the
+scan].
+
+### Tart of *marene*, or cherries, or mulberries, melons, and figs
+
+Take three (?) four (?) of *marene*, and have them cooked in
+the...; if it is sweet it will be better; then pass them
+through the sieve; and put them in a vessel with a pound of
+hard grated cheese, eight ounces of sugar, and an ounce of
+cinnamon, and a quarter of pepper, and [obscured] of butter,
+six eggs, and incorporate everything well together; then fill
+your sheets, and make the tart as is said in the others; and
+put on top six ounces of butter; then put it to cook; and as
+it is nearly cooked, give it three in four ounces of sugar on
+top, and then finish cooking it. And in the same manner make
+those of the cherries, mulberries, and figs; and if they are
+not cooked, but fried in butter...
+
+### Tart of medlars, or peaches, or pears, or apples, or chestnuts, or acorns, or *tregoli* (?), or quinces, or other
+
+Take the ripe medlars, and have them cooked in fat broth; then
+pass them through the sieve; and put them in a vessel with a
+pound of hard grated cheese, nine ounces of sugar, an ounce of
+pounded cinnamon, and a quarter of pepper, and half a pound of
+butter, and three eggs, and incorporate everything well
+together; and fill your sheets, and make the tart; and then
+put on top four ounces of fresh butter, and put to cook; as it
+is cooked put on top three in four ounces of fine sugar. The
+same order keep in those of peaches, or pears, or apples. But
+in those of chestnuts, or acorns, *tregoli* (?), after these
+things are cooked pound them in the mortar, and tempered with
+broth, pass them through the sieve, adding the things that you
+made in the others; except that of the butter, that you put in
+the others of half a pound, in these put a pound; and then on
+top put half a pound; warning that the acorns want to be fresh,
+and not dry; in days that are not of meat you may cook them in
+the water with butter... [a page-break passage obscured] ...a
+pound (?) of [obscured] melted, and of sugar, and an ounce of
+fine pounded cinnamon, and a third of pounded pepper, and half
+a pound of fresh butter; and incorporate everything together;
+and made the *battuto*, fill your sheets made in the manner
+aforesaid; made the tart, put four ounces of melted butter on
+top; and put it to cook; and when it is nearly cooked, give it
+three ounces of sugar, and then give it another heat until it
+is cooked.
+
+### Tart of muscatel, and other grapes
+
+Take the muscatel ripe, [obscured] it in a little dish, and
+take crumb of bread, let it take a boil, and pass everything
+through the sieve; then take half a pound of hard grated
+cheese, and six ounces of sugar, half a pound of fresh butter,
+and an ounce of cinnamon, and of pepper a third, and six eggs,
+and incorporate everything well together, and make your
+sheets, and fill them, and put on top four ounces of butter;
+and put to cook; and when it is nearly cooked, give it on top
+three in four ounces of sugar; finish cooking it in sweet
+wine (?)... as is said above.
+
+### Tart of white *mangiare*, or as [?]
+
+### [White *mangiare* tart — the conclusion]
+
+Take eight or ten egg whites, and beat them very well; then
+have four ounces of sugar, and of rose water two ounces, and
+put them in said egg whites; then have *bianco mangiare*, or
+*cavi di latte* in that quantity that seems to you enough to
+make the tart; incorporate together with the aforesaid things;
+and then fill your sheets, greasing first the *tiella*
+underneath, and putting melted butter on top of the sheet; then
+put it to cook; cooked as it is, put on top four ounces of fine
+sugar.
+
+But these tarts would stand better with one sheet alone, or
+making them the little lattices. *Gelosie* (?) of paste...
+
+### Marchioness tart (*torta marchesana*)
+
+Take a pound and a half of ambrosian almonds, and toasted, and
+then rub them with a linen cloth; take eight ounces of raisins
+cleaned, and pound everything well together, with a pound of
+hard cheese; and then add ten egg yolks, and half a beaker of
+rose water, and a bowl of good fat broth, and [obscured] of
+sugar, and temper everything together, and pass through the
+sieve; then put an ounce of pounded cinnamon, and of butter
+half a pound, and four ounces of shelled pine-nuts, and
+incorporate everything well together; and grease well the
+*tiella*; then put on top a sheet, and then the *battuto*; and
+on top make little lattices, *gelosie*; and put butter; then
+put it to cook; and nearly cooked, give it three ounces of fine
+sugar; finish cooking it.
+
+### Tart of diverse stalks, and parsley roots
+
+Take the stalks of the [obscured], clean them very well, and
+put them to cook in good broth; and as they are cooked put them
+on the board, and pound them very well with your knives, and
+pass them through the sieve, so they are harder (?) than can
+be; and then add inside a pound of good hard grated cheese,
+and a pound of grated sugar, and two ounces of cinnamon, and
+of pepper an eighth, and four eggs, and of butter half a pound,
+and mix everything well together; and then make your paste in
+the manner that you make the others; have your *tiella* well
+greased with butter; then make your tart with the sheet, or
+little lattice on top, and put it to cook with butter on top;
+and when it is nearly cooked, put four ounces of sugar, and
+finish cooking it.
+
+### Tart of *zaldoni* (?)
+
+Take a hundred *zaldoni* (?), or [obscured], and break them,
+and put them to soak in the *sabba*, eight (?) well-beaten
+eggs, and then pass everything through the sieve... [the
+recipe breaks off in the scan].
+
+### To make tarts of wheat, or spelt, or rice
+
+Take [obscured] bowls of pearled wheat, with a [obscured], put
+it to cook in water; and as it is half cooked take it out, and
+drain it well of the water; and put it in the milk, or in good
+broth; finish cooking it; cooked as it is, put it in a vessel
+with three fresh yolks, and a pound of fat grated cheese, and
+eight ounces of sugar, and half a pound of cleaned raisins,
+ten eggs, and a pound of fresh butter, with a quarter of
+pounded pepper; incorporate everything well together; fill
+your sheets, putting then on top four ounces of melted butter;
+and put it to cook; and as it is nearly cooked put on top
+three in four ounces of sugar; then finish cooking it; this
+tart stands much better with one sheet alone, putting then on
+top [obscured] or pine-nuts, or kernels of melon with slices,
+truly the three in four ounces of sugar, as one would put on
+top of the sheet; you may also pass the wheat through the
+sieve first, and then knead it, following in the rest the order
+aforesaid. Thus make the same of that of spelt, or of rice.
+But when you make it of passed wheat, put some whole grains,
+for delight it is known.
+
+### To make mad tart (*torta matta*)
+
+Take four fresh *touine* (?), and four fresh *lattaroli* (?),
+and two pounds of *tornino* (?) grated cheese, and a pound of
+sugar, eight egg whites, and half a beaker of milk, and a pound
+and a half of fresh butter, and incorporate everything well
+together, and pass through the sieve thin; then make three
+sheets in the manner aforesaid, adding stuff for the other
+sheet, and put one on top of the greased *tiella* with the half
+of the *battuto* on top of it; and another sheet, and give it a
+good heat with the *testo*; and then put on top the rest of the
+*battuto*, and the other sheet with four ounces of fresh butter
+on top; and put it to cook; and when it is nearly cooked, put
+on top four ounces of sugar; and then finish cooking it.
+
+### To make bread tart
+
+Take four loaves, grate them, put in a vessel of broth so much
+that it takes the boil; then take a pound of well-purged,
+skimmed honey, and half a pound of butter, and put it in
+another *pignatta* so that it takes the boil; and as it boils
+throw it thus boiling in said vessel; after it is cooled, pass
+it through the sieve; put it in a vessel with half a pound of
+sugar, and half a pound of hard grated cheese, an ounce of
+cinnamon, a quarter of pepper, three eggs, and incorporate
+everything well together; then fill your sheets, greasing first
+the bottom of the *tiella*, and then on top of the tart put
+four ounces of fresh melted butter; then put it to cook; when
+it is nearly cooked put on top three in four ounces of sugar;
+then finish cooking it.
+
+### To make tarts German-style
+
+Take sweet apples up to fifteen, twenty according to the
+greatness that they are, and clean them; then cut them in
+honestly big slices, and put them in a vessel with half a pound
+of sugar, and half a pound of fresh butter; water so that they
+are nearly cooked, well sweet; then take them out with
+dexterity so that the slices do not break; keep them in a
+vessel; then greased the *tiella* with two ounces of fresh
+butter, put on top your sheet, with four ounces of sugar, and
+half an ounce of cinnamon on top; and then lay on top the
+slices of the apples as much as the sheet holds; and on top of
+said slices put four ounces of grated sugar, and half an ounce
+of cinnamon, and four ounces of fresh melted butter, throwing
+it here and there little by little; then put the other sheet
+on top with three ounces of fresh melted butter; put it to
+cook, slow fire, because it needs little to cook; and as it is
+cooked put on top four ounces of sugar.
+
+And in this tart you may make also two or three layers of
+apples, putting between sugar and cinnamon.
+
+### White tart of another sort
+
+Take half a [measure] of fresh eggs, and three eggs, and twelve
+egg whites, and of fat grated cheese a pound, and eight ounces
+of sugar, and of rose water two ounces, and a pound and a half
+of fresh butter; and mix everything well together; then pass
+everything through the sieve; put a sheet on top of the
+well-greased *tiella*, and on top of the sheet the aforesaid
+composition; then put it to cook; cooked as it is, put on top
+three in four ounces of fine sugar; and this tart likewise goes
+with one sheet on top. But when it is nearly cooked, you may
+put on top three ounces of well-cleaned raisins, or three
+ounces of bruised pine-nuts; and in this, as in that of
+*amito*, before however that you put the sugar, they stand also
+well candied anise, or pine-nuts on top, when you make some
+honorable banquet to vary, and color.
+
+### Herb tart Ferrara-style or Romagna-style
+
+Take a pound [obscured] well cleaned, and beaten (?) in a
+vessel with four fresh *touine* (?), and four beakers of milk,
+and eight eggs, and two pounds of fat cheese, and a pound of
+fresh butter, and a quarter of pounded pepper; incorporate
+everything well together; and greased the pan with three ounces
+of fresh butter, put the first sheet; then on top the aforesaid
+composition, and lay it well on top of the sheet; then have
+half a pound of *tornino* well fat cheese made in slices, as
+thin as can be, and lay them on top of this composition; and
+put then on top the other sheet, making it a rim around; then
+put on top half a pound of fresh melted butter, and put it to
+cook; when it is nearly cooked put on top four ounces of sugar;
+then finish cooking it.
+
+### [A tart — a fragment]
+
+...egg, and a little saffron, and rose water, that it will be
+[obscured]; and instead of making a sheet, take half of the
+aforesaid things.
+
+### Lombard tart
+
+Take a [obscured] of beet (?) well cleaned; chop it small, and
+put it in a vessel with two pounds of good hard well-grated
+cheese, and a pound and a half of fresh butter, six eggs, and
+of pounded pepper a quarter, and a pinch of ginger, and
+cinnamon, and half a pound of sugar; if anyone wants it,
+because for the ordinary none is put; then make your sheets,
+and well...; greased the *tiella* of fresh butter, put a
+sheet, the *battuto* on top of the sheet; and then put on top
+the other sheet, making then its little rim around; and on top
+put four ounces of fresh melted butter; cook it in the oven,
+or under the *testo*; and when it is nearly cooked put on top
+three in four ounces of sugar; and then finish cooking it.
+
+### Wheat-starch tart (*torta d'amito*)
+
+Take half a [measure] of good milk, and half a pound of wheat
+starch, and twelve egg whites, and half a pound of cheese (?)
+(?) grated... mix everything together, and pass through the
+sieve; then have your well-greased *tiella*, and put on top a
+sheet with the *battuto* on top, and a pound and a half of
+fresh melted butter, and put it to cook; and as it is cooked
+give it on top four ounces of fine sugar; and this tart goes
+with one sheet alone; that you may make your paste with half
+less of stuff.
+
+In these white tarts to vary, you may put in summer some
+flower of elder (?) beaten inside. That tart you may make
+yellow with saffron, or flesh-colored with mulberries, carobs.
+
+### [A sage note — a fragment]
+
+...on top put a great beaker, and [obscured] of sage, and mint,
+and parsley, and beet (?), but put bread on sage.
+
+### To make ten French *tartarette*
+
+Take *lattaroli*, or fresh *casetti* number ten, and four
+pounds of fat grated cheese, and pound everything in a mortar,
+and put the composition in a vessel with forty eggs, and forty
+beakers of fresh milk, and pass everything through the sieve,
+adding then two pounds of sugar, and... [the recipe breaks off
+in the scan].
+
+### [French *tartarette* — the conclusion]
+
+...and pass everything through the sieve, adding then two
+pounds of sugar, and four ounces of rose water, and of fresh
+butter a pound, and half a pound of cleaned raisins. Then take
+of white flour two pounds. Four egg yolks and butter four
+ounces; make your paste, of which make ten little sheets, and
+put them in ten little greased *tielline*, and then put on top
+of said paste, and put them to cook in the oven, or under the
+*testo*, giving them the fire gently; and as they are nearly
+cooked put on top an ounce of sugar per tartaretta, and then
+finish cooking them.
+
+### Tarts of diverse sorts — first, to make the paste common to every tart of two sheets
+
+First take of white flour a pound and a half, and two egg
+yolks, and two ounces of butter, and water, and a drop of
+saffron for the common; and when you want it in all perfection
+add two ounces of sugar, and two ounces of rose water; and thus
+knead it; and make your sheets one way or the other according
+as you want to spend; and when the tarts of two sheets are half
+cooked, for beauty you may give them the *rosella* with an egg
+yolk... [the note breaks off in the scan].
+
+[Editor's note — in plain words: The master gives his one
+master paste for every two-sheet tart — flour, yolks, butter,
+water, saffron; sugar and rose water when you want it perfect
+— and the trick of painting it with egg yolk halfway for
+beauty.]
+
+### To make red *migliaccio* [blood cake]
+
+Take three bowls of blood, a pound of fat cheese, three ounces
+of cleaned raisins, half an ounce of pounded cinnamon, and a
+quarter of pepper, half a pound of sugar, a pinch of fennel, or
+raw anise, and incorporate everything well together, [obscured]
+the blood. Then have a *tiella* with fat in the bottom, and
+make a sheet with white flour, and butter, and sugar, and tepid
+water, and put it in the bottom of said *tiella*, and throw on
+top said composition; and distended that you have, put
+everything together to cook; and as you have had a heat mark
+it on top by hand, and throw a little melted fat on top, and
+finish cooking it; and as it is cooked put sugar and cinnamon
+on top.
+
+Note that said *migliaccio* may be made at every time with
+blood of kid, or lamb, or fat of veal, or of [obscured],
+keeping then the order aforesaid in the rest.
+
+### To make a *tartara*
+
+First make a sheet a little firm, that it be well greased with
+fresh butter; take twenty fresh well-beaten eggs with fifteen
+beakers of fresh milk, five ounces of sugar, and half an ounce
+of fine pounded cinnamon, and a little saffron, four ounces of
+cleaned raisins, and half a pound of fresh butter, and
+incorporate everything together, and put it in the *tiella* on
+top of the sheet, and have it cooked gently, in the oven, or
+under the *testo*; and cooked put on top four ounces of sugar;
+and you may also if you want put two ounces of shelled
+pine-nuts.
+
+### To make a *salviata* [sage tart]
+
+To make the *salviata* keep the same order of the *tartara*...
+[the recipe breaks off in the scan].
+
+### [A fritter note — a fragment]
+
+And when you want to cook seven fritters, make them [obscured];
+and if they do not hold well together add a little flour so
+that it is enough.
+
+### German paste in fritters, [?] for six dishes
+
+Take two bowls of well water, and [obscured] of rose water, and
+four ounces of sugar, and four ounces of fresh butter; and then
+put said things to the fire in a pot; and as it has taken the
+boil, take two pounds of flower of flour; throw it in said pot
+that boils; mix it thus a little; then take it off the fire;
+put it to cool, always mixing it, until it is well cold; then
+take said composition, put it in the mortar; pound it, putting
+thus pounding six (?) eggs one by one, the whites and the yolks
+together, and a little saffron; and finished putting the eggs,
+always pounding it, take a pound of melted [fat], butter in a
+pan that boils, and with a ladle throw inside the fritters one
+by one; cooked, wanting to dish them put four ounces of sugar
+on top.
+
+[Editor's note — in plain words: The German choux fritter:
+flour scalded in water with butter and sugar, cooled, beaten
+with eggs one by one in the mortar, and ladled into boiling
+fat — sugared for the table.]
+
+### To make a white *migliaccio* of greatness, and a *sfogliata*
+
+Take fresh *lattaroli*, I want to say little cheeses number
+(?), of cleaned well-pounded almonds half a pound, of ginger
+half an ounce, and an ounce of cinnamon, four ounces of white
+flour, the white of twelve eggs, and pound everything well
+together; then take a large pan, and half a pound of fresh
+butter, and let it melt; and as it is melted throw said paste
+in said pan, giving it temperate fire below and above; as it
+is cooked put on top six ounces of fine sugar.
+
+### [Puffed fritters — the head lost in the scan]
+
+...together... always mixing, so that it becomes very hard, as
+is properly the paste of which one would make bread; then take
+it thus hot hot and throw it in a mortar to pound it so that
+it becomes cold; pounded, take it out, and throw it in a
+[obscured] beating it for a piece, and in beating it go adding
+the eggs, one at a time, incorporating well, and so many eggs
+you shall go adding that said paste becomes tender like glue;
+and then have at the fire the pan with good quantity of butter
+and oil together that has not at other times been used; and as
+said oil boils, have a *tagliero* with said [obscured] on top;
+then take the neck of a little bottle, or [obscured]; and
+first wet it always clean in boiling water, and then take it
+out of said paste making your fritters one by one in said
+boiling oil; and do not give them too much fire because they
+want to be cooked gently; and although they turn themselves,
+as they seem at your judgment cooked, dish them, and sprinkle
+them with a little rose water, and put on top half and half
+(?) grated sugar; they want to be eaten hot.
+
+### Fat fritters of another sort, for ten dishes — French-style
+
+Take [obscured]... lamb *pattini* (?), or [obscured] make for
+the quantity of [obscured], well clean of those small bones.
+Boil the half, and grate them; then pound (?) minutely with
+the knives thus grated, and not only these, but also the raw
+together, and put them in a vessel with a pound of sugar, and
+a pound of cleaned raisins, twelve eggs, and four ounces of
+white flour, and a pound of fat grated cheese, and half a
+pound of hard grated cheese, half an ounce of cinnamon, and a
+quarter of pounded pepper; and then with a ladle make your
+fritters, and fry them in three pounds of melted [fat], or
+butter; cooked dish them, putting on top six ounces of sugar.
+
+### To make fritters with elder flower for six dishes
+
+Take of flour four ounces, three fresh *touine* (?), and of
+fresh cheese a pound, and of hard cheese half a pound grated,
+of [obscured] cheese three ounces, and so much [obscured] as
+half an egg, and pound everything well in the mortar; put six
+beaten eggs with it, and a beaker of milk, three ounces of rose
+water, and mix everything well together; and if it seemed to
+you that said paste were too hard add a little milk so that it
+is well, and three ounces of raisins; and in time of flowers
+put an ounce of elder flower to pound with it; and then with a
+ladle make your fritters big and small according as it seems
+to you; then cook them in melted fat, or butter, or of melted
+[fat] three pounds; and as they are cooked and to dish them put
+on top grated sugar four ounces.
+
+### Another sort of fritters, fat, for six dishes
+
+Take a bowl and a half of flower of sifted flour, and put it
+in a little pot; then take hot broth, and scald said flour,
+and then mix it with a ladle so that it comes like a glue, and
+beat it so that it makes bubbles; then put inside eight
+well-beaten eggs, and four ounces of raisins, and of [?]
+grated cheese a pound and a half, and accommodate said
+composition with the broth, so that it is not hard nor tender;
+then take three pounds of fat, or melted [fat], and butter,
+and put it in the pan at the fire, and go throwing the
+fritters inside with a ladle one by one, and cook them gently;
+and as they are to be dished throw four ounces of sugar on
+top.
+
+### To make ten dishes of wind fritters
+
+Take half a [measure] of milk; put it to the fire, with half a
+pound of [obscured]... [a page-break passage obscured] ...
+dates, with sugar, cinnamon, and whole cloves, and fresh
+butter; and then have them cooked; and likewise you may make
+them of damascene *cibibo* taken out the seeds, or of dried
+*brogne*.
+
+### To make *ravvivoli* of capon pulps for ten dishes
+
+Take the pulps of two capons, and three pounds of *tornino*
+cheese, three *touine* (?), and pound everything together in
+the mortar; then add six egg whites, a handful of flower of
+flour, and nine ounces of sugar, and incorporate everything
+well together; then make the *ravvivoli* as the others, and
+have them cooked in good fat broth; then dish them in the
+little dishes with fat cheese grated (?) and sugar, and
+cinnamon, and a little pepper mixed below, and above.
+
+### To make rich *ravvivoli*, fat and lean, for ten dishes
+
+Take the beet well washed, and chopped, and put it in a vessel
+with half a pound (?) of good grated cheese, and two pounds of
+fresh butter, and eggs number... [the recipe breaks off in the
+scan].
+
+### [Rich *ravvivoli* — the conclusion]
+
+...of good grated cheese, and two pounds of fresh butter, and
+eggs number twenty, and an ounce of pepper, and half an ounce
+of ginger, and an ounce of cinnamon, and bread crumb number two
+passed through the sieve, and half a pound of raisins; and
+knead everything together; and then have of white flour half a
+pound on a board spread, and of said *battuto* make your
+*ravvivoli* big and small according as you want; and put them
+to cook in water, and on lean days with butter, and a little
+saffron in said water; and have them cooked gently so they do
+not break. Then dish them with good grated cheese on top; and
+wanting them fat cook them in good broth with saffron, and
+raisins in said paste; and when they are cooked take cheese,
+sugar and cinnamon mixed together; and when you want to dish
+throw in the dishes below and above the cheese; and when you
+want to vary you may make without beet with a little [obscured].
+
+[Editor's note — in plain words: Beet ravioli two ways — lean
+in water with butter and saffron, fat in broth with raisins;
+and the master's variation, without beet at all.]
+
+### [A dish — the head lost in the scan]
+
+...pepper, and half an ounce of cinnamon; then cover it, and
+put it on the embers so that it boils gently; and as it seems
+to you it is cooked take eight beaten egg yolks with *agresto*,
+and a little fat broth, and put it inside, and leave them so
+until you want to dish; and in this manner you may make also
+of chickens, or squabs in quarters.
+
+### *Pastelli* of wrapped or open meatballs, or sturgeon meatballs
+
+You shall make the *pastello* round, great, or small according
+as you want, of the same paste of that, that is made of the
+quince; and put in the *pastello*, meatballs great, or small
+according as is the *pastello*; then have a little *persutto*
+cut small, and a good pinch of raisins, and a pinch of pounded
+pepper, juice of three oranges, or a little *agresto*, and a
+little veal fat, or of beef; then make it its cover, and put it
+in the oven to cook; and putting some thin slices of lemon, or
+some grains of *agresto*, or *crespina*, or some *morene* will
+not spoil it at all, according to the times.
+
+To the *pastelli* of the sturgeon meatballs make the same, that
+you did to those of meat, except that in place of the
+*persutto* put a little good cheese cut small, and in place of
+fat butter.
+
+With the meatballs in another manner put, in the *pastello*,
+put a whole nutmeg (?) and fresh butter, and *agresto*, or
+juice of oranges, and no other, but chiefly to those that have
+the cheese in the stuffing.
+
+### To make a *pastello* of dates
+
+Take the dates, and make them in quarters; take out the seeds,
+and clean them inside. Then give them a boil in sweet wine;
+then have your case of paste, and put inside said... [the
+recipe breaks off in the scan].
+
+### *Pastello* of squabs, or partridges in case
+
+Take your [obscured], and eggs and butter, and make the case
+of paste, that it is hardish; then take chickens, or squabs, or
+partridges cut in quarters, and put inside with half a pound
+of marrow, or fat of [obscured], and half an ounce of cinnamon
+and pepper together, and three ounces of cleaned raisins, six
+ounces of sugar, six beaten egg yolks in *agresto*, and mix
+everything together, and put in said *pastello*; then make it
+its cover, and have it cooked in the oven; and it will be done.
+
+### Milk *tardiola* (?) French-style for ten dishes
+
+Take of white flour three pounds, yolks eight of eggs, of
+fresh butter six ounces, tepid water, and make a hard paste of
+said composition, and beat it on the board for half an hour;
+then make the cases for pastelli grandetti, and small as you
+want, three good fingers; then have twenty well-beaten eggs,
+with half a weight (?) of [?] of sugar two pounds, and of rose
+water four ounces, a little saffron, and of ginger an ounce
+well pounded, and mix everything together; then have of fresh
+butter a pound melted; and when you have put said composition
+in the *pastelli*, put on top a little of said butter per
+*pastello*; then put them to cook in the oven; but mind that
+they want to be cooked gently; and as they are co... [the
+recipe breaks off in the scan].
+
+### *Pastello* of meat in *poto* (?) [as printed]
+
+Take three pounds of veal meat, and six pounds of pulp, and
+give it a good boil; then pound it with a knife, so it is well
+small; and put it in a *pignatta*, with half a pound of beef
+fat, a beaker of *agresto*, and half a pound of cleaned
+raisins, a pound of honey, and half an ounce of... [a
+page-break passage obscured] ...put on top fine sugar half a
+pound, and of [obscured].
+
+### *Pastelli* of oysters, and scallops
+
+You shall make a *pastello* round in the same manner that you
+made those of the fruits, small, great according as you want.
+Then take twelve or fifteen oysters, and open them; take out
+the good with that water that is inside, and put them in a
+tinned pan to fry with oily herbs cut small, and a little good
+oil, a little mixed spices, and juice of four oranges, or a
+little *agresto*, and a pinch of cleaned raisins, and two egg
+yolks; and fried that you have everything put it in the little
+case, and make it its cover, and put them to cook in the oven
+not too hot; and if you want to put two or three thin slices
+of cut lemon, it will not spoil at all.
+
+### *Pastello* of artichokes, or of *ruvia* (?) in *tegghia*
+
+First make a case of paste, as this... in the bottom put
+butter, and a little pepper, and *marzolino* cut small small;
+then have three artichokes nearly cooked, and clean them well,
+of those thorns (?), keeping the heads below well cleaned; put
+them in the case adding on top pepper, butter, and *marzolino*
+cut small likewise; then have two egg yolks, and two ounces of
+sugar, and half a beaker of *agresto*, a little oily herbs
+pounded minutely with the knives, and mix everything well
+together, and put in said *pastello*; then make it its cover;
+put it to cook gently; and this case of the *pastello* wants to
+be lowish; in place of the *marzolino*, or other good cheese
+you may put cooked *persutto* cut small small; and thus make
+in that of *ruvia* in *tegghia*.
+
+### [A pastello note — a fragment]
+
+...done the little cases; and fill them, or that you will dish
+in the dishes, and put on top some candied [obscured]. I think
+that to make one of these *pastelli* go six ounces of sugar,
+and half an ounce of cinnamon, and cloves number ten; and then
+on top of the *pastelli*, or dishes, anise, or candied
+*concilini*.
+
+### *Pastelli* of *marene*, or peaches, or *brogne*, or *muniache* (?), or pears, or apples
+
+You shall make the case of the *pastello* in the manner that
+was that of the *pastello* of quinces, that it is wide in the
+bottom, and that it comes narrowing above. Then for a
+*pastelletto* take a pound of *marene* at good weight, cleaned
+of the stalks, and in the bottom of the case of the *pastello*
+lay them politely; then put five ounces of sugar, half an
+ounce of good fine cinnamon, five ounces of fresh butter; then
+make it its cover cut on top in three places; then cook it
+gently. And the like make in those of the other fruits. But
+mind that the other fruits go peeled, and you shall peel them
+easily in that manner, boiling them in wine, or water; and
+after they are cooled peeling them; to the musk pears leave
+them half the stalk.
+
+### To make a *pastello* of *marene* in another manner
+
+You shall make the case according to the others; then take a
+pound of *marene*, half a pound of fresh butter, and six
+ounces of sugar, and half an ounce of cinnamon, a good handful
+of cleaned pine-nuts, and rose water, and mix everything well
+together; then put in the case everything, and make the cover
+cut on top; and put it to cook.
+
+### [A pastello — the head lost in the scan]
+
+...put a little *persutto* cut small inside; it will not spoil
+at all; then make your case great, or small, round in the same
+manner that is that of the fruits; but the paste wants to be a
+little hard; beaten on a board for the space of half an hour;
+then made the case, fill it of the aforesaid paste; put on top
+its cover; cook in the oven gently; it wants to be eaten hot.
+A little onion also pounded in the paste, and good [obscured].
+
+### To make a *pastello* of quinces, that wants to be round
+
+First make your case of the *pastello* not too great with [?]
+butter, a little saffron; then take a great quince, and clean
+it thus whole, and make it a hole in the middle so that you
+take out the seeds with all that core where are the seeds
+inside, and put it in the *pastello* with butter, and sugar,
+some whole cloves; then make it its cover, and put it to cook
+with dexterity; and if the quinces were small, make them in
+quarters of more pieces; and for a *pastello* there will not
+want less butter than nine ounces, and cloves number ten, and
+of sugar half a pound, and rose water.
+
+### *Pastello* of spoiled (?) pears, or apples, or in the little dishes
+
+[The title's tail:] ...to vary the [obscured] fat [days] and
+lean. Take the [obscured] pears in that quantity for the
+*pastelli*, or dishes that you want to make; and I think that
+six for *pastello*, and eight for dish will suffice; to which
+give a good roasting in the fire; then take them off; and as
+they are cooled clean them leaving in the middle the stalk;
+after they are cleaned put them in a vessel to boil in good
+black wine with enough sugar, and some small pieces of whole
+cinnamon, few whole cloves; let them cook, seeing that the
+savor is thick, that it will seem properly a *gelatia*; and
+wanting them in *pastello*, have... [the recipe breaks off in
+the scan].
+
+### [A pastello with larded meat — a fragment]
+
+...or the flesh *impillottato* (?), then make a good ladle of
+mixed spices, and a little saffron, and wrap it around the bird
+(?) with some slices of cut lemon, if you want, and some
+branches of fresh fennel, or some grains of *agresto*, or
+*morene*, or the juice of two oranges; and mind that if it were
+of domestic pork, or wild, or mutton, you may put lard; and
+thus closed the *pastello*, have it cooked in the oven.
+
+### German *pastello*, which is served fat and lean
+
+You shall make the case of the *pastello* great or small
+according as you want, in the same manner that you made that
+of the round fruits; then take beaten eggs, and sugar, and
+rose water, in that quantity that at your judgment shall
+seem, and according as is the *pastello*, and mix everything
+well together; and fill the case, and put it in the oven to
+cook without cover; and as it is cooked put on top sugar.
+
+### To make a beaten *pastello*, French-style, of veal meat, or mutton
+
+First take meat of veal of leg, or mutton, clean it well, of
+those skins, and small skins that you can take out without
+washing it. Then wash it very well, and give it a boil to make
+it whiter; then as it is cooled pound it with the knives
+minutely; then take fat of [obscured] of the kidney, and clean
+it of those small skins that are found; and then... [the
+recipe breaks off in the scan].
+
+### [French-style beaten *pastello* — the conclusion]
+
+...of the kidney, and clean it of those small skins that are
+found; and then pound it together with said meat; and when it
+is well pounded at your manner, put ginger, and pepper inside,
+and pounded nutmegs, and a little saffron, and a little
+pounded or whole cloves, and mix everything well together; the
+measure will be according to the quantity, and greatness that
+you want to make at your judgment; and [obscured].
+
+### [A layered pastello — the head lost in the scan]
+
+...and six ounces of sugar, three ounces of melted [fat] or
+butter, and two ounces of rose water; make a thin great sheet;
+and as you take it cut it around, make six sheets with the
+spur; first grease the *tiella*; then put one of said sheets
+well greased, and sprinkled in the rose water; then put on top
+a little sugar and cinnamon; and then put on top another sheet
+well greased. Then have a pair of chickens, or squabs half
+cooked roast well (?) and fry them in the pan in quarters with
+fat or butter; then put them on top of the second sheet, with
+sugar, cinnamon and fat; then have the four other sheets; put
+one on top of the other, with fat cheese in slices, and sugar
+and cinnamon and fat between one sheet and the other; then
+have it cooked, in the oven, or under the *testo*; and as it
+is cooked make a hole on top, and put inside savor and three
+ounces of pounded almonds, and *agresto*, and two egg yolks;
+mix everything together.
+
+### To make a *pastello*, of liver *mortadelle*
+
+Take two pounds of flour, and knead it with tepid water with
+two egg yolks, a little butter, and make your little case that
+has of the long, a little bigger than is the mortadella, that
+you will put inside; and with a little fat of [obscured], or
+of veal, and juice of oranges, or *agresto*; and thus close it
+in said *pastello*, and put it to cook; and it will be done.
+
+### To make a *pastello*, common stuffing, or of pheasant, or capon, or *vernice* (?), or squabs, or ducks, or legs of veal, or mutton, or [obscured], or venison
+
+The ordinary will be this for the common. First take two
+pounds of flour, two eggs, four ounces of butter, and water,
+and knead the paste that it remains thick half a finger, and
+more; then take the pheasant, or other bird, or [obscured]...
+[the recipe breaks off in the scan].
+
+### To make ten dishes of *lasagnole*, or drawn *tapatelle* (?)
+
+Take three bowls of white flour, three eggs, and make your
+paste a little soft; then draw out a long sheet, and wide, and
+thin as you can; [of] said sheet you [make (?)] and one
+companion so that it comes thin as paper, and let it dry; then
+take good fat broth that boils, and throw inside said lasagne,
+and have them cooked gently; and as they are cooked dish them
+in the dishes with cheese on top; thus you may cover capons,
+or ducks, or other as you please; sugar, and cinnamon, wanting
+them on top will not spoil them.
+
+The *tagliatelle*: made the sheet, roll it around the [rolling
+pin]; then taken out the [rolling pin] cut them small; cook
+them.
+
+[Editor's note — in plain words: The master's own pasta
+chapter: lasagne drawn thin as paper, dried, boiled in fat
+broth, cheesed — and the tagliatelle method, rolled round the
+pin and cut.]
+
+### To make sixty little *pastelletti* in sheets, to fill with white *mangiare*, or other
+
+Take of flower of flour four pounds, of rose water four
+ounces, ten egg yolks, of sugar six ounces, of melted [fat],
+or fresh butter a pound, and a little saffron; and knead
+everything well together; then make the sixty little cases of
+*pastelli*; and fry them in five pounds of fresh butter, or
+melted [fat]; then fill them with *bianco mangiare*, or
+Turkish rice, or *genestrata*, or Neapolitan dish, or
+*carabazada*, or cream; give them a heat with the *testo*, and
+then dish them putting on top fine ginger half a pound among
+all.
+
+### To make a *pastello* in sheets
+
+Take of white flour a pound and a half, six egg yolks...
+[obscured]... [the recipe breaks off in the scan].
+
+### [A macaroni dish — the head lost in the scan]
+
+...macaroni made on the reverse of the grater; and then put to
+cook in boiling water; and as they are cooked put a little
+salt; and then have of hard cheese two pounds and a half
+grated, with an ounce and a half of pounded pepper mixed
+together; and wanting to dish them, put said cheese below,
+and above, and a pound and a half of fresh melted butter on
+top; then cover them with the other dishes putting them in
+[obscured] until you want to send to table; and in dishing
+them if you put a little sugar and cinnamon on top they will
+be better.
+
+### To make ten dishes of macaroni Neapolitan-style
+
+Take eight pounds of flower of flour, the crumb of a big
+*buffetto* bread soaked in rose water, four fresh eggs, four
+ounces of sugar; well knead everything together, and make your
+paste, working it well for a space; then make sheets more
+thick than thin, and cut them in strips and long, and make
+that they are somewhat [?]. Then cook them in boiling fat
+broth, and dish them in the dishes, or on top of capons, or
+ducks, or other with sugar and cinnamon inside and on top; for
+the fish days cook them in the water without [obscured], with
+fresh butter.
+
+### To make ten dishes of macaroni Roman-style
+
+Take five pounds of white flour, the crumb of a *buffetto*
+bread soaked in rose water, and three eggs, and three ounces
+of sugar; make a paste, and then make sheets more thick than
+thin, and roll them around a staff, and then take out said
+staff, and cut the paste wide a finger; and they will be like
+casings (?), which on meat days you shall put to cook in good
+boiling fat broth when you throw them to cook; then dish them,
+putting dishing good hard grated cheese, and sugar and
+cinnamon, and below and above; and for days that are not of
+meat, you may cook them in the boiling water with butter...
+[the close obscured].
+
+### [A dish — the slice's last lines; a repetition]
+
+[OCR lines ~6855-6871 repeat the "A FARE" tail already
+rendered above (lines ~6444-6450): "...pepper, and half an
+ounce of cinnamon; then cover it, and put it on the embers so
+that it boils gently; and as it seems to you it is cooked take
+eight beaten egg yolks with *agresto*, and a little fat broth,
+and put it inside, and leave them so until you want to dish; in
+this manner you may make also of chickens, or squabs in
+quarters." The repetition is left as found in the scan; the
+English is given once. A garbled line or two between the
+recipes did not yield a reading.]
+
+---
+
+## Glossary of measures and pantry words
+
+- *agresto/agrefto* — verjuice: the sour juice of unripe grapes.
+- *battuto* — the minced seasoning-mixture; forcemeat.
+- *bocale* — a jug; a liquid measure.
+- *buttiero* — butter.
+- *calza* — the straining-cloth (a hose-shaped sieve) used for
+  aspics.
+- *crespina* — a sour grape, used unripe for its juice.
+- *fiasco* — flask; a liquid measure.
+- *libbra* — pound (about 12 ounces, Ferrara); *oncia* — ounce;
+  *meza* — half.
+- *mele* — honey (in this book; not apples).
+- *orna* — a big earthenware storage jar.
+- *pignatta* — a cooking pot; *tiella/tegghia* — a shallow pan;
+  *testo* — the domed lid with coals on top.
+- *sabba/saba* — grape must boiled down to a syrup.
+- *acqua rosata* — rose water.
+- *da grasso / da magro* — for fat days (meat, butter, eggs) /
+  for lean days (fish, oil, vegetables).
+- *imbandire* — to dish up for the table.
+- *gelatia* — the aspic, set with trotters or fish glue.
+- *dobba* — meat (or fish) set in its own jelly.
+- *potaccio* — a stew-pot dish, braised and sauced.
+- *persutto* — the cured ham (as printed; modern *prosciutto*).
+- *tomaselle* — meatballs of boiled meat wrapped in caul.
+- *fracasea/fracassa* — a fricassee: fried meat finished in a
+  sauce.
+- *migliaccio* — a cake or pudding; red with blood, white with
+  cheese.
+- *sfogliata/sfoglia* — the thin sheet of paste; a pie made of
+  it.
+- *pastello* — a pie in a paste case.
+- *fiadoncelli, grostoli, stellette, frilengotti, levatelli,
+  tortelletti, pastelle, pastatelle* — the book's family of
+  fried or baked little pastries, lean and fat.
+- *tartara, salviata, tartarette* — custard tarts; the sage one.
+- *ravvivoli* — ravioli; here beet ravioli, lean or fat.
+- *lasagnole* — lasagne, drawn thin as paper.
+- *tagliatelle* — ribbons cut from the rolled sheet.
+- *maccheroni* — here hand-cut strips; Neapolitan and Roman
+  styles.
+- *morene, marene* — as printed; some stone fruit or berry of
+  the book's pantry (used like cherries).
+- *cibibo* — currants; Damascene *cibibo* — damson-type dried
+  fruit.
+- *brogne* — prunes.
+- *ruvia* — as printed; obscure (a root?).
+- *levesini* — as printed; obscure (some cut of meat).
+- *miraust* — a Catalan-style roast with sauce.
+
+---
+
+**A note on primacy.** None found after research: no complete
+English translation of Messisbugo's *Banchetti* — nor of this
+great middle slice of the recipe book — was found. (The 2023
+Kindle selection, *Cooking Renaissance Italian Food*, redacts 51
+of the 323 recipes; it is a selection, not a complete
+rendering.) The Italian stands in the 1549 Ferrara edition; the
+English here is made fresh from the Italian for this series.
+
+**Rights.** Public domain source text; modern edition (c) editor,
+free redistribution.
+
