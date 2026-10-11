@@ -1,0 +1,1209 @@
+# The Letter on the Institution of Harmony (Epistola de Harmonica Institutione)
+
+**by Regino of Prüm (d. 915), to Archbishop Rathbod of Trier**
+A fresh English rendering, plain and complete
+
+---
+
+**A fresh translation, not a reprint.** Regino of Prüm's *Epistola de
+harmonica institutione* — the earliest surviving "please fix our
+church music" letter: an abbot's report to his archbishop on the
+confused psalm-singing of the diocese, and the course of musical
+instruction that goes with the Tonarius he compiled to set it right
+— is here rendered whole into plain English for the first time in
+this series' research: the occasion of the letter, the "bastard"
+antiphons, the eight tones, natural and artificial music, the music
+of the spheres, the music in man, instruments, the name of music,
+voice and sound, the consonances, Pythagoras and the hammers, the
+seven liberal arts, the fifteen strings and their Greek names, the
+semitone, the true *musicus*, and the meaningless syllables,
+translated sentence by sentence from the Latin of Martin Gerbert's
+edition, vol. 1 (St. Blasien, 1784), pp. 230-247.
+
+Original: Latin letter, c. 900. Basis for this rendering: the Latin
+text as printed in Gerbert, *Scriptores ecclesiastici de musica
+sacra potissimum*, vol. 1 (St. Blasien: Typis San-Blasianis, 1784),
+pp. 230-247, read in full in the searchable transcription of the
+Thesaurus Musicarum Latinarum corpus (Fenyx browser), entry REGHAR,
+verified live 2026-10-11. (The Tonarius that follows the letter in
+the manuscripts is a separate work and is not included here.)
+
+**How it is presented:** Regino's text in clear modern English, with
+the Latin or Greek term kept in parentheses where English has no
+single word for it. At the end of most sections a bracketed
+[Editor's note -- in plain words] recap restates the teaching in
+today's speech; these recaps are the editor's, not Regino's. A short
+preface explains the conventions, a note describes the state of the
+Latin text, and a glossary gathers the book's terms.
+
+**Reader note:** This is a working reformer's letter from around the
+year 900: the choirs are singing the psalms out of tune with each
+other, the archbishop is troubled, and Regino has gone through the
+whole antiphoner assigning every chant its proper tone. The letter
+is the instruction manual that travels with that labor — what a
+tone is, why eight of them hold all melody, where music lives (in
+the heavens, in man, in instruments), how the consonances are built
+from numbers, and why the man who only sings is no *musicus*. Nothing
+in it is praised or modernized — it is presented as Regino made it,
+for the reader to judge.
+
+The Rare & Obscure Books series — the Boneyard
+
+---
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial
+direction of Robert Tilford. It is a fresh English rendering made from
+the Latin text of the 1784 edition. It has not yet had the final checks
+required before any public use.
+
+---
+
+## Dedication
+
+**Regino of Prüm (d. 915)** — who he was: a monk and abbot of the
+Carolingian world, remembered as the chronicler Reginon. The
+verifiable record (1911 *Encyclopaedia Britannica*, "Reginon") gives
+his works: a *Chronicon* of the world's history to the year 906; a
+collection of canons of church discipline drawn up at the request of
+his friend and patron Radbod (Rathbod), archbishop of Trier; and to
+that same archbishop this letter on music, the *Epistola de
+harmonica institutione*, with its *Tonarius* — written, the
+record says, "to improve the singing in the churches of the
+diocese."
+
+The circumstances of his death: he died in 915 and was buried in
+the abbey of St. Maximin at Trier, his tomb being discovered there
+in 1581. No more is asserted here than the record gives.
+
+Why his work is vital — proved, not praised: the letter itself is
+the proof. It is the earliest surviving first-hand account of a
+church-music reform as it happened: an abbot who *heard* the
+psalm-choirs of his diocese singing "with confused voices, through
+dissonance of tone," saw his archbishop troubled by it, and sat down
+with the antiphoner "from beginning to end" to put every antiphon,
+introit, communion, and responsory into its proper tone. Around that
+practical labor he built a complete short course of music — the
+eight tones, the "bastard" (*nothae*) chants that wander between
+tones, the music of the spheres after Pythagoras, Boethius, Cicero,
+and Macrobius, the ethical power of music over morals (David and
+Saul, Elisha, the drunken youths and the Phrygian mode), the
+Pythagorean hammers, the fifteen strings with their Greek names
+parsed in Latin, the hard problem of the semitone, and the famous
+line that the true *musicus* is not the man who works with his hands
+but the man who can give the reason. Eleven hundred years later,
+choirmasters still fight the battle he describes in his first page.
+
+Its relation to this rescue: the Boneyard rescues the working
+knowledge of dead masters, and Regino's letter is working knowledge
+with the dust of the choir-stalls still on it — not a philosopher's
+system but a foreman's report: what was wrong, what he did about
+it, and what every singer must know so it does not go wrong again.
+It belongs in the series beside the mensural-notation row as the
+row's elder: the letter that predates Franco of Cologne by three
+and a half centuries and already asks the question the whole row
+answers — how shall we sing together, and in tune?
+
+Where a reader goes next: Martin Gerbert, *Scriptores ecclesiastici
+de musica sacra potissimum*, vol. 1 (St. Blasien, 1784), pp. 230-247
+— the printed home of the Latin letter (the *Tonarius* follows in
+Coussemaker, vol. 2, pp. 1-73); the Thesaurus Musicarum Latinarum
+corpus, entry REGHAR, for the searchable transcription; and the
+1911 *Encyclopaedia Britannica* article "Reginon" for the life in
+brief.
+
+---
+
+## How to read this book
+
+Regino writes to a fellow churchman who sings. His world has no
+staff notation as we know it; the "tones" (*toni*) are the eight
+church modes, and the *differentiae* ("divisions") are the melodic
+turns sung on the last syllable of a psalm verse. Technical words
+are kept in Latin or Greek in parentheses at first use:
+
+- *tonus* — both the church mode (one of the eight) and the musical
+  interval of the whole tone; context tells which.
+- *nothae* — "bastard" antiphons: chants that begin in one tone,
+  wander through another, and end in a third.
+- *musica naturalis / artificialis* — "natural music" (the music
+  that sounds with no instrument: the heavens' motion, the human
+  voice) and "artificial music" (music made by human art, on
+  instruments).
+- *diatessaron, diapente, diapason* — the fourth, the fifth, the
+  octave.
+- *epitritus, hemiolius, duplaris, triplaris, quadruplus, epogdous*
+  — the number-ratios 4:3, 3:2, 2:1, 3:1, 4:1, 9:8.
+- *musicus* — not "musician" in our sense but the knower: the man
+  who can give the reason for what is sung.
+
+Bracketed notes in the form [Editor's note] are the editor's, not
+Regino's. The letter is divided by Regino's own numbered heads
+(1-19, following Gerbert's synopsis); paragraphing within them is
+the editor's.
+
+## Note on the Latin text
+
+The Fenyx transcription follows Gerbert's page-numbering, [230]
+through [247], which is kept in the margin notes. Two small
+transmission scars are left visible: in section 8 the etymology
+sentence is compressed in a way that suggests a lost clause (the
+translation follows the sense, flagged in a note), and in section 18
+the phrase *(ut) instrumentorum musicorum notitiam* carries an
+editorial *ut* supplied by the transcriber. The closing *Reverendissime
+Papa* ("Most reverend Father" — *papa* being then a title of honor,
+not yet reserved to Rome) is as printed. The *Tonarius* announced
+at the letter's end (*Incipiunt octo toni musicae artis...*) is a
+separate work and is not translated here.
+
+---
+
+## The Letter on the Institution of Harmony, sent to Rathbod, Archbishop of Trier, by Regino the priest
+
+*To the most excellent lord Rathbod, Archbishop of the holy church
+of Trier, Regino [sends] devoted service forever.*
+
+### 1. Why the Tonarius joined to this letter was made
+
+When, in the dioceses of your church, I had often heard the choir
+of psalm-singers sounding the melody of the psalms with confused
+voices, through dissonance of tone — and had often seen your
+reverence troubled by such a matter — I took up the Antiphonary,
+and turning it diligently through, from beginning to end in order,
+I distributed the antiphons I found noted in it to their proper
+tones, as I believe; and the divisions of the tones, that is, the
+*differentiae*, which are customarily made on the last syllable in
+the verse, so that the singing-together may come out seemly and
+fitting — just as they were handed down to us by our elders, and
+just as the experience of the harmonic discipline itself has shown
+— I took care to insert in distinct orders. Some add other
+divisions too, which we judge superfluous; but lest we be blamed by
+superstitious musicians, we took care to note them in the margin,
+below or above, leaving it to the judgment of the skilled singer
+whether he wishes to deem them necessary or superfluous. And not
+only did I distinguish the antiphons by their fitting tones, but
+the introits for the Masses and the communions as well; and also
+the responsories, which are sung in the night hours to the divine
+praise — I labored with the utmost zeal to join them to the
+consonant agreements of their tones.
+
+[Editor's note — in plain words: The choirs were singing out of tune
+with each other and the archbishop was upset. Regino went through
+the whole chant book and put every chant in its right mode, writing
+the psalm-verse endings in too — and noted the disputed extras in
+the margin for the experts to argue over.]
+
+### 2. The irregularities of the modes, or eight tones
+
+The skilled singer must know that not every tonal consonance is
+easily recognized in some antiphons. For there are certain
+antiphons which we call *nothae* — that is, degenerate and not
+legitimate — which begin in one tone, are in another in the middle,
+and are finished in a third. Their dissonance and ambiguity we laid
+open in their places in the breviary of the work that follows. But
+so that the reason may shine clearer, we insert some here for
+example: *Ante me non est formatus Deus*; *Ex quo facta est vox*;
+*Ex Aegypto vocavi*; *Ad te Domine levavi animam meam*; *Sion
+renovaberis*; *O mors ero mors tua*; *Vade iam et noli peccare*.
+These aforesaid antiphons begin in the seventh tone, and some are
+finished in the first, others in the fourth tone. Likewise the
+antiphons *Ne reminiscaris* and *Tulit ergo paralyticus* begin in
+the third tone but are finished in the fourth. So *Quare
+detraxistis* and *Multa quidem et alia signa* begin in the third
+tone but are finished in the sixth. *Qui odit animam suam* and *Et
+respiciens* begin in the third but are finished in the eighth.
+*Quod uni ex minimis meis* begins in the seventh but is finished in
+the first — and many like these. Nor are antiphons alone mixed with
+these ambiguities and doubtfulnesses of tones: some introits too
+begin in one tone but are finished in another. *Deus in adiutorium
+meum intende* begins in the eighth tone but is finished in the
+seventh. Likewise *Accipite iocunditatem* and *Deus dum egrederetur*
+begin in the eighth but are finished in the fourth. *Repleatur os
+meum* and *Charitas Dei* begin in the third and are finished in the
+fourth. *Iudica Domine nocentes me* begins in the fourth but is
+finished in the seventh. *Victricem manum tuam* begins in the third
+but is finished in the eighth. *Eduxit Dominus populum suum* begins
+in the fourth but is finished in the eighth. *Ecce oculi Domini*
+begins in the third but is finished in the fourth. *Loquetur
+Dominus* begins in the third but is finished in the fourth. *Iustus
+non conturbabitur* begins in the second but is finished in the
+first. *Dicit Dominus, sermones* begins in the third, is finished
+in the first — and the like. But this the prudent singer must
+observe above all: that he always attend more to the *beginning*
+of the antiphon, introit, or communion in the sonority of the tone
+than to the end; and conversely in the responsories let him
+consider more the end and close in the consonance of the tone than
+the beginning.
+
+[Editor's note — in plain words: Some chants are "bastards" — they
+start in one mode and end in another. Regino lists them by name with
+their wandering tones, and gives the working rule: judge an
+antiphon by its opening, a responsory by its close.]
+
+### 3. The eight tones, or musical modes
+
+In natural music — that is, in the song (*cantilena*) that is
+modulated in the divine praises — there are found four principal
+tones, which are named by this Greek vocabulary: *authenticus
+protus, authenticus deuterus, authenticus tritus, authenticus
+tetrardus*. From their fountains flow four others, which are named:
+*plaga proti, plaga deuteri, plaga triti, plaga tetrardi*. For from
+*authenticus protus* is born or derived *plaga proti*; so from the
+other three the remaining three take their beginning — they are, so
+to speak, their members. They can be interpreted thus: *authenticus
+protus*, that is, the first authority — understand, in natural
+music; *authenticus deuterus*, that is, the second authority;
+*authenticus tritus*, that is, the third authority; *authenticus
+tetrardus*, that is, the fourth authority. *Plaga proti*, that is,
+part of the first tone; *plaga deuteri*, that is, authority of the
+second tone [so the text; the pattern suggests "part of the second
+tone"]; *plaga triti*, that is, part of the third tone; *plaga
+tetrardi*, that is, part of the fourth tone. In these eight tones
+not only all harmony of spiritual melody but also all natural song
+is contained and comprehended.
+
+[Editor's note — in plain words: Four "authentic" modes and their
+four "plagal" partners — the eight church tones that hold every
+sacred melody and, Regino says, every natural tune besides.]
+
+### 4. What a tone is, and natural and artificial music
+
+But many hear "tone" and perhaps do not know what a tone is, or why
+it is called tone, or how far the tone of natural music differs
+from the tone of artificial music. The tones of natural music are
+four principal. The tones of artificial music are five, and two
+semitones — which semitones, however, do not fill out a whole tone,
+for they cannot be divided into equal parts: one is greater, the
+other less, and therefore they admit no equal sections. These five
+tones with the two semitones stand firm in the three consonances of
+musical perfection: namely in diapente, diatessaron, and diapason.
+Item: from the four principal tones of natural music four others
+arise, and as streams flow from fountains and branches proceed from
+a tree's root, so in a manner they draw their origin from them.
+None of this happens in artificial music: no tone begets another
+tone from itself, nor does one of them excel another in authority —
+but all are divided among themselves by equal divisions, namely in
+sesquioctave proportion, except the semitones. This too is to be
+noted: that in natural music all eight tones are whole and perfect
+— though they differ in authority among themselves — and admit no
+semitone, no *diesis*, no *apotome*, no *tristemoria*, no
+*tetrastemoria*; for into these parts the tone of artificial music
+is divided.
+
+From this dissonance it appears that the oft-named eight, called
+tones, should be called not so much tones as *modes*, or
+*differentiae*, or *tropes* of the consonances of musical
+modulation — which, with beautiful variety of harmonic delight,
+mixed of grave and acute sounds, as if sprinkled with flowers,
+render the sweetness of melody mild and fitting. To this is added
+that all skill of the musical discipline is measured and confined
+by arithmetical rules: it is made in duple, quadruple, sesquialter,
+sesquitertian, or sesquioctave proportions of numbers. These
+dimensions, I think, can hardly be found in the aforesaid tones.
+For all whole and perfect tones must differ among themselves by
+equal dimensions — that is, by an eighth part of themselves. This
+distance can be shown between the numbers eight and nine: nine
+contains the whole eight within itself, and besides, its eighth
+part — that is, one. Musicians call this difference the interval;
+arithmeticians the sesquioctave proportion. The interval is the
+distance of acute and grave sound.
+
+A tone, then, either transcends another tone or is transcended by
+another tone by an eighth part of itself. But what the ratio of the
+tones or of the aforesaid consonances is, or how the musical
+consonances are found, or how they are fitted to each other or
+sundered from each other — we shall show more plainly below.
+Meanwhile, let credence with middling understanding be given to the
+aforesaid discussion; then faith will be undoubting, when what
+seemed ambiguous is revealed by plain demonstration. And since
+mention has been made of natural and artificial music, the less
+skilled musician may ask what distance there is between natural and
+artificial music. To which it must be answered: though every
+modulation of harmonic institution is one and the same in the
+sounds of the consonances, yet natural music is one thing,
+artificial another. Natural music is what resounds with no musical
+instrument, no touch of fingers, no human impulse or touch, but,
+divinely breathed, with nature alone teaching, modulates sweet
+modes — which happens either in the motion of heaven or in the
+human voice. Some add a third: in the irrational creature, by sound
+or voice.
+
+[Editor's note — in plain words: The church's eight "tones" aren't
+really tones at all — they're modes. A real tone (the interval) is
+the 9:8 step, the difference between 8 and 9, and it belongs to
+"artificial" music — the music of instruments and numbers — while
+the modes belong to "natural" music: the heavens turning and the
+human voice singing, with no instrument at all.]
+
+### 5. Music in the motion of the heavenly bodies
+
+That music is in the motion of heaven is detected by this argument
+of the Pythagoreans. "How," they say, "can it be that so swift a
+machine of heaven moves in a hushed and silent course? Though that
+sound does not reach our ears, yet it can in no way be that so
+exceedingly swift a motion lacks sound — especially since the
+courses of the stars are joined with such fitting and agreement
+that nothing can be understood so joined and connected. For some
+are borne higher, some lower, and all roll with equal swiftness, so
+that through disparate inequalities the ordered course of their
+courses is led." Hence it is conjectured that in heaven's motion
+there is an ordered order of modulation. For consonance, which
+rules all musical modulation, cannot happen without sound; sound is
+not rendered without some impulse or stroke; stroke does not happen
+unless motion has preceded.
+
+Motions are some swifter, some slower; and if the motion is slow
+and sparse, it makes grave sounds — but if swift and dense, it must
+render acute sounds. In an immobile thing no sound is ever made.
+Hence musicians define sound thus: *sound is a percussion of air,
+undissolved, all the way to the hearing*. From many motions, then,
+both acuteness and gravity consist.
+
+From this conjecture the astrologers — or musicians — say that
+between the outermost sphere and the circles of the seven planets
+all musical consonances are fulfilled. From Saturn to the celestial
+sphere, they say, the acutest sound is made; from earth to the
+lunar circle the gravest — though some think otherwise. In short,
+from Saturn to the [outer] sphere they assert a graver sound is
+made, from earth to the lunar circle an acuter — because what is
+tighter and shorter must resonate acuter, as conversely what is
+longer, graver. Between Saturn's circle and the Moon's, through the
+whole amplitude of the planets, the variety of diverse tones and
+all musical consonances are perfected. All this Martianus
+figuratively feigned to have been in the grove of Apollo, in the
+book he wrote *On the Marriage of Philology and Mercury* — Apollo
+himself being the Sun, the moderator of celestial music. For, he
+says, the loftier summits — that is, the higher branches — spread
+out, that is, greatly extended, rang with acute sound, that is,
+subtle and slender. Whatever was near and neighboring to earth —
+the more inclined and lower branches, nearer to earth — the hoarse
+gravity shook, that is, struck and beat back. But the middle parts
+of the wood sang their joined spaces with double *succentus*.
+*Concentus* is the united society of like voices; *succentus* is
+varied sounds most agreeing with one another, as we see in the
+organ. "With double," he says, "*succentus*, and sesquialter, and
+sesquitertian." Here he touches three consonances: diapason,
+diatessaron, and diapente. "Octaves without distinction" — that is,
+without interval — "joined," that is, in consonances: here he
+touches the tone. "Though *limmata* intervened," that is,
+semitones: here he touches the two semitones. From all these the
+sum of all music consists. But all this will be shown more plainly
+in its place.
+
+Nor must it be omitted that the strings — that is, the chords — are
+compared to celestial music: *hypate meson* is attributed by
+musicians to Saturn; *parypate* is like the Jovian circle; *lichanos
+meson* they handed to Mars; the Sun obtained *mese*; *trite
+synemmenon* Venus has; *paranete synemmenon* Mercury rules; *nete*
+holds the pattern of the lunar circle. This according to Boethius.
+Cicero makes the contrary order: in the *Dream of Scipio* he
+asserts — and nature bears it — that the extremes sound gravely on
+one side, acutely on the other. Hence the highest star-bearing
+chariot of heaven, whose turning is swiftest, is moved with acute
+and excited sound; the lowest, the lunar, with the gravest. For the
+earth, ninth, remaining immobile, ever sticks in one seat. In this
+place Cicero puts the earth as silence — that is, immobile. After
+it, nearest to silence, he gives the Moon the gravest sound, so
+that the Moon is *proslambanomenos*, the string that resounds most
+gravely; Mercury *hypate hypaton*, Venus *parypate hypaton*, the
+Sun *lichanos hypaton*, Mars *hypate meson*, Jupiter *parypate
+meson*, Saturn *lichanos meson*, the celestial sphere *mese*. The
+Moon compared with Mercury resounds a tone; the same Moon with Mars
+creates the diapente consonance, with the Sun diatessaron, with the
+celestial sphere diapason. Behold, you have in heaven's motion the
+sum of all music. Let these few things suffice on celestial music.
+If anyone desires to know more fully, let him read the second book
+of Macrobius, the excellent philosopher, on the aforesaid *Dream of
+Scipio*. This one thing we add: not only the gentile philosophers
+but also the strenuous preachers of the Christian faith agree in
+this celestial harmony.
+
+[Editor's note — in plain words: The planets must make music,
+because nothing that moves that fast and that regularly can move
+silently. Regino walks the reader through Martianus's grove of
+Apollo, Boethius's planet-strings, and Cicero's upside-down version
+— and notes that Christian preachers agree with the pagan
+philosophers on this one.]
+
+### 6. Natural music, and its effects
+
+These things passed over, we must cross to contemplating human
+music. That music is naturally joined to all men, and all ages, and
+every sex, no one who understands himself doubts. What age, or what
+sex, is not delighted by musical songs? It is proper to humanity to
+soothe the mind with sweet modes, to exasperate it with contrary
+ones. Infants and youths, and even old men, are so naturally
+implicated, by a certain spontaneous affection, in musical
+modulations that there is no age at all without delight in sweet
+song. Though there are some who cannot sing learnedly and sweetly
+for others, yet for themselves they sing something unsweetly sweet.
+
+Know moreover that the morals of men are known through music: the
+wanton and petulant mind delights in more wanton modes — or,
+hearing them often, is softened and effeminated. Conversely the
+harder and fiercer mind, or the rougher, rejoices in rougher modes
+or is stirred by rougher. For it cannot be that soft things are
+joined to hard, or hard to soft, and delight in them; but likeness
+of morals, as said, conciliates love and delight. For the rougher
+peoples delight in harder modes; the gentle and peaceful in gentler.
+
+In short, every habit of morals is so governed and ruled by songs
+that both the advance to war and the retreat are sung — with the
+trumpet's song exciting, and again calming, the mind's virtue. Song
+gives sleep and takes it away; it brings cares and anxieties and
+draws them back. It suggests anger, persuades clemency, and heals
+diseases of bodies. It is common talk how often song has repressed
+angry minds, how many wonders it has worked in afflictions of
+bodies or souls. In short, as Cicero attests: when drunken youths,
+incited by the flutes' song, were breaking the doors of a chaste
+woman to violate her chastity, Pythagoras perceived that the youths'
+minds were incited to lust by the sound of the Phrygian mode — for
+at that hour he was watching the courses of the stars — and at once
+running up advised the flute-girl to change the mode and play the
+spondee. When she did, by the slowness of the modes and the gravity
+of the playing, their raging petulance settled.
+
+But what we bring from the gentiles' books we can affirm from our
+own. When the evil spirit harassed King Saul, David, taking up the
+psaltery, mitigated the fierceness of his breast with sweet and
+suave modes. What shall we say of the prophet Elisha? When, asked
+by the king, he perceived that the spirit of prophecy was not in him
+at that hour, he ordered a psalter to be brought to him; and when
+he psaltered before him, suddenly the spirit descended upon him,
+and he prophesied.
+
+Thus, as it stands certain that the minds of fighters in war are
+kindled by the song of trumpets, so there is no doubt that a more
+modest and sweeter mode of songs can temper the mind's disturbance.
+From all these it appears perspicuously and indubitably that music
+is so naturally joined to us that we cannot, even if we would, not
+sing. Wherefore the mind's intention must be raised, so that what
+is naturally implanted in us may also be comprehended by science.
+
+Now remains to see the third kind of natural music, which we
+mentioned above is in the irrational creature. Of this, then, such
+is the philosophers' opinion. "No wonder," they say, "if music has
+such dominion among men, when birds too — nightingales, swans, and
+others — practice song as if by a discipline of the musical art;
+whence Virgil says of swans: *dant per colla modos* — 'they give
+measures through their necks' — and the rest. Some earthly or water
+birds, invited by song, run willingly into nets and snares. Nor is
+it less to be observed that the shepherd's pipe commands the
+flocks' feeding, advancing, and resting. And in the sea the Sirens
+are said to utter sweet songs." Rightly then is all that lives
+captured by music, since the celestial soul, by which the universe
+is animated, took its origin from music, as Plato and his followers
+hold. These things on natural music we have briefly touched.
+
+[Editor's note — in plain words: Music moves morals: wanton tunes
+make wanton minds, rough tunes rough minds — so choose. Regino
+proves it three ways: Pythagoras calming the drunken mob by
+switching modes, David soothing Saul, Elisha calling down prophecy
+with the psaltery. And the birds sing too — even the Sirens.]
+
+### 7. Artificial music, briefly
+
+Remains to see briefly the artificial. Artificial music is what is
+devised and invented by human art and ingenuity, and it consists in
+certain instruments. It is likewise divided into three kinds:
+*tensibile, inflatile, percussibile*. *Tensibile* is made by the
+stretching of strings, as in lyre, cithara, harp, and the like.
+*Inflatile* is driven by breath or wind, as in tibiae, musae,
+fistulae, organs, and the like. *Percussibile* is made in certain
+hollow brazen vessels and other instruments, when they are struck
+with a beat and a percussion, whence diverse sounds are made, as in
+cymbals, drums, and the rest. Whoever desires to have knowledge of
+this art must know that, though natural music far precedes
+artificial, yet none can recognize the force of natural music except
+through artificial. Therefore, though our discourse proceeded from
+natural, it must end in artificial — so that through the visible
+thing we may demonstrate the invisible.
+
+[Editor's note — in plain words: Instruments come in three kinds:
+stretched (strings), blown (winds), struck (bells and drums). You
+can only understand heaven's music and the voice's music by way of
+the music you can see and touch.]
+
+### 8. Whence music is named
+
+With these briefly foretasted, reason now demands that we
+contemplate music itself more diligently. First to be said: whence
+is it called music? Music is named from the *musa* — the pipe —
+which the ancients deemed the instrument worthy to be set before
+all musical instruments: either because, as they say, it was first
+found by nature, or rather because in it all musical perfection is
+contained. For in its upper holes all consonances and tones can be
+shown; in the two lower, the greater and lesser semitone. [The
+Latin's opening is compressed here — "a musis ... quod instrumentum"
+— and the translation follows the sense: the pipe, *musa*, as the
+name-source.] It is named from *musa* as *grammatica* from
+*gramma*, and *rhetorica* from *rhetoreon* — that is, copiousness
+of elocution — and *arithmetica* from *arithmos*, that is, number,
+and *geometria* from *ge*, that is, earth, and *astrologia* from
+*astron*, that is, star.
+
+[Editor's note — in plain words: "Music" is named for the pipe the
+way "grammar" is named for the letter — and the pipe earns it,
+because every interval can be fingered on its holes.]
+
+### 9. What voice is, what sound is
+
+But before we discern the parts of musical institution, first let
+us say something of voice and sound. Though every voice is sound,
+yet not every sound can rightly be called voice. The creature that
+is breathed with vital spirit renders voice; what is driven by
+beat, stroke, or breath gives sound. Every voice is either
+*syneches* — that is, continuous — by which, speaking or reading a
+lesson, we run through words continuously; or *diastematice* — that
+is, suspended with interval — which we suspend in singing, in which
+we serve not speeches but measures. Of this our discourse now
+turns.
+
+[Editor's note — in plain words: Voice needs lungs and life; sound
+needs only a knock. Singing-voice is the "gappy" kind — it moves
+by steps, not by talk.]
+
+### 10. The consonances and the intervals
+
+Know that from voice or tone consonance is procreated. And note
+this: in those voices or sounds which discord with no inequality,
+there is no consonance at all. Consonance is defined thus:
+*consonance is the concord of dissimilar voices reduced into one*.
+Otherwise: *consonance is the mixture of acute and grave sound,
+falling sweetly and uniformly on the ears*. And conversely
+*dissonance is the harsh and unpleasant percussion of two sounds
+mixed together, coming to the ear*. Though the ear's sense judges
+consonance, reason weighs it. For whenever two strings are
+stretched, and one sounds graver, the other acuter, and struck
+together they render a somehow mixed and sweet sound, and the two
+voices as if joined into one coalesce — then happens what is called
+consonance. But when, struck together, each strives against the
+other, nor do they mix into a sweet sound, one composed of two, for
+the ear — then it is what is called dissonance.
+
+The numbers that create the consonances, or by which the
+consonances are discerned, are only six: *epitritus, hemiolius,
+duplaris, triplaris, quadruplus, epogdous*. *Epitritus* is when of
+two numbers the greater has the whole lesser, and besides, its
+third part — as 4 to 3; for in 4 are 3 and a third part of 3, that
+is, 1. This number is called in arithmetic *sesquitertius*, and from
+it is born the *symphonia*, that is, consonance, called in music
+*diatessaron*.
+
+*Hemiolius* is when of two numbers the greater has the whole
+lesser, and besides, its half — as 3 to 2; for in 3 are 2 and their
+middle part, that is, 1. This number is called *sesquialter* in
+arithmetic, and from it comes the *symphonia* named *diapente*.
+The *duplaris* number is when of two numbers the lesser is counted
+twice in the greater — as 4 to 2; and from this *duplaris* is born
+the *symphonia* named *diapason*.
+
+*Triplaris* is when of two numbers the lesser is counted thrice in
+the greater — as 3 to 1; and from this *triplaris* arises the
+*symphonia* named *diapason with diapente*. The *quadruplaris*
+number is when of two numbers the lesser is counted four times in
+the greater — as 4 to 1; this number makes the *symphonia* called
+*bis diapason*.
+
+*Epogdous* is the number that has the lesser within itself, and
+besides, its eighth part — as 9 to 8; for in 9 are 8, and besides,
+their eighth part, that is, 1. Arithmeticians call this number
+*sesquioctave*. This number begets the sound musicians called
+*tone*. A sound less than a tone the ancients wished to call
+*semitone* — but not so to be taken as if a half-tone were meant,
+for neither do we take *semivowel* in letters for half a vowel.
+Then a tone by its nature cannot be divided into two equal parts:
+since it consists of the ninefold number, and 9 is never divided
+equally, the tone refuses to be divided into two halves. But they
+called *semitone* the sound less than a tone, which was found to be
+distant by as small an interval as these two numbers are distant
+from each other — that is, 243 and 256. This semitone some ancient
+Pythagoreans named *diesis*; but later usage established that a
+still smaller sound be named *diesis*. Plato called the semitone
+*limma*.
+
+These are the parts into which all music is resolved. There are,
+then, five *symphoniae*, that is, consonances: diatessaron,
+diapente, diapason, diapason with diapente, and bis diapason. All
+musical consonances consist either in duple, triple, quadruple,
+sesquialter, or sesquitertian proportion of numbers. What in numbers
+is sesquitertian is in sounds diatessaron; what in numbers
+sesquialter is in voices diapente; what in numbers duple is in
+consonances diapason; triple is diapente and diapason; quadruple is
+bis diapason.
+
+Let the diligent reader know that consonances set upon consonances
+make certain other consonances: diapente and diatessaron joined
+create the diapason consonance; to this — that is, diapason — if
+diapente is joined, comes the consonance named from both words:
+diapason and diapente; to which if diatessaron is added, comes bis
+diapason.
+
+Know moreover that if diapason and diatessaron are joined, they
+make no consonance: at once it falls into the superpartient genus
+of inequality, keeping neither the order of multiples nor the
+simplicity of the superparticular. How this may be proved is long
+to insert here; whoever desires to know more fully, let him read
+Boethius's second book *On the Institution of Harmony*. Let this
+one thing briefly commemorated suffice: from unequal numbers the
+concord of the consonances is made. The genera of unequal numbers
+dissent among themselves in five modes in their inequality: either
+one transcends the other by multiplicity, or by single parts, or by
+several, or by multiplicity and a part, or by multiplicity and
+parts. Whoever desires to consider these species of inequalities,
+let him first read Boethius's first book of *Arithmetic*.
+
+Note that of the five aforesaid genera of inequality only two are
+taken for forming harmonic consonances: the *multiple* and the
+*superparticular*. The *multiple* is the number that contains the
+lesser twice or thrice or four times in itself; from this the
+diapason consonances are formed. The *superparticular* is the number
+that has the whole lesser in itself, and besides, its half, third,
+or eighth part; from this are procreated the diapente and
+diatessaron consonances, and also the tone. Hence it is fitting to
+know that none can be made a perfect musician unless first fully
+instituted in arithmetical rules.
+
+With these premised for clarity, let us discuss the aforesaid
+consonances through the tones. The diatessaron consonance consists
+of two tones and a semitone, and comes from the *epitrite*, that
+is, sesquitertian. The diapente consonance consists of three tones
+and a semitone, and comes from the *hemiole* — that is, from
+*semis* and tone, for the Greeks call *semis* "hemi," the whole
+"holon." The diapason consonance consists of six tones and comes
+from the *duplaris* number; for from diapente and diatessaron comes
+the *symphonia* diapason. For it was shown above that diatessaron
+consists of two tones and a semitone, diapente of three tones and a
+semitone — that is, of five tones and two semitones. But diapason
+and diapente consists of nine tones and a semitone, and comes from
+the *triplaris* number. Bis diapason contains twelve tones and
+comes from the quadruple. These we said of the tones according to
+Macrobius's assertion; but Cassiodorus in secular letters affirms
+there are fifteen tones, according to the number of strings placed
+in the bis diapason consonance — which we shall show below, when we
+begin to treat of the strings and their names.
+
+[Editor's note — in plain words: Six ratios father every consonance:
+4:3 the fourth, 3:2 the fifth, 2:1 the octave, 3:1 octave-plus-fifth,
+4:1 double octave, 9:8 the whole tone. Stack them and they breed:
+fifth plus fourth is an octave. And no one is a real musician who
+hasn't done his arithmetic first.]
+
+### 11. After Pythagoras's discovery
+
+Know that the oft-named consonances were not invented by human
+ingenuity but shown to Pythagoras by a divine nod. When the
+philosopher, of burning ingenuity, long seething, inquired by what
+reason he might firmly and constantly learn the momenta of the
+consonances, it happened that, passing the smiths' workshops, he
+heard hammers struck, from diverse sounds sounding one fittingness.
+Astonished at what he sought, he approached the work, and long
+considering judged that the strength of the strikers made the
+diversity of tones. And that this might appear, he ordered the
+hammers changed among themselves. When changed, the diversity of
+sounds, receding from the men, followed the hammers. Then he turned
+all care to examining their weights: and one was found the greater,
+of twelve weights, another of nine, a third of eight, a fourth of
+six. So the hammers of twelve and six weights sounded the diapason
+consonance in the duple. The hammer of twelve to the hammer of
+nine, and the hammer of eight to the hammer of six, in *epitrite* —
+that is, sesquitertian — proportion, sang the diatessaron
+consonance. Nine to eight in sesquioctave proportion resounded the
+tone. So Pythagoras, returned home, weighed by varied examination
+that in the aforesaid dimensions consisted the whole ratio of the
+*symphoniae*: now fitting equal weights to strings and judging
+their consonances by ear; now fitting in the length of reeds or
+pipes the duple, the half, and the other proportions; often also
+striking cymbals formed of diverse weights with a little hammer,
+after the above-comprehended mode. From all these he gathered by
+diverse experience the most whole faith, and was greatly delighted
+to have found nothing diverse. And since in the now-often-noted
+consonances, known by divine gift, consists the sum of all harmonic
+discipline, they must be known to mind and ears. For in vain are
+these gathered by reason and science, as the notable author Boethius
+testifies, unless they have become most known by use and exercise.
+
+[Editor's note — in plain words: The legend Regino retells:
+Pythagoras heard smiths' hammers ringing in tune, weighed them —
+12, 9, 8, 6 — and found the octave, fourth, fifth, and tone in the
+weights. Then he checked it on strings, pipes, and cymbals until
+ear and reason agreed.]
+
+### 12. On the seven liberal disciplines
+
+There are seven liberal disciplines, of which three — grammar,
+rhetoric, dialectic — are gathered by reason and natural sense, not
+seen by the eye or shown by the finger, since their force is in
+speech, and speech — that is, human locution — can be heard, not
+seen. The other four — arithmetic, geometry, music, astrology —
+are in no way perceived clearly by the mind unless seen by the eye,
+shown by the finger.
+
+[Editor's note — in plain words: Three arts you learn by ear and
+reason; four — counting, measuring, music, star-lore — you must
+see and touch to truly know.]
+
+### 13. The names of the strings, or intervals
+
+Wherefore it seems to us useful and most necessary to discourse a
+little first on the strings and their names, and to set under each
+string its tone — so that when we begin to treat of the aforesaid
+consonances more openly and plainly, we may send the sober singer
+to the aforesaid strings, there to see with the eye and touch with
+the finger what he perceives by ear from our word and writing. The
+invention of the strings, or how the number of them was added by
+divers at diverse times, we pass over for brevity's sake. Let the
+nerves, then, be disposed in order, in which the bis diapason
+consonance is perfected and shown, in this mode:
+
+*Proslambanomenos*, and *Prosmelodos*. *Hypate hypaton*.
+*Parypate hypaton*. *Lichanos hypaton*. *Hypate meson*. *Parypate
+meson*. *Lichanos meson*. *Mese*. *Paramese*. *Trite diezeugmenon*.
+*Paranete diezeugmenon*. *Nete diezeugmenon*. *Trite hyperboleon*.
+*Paranete hyperboleon*. *Nete hyperboleon*.
+
+The names of the above-written strings, since they are Greek, need
+interpretation. *Proslambanomenos* is interpreted "acquired" or
+"added": since *mese* was not in the middle place so as to join
+both diapasons, but approached more to the hypatae, therefore this
+one string was added above the *hypatae hypaton*. Whence by some it
+is called *prosmelodos* — that is, joined or added to the melody.
+*Hypate hypaton* — that is, principal of principals, understand "of
+strings": for this was always first, before *proslambanomenos* was
+added, and it was the string resounding the gravest sound — whence
+some thus interpret: the *hypatae hypaton* were called as if
+"greatest of great," or "gravest of grave." *Parypate hypaton* is
+called the third string, as if placed beside the hypate, that is,
+gathered; it can be interpreted "subprincipal of principals."
+*Lichanos hypaton* is so called because *lichanos* in Greek is the
+index finger — the Greek calls it *lichanon* from licking — and
+just as in singing, at that string which was third from the hypate,
+the index finger, which is *lichanos*, was found, therefore it too
+was called *lichanos*.
+
+[Editor's note — in plain words: Fifteen strings, lowest to highest,
+each with its Greek name Englished: the "added-to-melody,"
+"principal of principals," the "index-finger" string, and so on.]
+
+### 14. The tetrachords
+
+This tetrachord, since it is formed of longer and thicker strings
+and renders a graver sound, is called *principal*. These *hypate
+meson* follows — that is, principal of the middle strings,
+understand "of strings." *Parypate meson* — that is, subprincipal
+of the middles, or placed beside the principal of the middles.
+*Lichanos meson* — that is, third of the middles. Then *mese* is
+placed in the eighth place: *mese* is interpreted "middle,"
+because it is always middle between seven and seven, or because it
+is the end of the preceding diapason and the beginning of the
+following, and is taken for two strings. In short, though the
+eighth string resounds the diapason consonance with the first, not
+for this cause are sixteen strings found in bis diapason, but only
+fifteen — because *mese*, as we said, supplies the place of the
+sixteenth string. *Paramese* — that is, placed beside the middle.
+*Trite diezeugmenon*: *trite*, that is, third from *mese*;
+*diezeugmenon*, that is, of the disjunct — understand "strings":
+for when two tetrachords are joined with one middle nerve
+intervening, this is called in Greek *synemmenon*, that is,
+conjoined. Hence also *synaphe* is said — that is, conjunction —
+whenever one middle term continues and joins two tetrachords. On
+the contrary *diezeuxis* is called what can be said disjunction,
+whenever two tetrachords are separated and differ from each other
+by a full tone. *Paranete diezeugmenon* is so called because it is
+placed beside *nete* — that is, the last of the disjunct. This
+indeed is followed by *nete diezeugmenon* — that is, the lower or
+last of the disjunct. *Trite hyperboleon* — that is, third of the
+excellent, understand "strings." *Paranete hyperboleon* — that is,
+joined to *nete*, that is, placed before the last of the excellent.
+*Nete hyperboleon* is interpreted last of the excellent. In short,
+these three last and newest strings render a more acute and slender
+sound than the other strings; whence also they are called
+excellent.
+
+[Editor's note — in plain words: The fifteen strings fall into
+tetrachords (four-string groups): the low "principals," the
+"middles," the "conjoined," the "disjunct," and the "excellent"
+high ones — with *mese*, the middle string, doing double duty so
+fifteen strings cover two octaves.]
+
+### 15. And the consonances it contains
+
+Now let us see how in these fifteen strings all consonances are
+found. *Proslambanomenos* is distant a whole tone from the second
+string, which is *hypate hypaton*. The same *proslambanomenos* is
+eighth from *mese* and resounds with it — that is, with *mese* —
+the diapason consonance. And the same *proslambanomenos* resounds
+with the fourth string — that is, *lichanos hypaton* — the
+diatessaron consonance; which *lichanos hypaton* resounds with
+*mese* the diapente *symphonia*, and is the fifth string from it.
+Again *mese* is distant a tone from *paramese*; likewise the same
+*mese* makes with *nete diezeugmenon*, which is the fifth string
+from *mese*, the diapente consonance — which *symphonia* is called
+diapason and diapente. The aforesaid *nete diezeugmenon* makes with
+*nete hyperboleon*, the fourth string, the diatessaron consonance.
+Again *proslambanomenos* with *nete hyperboleon* — that is, the
+first string with the fifteenth — resounds the bis diapason
+consonance.
+
+Behold, you have in fifteen strings all tones and all consonances.
+To one looking more diligently into the subtlety of musical
+discipline, no more than five tetrachords are found: *hypaton,
+meson, synemmenon, diezeugmenon, hyperboleon*. They can be
+interpreted thus: take *hypatae* as principals, *mesae* as middles,
+*synemmenae* as conjoined, *diezeugmenae* as disjunct,
+*hyperboleae* as excellent. All which is too prolix to show in this
+place: for we have not proposed to expound in this letter the
+fullness of all harmonic institution, since its perplexed subtlety
+the notable author Boethius could scarcely expound in five books.
+We note only this: that the aforesaid five tetrachords are extended
+in twenty-eight strings.
+
+[Editor's note — in plain words: Every consonance lives somewhere
+among the fifteen strings — Regino walks them off one by one — and
+the five tetrachords are really all there is. (Even Boethius needed
+five books for the whole of it; a letter must stop somewhere.)]
+
+### 16. The names of the consonances, and their genesis
+
+With these premised on the strings and their names, it is now time
+to discourse a little more plainly and openly on the names of the
+consonances and their voices, for the less understanding. Though we
+have above commemorated for the most part all that pertains to
+music, yet since the names are Greek they require an expositor.
+*Diatessaron* can be said in Latin "of four" — not for the reason
+that it consists of four numbers or parts, since it is made of the
+*hemiole*, that is, of the half and the whole, but because it is
+made of four sounds or voices distant from each other by a fixed
+space. So *diatessaron* is a consonance of four voices, of three
+intervals. What an interval is was shown above: the distance of
+acute and grave sound. When then the greater voice contains the
+whole lesser voice in itself — or the greater sound the whole
+lesser sound — and besides, the third part of the lesser voice or
+tone, it creates the diatessaron consonance; and it is always made
+in the fourth string. In short, from *proslambanomenos* to
+*lichanos hypaton* resounds diatessaron, as shown above.
+
+*Diapente* is interpreted "of five" — *dia* in Greek is the
+preposition "of/from," *pente* five. *Diapente* is so called because
+it is perfected of five voices or sounds; it is of five voices, of
+four intervals. When then the greater voice precedes the whole
+lesser voice in all its quantity, and transcends besides the half
+of the surpassed voice — whether in acuteness or gravity — this
+*symphonia* is called *diapente*; and it is always made in the
+fifth string. For *lichanos hypaton* to *mese* resounds the
+diapente consonance.
+
+*Diapason* can be interpreted "of all," for it is made of all
+semitones, tones, and consonances: for diapason consists of
+diapente and diatessaron. When then the greater voice surpasses the
+lesser voice by double its quantity — whether in extension of
+acuteness or remission of gravity — such a *symphonia* is called
+*diapason*; and it is always made in the eighth string. For
+*proslambanomenos* to *mese* resounds the diapason consonance, and
+it is more principal and honorable than the other consonances.
+Moreover the diapason-and-diapente consonance is formed when the
+greater voice or sound transcends the lesser voice or sound in
+acuteness or gravity by triple its quantity; and it is always made
+in the twelfth string. In short, *proslambanomenos* to *nete
+diezeugmenon* resounds the diapason-and-diapente consonance. The
+*bisdiapason* consonance is said when the greater voice or sound
+exceeds the lesser by quadruple quantity in acuteness or gravity;
+and it is always made in the fifteenth string. For
+*proslambanomenos* to *nete hyperboleon* resounds the bis diapason
+consonance.
+
+[Editor's note — in plain words: The names parsed: "of four" (the
+fourth — four voices, three steps), "of five" (the fifth), "of all"
+(the octave — it contains everything). The bigger the leap, the
+farther the string: fourth on the fourth string, fifth on the
+fifth, octave on the eighth, octave-plus-fifth on the twelfth,
+double octave on the fifteenth.]
+
+### 17. Of the tone, likewise, and of the lesser intervals
+
+But *tone* is called when the greater voice or tone holds the whole
+lesser voice or sound and besides its eighth part; and it is always
+made in the second string. For *proslambanomenos* to *hypate
+hypaton* resounds tone. And this is to be known: what is called
+*epogdous* in arithmetic is called tone in music. *Epogdous* is
+said as if *epiogdous* — that is, superoctave. The tone is divided
+into two semitones — not that the semitones are altogether
+half-means, but that "half" is wont to be said of what does not
+reach the full measure. And that this may most easily be proved:
+let the sesquioctave proportion be 8 and 9. Between these no middle
+number naturally comes. Let us multiply them by two: twice 8 makes
+16, twice 9 makes 18. Between 16 and 18 one natural number is
+found, that is, 17. Let these three numbers be disposed in order:
+16, 17, 18. So 16 and 18 compared keep the sesquioctave proportion,
+and therefore make a tone. But this proportion the number 17, which
+is middle between them, does not part into equals: compared to 16
+it has in itself a tone — 16 — and besides its sixteenth part, that
+is, 1. Again if 17 and 18 are compared, in 18 are found 17 and
+besides its seventeenth part, that is, 1. So it does not surpass
+the lesser and is surpassed by the greater by the same parts: the
+lesser part is a seventeenth, the greater a sixteenth. But both
+parts are called semitones, one greater, the other less. In what
+numbers these semitones are found or shown we could here abundantly
+and multiply insert, and annotate the diverse opinions of diverse
+authors — which for two causes we omit: lest the epistolary
+discourse pass into the magnitude of a book, and that be objected
+to us which Horace objected: "when the wheel was running, an
+amphora began to be made — why does a pitcher come out?"; and lest
+we create more difficulty, and dull the readers' senses rather than
+inform them with evident documents. Though the semitone is the
+smallest part of harmonic institution, yet of all difficult things
+it is most difficult, and needs laborious exposition. In a matter
+naturally obscure, he who in expounding pours on more than
+necessary adds darkness, does not remove density. Let this one
+thing suffice to know: that half a semitone is called *diesis*, and
+it is a fourth part of the tone; likewise *tetrastemoria* is a
+fourth part of the tone, *tritemoria* is called a third part. The
+greater part of the tone — that is, the greater semitone — is
+called by the Greeks *apotome*, by us it can be called *decisio*
+(a cutting-off). For it is natural that whenever something is cut
+so as not to be divided into equal parts, by as much as the lesser
+part is less than half, by so much the greater part exceeds the
+half. If then to the semitone the *apotome* is added, the greater
+semitone is made.
+
+So the whole tone consists of *apotome* and semitone. Moreover the
+semitone differs from the *apotome* by a *comma*. And therefore
+*apotome* is nothing else than the lesser semitone and a comma. If
+then one takes two lesser semitones from the tone, a comma remains.
+The comma is the last sound subject to hearing. Philolaus the
+Pythagorean includes the lesser spaces of tones in such
+definitions: "*Diesis*," he says, "is the space by which the
+sesquitertian proportion is greater than two tones. *Comma* is the
+space by which the sesquioctave proportion is greater than two
+*dieses* — that is, two lesser semitones. *Schisma* is half the
+comma; *diaschisma* half the *diesis* — that is, of the lesser
+semitone."
+
+From which is gathered: though the tone is divided principally
+into the lesser semitone and *apotome*, it is also divided into two
+semitones and a comma — whence it is divided into two
+*diaschismata* and a comma. The whole half of the tone, which is
+the semitone, consists of two *diaschismata* — which is one lesser
+semitone — and a *schisma*, which is half the comma. Though the
+whole tone is joined of two lesser semitones and a comma, if one
+wishes to divide it wholly, let him make one lesser semitone and
+half the comma. But one lesser semitone is divided into two
+*schismata*; half the comma is one *schisma*. Rightly then it is
+said that the whole half-tone can be parted into two *diaschismata*
+and one *schisma*. Whence the whole semitone seems to differ from
+the lesser semitones by one *schisma*; the *apotome* differs from
+the lesser semitone by two *schismata* — for it differs by a comma;
+but two *schismata* make one comma.
+
+All this we set down to show the difficulty of the semitones,
+which can be expressed and shown more by proportions of numbers
+than by variety of sounds. If anyone is a curious investigator of
+such profundity and perplexed subtlety, let him read the third book
+of the oft-named Boethius *On the Institution of Harmony*, and
+there perhaps not only will his curiosity be satisfied, but he will
+also be able to test his own ingenuity: for if he is found fit to
+grasp these, let him know nothing in the seven liberal disciplines
+will be difficult for him.
+
+Omitting then what few intellects grasp, let us say what many
+senses can gather. Know that though there are eight tones
+completing the diapason consonance, yet there are not more than
+seven dissimilar sounds, distant from each other by a tone — since
+the eighth is the same as the first in the double, the ninth the
+same as the second in the double, and so in the rest. Virgil,
+conscious of this, says: *Est mihi disparibus septem compacta
+cicutis fistula* — "My pipe is compacted of seven unequal reeds."
+For from seven unequal reeds the pipe is made, since from seven
+dissimilar voices or sounds the whole consonance is perfected.
+Whence also some wish only seven tones.
+
+But that Martianus introduces nine Muses singing diverse songs in
+the nuptials of Philology pertains to celestial harmony, which is
+discerned to have nine orders: for the seven planets, the eighth
+celestial sphere, and the ninth earth. But eight resound all the
+consonances; the ninth — that is, earth — perpetually keeps
+silence, since it is immobile. Hence it is that when the eight
+Muses were borne aloft in the celestial circles, the ninth, Thalia,
+remained on earth. For when Urania had entered the celestial
+sphere's circle, Polymnia Saturn's, Euterpe Jupiter's, Erato Mars's,
+Melpomene the Sun's, Terpsichore Venus's, Calliope Mercury's, Clio
+the Moon's, to resound sweet modes there — Thalia alone, left
+behind in the very udder of the flowering field, that is, in the
+earth's circle, sat down: because her bearer, that is, carrier, the
+swan, impatient of the burden and also of flying up — that is,
+since it would not bear her and fly up, that is, fly upward —
+sought the fosterling pools, that is, nutritive and dear to it.
+Thalia is interpreted as if *theton lia* — that is, "placing
+sprouts" — which fits the earth beautifully, which sprouts green
+grass and brings forth seed. Some say the nine Muses are so called
+because the offices of the human voice are nine: for all speech is
+formed by these nine things. First by the stroke of four teeth, the
+repercussion of two lips, the plectrum of the tongue, the hollow of
+the throat, the breathing of the lungs. For if any of these be
+lacking, the voice will not be perfect.
+
+[Editor's note — in plain words: The tone (9:8) won't split even —
+16:17:18 proves it — so the semitone comes in two unequal sizes,
+and below them lie the *diesis*, *comma*, and *schisma*, the
+smallest sounds ears can catch. Regino begs off the full thicket
+("he who pours on more than necessary adds darkness") and lands
+where singers live: seven different notes to the octave — Virgil's
+seven-reed pipe — and nine Muses because the heavens have nine
+orders and the voice has nine tools.]
+
+### 18. The difference between the practical and the theoretical musician
+
+But behold, while we try to show the tones, we have wandered
+farther through the vast and most profound forest of musical
+institution, which is wrapped in such obscurity of darkness as to
+seem withdrawn from human knowledge. For though there are very few
+who weigh its force and nature by certain reason, yet what they
+understand of it they cannot show clearly by work of hands. Again,
+though there are many who work it with fingers or bring it forth
+with sound of voice, yet they understand its force and nature
+least. In short, if you ask a *citharoedus* or *lyricus*, or any
+other possessed of knowledge of musical instruments, to show the
+consonances — the kinship of strings, how that string is joined to
+another by a rated proportion of numbers — he will give you no
+answer at all from these. He will confess only this: that he does
+it so, as he received and learned from his master. Since then music
+hides itself for the greatest part both from the knowing and the
+unknowing, and lies as if covered by profound darkness — hence they
+say the fable of Orpheus and Eurydice was feigned. For Orpheus
+loved the nymph Eurydice, whom, soothing with the sound of the
+cithara, he took as wife. Her Aristaeus the shepherd, loving,
+pursued; she, fleeing, fell upon a serpent and died. When her
+husband knew it, he tried to recall her from the underworld to the
+upper with the sound of the cithara, but could not. Orpheus is said
+as if *oreon phone* — that is, best voice. Eurydice is interpreted
+profound judgment. Orpheus then wishes to recall Eurydice from the
+underworld with the sound of the cithara, but does not prevail —
+because human ingenuity tries to penetrate the depth of harmonic
+subtlety and to judge and discern it by certain reasons and recall
+it to light, that is, to science; but it, fleeing human cognition,
+hides in the darkness of ignorance.
+
+Meanwhile it is to be known that he is not called *musicus* who
+works it only with hands, but he is truly *musicus* who knows
+naturally how to dispute about music and to unfold its senses by
+certain reasons. For every art and every discipline has naturally a
+more honorable reason than the craft exercised by the artificer's
+hand and work. For it is much greater to know what each does than
+to do what one learns from another. For bodily craft as it were
+serves in service; reason as mistress commands. So much more
+glorious is the science of music in cognition of reason, as the
+body is surpassed by the mind. Whence it comes that though reason
+needs not the act of working, the works of hands are nothing unless
+led by reason. Add that we may say: bodily artificers took their
+names not from musical discipline but rather from the instruments
+themselves. For *citharoedus* is named from *cithara*, *lyricus*
+from *lyra*, *tibicina* from *tibia*, and the rest are named by the
+words of their instruments. But *musicus* took his name not from
+any instrument but from music itself.
+
+He then is *Musicus* who, with reason weighed, has taken up the
+science of singing not by servitude of work but by command of
+speculation. Whoever is utterly ignorant of the force and reason of
+harmonic institution vainly usurps the name of singer, though he
+know how to sing excellently. For not he who reads the lesson but
+he who expounds the lesson is called master. And though boys chant
+the psalms' words from memory, yet they are strangers to their
+science, since they know not how to penetrate their mystic senses.
+So as it does not suffice for learned men in sight to behold
+colors and forms unless they also investigate what their property
+is, so it does not suffice to delight the mind with musical songs
+unless it is also learned by what proportion of sounds or voices
+they are joined among themselves.
+
+These few things from many we have briefly touched, lest we give
+the musical and skilled singers laughter at our unskillfulness. But
+we do not at all propose these to be read by Walcaud, nor provoke
+his mind to learn such things — for in vain is the lyre sung to
+the ass. But knowing that you are an egregious and perfect singer,
+with your excellent prudence and with other skilled singers our
+discourse and the reason of disputation are held. The words of this
+letter are spoken to you only, and to very few other musicians — if
+ever you read them; the rest we so remove that those who cannot
+grasp with intellect may seem unworthy even to read them.
+
+[Editor's note — in plain words: The man who plays but can't say
+why is no *musicus* — he's named for his instrument, like
+"cithara-man." The *musicus* is named for music itself: he knows
+the reason. Orpheus failing to lead Eurydice up from the dark is
+the picture of reason trying, and failing, to drag harmony's depth
+into the light. (And Regino, with a wink, exempts one Walcaud from
+the readership: don't play the lyre for the ass.)]
+
+### 19. The syllables Nonannoeane, and the rest
+
+Moreover, lest we seem to have passed over untouched anything
+pertaining to the undertaken business, we put at the end what
+above, if memory had not failed, ought to have been commemorated in
+its place. It is asked by some what those words signify by which we
+discern the sonority of the tones in natural music — that is,
+*Nonannoeane*, and *Noeais*, and *Noioeane*, and the like — and
+whether their sense can be interpreted. To which it must be
+answered that they receive no interpretation at all, nor do they
+signify anything: but they were found by the Greeks for this only,
+that through their diverse and dissimilar sounds the admirable
+variety of the tones might be comprehended by ear and mind
+together. But now the prolix discourse awaits its end.
+
+May supernal providence deign to keep your Excellency safe through
+many courses of years, to profit all His holy Church! Most reverend
+Father.
+
+Here ends the letter on the institution of harmony.
+
+[Here begin the eight tones of the musical art, with their
+*differentiae*, etc., etc. — the *Tonarius*, a separate work not
+translated here.]
+
+[Editor's note — in plain words: Those chant-syllables —
+*Nonannoeane* and company — mean nothing at all. The Greeks made
+them up so the ear and mind could tell the eight tones apart by
+their sheer sound. End of letter.]
+
+---
+
+## Glossary
+
+- *apotome* — the greater semitone; the "cutting-off" (*decisio*).
+- *comma* — the smallest sound the ear can catch; the tone's
+  leftover after two lesser semitones.
+- *consonantia* — consonance: dissimilar voices brought into one
+  concord.
+- *diapason* — the octave ("of all").
+- *diapente* — the fifth ("of five").
+- *diatessaron* — the fourth ("of four").
+- *diaschisma* — half a *diesis*.
+- *diesis* — the least part of the tone; a quarter-tone.
+- *differentia* — the melodic turn sung on a psalm-verse's last
+  syllable, marking the tone.
+- *discantus* — see the Aegidius volume in this row.
+- *epogdous* — the 9:8 ratio; the whole tone in numbers.
+- *limma* — Plato's name for the semitone.
+- *mese* — the middle string, joining the two octaves.
+- *musica artificialis* — music made by human art, on instruments.
+- *musica naturalis* — music that sounds with no instrument: the
+  heavens, the voice.
+- *musicus* — the knower of music's reasons — not the mere player.
+- *nothae* — "bastard" antiphons, wandering between tones.
+- *schisma* — half a comma.
+- *symphonia* — a consonance, in the Greek word.
+- *tetrachordum* — four strings in order; the unit of the scale.
+- *tonus* — the church mode; also the whole-tone interval.
+
+---
+
+**A note on primacy.** None found after research: no complete English
+translation of Regino of Prüm's *Epistola de harmonica institutione*
+was found. (The *Tonarius* travels with it in the manuscripts but is
+a separate work.) The Latin stands in Gerbert, vol. 1, pp. 230-247,
+and in the TML-corpus transcription; the English here is made fresh
+from the Latin for this series.
+
+**Rights.** Public domain source text; modern edition (c) editor,
+free redistribution.
+
+---

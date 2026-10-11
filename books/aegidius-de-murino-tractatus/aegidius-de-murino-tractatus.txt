@@ -1,0 +1,512 @@
+# The Treatise on Measured Song (Tractatus Cantus Mensurabilis)
+
+**by Master Aegidius de Murino (14th century)**
+A fresh English rendering, plain and complete
+
+---
+
+**A fresh translation, not a reprint.** Master Aegidius de Murino's
+*Tractatus cantus mensurabilis* — the working handbook that taught a
+14th-century choirmaster how to build a motet voice by voice — is here
+rendered whole into plain English: the method of composing motet
+tenors, the perfect and imperfect modes, the division of tenors, the
+ordering of rests, the five-voice motet, and the forms of the ballade
+and the rondellus, translated sentence by sentence from the Latin of
+Edmond de Coussemaker's edition, vol. 3 (Paris, 1864), pp. 124-128.
+
+Original: Latin treatise, 14th century. Basis for this rendering: the
+Latin text as printed in Coussemaker, *Scriptorum de musica medii aevi
+nova series a Gerbertina altera*, vol. 3 (Paris: A. Durand, 1864),
+pp. 124-128, read in full in the searchable transcription of the
+Thesaurus Musicarum Latinarum (Indiana University), entry AEGTRA_TEXT,
+verified live 2026-10-11 (provisional mirror, the main TML site being
+down for a university-wide outage).
+
+**How it is presented:** Aegidius's text in clear modern English, with
+the Latin term kept in parentheses where English has no single word
+for it. The treatise's notated tenor examples are described in words;
+no notation is drawn or faked. A short preface explains the
+conventions, a note describes the state of the Latin text, and a
+glossary gathers the book's terms.
+
+**Reader note:** This is a craftsman's manual, not a philosopher's
+book: how to take a chant tenor, lay it out ("ordain" it) and "color"
+it in perfect or imperfect mode, stack contratenor, triplum, and
+quadruplum above it, fit words to music, set rests that do not break
+the pattern, and close with the open and shut cadences of the ballade
+and rondellus. Nothing in it is praised or modernized — it is
+presented as Aegidius made it, for the reader to judge.
+
+The Rare & Obscure Books series — the Boneyard
+
+---
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial
+direction of Robert Tilford. It is a fresh English rendering made from
+the Latin text of the 1864 edition. It has not yet had the final checks
+required before any public use.
+
+---
+
+## Dedication
+
+**Master Aegidius de Murino** — who he was: a 14th-century master of
+music known to us by one thing only, the name set at the head of this
+treatise, *Magistri Aegidii de Murino*, "Master Giles of Murino."
+No chronicle records his birth, his town beyond the name Murino, his
+pupils, or his grave.
+
+The circumstances of his death are therefore unknown, and are not
+pretended here; his book is his only monument. The treatise's own
+closing line — *Explicit tractatus cantus mensurabilis secundum
+magistrum Egidium de Murino* ("Here ends the treatise on measured
+song according to Master Giles of Murino") — is the whole of his
+epitaph.
+
+Why his work is vital — proved, not praised: the treatise itself is
+the proof. Where other writers of his century dispute the philosophy
+of notation, Aegidius writes the workshop manual: take a tenor from
+the antiphoner, "ordain and color" it, build a three-, four-, or
+five-voice motet over it, divide and diminish it, sign its repeats,
+set its rests, fit its words — and then the ballade and the
+rondellus with their open (*apertum*) and closed (*clausum*)
+endings. It is one of the few surviving practical composition manuals
+of the ars nova generation, and it closes, as a master closes a
+lesson, with the proverb *sapienti et intelligenti pauca sufficiunt*
+— "for the wise and understanding, few words suffice" — adding that
+what stands written above was written *ad doctrinam parvulorum*,
+"for the instruction of little ones."
+
+Its relation to this rescue: the Boneyard's mensural-notation row
+began with Franco of Cologne's *Ars cantus mensurabilis*, which taught
+every note to carry its own counted length. Aegidius is the ideal
+small follow-on in that row — the foreman's handbook that puts
+Franco's counted notes to work in real motets, voice by voice. The
+series rescues the working knowledge of dead masters; this is working
+knowledge in its purest form.
+
+Where a reader goes next: Edmond de Coussemaker, *Scriptorum de
+musica medii aevi nova series a Gerbertina altera*, vol. 3 (Paris:
+A. Durand, 1864), pp. 124-128 — the printed home of the Latin text;
+and the Thesaurus Musicarum Latinarum, entry AEGTRA, for the
+searchable transcription.
+
+---
+
+## How to read this book
+
+Aegidius assumes you sing in a choir and know the chant book (the
+*antiphonarium*). His technical words are kept in Latin in
+parentheses at first use:
+
+- *tenor* — the given chant melody that "holds" (*tenere*) the piece;
+  the foundation voice.
+- *contratenor* — the voice set "against the tenor."
+- *triplum* — the third voice above; *quadruplum* — the fifth voice
+  of all (tenor, contratenor, motetus, triplum, quadruplum).
+- *motetus* — the composed upper voice carrying the text (what we
+  would call the motet voice proper).
+- *modus perfectus / imperfectus* — perfect mode (three, or six,
+  *tempora* to the note) and imperfect mode (two, or four).
+- *colorare* — "to color": to lay the tenor out in a repeating
+  rhythmic pattern; a *color* is the repeating pattern itself, and
+  the *talea* its rhythmic shape. "Do not break the color" means do
+  not spoil the repeating pattern.
+- *ordinare* — "to ordain/order": to arrange the tenor's notes in
+  their measured lengths.
+- *pausa* — a rest. *Punctus divisionis* — the dot of division.
+- *discantus* — discant: note-against-note counterpoint sung above
+  or below a given voice.
+
+Bracketed notes in the form [Editor's note] are the editor's, not
+Aegidius's. Notated examples in the Latin are described in plain
+words in brackets, e.g. [a notated example follows]; no notation is
+reproduced or reconstructed.
+
+## Note on the Latin text
+
+The text is short — five pages in Coussemaker — and reads as one
+continuous lesson with no chapter breaks; paragraphing here is the
+editor's. A few spellings are the edition's (*zeze vel cese per
+semi* for the customary *diminutio per semi*; *Vironellus* for the
+virelai-type form). Transmission scars are left visible and flagged
+where they matter.
+
+---
+
+## The Treatise on Measured Song, according to Master Giles of Murino
+
+### On the way of composing the tenors of motets
+
+First take the tenor of some antiphon or responsory or other chant
+from the antiphoner; and the words ought to agree in subject matter
+with that of which you make the motet. Then take up the tenor, and
+you shall ordain and color it as will appear below, in the perfect
+or the imperfect mode. The perfect mode is when three *tempora*,
+or six, are counted to the note. The imperfect mode is when two
+*tempora*, or four, are counted to the note — and [this] when the
+tenor is well ordained.
+
+Then, if you wish to make a motet with four [voices], then you shall
+also ordain and color the contratenor above the tenor; and when you
+wish to divide the contratenor, then take the tenor — and the
+contratenor, if you compose with four [voices] — and, they being
+ordained, [set] the triplum above, well, so that it agrees with the
+tenor and the contratenor. And if you wish to make the upper voice
+itself agree, then divide the tenor into two parts, or four, or as
+many parts as pleases you; and when you have made one part over the
+tenor, then that part must be figured just like the first part, and
+like the other part; and this is called "coloring motets."
+
+Item, you can add another subtlety there, and this is: if you wish,
+you can make it in the perfect mode — that is, compare over the
+*tempora* together, and after three *tempora* there must remain the
+dot of division. This done, proceed to the motet, that is, to the
+fifth [voice]; and you shall make it agree, and color it, with the
+triplum and the tenor and with the contratenor, if it is with four
+[voices] — and do so to the end.
+
+After the song is made and ordained, then take the words that must
+be in the motet and divide them into four parts; and so divide the
+song into four parts; and fit the first part of the words over the
+first part of the song, as best can be, and so proceed to the end;
+and sometimes it is necessary to stretch many notes over few words,
+over few *tempora*, until they arrive at the completion.
+
+[Editor's note — in plain words: Start with a chant tune whose words
+suit your text. Lay it out in measured note-lengths in threes (or
+sixes) for perfect mode, twos (or fours) for imperfect. Build the
+contratenor above it, then the triplum, then — if you want five
+voices — the motet voice itself, keeping every voice in the same
+repeating rhythmic pattern ("color"). Then cut your poem into four
+and lay it over the music's four sections, stretching syllables
+where you must.]
+
+### How you shall ordain and color the tenors
+
+Now it must be shown how you shall ordain and color the tenors; and
+you shall ordain and color the contratenors just like the tenors —
+yet the contratenor can be colored otherwise than the tenor, if you
+wish. And first of the perfect mode, as will consequently appear.
+And if the tenor is said more than once, the contratenor must be
+signed. But if it is said twice — since the first time it is not
+necessary to sign — when it is said twice, then put this sign: 2;
+but if it is said three times, put this sign: 3; but if four times,
+put this sign: 4. And according to the old masters it is figured
+thus: II, III, IIII, 2, 3, 4.
+
+[Editor's note — in plain words: Mark repeats. The old masters wrote
+II, III, IIII; you may write 2, 3, 4.]
+
+### Tenor examples in the perfect mode
+
+This tenor is of the perfect mode, and each note is worth six
+*tempora*, and it is colored, because all are alike, and it is
+called an ordained tenor, because there is no mixture in it except
+rests. [A notated example follows: an F-clef tenor made of two-note
+ligatures, all of equal value.]
+
+This tenor is of the perfect mode, and the full [notes] are fully
+worth six *tempora*, and the void [notes] are worth four *tempora*,
+and these three void are worth two full. And this tenor is called
+mixed; yet it is colored; yet more void notes can be put in the
+tenor if you wish — yet always guard the color. And so of the other
+mixtures that are put. Understand: of longs and breves and rests.
+[A notated example follows, mixing full and void notes.]
+
+This tenor is of the perfect mode, and the greater [notes] are worth
+six *tempora*, and each lesser is worth one tempus; and these six
+must be dotted before and behind, because they can be counted with
+the note going before or following. And these six lessers make up
+one greater, and it is a mixed tenor; yet it is colored. [A notated
+example follows, with dotted small notes between great ones.]
+
+This tenor is of the perfect mode, and the greater are worth six
+*tempora* and the lesser three. [A notated example follows.]
+
+This tenor is of the perfect mode, and the greater are worth six
+*tempora*, and after the greater there must be the dot of division.
+And the first lesser that follows is worth one tempus, the second
+two, the third three *tempora*. And it is a mixed tenor, yet
+colored. [A notated example follows.]
+
+This tenor is of the perfect mode, and the greater are worth six
+*tempora* and the lesser three *tempora*; and they must be dotted
+before and behind, because they can be counted with the great ones;
+and this tenor is mixed, yet colored. [A notated example follows.]
+
+This tenor is of the perfect mode, and the greater are worth six
+*tempora* and each lesser one tempus; and it is a mixed tenor, yet
+colored. [A notated example follows.]
+
+This tenor is of the perfect mode; and each full [note] is worth
+three *tempora*, and the void are worth two *tempora*; and the
+color is mixed, yet colored. [A notated example follows on a
+five-line staff with a high F clef.]
+
+This tenor is of the perfect mode, and the first is worth one
+tempus, the second two, the third three. [A notated example
+follows.]
+
+[Editor's note — in plain words: Nine worked examples of the same
+idea: a tenor is "ordained" when every note has its counted length,
+"colored" when the lengths fall into a repeating pattern, "mixed"
+when full and void notes, great and small, are combined — dotted
+small notes may be counted either way, but the pattern must never
+break.]
+
+### How such tenors may be divided
+
+And such tenors can be divided in four parts in diverse ways. The
+first time it is said as it stands; the second time it is divided,
+or diminished, by half from the first — and then the first note is
+worth one semibreve, the second two, the third three, and so to the
+end.
+
+Item, the third time it can be said in imperfect time — and then the
+first note is worth one [tempus], the third two *tempora*, and so to
+the end.
+
+Item, the fourth time, this imperfect time is diminished by half,
+that is, by the middle; then the first note is worth one semibreve,
+the second one, the third two, and so to the end.
+
+Item, this tenor can be divided in four parts otherwise, namely:
+the first time, in the perfect mode; then the first is worth one
+tempus, the second two, the third three, and so to the end.
+
+Item, if the second time it can be said in imperfect time, then the
+first is worth one tempus, the second one, the third two *tempora*.
+
+Item, if the third time it is diminished by half from the first
+utterance, then the first note is worth one semibreve, the second
+two, the third three semibreves.
+
+Item, if the fourth time, then it is diminished by half from the
+second utterance; and then the first note is worth one semibreve,
+the second one, the third two semibreves, and so to the end. And
+rests can be put after the perfections, but always guard the color;
+and it must be written under the tenor, thus: first it is said in
+the perfect mode; second in imperfect time; third diminished by
+half from the first; and fourth diminished by half from the second
+utterance. [In the Latin: *primo dicitur de modo perfecto; secundo
+de tempore imperfecto; tertio zeze vel cese per semi de primo; et
+quarto zeze sive cese per semi de secunda vice* — the *zeze/cese*
+being the edition's spelling for the customary "diminished by half."]
+
+### Tenors of the imperfect mode
+
+When this tenor is of the imperfect mode, then each [note] is worth
+four *tempora*; and when it is of the perfect mode, then each is
+worth six *tempora*, as said above of the tenors of the perfect
+mode; and it is an ordained and colored tenor. [A notated example
+follows.]
+
+When you wish this tenor to be of the imperfect mode, then each is
+worth two *tempora*; and when you wish it to be of the perfect
+mode, then each is worth three *tempora*, as set above in the
+tenors of the perfect mode; and it is an ordained and colored
+tenor. [A notated example follows.]
+
+When this tenor is of the imperfect mode, then the greater are
+worth four *tempora* and the lesser two; and when it is of the
+perfect mode, then the greater are worth six *tempora* and the
+lesser three, as appears above. [A notated example follows.]
+
+When this tenor is of the imperfect mode, then the greater are
+worth four *tempora*, and each lesser one tempus. But in the
+perfect mode the lessers are dotted, as appeared above; and it is
+not necessary to dot them in the imperfect mode. [A notated example
+follows.]
+
+This tenor is of the imperfect mode, and the greater are each worth
+four *tempora* and each lesser two *tempora*. [A notated example
+follows.]
+
+This tenor is of the perfect mode, and the first note is worth one
+and the fourth three *tempora*, and the rests are counted by
+themselves; and it can be said twice, if you wish, as it stands, or
+a division can be made the second time by half from the first; and
+then the notes are worth three semibreves, and each rest is worth
+one semibreve. [A notated example follows.]
+
+This tenor is of the imperfect mode, and the first two notes are
+worth one tempus each, and the third is worth two *tempora*; and it
+can be divided by half, if said twice — then the first two are
+worth one semibreve each, the third two semibreves, and the rest
+the first time is worth two *tempora*, the second time worth only
+one tempus. [A notated example follows.]
+
+[Editor's note — in plain words: The same game in the imperfect
+mode: every note worth four (or two) instead of six (or three).
+Small notes need no dots in the imperfect mode. A tenor sung twice
+can be halved the second time — and the rests halve with it.]
+
+### The master rests his case
+
+Know that by the tenors said above, many other modes can be found,
+and other tenors deduced, by the way of subtlety; and therefore it
+is not necessary to compose contratenors. Of the many that can be
+found, when a subtle singer exists, he can make many other tenors
+of them; and therefore for the wise and understanding few things
+suffice — but what is written above was written for the instruction
+of little ones.
+
+[Editor's note — in plain words: A good singer can spin new tenors
+from these patterns himself; the master stops here, saying the rest
+is exercise.]
+
+### On rests, how you shall ordain them in tenors
+
+Hence it must be said of rests (*pausae*), how you shall ordain
+them in tenors. And first, of the perfect mode: the rests must be
+counted by themselves. Then put in the tenors three, or six, or
+nine rests of one tempus, and they must be dotted on either side,
+as here. [A notated example of dotted rests follows.] And they must
+not be put except after perfections.
+
+Item, if you wish to compose or ordain rests with the perfections:
+if the rest must go with the first, that is, with what is before
+it, then it must be dotted behind, as here. [A notated example
+follows.]
+
+Item, if it must go with the perfection that is behind it, then it
+must be dotted before, as here. [A notated example follows.]
+
+Item, you can also put such rests in the perfect mode, and in no
+other, because it signifies the mode of perfection, as here. [A
+notated example follows.] Sometimes two can be put together, as
+here — and they must not be put except after perfections; but
+beware lest you break the color.
+
+Item, if you wish to put rests in the imperfect mode, it is not
+necessary to dot them, but they stand by themselves, as here — or
+thus. [Two notated examples follow.] If they stand by themselves,
+they are counted with the perfections [and] must not be dotted.
+
+Item, if you wish to put rests of two *tempora*, then put them as
+here — for as many spaces as they touch, so many *tempora* they
+are worth. [A notated example follows.]
+
+Item, if you wish to put rests for three *tempora* together, then
+you must put one of two and another of one tempus, as here. [A
+notated example follows.]
+
+[Editor's note — in plain words: In perfect mode, rests are dotted
+on both sides and sit only after a completed perfection; a rest
+leaning forward is dotted behind, leaning back dotted before. In
+imperfect mode no dots are needed. A rest's length is read off the
+staff-spaces it covers: two spaces, two tempora — and a three-tempus
+rest is written as a two plus a one.]
+
+### If you want more
+
+If you desire to have greater subtleties than are contained in this
+little book, then study hard at music, and perhaps God will grant
+you, by his grace, greater understanding and subtlety.
+
+### Another way of composing motets
+
+But there is another way of composing motets than said above,
+namely: that the tenor goes above the motet. And you shall ordain
+thus:
+
+Take the tenor from the antiphoner, as said above, which you shall
+color and ordain; and it stands in low gamma; and you can put it in
+high gamma. And when it is well ordained, then make discant under
+the tenor, as best you know and can. And if you wish to make it
+with four [voices], then there must be a contratenor there. But the
+contratenor must come first and agree with the tenor, otherwise it
+cannot be colored. Item, if you wish to make a motet with five
+[voices], it can be made in this way: make the tenor first, as said,
+and make [it] discanted under the tenor, and agreeing; in this way
+make the triplum discant above the motet, as best you know. Still
+you can make another discant which sounds around the triplum,
+brightening the triplum itself. And this fifth song is called
+quadruplum; and so the motet will be totally full. And I believe
+no more songs can be made together.
+
+[Editor's note — in plain words: The upside-down motet: put the
+tenor on top (low or high), sing discant beneath it, add
+contratenor, then triplum above the motet voice, then a fifth voice
+— the quadruplum — haloing the triplum. Five voices, says the
+master, is the most that can sing together.]
+
+### On keeping the mode through the piece
+
+Item, if [you have] motet, triplum, quadruplum, you can always make
+them well in the perfect mode, though the song were of the
+imperfect mode. Sometimes the song is of the perfect mode and of
+perfect time, and then the dot of division must always be put after
+three, and the first perfection must endure to the end.
+
+### The ballade and the rondellus
+
+In this way the simple ballade must be made: first make *apertum*
+[open] and *clausum* [closed], and at the end make *clausum* only.
+
+Item, the double ballade has *apertum* and *clausum* before and
+behind.
+
+Item, the simple vironellus has *apertum* before and *clausum*
+behind.
+
+Item, the double vironellus has half *apertum* and *clausum*
+before, and *apertum* and *clausum* behind.
+
+Item, the rondellus has *apertum* before: when it is finished on
+*ut*, it must be a tenth; and when it is finished on *la*, it must
+be a fifth — and *clausum* behind. Thanks be to God.
+
+[Editor's note — in plain words: The dance-song forms in brief: a
+simple ballade opens, closes, and ends closed; a double ballade
+opens and closes at both ends; the vironellus (virelai) likewise in
+single and double shapes; the rondellus (rondeau) opens with a
+leap — a tenth if it ends on ut (C), a fifth if on la (A) — and
+closes behind.]
+
+Here ends the treatise on measured song according to Master Giles
+of Murino.
+
+---
+
+## Glossary
+
+- *apertum / clausum* — "open" / "closed": the two cadence-endings
+  of a repeated song-form; open leaves the melody hanging, closed
+  brings it home.
+- *color, colorare* — the repeating rhythmic/melodic pattern laid
+  over a tenor; "to color" is to lay it out.
+- *contratenor* — the voice composed "against the tenor."
+- *discantus* — note-against-note counterpoint.
+- *gamma* — the lowest note of the medieval scale (our G below the
+  staff); "low gamma" and "high gamma" are low and high placements
+  of the tenor.
+- *modus perfectus / imperfectus* — perfect mode (triple division)
+  and imperfect mode (duple division).
+- *motetus* — the texted upper voice of a motet.
+- *ordinare* — to arrange a tenor's notes in measured lengths.
+- *pausa* — a rest; its length is read from the staff-spaces it
+  covers.
+- *punctus divisionis* — the dot of division, marking perfection
+  boundaries.
+- *quadruplum* — the fifth voice of a great motet.
+- *talea* — the repeating rhythmic shape (paired with *color*).
+- *tempora* — the counted time-units of a note.
+- *tenor* — the chant melody that "holds" the composition.
+- *triplum* — the third voice, above the motet voice.
+- *vacua / plena* — "void" (outline) and "full" (filled-in) notes.
+
+---
+
+**A note on primacy.** None found after research: no complete English
+translation of Aegidius de Murino's *Tractatus cantus mensurabilis*
+was found. The Latin stands in Coussemaker, vol. 3, pp. 124-128, and
+in the TML transcription; the English here is made fresh from the
+Latin for this series.
+
+**Rights.** Public domain source text; modern edition (c) editor,
+free redistribution.
+
+---

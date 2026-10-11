@@ -1,0 +1,824 @@
+# The Little Book of Measured Song (Libellus Cantus Mensurabilis)
+
+**according to Johannes de Muris (c. 1340)**
+A fresh English rendering, plain and complete
+
+---
+
+**A fresh translation, not a reprint.** The *Libellus cantus
+mensurabilis* ascribed to Johannes de Muris — the compact
+schoolbook of the ars nova that taught generations of singers how
+measured music works — is here rendered whole into plain English for
+the first time in this series' research: all ten treatises, from
+the five parts of prolation through imperfection, alteration, the
+dot, the signs of time, the six rhythmic modes, ligatures,
+syncopation, rests, the diminution of motets, and color, translated
+sentence by sentence from the Latin of Edmond de Coussemaker's
+edition, vol. 3 (Paris, 1864), pp. 46-58.
+
+Original: Latin treatise, c. 1340 (attributed to Johannes de
+Muris). Basis for this rendering: the Latin text as printed in
+Coussemaker, *Scriptorum de musica medii aevi nova series a
+Gerbertina altera*, vol. 3 (Paris: A. Durand, 1864), pp. 46-58,
+read in full in the searchable transcription of the Thesaurus
+Musicarum Latinarum (Indiana University), entry MURLIB_TEXT,
+verified live 2026-10-11 (provisional mirror, the main TML site
+being down for a university-wide outage).
+
+**How it is presented:** The *Libellus* in clear modern English,
+with the Latin term kept in parentheses where English has no single
+word for it. At the end of each treatise a bracketed [Editor's
+note -- in plain words] recap restates the teaching in today's
+speech; these recaps are the editor's, not the author's. The
+treatise's many notated examples are described in words; no
+notation is drawn or faked. A short preface explains the
+conventions, a note describes the state of the Latin text, and a
+glossary gathers the book's terms.
+
+**Reader note:** This is the medieval classroom's own textbook of
+rhythm: five note-values from maxima to minima; the triple/double
+machinery of mode, time, and prolation; the rules by which a
+"perfect" note loses a third of itself (imperfection) or doubles
+itself (alteration); the dot that perfects or divides; the circle
+and semicircle that tell the singer what world he is in; the six
+old rhythmic modes; the ligature-shapes and how to read them; the
+syncopations; the rests; how a motet tenor shrinks in diminution;
+and the *color* — the repeating pattern that holds a great motet
+together. Nothing in it is praised or modernized — it is presented
+as the *Libellus* made it, for the reader to judge.
+
+The Rare & Obscure Books series — the Boneyard
+
+---
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial
+direction of Robert Tilford. It is a fresh English rendering made from
+the Latin text of the 1864 edition. It has not yet had the final checks
+required before any public use.
+
+---
+
+## Dedication
+
+**Johannes de Muris (Jean des Murs)** — who he was: a French
+scholar of the 1300s, mathematician, astronomer, and music
+theorist, working in the Paris of the ars nova. The verifiable
+record (Grove Music Online, via Wikipedia's "Johannes de Muris")
+gives five music treatises with their working dates: *Notitia
+artis musicae* (1319-21), *Compendium musicae practicae* (c. 1322),
+*Musica speculativa secundum Boetium* (1323), the *Libellus cantus
+mensurabilis* (c. 1340), and *Ars contrapuncti* (after 1340); his
+latest datable association is 1345, with the Avignon reforms. His
+mathematical and astronomical writings — above all the
+*Quadripartitum numerorum* of 1343 — were well regarded, but the
+same record says his musical writings "were more widely
+circulated": many surviving manuscripts, much of them
+fifteenth-century and of Italian origin, "suggesting his wide
+influence both geographical and temporal."
+
+The circumstances of his death are not given in the record, and
+are not pretended here.
+
+Why his work is vital — proved, not praised: the manuscript
+record is the proof. Of all medieval music textbooks, few were
+copied so widely or used so long: the *Libellus* became the
+standard short account of the new measured notation — the five
+note-values, the perfect/imperfect machinery, imperfection and
+alteration — quoted, borrowed, and argued with by theorists for a
+century after. The anonymous *Ars cantus mensurabilis mensurata per
+modos iuris* (edited 1994) takes the *Libellus*'s mensural theory,
+in the editor's words, as lying "at the heart" of its work. A book
+that teaches, clearly and in order, how every note of a motet knows
+its length is a book that made the music of its age possible.
+
+Its relation to this rescue: the Boneyard's mensural-notation row
+runs Franco of Cologne (the invention of counted note-values),
+Aegidius de Murino (the workshop manual for building motets), and
+now the *Libellus* — the classroom text that carried the ars nova's
+rhythmic system across Europe in copy after copy. Where Franco
+announces and Aegidius builds, the *Libellus* teaches. The series
+rescues the working knowledge of dead masters; this is the lesson
+book by which the masters' apprentices learned the work.
+
+Where a reader goes next: Edmond de Coussemaker, *Scriptorum de
+musica medii aevi nova series a Gerbertina altera*, vol. 3 (Paris:
+A. Durand, 1864), pp. 46-58 — the printed home of the Latin text;
+the Thesaurus Musicarum Latinarum, entry MURLIB, for the
+searchable transcription (with further manuscript copies entered
+as MURLIBF, MURLIBM, MURLIBR, MURLIBV); and Grove Music Online,
+"Muris, Johannes de" (Gushee/Balensuela/Dean), for the life and
+the list of works.
+
+---
+
+## How to read this book
+
+The *Libellus* is a schoolbook: ten short treatises, each in
+chapters. Its words are few and exact; the English keeps the Latin
+term in parentheses at first use:
+
+- *maxima, longa, brevis, semibrevis, minima* — the five
+  note-values, greatest to least.
+- *modus, tempus, prolatio* — the three levels of division: modus
+  divides the longa, tempus the brevis, prolatio the semibrevis.
+- *perfectus / imperfectus* — "perfect" (triple) and "imperfect"
+  (duple) at each level.
+- *imperfectio* — imperfection: a perfect note losing a third of
+  its value to a neighboring smaller (or greater) note.
+- *alteratio* — alteration: a note doubling its value to complete
+  a perfection.
+- *punctus perfectionis / divisionis* — the dot of perfection
+  (which perfects) and the dot of division (which divides and
+  imperfects).
+- *ligatura* — ligature: two or more notes written joined; read by
+  shape (*proprietas*).
+- *sincopa* — syncopation: a note's value split across separated
+  notes, reunited by counting.
+- *pausa* — a rest.
+- *color / talea* — the repeating pitch-pattern and rhythmic-pattern
+  of a motet tenor.
+- *diminutio* — diminution: the halving (or thirding) of a tenor's
+  values on repeat.
+
+Bracketed notes in the form [Editor's note] are the editor's, not
+the author's. Notated examples in the Latin appear in the
+transcription as bracketed tokens (e.g. `[MX,L,B,S,M on staff4]`);
+each is rendered here as a plain-words description in brackets —
+e.g. [a notated example: the five note-values in order] — and no
+notation is reproduced or reconstructed.
+
+## Note on the Latin text
+
+The text opens with the compiler's address to the student
+(*Quilibet ... affectans* — "whoever desires...") and the note
+that what follows is "summarily compiled according to Master John
+of Muris" — the attribution is the manuscripts', and modern
+scholarship keeps it as an attribution. Chapter-numbering follows
+Coussemaker. Two transmission scars are left visible: in the sixth
+treatise the rule "if the first note has no dot it is said *sine
+perfectione*" (as printed — likely for *sine proprietate*) is
+translated as it stands, flagged in a note; and the tenth
+treatise's chapter is headed *Capitulum decimum* ("tenth chapter")
+where "first" is meant, translated as written and flagged.
+
+---
+
+## The Little Book of Measured Song, according to John of Muris
+
+Whoever desires to be but moderately learned in the practical art
+of measured song, let him diligently write out what follows,
+summarily compiled according to Master John of Muris.
+
+### First treatise
+
+#### Chapter 1. On the five parts of prolation
+
+There are five parts of prolation, namely: maxima, longa, brevis,
+semibrevis, and minima, as appears here. [A notated example: the
+five note-values in order, maxima to minima.]
+
+A perfect maxima is worth three longae, whether in perfect or in
+imperfect mode — if the longa be [perfect or imperfect]. In
+perfect mode a perfect maxima is worth nine *tempora*, in
+imperfect six, as here. [A notated example.]
+
+An imperfect maxima is worth two longae, whether in perfect or in
+imperfect mode. In perfect mode it is worth 6 *tempora*, in
+imperfect mode four, as here. [A notated example.]
+
+From these it is inferred that a maxima can be perfect while the
+longae are imperfect, and conversely; a maxima can be imperfect
+while the longae are perfect.
+
+A longa in perfect mode is worth three breves, in imperfect mode
+two, as here. [A notated example: longa, then three breves, longa,
+then two breves.]
+
+A brevis in perfect time is worth three semibreves, in imperfect
+two, as here. [A notated example.]
+
+A semibrevis in major prolation is worth three minimae, in minor
+two, as the example shows. [A notated example.]
+
+#### Chapter 2. On the twofold modus
+
+Note that modus is twofold: perfect and imperfect. Perfect when
+the longa is worth three breves; imperfect when worth two.
+
+#### Chapter 3. On the twofold tempus
+
+Note that tempus is twofold: perfect and imperfect. Perfect when
+the brevis is worth three semibreves; imperfect when worth two.
+
+#### Chapter 4. On the twofold prolatio
+
+Note that prolatio is twofold: perfect — called major — and
+imperfect — called minor. Perfect or major prolatio is when the
+semibrevis is worth three minimae. Imperfect or minor prolatio is
+when the semibrevis is worth two minimae. The examples are clear
+from what was said above.
+
+#### Chapter 5. On the imperfection of a note
+
+Moreover note that every perfect note can be imperfected by the
+abstraction of a third part of its value, and an imperfect [note]
+perfected by the addition of half its value. For perfection
+consists in the ternary number, imperfection in the binary.
+
+#### Chapter 6. On the imperfection of the maxima
+
+A perfect maxima, in whole and in parts, can be imperfected
+doubly: as to the whole, and as to the parts. As to the whole,
+doubly: from before and from behind. From before, when a single
+longa precedes it. From behind, when a single longa follows it, or
+four, or seven, or ten longae, or their value. Then the first longa
+— or its value — imperfects the preceding maxima, unless hindered
+by a dot, as here. [A notated example.]
+
+As to the parts, also doubly: as to the near parts and as to the
+remote parts. The near part of any whole is that into which the
+whole is immediately divided — thus the near parts of maximae are
+longae, of longae breves, of breves semibreves, etc. The remote
+parts are the parts of the near parts; the more remote are the
+parts of the parts of the near parts.
+
+A maxima, then, as to the near parts can be imperfected doubly —
+from before and from behind — by abstraction of a third part of
+the value of each near part, or of one of them.
+
+And likewise as to the remote parts, by abstraction of a third
+part of the value of each remote part, or of one of them, etc. And
+in its mode the same can be understood of longae, breves, and
+semibreves; the examples will appear below.
+
+And for what was said above and will be written below, note these
+rules:
+
+The first rule is that a longa before a longa in perfect mode is
+always perfect; and a brevis before a brevis in perfect time is
+always perfect.
+
+[Editor's note: like before like stays perfect.]
+
+And a semibrevis before a semibrevis in major prolation is also
+always perfect, as here. [A notated example.]
+
+The second rule is that whenever any note must be imperfected, a
+greater or lesser note must immediately follow it, in form or in a
+rest of greater or lesser form — for like before like cannot be
+imperfected, as here. [A notated example.]
+
+The third rule is that when after a longa of perfect mode there
+follow two breves, or three — yet with no single preceding breve
+by which it can be imperfected — it is perfect, unless a dot of
+division is put between the first breve and the next, or the
+following ones. For then the first breve imperfects the preceding
+longa. And the same is to be understood of breves of perfect time
+with respect to semibreves, and of semibreves of major prolation
+with respect to minimae, as here. [A notated example.]
+
+The fourth rule is that when between two longae there remains a
+single breve, perfection counted, then it imperfects the first
+longa — the preceding one — unless hindered by a dot or otherwise.
+And the same of a semibrevis between breves and of a minima
+between semibreves, as here. [A notated example.]
+
+The fifth rule is: when a single note must be reduced to the prior
+place it can have, as is clear here. [A notated example.]
+
+The sixth rule is that every note that is imperfected is
+imperfected by the nearer. The examples are clear in the examples
+of the preceding rules.
+
+The seventh rule is that when two single notes are found together,
+they must not be parted, but counted together, as here. [A notated
+example.]
+
+Further note that when any note is imperfected by a near part or
+its value, this is with respect to the whole (*quoad totum*); if
+by a remote part, or remote parts not amounting to one near part,
+this is with respect to a part, or parts.
+
+Item, note that whatever is imperfected — as to the near parts —
+is imperfected by a third part; whence it follows that whatever is
+divisible into three unequal parts can be imperfected by that third
+part; and as often as it can be divided into three equal parts, so
+often can it be imperfected by that third part. And the
+imperfecting [note] can be put before or after the imperfected one
+at the placer's pleasure — yet with this rule kept: that no note
+can be imperfected before its like, but well before a lesser or a
+greater, as said above.
+
+It follows also from the premises that a semibrevis of major
+prolation can be imperfected by one preceding or following minima,
+as here. [A notated example.]
+
+An imperfect brevis of major prolation cannot be imperfected in
+any way, for it is not divisible into three equal parts.
+
+An imperfect brevis of major prolation can be imperfected by one
+minima preceding or following, as to one part — and by two minimae
+as to both parts, as here. [A notated example.]
+
+A perfect brevis of minor prolation can be imperfected by one
+semibrevis or by two minimae — and this as to the whole, as here.
+[A notated example.]
+
+And note that some singers — namely Guilielmus de Mascandio and
+several others — imperfect the perfect brevis of minor prolation by
+a single minima, and the imperfect brevis of major prolation by two
+minimae together following or preceding, as here. [A notated
+example.] And there they say quality is changed (*mutatio
+qualitatis*): for there they take the perfect brevis of minor
+prolation as if it were the imperfect brevis of major prolation,
+and conversely the imperfect brevis of major prolation as if it
+were the perfect brevis of minor prolation.
+
+A perfect brevis of major prolation can be imperfected by a single
+minima preceding or following — and this as to one of its parts —
+and by two minimae, one preceding and the other following, as to
+two parts, as here. [A notated example.]
+
+Or both following or both preceding, as here. [A notated example.]
+
+Or by three minimae, or their values, as to the whole, as here. [A
+notated example.]
+
+And by four minimae, or their value, as to the whole and as to one
+part, as here. [A notated example.]
+
+And by five minimae, or their value, as to the whole and both
+remaining parts, as here. [A notated example.]
+
+And it cannot be more imperfected, for there remains to it only
+the value of the imperfect brevis of minor prolation — which
+brevis cannot be imperfected, as said.
+
+And whatever is said of imperfection — of minimae with respect to
+breves — let it be understood of semibreves with respect to longae,
+and of breves with respect to maximae; and also whatever is said of
+minimae with respect to semibreves, let it be understood of
+semibreves with respect to breves, and of breves with respect to
+longae, and of longae with respect to maximae.
+
+Hence, as there is an imperfect brevis worth two semibreves worth
+four minimae, so there is an imperfect longa worth two breves
+worth four semibreves, and an imperfect maxima worth two imperfect
+longae worth four breves.
+
+As there is an imperfect brevis worth two semibreves worth six
+minimae, so there is an imperfect longa worth two breves worth six
+semibreves, and an imperfect maxima worth two longae worth six
+breves.
+
+And as there is a perfect brevis worth three semibreves worth six
+minimae, so there is a perfect longa worth three breves worth six
+semibreves, and a perfect maxima worth three longae worth six
+breves.
+
+And as there is a perfect brevis worth three semibreves worth nine
+minimae, so there is a perfect longa worth three breves worth nine
+semibreves, and a perfect maxima worth three longae worth nine
+breves.
+
+From the above said it is sufficiently had how maximae and longae
+can be imperfected. Then let the examples that follow be seen.
+
+And so of imperfect longae in mode and time, and of major
+prolation, as here. [A notated example.]
+
+Item, of longae imperfect in mode but perfect in time, as here. [A
+notated example.]
+
+Item, of longae perfect in mode but imperfect in time, as here. [A
+notated example.]
+
+Item, of longae perfect in mode and time, as here. [A notated
+example.]
+
+There follow examples of how a maxima can be imperfected. And
+first of imperfect maximae whose longae are perfect, as here. [A
+notated example.]
+
+Item, of perfect maximae whose longae are imperfect, as here. [A
+notated example.]
+
+Item, of perfect maximae whose longae are also imperfect, as here.
+[A notated example.]
+
+And let the aforesaid on the imperfection of notes suffice.
+
+[Editor's note -- in plain words: The heart of the book. A
+"perfect" note is worth three of the next kind down; a neighbor
+note can steal a third of it — that's imperfection — but never a
+note's own twin (like before like stays perfect), and always the
+nearest thief does the stealing. The *Libellus* works every
+combination: maximae, longae, breves, semibreves, in every mix of
+perfect and imperfect — and notes the singers (Guilielmus de
+Mascandio's lot) who bend the rules by "change of quality."]
+
+### Second treatise
+
+#### Chapter 1. On alteration in music
+
+Alteration in music is the doubling of a note's proper value
+according to the note's form, of which such rules are given:
+
+The first rule is that no note can be altered before its like, nor
+before a greater than itself.
+
+The second rule is that every note can be altered before the next
+greater than itself: as a minima before a semibrevis, or before a
+semibrevis rest; a brevis before a longa or before a longa rest; a
+longa before a maxima — and not otherwise.
+
+The third rule is that whenever between two longae of perfect mode
+— or rests of longae — or between a dot and a longa, two breves are
+found with no dot between, the second is altered, that is, worth
+two breves. Likewise, when two semibreves are found between two
+breves of perfect time, or between a dot and a brevis, or between
+rests of breves, the second is altered, that is, worth two
+semibreves. The same of two minimae between two semibreves of
+major prolation: for whenever two remain with no dot between, the
+second is altered.
+
+And note that an altered note can be imperfected from before. An
+example of all, as here. [A notated example.]
+
+#### Chapter 2. On the twofold minima
+
+Note that the minima is twofold — [and so] semibrevis, brevis, and
+longa: namely *recta* and *altera*. *Recta* when it is put simply
+for its value; *altera* when for double.
+
+#### Chapter 3. On the cause of a note's alteration
+
+Item, note that when any note is altered, this is for perfection's
+sake — namely that the perfection be completed. Hence the brevis
+is altered to perfect the modus, the semibrevis to perfect the
+tempus, and the minima to perfect the prolatio. Let these on
+alteration suffice.
+
+[Editor's note -- in plain words: Alteration is the opposite of
+imperfection: instead of losing a third, a note doubles — the
+second of two dotless breves between longae counts as two. It
+happens only to fill out a perfection, and only before the next
+bigger value up.]
+
+### Third treatise
+
+#### Chapter 1. On the dot
+
+The dot (*punctus*) is twofold: of perfection and of division. The
+dot of perfection perfects the longa in either mode, the brevis in
+either time, the semibrevis in either prolation. The dot of
+division imperfects the longa by dividing breves, and imperfects
+the brevis by dividing semibreves, and imperfects the semibrevis
+by dividing minimae.
+
+Hence it must be seen by what, or how, the dot of perfection is
+known from the dot of division — since one has to perfect figures
+and the other to imperfect, as said. When the dot is put after a
+longa, it is said to be of perfection. But when immediately after a
+minima, it is said to be of division.
+
+And division is threefold: of modus, of tempus, and of prolatio.
+
+Item, note that if a dot is put between two breves, it divides the
+modus — unless those breves were of imperfect time, after or
+before which is found a single semibrevis which by syncopation
+would be reduced to the said brevis, dotted with a dot of
+perfection. But if a dot is put between two semibreves, it is
+assigned for division of tempus — unless the semibreves were of
+minor prolation, after or before which is found a single minima
+which by syncopation would be reduced to the said semibrevis
+dotted with a dot of perfection. And let these on the dot suffice
+for your study. An example of the aforesaid dots: [two notated
+examples.]
+
+[Editor's note -- in plain words: One little dot, two opposite
+jobs: after a longa it perfects (fills to three); after a minima
+it divides (cuts). Between two breves it divides the modus —
+unless a syncopated note is secretly borrowing the value, in which
+case the dot is perfecting after all.]
+
+### Fourth treatise
+
+#### Chapter 1. On the distinction of tempus, prolatio, and modus
+
+Since modus, tempus, and prolatio are twofold, as said above, it
+must be seen by what they are distinguished. Hence a square with
+three strokes is put for perfect mode, as here [described: a
+square with three vertical strokes]; with two, for imperfect mode,
+as here [a square with two strokes]. Examples of both: [a notated
+example.]
+
+Item, a circle is put for perfect time.
+
+Item, a semicircle is put for imperfect time. Item, if in a circle
+or semicircle three dots are found, it is of major prolation; if
+two, of minor. As here: [a notated example of mensuration signs.]
+
+#### Chapter 2. On the distinction of tempus, prolatio, and modus (continued)
+
+Item, modus, tempus, and prolatio are also distinguished by red
+notes, or void black ones, and by full black ones, when they vary
+in any song. Hence if in any song black longae are found — red or
+void: the black longae are of perfect mode, and the red or void of
+imperfect, as here. [A notated example.]
+
+Item, if breves are found black, red, or void: the black are of
+perfect time, and the red or void of imperfect, as here. [A notated
+example.]
+
+And black semibreves are of major prolation; red or void of minor,
+as here. [A notated example.]
+
+Item, by the colors written below, by rests and signs, perfect is
+distinguished from imperfect, and also known: [a notated example.]
+
+[Editor's note -- in plain words: How the singer knows what world
+he's in: a square with three strokes (perfect mode) or two
+(imperfect); a circle (perfect time) or semicircle (imperfect);
+three dots in the sign (major prolation) or two (minor). And in
+the song itself: black notes mean perfect, red or void notes mean
+imperfect — at each level.]
+
+### Fifth treatise
+
+#### Chapter 1. On the modes
+
+Item, there are six modes. The first mode proceeds from one longa
+and another brevis, as here. [A notated example.]
+
+The second mode, conversely — from one brevis and another longa,
+as here. [A notated example.]
+
+The third mode from one longa and two or three breves, as here. [A
+notated example.]
+
+The fourth, conversely, from two breves, or three, and one longa,
+as here it is clear. [A notated example.]
+
+The fifth from all longae, as here it is clear by example. [A
+notated example.]
+
+The sixth from all longae, breves, and semibreves, as here it is
+clear. [A notated example, with a second staff.]
+
+#### Chapter 2. On the opinion of some concerning the modes
+
+Some, however, say there are only five modes, and they put the
+fifth with the first, and the sixth in place of the fifth.
+
+[Editor's note -- in plain words: The six old rhythmic modes —
+long-short, short-long, and their kin — set out as patterns. (Some
+masters count five, folding two together; the *Libellus* records
+the disagreement and moves on.)]
+
+### Sixth treatise
+
+#### Chapter 1. On ligatures
+
+Of ligatures, one is ascending, another descending. Ascending when
+the second note is higher than the first — namely the first;
+descending, conversely, when the first note is higher than the
+second, having a stem descending on the left side — whether
+figured in square or in oblique body — is said *with proprietas*,
+and the first note is a brevis, as here. [A notated example.]
+
+The second rule is that whenever the second note is higher than
+the first, and the first has a stem descending on the right side,
+it is said *with proprietas* and the first note is a longa, as
+here. [A notated example.]
+
+And if the first note has no dot, it is said *without perfection*
+— and the first is a brevis, as here it is clear. [A notated
+example. Editor's note: the print reads *sine perfectione*; the
+sense and the parallel rules suggest *sine proprietate*, "without
+proprietas" — translated as printed.]
+
+The third rule is that whenever the first note, square or oblique,
+is higher than the second, lacking a stem, it is said *without
+proprietas*, and stands for a longa, as here. [A notated example.]
+
+The fourth rule is that in every ligature the first note, having a
+stem ascending on the left side, is said *with opposite
+proprietas*, and makes the first two be semibreves, as here. [A
+notated example.]
+
+The fifth rule is that in every ligature the last note, descending
+below the penultimate, placed in a square, is said *with
+proprietas*, and is a longa, as here. [A notated example.]
+
+And figured in oblique body, it is said *without proprietas*, and
+is a brevis, as here. [A notated example.]
+
+The sixth rule is that every note standing directly above the
+penultimate, having a stem on the right side, is said *with
+perfection*, and is a longa — and by some is called a longa by
+opposite proprietas, as here. [A notated example.]
+
+The seventh rule is that every last note standing to the side
+above the penultimate, without a stem — whether square or oblique
+— is said *without proprietas*, and is a brevis, as here. [A
+notated example.]
+
+The eighth rule is that in every ligature the middle notes are
+breves — unless the first were with opposite proprietas, for then
+the second remains with the first for one brevis, by the fourth
+rule above, as here. [A notated example.]
+
+And let these on ligatures suffice.
+
+[Editor's note -- in plain words: How to read joined notes: the
+stems and shapes are the code. Stem down on the left going up —
+first note a breve; stem down on the right going up — first note
+a longa; stem up on the left — the pair are semibreves; last note
+dropped square below the one before — a longa; middles are breves
+unless the code says otherwise. Eight rules, and the singer can
+read anything.]
+
+### Seventh treatise
+
+#### Chapter 1. On syncopations
+
+Syncopation (*sincopa*) is the division of any figure through
+separated parts, which by counting perfections are reduced to one
+another; and it can happen in modus, tempus, and prolatio. If it
+happens in modus: either in perfect or in imperfect time. If in
+perfect, then three separate breves are to be found — or the value
+for a perfect longa — which by counting perfections are reduced to
+one another. If in imperfect modus, then two separate breves are to
+be found — or a longa dotted with a dot of perfection, whose third
+part is reduced to some single separate breve, as here. [A notated
+example.]
+
+#### Chapter 2. On syncopation, if it happen in perfect or imperfect tempus
+
+If syncopation happens in tempus: either in perfect or in
+imperfect time. If in perfect time, then three separate semibreves
+are to be found — or the value for a perfect brevis — which by
+counting perfections are reduced to one another. If in imperfect
+time: two, or one brevis dotted with a dot of perfection, whose
+third part is reduced to some single separate semibrevis, as here.
+[A notated example.]
+
+Likewise if in prolatio: either in major or in minor. If in major,
+then three separate minimae are to be found — or the value for a
+semibrevis of major prolation — which by counting perfections are
+reduced to one another. If in minor: two, or a semibrevis dotted
+with a dot of perfection, whose third part is reduced to some
+single separate minima, as here. [A notated example.]
+
+Item, note that a note must never be reduced by syncopation beyond
+a greater rest — as a minima beyond a semibrevis rest or greater,
+nor a semibrevis beyond a brevis rest or greater, and so of the
+others — though some say the contrary, but I know not how. And let
+these suffice on syncopation.
+
+[Editor's note -- in plain words: Syncopation is a note's value
+scattered across the bar in separate pieces, reunited by counting
+— at every level, modus, tempus, prolatio. One hard limit: never
+let the scattered value leapfrog a bigger rest. ("Some say the
+contrary, but I know not how" — the schoolmaster's dry dismissal.)]
+
+### Eighth treatise
+
+#### Chapter 1. On rests
+
+A rest (*pausa*) is the measured omission or breathing of voices,
+for as many *tempora* as measured by spaces — since a rest is
+worth as many *tempora* as it occupies spaces. As, if it holds
+three spaces, it is worth such *tempora*; if it holds two spaces,
+two *tempora*; and if one, one tempus.
+
+And note that a greater rest of three *tempora* must not be put —
+for otherwise the rest would have to be redoubled according to the
+demand of the modus, whence redoublings would be vain and
+unmeasurable. Further note that a semibrevis rest must begin on a
+line and descend to the middle of the space; and a minima rest,
+conversely, must begin at a line and ascend to the middle of the
+space. And semiminima rests are made like minima rests, but with a
+semicircle. As here the examples of all appear: [a notated
+example.]
+
+Moreover note that a semibrevis rest or greater must not be put
+except in a complete prolatio; nor a brevis rest or greater except
+in a complete tempus; nor a longa rest except in a complete modus.
+
+Item, note that rests cannot be imperfected, nor altered. And let
+what is said on rests suffice.
+
+[Editor's note -- in plain words: A rest's length is read off the
+staff-spaces it covers — three spaces, three tempora. Semibreve
+rests hang from a line, minim rests sit on one; and a rest belongs
+only to a completed perfection of its own level. Rests can neither
+be imperfected nor altered — they are what they are.]
+
+### Ninth treatise
+
+#### Chapter 1. On the diminution of motets
+
+The diminution of motets is always made in the tenors, about which
+note:
+
+First, that for a maxima often in diminution a longa is put; for a
+longa, a brevis; for a brevis, a semibrevis; for a semibrevis, a
+minima.
+
+Second, note that when the tenor is of imperfect mode — whether of
+perfect or imperfect time — diminution is made only directly
+through the half of the notes and rests.
+
+Third, note that when the tenor is of perfect mode and imperfect
+time, diminution is also made directly through the half — as: for
+a longa worth three breves are put breves worth three semibreves.
+
+Fourth, note that when the tenor is of perfect mode and perfect
+time, diminution is made through the third and not through the
+half. And let these on diminution suffice; the examples are clear
+in motets.
+
+[Editor's note -- in plain words: When a motet's tenor comes round
+again diminished, every note steps down one value — maxima to
+longa, longa to brevis, and so on. In imperfect mode (and in
+perfect mode with imperfect time) halve everything; in perfect
+mode with perfect time, third it.]
+
+### Tenth treatise
+
+#### Chapter 10. [So headed in the print; "first" is meant.] On color
+
+Color in music is called the likeness of figures of one process,
+repeated many times, set in the same song. For which note that some
+singers put a difference between *color* and *talea*: for they call
+it *color* when the same pitches are repeated; *talea* when like
+figures are repeated — and so figures of diverse pitches are made.
+This difference, though kept in many tenors of motets, is yet not
+kept in the motets themselves; the examples are clear in motets.
+
+And let the aforesaid suffice for the unlearned wishing to be
+introduced into the practical art of measured song.
+
+Amen.
+
+[Editor's note -- in plain words: *Color* is the tune-pattern
+coming round again; *talea* the rhythm-pattern coming round again.
+Some masters keep the two words strict — same notes is color, same
+rhythm-shapes is talea — but in the motets themselves nobody
+bothers. End of lessons.]
+
+---
+
+## Glossary
+
+- *altera / recta* — a note "doubled" (altered) or "straight" (at
+  face value).
+- *alteratio* — alteration: doubling a note's value to complete a
+  perfection.
+- *brevis* — the breve; worth 3 semibreves (perfect time) or 2
+  (imperfect).
+- *color* — the repeating pitch-pattern of a tenor; *talea* its
+  rhythmic pattern.
+- *diminutio* — diminution: shrinking a tenor's values on repeat.
+- *imperfectio* — imperfection: a perfect note's loss of a third of
+  its value.
+- *ligatura* — joined notes, read by shape and stem (*proprietas*).
+- *longa* — the long; worth 3 breves (perfect mode) or 2
+  (imperfect).
+- *maxima* — the greatest note-value; worth 3 (or 2) longae.
+- *minima* — the least note-value of the five.
+- *modus* — the division of the longa; *tempus* of the brevis;
+  *prolatio* of the semibrevis.
+- *mutatio qualitatis* — "change of quality": treating a note as
+  if it belonged to the other prolation.
+- *pausa* — a rest, measured by staff-spaces.
+- *perfectus / imperfectus* — triple / duple at any level.
+- *prolatio maior / minor* — major (triple) / minor (duple)
+  prolation.
+- *proprietas* — the "proper" reading of a ligature-shape; *cum
+  / sine proprietate*, *opposita proprietate*.
+- *punctus divisionis / perfectionis* — the dot of division /
+  perfection.
+- *semibrevis* — the semibreve; worth 3 minimae (major) or 2
+  (minor).
+- *sincopa* — syncopation: a value split and reunited by counting.
+- *tempora* — counted time-units.
+
+---
+
+**A note on primacy.** None found after research: no complete English
+translation of the *Libellus cantus mensurabilis* ascribed to
+Johannes de Muris was found. (The 1994 Balensuela edition of the
+related *Ars cantus mensurabilis mensurata per modos iuris*
+contains an English translation of *that* work, not of the
+*Libellus*.) The Latin stands in Coussemaker, vol. 3, pp. 46-58,
+and in the TML transcription; the English here is made fresh from
+the Latin for this series.
+
+**Rights.** Public domain source text; modern edition (c) editor,
+free redistribution.
+
+---
