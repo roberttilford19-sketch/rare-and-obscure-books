@@ -1,0 +1,445 @@
+THE ETIOLOGY, CONCEPT, AND PROPHYLAXIS OF CHILDBED FEVER: THE EVIDENTIARY CORE, INSTALLMENT I
+
+
+
+DRAFT — local only; not published
+
+This installment is a working draft prepared for Robert Tilford's Rare & Obscure Books series. It is a fresh English translation from the public-domain German text of Ignaz Philipp Semmelweis, Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers (Pest, Vienna, and Leipzig: C. A. Hartleben, 1861). The translation was made with AI assistance under editorial direction and is released with that disclosure attached. It has not yet received independent medical-historical or German-language review and must not be described as finished.
+
+The base scan is the Bayerische Staatsbibliothek / Münchener DigitalisierungsZentrum copy, digital object `bsb10860445`. Its title leaf names Semmelweis, gives the Pest–Vienna–Leipzig Hartleben imprint, and dates the edition 1861; the preface closes at Pest on 30 August 1860. The translated installment runs from the paragraph beginning "After neither the epidemic nor the hitherto valid endemic influences…" on printed page 38 through the end of printed page 60 (scan leaves 48–70).
+
+No modern English translation was used as a base or crib. Frank P. Murphy's 1941 translation and K. Codell Carter's 1983 translation are check-only bibliographic signposts. Carter's edition is explicitly abridged—xii + 263 pages against the 543-page German original—and neither it nor Murphy's wording is reproduced here.
+
+
+* * *
+
+
+
+DEDICATION AND EDITOR'S INTRODUCTION
+
+
+
+For Ignaz Philipp Semmelweis (1818–1865)
+
+#### 1. Who he was
+
+Ignaz Philipp Semmelweis—Hungarian Ignác Fülöp Semmelweis—was born at Buda on 1 July 1818. He studied first at Pest, began law at Vienna in 1837, turned to medicine in 1838, studied again at Pest, returned to Vienna, and took his medical doctorate there in 1844 with a botanical dissertation. In 1846 he became assistant at the First Obstetrical Clinic of the Vienna General Hospital. [2][3]
+
+That appointment placed him beside one of the starkest contrasts in nineteenth-century hospital medicine. The First Clinic taught physicians and medical students; the Second taught midwives. The women who died after delivery did not die at the same rate in the two places. Semmelweis refused to treat the difference as fate. He compared, eliminated explanations one by one, watched the pattern of disease, and followed the evidence to the examining hand.
+
+#### 2. His home ground
+
+His proving ground was Vienna: two maternity clinics in the same institution, under the same sky, drawing from the same city, yet separated by a deadly difference in outcome. His second proving ground was Pest. After his Vienna assistantship was not prolonged and after the humiliating offer of a lectureship restricted to exercises on a phantom, he left Vienna in 1850. From 1851 he worked at the maternity division of St. Rochus Hospital in Pest, and from 1855 to 1865 he was professor of theoretical and practical obstetrics at the University of Pest. [2]
+
+Vienna gave him the problem and the first intervention. Pest gave him repetition in another institution. The book followed at the end of 1860, bearing the publication year 1861. [2]
+
+#### 3. How his life ended
+
+Semmelweis's opponents prevented the prolongation of his Vienna assistantship. He remained in office at Pest into the summer of 1865, while his behaviour and health had become matters of grave concern. He was taken to the Lower Austrian provincial asylum at Vienna—Döbling in the biographical record—and died there on 13 August 1865 of sepsis. [2]
+
+A modern scholarly account states that, when he understood where he had been brought and tried to escape, he was badly abused and died two weeks later from sepsis arising from open wounds. [3] The exact origin of the fatal wound is not established with the same certainty as the date and septic character of the death, and older accounts differ. This edition therefore does not say that he was murdered. It says what the record can bear: he was committed, he died of sepsis shortly afterward, and the precise wound history remains disputed.
+
+Retrospective explanations of his final mental collapse—dementia, syphilis, exhaustion, and others—are UNVERIFIED for the purposes of this edition. They belong in notes, not in the dedication as fact.
+
+#### 4. Why the work is vital: his logic, proved on the page
+
+Semmelweis did not know germ theory. His language was that of "cadaverous particles" and decomposed organic matter carried into the body and absorbed. The strength of the book is not that it guesses the later vocabulary. Its strength is the structure of the proof.
+
+First, the two clinics supply the contrast. In the German Table I, covering 1841–1846, the First Clinic records 20,042 deliveries and 1,989 deaths; the Second records 17,791 deliveries and 691 deaths. Recomputed from those counts, the rates are 9.92 percent and 3.88 percent. The yearly counts are set out below so that the reader need not take the contrast on editorial authority.
+
+Then Semmelweis tests explanations. Epidemic influence cannot explain why one clinic is struck and the neighbouring clinic comparatively spared. Overcrowding fails because the Second Clinic is, relative to its space, the more crowded. One proposed cause after another is shown either to be common to both clinics or to predict the opposite of what happened.
+
+Then comes the terrible clue: Jakob Kolletschka, professor of forensic medicine, is pricked by a student's knife during an autopsy and dies with the same train of inflammation and internal lesions Semmelweis has seen in the mothers. Semmelweis asks whether the same generating cause has been carried to the women. His answer is the examining finger, contaminated after contact with corpses and not freed of that contamination by ordinary washing with soap.
+
+Finally, he intervenes. From about the middle of May 1847 he requires washing in chlorine solution, then in cheaper chlorinated-lime solution, before examination. The mortality falls. Later cases force him to widen the rule: not cadaverous matter only, but putrid discharge from a living patient can be carried from one woman to the next; even air laden with such discharge can, in the circumstances he describes, become the carrier. The installment translated here ends at that widening of the doctrine.
+
+That is why the book remains vital. It lets a reader watch a physician reason from unequal deaths to a preventable cause, and then change practice. The modern reader knows more microbiology than Semmelweis did. The modern reader does not need to pretend that he possessed it.
+
+#### 5. Why he belongs in this series
+
+Robert Tilford's Rare & Obscure Books series returns to scholars whose work was left unfinished, untranslated, scattered, or stranded in a language and format that kept it from the readers who needed it. Semmelweis is not rescued here by inventing a nobler book than the one he wrote. His book is long, repetitive, angry, and at times difficult. It is also the primary record of a lifesaving argument.
+
+This edition therefore keeps his name at the front, translates his evidence rather than replacing it with a retelling, preserves his tables, and marks the limits of the installment plainly. The aim is not to take the work away from Semmelweis. The aim is to add an English road into it.
+
+#### 6. Signposts for the reader
+
+Begin with Semmelweis's own 1861 German text when language permits. [1] For the life, the Neue Deutsche Biographie entry gives a compact documented chronology. [2] Modern medical-historical discussions by Schreiner and by Ravel and colleagues place the discovery, rejection, and later recognition in context. [3][4] Murphy 1941 and Carter 1983 remain useful to libraries and scholars as earlier English presentations, but Carter is abridged and both are check-only for this series; neither supplied the wording of the translation that follows. [5]
+
+None of the signposts turns this draft into a reviewed medical edition. That gate remains open and is named as such.
+
+
+
+Table I, set out for checking
+
+The following is the editor's arithmetic presentation of Semmelweis's Table I, printed page 3. "Rate" here is recomputed from the counts, not silently copied from the original's sometimes truncated percentages.
+
+1841 — First Clinic: 3,036 births, 237 deaths, 7.81 percent. Second Clinic: 2,442 births, 86 deaths, 3.52 percent.
+
+1842 — First Clinic: 3,287 births, 518 deaths, 15.76 percent. Second Clinic: 2,659 births, 202 deaths, 7.60 percent.
+
+1843 — First Clinic: 3,060 births, 274 deaths, 8.95 percent. Second Clinic: 2,739 births, 164 deaths, 5.99 percent.
+
+1844 — First Clinic: 3,157 births, 260 deaths, 8.24 percent. Second Clinic: 2,956 births, 68 deaths, 2.30 percent.
+
+1845 — First Clinic: 3,492 births, 241 deaths, 6.90 percent. Second Clinic: 3,241 births, 66 deaths, 2.04 percent.
+
+1846 — First Clinic: 4,010 births, 459 deaths, 11.45 percent. Second Clinic: 3,754 births, 105 deaths, 2.80 percent.
+
+Total, 1841–1846 — First Clinic: 20,042 births, 1,989 deaths, 9.92 percent. Second Clinic: 17,791 births, 691 deaths, 3.88 percent.
+
+Semmelweis warns in the opening pages that even this contrast understates the First Clinic's loss, because gravely ill women were at times transferred to the general hospital and their deaths entered there rather than in the maternity returns. That warning is his; the arithmetic above is the editor's check of the table's counts.
+
+
+* * *
+
+
+
+OF THIS INSTALLMENT
+
+The original has no modern chapter break at the point where this installment begins. The translation therefore begins with a complete paragraph on printed page 38, after epidemic influences and the previously accepted endemic influences have been tested and found unable to explain the First Clinic's excess mortality. It ends at printed page 60, where Semmelweis has extended the carrier from the examining finger to air laden with putrid discharge and has stated the preventive rule that followed.
+
+The pages before this installment, printed pages 1–37, contain the opening contrast between the clinics, Table I, the attack on epidemic explanation, Table II, the overcrowding investigation and Tables III–XIII, and the beginning of the examination of local conditions, fear, religion, and related causes. The pages after it, printed pages 61 to the end, continue with the work of the Vienna commissions, Semmelweis's confession that only God knows how many died through his own earlier ignorance, the fuller concepts of epidemic and endemic disease, prevention, self-infection, institutional and historical returns, the Pest evidence, and the long engagement with critics. Those pages are mapped, not silently dropped. The next production step is a page-exact map and count for printed pages 1–37, then for pages 61 onward in bounded installments.
+
+Editorial subheadings inside the translation are added for navigation and are enclosed in the text as editorial headings, not represented as Semmelweis's own. Original page markers are retained. Original table numbers are retained. Percentages in Tables XIV and XVI and in the unnumbered return after chlorine washing have been recomputed from the printed counts where the old percentages are truncated, misread by modern OCR, or arithmetically inconsistent; the production notes record the principal cases.
+
+Semmelweis's terms are translated plainly but not modernised into germ theory. "Cadaverous particles" are his Cadavertheile. Jauche is rendered "putrid discharge" or "ichor," according to context. "Childbed fever" and "puerperal fever" both render Kindbettfieber / Puerperalfieber; the historical breadth of those terms must not be collapsed into a single modern diagnosis.
+
+
+* * *
+
+
+
+THE EVIDENTIARY CORE, INSTALLMENT I
+
+
+
+After the accepted causes fail
+
+[Printed page 38] After neither epidemic influences nor the endemic influences hitherto accepted can explain the excess mortality at the First Obstetrical Clinic, we shall now try to test the other causes that are cited as producing childbed fever.
+
+More recent investigators have blamed conception itself as the most remote occasion of the puerperal processes, on the ground that the action of the male semen brings about a series of metamorphoses and manifold, still partly unknown changes in the blood. I believe that I labour under no illusion when I assert that conception also preceded the births of those who delivered at the Second Obstetrical Clinic. Whence, then, the difference in mortality at the two clinics?
+
+[Printed page 39] Hyperinosis; hydraemia; plethora; the disturbances, congestions, and stoppages of the circulation caused by the pregnant uterus; inopexia; the act of birth itself; the removal of pressure through the emptying of the uterus; the long duration of birth; the wounding of the inner surface of the uterus by the act of birth; deficient contractions and faulty involution of the uterus in childbed; deficient and suppressed secretion and excretion of the lochia; suppression of the milk secretion; dead fruits; and the individuality of the women in childbed—all these are causes which, however much or however little influence one ascribes to them in producing childbed fever, must be either equally harmful or equally harmless at both clinics. They cannot be used to explain so striking a difference in the mortality relations of two clinics.
+
+Besides my inability to find an explanation for the excess mortality at the First Obstetrical Clinic, other things happened there for which explanation was also lacking.
+
+All the labouring women in whom the period of opening proceeded so slowly that it lasted twenty-four, forty-eight hours, or longer, fell ill almost without exception, either during the birth itself or in the first twenty-four or thirty-six hours after it, and died of rapidly running childbed fever. An equally slow course of the period of opening at the Second Clinic was not dangerous.
+
+Because so slow a course of the period of opening ordinarily occurs only in women giving birth for the first time, it was ordinarily first-time mothers who perished in this way. I often made my students attentive to the fact that this blooming, young girl, radiant with health, because the period of opening was lingering in her, would fall ill either during the birth or shortly after it, [printed page 40] and would die of rapidly running puerperal fever. My prognosis was fulfilled. I did not know why this happened, but I saw it happen often. The matter was all the more inexplicable because, under similar circumstances, it was not repeated at the Second Clinic.
+
+Let it be said again: we are speaking here of the period of opening, not of the slowly proceeding period of expulsion. The traumatic moment therefore cannot come into consideration.
+
+But not only these mothers died. Their newborn children also all died of puerperal fever, without distinction whether boy or girl. I am not the only one who speaks of puerperal fever in newborns. The anatomical finding in the corpses of such newborns, apart from the genital sphere, was identical with the finding in the corpses of women who had died of puerperal fever. To acknowledge the products in the corpses of the mothers as products of puerperal fever, and not to let the identical products in the corpses of newborns count as products of the same disease, would be to overturn pathological anatomy.
+
+If it is one and the same disease from which the mothers and their newborns died, then the same etiology must hold for the newborns that is acknowledged as valid for their mothers. But the same difference in mortality that we observed among the women of the two clinics was repeated among the newborns: at the First Obstetrical Clinic the newborns also died in much greater number than at the Second. The hitherto valid etiology of childbed fever therefore shows itself just as deficient in explaining the difference in mortality among newborns as it showed itself deficient in explaining the difference among the mothers. [Printed page 41] The following table shows the difference in mortality among the newborns of the two clinics.
+
+
+
+Table XIV — Newborn deaths at the two clinics
+
+Editorial note: counts follow the German table; percentages are recomputed from those counts.
+
+1841 — First Clinic: 2,813 children, 177 died, 6.29 percent. Second Clinic: 2,252 children, 91 died, 4.04 percent.
+
+1842 — First Clinic: 3,037 children, 279 died, 9.19 percent. Second Clinic: 2,414 children, 113 died, 4.68 percent.
+
+1843 — First Clinic: 2,828 children, 195 died, 6.90 percent. Second Clinic: 2,570 children, 130 died, 5.06 percent.
+
+1844 — First Clinic: 2,917 children, 251 died, 8.60 percent. Second Clinic: 2,739 children, 100 died, 3.65 percent.
+
+1845 — First Clinic: 3,201 children, 260 died, 8.12 percent. Second Clinic: 3,017 children, 97 died, 3.22 percent.
+
+1846 — First Clinic: 3,533 children, 235 died, 6.65 percent. Second Clinic: 3,398 children, 86 died, 2.53 percent.
+
+A great number of the newborns were sent to the foundling house because of the death of the mother or her inability to nurse. Of their fate we shall speak later.
+
+The falling ill of newborns with childbed fever can be imagined in two ways. Either the moment producing childbed fever acts during the intra-uterine life of the fruit upon the mother, and through the mother childbed fever is communicated to the child; or the moment producing childbed fever acts after birth immediately upon the child itself, in which case the mother may be struck along with it or spared. The child then dies not of a communicated childbed fever, as in the first case, but of a childbed fever arisen in itself.
+
+If childbed fever is communicated to the child by the mother during intra-uterine life, the difference in mortality among the newborns of the two clinics is not explained by the hitherto valid etiology, because that etiology is insufficient to explain the illness of the mothers. But if the moment producing childbed fever acts after birth immediately upon the child, independently of the mother, the impossibility of explaining the difference in mortality among the newborns of the two clinics from the hitherto valid etiology of childbed fever remains the same. For the harmful influences at both clinics are either equal, in which case an equal mortality among the newborns [printed page 42] of the two clinics would have had to prevail; or, if the harmful influences are unequal, they are present in greater measure at the Second Obstetrical Clinic, and therefore the greater mortality would have had to prevail at the Second Obstetrical Clinic. In reality, among the newborns too, the greater mortality prevailed at the First Obstetrical Clinic.
+
+Quite apart from this, many etiological moments that are cited in the mother as producing childbed fever can impossibly hold for newborns. The newborns probably were not afraid of the First Obstetrical Clinic, because its bad reputation was unknown to them. Injured modesty at having been born in the presence of men is also likely to have harmed the newborns less, and so on.
+
+Childbed fever was defined as a disease peculiar and exclusively belonging to women in childbed, for whose origin two things were required: namely, the puerperium and a moment producing childbed fever. The same cause, acting upon individuals in childbed, was to produce childbed fever; acting upon other individuals not in the puerperal state, it was to produce not puerperal fever but another disease. We shall make the matter clearer by examples.
+
+It was believed that the women at the First Obstetrical Clinic contracted childbed fever from fear of death because they knew what a numerous contingent of dead the institution delivered yearly. The disposing moment in them was childbed; the moment producing childbed fever was fear of death. It is to be assumed that many a soldier in a murderous battle has been tormented by fear of death. But soldiers do not get childbed fever from fear of death; they get [printed page 43] other conditions, because in them the disposing moment—namely, childbed—is lacking.
+
+The female sense of modesty is injured not only when individuals must give themselves up to public instruction for men, through which, disposed by the puerperium, they get childbed fever. The female sense of modesty is injured in many other ways as well. But when the virgins so injured are individuals not at all in the puerperium, they do not get childbed fever, because the disposing moment is lacking; they get manifold other conditions—fainting fits, for example. A chill produces childbed fever in a woman in childbed, but a rheumatic fever in a woman not in childbed. Errors of diet produce childbed fever in a woman in childbed, but a gastric fever in one not in childbed.
+
+But since people became convinced that childbed fever begins not only in the puerperium, but already during birth, indeed even during pregnancy, the puerperium was let fall, and they contented themselves with the peculiar mixture of the blood of pregnant women. If we apply this definition to the childbed fever of newborns, where do we find the disposing moment for the puerperal processes in the newborns? In the puerperal state of their genitals? Or have they a blood mixture peculiar to pregnant women—and that without distinction whether they are girls or boys? Even the concept of puerperal fever showed itself, through the fact that childbed fever also occurs in newborns, to be an erroneous one.
+
+
+
+Street births and premature births
+
+In the great extent of the city of Vienna it very often happened that labouring women, on the way to the maternity house and before they reached it, delivered in the street, on the glacis, under the gateways of houses—wherever chance brought them—and then after the birth often had to walk to the maternity house [printed page 44] with the infant in the apron, in the most unfavourable weather. These births are called street births.
+
+Admission into the maternity house and reception of the newborn into the foundling house take place free of charge on the condition that the labouring women give themselves up to public instruction, and those who are fit must perform wet-nurse service in the foundling house. Children not born in the maternity house are not received free into the foundling house, because their mothers have not served instruction. But so that those who, intending to deliver in the maternity house, go there and on the way cannot reach it before the birth, may not innocently lose these advantages, street births are allowed to count as though they had taken place in the maternity house.
+
+This has led to the abuse that somewhat better-off girls, in order to escape the unpleasantness of public instruction and nevertheless share in the benefit of the gratuitous surrender of the child to the foundling house, deliver in the city with midwives and then have themselves brought to the maternity house by carriage, stating that they were surprised by the birth on the way. If the child is not baptised and the remnant of the umbilical cord is quite fresh, such a birth is regarded as a street birth, and the mother shares all the benefits enjoyed by those who have delivered in the maternity house. The number of the latter is the higher, and not seldom exceeds 100 a month at both clinics.
+
+I have noticed that precisely the women who had undergone a street birth fell ill strikingly less often than those who had delivered in the maternity house, although in street births the birth evidently took place under less favourable circumstances than in those who delivered with us on the delivery bed.
+
+[Printed page 45] Let no one object that most women assisted by a midwife likewise delivered in bed, and that our women, three hours after the birth was over, had to seek their childbed on foot. For walking on foot over a corridor protected by glass and heated in winter is certainly less harmful than to deliver at a midwife's, likewise to have to get up soon after the birth, to betake oneself by carriage—from who knows what storey—under all weather conditions, over partly bad pavement, to the maternity house, there again to climb to the first floor. Of those who really delivered in the street this holds in a still higher degree.
+
+It seemed logical to me that the women who had undergone a so-called street birth would have had to fall ill, if not more frequently, yet at least as frequently as those who delivered with us. We have already expressed our unshakable conviction that the mortality at the First Obstetrical Clinic is not conditioned by epidemic influences, but that they are endemic, though still unknown, harmful influences—that is, such harmful influences as exert their destructive effects only within the boundaries of the First Clinic. What, then, protected those who delivered outside the maternity house from the destructive effects of the unknown endemic influences active at the First Clinic?
+
+At the Second Obstetrical Clinic the state of health of the women who had undergone a street birth was just as favourable as at the First Clinic. There, however, it was not striking, because there the state of health of the women in general was much more favourable.
+
+Here would be the place to show, by a table, the smaller mortality percentages among street births in comparison with the births that took place at the First Obstetrical Clinic. [Printed page 46] So long as the protocols of the First Obstetrical Clinic were at my disposal, I felt no need of such a table, because this fact was denied by nobody. I neglected to prepare such a table. Later, when I was no longer assistant, this fact was denied, just as a significant difference in mortality at the First and Second Obstetrical Clinics was also denied—a difference which, however, through Table No. I becomes an undeniable fact.
+
+Professor Skoda in the year 1848 made the motion in the professorial college of the Vienna medical faculty that the professorial college should appoint a commission which, among other tasks, should also have that of preparing such a table. The motion was accepted by a great majority, the commission was appointed at once, but in consequence of a protest by the professor of obstetrics the commission, by higher order, was not permitted to begin its activity.
+
+Besides the women who had undergone a street birth, the women who had undergone a premature birth also fell ill strikingly less often than those who had delivered at the proper time. The women who delivered prematurely were exposed not only to the same endemic harmful influences of the First Obstetrical Clinic as those who delivered at the proper time, but to one harmful influence more—namely, that which had initiated the premature birth. How, in spite of this, is their better state of health to be explained?
+
+The explanation that the earlier the birth occurs, the less developed the puerperal state is, and that in consequence the disposition to a puerperal illness is smaller, is refuted by the observation that the puerperal state is not at all necessary for the origin of childbed fever, since childbed fever can begin already during birth, indeed even during pregnancy, and can even kill. [Printed page 47] The better state of health of the women after premature births at the Second Obstetrical Clinic was in accord with the better state of health of the women there after births at the proper time.
+
+The women also fell ill scattered—that is, one woman fell ill and several of her neighbours to left and right remained healthy. But it very often happened that whole rows, just as they lay beside one another in the childbeds, fell ill without even one between them having remained healthy. The beds in the lying-in rooms at the First Obstetrical Clinic are placed in rows along the long wall, with the corresponding spaces between them. According to their position, the rooms have a northern and southern, or an eastern and western, long wall.
+
+When the women who were in the beds at the northern long wall fell ill, we were already inclined to ascribe a great role in the illness of these women to taking cold. But behold: at the next occupation of the room with women in childbed, the half lying toward the south fell ill. Likewise sometimes those who lay at the eastern, and sometimes those who lay at the western, long wall fell ill. Often the illnesses spread from one side to the other, so that no point of the compass deserved a particular praise or a particular blame.
+
+How was this appearance to be explained, since it was not repeated at the Second Obstetrical Clinic, where they fell ill only scattered?
+
+That childbed fever is not a contagious disease, and that the illness was not propagated by a contagium from bed to bed, we shall here express as our conviction. The proofs for it we shall bring later. For the present, the remark suffices that the scattered illnesses of the women at the Second Obstetrical Clinic—if childbed fever had been a contagious disease—would have sufficed [printed page 48] to make, out of the scattered falling ill, a row-wise falling ill through propagation of the contagium from bed to bed.
+
+
+
+The commissions and the failed remedy
+
+The state power did not remain indifferent toward this disquieting appearance of the great mortality at the First Obstetrical Clinic in comparison with the Second. It repeatedly instituted commission inquiries and negotiations in order to determine the cause of these differences in mortality, and in order to convince itself whether the women who were really ill could not be rescued in greater number than was the case at the First Obstetrical Clinic.
+
+In order to attain the latter, all the ill women were from time to time transferred to the general hospital, where nevertheless, with few exceptions, they likewise died, although they were subjected by another physician to another treatment and were in another room, not merely among puerperal patients, and so on.
+
+By the commissions sent out, now one, now another, now several of the above-cited endemic causes were blamed as the cause of the greater mortality. The necessary measures were taken accordingly, without its having succeeded, however, in confining the mortality within the limits within which mortality also occurred at the Second Obstetrical Clinic. Through the fruitlessness of the measures the proof was furnished that the blamed causes of the great mortality at the First Obstetrical Clinic were not the causes which in reality had produced the greater mortality.
+
+Toward the end of the year 1846, at a commission negotiation, the view gained the upper hand that the illnesses of the women were conditioned by injury of the birth parts at the examinations taking place for the purpose of instruction. But because such examinations [printed page 49] also take place in the instruction of midwives, in order to make the frequent illnesses on the physicians' clinic intelligible, people did not hesitate to blame the students, and especially the foreigners, for proceeding more roughly in the examinations than the midwives.
+
+On this presupposition, the number of the students was reduced from forty-two to twenty. The foreigners were almost wholly excluded, and the examination itself was reduced to the minimum.
+
+Hereupon the mortality diminished strikingly in the months of December 1846 and January, February, and March 1847. But in April 57 women died, and in May 36. From this the groundlessness of the above blame could be evident to everyone.
+
+For the sake of better understanding, we shall here publish the reports of the year 1846 and of the first five months of the year 1847 of the First Clinic.
+
+
+
+Table XV — First Clinic reports, 1846 and January–May 1847
+
+Editorial note: the 1846 table is Table XV in the German. The January–May 1847 continuation is printed at the head of page 50. Counts and the author's percentages are given; where the author's percentage is a truncation, it is retained and the recomputation is recorded in the production notes.
+
+1846, January — 336 births, 45 deaths, 13.39 percent.
+
+1846, February — 293 births, 53 deaths, 18.08 percent.
+
+1846, March — 311 births, 48 deaths, 15.43 percent.
+
+1846, April — 253 births, 48 deaths, 18.97 percent.
+
+1846, May — 305 births, 41 deaths, 13.44 percent.
+
+1846, June — 266 births, 27 deaths, 10.15 percent.
+
+1846, July — 252 births, 33 deaths, 13.10 percent.
+
+1846, August — 216 births, 39 deaths, 18.05 percent.
+
+1846, September — 271 births, 39 deaths, 14.39 percent.
+
+1846, October — 254 births, 38 deaths, 14.98 percent.
+
+1846, November — 297 births, 32 deaths, 10.77 percent.
+
+1846, December — 298 births, 16 deaths, 5.37 percent.
+
+1847, January — 311 births, 10 deaths, 3.21 percent.
+
+1847, February — 312 births, 6 deaths, 1.92 percent.
+
+1847, March — 305 births, 11 deaths, 3.60 percent.
+
+1847, April — 312 births, 57 deaths, 18.27 percent.
+
+1847, May — 294 births, 36 deaths, 12.24 percent.
+
+[Printed page 50] The reports of the commissions sent out to determine the cause of the great mortality at the First Obstetrical Clinic all suffered from the incomprehensible contradiction that they called the great mortality at the First Obstetrical Clinic an epidemic, but did not, in accordance with the concept of an epidemic, declare the impossibility of a remedy—since it is not in the power of a commission to change the atmospheric, cosmic, and telluric relations of the city of Vienna. What, then, does one do to shorten the duration of a cholera epidemic and to prevent its return?
+
+They blamed one or more of the above-cited endemic causes, and then called it not, as should have happened, an endemic disease, but an epidemic. In general, the unfortunate confusion of the concept of an epidemic and of an endemic disease is to blame that the true cause of childbed fever was not found for so long.
+
+In setting up the concept of a puerperal epidemic and endemic disease, the number of the women who fell ill and died must be wholly disregarded. The cause in consequence of which the cases of illness and death occur determines the concept of an epidemic or an endemic disease. An epidemic puerperal fever is that which is produced by epidemic causes—that is, by atmospheric, cosmic, telluric influences; and it does not belong to the concept of an epidemic whether one or hundreds of individuals fall ill.
+
+If puerperal fever is produced by an endemic cause—that is, by a cause whose activity is restricted to a definite locality—then it is an endemic puerperal fever, and again it is indifferent whether one or hundreds of individuals fall ill. That is the concept of an epidemic and an endemic disease. But the commissions, in naming the mortality, took into consideration not the causes which allegedly produced the puerperal fever, but only the number; and because many women fell ill and died, they called it an epidemic.
+
+[Printed page 51] Convinced that the greater mortality at the First Obstetrical Clinic arose from an endemic but still unknown cause, vainly sought by me; become doubtful about the concept of childbed fever through the falling ill of newborns with childbed fever, without distinction whether girl or boy; observing appearances for which I could find no explanation—as there are: the almost exceptionless dying in consequence of a delayed period of opening; the not falling ill of street and premature births, in contradiction to my conviction that the devastations at the First Obstetrical Clinic were to be ascribed to endemic causes; the row-wise falling ill of the women at the First Obstetrical Clinic; the favourable state of health at the Second Obstetrical Clinic in comparison with the First, without my being able to hold the conviction that those employed at the Second Obstetrical Clinic were more skilful or more careful in fulfilling their duties than we—the disrespect with which those employed at the First Obstetrical Clinic were met on this account by the household people brought forth in me one of those unhappy moods of mind which make life not enviable.
+
+[Printed page 52] Everything was in question. Everything was unexplained. Everything was doubtful. Only the great number of the dead was an undoubted reality.
+
+The reader can form a concept of my helplessness during my first period of service when I tell him that, like a drowning man who clutches at a straw, I abolished the dorsal position customary in deliveries at the First Obstetrical Clinic and introduced the lateral position in its place, for no other reason than because it was customary at the Second Clinic. I did not indeed believe that the dorsal position could be so disadvantageous in comparison with the lateral position that the excess mortality of the First Clinic could be ascribed to it. But at the Second Obstetrical Clinic they delivered in the lateral position and the state of health of the women was better; consequently they should also deliver in the lateral position at the First Clinic, so that everything might happen exactly as at the Second Clinic.
+
+I used the winter of 1846/47 to learn the English language, in order to be able to spend the time that I still had to wait—because my predecessor, Dr. Breit, was to resume the place of assistant physician—for the most part in the great Dublin maternity house. But Dr. Breit was appointed professor of obstetrics at the University of Tübingen at the end of February 1847. Changing my travel plan, I therefore undertook, in company with two friends, on 2 March 1847, a journey to Venice, in order to refresh my mind and spirit at the art treasures of Venice, which had been so badly affected by the experiences in the maternity house.
+
+On 20 March of the same year, a few hours after my return to Vienna, I resumed the place of assistant physician at the First Obstetrical Clinic with rejuvenated strength. But soon the sad news surprised me that Professor Kolletschka, highly revered by me, had died in the meantime.
+
+
+
+Kolletschka
+
+[Printed page 53] The history of the illness is as follows. Kolletschka, professor of forensic medicine, frequently undertook autopsy exercises with his students in forensic matters. At such an exercise he was pricked by a student with the knife that was being used for the autopsy into a finger—which one, I no longer recall.
+
+Professor Kolletschka then got lymphangitis and phlebitis in the corresponding upper extremity, and died during my stay in Venice of bilateral pleuritis, pericarditis, peritonitis, and meningitis. A few days before death a metastasis also formed in one eye.
+
+Still inspired by the art treasures of Venice, and still more agitated by the news of Kolletschka's death, there forced itself upon my mind, in this excited state, with irresistible clarity, the identity of the disease from which Kolletschka had died with that from which I had seen so many hundreds of women in childbed die. The women also died of phlebitis, lymphangitis, peritonitis, pleuritis, pericarditis, and meningitis, and metastases also formed in the women in childbed.
+
+Day and night the image of Kolletschka's disease pursued me, and with ever greater decisiveness I had to acknowledge the identity of the disease from which Kolletschka died with the disease from which I had seen so many women in childbed die.
+
+From the identity of the post-mortem finding in the corpses of the newborns with the post-mortem finding in women who died of childbed fever we earlier concluded—and, as we believe, rightly—that the newborns also died of childbed fever, or, in other words, that the newborns died of the same disease as the women in childbed. Since we met with the same identical products in [printed page 54] the post-mortem finding in Kolletschka as in the women in childbed, the conclusion is likewise justified that Kolletschka died of the same disease from which I had seen so many hundreds of women in childbed die.
+
+The occasioning cause of the disease in Professor Kolletschka was known: namely, the wound inflicted on him with the autopsy knife was at the same time contaminated with cadaverous particles. Not the wound, but the contamination of the wound by cadaverous particles, brought about death. Kolletschka is indeed not the first who has died in this way.
+
+I had to acknowledge: if the presupposition is correct that Kolletschka's disease and the disease from which I had seen so many women in childbed die are identical, then in the women in childbed it must be produced by the same generating cause by which it was produced in Kolletschka. In Kolletschka the generating cause was cadaverous particles, which were brought into his vascular system. I had to put to myself the question: Are cadaverous particles also brought into the vascular system of the individuals whom I saw die of an identical disease? To this question I had to answer: Yes.
+
+With the anatomical direction of the Vienna medical school, the professors, assistants, and students frequently have occasion to come into contact with corpses. That after the ordinary manner of washing the hands with soap the cadaverous particles adhering to the hand are not all removed is proved by the cadaverous smell that the hand retains for a longer or shorter time.
+
+In the examination of pregnant women, of labouring women, and of women in childbed, the hand contaminated with cadaverous particles is brought into contact with the genitals of these individuals. Thereby the genitals of these individuals are brought into contact with cadaverous particles. Thereby the possibility of resorption is given, and by means of resorption the introduction of cadaverous [printed page 55] particles into the vascular system, and thereby the same disease as in Kolletschka.
+
+
+
+The chlorine washings and the first returns
+
+If the presupposition is right—that the cadaverous particles adhering to the hand produce in women in childbed the same disease that the cadaverous particles adhering to the knife produced in Kolletschka—then, if by a chemical action the cadaverous particles on the hand are completely destroyed, and therefore in examinations of pregnant women, labouring women, and women in childbed only the fingers, and not at the same time cadaverous particles, are brought into contact with their genitals, this disease must be preventable in the measure in which it was conditioned by the action of cadaverous particles by means of the examining finger.
+
+This seemed to me beforehand all the more probable because the fact was known to me that decomposed organic substances, brought into contact with living organisms, may call forth a process of decomposition in them.
+
+To destroy the cadaverous particles adhering to the hand, I used—without, however, remembering the day—from about the middle of May 1847, Chlorina liquida, with which I and every student had to wash our hands before the examination. After some time I left Chlorina liquida because of its high price and went over to the considerably cheaper chlorinated lime.
+
+In the month of May 1847, in the second half of which the chlorine washings were first introduced, there still died 36, or 12.24 percent, of 294 women in childbed. In the remaining seven months of the year 1847 the mortality relation among the women cared for at the First Obstetrical Clinic was as follows.
+
+
+
+Return for June–December 1847, after the introduction of chlorine washings
+
+Editorial note: this return is unnumbered in the German. Percentages are recomputed from the counts.
+
+1847, June — 268 births, 6 deaths, 2.24 percent.
+
+1847, July — 250 births, 3 deaths, 1.20 percent.
+
+1847, August — 264 births, 5 deaths, 1.89 percent.
+
+1847, September — 262 births, 12 deaths, 4.58 percent.
+
+1847, October — 278 births, 11 deaths, 3.96 percent.
+
+1847, November — 246 births, 11 deaths, 4.47 percent.
+
+1847, December — 273 births, 8 deaths, 2.93 percent.
+
+[Printed page 56] Thus, of the 1,841 women in childbed cared for within seven months, 56 died—3.04 percent.
+
+In the year 1846, in which the chlorine washings were not yet in use, there died at the First Obstetrical Clinic, of 4,010 women cared for, 459—that is, 11.4 percent. At the Second Clinic there died in the year 1846, of 3,754 women, 105—that is, 2.7 percent. [Editorial check: 105 of 3,754 is 2.80 percent; the German percentage is retained here and the discrepancy is recorded in the production notes.]
+
+In the year 1847, when toward the middle of May the chlorine washings were introduced, there died at the First Clinic, of 3,490 women cared for, 176—that is, 5.0 percent. At the Second Clinic there died, of 3,306 women delivered, 32—that is, 0.9 percent. [Editorial check: 32 of 3,306 is 0.97 percent.]
+
+In the year 1848, when during the whole year the chlorine washings were diligently practised, there died of 3,556 women, 45—1.27 percent. At the Second Clinic there died in the year 1848, of 3,219 women delivered, 43—that is, 1.33 percent.
+
+The individual months of the year 1848 at the First Clinic were as the following table shows.
+
+
+
+Table XVI — First Clinic, 1848
+
+Editorial note: counts follow the German table; percentages are recomputed from those counts.
+
+1848, January — 283 births, 10 deaths, 3.53 percent.
+
+1848, February — 291 births, 2 deaths, 0.69 percent.
+
+1848, March — 276 births, 0 deaths, 0.00 percent.
+
+1848, April — 305 births, 2 deaths, 0.66 percent.
+
+1848, May — 313 births, 3 deaths, 0.96 percent.
+
+1848, June — 264 births, 3 deaths, 1.14 percent.
+
+1848, July — 269 births, 1 death, 0.37 percent.
+
+1848, August — 261 births, 0 deaths, 0.00 percent.
+
+1848, September — 312 births, 3 deaths, 0.96 percent.
+
+1848, October — 299 births, 7 deaths, 2.34 percent.
+
+1848, November — 310 births, 9 deaths, 2.90 percent.
+
+1848, December — 373 births, 5 deaths, 1.34 percent.
+
+Total for 1848 — 3,556 births, 45 deaths, 1.27 percent.
+
+[Printed page 57] In the year 1848 there thus occur two months, namely March and August, in which not a single woman in childbed died.
+
+In the year 1849, in the month of January there occurred 403 births, of which 9 died—that is, 2.23 percent. In the month of February there took place 389 births; of these 12 died—that is, 3.08 percent. In the month of March there occurred 406 births; of these 20 died—that is, 4.93 percent. [Editorial check: these three percentages are recomputed from the counts; the old printed percentages are partly cut off or misread in the scan OCR and are recorded in the production notes.]
+
+From the 20th of this month my successor, Dr. Carl Braun, served as assistant.
+
+We have mentioned above that the commissions sent out to determine the cause of the greater mortality at the First Obstetrical Clinic in comparison with the Second blamed now one, now another, now several of the above-cited endemic causes as those that produced the greater mortality prevailing at the First Obstetrical Clinic. Measures suitable to them were taken accordingly, without its having succeeded in confining the mortality at the First Obstetrical Clinic within the limits within which it also [printed page 58] occurred at the Second Obstetrical Clinic. From this lack of success the justified conclusion was drawn that the causes blamed by the commissions were not the causes which in reality produced the greater mortality at the First Obstetrical Clinic.
+
+I presupposed that the cadaverous particles adhering to the examining hand of the obstetrician were the cause of the greater mortality at the First Obstetrical Clinic. I removed this cause by the introduction of the chlorine washings. The success was that the mortality at the First Obstetrical Clinic was confined within the limits within which it also occurred at the Second, as the numbers cited above show. The conclusion is therefore also justified that the cadaverous particles adhering to the hand in reality produced the excess mortality at the First Obstetrical Clinic.
+
+Since the chlorine washings were brought into use with so strikingly favourable a success, not the slightest change was made in the conditions of the First Obstetrical Clinic to which one could ascribe a share in the diminution of the mortality.
+
+The system of instruction with the midwives is so constituted that neither those teaching nor those learning have so frequent occasion to contaminate their hands with cadaverous particles as is the case in the instruction of physicians. Hence the smaller mortality at the Second Obstetrical Clinic.
+
+The unknown endemic cause that wrought such terrible devastations at the First Obstetrical Clinic was therefore found in the cadaverous particles adhering to the hands of the examiners at the First Obstetrical Clinic.
+
+
+
+The carrier is not only the cadaver
+
+To destroy the cadaverous particles adhering to the hand, every examiner, on his entrance into the delivery room, had to wash his hands in the chlorinated-lime solution. [Printed page 59] And since the students on the delivery room had no opportunity to contaminate their hands anew with cadaverous particles, I held it sufficient if the students washed their hands once in a chlorinated-lime solution.
+
+Because of the great number of births occurring in a year at the First Obstetrical Clinic, it very seldom happens that only one labouring woman is on the delivery room; as a rule several are present at the same time. For the purpose of instruction all the labouring women were examined in a row, just as they lay beside one another. I held it sufficient to have the hand washed with soap water after every examination before the next was examined. I held washing with chlorine water between every two examinations to be superfluous, because on the delivery room, after the hand had once been cleansed of the cadaverous particles adhering to it, one cannot contaminate it again with cadaverous particles.
+
+In the month of October 1847 a labouring woman suffering from ichorous medullary cancer of the uterus was admitted. Bed No. 1, at which the visit always began, was assigned to her as her delivery bed.
+
+After the examination of this labouring woman we examiners washed our hands only with soap. The consequence was that, of twelve women delivered at the same time with her, eleven died. The putrid discharge of the ichorous medullary cancer was not destroyed by the soap water. Through the examinations the putrid discharge was transferred to the other labouring women, and childbed fever was thus multiplied.
+
+Thus not only the cadaverous particles adhering to the hand, but also putrid discharge arising from living organisms, produce childbed fever. The hands of the examiner must therefore, not only after occupation with cadavers, but also after examinations of individuals in whom the hand can be contaminated with putrid discharge, likewise be washed in [printed page 60] chlorine water before proceeding to the examination of a second individual.
+
+This rule, taken from this sad experience, we observed thereafter, and childbed fever was no longer spread by transfer of the putrid discharge from one individual to another by means of the examining finger.
+
+The carrier of the cadaverous and putrid-discharge particles by which childbed fever was produced at the First Obstetrical Clinic was the examining finger.
+
+A new sad experience convinced us that the carrier of the decomposed organic substances that produce childbed fever can also be the atmospheric air. In the month of November of the same year an individual with ichorous caries of the left knee joint was admitted. In her genitals this individual was completely healthy, so that the finger that examined her remained harmless for the other individuals. But the ichorous exhalations of the carious knee joint were so considerable that the air of the lying-in room in which this individual spent her childbed was in a high degree impregnated with them. Thereby childbed fever was produced in her fellow women in childbed to such a degree that almost all the women in childbed who were in the rooms died.
+
+The reports of the First Obstetrical Clinic show in the month of November 11 and in the month of December 8 deaths, which for the most part were produced by the ichorous exhalations of the above-named individual.
+
+The atmospheric air of the lying-in room, impregnated with putrid-discharge particles, penetrated through the genitals—gaping after the birth—into the cavity of the uterus. There the putrid-discharge particles were resorbed, and thereby childbed fever was produced. In the future, by separating such individuals, a similar misfortune was prevented.
+
+[End of Installment I. The German continues at printed page 61.]
+
+
+* * *
+
+
+
+REFERENCES
+
+[1] Ignaz Philipp Semmelweis, Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers (Pest, Wien und Leipzig: C. A. Hartleben's Verlags-Expedition, 1861). Bayerische Staatsbibliothek / Münchener DigitalisierungsZentrum, digital object `bsb10860445`; title leaf, scan leaf 5; preface dated Pest, 30 August 1860, scan leaf 10; installment at printed pp. 38–60, scan leaves 48–70.
+
+[2] Bruno Bauer, "Semmelweis, Ignaz Philipp (Ignác Fülöp)," in Neue Deutsche Biographie 24 (2010), pp. 239–241, online edition, Deutsche Biographie: http://www.deutsche-biographie.de/downloadPDF?url=sfz80024.pdf
+
+[3] "Ignaz Semmelweis: a victim of harassment?" SpringerMedizin (4 March 2020), open access: https://www.springermedizin.at/ignaz-semmelweis-a-victim-of-harassment/17771556
+
+[4] Vanessa Ravel, Chandini Pandiyan, and Krupa Chandran, "Ignaz Philipp Semmelweis (1818–1865) — a public health visionary and champion of hand hygiene," GMS Hygiene and Infection Control 20 (2025): https://books.publisso.de/de/publisso_gold/export/pdf/article/5427/dgkh000608.pdf
+
+[5] K. Codell Carter, ed. and trans., The Etiology, Concept, and Prophylaxis of Childbed Fever (University of Wisconsin Press, 1983), xii + 263 pp.; described by its publisher's archive record as "judiciously abridged": https://archive.org/details/etiologyconcepta0000unse — Check-only for this edition; not used as a base or crib. Frank P. Murphy's 1941 Medical Classics translation is likewise check-only and was not used as a base or crib.
+
+
+
+EDITORIAL STATUS AND LIMITS
+
+This is a draft installment, not a completed edition of Semmelweis's book and not medical guidance. It is a historical translation of a nineteenth-century argument in that argument's own terms.
+
+No claim is made that this is the first English translation of Semmelweis. Murphy 1941 and Carter 1983 bar any such claim. The warranted wording is narrower: no complete, unabridged, free English text of this evidentiary core was found after the research recorded in the production notes.
+
+No retrospective diagnosis of Semmelweis's final illness is asserted. No claim is made that he was murdered. The asylum death is stated with its established date and septic character, and with the wound-origin dispute left open.
+
+The tables in this installment have been checked arithmetically from the counts transcribed from the German scan, but they have not yet had independent medical-historical review. The review gate remains part of the edition, not a decoration after it.

@@ -1,0 +1,249 @@
+GENERAL THEORY OF EQUATIONS: THE PRELIMINARY DISCOURSE AND THE OPENING CHAPTERS
+
+
+
+DRAFT — not the finished text
+
+This fascicle is a working draft prepared as part of Robert Tilford's Rare & Obscure Books series — the Boneyard: rescuing the unfinished and unread works of scholars whom death, disgrace, or silence cut off, and shelving them under their own names. It was prepared with AI assistance under the editor's direction; the translation is a working draft, AI-assisted and human-directed, released with that disclosure attached. Source: Paolo Ruffini, Teoria generale delle equazioni (Bologna: Stamperia di S. Tommaso d'Aquino, 1799), public domain, ETH-Bibliothek Zürich, e-rara, DOI 10.3931/e-rara-15207. No English translation of this work, whole or in substantial part, was found after research; that is the strongest claim this edition makes, and it makes no other. Nothing here is published or shelved by this draft alone; it waits the editor's word — and, before any claim of readiness, review by a reader competent in modern algebra.
+
+> For Paolo Ruffini of Modena (1765–1822), physician and mathematician, who proved that the great door does not open, and was left standing before it unheard — that his own words might at last be read in the language of those who came after.
+
+From the labors of Paolo Ruffini (1765–1822).
+
+
+* * *
+
+
+
+THE MAN WHO STOOD BEFORE THE DOOR
+
+
+
+Paolo Ruffini of Modena (1765–1822)
+
+Paolo Ruffini was born at Valentano on 22 September 1765, the son of a physician, and the family removed to Modena, where he spent the rest of his life. At the University of Modena he studied medicine, philosophy, literature, and mathematics; while still a student he was entrusted with his teacher Paolo Cassiani's lectures on the foundations of analysis, and in 1788, at twenty-three, he took degrees in philosophy, medicine, and mathematics and was appointed professor of the foundations of analysis. In 1791 he assumed the chair of elementary mathematics, and in the same year was licensed to practise medicine — which he did, among his Modenese, all his life.
+
+His circumstances turned on an oath. When the French invasion of 1796 rearranged Italy, Ruffini was appointed, against his wishes, to the Junior Council of the Cisalpine Republic; relieved of that duty, he then refused to swear allegiance to the republic without the qualification his conscience required, and was dismissed from teaching and from public office. With the Austrian return in 1799 he was restored. He declined a call to Pavia rather than abandon his medical practice. In 1814, when Francesco IV re-established the University of Modena, Ruffini was made rector, and professor of practical medicine and applied mathematics. During the typhus epidemic of 1817 he gave himself to his patients, caught the disease, recovered — and, the record says, never regained his strength. He died at Modena on 10 May 1822. Whether the typhus of 1817 was the direct cause of his death five years later is not certified by the sources consulted here, and this edition does not assert it.
+
+Why does his work matter? Because Ruffini was right, and the way he was right built a science. For two centuries mathematicians had hunted a formula — built only of the arithmetic operations and root-extractions — that would solve every equation of the fifth degree, as such formulas solve the second, third, and fourth. Ruffini announced in 1799 that no such formula exists, and he proved it by a new road: by studying how the roots of an equation may be permuted, and what functions of the roots those permutations leave unchanged or change. The machinery he forged for that proof — permutations of roots, the order of a substitution, functions taking few values under permutation — is the seed of what we now call group theory. Cauchy's permutation memoirs of 1813–1815 grew from it; Abel's proof of 1824 and Galois's theory stand on the same ground. The theorem the world now teaches is named the Abel–Ruffini theorem.
+
+The honesty of this edition requires the qualification at once: Ruffini's proof has a real gap. He assumed that the radicals appearing in a supposed solution could themselves be expressed, by field operations alone, from the roots of the equation — in modern language, that those radicals lie in the equation's splitting field. That assumption is true for general equations, but it had to be proved; Abel proved it, with his theorem on natural irrationalities, and so completed the demonstration in 1824. Ruffini's own contemporaries mostly did not answer him at all: Lagrange never replied; the Paris Academy would not take the memoir up; he revised and re-argued the proof in 1803, 1806, and 1813, against the objections of Malfatti and Fontana and against a wall of silence. One great contemporary did answer. Cauchy studied Ruffini, was persuaded, and in a letter of 1821 told him that his memoir on the general solution of equations proved conclusively the algebraic insolubility of general equations above the fourth degree. Ruffini died the following spring. The acknowledgment arrived in time; the audience did not.
+
+Robert Tilford's rescue mission exists for exactly this man: a problem chased for two hundred years, a scholar who got so close that the finish line carries his name first, and a great book that has waited since 1799 in its own language while the world cited the theorem and skipped the text. This fascicle begins the rescue at the book's own beginning: Ruffini's declaration of his theorem, his general theory of functions of permuted quantities — the ground-floor of his permutation argument — and his derivation of the relations between an equation's coefficients and its roots, on which everything after stands. Where the remaining chapters wait, and what each will require, is mapped in the editor's notes that accompany this draft. The reader who would go further in English goes next to Abel's 1824 memoir (translated), to Cauchy's permutation papers, and to the MacTutor biography of Ruffini; in Italian, to the rest of this book, and to the posthumous Opere matematiche (Bortolotti's edition, 1953–54), which this edition consults as a witness and quotes nowhere.
+
+
+* * *
+
+
+
+OF THIS EDITION
+
+This installment translates, in order: the Preliminary Discourse (Discorso preliminare, printed pp. III–VIII), in which Ruffini states his theorem and maps his twenty chapters; Chapter First, On Functions in General (Capo Primo, §§1–16), his theory of functions of several quantities and of their behaviour under permutation; and Chapter Second, General Properties of Equations (Capo Secondo), §§17–32, in which he establishes the general form of an algebraic equation, its factorisation into root-binomials, and the relations between the coefficients and the roots (what later texts attach to the names of Viète and Newton). It stops at §32, at a joint Ruffini himself makes; §§33 onward — the power-sums and the Newtonian theorems proper — are the next installment.
+
+The translation is made from the text of the 1799 edition, not from any modern rendering; none being available to copy, none was copied. Ruffini's long sentences are kept where English bears them and divided where it does not; his numbered sections (§§) are his; bracketed words are the translator's clarifications. His notation f(x), (x)(y) and the like is preserved in Chapter First, because the notation is itself part of his argument about permutation. In Chapter Second his root-letters α, β, γ, δ … ω are restored where the scan's letterpress is clear.
+
+One warning, printed here rather than buried: Ruffini's proof of the impossibility theorem stands in his Chapter Thirteenth, which this installment does not reach, and it contains the gap described above. Nothing in this fascicle should be quoted as "Ruffini's complete proof." What is proved completely, in the pages that follow, is the elementary groundwork — and the reader can watch, in Chapter First's classification of functions by how they behave under permutation, the central idea of the whole theory being born in plain sight.
+
+
+* * *
+
+
+
+PRELIMINARY DISCOURSE
+
+The algebraic solution of general equations of degree higher than the fourth is always impossible. Here is a theorem too important in mathematics, which I believe — if I do not err — that I can assert, and whose demonstration is what chiefly moved me to the publication of the present volume.
+
+The immortal Lagrange, in his sublime Reflections on Equations inserted in the Acts of the Berlin Academy, furnished the foundation of my demonstration; it was therefore fitting, for its greater intelligibility, to preface it with a summary of those Reflections.
+
+Besides the theorem mentioned, as I have been given to determine various other things concerning equations, and to gather others especially from the illustrious Lagrange, I thought it well to join everything together and give it to the light together. But the necessary order of such materials demanded a certain distribution: that which a Theory of Equations carries with it seemed certainly the most opportune; I adopt it, then, and flatter myself that I present to the public a general Theory of Equations adorned with the most recent discoveries and, so far as I know, the most complete so far.
+
+The whole work is divided into 20 chapters. Having set out in Chapter 1 some notions on functions in general, in Chapters 2, 3, 9, and 10 I present the principal properties of equations. In Chapters 4, 5, 6, 7, and 8 are comprised the methods of performing transformations, eliminations, and reductions. Chapters 11 and 12 contain the solution, both a posteriori and a priori, of equations of the 3rd and 4th degree. Chapter 13 demonstrates the impossibility of the algebraic solution of general equations of degree greater than the 4th. In Chapters 14, 15, 16, and at the end of the 20th, I speak of equations capable of being reduced to others of lower degree, and the methods are set out for obtaining such a lowering. Chapters 17, 18, 19, and 20, finally, teach the manner of solving, by approximation and by series, equations both numerical and literal, determinate and indeterminate.
+
+The things which, beyond the theorem mentioned, I flatter myself I present as not wholly devoid of novelty are the following.
+
+1. A general formula of functions, found in Chapter 1, and the method by which, by means of it, all the properties of equations depending on the general relation of the coefficients with their roots are demonstrated in Chapter 2.
+
+2. The summary of the two famous memoirs of Lagrange comprising the Reflections on Equations mentioned above. This is contained in Chapters 5, 8, 12, 15, and in the first part of [Chapter 1], and is joined with clarifications and further reflections of my own.
+
+3. The consideration, in Chapters 7, 8, 12, 16, of the irrational functions passed over by the illustrious author in the memoirs indicated.
+
+4. Some considerations made in Chapter 7 on the elimination of one, two, or more unknowns from a corresponding number of equations, from which, by Lagrange's method, it appears that one can always determine exactly the final equation.
+
+5. A demonstration in Chapter 8, very simple and independent of the differential calculus, of how the value of the fraction 0/0 is determined, while it depends on functions of a single rational variable.
+
+6. The demonstration of the necessity of the irreducible case, by whatever road one takes in the algebraic solution of the general equation of the 3rd degree; and this is contained in Chapter 12.
+
+7. The solution in Chapter 18, by series, of the indeterminate algebraic equations proposed by the illustrious Cramer in his Introduction to the Analysis of Curved Lines, but made fully algebraic — the analytic triangle and parallelogram excluded, and Lagrange's principle introduced for determining infinities and infinitesimals of the same order.
+
+8. A method of solving determinate algebraic equations by series. This occupies Chapter 19; and in the same chapter are contained a formula, and an expeditious manner, for raising to any power whatever the polynomial L + Mx + Nx² + Px³ + ….
+
+9. A manner, in Chapter 20, of solving by series, by means of continued fractions, any algebraic equation whatever, determinate or indeterminate: this method, however, coincides with that which Lagrange gives us for the integration by approximation of differential equations.
+
+10. A collection, finally, and a reduction of almost all the principal observations and demonstrations which our immortal Lagrange set out in various memoirs concerning the various general theorems of equations.
+
+
+* * *
+
+
+
+CHAPTER FIRST — ON FUNCTIONS IN GENERAL
+
+§1. By the name of function of one or of several variables we mean any analytical expression whatever in which the variable, or the variables, are contained alone or joined with constant quantities; thus x³ and a z³ will be two functions, the first of the variable x, the second of z; and a x³ − z²/a will be a function of both variables x, z.
+
+§2. To indicate in general any function whatever of one or of several variables, we are accustomed to use the letter f and the parenthesis; thus f(x) means any function whatever of x; f(x)(y) expresses any one of x, y; and f(x)(y)(z) one of x, y, z.
+
+§3. Considering, however, the different particular functions, we mark them with the parenthesis in different ways. For: (1) either the function changes value under the permutation among themselves of the variables contained in it — as a x³ − z²/a, which changes under the permutation of x into z, the result becoming a z³ − x²/a, a quantity in general quite different from a x³ − z²/a; (2) or the function always keeps the same value under whatever permutation is made among the variables — as is seen to happen in the expressions a x y, x³ + y³ + z³, whose value stays always the same under any permutation practised among the indeterminates; (3) or finally, as is seen in the three expressions x²y + z, z/y + x, xy + zu/y, our function keeps itself the same under some permutations, and changes under others.
+
+In the first of these cases the function is marked as indicated in the preceding number; thus a x³ − z²/a will be marked by f(x)(z); and in general, since a x³ − z²/a is not a z³ − x²/a, we shall not correspondingly have f(x)(z) = f(z)(x).
+
+In the second case the variables, separated by commas, are placed between only two parentheses, and we shall have therefore a x y = f(x, y); x³ + y³ + z³ = f(x, y, z); whence it results that f(x, y) = f(y, x) = f(y, z) = … etc.
+
+In the third case, lastly, if the function is like x²y + z, it will be marked by f(x, y)(z); if it is like z/y + x, which stays the same only under the simultaneous change of x into z and of y into the [corresponding letter], it will be marked by f((x)(y), (z)(u)); and if finally the function, such as z y + z u [a function unchanged under the permutation of both x, y into both z, u, and of x into y and z into u], it will then be expressed by f((x, y), (z, u)).
+
+§4. We shall call similar functions all those which are represented by one and the same general expression, and dissimilar those which are represented by different expressions. Thus the two functions x + y + z³/a, x + y + ⅓z³ [as printed] will be similar to each other, both being represented by the general expression f(x, y)(z) (no. 3 above); and the two a x z − b y², a x + a y will be dissimilar to each other, the first being comprehended under f(x)(y)(z) (1st case of the preceding no.), the second under f(x, y) (2nd case).
+
+§5. Particular functions, according to the different form under which they enclose the variables, are distinguished into different species. Some are called integral [whole], as are a x² + b z and x/a − y, functions both, in which the variables are not in a state of division [i.e., no variable stands in a denominator]; and others are called fractional, as is (a + b)/x, since in it at least one variable exists in the denominator. Functions are further distinguished into rational and irrational: rational, those in which no variable exists under any radical, as the preceding and the others a x³ − b, x²z + y − a√b; and irrational, those which under some radical bond necessarily contain some variable, as precisely are a√x, a∛(x z) + b√y. All these functions, whose form is already known, are called explicit; the name implicit is given to those whose form and value, not yet known, depend on the solution of an equation. Given for example [the equation] y² = a² − x², whence comes y = √(a² − x²), the y will equal a function of x; but if we consider the equation y² − a² − x² = 0 without solving it, not knowing as yet what value and form the function of x corresponding to y has, we shall say that in such a state our y is an implicit function of x; we shall then give it the name of explicit function when, the equation being solved, we find y = ±√(a² − x²).
+
+§6. Functions are finally divided into uniform [single-valued] and multiform [many-valued]. Uniform are those which, for every value of the variables contained, never acquire more than a single value: in the equations y = a x + b, y = a x − b/z, the y is a uniform function in the first case of x, in the second of x and z. But if for every value of the variables the function acquires more than one value, it is then called multiform: since in y² = a² − x², and therefore in y = ±√(a² − x²), for every value of x the y acquires two values, it will be a multiform function, and more properly a biform function — for the multiform functions are distinguished into biform, triform, quadriform, etc., according as for every value of the contained variables the function acquires two, three, four, etc., different values.
+
+§7. Up to now we have considered the functions of variables, and their differences; but if a given analytical expression is composed of constant quantities alone, without any variable, as 3a² + 4bc, we shall give it too the name of function, but of constant function; and denoting it in the same manner as in nos. 2–3 we shall form of it the same distinctions as of the others (nos. 4–6); thus the preceding 3a² + 4bc will be f(a)(b, c) [as marked in the original].
+
+§8. Let us suppose any function whatever among the quantities r, s, t, u … z, which we shall call Y, so that
+
+(A) Y = f(r)(s)(t)(u) … (z).
+
+Since in it, generally speaking, some terms contain the r and others are free of it, let us indicate the union of all the first with the expression r|Y, and by the other, Y with a mark over the r, let us suppose represented the union of all the second; likewise let s|Y express to us the sum of all the terms of Y which contain the s, and the corresponding marked Y all the others which are free of it; the expression r t|Y shall indicate the aggregate of all the terms which together contain both the r and the t; the other, with the marks joined, shall represent all the terms which, containing the r, are free of the t; and so on with respect to the other variables.
+
+If, for example, Y = r³x² − r²st + rstu − ½s²tx + 4hx² [reading the printed example so], there will come r|Y = r³x² − r²st + rstu; the part free of r = −½s²tx + 4hx²; the part containing both r and t = −r²st + rstu; the part containing r and not t = −¼r²st − 2s²tx [as printed]; the part containing t and not r = r³x², etc., etc.
+
+§9. This manner of writing being supposed, since by summing together all the terms of Y which lack the r with all those which contain it there results Y itself, it is clear that we shall have
+
+(I) Y = (part free of r) + r|Y.
+
+Now among the terms which contain the r, expressed by r|Y, some contain the s and others are free of it; joining therefore these to those, since there results r|Y = (its part free of s) + (rs)|Y, we shall obtain by substitution
+
+(II) Y = (free of r) + r|(free of s) + (rs)|Y.
+
+Again, among the terms of the second part some lack the t and others do not; whence that part equals its t-free portion plus the (rst) portion; therefore, substituting, we shall derive
+
+(III) Y = (free of r) + r|(free of s) + (rs)|(free of t) + (rst)|Y.
+
+In the same way we shall find
+
+(IV) Y = (free of r) + r|(free of s) + (rs)|(free of t) + (rst)|(free of u) + (rstu)|Y;
+
+and proceeding so to operate as far as the last quantity z, there will result for us
+
+(B) Y = (free of r) + r|(free of s) + (rs)|(free of t) + (rst)|(free of u) + … + (rstux…z)|Y.
+
+§10. If the supposed function Y is such that in all its terms it contains the r — as if Y = rsz − r²st + rs²x − r³ — then, the r-free quantity not existing, the preceding formula (I) will become Y = r|Y. But if all the terms of Y, beyond the r, contain together also the s — as if we have Y = r²s − r⁴s + 5x − rszt [as printed] — then, the r-free and the r-only quantities vanishing, the formula (II) will become Y = (rs)|Y. Equally, if in Y there is no term free of any one of the three quantities r, s, t, we shall find that formula (III) becomes Y = (rst)|Y, and so onward; whence (B) will change into Y = (rstux…z)|Y, if there is not in Y any term which does not together contain all the quantities r, s, t, u, x … z.
+
+§11. If any quantity Z becomes zero while any variable r is made zero, that Z must necessarily contain, and consequently be a function of, the variable r; otherwise, if Z were independent of r, how could it vanish on making r = 0? But if, beyond that of r, also in the supposition s, t, u, etc. = 0 the Z becomes zero, Z must for the same reason contain the variables s, t, u, etc., and will therefore be Z = f(r)(s)(t)(u) … etc.
+
+§12. Let there be a quantity Y, integral and rational, and such that it becomes zero on making equal to zero any one of the variables r, s, t, u, etc.; in that supposition I say that it must be Y = (rstu…z)|Y.
+
+By the preceding number we have Y = f(r)(s)(t) … (z), and therefore Y = (free of r) + r|(free of s) + (rs)|(free of t) + (rst)|(free of u) + … + (rstu…z)|Y (no. 9); but Y being an integral quantity, it is clear that this is a function in which the terms of the successive parts must contain the r in the form of multiplication; the later terms must all be multiplied by t, and so in progress; therefore if in the expansion we make r = 0, all the terms containing r vanishing, we shall obtain Y = (its r-free part); but by hypothesis, when r = 0 it must follow that Y = 0, while for that supposition the r-free part can never become zero, since it contains no r at all; therefore, in order that in reality, on making r = 0, there result Y = 0, the r-free portion must be altogether absent from the proposed formula, and we shall therefore have Y = r|(free of s) + (rs)|(free of t) + …. Let us presently suppose s = 0: there will come Y = r|(its s-free part); but under that hypothesis this cannot be 0; and meantime there must result Y = 0; therefore, in order that this happen, the term in question must also be missing from our formula, and therefore we shall have (rs)|(free of t) + (rst)|(free of u) + … for the value of Y. Proceeding in the same manner of reasoning as far as the last quantity z, we shall find in the same way that in our supposition all the terms short of the last must be missing from Y, and hence there will remain Y = (rstu…z)|Y. Which was to be demonstrated.
+
+§13. Our Y must therefore contain only terms which are multiplied by the product of all the above-named variables r, s, t, u … z, whence we shall have Y = rstu…z · S, S representing the aggregate of all the terms above mentioned.
+
+§14. Let now the variables r, s, t, u … z be n in number, and let m represent their maximum dimension in Y. It will be seen, this being granted, that in our hypothesis m < n can never hold. But if we have m = n, then the S will not be able to contain any of the variables r, s, t, u … z; and if m > n, so that m − n is some positive number, S must be a function of some, or of all, of these variables, m − n expressing their maximum dimension in it.
+
+§15. Let us suppose that Y = rstu…z·S cannot become zero except when some one of the n variables r, s, t, u … z is made zero. In such a case I say that the S either will be a constant — and this if n = m (preceding no.) — or will be equal to a single term formed from the product of all, or of some, of the supposed n variables, repeated once or more times for a number p of dimensions — and this while m > n (preceding no.). For if the thing were otherwise — as if, for example, S = rs²tu − rszt², that is S = rs²t(u − z) — then, S becoming 0 under some other supposition different from that of r = 0, or of s = 0, or of t = 0, etc., or finally of z = 0 — as in our case if one makes u = z — under such a supposition Y would also come to become zero; but this is contrary to the hypothesis. Therefore, etc.
+
+§16. Supposing therefore in our case in general S = M·r^f · s^g · t^h · u^i … z^l, such exponents being all whole and positive numbers, their sum f + g + h + i + … + l = p, and M being a constant, we shall have Y = rstu…z·S = M·r^(f+1) s^(g+1) t^(h+1) u^(i+1) … z^(l+1); and, for greater simplicity, setting f + 1 = a, g + 1 = b, h + 1 = c, …, we shall have Y = M·r^a s^b t^c …, where a + b + c + … = m.
+
+
+* * *
+
+
+
+CHAPTER SECOND — GENERAL PROPERTIES OF EQUATIONS
+
+§17. We already know from algebra what is to be understood by the name of determinate algebraic equation, and which are the quantities that are called its roots. Let there now be proposed, with the unknown x, such an equation, for example
+
+a x⁴ + b x³ + c x² + d x + e [with fractional coefficients, as printed] …
+
+Clearing the fractions in it and transporting all its terms into the first member, there comes (anp − gmn) x⁴ + (ep − bmn …) x³ + dmn·x² − (cmnp + …) x + (fmnp − bm …) = 0; and supposing (anp − gmn) = F, (ep − bmn …) = G, dmn = H, −(cmnp + …) = I, (fmnp − bm …) = K, we shall have from this the equation F x⁴ + G x³ + H x² + I x + K = 0, which is nothing other than the proposed one having all its terms integral, ordered, and placed in the first member. Now what has been said of the preceding equation of the fourth degree is said equally of any algebraic equation whatever of a degree m, m representing any whole and positive number. Therefore such an equation can always be reduced in the same way to the form
+
+(C) F x^m + G x^(m−1) + H x^(m−2) + I x^(m−3) + … + Z = 0,
+
+where the coefficients F, G, H, etc., are all whole numbers. Let us now divide this by F, and having obtained the result x^m + (G/F) x^(m−1) + (H/F) x^(m−2) + (I/F) x^(m−3) + … + Z/F = 0, let us suppose G/F = A, H/F = B, I/F = C, etc.; substituting, there will come the equation
+
+(D) x^m + A x^(m−1) + B x^(m−2) + C x^(m−3) + … + L x^(m−k−1) + M x^(m−k) + … + R x³ + S x² + T x + V = 0,
+
+calling V, T x, S x², etc., its last terms, and denoting by M x^(m−k) any term whatever of it, and by L x^(m−k−1) that which precedes it. It will be nothing other than the same (C), but both the one and the other of these equations derive from any determinate algebraic equation whatever of any degree; therefore to both equally may be given the name of General Determinate Algebraic Equation; and from both equally, attributing to the exponent m and to the coefficients the opportune values, we shall be able to derive the different particular determinate algebraic equations — noting that the coefficients of the first can indeed be supposed to be whole numbers, but not so those of the second.
+
+§18. Since there can exist several roots of a given equation — that is, several quantities real or imaginary which, put in it in place of x, make it verified — let us suppose the roots of (C) all represented by the letters α, β, γ, δ … ω; so that apart from these there is no other quantity capable of making the first member of this equation zero by substitution. This presupposed, let us take the first member of (C), without making it equal to zero, and having called it Y, consider in it the x as variable. We shall thus have the function Y = F x^m + G x^(m−1) + H x^(m−2) + I x^(m−3) + … + Z, where, attributing different values to x, it is clear that different results will come; and when we come to make x = α, x = β, x = γ, etc., the Y will become always, and only in such cases, = 0.
+
+§19. Let, for example, m = 3, F = 5, G = −15, H = −50, I = 120, so that (C) reduces to 5x³ − 15x² − 50x + 120 = 0, an equation of which all the roots are the numbers 2, 4, −3. Let us suppose, as before, Y = 5x³ − 15x² − 50x + 120. Making here x = 1, we shall obtain Y = 5 − 15 − 50 + 120 = 60; making x = 3, we shall obtain Y = 5·27 − 15·9 − 50·3 + 120 = 30; and so onward; but while we suppose x = 2, or x = 4, or x = −3, there always results for us Y = 0 — and it results such only in these cases.
+
+§20. The preceding suppositions being retained, and there being subtracted from the variable x each of the roots α, β, γ, δ … ω, so as to have the binomials x − α, x − β, x − γ, x − δ … x − ω: I say that, whatever x may be, we shall have the function Y equal to a product of the form F (x − α)^a (x − β)^b (x − γ)^c (x − δ)^d … (x − ω)^e, F being the coefficient of the first term in Y, and a, b, c, d … e being all whole and positive numbers, of which the sum is m.
+
+Let us suppose x − α = r, x − β = s, x − γ = t, etc., x − ω = z; and this done, since Y becomes always zero when one makes x = α, or x = β, or x = γ, etc., and therefore while one supposes x − α = 0, or x − β = 0, or x − γ = 0, etc. — that is, r = 0, or s = 0, or t = 0, etc. — it follows from no. 11 that our Y must be = f(r)(s)(t) … (z). But this Y by hypothesis is an integral and rational function of x (nos. 17, 18), and so comes precisely to be a function of the r, s, t, etc., like those of nos. 12–15; therefore, by what was there demonstrated, it must be Y = M·r^a s^b t^c … (no. 16), the letters a, b, c, etc. expressing whole and positive numbers; and so we shall have Y = M (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e.
+
+Now in Y the number m is the maximum exponent of x; and meantime it is clear that, r = x − α, s = x − β, t = x − γ, etc., the maximum dimension of the r, s, etc. cannot be other than the maximum dimension of the x. Therefore by no. 16 it will be a + b + c + … + e = m.
+
+Finally, let us suppose x = 1/u; substituting in Y = F + G u + H u² + I u³ + …, and in Y = M (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, we shall obtain F + G u + H u² + I u³ + … = M (1 − αu)^a (1 − βu)^b (1 − γu)^c … (1 − ωu)^e. But by reason of a + b + c + … + e = m, multiplying the first member of the equation obtained by u^m, and the second member by u^a u^b u^c … u^e factor by factor, we shall obtain F x^m + G x^(m−1) + H x^(m−2) + I x^(m−3) + … = M (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e. Now the preceding equation holds always, whatever x may be; therefore this last must also hold always, whatever u may be, and hence also when one makes u = 0. Performing, then, this last supposition, we shall have F = M·1·1·1 … 1, and therefore M = F. Substituting therefore this value in place of M, and there resulting Y = F (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, it follows that, etc. [the theorem stands proved].
+
+§21. By the preceding number, since we have F x^m + G x^(m−1) + H x^(m−2) + … = F (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, if I divide by F there will come x^m + A x^(m−1) + B x^(m−2) + C x^(m−3) + … = (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, restoring in place of the coefficients G/F, H/F, etc. the letters A, B, etc. (no. 17). Now the functions F x^m + G x^(m−1) + H x^(m−2) + …, x^m + A x^(m−1) + B x^(m−2) + … are nothing other than the first members of the equations (C), (D). Therefore the first of them being = F (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, and the second = (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, whatever x may be, it follows that algebraic equations will always be endowed with the following properties.
+
+1. If α expresses one of the roots of any algebraic equation whatever (C), (D), its first member will always be divisible by the binomial x − α, and this whatever value is attributed to x.
+
+2. Calling α, β, γ … ω all the roots of (C), (D), its first member will not only be divisible by each one of the binomials x − α, x − β, x − γ, etc., but also by their product.
+
+3. There will be as many roots of (C), (D) as there are simple factors x − α, x − β, x − γ … x − ω which enter into the formation of the quantity F x^m + G x^(m−1) + H x^(m−2) + …, x^m + A x^(m−1) + B x^(m−2) + …. And if we have a = 1, b = 1, c = 1 … e = 1, the number of the roots will then be expressed by the maximum exponent m of the proposed equation.
+
+4. In the first member x^m + A x^(m−1) + B x^(m−2) + … = (x − α)^a (x − β)^b (x − γ)^c … (x − ω)^e, as also in the other (of (C)), the leading F removed, the number of the factors equal or unequal among themselves is always m, since m = a + b + c + d + … + e (preceding no.). Considering therefore that there are as many roots, equal among themselves or unequal, of the given equation as there are factors forming it, we may say in general that its maximum exponent m always expresses to us the number of its roots.
+
+§22. According to this consideration we may therefore establish that in a given equation there always exist equal roots whenever any one, or all, of the exponents a, b, c, d … e are greater than unity; and that they all appear unequal if each of the quantities a, b, c, d … be = 1. In this second case, however, in which there results x^m + A x^(m−1) + B x^(m−2) + C x^(m−3) + … = (x − α)(x − β)(x − γ) … (x − ω), it is fitting to reflect that all the roots appear indeed unequal among themselves, and such they in fact are if all the letters α, β, γ … ω express different values to us; but if we have the value of α equal to that of β, the value of α equal to that of β and to that of γ, etc., then also in this last supposition there will exist in the equation equal roots. Therefore, as much in the case in which the exponents a, b, c, etc. are placed according to opportunity greater than or equal to 1, as in the other in which one supposes constantly a = 1, b = 1, c = 1, etc., the roots in the given equation can be equal or unequal among themselves; and hence both the one case and the other will be equally general. Now the supposition a = 1, b = 1, c = 1, etc. succeeds much more conveniently for our further considerations; for such a reason, therefore, sure of the due generality, we shall retain in what follows rather this last supposition, and shall say accordingly that the first member of the given general equation is
+
+(E) x^m + A x^(m−1) + B x^(m−2) + C x^(m−3) + … = (x − α)(x − β)(x − γ)(x − δ) … (x − ω).
+
+§23. Let the first member of (D) be divided by x − α; since the division must come out exact (no. 21), it is clear that the quotient will result of the form x^(m−1) + A′ x^(m−2) + B′ x^(m−3) + C′ x^(m−4) + … + R′ x² + S′ x + T′, calling A′, B′, C′, etc. its coefficients; and by the preceding number we shall have this equal to (x − β)(x − γ)(x − δ) … (x − ω). Now I multiply on the one side and on the other by x, and I see that there results for us x^m + A′ x^(m−1) + B′ x^(m−2) + … + R′ x² + S′ x + T′ x = x (x − β)(x − γ)(x − δ) … (x − ω). But the product x (x − β)(x − γ)(x − δ) … (x − ω) is nothing other than the other (x − α)(x − β)(x − γ)(x − δ) … (x − ω), the quantity α removed; therefore also the function x^m + A′ x^(m−1) + … + R′ x + S′ … + T′ x will be nothing other than the x^m + A x^(m−1) + B x^(m−2) + … with the terms containing α removed from it; and consequently it is clear from no. 8 that we shall have A′ equal to the α-free part of A, B′ to the α-free part of B, …, R′ to the α-free part of R, S′ to that of S, etc.
+
+In the same manner, the first member of (D) being divided by x − β, and the quotient supposed x^(m−1) + A″ x^(m−2) + B″ x^(m−3) + … + R″ x² + S″ x + T″, there must be A″ equal to the β-free part of A, B″ to the β-free part of B, C″ to that of C, etc.; N″ to the β-free part of N, P″ to that of P, etc.; R″ to the β-free part of R, S″ to that of S, etc. In equal mode, expressing by A‴, B‴, C‴, etc. the coefficients of the quotient which results from the division by x − γ, we shall have A‴ equal to the γ-free part of A, B‴ of B, C‴ of C, etc., and so onward.
+
+If each of these quotients is set equal to zero, we shall have so many equations of degree m − 1, each of which will have for roots a number m − 1 of the m quantities α, β, γ, δ … ω.
+
+§24. The last term V of (D) always equals the product α × β × γ × δ × … × ω, taking the sign +, if the degree of the equation is even, and the sign −, if it is odd.
+
+The equation (E) (nos. 20, 22) having to hold whatever x may be, it will also be true when one makes x = 0; I therefore perform such a supposition, and we shall obtain V = (−α)(−β)(−γ)(−δ) … (−ω), that is, equal to the product of the quantities −α, −β, −γ, −δ, …, −ω. Now if the number of the factors x − α, x − β, x − γ, etc. — and therefore the degree m of the equation (D) — is even, such a product comes affected by the sign +; and if it is odd, this comes affected by the sign −. Therefore, following the enunciated rule, we shall have V = ∓ αβγδ … ω [sign as stated].
+
+§25. The coefficient T of the penultimate term T x in (D) is always equal to the sum of the products m − 1 at a time, m − 1 at a time, of the m roots α, β, γ, etc., taken with the sign +, if m − 1 is even, and with the sign −, if m − 1 is odd. [The demonstration, by the same expansion of (E), follows in the original; §§25–32 state and prove in turn each coefficient of (D) as the signed aggregate of the products of the roots taken as many at a time as the term requires.]
+
+§26. Let us suppose we wish to form the sum of all the products three at a time of the five roots α, β, γ, δ, ω. Calling such a sum C, [Ruffini shows, by the substitution argument of §§27–29, that the same rule holds for products taken k at a time of any number of roots: the sum of the products k at a time differs from the corresponding coefficient only by the rule of signs.]
+
+§27–29. [Established in the original: for a sum M of the products k at a time of the roots, the coefficient belonging to the term in which m − k is subtracted from m equals M taken with sign + or − according as m − k is even or odd; the coefficients Q, R, S of the successively higher terms equal respectively the products of the roots m − 4, m − 3, m − 2 at a time, under the same rule of signs.]
+
+§30. Let us reduce (D) to the form x^m + A x^(m−1) + B x^(m−2) + … + R x³ + S x² + T x + V = 0. In this it is seen that in the last term V, where in the exponent of x there is subtracted from m the number m itself, we have the coefficient V equal to the product of all the m roots α, β, γ, δ, etc.; in the penultimate term, in which there is subtracted from m the number m − 1, the corresponding coefficient T equals ± the sum of all the products m − 1 at a time of the same roots; where there is subtracted from m the number m − 2, we have the coefficient S equal to the products all m − 2 at a time, etc. Now the same is observed in all the other terms. Therefore we may say in general that the coefficient of any term whatever is always equal to the aggregate of all the products of the roots α, β, γ, δ, etc. combined as many among themselves as is the number which, in the respective exponent of x, is subtracted from m — observing then whether this number subtracted is even or odd, since in the first case to the aggregate exposed the sign + must be affixed, in the second the sign −.
+
+§31. Accordingly we shall have the coefficient of the second term, A = −(α + β + γ + δ + …), equal to the sum of all the roots taken with the contrary sign. We shall have the coefficient of the third term, B = +(αβ + αγ + αδ + βγ + βδ + γδ + …), equal to the aggregate of all the pairs [ambi] among the roots taken with the natural sign. The coefficient of the fourth term will be C = −(αβγ + αβδ + αγδ + βγδ + …), equal to the sum of all the triples [terni] among the roots taken with the contrary sign; and so onward.
+
+Let there be, for example, the equation x⁴ − 2x³ − 23x² − 12x + 36 = 0, of which the roots are 1, 6, −2, −3. Calling A, B, C, D its coefficients, by what has been demonstrated there must be A = −(1 + 6 − 2 − 3), B = +(1×6 + 1×(−2) + 1×(−3) + 6×(−2) + 6×(−3) + (−2)×(−3)), C = −(1×6×(−2) + 1×6×(−3) + 1×(−2)×(−3) + 6×(−2)×(−3)), D = +1×6×(−2)×(−3); and in fact, the calculation performed, one finds again A = −2, B = −23, C = −12, D = +36.
+
+§32. If the proposed equation lacks some term — as is x³ − 19x + 30 = 0, where the second term is missing — this indicates that the sum which corresponds to the coefficient of the missing term is equal to zero; since we can always write such a term in the equation without disturbing it, affixing zero to it as coefficient. The preceding equation reduces thus to x³ + 0x² − 19x + 30 = 0, and 2, 3, −5 being its roots, we have in fact their sum 2 + 3 − 5 = 0.
+
+[Here the installment ends. In the original, §33 takes up the coefficients of the quotient on division by x − α in earnest, and §§34–41 develop the sums of powers of the roots — the Newtonian theorems. Those sections begin the next installment.]
+
+
+* * *
+
+
+
+REFERENCES
+
+Ruffini, Paolo. Teoria generale delle equazioni, in cui si dimostra impossibile la soluzione algebraica delle equazioni generali di grado superiore al quarto. Bologna: Stamperia di S. Tommaso d'Aquino, 1799. ETH-Bibliothek Zürich, e-rara, DOI 10.3931/e-rara-15207 (base text of this translation; public domain).
+
+Abel, Niels Henrik. Mémoire sur les équations algébriques, où on démontre l'impossibilité de la résolution de l'équation générale du cinquième degré. Christiania, 1824; enlarged memoir, Journal für die reine und angewandte Mathematik 1 (1826). (English translations exist; consulted as check-only for the proof-history note.)
+
+Cauchy, Augustin-Louis. Letter to Ruffini, 1821, acknowledging the Teoria's demonstration; and "Sur le nombre de valeurs qu'une fonction peut acquérir…," Journal de l'École polytechnique 10 (1815) — the permutation memoir Ruffini's work inspired.
+
+MacTutor History of Mathematics. "Paolo Ruffini." University of St Andrews. (Biographical spine: birth 22 September 1765, degrees and chairs, the oath and dismissal, 1814 rectorate, the 1817 typhus, death at Modena 10 May 1822.)
+
+The Catholic Encyclopedia (New York, 1912), s.v. "Paolo Ruffini." (Corroborates the tonsure, the Juniori appointment, the oath refusal and 1799 restoration, the declined Pavia chair, the 1817 epidemic service — "he recovered, he never regained his strength" — and burial in S. Maria di Pomposa.)
+
+Encyclopaedia Britannica, "Quintic equation." (1799 attempt with gaps; Abel's complete proof 1824 — the tiering this edition follows.)
+
+Notices of the American Mathematical Society (2026), article on the history of the quintic. (Ruffini's argument "basically correct but contained lacunae"; Paris rejection; Cauchy persuaded.)
+
+Rosen, Michael I. "Niels Henrik Abel and Equations of the Fifth Degree." American Mathematical Monthly 102 (1995). (The gap specified: Ruffini assumed the radicals in a solution expressible rationally from the roots; Abel's theorem on natural irrationalities proved the needed case.)

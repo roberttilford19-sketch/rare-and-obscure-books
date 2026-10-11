@@ -1,0 +1,253 @@
+
+* * *
+
+title: "José Anastácio da Cunha, Mathematical Principles (1790): Book VIII [cited in the text as Book IX] — Series, Powers, and Logarithms" author: "José Anastácio da Cunha (1744–1787)" series: "The Rare Texts Completion Series — finishing what the dead scholars began, under their own names (Boneyard)"
+
+
+* * *
+
+> DRAFT — NOT YET PUBLISHED. > Prepared new, AI-assisted under editorial direction (Robert Tilford). > This draft has not yet passed the series' expert review gate (a historian of analysis, and a reader of eighteenth-century Portuguese). Mathematical formulas have been re-set in modern notation, the 1790 errata applied (see NOTES.md), and long displays of hand-worked algebra compressed where noted. Do not quote as final.
+
+
+* * *
+
+DEDICATION
+
+To José Anastácio da Cunha of Lisbon (11 May 1744 – 1 January 1787) — artillery lieutenant at Valença do Minho, professor of geometry at Coimbra by the Marquis of Pombal's reform, then prisoner of the Inquisition, then teacher of poor boys at the Real Casa Pia — this English dress of his great book is dedicated, under his own name, as everything in this series is published under the dead scholar's name and no one else's. [Dates and posts: MacTutor biography, University of St Andrews; see References.]
+
+He was born in Lisbon and taught himself mathematics and physics. In 1763 he became a lieutenant in an artillery regiment and served ten years at Valença do Minho, on the northern frontier. When Pombal rebuilt the University of Coimbra, Cunha was made professor of geometry there in 1773. Then the king died (24 February 1777), Pombal fell, and the reaction came for men like Cunha: he was arrested, tried by the Inquisition, and in October 1778 sentenced to three years' imprisonment for being a follower of Voltaire and supporting heretical views. He was freed in 1781 — some accounts say pardoned — with his health ruined. [MacTutor; the pardon is reported, not verified — see NOTES.md.]
+
+His last post was professor of mathematics at the College of São Lucas of the Real Casa Pia in Lisbon — a royal charity school for poor children, housed in the Castle of São Jorge — and it is for the pupils of that school that his Principios Mathematicos ("Mathematical Principles") were composed. The book appeared in parts from 1782; the complete volume came out in 1790, three years after his death, printed in Lisbon by Antonio Rodrigues Galhardo. He died on 1 January 1787, aged forty-two, "full of bitterness, professionally frustrated" in the judgment of his modern biographer João Filipe Queiró — a man the Inquisition had broken in body, and who nonetheless left Portugal a mathematics textbook built like Euclid's Elements: definitions, propositions, proofs, book after book, twenty-one books in all.
+
+Why is this book vital? Because of one paragraph on page 106. There, in 1790, Cunha wrote down what a convergent series is — not as a knack for summing, but as a definition with a tail that can be made as small as you please — and then, rigorously and in order, built powers, roots, the binomial series, and the logarithm on top of it. A generation later Cauchy's Cours d'analyse (1821) made such definitions the foundation of modern analysis. Whether Cunha "anticipated Cauchy" is a scholarly fight this edition reports honestly and does not settle (see the Introduction and NOTES.md); what is not in dispute is that the paragraph is there, in Portuguese, dated 1790, and that the rest of the book earns it.
+
+Readers who want the signposts: A. P. Youschkevitch wrote Cunha's biography for the Dictionary of Scientific Biography and argued his rank among the founders of rigorous analysis; A. J. Franco de Oliveira's "Anastácio da Cunha and the concept of convergent series" (Archive for History of Exact Sciences 39, 1988) is the key modern study of the definition translated here; João Filipe Queiró's "José Anastácio da Cunha: A Forgotten Forerunner" (The Mathematical Intelligencer 10, 1988) is the short English introduction. Gauss himself, writing to Bessel in 1811, remarked approvingly on Cunha's definitions of the exponential and logarithm functions. [MacTutor, summarizing the correspondence; see References.]
+
+This volume stands in Robert Tilford's Rare & Obscure Books series beside the other Boneyard rescues: works by dead scholars, translated or finished at last, and put back into the world under their own names. Cunha waited two hundred and thirty-six years for an Englishing of his most famous pages. No English translation of any part of the Principios was found after research (searches run October 2026); if one exists, the editor will gladly stand corrected.
+
+— The Editor
+
+
+* * *
+
+INTRODUCTION: THE BOOK, THE DEFINITION, AND A WARNING
+
+
+
+The book
+
+Principios Mathematicos, para instrucçaõ dos alumnos do Collegio de Saõ Lucas, da Real Casa Pia do Castello de Saõ Jorge ("Mathematical Principles, for the instruction of the pupils of the College of São Lucas, of the Royal Casa Pia of the Castle of São Jorge"), Lisbon: Antonio Rodrigues Galhardo, 1790. Three hundred and two pages of text in twenty-one "books," an errata list, and twenty-eight plates. Issued in parts from 1782 and completed posthumously in 1790. [Title page and collation verified from the Göttingen scan, SUB Göttingen PPN590888331; publication history per MacTutor.]
+
+The complete Portuguese text is the only safe base. A French translation by João Manuel d'Abreu (Principes mathématiques, Bordeaux: Racle, 1811; reissued Paris: Courcier, 1816) exists, but scholarship warns that it is inaccurate at the crucial place — the definition of convergence — and it is not used anywhere in this edition, even as a check. [MacTutor, on the 1811 translation; Franco de Oliveira 1988, who shows the French text misleads where it matters most.]
+
+This first slice translates pages 100–120 complete: the whole of the series–powers–logarithms treatise, from the signed-quantity conventions through the definition of convergence (p. 106) to the laws of logarithms (p. 120). The remainder of the volume is mapped in NOTES.md.
+
+
+
+A numbering wrinkle the reader must know
+
+In the 1790 printing, the display headings of these pages read LIVRO VIII ("Book VIII"), yet Cunha's own internal citations — "[9. def. 2]," "[9. 4.]," "[9. 1]" — number the same material as book 9, and most modern scholarship follows the citations and calls it Book IX. A. N. Gonçalves, analyzing the Portuguese text in 1940, called it Livro VIII. This edition keeps Cunha's proposition and definition numbers exactly as printed, heads the treatise "Book VIII [cited in the text as Book IX]," and reports the discrepancy rather than silently resolving it. (A second quirk: two successive propositions are both numbered VII, at pp. 114 and 117.) Neither wrinkle is corrected in the errata.
+
+
+
+The famous claim, stated honestly
+
+What Cunha does on page 106 is define a convergent series by the smallness of its tail: continue as far as you like, and what is left over can be thrown away "without appreciable error." Historians have compared this with Cauchy's convergence criterion of 1821. The claim that Cunha anticipated Cauchy was made by Gonçalves (1940); Youschkevitch (1973) contested it, resting much of his case on the faulty 1811 French text; Franco de Oliveira (1988), returning to the Portuguese, proposed reading Cunha's definition through potential infinity and concluded that Cunha's originality is thereby redressed. That three-cornered dispute — claim, dissent, redress — is the honest state of the question; this edition takes no side beyond printing the Portuguese definition, in English, where anyone can judge it. It does not claim that Cunha founded modern analysis, and no sentence here should be quoted as "he beat Cauchy to rigor" without the whole of this paragraph attached.
+
+Note also Cunha's own framing, which the hype usually drops: "Mathematicians call a series convergent when…" — he presents the definition as the received usage of his peers, sharpened and made to work. The originality, such as it is, lies in what he builds on it.
+
+
+
+How this translation was made
+
+Translated fresh from the 1790 Portuguese (Göttingen scan), never from the French. Old spelling is modernized in the English; formulas are re-set in modern notation (Cunha writes aa for a², bbbccc for b³c³, denominators like 2×3×4 for factorials; the sense is unchanged). The 1790 errata list (printed pp. 303–308) has been applied throughout; every application is logged in NOTES.md — including the errata's correction to the definition of a power on page 109, a place where the first printing is simply wrong. Long stretches of hand-multiplied algebra are compressed and marked; nothing mathematical is silently dropped. Where the scan is ambiguous (one line of p. 108), the text says so.
+
+— The Editor
+
+
+
+A few of Cunha's words
+
+grandeza — "magnitude," any quantity, geometric or numeric. serie — series. termo — term. somma — sum. ajuntar — to add, join. tirar — to take away. contrarias — "contrary" magnitudes: our positive and negative. desprezar sem erro notavel — "to disregard without appreciable error," the hinge phrase of the convergence definition. semelhantemente determinados, cada hum pelo numero dos termos precedente — "determined in a like manner, each by the number of the preceding terms": a term-rule, what we would call a general formula for the n-th term. potencia — power; expoente — exponent; raiz — root; base — base (of logarithms); logarithmo — logarithm, defined (p. 119) as the exponent itself. Cunha writes products by repetition (aa, bbbccc) and factorials as chains (2×3×4); both are modernized here, and every modernization is silent only about spelling, never about sense.
+
+
+* * *
+
+BOOK VIII [CITED IN THE TEXT AS BOOK IX]
+
+
+
+Of convergent series, powers, and logarithms
+
+(Principios Mathematicos, Lisbon, 1790, pp. 100–120)
+
+
+
+Warning I
+
+Modern mathematicians, to shorten operations and make expressions easier, substitute for Warnings I and II and Definition III of Book III the following suppositions, definitions, and warnings.
+
+Supposition I. A magnitude whose name is preceded by the sign +, or is not preceded by any sign, is supposed to be destined to be added to some magnitude.
+
+Definition I. And for this reason it is called additive, and also positive, or affirmative.
+
+Supposition II. A magnitude whose name is preceded by the sign − is supposed to be destined to be taken away from some magnitude.
+
+Definition II. And for this reason it is called subtractive, and also negative. [Errata, p. 101: for "defective" read "negative."]
+
+Definition III. Two magnitudes are called contrary to one another if one is affirmative and the other negative.
+
+Supposition III. The sum of two unequal contrary magnitudes is the magnitude that would be called their difference if they were not supposed contrary; and it is contrary to the smaller. By the sum of two equal contrary magnitudes is meant the same as by the word nothing, or by the character 0; and this is treated as if it were the name of some magnitude.
+
+Supposition IV. The excess that one magnitude has over another is what, together with that other, makes a sum equal to the first.
+
+Corollary. To subtract a negative magnitude is the same as to add it after making it positive. For example, A − (−B) is A + B; since A + B, together with (−B), is A.
+
+Supposition V. Magnitudes that are proportional according to the definition of Book III shall always be supposed proportional — except if one antecedent and its consequent are contrary to one another, while another antecedent and its consequent are not contrary to one another.
+
+Corollaries.
+
+1. The product of two contrary factors is negative; of two factors that are not contrary, positive. 2. The quotient: if the dividend and the divisor are contrary, it is negative; if they are not contrary, positive. 3. A negative number cannot have a square root.
+
+Warning [II]. When, with the sign =, or with words, the equality of two magnitudes is denoted without declaring that they are contrary, it is understood that they are not.
+
+
+
+Praxis of the multiplication of indicated sums
+
+Let aa + 2ac − bc and a − b be the factors. aa × a gives aaa; write aaa, as the example set out below shows. 2ac × a gives 2aac; write + 2aac. − bc × a gives − abc; write − abc. Again, aa × −b gives − aab; write − aab. 2ac × − b gives − 2abc; write − 2abc. − bc × − b gives + bbc; write + bbc. The sum of these products is aaa + aa(2c − b) − 3abc + bbc = (aa + 2ac − bc)(a − b). [The worked layout is displayed in tabular form in the original; the errata correct two entries at p. 102. A second, larger example follows (p. 103).]
+
+
+
+Praxis of division
+
+…when in the terms of the dividend and of the divisor (that is, in the magnitudes of which each of them is a sum) one and the same number is repeated several times as a factor. Order both the dividend and the divisor with respect to that number: that is, write as first term the one in which the number is repeated most often as a factor; the second term is the one in which the number is repeated as a factor as many times as in the first, less one; and if such a term is lacking, write 0 in the second place; the third term is the one in which the number is repeated as a factor as many times as in the first, less two; and if such a term is lacking, write 0 in the third place; and so on. Then proceed in the style of the division taught in Proposition XVI of Book III, as the following examples show. [A long worked example of polynomial division occupies pp. 104–105, performed twice over, the terms ordered first by one letter and then by another; the errata (p. 105, line 3) re-draw the fraction bars. Cunha closes:] Experience has proved that these practices are sound.
+
+
+* * *
+
+
+
+Definition I [p. 106]
+
+Mathematicians call a series convergent when its terms are determined in a like manner, each by the number of the preceding terms, in such a way that the series can always be continued, and at last it becomes a matter of indifference whether it is continued or not — because the sum of however many terms one might wish to add to those already written or indicated can be disregarded without appreciable error. And these last [terms] are indicated by writing &c. after the first two, or three, or however many are wanted; it is necessary, however, that the terms that are written down should show how the series could be continued, or that this be known by another way.
+
+Proposition I. A series of continued proportionals is convergent, if the first is greater than the second.
+
+Let A and B be any two homogeneous magnitudes, with A > B; and let
+
+A + B + B·(B/A) + B·(B/A)·(B/A) + B·(B/A)·(B/A)·(B/A) + &c.
+
+be the series. Write c in place of B/A: the series will be A + Bc + Bcc + Bccc + &c. Let O be a magnitude less than A, and such that the tail of the series from some term onward can be disregarded without appreciable error. [The proof, pp. 106–107, then considers the series whose terms are the reciprocals of the terms of 1 + c + cc + &c.: in that reciprocal series the difference from the first term to the second is exceeded by the difference from the second to the third, and this by the difference from the third to the fourth, and so on; and even if these differences were all equal, each to the least of them, that alone would let the series be continued until the sum of the differences exceeded any proposed number (Book III, axiom 3) — and every term consists of the first term together with the differences that precede it. Continue, therefore, the reciprocal series until a term d is reached whose corresponding term in the series A + Bc + Bcc + &c. has fallen to the prescribed smallness; the whole continuation of the original series from that term, however far it is carried, can never amount to the magnitude that bounds it (as is seen at once on multiplying the terms through by the common ratio), and the part that remains "can be disregarded without appreciable error, by construction; therefore the series A + B + B·(B/A) + &c. is convergent" [Definition I]. The fraction-chain displays of the original are compressed in this rendering; the argument is complete.]
+
+Corollaries.
+
+1. The series 1 + a + aa/2 + aaa/(2×3) + aaaa/(2×3×4) + aaaaa/(2×3×4×5) + &c. is convergent [for any a]. [Proof, pp. 107–108: take a whole number b greater than a, and let c be the term which, with the preceding terms, makes b terms; the continuation of the series from the term c onward is term-by-term no greater than a geometric series in the ratio a/(b+1), which converges by Proposition I; therefore this series converges also. The errata (p. 108) corrects the fifth term to read (1/5)·aaaaa in the numerator form given there.]
+
+2. Also the series a + (1/3)aaa + (1/5)aaaa + &c. is convergent when a is less than 1. [Reproduced as printed; the third term shows four a's where the pattern would lead one to expect five. The errata does not touch this line. See NOTES.md.]
+
+
+
+Definition II [pp. 108–109]
+
+Let a and b stand for any two numbers, and let c be the number which makes
+
+1 + c + cc/2 + ccc/(2×3) + cccc/(2×3×4) + &c. = a:
+
+the expression a^b shall mean a number
+
+= 1 + bc + bbcc/2 + bbbccc/(2×3) + bbbbcccc/(2×3×4) + &c.
+
+[The first printing of this display at p. 109 is garbled; the reading above is the errata's correction, printed p. 307.]
+
+And the number a^b shall be called the power of a indicated by the exponent b; or also, the root of a indicated by the exponent 1/b, which is denoted thus: ᵇ√a [the b-th root of a]. When b is 1, it is not necessary to write it, since a¹ = a; when b is 2, the power is called the second; when 3, the third; and so on. When 1/b is 1, the root is called the first; when 2, the second; when 3, the third; and so on. One never writes ¹√a, but simply a; instead of ²√a it is commonly written √a.
+
+
+
+Propositions
+
+II. Let a be any positive number, and b the number
+
+2·[ (a−1)/(a+1) + (1/3)·((a−1)/(a+1))³ + (1/5)·((a−1)/(a+1))⁵ + &c. ];
+
+then a = 1 + b + bb/2 + bbb/(2×3) + bbbb/(2×3×4) + &c.
+
+[In modern language: the number c of Definition II — the logarithm of a — can itself be computed from a by the series above. The proof: write c in place of (a−1)/(a+1); then b = 2c + (2/3)ccc + (2/5)ccccc + &c.; and also ac + c = a − 1, so c + 1 = a − ac = a(1 − c), and therefore a = (1+c)/(1−c) = 1 + 2c + 2cc + 2ccc + &c. — "which is proved by multiplying the quotient 1 + 2c + 2cc + 2ccc + &c. by the divisor 1 − c." Writing now 2c + (2/3)ccc + (2/5)ccccc + &c. in place of b in the series 1 + b + bb/2 + bbb/(2×3) + &c. gives back 1 + 2c + 2cc + 2ccc + &c.; hence b is indeed the number that makes 1 + b + bb/2 + bbb/(2×3) + bbbb/(2×3×4) + &c. = a.]
+
+III. Let a and b be any positive numbers; c the number (a−1)/(a+1) + (1/3)((a−1)/(a+1))³ + (1/5)((a−1)/(a+1))⁵ + &c., and d the number (b−1)/(b+1) + (1/3)((b−1)/(b+1))³ + (1/5)((b−1)/(b+1))⁵ + &c.: then d/c will be the exponent of the power which b is of a. [That is, b = a^(d/c): the exponent belonging to a is 2c, and to b is 2d, and d/c is their ratio. Proof, p. 110: by Proposition II in its doubled form, a = 1 + 2c + (4cc)/2 + (8ccc)/(2×3) + (16cccc)/(2×3×4) + &c. and b = 1 + 2d + (4dd)/2 + (8ddd)/(2×3) + (16dddd)/(2×3×4) + &c. [9. 2]; whence a^(d/c) = 1 + 2c·(d/c) + (4cc·(dd/cc))/2 + (8ccc·(ddd/ccc))/(2×3) + (16cccc·(dddd/cccc))/(2×3×4) + &c. [9. def. 2] = 1 + 2d + (4dd)/2 + (8ddd)/(2×3) + (16dddd)/(2×3×4) + &c. = b. — So a change of base for logarithms is already implicit here, three propositions before the word "logarithm" is defined on p. 119.]
+
+IIII. The product of powers of one and the same number is a power of that same number, indicated by an exponent equal to the sum of the exponents of those powers. [a^b · a^c = a^(b+c). Proof, pp. 110–111: let a be any positive number, b and c any numbers, and d the number that makes 1 + d + dd/2 + ddd/(2×3) + dddd/(2×3×4) + &c. = a; then a^b = 1 + bd + (bbdd)/2 + (bbbddd)/(2×3) + &c. and a^c = 1 + cd + (ccdd)/2 + (cccddd)/(2×3) + &c. Multiplying the two indicated sums by the praxis of this book, the product gathers itself into 1 + (b+c)d + ((b+c)(b+c)dd)/2 + ((b+c)(b+c)(b+c)ddd)/(2×3) + &c., which is a^(b+c) [9. def. 2]. The execution fills most of two pages; the errata corrects two coefficients at p. 111.]
+
+Corollaries [p. 112].
+
+1. a^(2b) = a^b · a^b; a^(3b) = a^b · a^b · a^b; and so on. 2. a^(b/2) · a^(b/2) = a^b; hence a^(b/2) is the square root of a^b; a^(b/3) · a^(b/3) · a^(b/3) = a^b; hence a^(b/3) is the cube root of a^b; and so on. 3. a^(b−c) = a^b / a^c; for a^(b−c) · a^c = a^(b−c+c) [9. 4.] = a^b = (a^b/a^c)·a^c. 4. a⁰ [= a^(b−b) = a^b/a^b] = 1. 5. a^(−b) [= a^(0−b) = a⁰/a^b = 1/a^b].
+
+Scholium. Mathematicians, in expressions such as a^b, also consider the exponent as a sign indicating the multiplications, divisions, and extractions of roots necessary to form, according to the preceding corollaries, the number a^b; and then they usually suppose the number a also negative.
+
+V. Let a, b, c be any three numbers: (a^b)^c = a^(bc). [Proof: find the number d that makes 1 + d + (1/2)dd + (1/6)ddd + (1/24)dddd + (1/120)d⁵ + &c. = a [9. 2]; then a^b = 1 + bd + (1/2)bbdd + (1/6)bbbddd + &c., and hence (a^b)^c = 1 + cbd + (1/2)ccbbdd + (1/6)cccbbbddd + &c. = 1 + bcd + (1/2)bcbcdd + (1/6)bcbcbcddd + &c. = a^(bc) [9. def. 2]. The middle of the printed proof, p. 113 lines 5–11, is replaced wholesale by the errata (printed p. 307); the chain above is the errata's corrected one.]
+
+Corollaries.
+
+1. (a^b)^c = (a^c)^b. 2. a^(b/c) [= (a^b)^(1/c)] = the c-th root of (a^b) = (the c-th root of a)^b.
+
+VI. Let a, b, c be any numbers: a^c · b^c = (ab)^c. [Proved by finding the exponent d with a^d = b [9. 3], then (ab)^c = ((a·a^d))^c … = a^c·a^(cd) = a^c·(a^d)^c = a^c·b^c; chain as printed, p. 113.]
+
+VII. Denote by A the preceding term: then
+
+(1 + Q)^n = 1 + nQ + ((n−1)/2)·A·Q + ((n−2)/3)·A·Q + ((n−3)/4)·A·Q + &c.,
+
+provided that, when n is not a positive whole number [errata, p. 114: for "positive number" read "positive integer"], Q is less than 1. [The binomial series, proved on pp. 114–116 by setting m = 2·( Q/(2+Q) + (1/3)(Q/(2+Q))³ + (1/5)(Q/(2+Q))⁵ + &c. ): then 1 + Q = 1 + m + (1/2)m² + (1/6)m³ + (1/24)m⁴ + &c. [9. 2], and (1+Q)^n = 1 + mn + (1/2)m²n² + (1/6)m³n³ + (1/24)m⁴n⁴ + &c. [9. def. 2]; and m = Q − (1/2)Q² + (1/3)Q³ − (1/4)Q⁴ + (1/5)Q⁵ − &c. — the logarithmic series, with the Q⁴, Q⁵ terms restored by the errata at p. 114 — which converges when Q < 1 [9. 1]. Substituting back and collecting terms gives the coefficients n, n(n−1)/2, …; writing 2, 3, 4, &c. successively in place of n (p. 116) shows the formula is also that obtained by direct multiplication, so it holds for positive whole n and any Q.]
+
+Corollary. Let a, b, n be any numbers: (a + b)^n = a^n · [ 1 + n·(b/a) + ((n−1)/2)·A·(b/a) + ((n−2)/3)·A·(b/a) + &c. ] (A denoting, as before, the preceding term) = a^n + n·a^(n−1)·b + n·((n−1)/2)·a^(n−2)·b² + &c. — provided that, when n is not a positive whole number, a is greater than b [so that b/a < 1]. [As printed, p. 116.]
+
+VII [so numbered again in the original]. Let a be any positive number: then
+
+2·[ (a−1)/(a+1) + (1/3)((a−1)/(a+1))³ + (1/5)((a−1)/(a+1))⁵ + &c. ] = (a−1)/a + (1/2)((a−1)/a)² + (1/3)((a−1)/a)³ + (1/4)((a−1)/a)⁴ + (1/5)((a−1)/a)⁵ + &c.
+
+[The two series for the logarithm of a are equal; proved, p. 117, by writing c = (a−1)/(a+1) and d = (a−1)/a, whence a = (1+c)/(1−c) = 1/(1−d) and d = 2c/(1+c) = 2c − 2cc + 2ccc − 2cccc + 2ccccc − &c. — "as is verified by multiplying the quotient by the divisor 1 + c" — and substituting; the errata (p. 117) corrects the last exponent printed there from c⁵ to c³ in "2c − 2c² + 2c³ − …".]
+
+VIII. [A second form of the binomial series, pp. 118–119.] Denote by A the preceding term: then
+
+(1 + Q)^n = 1 + nQ/(1+Q) + ((n+1)·A·Q)/(2(1+Q)) + ((n+2)·A·Q)/(3(1+Q)) + ((n+3)·A·Q)/(4(1+Q)) + &c.,
+
+provided that Q, if it is negative, is less than 1/2, "because this is necessary for the series of the theorem and of the demonstration to be convergent" (p. 119; the errata corrects coefficients at p. 118).
+
+
+
+Definitions [p. 119]
+
+III. Considering all numbers as powers of one and the same number, that number is called the base; and the exponents are called the logarithms of the numbers to which they belong.
+
+Corollary. The logarithm of the base is 1. [Printed citation "[9. def. 1]," corrected by the errata to "[9. def. 2.]"]
+
+IIII. The logarithms are called hyperbolic, and also natural, when the base is = 1 + 1 + 1/2 + 1/(2×3) + 1/(2×3×4) + 1/(2×3×4×5) + &c. [The number now written e.]
+
+Warning. la means the logarithm of a.
+
+
+
+Propositions [p. 120]
+
+VIIII. l(a^n) = n·l a.
+
+Let b stand for the base: then a = b^(la) [9. def. 3], and so a^n = b^(n·la) [9. 5], and so l(a^n) = n·l a [9. def. 3].
+
+Corollaries.
+
+1. l 1 [= l(a⁰) [9. 4. cor.] = 0·l a] = 0. 2. l(a·c) [= l(b^(la) · b^(lc)) = l(b^(la+lc)) = (la + lc)·l b = (la + lc) × 1 [9. def. 3]] = la + lc. 3. l(a/c) [= l(a·c^(−1)) [9. 4. cor.]] = la − lc.
+
+[Here, at the foot of p. 120, the treatise ends; Book X, on the roots of equations, begins on p. 121.]
+
+
+* * *
+
+REFERENCES
+
+- Cunha, José Anastácio da. Principios Mathematicos, para instrucçaõ dos alumnos do Collegio de Saõ Lucas, da Real Casa Pia do Castello de Saõ Jorge. Lisbon: Antonio Rodrigues Galhardo, 1790. (Public-domain source text; scan: SUB Göttingen, GDZ, PPN590888331 — the base of this translation.) - Cunha, José Anastácio da. Principes mathématiques. Translated by João Manuel d'Abreu. Bordeaux: Racle, 1811; reissued Paris: Courcier, 1816. (Check-only; not used — see Introduction.) - Franco de Oliveira, A. J. "Anastácio da Cunha and the concept of convergent series." Archive for History of Exact Sciences 39 (1988): 1–12. - Gonçalves, A. N. "Análise do Livro VIII dos Principios Mathematicos de José Anastácio da Cunha" (1940). (As cited in Franco de Oliveira 1988; not independently consulted for this draft.) - Queiró, João Filipe. "José Anastácio da Cunha: A Forgotten Forerunner." The Mathematical Intelligencer 10, no. 1 (1988): 38–43. - Youschkevitch, A. P. "J. A. da Cunha et les fondements de l'analyse infinitésimale." Revue d'histoire des sciences 26 (1973): 3–22; and subsequent study, Revue d'histoire des sciences 31 (1978): 327–332. (The dissenting reading of 1973, as characterized by Franco de Oliveira 1988.) - Youschkevitch, A. P. Biography of José Anastácio da Cunha, Dictionary of Scientific Biography. (Existence and general position per MacTutor's reference list.) - MacTutor History of Mathematics Archive, "José Anastácio da Cunha" (University of St Andrews) — biography, publication history (parts from 1782; complete 1790), the 1811 translation's inaccuracy "at the crucial place," and the Gauss–Bessel correspondence of 1811. Consulted 10 October 2026. - Struik, D. J. Review discussing Cunha's convergence criterion (quoted in MacTutor). Cited for the history of the claim only; no wording borrowed.
+
+
+* * *
+
+DRAFT. Public domain source text; modern edition (c) editor, free redistribution.
+
+Expert review gate: pending — (1) historian of analysis, (2) reader of eighteenth-century Portuguese. See NOTES.md for the fact-check ledger, the errata log, and everything the editor could not verify.
