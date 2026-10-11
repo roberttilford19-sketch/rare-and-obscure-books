@@ -1,0 +1,1440 @@
+THE ART OF MEASURED SONG
+(Ars Cantus Mensurabilis)
+
+by Franco of Cologne (13th century)
+
+A fresh English rendering, made from the Latin text printed in:
+Edmond de Coussemaker (ed.), Scriptorum de musica medii aevi
+nova series a Gerbertina altera, vol. 1 (Paris: A. Durand, 1864), pp. 117-136.
+Latin transcription consulted: Thesaurus Musicarum Latinarum
+(Indiana University Center for the History of Music Theory and
+Literature), entry FRAARS_TEXT, checked live 2026-10-11.
+
+The Rare & Obscure Books series -- the Boneyard
+
+================================================================
+DRAFT -- LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial
+direction of Robert Tilford. It is a fresh English rendering made
+from the Latin text of the 1864 edition. It has not yet had the
+final checks required before any public use.
+================================================================
+
+----------------------------------------------------------------
+DEDICATION
+
+For Franco of Cologne, who taught the notes to tell time.
+
+Who he was: Franco of Cologne was a teacher of music in the
+thirteenth century. That is nearly all that can be said with
+certainty. His name is attached to the treatise that follows; the
+man behind the name is lost to us. (UNVERIFIED: no reliable
+account of his life, birthplace, or death survives; anything more
+than the name is guesswork.)
+
+The circumstances of his work: he wrote in the middle or later
+years of the 1200s, in a world where singers read rhythm out of
+familiar patterns called modes, the way a reader might guess the
+sense of a sentence from its shape. The treatise below is usually
+dated to about 1250-1280. Copies of it were made again and again
+in manuscripts across Europe, which tells us musicians found it
+worth the parchment.
+
+Why his work is vital -- proved, not praised: in this treatise
+Franco lays down, rule by rule, that each written note carries its
+own fixed length of time in its own shape -- the long, the breve,
+the semibreve, the ligature, the rest. Before him, how long a note
+lasted could only be known from the company it kept; after him, a
+singer could read the length of every note by itself. The whole
+system of measured writing that served Western music for the next
+two hundred years -- the notation from which our own descends --
+rests on the distinctions drawn in these chapters. That is not a
+compliment; it is what the text itself does, and what the
+centuries of copying testify.
+
+His place in this rescue: the Boneyard exists for works that were
+never finished, never carried across into English, or left to lie
+in Latin where only specialists could find them. Franco's Art of
+Measured Song belongs here: the birth certificate of modern
+musical time-keeping, still without a full English voice of its
+own. This edition gives it one -- plainly, in words a working
+singer or a humble reader can follow.
+
+Where a reader goes next: the Latin as Coussemaker printed it,
+vol. 1 of his Scriptorum de musica medii aevi (Paris, 1864, pp.
+117-136; reprinted Hildesheim: Olms, 1963); the critical edition
+by Gilbert Reaney and Andre Gilles, Corpus scriptorum de musica
+18 (1974); the searchable Latin text in the Thesaurus Musicarum
+Latinarum (Indiana University). For the world around the
+treatise, any good history of medieval music will do -- Gustave
+Reese's Music in the Middle Ages is the old faithful.
+----------------------------------------------------------------
+
+HOW TO READ THIS BOOK
+
+This is a fresh English rendering of Franco's treatise, made
+sentence by sentence from the Latin of the 1864 edition -- not a
+reworking of anyone else's translation. The chapter headings
+follow the Latin chapter titles. Franco's own words are given in
+plain English, as clear as I can make them; where a Latin term
+carries a meaning English cannot carry in one word, the Latin is
+kept in parentheses beside it.
+
+Two things in this book are not Franco's. First, the passages in
+square brackets marked [Editor's note -- in plain words] are
+mine: short recaps at the end of each chapter, saying again in
+today's plain speech what the chapter taught. Skip them if you
+like; the treatise reads whole without them. Second, the musical
+examples. Franco's pages are full of notated examples -- little
+snatches of motets and songs, "In Bethleem," "Virgo viget
+melius," "Dari, tradi, capi" -- and this edition describes each
+one in words rather than drawing it. A note-shape on a staff can
+be misread when it is copied by a hand that does not know the
+system; a plain description cannot pretend to be what it is not.
+
+A word on the note-names. Franco names notes the medieval way:
+ut, re, mi, fa, sol, la (what we would call do, re, mi, fa, sol,
+la), with gamma for the lowest note of all, b quadratum for B
+natural and b molle for B flat, and e-la, c-fa, and the like for
+notes in particular places of the scale. I have left them as he
+wrote them, since to modernize them would be to rewrite his
+examples.
+
+A word on the money of the book: the "beat" (tempus) is the
+smallest counted unit; the "perfection" (perfectio) is the
+three-beat span that is the treatise's unit of account -- named
+for the Trinity, because three is the perfect number. A "long"
+perfect is three beats; imperfect, two. A breve "right" is one
+beat; "altered," two. Everything else -- the plicae, the
+ligatures, the rests, the hockets -- is reckoning in this coin.
+Keep that table in your head and the whole book opens.
+
+NOTE ON THE LATIN TEXT
+
+The Latin rendered here is the text printed by Edmond de
+Coussemaker in volume 1 of his Scriptorum de musica medii aevi
+(Paris, 1864), pages 117 to 136, checked against the searchable
+transcription in the Thesaurus Musicarum Latinarum (Indiana
+University). Coussemaker worked from the manuscripts he could
+reach; the TML keeps his printed text alongside transcriptions
+from the manuscripts themselves, among them Paris, Bibliotheque
+nationale, lat. 16663 and Oxford, Bodleian Library, Bodley 842.
+
+A few scars of transmission are visible, and they are left
+visible. In the prologue the little word "inquiunt" -- "as they
+say" -- suggests the opening was taken over from another hand,
+and it is translated as it stands. The long table of intervals at
+the end is printed by Coussemaker in square brackets, as a
+summary drawn from the writings of Petrus Picardus, and it is
+given here in brackets too. In that table the edition promises
+three imperfect discordances and prints two; the third is simply
+not there. The definition of the unison is tangled in the
+manuscripts, and the translation follows the printed words with a
+note rather than guessing a smoother sense. Nothing has been
+smoothed, filled in, or modernized: where the 1864 page is
+unclear, the English says so.
+
+
+THE ART OF MEASURED SONG
+(Ars Cantus Mensurabilis)
+by Franco of Cologne
+
+PROLOGUE
+
+Seeing that, as they say, certain learned men have written fully
+enough about plain song, and have made it clear to us both in
+theory and in practice -- in theory above all Boethius, in
+practice the monk Guido, and most of all the blessed Gregory on
+the church tunes -- we therefore propose, at the request of
+certain great men, to treat of measured music, which plain song
+goes before as a principal goes before what serves under it. We
+take the plain song itself, as most perfectly set forth by those
+learned men named above, without turning the order upside down.
+
+Let no one say we began this work out of pride, or only for our
+own profit. We began it for a plain and pressing need: so that
+hearers may take it in with the least trouble, and so that all
+who write down measured music may be taught it as perfectly as
+may be.
+
+For we saw many men, both new and old, saying many good things
+about measured music in their books, and yet going wrong and
+falling short in many places -- above all in the fine points of
+the science. We judged that their teaching ought to be helped
+out, lest the science itself come to harm through their mistakes
+and shortcomings. So we propose to set forth measured music in
+short compass. We will not refuse to bring in the good things
+others have said; we will tear up their errors by the roots and
+drive them off; and if we ourselves have found anything new, we
+will stand it up on good reasons and prove it.
+
+[Editor's note -- in plain words: Franco opens the way a careful
+teacher opens. Plain chant -- the old unmeasured church song --
+has already been written about well enough, he says, by the great
+names: Boethius for the theory, Guido the monk for the practice,
+and blessed Gregory for the church tunes themselves. So there is
+no need to go over that ground again. Certain great men -- his
+patrons, very likely churchmen -- have asked him to write about
+the newer thing, measured music, the kind where every note has a
+counted length. He insists he is not writing out of pride or for
+profit, but because the need is plain: singers were getting the
+fine points wrong, and the books they learned from disagreed with
+each other. His promise is threefold, and it is the promise of
+the whole Boneyard enterprise too: gather up the good things
+others have said, root out the errors, and prove anything new on
+solid reasons.]
+
+CHAPTER ONE. What measured music is, and its kinds.
+
+Measured music is song measured out in long and short beats. To
+understand this definition we must see what measure is, and what
+a beat is. Measure is the relation that shows the quantity, the
+length and the shortness, of any measurable song. I say
+"measurable" because no such measure is looked for in plain song.
+A beat is the measure both of a sounded voice and of its
+opposite, namely of a lost voice, which is commonly called a rest.
+And I say a rest is measured in beats, because otherwise two
+different songs, one with rests and one without, could never be
+made to come out even with each other in due proportion.
+
+Measured music is divided into the simply measured and the
+partly measured. The simply measured is discant, because in every
+part of it the beat is measured. The partly measured is called
+organum, because it is not measured in every part of it. And note
+that organum is taken in two ways, properly and commonly. For
+organum properly taken is double organum, which is called pure
+organum. Commonly, organum means any measured church song. But
+because the simple comes before the compound, we must first speak
+of discant.
+
+[Editor's note -- in plain words: Here are the foundations, and
+they are simple. Measured music is song in which time is counted:
+every note lasts a counted number of beats. A "measure" is just
+the relation that tells you how long or short a note is. A "beat"
+is the unit you count -- and here is a thought worth stopping
+for: a beat measures silence too. A rest is not nothing; it is a
+counted nothing, a lost voice with a measured length. Without
+that, two singers -- one singing through, one resting -- could
+never come out even together. Then the big split: discant is
+measured all the way through, every part of it; organum is only
+measured in part. And "organum" itself is used two ways: properly
+it means the old pure two-voice organum, and commonly it just
+means any measured church song. The simple comes before the
+compound, so discant first.]
+
+CHAPTER TWO. What discant is, and its divisions.
+
+Discant is the sounding-together of several different songs, in
+which those different songs are made even with one another in due
+proportion through long, breve, and semibreve voices, and are
+shown in writing to be proportioned to one another by their proper
+figures.
+
+Discant is divided thus. One discant is sung out plainly; another
+is cut short, which is called hocket (ochetus); another is joined
+together, which is called copula. Of these we must speak in
+order. But because every discant goes by the modes, we must first
+treat of the modes, and then of their signs, namely the figures.
+
+[Editor's note -- in plain words: Discant, for Franco, is several
+different tunes sounding at once, held together by counted time:
+the upper voices move in longs, breves, and semibreves against
+the tenor, and the page shows, by the shapes of the notes, how
+the voices are proportioned to each other. There are three kinds:
+discant sung out plainly; discant cut short -- the hocket, where
+voices trade little gasps of sound and silence; and discant
+joined together -- the copula, a swift running-together of
+notes. Each will get its chapter later. But first, because every
+discant moves in rhythmic patterns, he must teach the patterns
+(the modes) and then the written signs for them (the figures).]
+
+CHAPTER THREE. The modes of every discant.
+
+A mode is the knowledge of a sound measured out in long and short
+beats. But the modes are counted in different ways by different
+men. Some put six, others seven. We put only five, because all
+the others can be brought back to these five.
+
+The first goes in all longs, and under it we place also the one
+that goes long-and-breve, for two reasons: first, because these
+two join together in like restings; second, to put down the
+quarrel of the old men and some of the new. The second goes
+breve-and-long. The third goes long-and-two-breves. The fourth
+goes two-breves-and-long. The fifth goes in all breves and
+semibreves.
+
+Now, since the voices of these modes are the cause and beginning,
+and their notes are their marks, it is plain we must treat of the
+notes or figures, which is the same thing. But since discant is
+ruled both by sounded voice and by its opposite, that is, by lost
+voice, and these are different, they will have different signs.
+And since sounded voice comes before lost voice, because having
+comes before lacking, we must first speak of the figures that
+stand for sounded voice, and then of the rests that stand for
+lost voice.
+
+[Editor's note -- in plain words: A "mode" is a rhythmic pattern,
+a way of laying long and short beats in order. Before Franco,
+singers knew six or even seven such patterns. Franco cuts them
+to five, saying all the others can be brought back to these. The
+first mode goes in all longs (and he folds the long-and-breve
+pattern into it, partly to end an old quarrel among teachers).
+The second goes short-long, the third long plus two shorts, the
+fourth two shorts plus a long, and the fifth runs in breves and
+semibreves. Then a sentence that turns the whole art around: the
+voices -- the sung sounds -- are the cause and beginning, and the
+written notes are only their marks. So the figures must stand for
+the modes, not the modes for the figures. In plain speech: the
+music comes first, the writing serves it. And since sounded voice
+comes before silence (having comes before lacking), the signs for
+sounded notes come before the signs for rests.]
+
+CHAPTER FOUR. The figures, or signs, of measured song.
+
+A figure is the likeness of a voice, set in order in one of the
+modes. From this it is plain that figures ought to stand for the
+modes, and not the other way round, as some have held. Of figures,
+some are simple and some joined together. The joined ones are
+ligatures. Of the simple there are three kinds: the long, the
+breve, and the semibreve. The first of these is divided into
+three: the perfect long, the imperfect long, and the double long.
+
+The perfect long is called first and chief. For in it all the
+others are contained, and to it all the others are brought back.
+It is called perfect because it is measured by three beats; for
+the number three is the most perfect among numbers, because it
+takes its name from the highest Trinity, which is true and pure
+perfection. Its shape is a square with a stem going down on the
+right-hand side, by which it shows its length. (In the book it is
+drawn as a square note with a downward tail on the right.)
+
+The imperfect long wears the shape of the perfect, but stands for
+only two beats. It is called imperfect because it is never found
+without the help of a breve going before or after it. From this
+it follows that those are wrong who call it "right" (recta), for
+what is right can stand by itself.
+
+The double long is shaped as a doubled figure and stands for two
+longs. It is doubled into one body for this reason: so that the
+line of the plain chant taken in the tenors shall not be broken
+up.
+
+The breve, though it is divided into the right breve and the
+altered breve (altera), is still drawn as a square with no stem at
+all, for both of them alike. (In the book, a plain square note.)
+
+The semibreve is called now the greater, now the lesser; but each
+is drawn in the same way, shaped like a diamond (a lozenge). (In
+the book, a diamond-shaped note.)
+
+[Editor's note -- in plain words: Now the alphabet itself. A
+figure is the written likeness of a sung voice, set in a rhythmic
+pattern. There are simple figures and joined ones (ligatures, for
+later). The simples are three: the long, the breve, and the
+semibreve. The long is chief and comes in three forms. The
+perfect long lasts three beats -- three being the most perfect
+number, named for the Trinity -- and is drawn as a square with a
+stem falling on the right, the stem showing its length. The
+imperfect long wears the same shape but lasts only two beats, and
+it is never found alone: it always needs a breve beside it,
+before or after. The double long is two longs in one body, so
+that the tenor's line of chant is not chopped up. The breve is a
+plain square with no stem, and it is either "right" (one beat) or
+"altered" (two beats, worth an imperfect long but drawn
+differently). The semibreve -- greater and lesser -- is drawn as
+a diamond. Learn these shapes and you can read time itself off
+the page.]
+
+CHAPTER FIVE. How the figures stand toward one another.
+
+The worth of the simple figures is known from the order they have
+toward one another. Take the order thus: either a long is followed
+by a long, or by a breve. And mark that the same judgment holds
+for breves and semibreves.
+
+If a long is followed by a long, then the first long, sung under
+one stress, is measured by three beats, and is called a perfect
+long -- whether it be a note or a rest. (The book shows a notated
+example on the words "In Bethleem": two longs standing
+together.)
+
+If a long is followed by a breve, it goes many ways, for the
+breve may be one or many. If it is one alone, then the long is of
+two beats and is called imperfect. (The book shows a notated
+example on the words "Virgo viget melius": a long followed by a
+single breve.)
+
+Unless, between those two -- the long and the breve -- there is
+put a certain little stroke, which is called the sign of
+perfection, and by another name the division of the mode. Then
+the first long is perfect, and the breve makes the following long
+imperfect. (The book shows a notated example on the words
+"Superans omnia": a long, the little dividing stroke, a breve, and
+a second long.)
+
+If the breves are many, it goes many ways: two, or three, or
+four, or five, or more than five. If only two, as is plain to see
+(The book shows a notated example on the words "Eximie pater et
+regie": a long followed by two breves), then the long is perfect,
+unless a single breve goes before it, as here (the book shows a
+notated example on the words "Ave virgo regia": a single breve
+before the long). Of the two breves, the first is called right
+(recta), the second the altered breve (altera). A right breve is
+one that holds a single beat. An altered breve is like an
+imperfect long in worth, but different in meaning: for both are
+measured by two beats, but under different shapes. One beat is
+called that which is least in the fullness of the voice.
+
+But if between those two breves there is put that stroke which is
+called the division of the mode, as here (the book shows a notated
+example on the words "Dari, tradi, capi": long, breve, the
+dividing stroke, breve, long), then the first long is imperfect,
+and so is the second; and each of the breves will be right. This,
+however, is very seldom found.
+
+If only three breves are taken between two longs, as appears here
+(The book shows a notated example on the words "Cruci corpus
+adaptari": a long, three breves, a long), you get the same as
+before, except that what was first called the altered breve is
+here split into two right breves.
+
+But if the division of the mode is set between the first breve
+and the two that follow, as is plain here (the book shows a
+notated example on the words "Manus pedes perforari": a long, a
+breve, the dividing stroke, two breves, a long), then the first
+long is made imperfect by the first breve; of the following
+breves, the first becomes right and the last is altered.
+
+And mark that three beats, whether sung under one stress or under
+several, make one perfection.
+
+If there are more than three breves, as here (the book shows a
+notated example on the words "Dex maudie qui par": a run of more
+than three breves), then the first is always imperfect, unless
+the sign of perfection is added to it, as appears here (the book
+shows a notated example on the words "Gratissimum pro reatu": the
+same run with the little stroke of perfection set before it).
+
+Of the breves that follow, each is right, if in the counting they
+are found in the threefold number by which perfection is made.
+But if only two are left at the end, then the last of them is
+called the altered breve, as here (the book shows a notated
+example on the words "Aceto felle potari": breves ending in a
+pair). If only one is left, it will be right, and it makes the
+last long imperfect, as here (the book shows a notated example on
+the words "Virginum reorum": a single breve before the closing
+long).
+
+Of semibreves and breves the judgment is the same, in the rules
+said before. But mark: for one right breve no more than three
+semibreves may be taken, as is plain to see (the book shows a
+notated example on the words "Mentibus vocibus": three
+semibreves standing for a right breve). Each of these is called a
+lesser semibreve, because it is the smallest part of the right
+breve.
+
+Nor fewer than two: of which the first is called the lesser
+semibreve, the second the greater semibreve. The second is called
+greater because it holds two lesser ones in itself (the book
+shows a notated example on the words "Sanguinem lavat": two
+semibreves standing for a right breve).
+
+But if, right after two semibreves standing for a right breve,
+three follow, or the other way round (the book shows a notated
+example on the words "Quid plura cedit": two semibreves and three
+semibreves standing together), then the division of the mode must
+be put between the three and the two, or the other way round, as
+appears in the example said before.
+
+For an altered breve, fewer than four semibreves may not be taken
+(the book shows a notated example on the words "Gaude virgo
+mater": four semibreves standing for an altered breve), nor more
+than six, as here (the book shows a notated example on the words
+"Ave Maria gratia plena": six semibreves standing for an altered
+breve), because the altered breve holds two right ones in itself.
+From this the error of some is plain, who sometimes put three
+semibreves for an altered breve, and sometimes two.
+
+[Editor's note -- in plain words: This is the heart of the book
+-- the rules by which a singer reads the length of every note
+from the notes around it. Long followed by long: the first is
+perfect, three beats ("In Bethleem"). Long followed by one breve:
+the long is imperfect, two beats ("Virgo viget melius") -- unless
+a little stroke, the sign of perfection or division of the mode,
+is set between them; then the first long stays perfect and the
+breve shortens the next long instead ("Superans omnia"). Long
+with two breves between longs: the long is perfect ("Eximie
+pater et regie"); the first breve is right (one beat), the second
+altered (two). With the dividing stroke between the two breves,
+both longs go imperfect and both breves go right -- but that is
+rare ("Dari, tradi, capi"). Three breves between longs: like the
+last, but the altered breve splits into two right breves ("Cruci
+corpus adaptari"); with the stroke after the first breve, the
+first long is imperfected, and of the rest the first is right,
+the last altered ("Manus pedes perforari"). Three beats, sung
+together or apart, always make one perfection. Longer runs of
+breves are read in threes ("Dex maudie qui par", "Gratissimum pro
+reatu"), leftovers at the end becoming altered or right breves
+("Aceto felle potari", "Virginum reorum"). Semibreves follow the
+same rules: at most three for a right breve (each a "lesser"
+semibreve), at least two -- first lesser, second greater, the
+greater holding two lessers ("Mentibus vocibus", "Sanguinem
+lavat"); groups of two and three are divided by the stroke ("Quid
+plura cedit"); and for an altered breve no fewer than four and no
+more than six ("Gaude virgo mater", "Ave Maria gratia plena").
+The whole chapter is one great engine for reading rhythm at
+sight.]
+
+CHAPTER SIX. The plicae in simple figures.
+
+Besides these there are certain other simple figures, standing
+for the same things as those said before, and called by the same
+names with the addition of this word, plica. So we must see what
+a plica is. A plica is the mark of the dividing of the same sound
+into low and high.
+
+Of plicae, one is long, one is breve, one is semibreve. But of the
+semibreve we mean nothing for the present, since no semibreve
+plica can be found in simple figures. In ligatures, however, and
+in orderings of semibreves, a plica may be taken, as will appear
+later.
+
+Again, of plicae one goes up and one goes down. The ascending
+long plica is a sort of square figure carrying only a stem going
+up on the right-hand side, as is plain to see (the book draws a
+square note with a single upward stem on the right); or more
+properly two stems, of which the right is longer than the left,
+as is plain to see (the book draws a square note with two upward
+stems, the right one longer). I say "more properly," because
+through those two little stems it earns the name of plica.
+
+The descending long plica likewise has two stems, but going down,
+the right, as before, longer than the left, as here (the book
+draws a square note with two downward stems, the right longer).
+The ascending breve plica is one that has two stems going up, the
+left however longer than the right, as here (the book draws a
+square note with two upward stems, the left longer). The
+descending breve has two stems going down, the left longer, as
+here (the book draws a square note with two downward stems, the
+left longer).
+
+And mark that these plicae have the same power, and likewise the
+same worth in the regular way, as the simple figures said before.
+
+
+[Editor's note -- in plain words: The plica is a small ornament
+mark -- literally a "fold" -- that tells the singer to divide one
+note into a low and a high sound, a kind of catch or grace in the
+voice. It comes on longs and breves, going up or going down. The
+long plica going up is a square with a rising stem on the right
+(more properly two stems, the right longer); going down, two
+falling stems, right longer. The breve plica going up has two
+rising stems with the left longer; going down, two falling stems
+with the left longer. In plain speech: it looks like a note with
+a little tail or two, and it means "bend this note." Its length
+is the same as the plain note it is built on -- a plica-long is
+worth a long, a plica-breve a breve.]
+
+
+CHAPTER SEVEN. Ligatures and their properties.
+
+Having dealt with the simple figures, we must speak of the
+joined-together ones, which is the same as ligatures, which are
+properly called ligatures.
+
+A ligature is the joining of simple figures, set in order by due
+strokes. Of ligatures, one goes up. The ascending one is that
+whose second note is higher than the first, as here (the book
+shows several ascending ligatures: note-groups climbing upward on
+the staff). The descending one is that whose first note is higher
+than the second, as here (the book shows several descending
+ligatures: note-groups falling downward on the staff).
+
+Again, of ligatures one is with propriety, one without, one with
+opposite propriety. And this is on the side of the beginning of
+the ligature. But on the side of the end, one is with perfection,
+one without. And mark that these differences are essential and
+belong to the very kind of the ligatures. So a ligature with
+propriety differs in its essence from one without, as a reasoning
+animal differs from an unreasoning one; and likewise in the other
+differences said before.
+
+The kinds also stand under the genus; but no name has been set on
+those kinds -- the differences named, and their genus, go round
+about them in words, just as is found in other real genera, as
+"living body," which goes round about in words a certain kind on
+which no name has been set.
+
+But on the side of the middle of ligatures no essential
+difference is found. From this it follows that all the middles of
+ligatures agree in what they stand for. By this it is plain that
+the position of those men is false who hold that in a three-note
+ligature some middle note is a long, but in all others a breve.
+
+So we must see what propriety is, what "without," and what
+"opposite" is; what perfection is, what imperfection, and what
+all these stand for. Propriety is the mark of the first finding
+of the ligature, given by plain song, at its beginning. Perfection
+says the same thing, but at the end. From this follow the rules
+of the differences said before.
+
+Every descending ligature having a stem going down from the first
+note on the left-hand side is said to be with propriety, because
+it is so shaped in plain song (the book shows descending
+ligatures with a downward stem on the left of the first note).
+
+If it lacks every stem, it will be said to be without propriety,
+as is plain to see (the book shows descending ligatures with no
+stem at all).
+
+Again, every ascending figure will be said to be with propriety
+if it lacks every stem, as here (the book shows ascending
+ligatures with no stems). But if it has a stem going down on the
+left-hand side of the first note, as appears here (the book shows
+ascending ligatures with a downward stem on the left of the first
+note), or on the right, which is more proper, as here (the book
+shows ascending ligatures with the stem on the right), then it
+will lack propriety.
+
+Once more: every ligature, whether ascending or descending,
+carrying a stem going up from the first note, will be said to be
+with opposite propriety (the book shows ligatures whose first
+note bears an upward stem).
+
+On the side of the end, the rules for ligatures are given thus.
+Every ligature whose last note stands upright above the next-to-
+last is perfect, as appears here (the book shows ligatures ending
+with the last note upright above the one before). Or below the
+next-to-last, as here (the book shows ligatures ending with the
+last note upright below the one before).
+
+But a ligature is made imperfect in two ways. First, if the last
+note stands upright with its head turned away, above the next-to-
+last, without a plica, as here (the book shows ligatures ending
+with the last note's head turned aside). Second, if the last two
+notes of the ligature are mixed together in one slanting body,
+going up or down, as is plain to see (the book shows ligatures
+ending in a slanting two-note body).
+
+Yet such an ascending imperfection is not in use, nor is it
+needed, except when a breve must be plicated in a ligature ending
+by going up, as will appear later.
+
+Moreover, note that just as through these differences one
+ligature differs from another in form, so also in worth. From this
+follow the rules of all ligatures.
+
+Every ligature with propriety makes its first note a breve.
+Again, every one without makes it a long. Again, every
+perfection is a long, and every imperfection a breve. Again,
+every opposite propriety makes semibreves of the note it is added
+to, and of the one that follows -- not by itself, but by what
+follows from it, because no semibreve can be found standing
+alone.
+
+Again, every middle note is a breve, unless it is made into
+semibreves by opposite propriety, as was said before. Understand
+also that in ligatures longs are made perfect in the same way as
+was said for the simples; and breves are made right and altered.
+
+
+[Editor's note -- in plain words: A ligature is several notes
+written joined together in one body -- the medieval answer to
+beamed notes. It is "ascending" if the second note is higher than
+the first, "descending" if the first is higher. Now the fine
+points. "Propriety" is the mark at the beginning of the ligature,
+inherited from the old plainchant writing: a descending ligature
+with a downward stem on the left of its first note has propriety;
+one with no stem at all lacks it; an ascending ligature with no
+stem has it, with a stem loses it. "Opposite propriety" is an
+upward stem on the first note. "Perfection" is the mark at the
+end: if the last note stands upright above or below the one
+before it, the ending is perfect; if its head is turned away, or
+the last two notes melt into one slanting body, it is imperfect.
+And here are the reading rules, the payoff of it all: with
+propriety, the first note is a breve; without, a long; a perfect
+ending is a long, an imperfect ending a breve; opposite propriety
+makes semibreves of its note and the next (no semibreve stands
+alone); and every middle note is a breve. Franco even swats down
+a rival school that wanted middle notes of three-note ligatures
+to be longs: the middle, he says, has no essential difference
+anywhere -- all middles are breves.]
+
+
+CHAPTER EIGHT. The plicae in ligated figures.
+
+Moreover, note that every ligature, whether perfect or imperfect,
+can be plicated, and this on the side of the end. What a plica
+is was said before, where we spoke of the simple figures. For a
+perfect ligature is plicated in two ways, going up and going down.
+Going up thus (the book shows perfect ligatures with the plica
+stems rising at the end); going down thus (the book shows perfect
+ligatures with the plica stems falling at the end).
+
+An imperfect ligature is likewise plicated in two ways. And mark
+that the imperfect is always plicated in the slanting
+imperfection, going up or down, as is plain to see (the book
+shows imperfect ligatures plicated in the slanting ending). And
+in such a case, where the imperfect must be plicated, the
+slanting must be made going up, so that the last note is made a
+breve. For if a straight imperfection were plicated, it would be
+made perfect by the plica, because it would share in the nature of
+the perfect. Yet a slanting ascending imperfection must not be
+put without a plica; for the setting of a straight imperfection
+is enough wherever there is no plica, and it is more proper and
+more in use. Thus the plicae of all ligatures are made plain.
+
+There are also certain joinings of simples and ligatures which
+partly share in ligatures and partly in simple figures, which can
+be called neither ligatures nor simple figures, as is plain to
+see (the book shows mixed figures, part ligature and part simple
+note). Of the worth of such joined figures no other rules can be
+given than those already given for simples and ligatures.
+Besides, there are certain other orderings of simple figures and
+ligatures, filling the lack of those on which no name has been
+set, which are known only by the rules of the simples, as is
+plain to see.
+
+[Editor's note -- in plain words: Every ligature, perfect or
+imperfect, can take a plica at its end -- the bending mark --
+going up or going down. An imperfect ligature is always plicated
+in the slanting kind of imperfection, never the straight kind;
+and where the imperfect must be plicated, the slant must go up,
+so the last note comes out a breve (a straight imperfection with
+a plica would turn perfect, which would be wrong). But never put
+a slanting ascending imperfection without a plica: where there is
+no plica, the plain straight imperfection is enough, and it is
+the more proper and usual way. Then Franco tidies up the
+leftovers: there are mixed figures, part simple note and part
+ligature, that are neither one nor the other, and stray orderings
+of notes that fill the gaps where no name was ever set -- and for
+all of them, the rules of the simple figures are judge enough.]
+
+CHAPTER NINE. The rests, and how the modes change into one another
+through them.
+
+Having spoken of the signs that stand for sounded voice, we must
+see the rests, which stand for lost voice. A rest is the leaving
+out of sounded voice, in the due quantity of some mode. Of rests
+there are six kinds: the perfect long, the imperfect long -- under
+which the altered breve is gathered, because they take in the same
+measure -- the right breve, the greater semibreve, the lesser
+semibreve, and the end of notes (finis punctorum).
+
+The resting of the perfect long is the leaving out of a perfect
+sounded voice, taking in three beats. The imperfect likewise of
+an imperfect voice, and also of the altered breve, measured by
+only two beats. The breve is the leaving out of a right breve,
+holding in itself a single beat. The greater semibreve leaves out
+two parts of a right breve. The lesser, only a third. The end of
+notes is called unmeasured; for it is found even in plain song.
+It marks only that the next-to-last note is a long, in whatever
+mode it comes, even if that next-to-last, by the nature of the
+mode it is in, would be a breve.
+
+Moreover, these six rests are marked out by seven fine strokes,
+which are also called rests. Of these, the first, which is called
+perfect, touching four lines, takes in three spaces, because it is
+measured by three beats. The imperfect, taking hold of three
+lines, by the same reckoning covers two spaces. The breve, one.
+The greater semibreve, two parts of one space; but the lesser
+covers only one. The end of notes, touching all the lines, takes
+in four spaces. The shapes of all these are plain in the example
+here set (the book shows the seven rest-signs drawn on the staff,
+from the tallest to the shortest).
+
+And mark that rests have a wonderful power; for through them the
+modes are changed into one another. So the proper rest of the
+first mode is the right breve or the perfect long; the rest of
+the second mode is the imperfect long; the rests of the third and
+fourth are properly perfect longs, but improperly the right breve
+and the altered; the fifth properly deserves to have the breve
+rest or the semibreve.
+
+So if the first mode, which goes long-and-breve-and-long, has
+after the breve an imperfect long rest, as is plain here (the
+book shows a notated example on the words "Maris stella fervens":
+the first mode with an imperfect-long rest after its breve), the
+first mode is changed into the second.
+
+But if the second, after the long note, takes a breve rest, as is
+plain here (the book shows a notated example on the words "O
+Maria mater dei flos": the second mode with a breve rest after
+its long), it is changed into the first.
+
+The fifth mode, when it is taken in some discant with the first,
+is ruled by the rests of the first, and makes the long and the
+rest into a note, as here (the book shows a notated example on
+the words "O Maria virgo davitica": the fifth mode resting by the
+first mode's rule). But if with the second, it has the rests of
+the second, and before the rest at the end it takes a breve, as
+here (the book shows a notated example on the words "Povre secors
+ai encore recouvre": the fifth mode resting by the second mode's
+rule). But if neither so nor so, then it is ruled by its own
+rests, as here (the book shows a notated example on the words
+"Respondi que ne lerroit": the fifth mode with its own proper
+rests).
+
+And mark that in one single discant all the modes can run
+together, because through perfections all modes are brought back
+to one. Nor should any fuss be made over such a discant, as to
+which mode it is to be judged by. It may be called by that mode in
+which it stays most or oftenest. And see that the fifth mode can
+above all be taken together with all the others.
+
+And let this be enough for the present on rests, and on the
+changing of the modes.
+
+
+[Editor's note -- in plain words: Rests are the counted silences,
+and there are six kinds: the perfect long (three beats), the
+imperfect long (two beats, and the altered breve goes with it),
+the right breve (one beat), the greater semibreve (two thirds of
+a breve), the lesser semibreve (one third), and the end-of-notes
+mark, which is unmeasured -- it only says "the note before me is
+a long, whatever the pattern says." On the staff they are drawn
+as fine strokes of different heights: the perfect touches four
+lines and covers three spaces, the imperfect three lines and two
+spaces, and so down to the end-of-notes, which spans the whole
+staff. And rests have a wonderful power: they change the mode.
+Put an imperfect-long rest after the breve of the first mode
+("Maris stella fervens") and you have turned it into the second;
+put a breve rest after the long of the second ("O Maria mater
+dei flos") and it turns back into the first. The fifth mode
+borrows the rests of whichever mode it runs with ("O Maria virgo
+davitica", "Povre secors ai encore recouvre"), or uses its own
+("Respondi que ne lerroit"). Best of all: all the modes can run
+together in one piece of music, since every perfection brings
+them back to one -- so do not fuss over which mode a piece is
+"in"; call it by the one it lingers in most.]
+
+
+CHAPTER TEN. How many figures can be ligated together.
+
+Item, note that a figure that can be ligated but is not ligated
+is faulty -- but more faulty still is one ligated that cannot be
+ligated. So mark that several longs cannot be ligated to one
+another, except in the two-note ligature that is without propriety
+and with perfection. Nor even in such a place are they faulty if
+they are not ligated, because a long is nowhere found ligatable
+with a long.
+
+From this it follows that those err greatly who ligate three
+longs together on any occasion, as in tenors. Likewise those who
+ligate a long between two breves, since by the setting of middles,
+as was seen before, all middles are made breves.
+
+Item, no more than two semibreves can be ligated together, and it
+is taken at the beginning of the ligature; and understand this of
+a proper ligature.
+
+But breves are ligatable at the beginning, in the middle, and at
+the end. From this it is plain that any mode taken without text
+is ligatable, except the one that goes in all longs. So the
+first, which goes long-and-breve, first ligates three without
+propriety and with perfection; then two with propriety and
+perfection, and two and two as much as you like, so that it ends
+upon such twos, as is plain here (the book shows the first mode
+ligated: a three-note group without propriety with perfection,
+then two-note groups with propriety and perfection). Unless the
+mode said before is changed, as is plain here (the book shows the
+same with the mode changed midway).
+
+But the second takes a two-note ligature with propriety and
+perfection, with two and two, and so on, of the same kinds, one
+single breve of them remaining alone, as appears here (the book
+shows the second mode ligated in two-note groups, a single breve
+left over). Unless the mode is changed, as appears here (the book
+shows the second mode with the mode changed midway).
+
+The third takes a four-note group without propriety and with
+perfection; with threes with propriety and perfection, and three
+and three, and so on, as appears here (the book shows the third
+mode ligated in fours and threes). Unless the mode is changed, as
+here (the book shows the third mode with the mode changed).
+
+The fourth first ligates threes with propriety and perfection,
+with three and three, and so on, of the same kinds, and at the
+end with twos with propriety and without perfection, as here (the
+book shows the fourth mode ligated in threes, ending in twos with
+propriety without perfection). Unless the mode is changed, as
+here (the book shows the fourth mode with the mode changed).
+
+The fifth ought to be ligated as much as it can, and it ends in
+breves or semibreves, as here (the book shows the fifth mode
+ligated in long runs ending on breves or semibreves). Unless the
+mode is changed, as here (the book shows the fifth mode with the
+mode changed).
+
+And mark that the modes can be changed in many ways, as was said
+before in the chapter on rests.
+
+
+[Editor's note -- in plain words: Not everything may be tied
+together, and a figure left untied that ought to be tied is a
+fault -- though tying one that cannot be tied is worse. Longs
+cannot be ligated with longs at all, except in two-note groups
+without propriety and with perfection; and even there they are
+not faulty left alone. So those who tie three longs together in
+tenors are badly wrong, and so are those who trap a long between
+two breves (all middles are breves, as we learned). Semibreves
+may be tied at most two together, and only at the start of the
+ligature. Breves may be tied at the start, middle, or end. From
+this it follows that every mode sung without words can be
+ligated, except the all-long mode. Then Franco works through all
+five modes, showing the proper tying for each -- the first in
+threes without propriety with perfection, then in twos; the
+second in twos with propriety and perfection; the third in fours
+and threes; the fourth in threes ending in twos; the fifth tied
+as far as it will go, ending on breves or semibreves -- each with
+its "unless the mode is changed" variant. It is a copyist's
+handbook as much as a singer's.]
+
+CHAPTER ELEVEN. Discant and its kinds.
+
+Having seen the figures and the rests, we must speak of discant,
+how it ought to be made, and of its kinds. But because every
+discant is ruled by consonances, we must see what consonances
+are, and dissonances made in the same beat and in different
+voices.
+
+Concordance is said to be when two voices, or more, sung out in
+one beat, can agree with each other to the ear. Discordance, on
+the other hand, is said to be when two voices are so joined that
+they disagree to the ear.
+
+Of concordances there are three kinds: perfect, imperfect, and
+middle. Perfect concordances are said to be when several voices
+are joined so that one can hardly be told from another for the
+agreeing. And such are two: the unison and the octave (the book
+shows a notated example of the unison and the octave).
+
+Imperfect are said to be when two voices are heard to differ much
+from each other, yet do not disagree. And they are two: the major
+third (ditonus) and the minor third (semiditonus) (the book shows
+a notated example of the two thirds).
+
+Middle concordances are said to be when two voices are joined
+having a better concordance than those said before, yet not as
+perfect; and they are the fifth (diapente) and the fourth
+(diatessaron), as is plain here (the book shows a notated example
+of the fifth and the fourth).
+
+Why one concordance concords more than another, leave to plain
+music (that is a question for another book, not this one).
+
+Of discordances there are two kinds, perfect and imperfect.
+Perfect discordance is said to be when two voices are so joined
+that they cannot agree with each other to the ear. And they are
+four: the semitone, the tritone, the major sixth (ditonus with
+diapente), and the minor seventh (semitonium with diapente), as
+appears here (the book shows a notated example of the four).
+
+Imperfect discordances are said to be when two voices can in some
+way agree with each other to the ear, but disagree; and they are
+of three kinds: the tone, the tone with the octave, and the minor
+sixth (semiditonus with diapente) (the book shows a notated
+example of the three).
+
+And mark that both concordances and discordances can be taken
+without end, as the fifth with the octave, the fourth with the
+octave, as here (the book shows a notated example of compounded
+intervals); and so in the double octave, and the triple, if it
+were possible in the voice. Item, note that every imperfect
+dissonance concords well set right before a concordance.
+
+Discant is made either with text or without; and with text, in
+two ways: with the same text, or with different texts. With the
+same text discant is made in songs (cantilenae), round-songs
+(rondelli), and some church song. With different texts discant is
+made, as in motets which have a triplum or a tenor, because the
+tenor counts as a text. With text and without, discant is made in
+conductus, and in some church discant which is improperly called
+organum.
+
+And mark that in all these the way of working is the same, except
+in conductus. For in all the others, first some song already made
+is taken, which is called the tenor, because it holds the discant
+(tenet discantum), and the discant takes its rise from it. But in
+conductus it is not so; rather, the song and the discant are made
+together, by the same maker.
+
+Now discant is called double: first it is called discant because
+it is the song of different ones (diversorum cantus); second it
+is called discant as if taken from discant (de discantu sumptus).
+
+The course of working in these is such: either the discant
+begins in unison with the tenor, as appears here (the book shows
+a notated example on the words "Virgo Dei plena" in the upper
+voice and "Amoris" in the tenor: the two voices starting
+together on one note); or in the octave, as here (the book shows
+a notated example on the words "Arida frondescit" over "Johanne":
+the voices starting an octave apart); or in the fifth (the book
+shows a notated example on the words "O Maria mater Dei" over
+"Flos filius": the voices starting a fifth apart); or in the
+fourth (the book shows a notated example on the words "Recordare
+virgo mater" over "Portare": the voices starting a fourth apart);
+or in the major third, as here (the book shows a notated example
+on the words "Mulier omnis peccati" over "Omnes": the voices
+starting a major third apart); or in the minor third, as here
+(the book shows a notated example on the words "Virgo viget
+melius" over "Flos filius": the voices starting a minor third
+apart).
+
+Then, going on through the consonances, mixing in dissonances now
+and then in their due places, so that when the tenor goes up the
+discant goes down, or the other way round. And note that tenor
+and discant, for the beauty of the song, sometimes go up and down
+together, as is plain here (the book shows a notated example on
+the words "Ave plena gratia" over "Johanne": the voices moving
+in the same direction).
+
+Item, understand that in all modes consonances must always be
+used at the beginning of a perfection, whether it be a long, a
+breve, or a semibreve.
+
+Item, in conductus the working is otherwise. For he who would
+make a conductus must first find as beautiful a song as he can;
+then he must use it as a tenor, making discant over it, as was
+said before.
+
+But he who would work a triplum must look to the tenor and the
+discant, so that if it discords with the tenor, it does not
+discord with the discant, or the other way round; and let him go
+on further through the concordances, now going up with the tenor
+or down, now with the discant, so that he is not always with one
+only, as appears in the example that follows (the book shows a
+notated three-voice example on the word "Dulcia").
+
+But he who would make a quadruplum or a quintuplum must take or
+look to the parts already made, so that if he discords with one,
+he is held in concordances with the others; nor ought he always
+to go up or down with one of them only, but now with the tenor,
+now with the discant, and so on.
+
+Mark that both in discant and in triplums and the rest, the
+evenness must be watched in the perfections of longs, breves, and
+semibreves, so that as many perfections are had in the tenor as
+in the discant or in the triplum and the rest, or the other way
+round; counting both sounded and omitted voices, right up to the
+next-to-last, where no such measure is watched -- there the point
+is rather of the organum kind. And let this be enough for the
+present on discant sung out plainly.
+
+
+[Editor's note -- in plain words: Now the music itself. A
+concordance is when two or more voices sung together agree to the
+ear; a discordance when they do not. Concordances come in three
+ranks. Perfect: the unison and the octave, where the voices melt
+together so you can hardly tell them apart. Imperfect: the major
+and minor thirds, where the voices differ plainly but do not
+clash. Middle: the fifth and the fourth, better than the thirds
+but short of perfect. (Why one concords better than another,
+Franco leaves to the plainchant books.) Discordances are of two
+ranks. Perfect discordances -- the semitone, the tritone, the
+major sixth, the minor seventh -- cannot stand together to the
+ear at all. Imperfect discordances -- the tone, the tone with the
+octave, the minor sixth -- can stand together after a fashion,
+and every one of them sits well right before a concordance (the
+first written rule of what we would call a leading note).
+Discant may be with words or without; with the same words in all
+voices (songs, rounds, some church pieces) or different words
+(motets, where the tenor counts as one of the texts); and the
+conductus, where all voices may have words or not, is made
+differently -- its tune and its discant are invented together,
+while every other kind starts from a ready-made tenor, the old
+chant that "holds" the new voices. The working rule: begin on a
+good concordance -- unison, octave, fifth, fourth, major or minor
+third (Franco gives a worked example for each: "Virgo Dei
+plena/Amoris", "Arida frondescit/Johanne", "O Maria mater
+Dei/Flos filius", "Recordare virgo mater/Portare", "Mulier omnis
+peccati/Omnes", "Virgo viget melius/Flos filius") -- then move
+through concordances, letting the voices go against each other
+(tenor up, discant down, or the reverse), though they may move
+together for beauty's sake ("Ave plena gratia/Johanne"), and
+always landing a concordance on the first beat of every
+perfection. For three voices, the triplum must agree with at
+least one of the lower voices at every point ("Dulcia"); for four
+or five, the same watchfulness, never glued to one voice alone.
+And through it all, the perfections must come out even: as many
+in the tenor as in the upper voices, counting sounded notes and
+rests alike, right up to the next-to-last note, where the
+measuring stops and the old organum manner takes over.]
+
+CHAPTER TWELVE. The copula.
+
+The copula is a swift discant joined to itself. One copula is
+ligated, another not ligated. The ligated copula is one that
+begins with a simple long and goes on through a two-note ligature
+with propriety and perfection, after the likeness of the second
+mode; yet it differs from the second mode itself, namely in the
+noting and in the singing. In the noting, because the second mode
+has no simple long at the beginning, but the copula has, as is
+plain here (the book shows a notated example: a simple long
+followed by two-note ligatures with propriety and perfection).
+
+But if between the first simple note and the ligature the
+division of the mode is set, then it is not a copula, but is
+called of the second mode, as appears in the example that follows
+(the book shows a notated example: the same figure with the
+little dividing stroke set between).
+
+In the singing also the copula differs from the second mode: the
+second is sung as a right breve and an imperfect long; but this
+copula will be sung swiftly, as if semibreve and breve, right to
+the end.
+
+The unligated copula is made after the likeness of the fifth
+mode. Yet it differs from the fifth in two ways, in the noting
+and in the singing. In the noting it differs from the fifth,
+because the fifth, wherever it is without text, is ligatable, but
+this copula is never taken over text, and yet is not ligated, as
+appears here (the book shows a notated example on the word
+"Amen": swift unligated notes with no text beneath them). In the
+singing it differs also from the fifth, because the fifth is sung
+from right breves, but the copula is joined by being sung more
+swiftly. And let this be enough on the copula.
+
+
+[Editor's note -- in plain words: The copula is the quick,
+showy kind of discant -- notes joined together and run off
+swiftly. The ligated copula starts with a plain long and runs on
+in two-note ligatures with propriety and perfection, looking just
+like the second mode; but it is not the second mode. In the
+writing it differs because the second mode never starts with a
+plain long and the copula does; in the singing it differs because
+the second mode goes "short-long" while the copula flies by as
+"semibreve-breve" to the end. (And if you set the little dividing
+stroke between the opening long and the ligature, it stops being
+a copula and becomes the second mode outright.) The unligated
+copula looks like the fifth mode but differs in the same two
+ways: the fifth can be ligated anywhere when there are no words,
+while the copula is never sung to words and yet is never ligated
+("Amen"); and it is sung faster than the fifth's plain breves.
+In short: like the modes, but quicker and freer -- the virtuoso
+corner of Franco's art.]
+
+
+CHAPTER THIRTEEN. Hockets.
+
+Cutting-short (truncatio) is song sung out cut short in sounded
+and omitted voices; and note that cutting-short can be made in as
+many ways as a long, a breve, or a semibreve can be divided. A
+long is divisible in many ways: first into long-and-breve, and
+breve-and-long; and from this is made the cutting-short, or
+hocket (ochetus), which is the same thing -- so that in one voice
+the breve is left out, in the other the long, as appears here
+(the book shows a notated example on the words "In seculum": two
+voices trading sounded and silent notes).
+
+So also it can be divided into three breves, or two, and into
+many semibreves. And from all these the cut-short song is sung
+through sounded and omitted voices, so that when one rests the
+other does not rest, or the other way round. But a breve is
+divisible into three semibreves or two; and from this the hocket
+song is sung, leaving out one semibreve in one voice and singing
+another, as is plain here (the book shows a notated example of
+breves split into semibreves, the voices taking turns).
+
+And mark that from the cuttings-short named before, the common
+hockets are born, through the leaving out of longs and breves,
+and also through the singing. And mark that in all these the
+evenness must be watched in the beats, and the concordance in the
+sounded voices. Item, second: that every cutting-short must be
+founded upon a song already made, whether it be common or Latin.
+And let this be enough on hockets.
+
+Organum properly taken is song not measured in every part of it.
+Note that pure organum cannot be had except over a tenor where
+the note alone is in unison -- so that when the tenor takes
+several notes together, at once it is discant, as here (the book
+shows a notated example of pure organum over a single-note
+tenor).
+
+The longs and breves of this organum are known by three rules.
+The first is: whatever is noted in a simple long note is long,
+and in a breve, breve, and in a semibreve, semibreve. The second
+rule is: whatever is long needs concordance with the tenor; but
+if dissonance comes, let the tenor be silent, or feign itself
+into concordance, as is plain here (the book shows a notated
+example of the tenor falling silent or adjusting under a
+dissonance). The third rule is: whatever is taken right before
+the rest that is called the end of notes is long, because every
+next-to-last is long.
+
+So mark that whenever in pure organum several figures come
+together in unison, only the first ought to be struck; but all
+the rest are to be held in the ornamenting (floratura), as here
+(the book shows a notated example: several notes in unison, the
+first struck and the rest held as ornament).
+
+And let what has been said here be enough on discant and its
+kinds, and also on the figures themselves -- that is, on the
+figures and the rests -- and on organum itself.
+
+
+[Editor's note -- in plain words: The hocket -- the "cutting
+short" -- is music made of interruptions: one voice sings while
+the other is silent, then they trade, like two people finishing
+each other's sentences. It is built by dividing the note-values:
+a long split into long-and-breve or breve-and-long gives the
+hocket where one voice drops the breve and the other drops the
+long ("In seculum"); a long can also split into two or three
+breves or a shower of semibreves, a breve into two or three
+semibreves. Every hocket must be founded on a tune already made,
+whether a common street tune or a Latin one -- and the beats must
+come out even and the sounded notes must agree. Then Franco turns
+to pure organum, the old unmeasured art: it can only stand over a
+tenor holding one single note in unison; the moment the tenor
+takes several notes together, you are in discant. Its note-values
+are read by three plain rules: what is written long is long,
+breve breve, semibreve semibreve; every long note must agree
+with the tenor, and if a clash comes the tenor falls silent or
+bends itself into agreement; and whatever stands just before the
+end-of-notes mark is long, for the next-to-last is always long.
+And when several notes pile up in unison, strike only the first
+and let the rest pour out as ornament. With that, the whole
+treatise is done.]
+
+
+[Here the edition adds, in brackets, a summary of the intervals,
+gathered from the writings of Petrus Picardus, as follows:]
+
+Unison is when several voices are taken together as one -- as
+when the same note-name is spoken, as in gamma, and re, re, re on
+a, and mi, mi, mi on b. (The passage is unclear in the edition;
+the note-names are given as printed.)
+
+The tone is the distance between two voices following right after
+each other, except for the semitone, as mi, fa, where the
+semitone remains; for the semitone is a small raising or
+lowering, and if it were made smaller, it would not be perceived.
+
+The major third (ditonus) is between ut and mi, fa and la, in
+whatever place they are found, and is called ditonus as having
+two tones.
+
+The minor third (semiditonus) is the distance between re and fa,
+mi and sol -- and mark this is in the same ordering of voices --
+and is called from semis (half) and tonos (tone), that is, as it
+were a tone and a half.
+
+The fourth (diatessaron) is the distance between ut and fa, re
+and sol, mi and la, and holds two tones with a semitone; it is
+called from dya, which is "of," and tessaron, which is "four," as
+of four voices.
+
+The fifth (diapente) is the distance between ut and sol, re and
+la, mi and mi, fa and fa, through the disjoining of voices, and
+holds three tones with a semitone; it is called from dya, which
+is "of," and pente, which is "five," as of five voices.
+
+The tritone is the distance between f and b natural (b quadratum),
+and between mi and fa through the disjoining of voices, and holds
+three whole tones or their equivalent.
+
+The tone with the octave is the distance between ut and fa, and
+holds four tones with a semitone.
+
+The semitone with the octave is made between a and f, d and b
+flat (b molle), re and fa through the disjoining of voices, and
+holds four tones.
+
+The minor third with the octave is made between gamma and f, a
+and g, b natural and a, and holds five tones.
+
+The major third with the octave is made between c and b natural,
+f and e-la, g and c-fa, and holds five tones with a semitone.
+
+The octave (diapason) is made between all like letters far apart,
+as between A and a, B and b, and so on. And it holds the fifth
+and the fourth, or six tones, which is the same.
+
+Of these consonances, some are concordances and some
+discordances. Of the concordances, some are perfect, as the
+unison, which is made on one letter, and the octave; some
+imperfect, as the minor third and the major third; some middle,
+as the fifth and the fourth.
+
+Of all these concordances, the first concords better than the
+second: as the unison better than the octave, and the minor third
+better than the major third, and the fifth better than the
+fourth.
+
+Item, a perfect concordance concords better than an imperfect;
+a middle concords better than an imperfect concordance.
+
+All the other consonances are called discordances. Of these
+discordances some are perfect, some imperfect. The perfect
+discordances may not be taken in any discant; and they are four:
+the semitone, the tritone, the major sixth (ditonus with
+diapente), and the minor seventh (semitonium with diapente).
+
+The imperfect ones may be taken in some discant, and this right
+before a perfect concordance coming immediately after; and they
+are three: the tone with the octave, and the minor sixth
+(semiditonus with diapente). (The edition promises three but
+prints two; the third is not given in Coussemaker's text.)
+
+Which things, as if summing up but shortening them, Petrus
+Picardus writing says.
+
+[Editor's note -- in plain words: This last table is not Franco's
+own writing but a summary Coussemaker prints in brackets, drawn
+from Petrus Picardus -- a kind of appendix defining every
+interval by its note-names and its size in tones. The unison is
+voices taken as one; the tone is the step between neighboring
+notes (the semitone, mi to fa, being the smallest thing the ear
+can catch); the major third spans ut-mi or fa-la, the minor third
+re-fa or mi-sol; the fourth spans ut-fa, the fifth ut-sol, the
+tritone f to b natural; then the compounded intervals -- ninths,
+tenths, and so on -- up to the octave, which spans the fifth plus
+the fourth, six tones. The concordances are ranked: unison above
+octave, minor third above major third, fifth above fourth, and
+perfect above middle above imperfect. The perfect discordances
+(semitone, tritone, major sixth, minor seventh) are barred from
+any discant; the imperfect ones may be used, but only leaning into
+a perfect concordance right after. It is the whole harmony of the
+treatise in one page.]
+
+[Here ends the text of Franco's Art of Measured Song, as printed
+in Coussemaker, vol. 1, pp. 117-136.]
+
+AFTERWORD: THE BOOK THAT TAUGHT THE NOTES TO TELL TIME
+
+What you have just read is the working manual of a revolution
+that made no noise. Before this treatise, a singer reading a
+page of measured music could not know how long a note lasted by
+looking at the note alone; the length had to be guessed from the
+pattern around it, the way you guess a word from the sentence.
+Franco's book changes that, rule by rule and example by example,
+until every shape on the page -- the long with its stem, the
+square breve, the diamond semibreve, the joined ligature, the
+little stroke of division, the tall rest -- tells the singer its
+own length on its own authority. That is the whole of it, and it
+is everything: time made visible, so that two or three or five
+voices, each singing a different tune, can move together and come
+out even at the end.
+
+The engine of the book is the doctrine of perfection and
+imperfection. A long is perfect -- three beats -- when the notes
+around it let it be; a breve beside it cuts it to two. The
+little dividing stroke saves a perfection here and spends one
+there. It reads like bookkeeping, and it is: the most beautiful
+bookkeeping ever devised, because what is being kept is time
+itself, divided fairly among voices.
+
+The book then climbs, chapter by chapter, from the alphabet to
+the art. The plica bends a note into low and high. The ligature
+joins notes into one body, with propriety at its head inherited
+from the old chant writing and perfection at its tail, and every
+middle note a breve -- Franco is fierce on that point, and names
+his opponents wrong by name. The rests are counted silences, and
+through them the rhythmic modes change into one another, so that
+a piece may wander through all five modes and still be one piece.
+The tying-rules tell the copyist what may be joined and what may
+not. Then the great eleventh chapter teaches the making of
+discant itself: what agrees to the ear and what does not, the
+three ranks of concordance and the two of discordance, the tenor
+taken ready-made, the conductus invented whole, the voices
+beginning on unison, octave, fifth, fourth, or third, moving
+against each other and landing together on every perfection, the
+triplum watching both lower voices, the perfections kept even
+from the first note to the next-to-last. The copula runs the
+same ground swiftly; the hocket chops it into trading silences;
+and pure organum, the old art, keeps its three plain rules under
+the new reign.
+
+The treatise was copied and recopied across Europe -- Paris,
+Oxford, and beyond -- which is how we know it was used, not just
+admired. The Latin you have read in English here is the text as
+Edmond de Coussemaker printed it in 1864, from the manuscripts
+he could lay hands on; the Thesaurus Musicarum Latinarum keeps
+it searchable to this day, alongside transcriptions from the
+manuscripts themselves. Read against those manuscripts, the
+printed text shows the usual small scars of transmission -- a
+promised third example that never comes, a passage on the unison
+that the copyists themselves seem to have puzzled over -- and
+this edition has marked them where they fall rather than smoothing
+them away.
+
+One caution, in the spirit of the house: this afterword praises
+nothing. That the book did what it claims -- that singers learned
+to read measured time from its pages for two hundred years -- is
+proved by the centuries of copying and by the notation that
+descends from it to our own staves. What cannot be proved is not
+claimed. The man Franco remains a name on a title page; the book
+is the man, and the book is here.
+
+GLOSSARY OF THE BOOK'S TERMS
+
+Beat (tempus): the smallest counted unit of time; what is least
+in the fullness of the voice.
+
+Perfection (perfectio): the three-beat span; the treatise's unit
+of account. Imperfection is the two-beat span.
+
+Long (longa): the chief note, square with a stem; perfect (three
+beats) or imperfect (two). Double long: two longs in one body.
+
+Breve (brevis): the short note, a plain square; right (one beat)
+or altered (two beats).
+
+Semibreve (semibrevis): the half-breve, drawn as a diamond;
+greater (two thirds of a breve) or lesser (one third).
+
+Plica: the "fold"; a mark dividing one note into a low and a high
+sound, a kind of grace or bend.
+
+Figure (figura): the written sign of a sung voice in a mode.
+
+Ligature (ligatura): notes joined together in one body.
+Propriety: the mark of the old chant-writing at its beginning.
+Opposite propriety: the mark that turns notes into semibreves.
+
+Mode (modus): a rhythmic pattern of longs and shorts; five in
+Franco's counting.
+
+Rest (pausa): a counted silence; a lost voice with a measured
+length.
+
+Discant (discantus): several different tunes sounding together in
+counted time. Sung plainly, cut short (hocket), or joined
+(copula).
+
+Hocket (ochetus, truncatio): discant cut into trading bits of
+sound and silence.
+
+Copula: swift discant joined together.
+
+Organum: song measured only in part; properly, the old pure
+two-voice art over a single sustained note.
+
+Tenor: the ready-made tune that holds the discant; the new
+voices rise from it.
+
+Triplum, quadruplum: the third, fourth voices above tenor and
+discant.
+
+Concordance: voices agreeing to the ear -- perfect (unison,
+octave), imperfect (thirds), middle (fifth, fourth).
+Discordance: voices disagreeing -- perfect (never to be used) or
+imperfect (good before a concordance).
+
+----------------------------------------------------------------
+PRIMACY NOTE
+
+None found after research. A reasonable search of the web (2026)
+found no complete English translation of Franco of Cologne's Ars
+cantus mensurabilis anywhere: the treatise is quoted and
+summarized in histories of medieval music, and its Latin stands
+in Coussemaker's edition and in the Thesaurus Musicarum Latinarum,
+but a full English rendering has not been located. This note says
+only what the search found; it does not claim this edition is the
+first, the only, or the most authentic.
+
+----------------------------------------------------------------
+RIGHTS LINE
+
+Public domain source text; modern edition (c) editor, free
+redistribution.
