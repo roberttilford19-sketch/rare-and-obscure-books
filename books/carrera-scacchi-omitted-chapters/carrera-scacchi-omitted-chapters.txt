@@ -1,0 +1,813 @@
+THE OMITTED CHAPTERS OF PIETRO CARRERA'S CHESS BOOK
+The True Origin of the Game, and the New Game on the Great Board
+
+By Don Pietro Carrera (1571-1647)
+
+From Il gioco de gli scacchi di D. Pietro Carrera, diviso in otto libri
+(Militello: Giovanni de' Rossi, 1617) — Internet Archive bub_gb_-fRYAAAAYAAJ
+(Princeton University Library scan, via Google Books)
+
+The Rare & Obscure Books series — the Boneyard
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT. This draft was
+prepared with AI assistance under the editorial direction of Robert Tilford.
+It is a fresh English rendering made from the Italian text of the 1617
+edition. It has not yet had the final checks required before any public use.
+
+---
+
+DEDICATION
+
+To Don Pietro Carrera, priest of Militello in Sicily, 1571-1647.
+
+He was the parish priest of a small Sicilian hill town, and in 1617 he did
+two things no one in Militello had done before: he had a book printed there —
+the first book ever printed in Militello — and in it he set down everything
+known about the game of chess, from its invention to its finest endings. He
+died in 1647, thirty years after his book appeared. (Beyond these bare facts
+his life is not documented in the materials used for this edition, and none
+is invented here.)
+
+His work is vital, and the proof is not praise but arithmetic. In 1822 the
+English chess master William Lewis translated Carrera into English — but in
+his preface Lewis wrote plainly that he had "not thought fit to translate
+the whole of the original," and named what he threw away: "the chapter on
+the origin of the game; an account of a new game on a board of ninety-six
+squares, played with the chess-men and two additional pieces." What the
+practical player of 1822 had no use for was exactly this: Carrera's proof
+that chess was invented by Palamedes at the siege of Troy, and Carrera's own
+invention — two new pieces, the Champion and the Centaur, on a board enlarged
+to eighty squares — three hundred years before Capablanca dreamed of adding
+pieces to chess. These chapters have waited more than two centuries for an
+English voice. This edition gives them one, translated fresh from Carrera's
+Italian, never borrowing a line from Lewis.
+
+Where to go next: the whole 1617 Italian volume stands free on the Internet
+Archive (identifier bub_gb_-fRYAAAAYAAJ); Lewis's 1822 Chess for Beginners
+covers the practical chapters — openings, endings, and checkmates — that he
+did translate.
+
+---
+
+BOOK I, CHAPTER I
+Of the Inventor of the Game of Chess
+
+[The printed Argument of the chapter, by Dr. Mario Tortelli:]
+It is proved that Palamedes was the inventor of the game of chess. The names
+of the game are declared, their derivation, and many significations drawn
+from it. Its excellence is discussed, and the diverse ways of playing it. It
+is examined whether knowledge of the game is bounded. The customs of players
+in the game are treated. The combinations of the chessmen among themselves,
+and among the squares of the board, are explained. The ancient players and
+the most celebrated modern ones are reported, and those who have written of
+the game.
+
+The antiquity of time, and the small care men have taken, have caused the
+origins of things — though they had a certain beginning — to come down to us
+uncertain and doubtful. Hence we do not know whom to believe among those who
+write of diverse things in different ways. That same uncertainty which has
+befallen many discoveries in the sciences, the arts, and other matters, we see
+prevailing today, and in the highest degree, around the invention of the game
+of chess.
+
+Ruy Lopez, in chapter 3 of his book on chess, gives it to be understood that
+he could prove the game came out of Sicily — yet he does not prove it,
+because he cannot, that opinion being new and his alone, born only of his
+excessive love for his homeland. He likewise rejects the view of those who
+would have it invented by the Moors; the reason he gives is that the game is
+older than the Moors — a saying that does not please studious minds, for the
+Moors are most ancient, as is read in diverse authors. Indeed I will add that
+they drew that very name from their mothers' wombs, for "Moor" means black,
+and there is no doubting the word is corrupted from the Latin. Yet I do not
+grant that they were the inventors, for I see no one who takes up and defends
+their cause; one hears only a false outcry resting on the uncertainty of the
+vulgar.
+
+Damiano, the Spanish writer, in the work he composed on chess, reports that
+some make King Xerxes its inventor; and Polydore Vergil — followed by Giacomo
+da Cevoli and Gregorio Ducchi, in book 2, chapter 13 of *De inventoribus
+rerum* — with no authority behind him attributes the invention to Xerxes, a
+philologist also called by others Philometor, for the sake (as he says) of
+correcting a cruel king, whom the said Giacomo takes to be Evilmerodach, king
+of Babylon, son of Nebuchadnezzar. In support of these views some Spaniards
+adduce that *axedrez*, the Spanish word meaning the chessboard, is derived,
+though corruptly, from the name of Xerxes. Neither opinion is embraced, for
+in Homer we have the game of chess played by the suitors of Penelope — and
+from that time to King Evilmerodach ran some hundreds of years after, and
+still more to King Xerxes, as is easily gathered from the writers.
+
+Others, together with Damiano, would have it that Lydus and Tyrrhenus,
+brothers of the Greek nation, pressed by famine to pass the time, devised the
+invention of the game — a sentence I have never seen written nor approved by
+any worthy author. I take it to be founded, though weakly, on that passage of
+Herodotus in his first book, where he tells how in the time of Atys, son of
+King Manes, Lydia, afflicted by famine for lack of food, gave itself to
+inventing new things; for the Lydians were then the inventors of dice, of
+ball, and of other games. Indeed, according to Hesychius, the Romans took
+that name LUDI from the Lydians, changing the *y* to *u*, as the Latins do
+with Greek names. Yet Lydus and Tyrrhenus were sons of Atys — though
+Herodotus has no contradictors in this, as he has in some things — and still
+it would not follow that the Lydians were the inventors of chess. Besides,
+by the reckoners of time, the brothers Lydus and Tyrrhenus lived many years
+after the Trojan war, from which we draw the origin of the game.
+
+Those who make the Chaldeans the inventors — among them Diomedes, after
+Giacomo da Cevoli — are not followed; indeed I find no author who leans on
+it. Others affirm the game was invented by the Egyptians, among them Jodocus
+Damhouder, as he says in his *Parenesi Cristiane* in the admonition he makes
+to soldiers; yet this opinion does not stand, and it is rejected by Celio
+Rodicino in book 10, chapter 14 of the *Antiche lettioni*.
+
+Two other opinions remain. One is that its inventor was Palamedes the Greek,
+at the beginning of the Trojan war; the other, that it was invented by those
+rival princes in the love of Penelope, some years after the said war. These
+two sentences, being joined the one with the other, I will describe and
+expound together, as far as my weak strength and the reasons that occur to me
+allow.
+
+Homer in the first book of the *Odyssey* says thus:
+
+   He found the proud suitors, who then
+   Before the doorway, seated at their ease,
+   Were delighting their spirit at chess.
+
+The Latin version of Giovanni Spondano has it likewise:
+
+   *Invenit autem Procos superbos, qui quidem tum
+   Calculis ante ianuam animum oblectabant.*
+
+Athenaeus, in the first book of the *Deipnosophists*, discoursing on this
+passage of Homer, says that Apion the Alexandrian told how he had heard from
+Cteson of the isle of Ithaca what game of chess it was that Penelope's
+suitors played, affirming it to be this. They had taken a hundred and eight
+chessmen — for that was the number of the suitors — and made of them two
+opposing and equal squadrons, so that each completed the number of
+fifty-four; in the middle of the board was seen a certain space of empty
+squares, in which they placed one chessman called by them by the name
+Penelope. This was the target of the chessmen of the one and of the other
+squadron. He whose turn it was to play directed one of his chessmen toward
+Penelope; and if by chance he struck her and moved her forward from her
+place, he set that same chessman which had done the deed in Penelope's
+square. Then Penelope's chessman was put back anew in its own lodging, where
+it sat before, and the same player moved another chessman against Penelope;
+and if he struck her without touching any of the other chessmen, he was
+declared victor, and had excellent hope in the marriage of Penelope. At this
+game Eurymachus won many times, and so with great hope he promised himself
+her nuptials.
+
+All that Athenaeus reports of that manner of game — with his good leave —
+may be doubted. For though the reader gives faith, as is due, to the words
+of so grave and worthy a writer, he still hangs ambiguous over the report of
+that Apion the Alexandrian, founded on the other report of Cteson the
+Ithacan — men known by name alone. Experience shows us that in our own day
+many tales come even from the mouths of grave men, depending yet on others'
+sayings, which are manifest lies. But granting the report most true that the
+suitors were the inventors of the game, we argue instead that they took their
+game from the game of chess invented earlier by Palamedes, as we shall say at
+Aulis — for in it one sees the imitation of check, which is that assault
+given to Penelope's chessman; one sees the halting in the place of the enemy
+chessman, as is seen in removing Penelope's chessman and setting the other
+elsewhere in her square; there is also the representation of the Queen in
+Penelope's chessman, though on a different principle.
+
+It is plain that witty men, after the first invention of a thing, adding or
+changing on that same foundation, invent other inventions — as is known to
+have happened with the invention of the game of Goose in our fathers' time.
+That game, having been invented in Florence and mightily pleasing Francesco
+de' Medici, then Grand Duke of Tuscany, he sent it to the Majesty of King
+Philip II in Spain, where, once published, it gave good wits matter to invent
+others little different from the first, among them the game called *Courted
+Philosophy*, invented by the Spaniard Alonso de Barros. It need not seem
+difficult that in the course of twenty years — which is what runs from the
+beginning of the Greeks' enterprise to the suitors — knowledge of the game
+should have spread through those lands, there being no great distance
+between Ithaca and Aulis.
+
+If it is objected to me that the suitors would have exposed themselves to
+that same enterprise in the game of chess, had chess existed before, I answer
+that the suit, which was between a hundred and eight, could not be decided
+with the game of chess; and perhaps not all knew the game, or not all
+delighted in it, so they formed one after their own fashion which would
+satisfy each. I will say too that they did it to bend Penelope herself, for
+women take great pleasure in inventions devised for love of them — for which
+reasons the game of chess did not serve the turn.
+
+There remains for me to answer another objection that may be drawn from
+Athenaeus's words in that same passage cited above, where he says the suitors
+learned this manner of game neither from Diodorus the Megalopolitan, nor
+from Theostenes, nor even from Leo — who, as Phanias writes, was in that game
+truly invincible — hinting that these players lived in the suitors' time. We
+grant it all, for it does not destroy Palamedes' invention but approves it:
+we shall say the game he invented pleased so well that at once there arose
+from it most perfect players. This is confirmed by the authority of Pausanias
+in book 10, who tells how one of the two Ajaxes watched Palamedes playing
+chess with Thersites; and Euripides too adduces it in the tragedy *Iphigenia
+in Aulis*, saying that Ajax and Protesilaus played at chess, and with them
+were the other Ajax, Palamedes, and Diomedes, while round about stood
+Meriones, Ulysses, and Nireus. Hence we must affirm that the game, from its
+birth, was taken into use with the greatest profit of the players.
+
+Palamedes, then, according to the common opinion which I follow, finding
+himself at Aulis — a city and port of Boeotia — with the army of the Greeks,
+which was detained there awaiting fair weather to sail to the harm of the
+Trojans, invented the game of chess. Of this Philostratus bears witness in
+the *Heroica*, on Palamedes, reasoning of him in these words:
+
+   "For he — I speak of Palamedes — I will say it,
+   Not without God's help,
+   Drove far off hunger,
+   And those who sat in dry encampment,
+   Where the sea murmurs, to flee idleness
+   He induced, and showed them
+   The game of chess,
+   Which he had invented,
+   For the merry pleasure of the soul."
+
+Pausanias in book 10: thence the other Ajax stands watching Palamedes and
+Thersites, who were playing at chess — of which same game Palamedes was the
+inventor. He says the same again in book 1: that Palamedes dedicated the
+chess he had invented in the temple of Fortune. These authorities of the
+Greek writers — as I have interpreted them, so too Andrea Tiraquello the
+jurist, a man adorned with all letters, understands them in the commentary
+he makes on Alexander of Alexandria's *Genial Days*, book 3, chapter 11 — and
+other writers likewise.
+
+The most learned Matthew Rader, in his commentaries on Martial, book 14,
+with others together, interprets Philostratus's authority differently: he
+would have it that in that place he says Palamedes invented the game of
+*Tali* [knucklebones]; indeed from that same passage of Sophocles he declares
+the same, and by Pausanias he understands the invention of the Tali and of
+dice. I take it he never condescended to weigh Philostratus's words, which
+in Federico Morello's translation sound thus: *Ceterum in Aulide
+existentes...* — he speaks of Palamedes — *...ludum non modo non ibidem,
+verum solertem ac studio dignum* — "a game not only not [vulgar] there, but
+skillful and worthy of study." To the game of Tali and dice those words —
+*a game skillful and worthy of study* — do not suit; they suit the game of
+chess at full. And Philostratus himself decides the question. Pausanias's
+authority in book 10, by which Palamedes and Thersites are adduced, watched
+at play by Ajax, gives us no light of proof in favour of dice, because the
+use of the dice game ordinarily admits a greater number of persons than two
+— so that it may be set down as a maxim that where there is dicing, there is
+a multitude of players. The other authority of the same writer in book 1,
+where we say Palamedes dedicated the chess in the temple of Fortune, is not
+without purpose: for the inventor, wishing to signify that chess was not
+subject to fortune, chose to set it as if for ensigns in her house — after
+the likeness of those captains who, not content with having beaten the enemy
+in his own country, in sign of victory and for the eternal memory of
+posterity raise a pyramid there.
+
+The last verse of Sophocles' authority, which is much like Homer's third
+cited above, answers rather to the sense of chess than of dice: for the
+gladness and pleasure found in the game of chess are not known in that of
+dice, wherein displeasure and anguish reign.
+
+Leaving these considerations, let us recur to the divine Plato, who in the
+*Phaedrus*, adducing Theuth the sage of Egypt as inventor of the game of Tali
+and dice, reasons thus: "Theuth's name is Theuth; he first of all invented
+number, the art of reckoning, geometry, astronomy, and the games of Tali and
+dice, and letters besides." Herodotus too in his first book says the Lydians
+were the first to invent the game of dice, and other games — but not the
+game of Tali. Hence from these two most weighty authors, though they differ
+between themselves, we have it that another, and not Palamedes, was the
+inventor of the Tali and of dice; so the sayings of Philostratus, of
+Sophocles, of Pausanias fit the understanding of the game of chess. And since
+we have chanced on mention of the game of Tali, for the greater clearness of
+this discourse it has seemed good to speak of it briefly.
+
+The game of Tali, which today among us is lost, was used in antiquity with
+four dice, each of which had four faces full of number and two empty, for the
+Two and the Five were lacking. Their shape was not wholly round, but much
+partaking of roundness; nor was it seen completely square like that of dice,
+but such as we know to be the shape of the knuckle — the joint of the hinder
+feet of certain animals, as the lion — for the game of Tali took its name
+from the shape of this knuckle, which is called *talus*. It befell the
+players at times, though rarely, that the talus settled on one of the two
+empty faces, and those were called by the Greeks *antemne*. Then, to escape
+the frauds of those who doctored the talus to their liking, the game was
+played by putting the tali in a small vessel of wood or other matter, called
+by the Latins *turricula* and by the Greeks *pyrgus*, and casting them on the
+game table — which we see observed by many even in our times in the game of
+dice, for the sake of that same cheating which is vulgarly called *sficcare*
+[loading the cast]. Of the manner of the game of Tali, and of all that
+belongs to winning, it is not my thought to reason.
+
+I take it we have proved enough that the origin of the game of chess depends
+on Palamedes; yet for greater support we will adduce the authorities of
+celebrated men who understood the same as we do concerning the invention of
+the game. Saint Gregory Nazianzen in his third oration attributes the
+invention of chess to Palamedes; Aurelius Cassiodorus, called the Great, in
+book 8, epistle 31, hints the same; Celio Rodicino in book 10, chapter 14 of
+the *Ancient Lessons* affirms the same, as does Alexander of Alexandria in
+book 3, chapter 11 of the *Genial Days*, and together with him Andrea
+Tiraquello commenting on that same place; Servius on the second book of
+Virgil's *Aeneid* at that place "...Palamedis..."; Torquato Tasso in the
+*Romeo*; Theodor Zwinger in the *Theatre of Human Life*, volume 18; Johann
+Fungerius in his *Dictionary of Three Languages*; Ambrogio Calepino in the
+*Dictionarium* — "Palamedes" — of his vocabulary; Cesare Rao in his twentieth
+invective; Innocenzo Ringuieri in book 10 of games, chapter 98; Bartolomeo
+Arnigio in the *Veglia sesta*; Caccialupo, and Paride del Pozzo, as Giovanni
+Parladorus reports in book 11, chapter 7; and Giovan Battista Baiardo on
+Giulio Claro in book 5 of the *Criminal Practice*, section *Ludus*.
+
+And because, as I have said, the game was invented at Aulis before the Trojan
+war, we do not receive those reasons others adduce — that Palamedes by the
+Queen of the game meant Penthesilea, by the black squadron the camp of
+Memnon, by the chess Knight the Trojan horse, and many other considerations
+founded on the progress and completion of the Trojan war — for they repugn
+the truth of history.
+
+There rises another opposition, held by Celio Calcagnino, one of the greatest
+scholars of his time, in the discourse he makes on the game. It is this: that
+the game of chess was not known to the ancients — an opinion followed by most
+learned men, alleging that those memories of chess found in Martial, in
+Seneca, and in others are to be understood of the chess of the *Riga*
+[draughts-board], and not of the chess of our game of which we reason. That
+this is not true I shall prove with diverse and well-grounded reasons, and
+also with the authority of most weighty men.
+
+Calcagnino — because he lacked the full knowledge of the game, without which
+he could not observe and examine at full its properties, which lie scattered
+through the writers — [went astray]. First it will be needful to unfold the
+knowledge of the games of the Riga, that all may remain made clear.
+
+The Riga among the ancients was of three kinds. One, as Celio Rodicino
+affirms in book 10, chapter 27 of the *Ancient Lessons*, on the authority of
+Eustathius, contained sixty chessmen, part white and part black — and this
+was called *Grammismus*, *Diagrammismus*, and *Gramma*, which are the same as
+*linea* [line], though *gramma* signified every riga. Julius Pollux confirms
+this in his *Dictionary*, reasoning thus: "You say white stones, and as many
+black." Cicero in the *Hortensius*: *Itane ubi concedo, quod in duodecim
+scrupis nolim, ut calculum reducas, si te alicuius dati poeniteat* ["Do I
+grant, then, that on the twelve lines I would not have you take back a man,
+if you repent of some move?"]. Quintilian in book 10, chapter 10: *An vero
+scenda in lusu duodecim scriptorum cum prior calculum promovisset* ["Or
+indeed, on the board of the twelve lines, when the first had advanced his
+man..."].
+
+This riga, as the figure that follows shows, is divided into five lines cut
+lengthwise, and as many across, with two other lines crossing it and ending
+in the corners. In it are seen four other small lines, which cut across the
+four squares of the riga, and each of them embraces three houses; each of the
+greater lines, both straight and oblique, has five, and on these sit the
+stones of the game — except the middle line, which has four places filled
+with stones, because the house in the middle of it remains empty. This middle
+line was called by the ancients *Sacra* [the Sacred], for it was not lawful
+without great necessity to move the stones from it — whence was born the
+proverb *Sacram movere lapidem* ["to move the sacred stone"], which means to
+compel a man to an act of extreme necessity. Theocritus in the 6th Idyll: "And
+from the line he takes back the stone."
+
+The stones which reach the last line, according to Isidore as Giuseppe
+Scaligero reports on the 6th book of Varro, were called *Inciti*. Here it
+seems needful to me to warn that this riga is different from that game the
+Sicilians call *Marrella* and the Spaniards *Juego de las damas* [draughts],
+though the two games have some things in common; of it I see no author makes
+mention. The third kind of riga, as appears by the figure here set down, was
+the same [game] still played by low men with the same manner of play, called
+the Riga of Three. Ovid in book 3, *De tristibus*:
+
+   *Parva sedet ternis instructa tabella lapillis,
+   qua vicisse est continuasse suos.*
+
+And in book 3, *De arte amandi*:
+
+   *Talia tabella capit ternos utrinque lapillos,
+   qua vicisse est continuasse suos.*
+
+From these species of rigae is perhaps derived the Riga of Nine, which today
+is more in use than the others, and it is wont to go on the reverse of the
+chessboard; of it, for all I have seen, I find no memory among the ancients.
+
+Because these three kinds of riga were played with small stones, the Latins
+called their chessmen *calculi*, *scrupi*, *lapilli* — which are of one
+signification. The ancients, reasoning of these games, always described them
+with the bare names of stones; to which plainly do not suit names of
+soldiers, and descriptions of battles — which is proper to the game of chess.
+Therefore those writers who, treating of the game, liken it to a war, and
+the chessmen to fighters, meant our game of chess, and none of those of the
+riga.
+
+Ovid in book 3 of the *Art of Love* makes the game of chess different from
+that of the Riga of Twelve, and treats of them separately, in these verses:
+
+   *Quantaque non solitis latronum praelia ludat,
+   unus cum gemino calculus hoste perit.*
+
+["And how he plays the soldiers' battles in unwonted wise; one man perishes
+with a double foe."] And the warrior, caught by his own [man] without a
+comrade in arms, seldom runs his begun work back again. The properties of the
+chessmen are plainly expounded. Then follows, for the Riga of Twelve, this
+distich:
+
+   *Est genus in totidem tenui ratione redactum
+   spicula, quot menses lubricus annus habet.*
+
+["There is a kind reduced by slender reckoning to as many points as the
+slippery year has months."]
+
+Julius Pollux in his *Dictionary*, in the treatise of games, says thus:
+"That game which is called of many chessmen is a game of *petteia* [draughts];
+it embraces the houses sitting in the lines." That this sense belongs more to
+the game of chess than to the riga, Pollux himself shows with these words
+that follow: "Next to this game — that is, of chess — comes the *grammismos*
+and *diagrammismos*, which game is called by some 'the lines.'" The game to
+which the grammismos comes next cannot be understood as the Riga of Twelve,
+nor yet the Riga of Three: for if it were so, Pollux would have said that
+game came next to the grammismos. So, there being no other rigae, we must
+understand the game of chess, to which the grammismos draws near. Nor does it
+contradict this that the grammismos has the greater number of chessmen: for
+as a riga-game it lacked those subtleties which are in the game of chess,
+and it might well have some qualities partaking of the game of chess —
+seeing that to this hour I have found in no one the manner of playing the
+grammismos.
+
+And because the ancient writers called the game of chess *ludus
+latrunculorum*, or *latronum*, and the chessmen *latrunculi* and *latrones* —
+by which some Latins, ill-led, have called the chessmen *furunculi*,
+judging *furunculi* to import the same as *latrunculi*, that is, little
+thieves — I say that those soldiers who served in war for pay were called
+*latrones*; hence, according to Varro in the sixth book of the Latin tongue,
+they were so named as *latrones a latere*, because they stood at the king's
+side — indeed *laterones* and *laterunculi*, ancient voices, are the same as
+*latrones* and *latrunculi*. Plautus in the comedy of the Braggart Soldier:
+*Nam rex Seleucus me opere oravit maximo, ut sibi latrones cogerem et
+conscriberem* ["For King Seleucus begged me with the greatest earnestness to
+levy and enlist soldiers for him"]. Ennius: *Fortunamque, quas ceperunt
+latrones, inter se memorare* ["and to tell among themselves the fortune
+which the soldiers took"]. Hence by *ludus latrunculorum* and *latronum* is
+not meant a game of robbers, but a game of soldiers — which name suits no
+game of the riga.
+
+Not content with the above reasons, I will add the opinions of many who by
+*ludus latrunculorum* or *latronum* understood the game of chess. Domizio
+Brusonio, in his examples on certain places of Martial and Seneca, understands
+chess. Raffael Volterrano in the twenty-ninth book of the *Commentarii urbani*
+on that verse of Martial, *Insidiosorum si ludis bella latronum*, and also on
+Seneca in those words of epistle 106, *Latrunculis ludimus*. Giuseppe Passi
+in his *Mostruosa fucina* agrees with the same opinion, on the said verse of
+Martial, and also on Ovid. Giovan Maria Cattaneo, commentator of Pliny the
+younger, in book 7 of the epistles, in the epistle to Geminius, and on that
+verse of Ovid in the second *De arte amandi*, *Sive latrocinii sub imagine
+calculus latet*, and on the said place of Martial. Pietro Galesini in his
+*Tesoro* on Martial and Ovid. Giovan Ravilio in the *Officina* on Martial.
+Bartolomeo Merula, commentator of Ovid in the *Art of Love*, on the same in
+book 3. Theodosio Trebellio on Lucan's verses to Piso, which he attributes to
+Ovid: *Callidiore modo tabula variatur aperta*. Niccolò Perotto on Martial.
+The *Tesoro* of the Latin tongue on Seneca, Martial, and Ovid. Andrea
+Tiraquello on Martial, and on that verse of Ovid in book 3 *De arte amandi*,
+*Quantaque non solitis latronum praelia ludat*. Alessandro d'Alessandro in
+book 3, chapter 11 of the *Genial Days* approves it among the ancients with
+these words: *Ludus calculorum veteribus praecipuus fuisse traditur, qui et
+latrones dicti* — and he is followed by Cesare Rao in his twentieth
+invective: "Noble and ingenious is the game of chess, and by men and by women
+in ancient times was it esteemed." Marcello Donato, Count of Ponzano, in the
+elucidations he makes on Flavio Vopisco, in the *Probus*, on those words,
+*Nam cum in quodam convivio tuo ad latrunculos luderetur, ausus ipse deinde
+Imperator exisset*, brings back the game of chess to the ancients, chasing
+away the contrary opinions. I could have many more of the same sentence,
+whom I pass over to make passage to greater proofs.
+
+The Riga of Twelve is not only of base consideration, as Ovid tells in the
+3rd *De arte amandi* — *Est genus in totidem tenui ratione redactum spicula,
+quot menses lubricus annus habet* — but is practised for the most part by
+peasants, on stones in the middle of the streets. Hence it is not to be
+believed that famous writers would give the praise of an unworthy and abject
+game to men illustrious for nobility, for arms, and for letters. The game of
+chess is far from this baseness; therefore the noblest cavaliers who profess
+the game have held it their glory — I speak of those eminent in knowledge of
+the game. Read Lucan's *Panegyric to Piso*, how he celebrates it. Petronius
+Arbiter, who lived in Nero's empire, would not have called the riga a noble
+game against Ovid, who said it of base consideration — so that in that verse
+of his in the *Satyricon*, *Cale... in tabula nobile avat opus* ["...on the
+noble board..."], the game of chess will without difficulty be understood.
+Seneca in book 18, epistle 106, by those words *Latrunculis ludimus, in
+supervacuis subtilitas teritur* ["We play at soldiers; subtlety is worn away
+on superfluities"], clearly shows the game of chess, in which there is a
+subtlety that is not in the riga.
+
+If [Calcagnino] means the riga and not chess — I will say anew that he
+scarcely knew the game of chess, and less that of the riga; for we know that
+in the riga no such wariness is seen that from it one could learn any manner
+of military discipline, as is amply seen in the game of chess.
+
+Ovid in the 3rd *De tristibus* expounds certain properties of chess which
+answer ill to the riga, in these verses: *Ut mage velle sequi sciat, revocare
+priorem; si cadat, ut tuto fugiens incomitatus eat* ["That he may know rather
+to will to follow, to call back the former; if he fall, that fleeing he may
+go safe and unattended"]. Following and fleeing are proper to the game of
+chess: for the chessmen of the riga, by its conditions, follow but do not
+flee — that is, they cannot draw back — otherwise we should understand that
+one of them had arrived at Queen, or that among the ancients the riga-men
+could go forward and backward at liberty, as children sometimes play them.
+Ovid in the third of the *Art of Love* openly teaches us the effect of the
+double check in that verse, *Unus cum gemino calculus hoste perit*; and in
+the 3rd *De tristibus* more clearly: *Cum medii gemino calculus hoste perit*.
+
+Moreover a vestige of antiquity hints to me that in the remotest parts of the
+East Indies a game much like our game of chess was used by the people of the
+country before the Portuguese had thought of making the voyage; and this I
+affirm on the authority of Giovan Pietro Maffei, a worthy historian. He,
+reasoning of Diego Lopes Sequeira, the King of Portugal's minister in Malacca
+— that celebrated city in the Golden Chersonese — for whom Patiac the Indian,
+son of Utimute Raja, the mightiest after Mahmud tyrant of Malacca, was laying
+an ambush, says thus in book 4 of the *History of the East Indies*: "He, to
+recreate his spirit somewhat, as is the custom, had set himself to play at
+chess, when the son of Utimute Raja came upon him with some armed soldiers,
+under pretext of visiting him. Sequeira, sitting, seeing him come, left off
+playing and went to meet him to receive him — indeed, he left off playing,
+for among us too it is a kind of pastime for such needs; I shall take it
+greatly to heart to yield in whatsoever house I am." So Francesco Serdonati
+translates from the Latin. That the author of the work means the game of
+chess is plain from his own words, which are these: *Ipse interim
+oblectandi animi causa, ut fit, latrunculorum ludo tempus terebat* ["He
+meanwhile, to divert his mind, as is done, was passing the time at the game
+of soldiers"].
+
+After so many reasons, let us come to the last and mightiest authority,
+which is Lucan, a most noted and celebrated poet, and which will cut the suit
+short against Calcagnino and his followers. He, in the *Panegyric* he makes
+to Calpurnius Piso — which work has by some been falsely attributed to Ovid —
+reasons thus:
+
+   *Nec tibi mobilitas minor est, si forte volantem,
+   seu vitet geminare pilam, sive revocare cadentem,
+   et non sperato fugientem reddere gestu.
+   It ret in populus spectacula; totaque ludos
+   turba repente suos tam laetabunda reliquit.
+   Te si forte iuvat studiorum pondere pressum
+   non languere tamen, lususque movere per artem,
+   callidiore modo tabula variatur aperta
+   calculus, et vitreo peraguntur milite bella,
+   ut maneat nigris, nunc par niger alliget albo.
+   Sed ubi quis non terga dedit, quis te duce cessit
+   calcanti saepe expugnaturus paene et hostem?
+   Mille ille modis ac tua dimicat, ille petentem
+   dum fugit, ipse rapit, longo venit ille recessu.
+   Qui stat in speculis, hic se committere rixae
+   audet, et in praedam venientem decipit hostem;
+   incipit subit ille moras, stimulisque ligato
+   obligat ipse duos, hic ad maiora movetur,
+   ut citus, et fracta prorumpat in agmina mandra.
+   Clausaque deiecto populetur moenia vallo.
+   Inter ea fiet quamvis acerrima surgant
+   praelia militibus, plena tamen ipse phalange,
+   aut etiam pauco spoliata milite vincis,
+   et tibi capta resonat manus atraque turba.*
+
+The poet, after praising Piso as a player of ball, entering to celebrate him
+as a chess player, says *callidiore modo* ["in more cunning wise"], because a
+shrewder reckoning and a greater art are required for the game of chess than
+for ball — which, I think, cannot be said of the riga in comparison with
+ball, for its moves are few, brief, and straitened; indeed such that any man
+in the briefest time may equal himself in the game of chess [?]. But the many
+and diverse journeys of the chessmen are followed by a thousand tangles in
+the game; hence he says, *Mille modis ac tua dimicat* ["He fights thy battle
+in a thousand ways"]. That variety of moves is not seen in the riga. *Me
+petentem dum fugit, ipse rapit* — behold the move: he draws the piece back to
+make prey of the enemy; I am of the opinion the author means the Rook. *Longo
+venit ille recessu* shows me the Queen, coming from afar; such distance of
+journey is not in the riga-men, for they all leap from nearby. *Qui stat in
+speculis* describes the Bishop, standing on the watch like a spy. *Incipit
+subit ille moras, stimulisque ligato obligat ipse duos* reasons of the pawn,
+which moves tardily and dwells in the houses more than the pieces; its move
+is for the most part to thrust itself between two enemies, killing one of
+them of necessity. He likens it to one bound, for its slow going and its
+little worth, being the least among the chessmen. *Hic ad maiora movetur* —
+this is the Knight, which must thrust forward to break the battle; hence the
+poet sings, *Ut citus, et fracta prorumpat in agmina mandra* ["that swift, the
+fold broken, he may burst upon the troops"]. It is the Knight's property —
+for by *mandra* he denotes the closing of the game, which the Knight is wont
+to break. *Clausaque deiecto populetur moenia vallo* — the game broken, the
+enemy's camp is sacked. *Plena tamen ipse phalange, aut etiam pauco spoliata
+milite vincis* — this place alone, from which we draw the greatest clearness
+of chess beyond any other, suffices to convince the contrary opinion: for in
+it is declared the victory of the game, which is checkmate, which often
+befalls with all the mated man's pieces and pawns whole, or with few lost —
+which in no way can suit the riga, whose victory always ends with the taking
+of all the chessmen.
+
+The followers of the contrary view might object to me that, if the game of
+chess had been known to the ancients, mention would have been made among them
+of the King, the Queen, and the other pieces and pawns, whose names are read
+in no writer. I answer it is possible the game was then in use without this
+declaration of names; it suffices me that the qualities of the pieces and
+pawns be read, as I have expounded above in Lucan's verses. Indeed, in that
+verse of Ovid in the third of the *Art of Love* — *Bellatorque suo prensus
+sine compare bellat* ["And the warrior, caught, wars without his comrade by
+his own strength"] — Bartolomeo Merula the commentator by the voice
+*bellator* understands the King, and says others understand the Knight; and
+by the voice *compare* he understands the Queen, and others understand the
+adversary's Knight. And I add that *bellator*, by the word *prensus*, shows
+me it is the King, who though taken — that is, shut in, or checked — or
+though one of his men be taken or shut off, is not dismayed but fights
+intrepidly. I am also of the opinion that the diction *compare* signifies the
+Queen.
+
+It only remains for me to say, for a last and no light reason, that granting
+the game of chess was not in the time of Ovid and Martial, we must affirm it
+was invented after — which, if it were so, the inventor would certainly be
+known. For from the coming of Christ till now there is no happening, no
+origin of a thing invented, that has been hidden: the authors, making mention
+of the minutest things a thousand and two thousand years back, it is not
+likely they would have left unrecorded the invention of chess, a game which
+surpasses all others in dignity. Of many authors I have read, I find none who
+says the game of chess is new — that is, invented after Martial's age; every
+one remits it to antiquity. Hence, without wrong to the inventor, it may be
+believed the game was not invented at first as perfect as it is seen today.
+Art is the imitator of nature, which we see produces everything imperfect
+from birth, and ripens it afterward, bringing it to perfection with time. The
+crown of perfect things is known in God alone, from whom, as from a most
+ample fountain, graces diffuse themselves to mortals. Wherefore, embracing
+what has been said, let us end the discourse with an epigram of our own on
+chess:
+
+   *Si quaeris, tanti quis ludi invenerit artem,
+   praedicat incertos infitiata fides...*
+   [If you ask who invented the art of so great a game, a denied faith
+   proclaims uncertain things...]
+   *Te tamen... Palamedes...*
+   [To thee, Palamedes... be the praise, won with noble blood and wit.
+   But that Jove invented it — if I may speak the truth — is certain: when he
+   bore arms against his guiltless patron, the lots of Pytho were cast, by
+   which the fight was raised to heaven... The exiled Apollo revealed the
+   game to us, when, wretched, he was cast down from the ethereal citadel.
+   Then, a new herdsman feeding Admetus's flocks, he taught the shepherds and
+   the country goddesses.]
+
+[Here ends Chapter I of Book I.]
+
+---
+
+BOOK VIII, CHAPTER II
+Of the New Game
+
+The game of chess, as is plain, refers its invention to the art of war, to
+which correspond the goings and the government of the pieces and the pawns.
+The King, being the greatest personage, must reside in the safest place,
+surrounded and defended by his men; he must not thrust himself into dangers,
+but go deliberately — as his grave and tardy journey shows. The Queen, as
+she who represents the captain-general, the second person after the King,
+must command freely with supreme power, which her ample course in the
+straight line and the oblique — granted to her alone and to none other —
+hints. The Rooks, the Knights, and the Bishops denote the other officers,
+inferior to the Queen but different among themselves, one superior to the
+other on diverse reckonings — and all this is known by their goings and
+their importance. The commonalty of the army, the lowest, are signified to
+us by the pawns. So if we weigh with a just balance the reasons of each, we
+shall find the due correspondence throughout — save only in the leap of the
+Knight.
+
+The King, in his journey from house to house, contains in himself the road
+of the Queen, of the Rook, of the Bishop, and even of the pawn. The Rook has
+his course in common with that of the pawns; in the Bishop's going is
+comprised that of the pawns when they take any of the enemy; the Queen
+embraces the movement of the Rook, of the Bishop, and of the pawn. Only the
+Knight stands free of this community. Nor does it seem likely that, besides
+the General, there should be none other with divided authority. And though
+it is known to be needful for the good rule of soldiers, yet it is reasonable
+to substitute a captain — whom the Knight, or the squadron of knights,
+represents — who shall be almost equal to the General; and after him to
+assign another, somewhat inferior, that all the offices of war may be
+perfectly fulfilled.
+
+Then let it not be unseemly that in the game there be given a piece superior
+to the rank of Knights, differing little from the Queen, and another given
+lesser than it. The greater of these might be called Rook-knight, for he
+embraces the movement of the Rook and of the Knight together — but it has
+pleased me to name him the CHAMPION. The other I might name Bishop-knight,
+for the course of the Bishop and of the Knight is in him — but I name him
+the CENTAUR.
+
+If any oppose to me that it is unfitting to set the Knight's journey in
+another piece, I shall answer that, there being also the Rook's journey and
+the Bishop's, it will be no excess that they have been doubled in the Queen.
+And lest any believe these pieces to be equal in value to the Queen — which
+would utterly destroy the invention — I say that each of them is reckoned
+inferior to the Queen: for the King may not draw within one square of the
+enemy Queen, yet he may draw near to the Champion on the oblique line, as he
+may also draw near to the Centaur on the straight line. Other inequalities
+may be known from the power and the journeying of each. We find openly,
+moreover, that between the Champion and the Centaur there is no small
+difference. Who will deny that the Rook is greater than the Bishop? So
+likewise the Knight, joined to the Rook, makes the Champion of greater price
+than when joined to the Bishop [makes the Centaur]. Nor would I have any man
+think that between the Champion and the Centaur there is that same
+difference which is reckoned between the Rook and the Bishop — for it is
+somewhat greater, and the union of force is the cause of it. I shall explain
+it with a lowly example. One small ant will easily drag one grain of wheat;
+ten thousand ants, though each bigger than that one, will not be able to move
+a piece of iron weighing what ten thousand grains of wheat weigh.
+
+From what is said above the order of the game is seen at full. After the
+King, the worthiest soldier is the Queen; third to her in excellence the
+Champion; next to him we number the Centaur; in the fourth place we set the
+Rook; then equally the Knight and the Bishop; and in the last, the pawns.
+
+This explained, there remains to set the said pieces in their places. And
+because they cannot be contained in the shape of the common board, the board
+must be given another fashion: it shall be, if the board be increased with
+squares. There shall be constituted eight lines across and ten lengthwise,
+which all contain the number of eighty squares — so that the board comes to
+be increased beyond the ordinary by sixteen squares. And this invention of
+squares is well founded in reason: for the proportion of the pieces and of
+the chessboard requires that the Champion be given his pawn, and likewise
+that his pawn be given to the Centaur. Hence from the increase of the four
+pieces — two for each side — and from the increase of the four pawns, two
+likewise for each squadron, we increase sixteen squares, of which eight are
+empty, to give field to the said four pieces and to the four pawns.
+
+Ponder and balance this same reckoning in the pieces, the pawns, and the
+squares of the common chessboard, and it will be known to correspond to the
+same number: for thirty-two chessmen possess the sixty-four squares, and
+eight chessmen increased beyond possess sixteen squares more. If it be
+opposed to me that in this manner the shape of the board does not come out
+in perfect square, I shall say this is not necessary — but necessary is the
+proportion of the squares, to which I have had full regard. Indeed, let us
+affirm that the board of the new game is no less perfect than the board of
+the common game: for if we look to the numbers we shall find a most complete
+perfection, which is known in the Eight, in the Ten, and in the Eighty —
+which numbers embrace the whole board.
+
+What places the Champion and the Centaur must have in the chessboard will
+not be hard to find. The King and the Queen shall stand in the same proper
+places in which they are on the common board, with the same laws. At the
+King's flank follows the Bishop, as the other Bishop follows at the Queen's
+flank; next the Bishops in the same order follow the Knights. After the
+Knight on the King's side set the Champion, and after the Knight on the
+Queen's side set the Centaur. In the second rank, likewise across, shall be
+seen ten pawns; the same order shall be seen in the other adverse squadron.
+For the rest — whether it belong to the rule of the pieces or of the pawns —
+observe the laws of the ordinary game.
+
+For the greater clearness of what has been said, we set here the shape of
+the chessboard, as is seen hereafter, together with its pieces.
+
+[Here the 1617 edition prints a diagram of the board: eight squares wide and
+ten squares long, eighty squares in all. The back rank, from the King's flank
+to the Queen's, runs: Rook, Knight, Bishop, Queen, King, Bishop, Knight,
+Champion — and on the Queen's wing, after her Knight, the Centaur; the second
+rank holds ten pawns a side. The diagram's lettering is lost in the scan and
+is here described in words from Carrera's own directions above.]
+
+Let us come now to the government of the new pieces. The Champion will enter
+the field [come into play] when some exchange of pawns, or of some of the
+pieces, has been made — with the [advancement?] of the Queen, of which we
+have spoken elsewhere. The Centaur may come out somewhat earlier, but not
+before the others, for the beginning of the battle is made by the pawns, the
+rooks, and the bishops.
+
+[Here a passage of the 1617 page is too broken in the scan to be read with
+certainty; the sense that can be recovered is that the two new pieces are to
+appear in company with the rest of the army, and not to stand idle.]
+
+The Champion, being nothing else but a Rook and a Knight joined, may be
+fashioned so that in its upper part it shows the sign of the Rook and of the
+Knight; and we say the same of the Centaur, for being composed of Bishop and
+Knight it may represent the image of the one and of the other.
+
+Let him who reads know that it is not my design to adduce this invention to
+set it above the ordinary game, or to show that game imperfect — for I am
+far from such rashness. Rather I affirm, and so I mean, that the common game
+is most perfect. This new one which I propose will serve to feed the minds
+of studious lovers of new things, since it will be seen more copious than
+the old in breadth of moves, of happenings, and of victories, as trial may be
+made of it. Hence I shall believe that no man of right judgment will blame
+me — though at present, or in time to come, there should be found no one to
+embrace or praise such an invention. For the inventors of things, be they
+good or bad, deserve to be commended — if not in the thing, at least in the
+thought.
+
+[Here ends the new-game chapter. In the 1617 edition no Chapter III of Book
+VIII is numbered; the text passes from this chapter to Chapter IV, on cases
+of conscience in play.]
+
+---
+
+PRIMACY NOTE
+
+None found after research — for this slice. No English rendering of Carrera's
+Book I, Chapter I ("Of the Inventor of the Game") nor of his Book VIII new-game
+chapter ("Of the New Game," with the Champion and the Centaur) has been
+found. William Lewis's Chess for Beginners (London, 1822) translated the
+practical body of Carrera's work — the openings, endings, and mates — and
+states in his own preface that he deliberately left out "the chapter on the
+origin of the game" and "an account of a new game... with the chess-men and
+two additional pieces." Lewis's 1822 book is therefore check-only for this
+edition: consulted to define the boundary, never used for a line of wording.
+
+Caveats, stated plainly:
+- Lewis's preface describes the new game as played "on a board of
+  ninety-six squares." Carrera's own text, translated here, describes eight
+  lines across by ten lengthwise — eighty squares, sixteen more than the
+  ordinary sixty-four. The translation follows Carrera, not Lewis's memory.
+- Book VIII, Chapter I of the 1617 edition ("Of the game of memory,"
+  blindfold play) stands between the book's endgames and the new-game
+  chapter; it is outside this slice and is not translated here.
+- No numbered Chapter III of Book VIII appears in the 1617 printing used;
+  the text passes from the new-game chapter to Chapter IV.
+
+---
+
+RIGHTS
+
+Public domain source text; modern edition (c) editor, free redistribution.

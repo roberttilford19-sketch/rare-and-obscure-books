@@ -1,0 +1,727 @@
+A BOOK ON PLAYING CHESS
+For Polite Players
+
+By Orazio Gianutio della Mantia, of Turin
+
+From Libro... di giuocar'a scacchi (Turin, 1597) — Internet Archive libria_353491
+(IRCrES-CNR / Byterfly scan)
+
+The Rare & Obscure Books series — the Boneyard
+
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT. This draft was
+prepared with AI assistance under the editorial direction of Robert Tilford.
+It is a fresh English rendering made from the Italian text of the 1597
+edition. It has not yet had the final checks required before any public use.
+
+---
+
+DEDICATION
+
+To Orazio Gianutio della Mantia, gentleman of Turin, born 1565.
+
+He was a courtier-player of chess in the Turin of the late sixteenth
+century, and in February 1597 he gave to the press a slender book with a
+courteous aim: to teach the game to "polite players" — not to professionals,
+but to gentlemen and ladies who would play it well and gracefully, giving and
+taking odds as civility required. He dated his dedication at Turin, 24
+February 1597, to Count Francesco Martinengo di Malpaga, knight and general
+of Savoy. Beyond this his life is not documented in the materials used for
+this edition; the year of his death is not established here, and none is
+invented.
+
+His work is vital, and the proof is on the page. In an age when chess books
+were written for masters, Gianutio wrote for the drawing-room: how to open,
+how to accept the gambit, how to play when giving or taking a pawn or a
+knight for odds — the whole etiquette of unequal play. And among his
+"partiti" (problems) stands one of the earliest knight's tours ever printed:
+an "infallible rule for taking all the chessmen with the knight's leap,"
+square by square from 1 to 32. That a Grandmaster of our own time — Lothar
+Schmid — kept this very 1597 edition in his library, and that his copy sold
+at auction in 2026 catalogued as "a Grandmaster's copy... of great rarity,"
+says what scholars have long known: this little book is a landmark.
+
+It has never been Englished. This edition gives it, whole, in plain English.
+
+Where to go next: the 1597 Turin Italian stands free on the Internet Archive
+(identifier libria_353491); for the deep history around it, H. J. R. Murray's
+*A History of Chess* remains the guide.
+
+---
+
+[DEDICATION OF 1597]
+
+To the most Illustrious and most Excellent Lord, and most observant Patron,
+the Lord Count Francesco Martinengo di Malpaga, Knight of the Order, and
+General of His Most Serene Highness of Savoy.
+
+Nature could not long resist the continuous weight of studies and cares, were
+she not sometimes lightened and restored by means of some pleasant pastime —
+which will be so much the more praiseworthy as it draws nearer to virtue and
+stands farther from vice. Now, most Illustrious Lord... [the dedication
+continues in the vein of the age: that in the hours when the Count takes
+truce from his most grave affairs to play "this most virtuous game," in which
+he is more than moderately instructed, the author offers him this work on the
+manner of playing chess, consecrated to his glorious name as a sign of
+singular devotion — dated Turin, 24 February 1597, "your most humble servant,
+Horatio Gianutio."]
+
+---
+
+CHAPTER ONE
+Of the Names of the Chessmen; Their Place and Their Rules
+
+The Rook. This is called the Rook, and has in itself great dignity. His
+office is to command, and like a captain to provide for his men; he does not
+go out to battle until the field is broken, and then in rescue of his King.
+His place is to stand in the corners of the board, and his going is by the
+straight line.
+
+The Knight. This is called the Knight, exactly like a cavalier, and he is set
+next the Rook. His duty is to go out to battle, and his going is of two to
+three squares — from white to black, and from black to white.
+
+[The 1597 page carries diagrams of each piece's move, destroyed in the scan;
+the moves are given here in Gianutio's own words.]
+
+The Bishop. This is called the Bishop — or the Dolphin, which means Prince —
+and so he stands nearer the King and the Queen than the others do. His going
+is across, eight squares or fewer, unless he be hindered. Between Knight and
+Bishop there is little advantage; as the game is found, for at times the
+array of the game will suit the one better, and at times the other. Yet it is
+true that some play better with the Bishop than with the Knight, and some all
+the contrary.
+
+The King. This is called the King, and he is master of the victory; to him,
+and not to his contrary, checkmate is given. He has power to leap, the first
+time, three squares if he will, or two — the leap on the Knight's side, or on
+the Queen's — and this while he has not moved from his first square. And note
+that, leaping on his own side, the Rook must be set on the Bishop's square
+and the King on the Knight's square; and if on the Queen's side, the King on
+the Bishop's square and the Rook on the Queen's square. This is observed
+throughout Spain and in many parts of Italy, but not everywhere. The Italian
+leap is: the Rook does not pass the Bishop's square, and the King is set
+where it best pleases the players. And of this manner of leaping we shall
+make use in all the games of this our little work.
+
+The Queen. This is called the Queen, or Lady, and she is the best and noblest
+piece on the board — as if she were the King's wife. Her place is next the
+King, and she has as many chessmen on her side as the King on his. Her going
+is that of Bishop and of Rook. She serves herself more of the King's Bishop,
+Knight, and Rook than of those that stand on her own side. Let the player
+guard her very well; for with the Queen lost, the game may be counted lost.
+
+The Pawn. This is called the Pawn: rampart and shield of the great pieces,
+and chiefly of the King. And if she should reach the adversary's last square
+— as full often happens — she becomes a Queen, the noblest piece of them
+all, worth even as a Queen; and if in becoming Queen she enters with check,
+she will be prized the more. Her going is by the straight line, and moving
+the first time she goes no more than three squares, and thereafter one square
+at a time; and she takes across, whomever she meets, as the Bishops do. The
+best pawns are the King's and the Queen's. Of *passing battle* with pawns I
+do not speak, for in Italy it is not used. [That is, the *en passant* taking:
+Gianutio notes it is not played in Italy.]
+
+Of the board I need no other declaration concerning the said pieces; there
+remains the declaration of the site. I shall say it is square, within which
+are sixty-four squares, thirty-two white and thirty-two black. Why they are
+no more nor fewer, I could not say, nor is there any certain reason from
+others — only from him who invented the said game, and it is still in doubt
+who he was. For some will have it that it was Xerxes the king — and so in
+Spanish it is called *axedrez*, deriving from this name Xerxes, though it is
+a corrupted word for the D they add; others will have it invented by
+Palamedes at the siege of Troy; and some will have the inventors to be Lydus
+and Tyrrhenus, brothers. However it was, we shall leave it aside and come to
+what imports more for the matter we are to reason of.
+
+Universal rules and laws of the game of chess.
+
+The first is: make no blunder, nor trust too much in your contrary's little
+knowledge, for most times you will be deceived.
+
+When you have advantage, exchange willingly — but not at a loss.
+
+If you have a good move, do not rest from looking whether there are better,
+and use those.
+
+You must put your King in safety as soon as may be, leaping to a good place;
+and never without occasion move the two pawns that stand before him, but in
+extreme need — this, to give the enemy no entry to assail him. And note that
+in leaping you may not give check with the Rook; nor, either, when you
+receive check may you use the leap at that instant — but afterwards, if the
+King has not gone out of his square, nor the Rook on the side you would leap
+to.
+
+You must go out with your pawns and not stay shut in, striving to hold the
+two kings' pawns and the two queens' — and the bishops' if you can — each at
+its fourth square.
+
+Use every act not to clutter the board with your hands, nor go tapping the
+squares with your fingers, but strive to play politely.
+
+If you touch a piece, that piece you must play, and set it on the square you
+first touched with the piece; and the same is understood of touching your
+contrary's pieces. And if your adversary is content that you play another —
+because it comes commodious to him — you may with such leave play what shall
+please you most.
+
+If, in playing a piece or pawn under which the King stands covered, you must
+for the error committed play the King; and if you cannot play him, you shall
+play what comes commodious to you.
+
+Whenever the game is seen to be drawn, and it is still obstinately followed
+to torment the contrary, you must then set a term of fifty moves; and those
+finished, the contrary shall no longer be held to play that game, but leave
+it incontinently. These fifty moves are understood as twenty-five for each
+side.
+
+In adjusting the chessmen [j'adoube]...
+
+[Here the 1597 page shows the arrayed board; the diagram is lost in the scan.
+The squares, Gianutio explains, take their names from the pieces: a pawn
+pushed once is "at the third" of its King or Queen; pushed again, "at the
+fourth"; and so from hand to hand as it is found advanced — and the same is
+understood of all the other squares, each taking its name from the piece in
+whose file it is found, as may easily be seen with the eyes in putting into
+practice the art this little work will teach you.]
+
+[End of Chapter One.]
+
+---
+
+OF THE WAY OF PLAYING
+
+There are two best ways to begin playing. The first is to begin with the
+King's pawn, the second with the Queen's pawn. The first, by universal
+judgment, is the better — so I shall speak of it first, and then of the
+other.
+
+White, having the move, plays the King's pawn as far as it goes; and if
+Black does the same, White plays the King's knight to his bishop's third.
+And if Black guards the King's pawn with the queen's knight to her bishop's
+third — for truly that pawn must always be guarded — White plays the King's
+bishop to his queen's bishop's fourth. And if Black plays the King's bishop
+to his queen's bishop's fourth, White plays the queen's bishop's pawn one
+square. And if Black plays the King's knight to his bishop's third, White
+plays the Queen's pawn as far as it goes. And if Black takes that pawn with
+his King's [pawn] — not wanting to play the bishop to his queen's third, it
+being a bad move — White plays the King's pawn one square on. And if Black
+plays the King's knight to his king's knight's fourth, to take that pawn,
+White takes the pawn on his queen's fourth with the queen's bishop's pawn.
+And if Black draws the bishop back to his queen's knight's third, White plays
+the King's rook's pawn one square. And if Black draws the knight back to his
+king's rook's third, having no other square, White, playing the queen's
+bishop, takes that knight; and if Black takes the bishop with the King's
+knight's pawn, White plays the Queen's pawn one square. And if Black plays
+his knight to his queen's rook's fourth, to take White's King's bishop,
+White draws that bishop back to his King's second — and presently after he
+will win the knight by force. And if Black, not wanting to lose that knight,
+plays the queen's bishop's pawn as far as it goes — for otherwise the knight
+would be lost at the first stroke — White plays the queen's rook's pawn a
+step on. And if Black plays the queen to her King's second, White plays the
+queen to his rook's fourth. And if Black plays the King's bishop's pawn one
+square, White does not take that pawn, but pushes the queen's knight's pawn
+as far as it goes — whereby the knight is won. And if Black takes the
+knight's pawn with his bishop's [pawn], White takes the adverse [pawn] with
+his rook's [pawn]. And if Black draws the knight back to his queen's
+bishop's third, White takes that knight with the Queen's pawn. And if Black
+takes that pawn with his Queen's [pawn], for the best, White takes the
+adverse King's bishop's pawn with his King's [pawn]. And if Black takes that
+pawn with the queen, White castles: the King to the rook's first, the rook to
+the bishop's first — and finding himself a piece to the good, and the King in
+safety, he will have won the game.
+
+Item, if when Black played the queen's knight to her rook's fourth to take
+the adverse bishop, he had played that knight to his King's second, for the
+best move he could make — White plays the Queen's pawn one square on. And if
+Black does not take that pawn with his bishop's [pawn], but plays the knight
+to his King's knight's third, White plays the queen to two of herself. And if
+Black, castling with the King in the knight's manner, sets him on his
+knight's second, to guard the pawn that stands on his rook's third — for if
+he played otherwise he could not guard it — White plays the queen to the
+adverse queen's fourth. And if Black plays the King's rook, and not the queen
+to her bishop's first, White plays the queen's knight to her bishop's third.
+And if Black plays the queen's bishop's pawn one square, White brings the
+queen back to two of herself. And if Black plays the queen's rook's pawn one
+square, White, playing the King, leaps to the rook's first, and the rook to
+the bishop's first. And if Black plays the bishop to his queen's rook's
+second, White plays the King's knight's pawn as far as it goes. (The leap
+White has made is understood to be on the side where the queen stands.) And
+if Black plays the queen's knight's pawn as far as it goes, White plays the
+bishop to her Queen's third. And if Black plays the queen's bishop's pawn one
+square further on, White plays the King's rook's pawn another square on. And
+if Black plays the queen's bishop's pawn yet another square on, White draws
+the bishop back to his queen's knight's first. And if Black plays the queen's
+bishop to her knight's second, White plays the queen's bishop to her King's
+[third?]... [a line is corrupt here] ...and if Black takes that bishop with
+his queen's [bishop], White takes the adverse bishop with the queen's
+knight. And if Black plays the queen to her King's first, White plays the
+queen's knight to the adverse queen's bishop's third, gives check, and it
+will be check and rook [double check?] — and doing thus he will have won the
+game. And if Black does not take that pawn with the queen, but takes it with
+the knight, White plays the queen's bishop to his King's bishop's fourth —
+whereby he will win the knight, and the game with it.
+
+Item, if when Black took the pawn with the queen's knight, he had played the
+queen to her bishop's third — White plays the King's bishop to the adverse
+queen's knight's fourth. And if Black takes that bishop with the queen,
+White plays the knight to the adverse queen's bishop's second, gives check,
+and it will be check and queen; and if Black does not take the bishop with
+the queen, but plays her to her bishop's fourth, White plays the queen's
+bishop to her King's third — and so by force he will have won the adverse
+queen. But if Black does not play the queen to her bishop's fourth, but
+plays her to her King's knight's third, for the best he has — White exchanges
+queen for queen; and after the exchange gives check with the knight on the
+adverse queen's bishop's second, and it will be check and rook, as I said
+above — and in this manner he will have won the game.
+
+[Here ends the first way.]
+
+---
+
+SECOND WAY OF BEGINNING THE GAME, WITH THE QUEEN'S PAWN
+
+[The heading in the 1597 print promises the Queen's pawn; the opening moves
+are clouded in the scan, and are here given as the Queen's pawn as far as she
+goes, after the heading's direction.]
+
+White, having the move, plays the Queen's pawn as far as it goes; and if
+Black does the same, White plays the King's knight to his bishop's third.
+And if Black, not wanting to guard the King's pawn with the queen's knight,
+plays the King's knight to his bishop's third — White takes the King's pawn
+with his knight. And if Black takes White's King's pawn with the knight,
+White plays the queen to two of her King. And if Black draws the knight back
+to his bishop's third, White, playing the knight to the adverse queen's
+bishop's third, gives check discovered from the queen — and so he will have
+won the adverse queen, with no remedy to save her.
+
+Item, if when Black drew the knight back to his bishop's third, instead of
+having played the queen to two of the King, White takes... [a line is lost]
+...let him not draw the knight back, for he will lose the queen; but push
+the King's bishop's pawn one square. White plays his King's bishop's pawn as
+far as it goes. And if Black takes the knight with the Queen's pawn, White
+takes that pawn with his queen — and will have won a pawn. And if Black plays
+the queen's knight to two of her, White plays the queen's knight to her
+bishop's third. And if Black, playing the bishop's pawn, takes with it the
+adverse pawn that stands on his King's fourth — White plays the knight to
+the adverse [bishop's?] fourth... [corrupt] ...with the queen. And if Black
+plays the Queen's pawn one square upon the adverse knight, White plays his
+Queen's pawn as far as it goes. And if Black... [lines broken] ...of the
+adverse queen; and if Black plays the queen to three of her, for the best,
+White takes the adverse pawn with his bishop's [pawn]. And if Black takes
+that pawn with the queen, White takes the adverse queen with his own; and if
+Black takes the queen, White plays the knight to the adverse queen's
+bishop's second, gives check — and it will be check and rook — and doing thus
+he will have won the game. And if Black does not take that pawn with the
+queen, but takes it with the knight — White plays the queen's bishop to his
+King's bishop's fourth, whereby he will win the knight, and the game with it.
+
+Item, if when Black took the pawn with the queen's knight, he had played the
+queen to her bishop's third — White plays the King's bishop to the adverse
+queen's knight's fourth. And if Black takes that bishop with the queen,
+White plays the knight to the adverse queen's bishop's second, gives check —
+and it will be check and queen. And if Black does not take the bishop with
+the queen, but plays her to her bishop's fourth — White plays the queen's
+bishop to her King's third, and so by force he will have won the queen from
+his contrary. But if Black does not play the queen to her bishop's fourth,
+but plays her to her King's knight's third, for the best he has — White
+exchanges queen with queen; and after the exchange gives check with the
+knight on the queen's bishop's second, and it will be check and rook, as I
+said above — and in this manner he will have won the game.
+
+[Here ends the second way.]
+
+---
+
+THIRD WAY OF BEGINNING THE GAME, WITH THE KING'S PAWN
+
+White, having the move, plays the King's pawn as far as it goes; and if Black
+does the same, White plays the King's knight to his bishop's third, to attack
+the adverse King's pawn. And if Black does not guard the King's pawn with the
+queen's knight to her bishop's third — which is the best — but guards it with
+the Queen's pawn, I say it is not good, for it shuts in his pieces. And if he
+guards it with the queen on her King's second, or with the bishop on her
+Queen's third, it will be the same — a bad move, for the same reason said
+above. And if by chance Black guards the King's pawn with the King's
+bishop's pawn — White, playing the King's knight, takes the adverse pawn. And
+if Black takes the knight with the bishop's pawn, White plays the queen to
+the adverse King's rook's fourth, and gives check. And if Black covers with
+the knight's pawn, White takes the King's pawn with the queen, and gives
+check. And if Black covers with the queen on her King's second, White takes
+the King's rook with the queen. And if Black takes the King's pawn with the
+queen, and gives check — White plays the King to the queen's first, and he
+shall have no more trouble, and will have won the game.
+
+Item, if when Black had check with the queen on her rook's fourth, he had not
+covered with the knight's pawn, but had played the King to two of it — White,
+playing the queen, takes the King's pawn, and gives check. And if Black plays
+the King to his bishop's second... [diagram] ...White plays the King's
+bishop to his queen's bishop's fourth, and gives check. And if Black does not
+cover with the Queen's pawn — which is the best move he could make — but
+plays the King to the knight's third, White plays the queen, and gives check
+on the adverse King's bishop's fourth. And if Black, having no other square,
+plays the King to his rook's third, White plays the Queen's pawn one square,
+and gives check discovered from the bishop. And if Black covers with the
+knight's pawn — for he can do nothing else — White plays the King's rook's
+pawn as far as it goes. And if Black plays the King to the knight's second,
+White plays the queen to the bishop's second, and gives check. And if Black
+perforce plays the King to the rook's third, White takes the knight's pawn
+with his rook's [pawn], and gives check — and it will be pawn mate. And if
+Black does not play the King to the knight's second, but plays the Queen's
+pawn as far as it goes — White, playing the rook's pawn, takes the knight's
+[pawn], and gives check. And if Black flees the King to the knight's second,
+White gives check with the queen on the adverse King's fourth. And if Black,
+for the best he has, covers with the knight on his bishop's third — White
+takes that knight with the pawn, and gives check. And if Black takes the pawn
+with the queen, White exchanges queen for queen; and after Black has taken
+his queen, White takes the Queen's pawn with the King's bishop — and so he
+will have won the game.
+
+Item, if when Black had check with the King's bishop on the adverse queen's
+bishop's fourth, he had not played the King to his knight's third, but the
+Queen's pawn as far as it went, to get out of the check and give the adversary
+no commodity — for presently check may be given on the bishop's fourth with
+the queen, as was seen above — White takes the Queen's pawn with the bishop,
+and anew gives check. And if Black plays the King to the knight's third,
+White plays the King's rook's pawn as far as it goes. And if Black plays the
+queen to the bishop's third, to exchange — White does not exchange queens,
+but plays his queen to the King's first, and gives check. And if Black plays
+the King to the rook's third, White plays the Queen's pawn as far as it goes,
+and gives check discovered from the bishop. And if Black covers with the
+knight's pawn, White takes that pawn with his rook's [pawn], and gives check.
+And if Black plays the King to the knight's second, White takes the queen
+with his pawn, and gives check — and doing thus he will have won the game.
+
+And if when Black played the queen to the King's bishop's third to exchange
+her with the adverse, he had played for the best the King's rook's pawn one
+square on — White plays the King's bishop, and takes the queen's knight's
+pawn. And if Black takes that bishop with his queen's [bishop], White plays
+the queen to the adverse King's bishop's fourth, and gives check — and it
+will be mate. And if Black does not take the King's bishop with his queen's,
+but plays the King's bishop to her Queen's third — White plays the queen to
+the adverse queen's fourth. And if Black, not wanting to lose the rook, plays
+the queen's knight to her bishop's third — White takes that knight with the
+bishop. And if Black plays the queen's rook to her knight's first, White
+plays the queen and takes that rook's pawn — and finding himself [a piece up]
+he will have won the game. [A general rule is noted here: he who has five
+pawns more than his adversary will have won the game.]
+
+[Here ends the third way; there follows the fourth way, with the King's pawn.]
+
+---
+
+FOURTH WAY: THE GAME BEGUN WITH THE QUEEN'S PAWN
+
+White, having the move, plays the Queen's pawn as far as it goes; and if
+Black does the same, White plays the queen's bishop's pawn all three squares.
+And if Black takes that pawn with his queen's [pawn], White plays the King's
+pawn as far as it goes. And if Black plays the queen's knight's pawn as far
+as it goes, White plays the queen's rook's pawn as far as it goes. And if
+Black takes that pawn with his knight's [pawn], White plays the King's
+bishop, and takes the pawn that stands on his queen's bishop's fourth. And if
+Black plays the queen's bishop to two of her, White plays the queen's knight
+to her bishop's third. And if Black, for the best move he has... [branches
+follow in the 1597 text through exchanges of knights and bishops, checks
+discovered and direct, and several forced mates — the full tree is long; the
+principal conclusions are:]
+
+- Where Black takes the knight's pawn and White recaptures, White, castling
+  in the usual manner (King to the rook's first, rook to the bishop's first),
+  gets the better game and will break through with the easier.
+- In the queenless middlegame White, a pawn up with the better-ordered game,
+  wins without doubt.
+- He who keeps these subtleties well in mind — for they befall most often in
+  play — will be able to use them as occasion serves, and do himself honour.
+
+And let this suffice for the game begun with the Queen's pawn — which is no
+less useful than necessary for the player to know, so that by varying his
+game his contrary does not learn it, and thus he shall do himself honour.
+
+---
+
+THE GAMBIT GAME, SO CALLED VULGARLY
+
+White, having the move, plays the King's pawn as far as it goes; and if Black
+does the same, White plays the King's bishop's pawn as far as it goes. And if
+Black takes that pawn with his King's [pawn], White plays the King's bishop
+to his queen's bishop's fourth. And if Black gives check with the queen on
+the adverse King's rook's fourth, White plays the King to his bishop's first.
+And if Black plays the Queen's pawn one square, White plays the queen's
+bishop's pawn a single step. And if Black plays the queen's bishop to the
+adverse King's knight's fourth, White plays the queen to her knight's third —
+and will have won the game: for if Black will defend the King's bishop's
+pawn, he will lose the queen's knight's pawn, and then his rook, which White
+will take with the queen; and if he guards not the King's bishop's pawn but
+the queen's knight's pawn, playing it a step on — White takes the King's
+bishop's pawn with the queen, and gives check, and then incontinently the
+knight — and so White will have won without any doubt.
+
+Item, if when Black played the Queen's pawn one square, he had played the
+King's bishop to her fourth — White plays his Queen's pawn as far as it goes.
+And if Black draws the bishop back to his queen's knight's third, White plays
+the King's knight to his bishop's third. And if Black plays the queen to the
+adverse King's knight's fourth, White plays the King's bishop, takes the
+King's bishop's pawn, and gives check... [the gambit tree continues through
+many forced mates and won endings;] and let this suffice for the Gambit game,
+of which enough has been discoursed.
+
+---
+
+OF PLAYING WHEN RECEIVING FOR ODDS THE KING'S BISHOP'S PAWN, WITH THE MOVE
+
+White, having the move and the pawn to the good, plays the King's pawn as far
+as it goes; and if Black plays the Queen's pawn one square, White plays the
+Queen's pawn as far as it goes; and if Black... [the odds chapters continue
+in the 1597 text:]
+
+---
+
+OF PLAYING WHEN RECEIVING FOR ODDS THE KING'S BISHOP'S PAWN, WITH THE MOVE
+
+White, having the move and the pawn to the good, plays the King's pawn as far
+as it goes. And if Black plays the Queen's pawn one square, White plays the
+Queen's pawn as far as it goes. And if Black plays the King's pawn as far as
+it goes, White takes that pawn with his Queen's [pawn]. And if Black takes
+that pawn with the Queen's [pawn], White gives check with the queen on the
+adverse King's rook's fourth. And if Black does not cover with the knight's
+pawn — for he would lose the rook — but plays the King to two of it, White
+gives check with the queen, taking the pawn on the adverse King's fourth.
+And if Black covers with the queen's bishop to her King's third, White plays
+the King's bishop to his queen's bishop's fourth. And if Black plays the queen
+to three of her, White takes the queen with his own; and if Black retakes the
+adverse [queen] with the queen's bishop's pawn, White takes the queen's
+bishop with his King's [bishop] — and in this manner he will find himself two
+pawns up, and will have won the game.
+
+But if when Black played the queen to three of her, he had played her to her
+second — White plays the King's bishop's pawn as far as it goes. And if Black
+plays the queen's knight to her bishop's third, White takes the bishop with
+the queen, and gives check. And if Black takes that queen with his own, White
+takes the adverse [queen] with the King's bishop; and if Black takes the
+bishop with the King, White plays the King's knight to his bishop's third.
+And if Black plays the queen's knight to the adverse queen's knight's fourth,
+White plays the King's knight to his queen's fourth, and gives check. And if
+Black plays the King for the best to his bishop's second, White plays the
+queen's rook's pawn one square. And if Black draws the knight back... [the
+chapter continues through its branches, all turning on White's steady
+conversion of the pawn odds by exchanging queens, castling to safety — "the
+King to the rook's first, the rook to the bishop's first, for his leap" —
+and bringing out his pieces:] ...and see to bringing out your pieces, and
+keep the two pawns — the King's and the bishop's — and cautiously always play
+them forward: for thus by sheer force you will win the game.
+
+Item, if when Black played the King's pawn as far as it went, he had played
+that pawn but one square and no more — White plays the King's bishop to his
+queen's third. And if Black plays the King's knight to his bishop's third,
+White plays the King's pawn a step on. And if Black does not take the pawn
+with his Queen's [pawn] — so as not to undouble his pawns and make himself a
+bad game — but plays the King's knight to the queen's second for this reason
+— White plays the queen to the adverse rook's fourth, and gives check. And if
+Black does not cover with the knight's pawn, it being a bad move, but plays
+the King to two of it — White plays the queen's bishop to the adverse King's
+knight's fourth, and gives check. And if Black perforce covers with the
+knight on his bishop's third, White takes that knight with the King's pawn —
+and will have won.
+
+And if Black does not play the King's knight to his queen's second, but for
+the best he can plays it to the queen's fourth — White plays the queen, as I
+said, to the adverse rook's fourth, and gives check. And if Black plays the
+King to his queen's second... [branches continue:] White takes the King's
+rook's pawn with his King's bishop; and if Black plays the bishop to two of
+it, White plays the queen to the adverse King's knight's third. And if Black
+plays the queen to her King's bishop's first, White plays the King's knight
+to his bishop's third. And if Black plays the queen's knight to her bishop's
+third, White plays the King to his rook's first, and the rook to the bishop's
+first — and this for his leap. And if Black plays the queen's knight's pawn
+one square, White plays the queen's bishop's pawn as far as it goes. And if
+Black plays the King's knight to the adverse queen's knight's fourth, White
+plays the queen's rook's pawn one square. And if Black does not play the
+knight to the queen's bishop's second — for it would be lost — but plays it
+to her rook's third, White plays the queen's knight's pawn as far as it goes.
+And if Black plays the knight to his queen's knight's first, White plays the
+queen to three of her. And if Black plays the queen's bishop to her knight's
+second, White plays the bishop to his King's fourth. And if Black, for the
+best he has, plays the King to the queen's bishop's first, White plays the
+queen's bishop to the adverse King's knight's [fourth]. And if Black takes
+that bishop with his own, White takes the adverse [bishop] with the knight.
+And if Black plays the queen to the adverse King's bishop's fourth, White
+draws the knight back to his King's rook's third. And if Black does not take
+that knight with the rook — for it is not a good move — but plays the queen
+to the King's rook's fourth, White plays the queen's knight's pawn a step on.
+And if Black draws the knight back to his King's second, White plays the
+King's bishop and takes the adverse queen's [bishop], and gives check. And if
+Black takes that bishop with the King, White plays the King's bishop's pawn
+as far as it goes — and this, that the contrary may not play the King's
+knight's pawn. And if Black plays the queen's knight to two of her, White
+likewise plays his queen's knight to two of her. And if Black plays the
+queen's rook to her King's knight's first, White plays the queen's knight to
+the King's bishop's third. And if Black plays the queen to her King's rook's
+fourth, White plays the queen's knight to the adverse King's knight's
+fourth. And if Black plays the King's rook to three of it, to guard the
+King's pawn — White plays the queen to her King's bishop's third, and gives
+check; and so by force he will exchange his queen with the adverse, and will
+have won — finding himself with the advantage of two pawns, and the better
+ordered game.
+
+[Here ends the first odds chapter: receiving the King's bishop's pawn, with
+the move.]
+
+---
+
+OF PLAYING RECEIVING FOR ODDS THE KING'S BISHOP'S PAWN, WITHOUT THE MOVE
+
+[Black has the move and gives the pawn.] The play turns, as in the foregoing,
+on White's converting the pawn by timely exchanges: where Black takes, White
+retakes with the better-placed man; where Black checks, White covers and
+stands firm. The counsel repeated through the branches is one: bring out your
+pieces — "see to getting out your pieces, for having two rooks, a knight,
+and a pawn for the queen you will easily win the game" — castle to safety,
+keep the pawn mass whole, and let the odds tell in the ending. Among the
+decisive lines: White gives check with the rook on his King's third, and it
+is check and queen; White takes the adverse queen's bishop with the King's
+knight and the game is won; and where Black will not take, White, a pawn to
+the good with the better-ordered game, wins by force.
+
+[Here ends the second odds chapter.]
+
+---
+
+GAME TO BE PLAYED WITH A KNIGHT ODDS, WITHOUT THE MOVE
+
+Black plays the King's pawn as far as it goes; White does the same. And if
+Black plays the King's knight to his bishop's third, White... [the chapter
+gives the whole art of playing a knight up without the move: meet Black's
+checks by covering, never by running; exchange when ahead but not at a loss;
+castle early — "the King to the rook's first, the rook to the bishop's
+first, for his leap" — and in the ending the spare knight decides.] The
+standing rule: with the knight odds and Black to move, White wins by keeping
+his array whole and letting Black break himself against it.
+
+[Here ends the third odds chapter.]
+
+---
+
+OF PLAYING HAVING A KNIGHT FOR ODDS FOR THE KING'S BISHOP'S PAWN, WITH THE MOVE
+
+[White has the move, and has given the King's bishop's pawn for the knight —
+the odds described in the table.] White takes the rook's pawn with the queen
+and gives check; and if Black covers with the queen on her rook's second —
+for otherwise he would lose the pawn outright — White takes that queen with
+his own, and gives check. And if Black takes that queen with the King, White
+plays the King's rook to the adverse King's bishop's second, and gives check
+— and it will be check from the bishop; and doing thus he will have won. But
+if when Black had check with the queen on the knight's third, he had not
+played the King to the rook's first, but to get out of the check had covered
+with the queen on her knight's second — White gives check with the queen on
+the adverse queen's third. And if Black covers neither with the queen on her
+bishop's second nor with the rook — for in two or three moves at most he
+would lose the queen, or have checkmate — but for this reason plays the King
+to the rook's second, for the best he has — White plays the knight to the
+adverse queen's bishop's fourth. And if Black plays the queen to her knight's
+third, White gives check with the rook on the King's bishop's second, as I
+said above — for thus he will win the queen, and the game with it.
+
+And if when Black played the pawn to his knight's third, to get out of the
+adverse knight's attack, he had taken that knight with her queen's rook —
+White takes that rook with the queen, and gives check. And if Black plays the
+King to the rook's first, White... [the branches close, as ever, with White's
+odds converted by force:] ...and so without any remedy he will have won the
+game.
+
+[Here ends the fourth odds chapter — and with it the teaching of odds.]
+
+---
+
+OF GAMES [PROBLEMS]
+
+[The 1597 edition here sets sixteen "partiti" — problems — each with a
+diagram whose lettered squares are named in the solutions. The diagrams are
+lost in the scan; the solutions are given with their letters, referring to
+the printed figures.]
+
+The Second. A most strong problem of four moves. White to Black [to play]:
+he will give him mate in four moves, neither more nor less. White plays the
+bishop to A, and gives check; and if Black perforce plays the King to B,
+White plays the bishop to C. And if Black takes the adverse queen in D with
+his own, White plays the King to E, and gives check discovered from the
+bishop. And if Black, having nothing else to do, covers with the queen in F
+or in G — White takes that queen with the bishop, and gives check, and it
+will be [mate]. And if Black does not take the adverse queen with his own,
+but plays the queen to H, and gives check — White plays the King to E, and
+on the next move will give him mate with the queen in I, or by taking the
+queen with the bishop wherever Black plays her. And if Black does not play
+the queen to H, but plays the rook to K, or indeed to L — White always plays
+the King to E, and gives check discovered from the bishop. And if Black,
+finding himself with the rook in L, takes the bishop in C with that rook —
+White plays the queen to I, and gives check, and it will be mate. And if
+Black will not take the bishop with the rook, to get out of check, but will
+cover with the queen in H — White takes that queen with the bishop, and
+gives check — and it will be mate, as promised, in four moves.
+
+[There follow, in the 1597 order, problems of five moves (several, including
+pawn-mates "ne più ne meno"), of six moves, a most subtle of ten moves, two
+most subtle of fifteen moves, one of sixteen moves "of the greatest
+judgment," and a most subtle of twenty-three moves — each White to play and
+mate in the stated number, neither more nor less, with solutions in the same
+lettered manner as above. Two are noted as "often happening in play."]
+
+The Twelfth. A very beautiful and delightful problem of twenty-three moves.
+It is an infallible rule for taking all the chessmen with the knight's leap
+— on this condition: that the knight is never played without taking, nor
+ever set on an empty square. If White plays the knight that stands on 1, and
+takes on 2, on 3, on 4, on 5, on 6, on 7, on 8, on 9, on 10, on 11, on 12, on
+13, on 14, on 15, on 16, on 17, on 18, on 19, on 20, on 21, on 22, on 23, on
+24, on 25, on 26, on 27, on 28, on 29, on 30, on 31, on 32 — doing thus, he
+will have taken all the chessmen with the knight's leap. The chessmen must
+be set on the board in the order the present figure shows; and if they were
+jumbled it matters not, for it suffices that the board have thirty-two
+squares full, in the order seen.
+
+[The 1597 table of contents follows, then the register of signatures. The
+table lists, last, "Of the games of Draughts" — whose text is not recovered
+in the scan used; see the Notes.]
+
+---
+
+TABLE OF THE FIRST BOOK
+
+Of the names of the chessmen; their place and rules.
+Of the way of playing at chess, beginning the game with the King's pawn.
+Of the way to begin the game with the Queen's pawn.
+Of the gambit game, so called vulgarly.
+Of the way of playing receiving the King's bishop's pawn, besides the move,
+for odds.
+Of the way of playing receiving for odds: the King's bishop's pawn without
+the move.
+Of the way of playing receiving [a knight?] odds without the move.
+Of the way of playing having a knight for odds for the King's bishop's pawn,
+with the move.
+Of the games of draughts.
+
+[End of the volume. Turin, 1597.]
+
+---
+
+PRIMACY NOTE
+
+None found after research. No English translation of Gianutio's 1597 chess
+book has been found. This is a fresh rendering from the Italian; no modern
+rendering has been used or borrowed from.
+
+Caveats, stated plainly:
+- The 1597 diagrams — of the pieces' moves, the arrayed board, and every
+  problem — are lost in the scan used; moves and arrays are given in words,
+  and problem solutions keep the edition's own square-letters referring to
+  the printed figures.
+- The table of contents lists a closing chapter "Of the games of draughts";
+  its text is not recoverable from the scan and is not translated here.
+- The dedication's addressee is Count Francesco Martinengo di Malpaga; the
+  author's dates beyond "of Turin" and the 1597 dedication are not
+  established in the materials used, and none are asserted.
+- "Black" renders Gianutio's "il Negro" (the black side), as opposed to
+  "il Bianco" (the white side); no other sense is intended.
+
+---
+
+RIGHTS
+
+Public domain source text; modern edition (c) editor, free redistribution.
