@@ -1,0 +1,791 @@
+# DRAFT — NOT FOR PUBLICATION, SHARING, OR CIRCULATION
+
+**SALLUSTIUS — ON THE GODS AND THE WORLD**
+*Book 2 of the Boneyard Philosophy series — Draft*
+
+> **AI-assistance disclosure:** This draft was produced with AI assistance (Meta's Muse, working for Robert Tilford). It is a clear-English modernization of Thomas Taylor's 1793 English translation — which is in the public domain — not a fresh translation from the Greek. It has not been checked against the Greek text. It has not passed Robert's G4 read-through gate. It is a working draft only.
+
+---
+
+## Title Page
+
+**ON THE GODS AND THE WORLD**
+
+*Being the treatise of Sallustius, a 4th-century Hellenic pagan philosopher,
+a friend and ally of the Emperor Julian — here given in plain modern English,
+modernized from the 1793 English rendering of Thomas Taylor*
+
+**DRAFT** — Boneyard Philosophy Series, Book 2
+
+---
+
+## DEDICATION
+
+*To Thomas Taylor (1758–1835), "the English Platonist."*
+
+A bank clerk who taught himself Greek in hours stolen from sleep, who lived
+on seven shillings a week and fainted from hunger at his desk, who once blew
+up a perpetual-motion lamp at Freemason's Tavern — and who spent his whole
+life putting Plato, Aristotle, Plotinus, and the forbidden pagan texts of
+antiquity into English, so ordinary readers could meet them. His contemporaries
+received the work almost contemptuously. When he died, his library and eleven
+manuscript notebooks went under the hammer at Sotheby's in 1836. The notebooks
+have never been traced.
+
+He did the hard part. This is only a dusting-off.
+
+— R.T.
+
+---
+
+## Method Statement
+
+What you are reading is **not** a new translation from Greek. It is a
+plain-English modernization of Thomas Taylor's 1793 English translation of
+Sallustius's *On the Gods and the World*, verified on Wikisource as
+"Sallust On the Gods and the World (1793) translated by Thomas Taylor" —
+a work in the public domain worldwide (Taylor died in 1835).
+
+Taylor's English is deliberately archaic: long periodic sentences, thee/thou
+forms of address, and 18th-century philosophical vocabulary. The job here was
+to render that English into language a humble peasant could understand —
+shorter sentences, ordinary words, no archaisms — while keeping Taylor's
+meaning faithfully, chapter by chapter, with nothing added and nothing taken
+away. Where Taylor used terms that have no plain modern equivalent, they are
+kept and explained once, in the note below.
+
+Taylor's footnotes to his 1793 edition are omitted in this draft. The
+accompanying pieces in Taylor's volume — the Pythagoric Sentences of
+Demophilus and the Hymns of Proclus — are not part of this book.
+
+No claim is made that this is the first, oldest, definitive, or complete
+English version of anything. It is one clear rendering, honestly labeled, of a
+public-domain text.
+
+## What This Text Is
+
+*On the Gods and the World* (Greek: *Peri theōn kai kosmou*) is a short
+treatise of 4th-century Hellenic pagan theology — a kind of pagan catechism,
+written while Christianity was becoming the power of the empire. Its author,
+the Sallustius named by the ancient writer Photius, is generally identified
+as a friend and philosophical ally of the Emperor Julian — the last pagan
+emperor of Rome. It is Neoplatonist in outlook: one first cause beyond being,
+ranks of gods below it, an unmade and unending world, the immortality of the
+soul, and an account of why the old myths (fables) are not lies but veils
+over truth.
+
+Say it plainly: this is a pagan book, written by a pagan, for pagans, in the
+fourth century. Read it as what it is.
+
+## A Note on Terms
+
+- **Gods (lowercase g is Taylor's, kept as "gods").** Taylor follows the
+  Greek in speaking of many gods under one first cause. Left as written.
+- **Super-mundane / mundane gods.** "Above the world" and "of the world."
+  Where the sentence allows, rendered as "gods above the world" and "gods of
+  the world."
+- **Daemons.** Taylor's "dæmons" are *not* devils. They are the middle beings
+  between gods and men — guardians, avengers, purifiers. Rendered here as
+  "daemons" on first use in each chapter with the sense given in context,
+  so no reader mistakes them for the Christian devil.
+- **Intellect, soul, essence.** The three great rungs of Taylor's (and
+  Sallustius's) ladder: *being* at the bottom, *soul* above it, *intellect*
+  above that, and the first cause above them all. Kept as technical terms and
+  explained where they first appear.
+- **Polity.** A city's form of government. Kept.
+- **Providence, fate, fortune.** Three different divine workings, carefully
+  distinguished in chapter 9: providence (the gods' effortless care), fate
+  (that care working through bodies and the stars), fortune (the gods'
+  unexpected turns toward good ends).
+
+## Contents
+
+1. What a hearer about the gods must bring, and of common conceptions
+2. That a god is unchanging, ungenerated, eternal, without body, and not in any place
+3. Of fables — that they are divine, and why
+4. That there are five kinds of fables, with examples of each
+5. Of the first cause
+6. Of the gods above the world and the gods of the world
+7. Of the nature and everlastingness of the world
+8. Of intellect and soul, and that the soul is immortal
+9. Of providence, fate, and fortune
+10. Of virtue and vice
+11. Of a good government and a corrupt one
+12. Whence evils come, and that there is no nature of evil
+13. In what sense everlasting things are said to be "made"
+14. How the unchanging gods are said to be angry and appeased
+15. Why we honor the gods, who need nothing
+16. Of sacrifices and other honors — no gain to the gods, gain to men
+17. That the world is by nature incorruptible
+18. Why sacrifices are kept up, and that divinity cannot be harmed
+19. Why offenders are not punished at once
+20. Of the soul's rebirth, and how rational souls are said to dwell in irrational natures
+21. That the good will be happy, in this life and when they leave it
+
+---
+
+*Draft status: DRAFT. G1 self-audit by the drafting agent (see report).
+Stopped at AUDITED per standing orders — nothing published, emailed,
+uploaded, or pushed. Awaits Robert's G4 read-through gate.*
+# DRAFT — NOT FOR PUBLICATION, SHARING, OR CIRCULATION
+
+> **AI-assistance disclosure:** This draft was produced with AI assistance (Meta's Muse, working for Robert Tilford). It is a clear-English modernization of Thomas Taylor's 1793 English translation of Sallustius's *On the Gods and the World* (public domain) — not a fresh translation from the Greek. Nothing has been added; nothing taken away. Stopped at AUDITED — not past Robert's G4 read-through gate.
+
+---
+
+# ON THE GODS AND THE WORLD
+
+*Sallustius — modernized from Thomas Taylor's 1793 English*
+
+---
+
+## 1. What a hearer about the gods must bring, and of common conceptions
+
+Those who want to hear about the gods must have been raised well from
+childhood, and not fed on foolish opinions. They must also be naturally
+sensible and good, so they can take in what they hear and understand it
+rightly.
+
+They must also know the common conceptions. Common conceptions are things
+that all men, when asked, admit are certainly true — such as that every god
+is good, cannot be acted upon, and is free from all change. For anything that
+changes is changed either into something better or into something worse. If
+into something worse, it becomes corrupted; but if into something better, it
+must have been evil to begin with.
+
+## 2. That a god is unchanging, ungenerated, eternal, without body, and not in any place
+
+Such are the qualifications for a hearer about the gods. The teaching itself
+runs as follows.
+
+The essences of the gods are not generated. Eternal natures are without
+generation, and those beings are eternal who hold a first power and are by
+nature free from being acted upon. Their essences are not put together out of
+bodies — for even the powers of bodies are without body. They are not
+contained in any place — that is a property of bodies. They are not cut off
+from the first cause, nor from one another — just as thoughts are not cut off
+from the mind, nor branches of knowledge from the soul.
+
+## 3. Of fables — that they are divine, and why
+
+Why, then, did the ancients set aside teachings like these and use fables?
+The question is worth looking into.
+
+The first good that comes from fables is this: they stir us to inquiry and
+will not let our thinking power lie idle and asleep. It is not hard to show
+that fables are divine, from the hands that use them: they are used by poets
+moved by divinity, by the best of philosophers, and by those who reveal the
+mystery rites. In oracles, too, the gods themselves use fables. But *why*
+fables are divine is a question for philosophy.
+
+Since all beings delight in likeness and turn away from unlikeness, discourses
+about the gods must be made as like the gods as possible — so they may be
+worthy of the gods' nature, and make the gods favorable to those who speak of
+them. Only fables can do this. Fables imitate the gods in being partly
+speakable and partly unspeakable, partly seen and partly unseen, partly wise
+and partly foolish. This extends to the goodness of the gods as well: as the
+gods give the goods of the senses to all in common, but the goods of the mind
+to the wise alone, so fables tell all men that there are gods — but *who*
+they are, and of what kind, they show only to those able to receive so high a
+knowledge.
+
+Fables also imitate the workings of the gods. The world itself may rightly be
+called a fable: its bodies and bodily goods are seen, but souls and minds are
+hidden and invisible.
+
+Besides, to tell all men the plain truth about the gods breeds contempt in
+the unwise — who cannot learn — and laziness in the studious. But hiding the
+truth in fables keeps the first from contempt and forces the second to
+philosophize.
+
+But you will ask: why are adulteries, thefts, the binding of fathers, and
+other unworthy deeds celebrated in fables? There is nothing strange in this.
+Where there is an obvious absurdity, the soul at once takes these tales for
+coverings, and understands that the truth inside them is to be kept in deep
+and guarded silence.
+
+## 4. That there are five kinds of fables, with examples of each
+
+Of fables, some are theological, some physical, some about the soul, some
+material, and some mixed from these.
+
+**Theological** fables use nothing bodily, but contemplate the very essences
+of the gods — like the fable that says Saturn devoured his children. It hints
+darkly at the nature of an intellectual god, since every intellect returns
+into itself.
+
+We treat fables **physically** when we speak of the workings of the gods in
+the world — as when we take Saturn for Time, call the parts of time the
+children of the universe, and say the children are devoured by their parent.
+
+We use fables in the **soul's** manner when we contemplate the workings of
+the soul — because our thoughts, though they go out into other things by a
+step-by-step working, still stay rooted in their source.
+
+**Material** fables are such as the Egyptians use in their ignorance, taking
+bodily things for gods: Isis for earth, Osiris for moisture, Typhon for heat;
+or again Saturn for water, Adonis for crops, Bacchus for wine. To say these
+things are *dedicated* to the gods — as herbs, stones, and animals are — is
+the part of wise men. To call them gods is the part of madmen — unless we
+speak as custom speaks, when it calls the orb of the sun and its rays "the
+sun" itself.
+
+The **mixed** kind may be seen in many places, and in the fable that tells
+how Discord threw a golden apple at a banquet of the gods, how a quarrel over
+it rose among the goddesses, and how they were sent by Jupiter to the
+judgment of Paris — who, charmed by the beauty of Venus, gave her the apple
+above the rest. In this fable the banquet means the above-world powers of the
+gods, and so they dwell together with one another. The golden apple means the
+world, which — being put together from contrary natures — is fitly said to
+be thrown by Discord, or strife. And since different gods give different gifts
+to the world, they seem to quarrel over the apple. And a soul living by the
+senses — for this is Paris — seeing no other powers in the universe, declares
+that the contested apple comes from the beauty of Venus alone.
+
+Of these kinds of fables, the theological belong to philosophers; the physical
+and those of the soul, to poets; the mixed, to the mystery rites — since the
+aim of all mystic ceremonies is to join us to the world and the gods.
+
+If another fable must be told, this one may serve. They say the mother of the
+gods, seeing Attis by the river Gallus, fell in love with him, set a starry
+cap on his head, and lived with him ever after in close union. But Attis fell
+in love with a Nymph, left the mother of the gods, and joined himself to the
+Nymph. At this the mother of the gods drove Attis mad; he cut off his manhood,
+left it with the Nymph, and returned to his former union with the goddess.
+
+The mother of the gods is the life-giving goddess, and so is called mother.
+Attis is the maker of things that come to be and pass away — hence he is
+found by the river Gallus, for Gallus means the Galaxy, the milky circle, from
+which a passive body comes down to earth. And since the first gods perfect
+those that come after, the mother of the gods, falling in love with Attis,
+gives him heavenly powers — that is the meaning of the starry cap. But Attis
+loves a nymph, and nymphs rule over generation, for everything in generation
+flows. Yet the flowing nature of generation must be stopped, or something
+worse than the lowest things would be produced. So the maker of things that
+come to be and pass away, sending his fruitful powers into the realms of
+generation, is joined again to the gods.
+
+But these things never happened at any one time, because they are forever.
+The mind sees all things as existing together; speech puts one thing first
+and another second in the order of being.
+
+Since a fable fits the world so well, how could we — who imitate the world —
+be better adorned than by the help of fable? Through it we keep a holy day.
+First, we ourselves, fallen from the heavens and joined to a nymph — the
+symbol of generation — live sunk in sorrow, fasting from corn and other gross
+and sordid foods, since all such things are against the soul. Then come the
+cutting of a tree and fasting, as if we would cut off from our nature all
+further advance of generation. At last we take milk for food, as if passing
+into a state of rebirth; and finally come joy and crowns, and a rising again,
+as it were, to the gods.
+
+The time of these rites confirms their truth: they are held about spring, at
+the equinox, when things in generation cease to generate, and the days grow
+longer than the nights — for this season suits souls on the way up. The
+carrying-off of Proserpine is fabled to have happened at the opposite
+equinox, and it stands for the descent of souls.
+
+So much for the way fables are to be read. To this discourse on them, may
+both the gods and the souls of the fable-writers be favorable.
+
+## 5. Of the first cause
+
+Next we must know the first cause, and the ranks of gods below the first;
+the nature of the world, of intellect, of soul, and of essence; also
+providence, fate, and fortune; virtue and vice; and the good and evil forms of
+government that come from these; and lastly, where evil crept into the world.
+Each of these needs many long discourses, but there is no reason we may not
+treat them briefly, so mankind is not left wholly without this knowledge.
+
+The first cause must be one. The One stands over all multitude, excelling all
+things in power and goodness, and so all things must share in its nature:
+nothing can block its workings through power, and it will not cut itself off
+from anything through the goodness it has.
+
+If the first cause were soul, all things would be alive. If it were intellect,
+all things would be intellectual. If it were essence, all things would share
+in essence — and some, seeing essence in all things, have taken occasion to
+call it essence. If things had nothing but being, and did not also have
+goodness, this would be true. But beings exist through goodness and share in
+*the good* — so the first cause must be beyond essence, and *the good* itself.
+
+This is best proved by souls endowed with virtue, who neglect the care of
+their own being and face the greatest dangers for their country, their
+friends, or virtue's sake.
+
+After this unspeakable power come the ranks of the gods.
+
+## 6. Of the gods above the world and the gods of the world
+
+Of the gods, some belong to the world and some are above the world. I call
+those of the world who make the world. Of those above the world, some produce
+essences, others intellect, and others soul — and so they fall into three
+ranks, and in treating of these ranks all the gods are easily found.
+
+But of the gods of the world, some are the causes of the world's existence,
+others give the world life, others harmonize it though it is put together
+from different natures, and others guard and keep it once it is harmonized.
+Since these ranks are four, and each is made of first, middle, and last, their
+rulers must be twelve: Jupiter, Neptune, and Vulcan make the world; Ceres,
+Juno, and Diana give it life; Mercury, Venus, and Apollo harmonize it; and
+Vesta, Minerva, and Mars watch over it with guardian power.
+
+The truth of this may be seen in statues as in riddles: Apollo tunes the lyre,
+Pallas is armed, Venus is naked — since harmony produces beauty, and beauty
+is not hidden from the eyes. But since these gods hold the world first, the
+other gods must be considered as dwelling in these: Bacchus in Jupiter,
+Aesculapius in Apollo, the Graces in Venus. We may also see the spheres
+joined to them: Vesta with earth, Neptune with water, Juno with air, Vulcan
+with fire. The six higher gods we name by custom: we take Apollo and Diana
+for the sun and moon, give the sphere of Saturn to Ceres and the upper air to
+Pallas, and say heaven is common to them all.
+
+The ranks, powers, and spheres of the twelve gods are thus laid open, and
+celebrated as in a sacred hymn.
+
+## 7. Of the nature and everlastingness of the world
+
+The world must be incorruptible and unmade. Incorruptible: if it were
+corrupted, it must become either better, or worse, or mere confusion. If
+worse, its maker must be evil, changing it from better to worse. If better,
+its maker must have lacked power, since he did not make it better at first. If
+it changed into the same state as before, he labors in vain. And it is not
+permitted to say he changes it into nothing but disorder and confusion. From
+all this it is plain the world is unmade as well: if it cannot be corrupted,
+it is unmade — since everything made is also corrupted.
+
+Add this: since the world exists through the goodness of divinity, divinity
+must always be good and the world must endure forever — just as light exists
+along with the sun and fire, and the shadow with the body that casts it.
+
+Of the bodies in the world, some imitate intellect and move in a circle;
+others imitate soul and move in a straight line. Of those moved in a straight
+line, fire and air are driven upward, water and earth downward. Of those moved
+in a circle, the starry sphere begins its motion from the east, but the seven
+planets are carried in their courses from the west. There are many causes of
+this, not least the following: if there were but one swift circling of the
+spheres, generation would be imperfect; but since motion differs, the nature
+of bodies must differ too. A heavenly body must neither burn nor chill, nor
+produce anything else belonging to the four elements.
+
+Since the world is a sphere — as the zodiac shows — and in every sphere the
+lower part is the middle, being everywhere farthest from the surface, heavy
+bodies are driven downward to the earth. All these things the gods make, the
+intellect arranges in order, and soul keeps ever in motion.
+
+So much concerning the gods.
+
+## 8. Of intellect and soul, and that the soul is immortal
+
+There is a certain power below essence but before soul. From essence it draws
+its being, and it perfects soul — as the sun perfects the sight of the body.
+Of souls, some are rational and immortal, others irrational and immortal; the
+first come from the first gods, the second from the second ranks of gods.
+
+First let us find the definition of soul. Soul is that by which living things
+differ from lifeless things. They differ by motion, sense, imagination, and
+thought. The irrational soul is therefore sensitive and imaginative life; the
+rational soul is that which rules sense and imagination and uses reason in its
+workings. The irrational soul serves the passions of the body: it desires
+without reason and burns with anger. The rational soul, with reason's help,
+despises the body, and fighting the irrational soul, when it conquers produces
+virtue, when it is conquered produces vice.
+
+The rational soul must be immortal, because it knows the gods — and nothing
+mortal knows the immortal. It despises human concerns as foreign to its
+nature, and stands opposed to bodies, being itself without body. Add this:
+when the body it is joined to is beautiful and young, the soul is weighed
+down and its strength lessened; but when the body grows old, the soul revives
+and grows in strength and vigor.
+
+Every worthy soul uses intellect. But intellect is not generated by body — for
+how can things without intellect generate intellect? Using the body as an
+instrument, it does not dwell in the body — as no maker of machines dwells in
+his machines, though many machines move from place to place with no one
+touching them. We should not wonder if the rational soul is often led astray
+by the body: even the arts cannot work when their instruments are damaged.
+
+## 9. Of providence, fate, and fortune
+
+From this we may also see the providence of the gods. How could order be put
+into the world if no one set it in order? Whence could all things be made for
+a purpose — the irrational soul, that there might be sense; the rational,
+that the earth might be adorned? We may see providence working in natural
+effects too: it made the eyes of a clear nature for seeing, but set the
+nostrils above the mouth so we may tell foul smells; of the teeth, the middle
+ones are made sharp for cutting, but those set deeper in the mouth are broad
+for grinding food. So in all things we may see that nothing is made without
+reason and design.
+
+Since so much providence shows in the lowest things, it cannot be absent from
+the highest. Divinations and the healing of bodies also come from the kindly
+providence of the gods.
+
+We must believe the gods care for the world in like manner — expecting no
+reward, and suffering no labor in the caring. As bodies endowed with power
+produce by their very essence what they produce — as the sun lights and heats
+by what it alone is — so the providence of the gods, with far greater reason,
+gives good to those under its care without labor or strain. This dissolves the
+objections of the Epicureans against providence, who say that what is divine
+causes trouble neither to itself nor to others.
+
+Such is the bodiless providence of the gods over bodies and souls. But the
+kindly working of the gods that comes through bodies and dwells in bodies is
+different from this, and is called *fate* — because its chain shows more
+plainly in bodies, and for its sake the mathematical art was devised. That
+human affairs, and especially our bodily nature, are ruled not only by the
+gods but also by divine bodies, agrees highly with reason and truth; and
+reason tells us that health and sickness, good and bad fortune, come from
+these according to each man's deserts.
+
+But to blame fate for injustice and crimes of lust leaves us good and makes
+the gods evil and base — unless one answers thus: everything in the world,
+and whatever exists by nature, is good; but a nature badly raised, or of
+weaker condition, turns the good that comes from fate into something worse —
+just as the sun, good in itself, becomes harmful to bleary eyes and the
+feverish.
+
+For on what account do the Massagetae eat their parents, the Hebrews practice
+circumcision, and the Persians keep their nobility pure? And how can
+astrologers call Saturn and Mars harmful, yet praise these same planets as
+kindly, saying philosophy, kingdoms, and military command are their gifts? If
+they name triangles and squares as the cause, it is absurd that human virtue
+should stay the same everywhere while the gods change with differences of
+place. That the nobility or lowliness of parents may be foretold from the
+stars shows the stars do not *produce* all things, but only *point to* some,
+by their different positions and aspects — for how can things that existed
+before birth be produced by birth?
+
+As providence and fate govern nations and cities, and every single man, so
+also does *fortune* — of which we must now speak. Fortune must be seen as a
+power of the gods, disposing things this way and that, happening beyond
+expectation, toward kindly ends. So it is fitting that cities honor this
+goddess in common, since every city is put together from different parts. This
+goddess rules below the moon, since nothing by chance is found above the
+moon.
+
+If the wicked enjoy good fortune and the worthy are crushed by want, there is
+nothing strange in it: the first count riches as everything, the second
+despise them. And besides, good luck does not lessen the wickedness of the
+wicked — but virtue alone is enough for the good.
+
+## 10. Of virtue and vice
+
+In speaking of the soul we must speak of virtue and vice. The irrational soul,
+entering bodies, at once produces anger and desire; the rational soul, ruling
+these, makes the whole soul threefold: reason, anger, and desire.
+
+The virtue of reason is wisdom; of anger, courage; of desire, temperance; of
+the whole soul, justice. Reason must judge what is fitting and becoming;
+anger, listening to reason's persuasion, must despise things that seem
+terrible; desire must pursue what reason approves, not what seems pleasant.
+When the parts of the soul stand thus, a just life follows — for justice
+about possessions is but a small part of virtue.
+
+In well-raised men you will see all these joined in friendship; in the
+uneducated, one is bold but unjust, another prudent but intemperate. You
+cannot call these virtues, for they lack reason, are imperfect, and belong to
+certain irrational animals.
+
+Vice is seen from the opposites: the vice of reason is folly; of anger,
+fear; of desire, intemperance; of the whole soul, injustice. Virtues come from
+an upright government and from well-ordered teaching and training; vices from
+the opposite course.
+
+## 11. Of a good government and a corrupt one
+
+The forms of government come from the threefold division of the soul: the
+rulers are like reason, the soldiers like anger, the common people like
+desire.
+
+When all things are managed by reason, and the best of all men holds power, a
+*kingdom* is produced. When reason and anger join, and more than one hold the
+reins, an *aristocracy* is produced. Where government runs through desire, and
+honors are sought for the sake of wealth, it is called a *timocracy*.
+
+The government opposed to a kingdom is called a *tyranny* — for the kingdom
+manages everything by reason, the tyranny nothing. *Oligarchy*, the rule of
+the few, is opposed to aristocracy — because in it not the best, but a few,
+and those the worst, govern the city. Lastly, *democracy* is opposed to
+timocracy — because in it not the rich, but the multitude alone, rules all
+things.
+
+## 12. Whence evils come, and that there is no nature of evil
+
+But how did evil come into the world, since the gods are good and the makers
+of all things? First we must hold that, since the gods are good and the
+authors of all things, there is no *nature* of evil. Evil is produced by the
+absence of good — just as darkness is in itself nothing, but is produced by
+the absence of light.
+
+But if evil had any real being, it must dwell either in the gods, or in
+intellects, in souls, or in bodies. It cannot dwell in the gods, since every
+god is good. If anyone said intellect is evil, he must also say intellect is
+without intellect. If soul, he must say soul is worse than body — for every
+body, taken by itself, is without evil. If they say evil comes from soul and
+body joined, it is surely absurd that things not evil apart should become evil
+by joining.
+
+If anyone says the daemons are evil, we answer: if they hold their power from
+the gods, they will not be evil; but if from something else, then the gods
+are not the authors of all things. And if the gods do not make all things,
+either they are willing but unable, or able but unwilling — and neither can
+rightly be said of a god.
+
+From this it is plain that nothing in the world is naturally evil. Evil
+appears around the doings of men — and not all of them, nor always. Indeed,
+if men sinned through evil itself, nature herself would be evil. But if the
+adulterer counts the adultery as evil and the pleasure in it as good; if the
+murderer counts the killing as evil and the riches from the deed as good; if
+he who destroys his enemies counts the destruction as evil and revenge on an
+enemy as good — and souls sin in this way — then evils are produced *through
+goodness*, just as darkness is produced while light is absent, though it has
+no being in the nature of things.
+
+The soul sins because it desires good, but it wanders about the good because
+it is not the first essence. That it may not wander — and that when it does,
+proper remedies may be applied and it may be restored — the gods have given
+many things: arts and sciences, virtues and prayers, sacrifices and
+initiations, laws and governments, judgments and punishments were devised to
+keep souls from falling into guilt; and even when they leave this body,
+purifying gods and daemons cleanse them from guilt.
+
+## 13. In what sense everlasting things are said to be "made"
+
+What has been said of the gods, the world, and human affairs may be enough
+for those who cannot be led upward by philosophy, yet whose souls are not
+incurable.
+
+It remains to speak of natures that were never generated nor separated from
+one another — for we have already seen that secondary natures come from
+primary ones. Everything generated is generated either by art, by nature, or
+by power. What works by nature or by art must come before the things it
+produces; but what works by power has its products existing along with
+itself, since it holds an inseparable power — just as the sun produces light
+existing along with itself, fire produces heat, and snow cold.
+
+If the gods made the world by art, they would cause it not simply to *be*,
+but to be *in some particular way* — for all art produces form. Whence then
+does the world draw its being? If by nature: nature in making gives something
+of itself to its products, and the gods are without body — so the world,
+their offspring, must be without body. But if anyone says the gods are
+bodily: whence comes the power of bodiless things? And besides, if this were
+granted, then if the world were corrupted its maker must be corrupted too —
+on the supposition that he works by nature.
+
+It remains, then, that the gods made the world by power alone. But everything
+generated by power exists along with the cause that holds this power, and
+products of this kind cannot be destroyed unless the producing cause is
+stripped of power. So those who make the world corruptible plainly deny there
+are gods — or, if they say there are gods, they strip divinity of power.
+
+He who made all things through power caused all things to exist along with
+himself. And since this power is the greatest possible, not only men and
+animals were produced, but gods and daemons as well. And as much as the first
+god stands above our nature, by so much must there be more powers set between
+him and us — for natures far apart from each other have many connecting
+middles.
+
+## 14. How the unchanging gods are said to be angry and appeased
+
+But if anyone, rightly holding that the gods are unchanging, wonders how they
+delight in the good but turn from the evil, how they grow angry with the
+guilty but are made favorable by due worship — we answer:
+
+Divinity does not delight — for what delights also grieves. It is not angry —
+for anger is a passion. It is not appeased by gifts — for then it would be
+moved by pleasure. A divine nature cannot rightly be made well or ill
+disposed by human affairs. The gods are forever good and kindly, never
+harmful, and ever dwell in the same unvarying state of being.
+
+But we, when we are good, are joined to the gods through likeness; when evil,
+we are cut off from them through unlikeness. While we live by virtue we share
+in the gods; when we become evil we make them our enemies — not that they
+are angry, but because guilt keeps us from receiving the light of the gods
+and puts us under the power of avenging daemons. But if we gain pardon for
+our guilt through prayers and sacrifices, we neither appease the gods nor work
+any change in them. By such means, turning back to the divine nature, we heal
+our vices and again share in the goodness of the gods.
+
+To say divinity turns away from the evil is the same as saying the sun is
+hidden from the blind.
+
+## 15. Why we honor the gods, who need nothing
+
+From this we have the answer to doubts about sacrifices and other matters of
+divine worship. What is divine needs nothing. The honors we pay the gods are
+performed for *our* benefit.
+
+Since the providence of the gods reaches everywhere, only a certain fitness
+is needed to receive their kindly gifts. All fitness comes through imitation
+and likeness. So temples imitate the heavens, but altars the earth; statues
+resemble life, and so are like animals; prayers imitate what is intellectual;
+sacred characters imitate higher unspeakable powers; herbs and stones resemble
+matter; and the animals sacrificed resemble the irrational life of our souls.
+
+From all this nothing comes to the gods beyond what they already have — for
+what addition can be made to a divine nature? But a union of our souls with
+the gods is produced by this means.
+
+## 16. Of sacrifices and other honors — no gain to the gods, gain to men
+
+It will be proper to add a few things about sacrifices. First, since we hold
+everything from the gods, it is only just to offer the first fruits of gifts
+to the givers: of our possessions through offerings, of our bodies through
+adornment, and of our life through sacrifices.
+
+Besides, without sacrifices prayers are only words; with sacrifices they
+become *living* words — words strengthen life, and life gives words life. Add
+too that the happiness of everything is its proper perfection, and its proper
+perfection joins it with its cause — and so we pray to be united with the
+gods. Since life dwells first in the gods, and there is also a human life,
+and the human life longs to be united with the divine, a middle is needed —
+for natures far apart cannot be joined without a middle, and the middle must
+be like the natures it joins. Life must therefore be the middle, by means of
+life. Hence the happy men of our day, and all the ancients, have sacrificed
+animals — and not rashly, but in a manner fitted to each god, with many other
+rites of divine worship.
+
+So much concerning sacrifices and the worship of the gods.
+
+## 17. That the world is by nature incorruptible
+
+That the gods will never destroy the world has been said already. The order
+of our discourse now requires us to prove that it is by nature
+incorruptible.
+
+Whatever is corrupted is corrupted either from itself or from another nature.
+If the world were corrupted from itself, fire must burn itself and water dry
+itself up. If it may be corrupted by another, it must be either by body or by
+what is without body. It cannot be by what is without body: bodiless things,
+like nature and soul, *preserve* bodily substances, and nothing is destroyed
+by what by nature preserves it.
+
+But if the world may be corrupted by body, it must be either by the bodies
+now in it or by others. If by the bodies now in it: either those moving in a
+circle must destroy those moving in a straight line, or those moving in a
+straight line must destroy the circling ones. But nothing moving in a circle
+has a corruptible nature — for why do we never see anything of that kind
+corrupted? And things moving in a straight line cannot reach those circling
+in an orb — for if they could, why have they never done it to this day?
+Neither can natures moving in a straight line destroy one another: the
+corruption of one is the generation of another, and this is not destruction
+but change alone.
+
+But if the world may be corrupted by other bodies than those it holds, no one
+can say where these bodies were generated or where they now exist.
+
+Besides, whatever is corrupted is corrupted either in form or in matter — and
+form is shape, matter is body. When forms are corrupted but matter remains,
+we see something else generated. But if matter may be corrupted, how is it it
+has not failed in so many years? If instead of the corrupted natures others
+are produced, they are generated either from beings or from non-beings. If
+from beings: since these remain forever, matter must be eternal too. But if
+beings suffer corruption, then not only the world but all things will be
+corrupted. If matter is generated from non-beings: first, nothing can be
+generated from non-being; and even if it could, then as long as non-being
+lasted, matter would keep existing — and non-beings can never be destroyed.
+
+If they say matter is without form: first, why does this happen to the whole
+world and not to a part? And second, bodies themselves would not be
+destroyed, only their beauty.
+
+Besides, whatever is corrupted either dissolves into the natures it is made
+of, or vanishes into nothing. If it dissolves into its natures, others will
+again be produced — for why was it produced at first? But if beings pass into
+nothing, what should stop this happening to divinity itself? If power
+prevents it — it is not the property of power to preserve itself alone. By
+the same reasoning, being cannot be generated from non-beings, nor vanish
+into nothing.
+
+Likewise, the world, if it may be corrupted, must be corrupted either by
+nature or against nature. If by nature: then, given its past and present
+continuance in being, it would have held what is *against* nature before what
+is *according to* nature. If against nature: then some other nature must
+exist that can change the nature of the world — and none is anywhere to be
+seen.
+
+Besides, whatever can by nature be corrupted, we can also destroy. But no one
+has ever destroyed or changed the circling body of the world — while we can
+change an earthly body, but cannot destroy it.
+
+Lastly, whatever may be corrupted is changed and aged by time. But through so
+long a train of ages the world has stayed without change.
+
+Having said this much for those who need stronger proofs on this matter, we
+earnestly beg the world to look kindly on our undertaking.
+
+## 18. Why sacrifices are kept up, and that divinity cannot be harmed
+
+Impiety, which overruns some places of the earth and will often exist in the
+future, should not trouble the worthy mind. Things of this kind do not touch
+the gods, nor can religious honors profit the gods. And the soul, from its
+middle nature, is not always able to pursue the right.
+
+Nor can the whole world share in the providence of the gods in the same way:
+some parts enjoy it forever, others in time; some firsthand, others at
+secondhand — just as the head perceives by all the senses, but the whole body
+by one alone. So, as it seems to me, those who founded the holy days also
+appointed unlucky ones: during these some rites are left out and others are
+shut away, and things that atone for the weakness of our nature strip certain
+rites of their ornament.
+
+It is not unlikely that impiety is itself a kind of punishment. Those who
+have known the gods and despised them, we may reasonably suppose, will in
+another life be deprived of the knowledge of their nature. And those who have
+honored their own earthly rulers as gods shall be cut off from the divinities,
+as the punishment of their impiety.
+
+## 19. Why offenders are not punished at once
+
+We should not wonder that offenders of this kind — and others too — are not
+punished for their guilt at once. There are not only daemons who punish
+offending souls; souls also punish themselves. And those whose guilt fits
+them to suffer for all time should not be punished in a small part of time.
+
+Besides, there must be such a thing as human virtue. If the guilty were
+punished at once, men would be just from fear and would no longer be
+virtuous.
+
+Souls are punished when they leave this body: some by wandering about this
+earth, others in certain of its hot and cold regions, others tormented by
+avenging daemons. In every case the rational soul suffers punishment together
+with the irrational soul, the partner of its guilt — and through this the
+shadowy body comes to be, which is seen about graves, and especially about
+the tombs of those who lived abandoned lives.
+
+## 20. Of the soul's transmigration, and how rational souls are said to dwell in irrational natures
+
+As for the soul's passing into other bodies: if into rational ones, they
+become the souls of particular bodies; if into irrational ones, they attend
+them from outside — as our guardian daemons attend us in their kindly
+workings. For the rational part never becomes the soul of an irrational
+nature.
+
+The truth of this rebirth is shown by what happens at birth: why are some
+born blind, others feeble, others with a vicious soul? And since souls are by
+nature fitted to do their proper work in bodies, they should not lie idle
+forever once they have left them. For if souls did not return into bodies,
+either they must be infinite in number, or divinity must keep making new
+ones. But nothing actually infinite can exist in the world — for the infinite
+can never exist in the finite. Nor can new ones be made: everything in which
+something new may be generated is necessarily imperfect — but the world must
+be perfect, since it is produced from a perfect nature.
+
+## 21. That the good will be happy, in this life and when they leave it
+
+Souls that live by virtue shall in other respects be happy; and when parted
+from the irrational nature and purified from all body, they shall be joined
+with the gods and govern the whole world together with the deities who made
+it.
+
+And indeed, though none of this should happen to the soul, yet virtue herself
+— and the pleasure and honor that come from virtue, together with a life free
+from sorrow and from being subject to others — would be enough to make happy
+those who choose, and are able to pursue, a life wholly shaped by virtue
+itself.
+
+---
+
+*End of the twenty-one chapters.*
+*DRAFT — stopped at AUDITED. Nothing published, emailed, uploaded, or pushed.*
