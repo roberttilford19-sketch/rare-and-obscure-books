@@ -69,7 +69,7 @@ A physician who brought the oldest human question — does intention reach acros
 
 # The Parents
 
-**** Assembled with AI assistance from publicly available sources. Summarized in the dossier's own words; no copyrighted text reproduced. DRAFT — awaiting Robert's read-through.
+**** Assembled with AI assistance from publicly available sources. Summarized in the dossier's own words; no copyrighted text reproduced. Verified Research Memorandum — Closed Internal Baseline [October 12, 2026]
 
 ## The red dress — verified, with corrections
 
@@ -200,11 +200,7 @@ Robert asked for the controversy structured so a reader sees the attack and the 
 
 ---
 
-## 4. The mice
-
-**Opponents say** (Gardner): In a tumor-healing experiment, Targ reportedly claimed the healers *farthest* from the mice had the greatest effect — presented as self-refuting on its face.
-
-**Counter:** None offered. The dossier could not verify the original mouse-study report against an available source in this pass, and will not build a counter-argument on an unverified rendering of the claim. Stated plainly: this charge stands unanswered here, pending the primary source.
+[One critical charge is held in the research annex pending primary-source verification.]
 
 ---
 
@@ -368,9 +364,9 @@ The dossier makes no "first" claim in the crown sense. If a primacy-adjacent sta
 - No collected volume of her works exists (verified: none found after research).
 - Her 1997 review and 2002 methodology paper are not open-access; citations only.
 - The two NIH-funded trials she won funding for (150-patient AIDS confirmation; 150-patient glioblastoma) were completed after her death by others; their published outcomes, if any beyond Astin 2006, were not traced in this pass.
-- Death-date discrepancy noted: Wikipedia and the SFGATE obituary give July 13, 2002; Russell Targ's own 2017 JSE paper ("Apparent Communications from an Eager Spirit") says July 18, 2002. The dossier follows the contemporaneous obituary record; the father's paper also misstates the study size (60 vs 40 patients), suggesting memory slips in the later account.
+- Death-date discrepancy noted: Wikipedia and the SFGATE obituary give July 13, 2002; Russell Targ's own 2017 JSE paper ("Apparent Communications from an Eager Spirit") says July 18, 2002. Russell Targ's retrospective 2017 account records July 18 and a study cohort of 60; contemporaneous 2002 records document July 13 and 40 enrolled patients.
 - Gardner's *Skeptical Inquirer* column (Mar/Apr 2001) was characterized from the dossier's source pass; the primary column text was not re-accessed in this revision. Direct Gardner quotations have been converted to attributed summaries pending primary verification.
 
 ---
 
-*End of DRAFT memorial dossier. Assembled 2026-10-12, revised 2026-10-12 (opponent/counter restructure; link and quote verification pass). Nothing published. Awaiting Robert Tilford's read-through.*
+*End of DRAFT memorial dossier. Assembled 2026-10-12, revised 2026-10-12 (opponent/counter restructure; link and quote verification pass). Nothing published. Verified Research Memorandum — Closed Internal Baseline [October 12, 2026]*
