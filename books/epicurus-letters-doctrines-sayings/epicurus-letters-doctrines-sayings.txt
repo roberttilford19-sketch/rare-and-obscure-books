@@ -1,0 +1,1492 @@
+# EPICURUS: THE THREE LETTERS
+
+## Letter to Herodotus · Letter to Pythocles · Letter to Menoeceus
+
+**A clear-English modernization of the Cyril Bailey (1926) translation**
+
+---
+
+> **DRAFT — NOT FOR PUBLICATION.** This is a working draft only. It has not
+> been proofread against the printed Bailey edition, has not passed any
+> read-through gate, and must not be published, emailed, uploaded, pushed to
+> any repository, or quoted as a finished text. Local file only.
+
+> **AI-ASSISTANCE DISCLOSURE.** This draft was produced with AI assistance.
+> It is a modernization of Cyril Bailey's English translation (*Epicurus: The
+> Extant Remains*, Oxford: Clarendon Press, 1926 — public domain in the
+> United States), NOT a fresh translation from the Greek. No Greek text was
+> collated for this edition. Where the English base was unclear, the
+> difficulty is flagged in a footnote rather than smoothed over. Many modern
+> translations of Epicurus exist; this edition claims no primacy of any kind —
+> it is one clear-English rendering among many, made for ordinary readers.
+
+---
+
+## DEDICATION
+
+To the unknown hands that kept these words alive.
+
+Epicurus of Samos (341–270 BC) wrote some three hundred works — books on
+nature, on love, on the gods, on kingship, on music, on rhetoric, letters by
+the hundred. Almost every word of them is lost.
+
+What survives does so by the thinnest of threads. In the third century AD, a
+writer named Diogenes Laertius compiled his *Lives of the Eminent
+Philosophers*, and into Book X he copied out three letters of Epicurus in
+full: the summaries of his physics, his teaching on the sky, and his ethics.
+One man's backup became the whole archive. Without that single act of
+copying, Epicurus would be little more than a name quoted by his enemies.
+
+A further handful of sayings, preserved in a Vatican manuscript, went
+unnoticed until 1888, when they were identified for what they were.
+
+This edition is dedicated to every copyist, librarian, and scholar who
+carried these fragments across twenty-three centuries — and above all to
+Diogenes Laertius, whose tenth book is the reason we can read Epicurus in his
+own voice at all.
+
+---
+
+## METHOD STATEMENT
+
+**What this is.** A plain-English modernization of Cyril Bailey's 1926
+translation of the three letters, made so that a reader with no training in
+philosophy can follow Epicurus's arguments in the words of today. Archaic
+grammar has been replaced (no thee/thou, no -eth endings), long Victorian
+sentences broken into shorter ones, and difficult terms explained in place
+where possible.
+
+**What this is not.** It is not a new translation from Greek. Bailey's
+English is the base throughout; his commentary and judgments are not part of
+this edition. Bailey is well known to have been unsympathetic to Epicurus's
+ethics, and his commentary shows it. The commentary has been set aside; the
+translation stands on its own, and this edition tries to give Epicurus a fair
+hearing in plain words.
+
+**What was kept.** The order and structure of the letters are unchanged.
+Section numbers in brackets (e.g. [35]) follow the Loeb numbering used in the
+base text, so any passage can be looked up in other editions. Nothing has
+been added to Epicurus's arguments and nothing has been cut; where a passage
+was obscure or the text broken, it is marked with a footnote saying so.
+
+**Sources consulted for the base text.** Bailey's *Epicurus: The Extant
+Remains* (Oxford, 1926), via the digitized scan at archive.org; clean HTML
+working copies prepared from that scan at handbook.epicureanfriends.com
+(Letters to Pythocles and Menoeceus) and epicureanfriends.com (Letter to
+Herodotus — the handbook site's clean copy of that letter could not be
+located, and the EpicureanFriends page states its text is Bailey's). Annotations
+added by those sites were ignored; only Bailey's wording was used.
+
+---
+
+## THE THREE LETTERS — A READER'S MAP
+
+**Letter to Herodotus** — Epicurus's own summary of his natural philosophy:
+how to think clearly, atoms and the void, the infinite universe and infinite
+worlds, how we see and hear, the nature of the soul, the gods, time, and how
+language began. The physics everything else rests on.
+
+**Letter to Pythocles** — His teaching on the sky: sun, moon, stars,
+eclipses, clouds, thunder, earthquakes, rainbows, comets. Its real subject is
+method — how to reason about things we cannot see up close without falling
+into superstition or false certainty. (Modern scholars note this letter may
+have been compiled or edited by a follower; it is included here as it has
+come down to us.)
+
+**Letter to Menoeceus** — His ethics in brief: the gods, death, desire, and
+pleasure rightly understood. The most famous of the three, and the one most
+readers will want to start with.
+
+---
+
+*Book 1A of the Boneyard Philosophy run. Companion files:*
+*01-three-letters-DRAFT.md (the letters), prepared in the same draft.*
+> **DRAFT — NOT FOR PUBLICATION.** Working draft only: not proofread against
+> the printed Bailey edition, not past any read-through gate. Do not publish,
+> email, upload, push, or quote as finished. Local file only.
+
+> **AI-ASSISTANCE DISCLOSURE.** Produced with AI assistance as a clear-English
+> modernization of Cyril Bailey's translation (*Epicurus: The Extant Remains*,
+> Oxford: Clarendon Press, 1926 — public domain in the US), NOT a fresh
+> translation from the Greek. No Greek was collated. Difficulties are
+> footnoted, not smoothed over. Many modern translations exist; no primacy is
+> claimed.
+
+# THE THREE LETTERS OF EPICURUS
+
+*A clear-English modernization of the Cyril Bailey (1926) translation.*
+*Section numbers in brackets follow the Loeb numbering of the base text.*
+
+---
+
+# I. LETTER TO HERODOTUS
+
+## Epicurus's summary of his natural philosophy
+
+[35] For those who can't work through everything I have written about nature,
+Herodotus, or read the big books I composed, I have already made a good,
+full summary of the whole system — so they can keep at least the main
+principles of each part in mind, and help themselves on the most important
+points whenever they take up the study of nature. And those who have already
+made real progress in surveying the main principles should keep the scheme of
+the whole system in mind in its essentials. We often need the general view;
+we don't so often need the detailed account.
+
+[36] So go back over the main principles, and fix enough of them firmly in
+your memory to give you the essential grasp of the truth. If the general
+principles in each field are really understood and kept in mind, the accurate
+knowledge of details will be fully discovered. Even for the fully trained,
+the most important thing in all accurate knowledge is being able to make
+quick use of observation and mental grasp — and that can be done if
+everything is summed up in basic principles and short formulas. No one can
+give a shortened course through the whole system who can't hold in his own
+mind, in short formulas, everything that could be set out in full detail.
+
+[37] Since the method I described is valuable to everyone who studies nature —
+and I myself, who urge others to spend their lives studying nature, find my
+own peace mostly in that kind of life — I have written you another summary on
+these lines, summing up the first principles of the whole teaching.
+
+First of all, Herodotus, we must grasp the ideas attached to words, so we
+can refer to them and judge opinions, questions, and doubts against them —
+otherwise we will either leave everything uncertain and go on proving things
+forever, or use words that mean nothing.
+
+[38] For this we need the first mental picture that goes with each word to
+stand as the standard, needing no further explanation, if we are really to
+have a rule to test questions and doubts and mental inferences against. And
+we must keep all our investigations in agreement with our sensations —
+especially with the direct grasp of the mind and of the other instruments of
+judgment — and likewise in agreement with the feelings in us, so we have
+indications to judge both what we perceive and what is unseen.
+
+With these points clear, we must now consider things imperceptible to the
+senses. First: nothing comes from nothing. If it could, anything would come
+from anything, with no need of seeds.[^1]
+
+[39] And again, if what disappears were destroyed into nothing, everything
+would have perished by now, since what they dissolved into wouldn't exist.
+The universe always was as it is now, and always will be the same — for
+there's nothing it could change into. Outside the universe there is nothing
+that could come into it and bring about a change.
+
+The universe is bodies and space. That bodies exist, sense itself proves, in
+everyone's experience; and from the evidence of sense we must judge the
+unseen by reasoning, as I already said.
+
+[40] If there were no void — no empty place, no intangible existence — bodies
+would have nowhere to exist and nothing to move through, yet we see them
+move. And besides these two (bodies and void), nothing can even be imagined —
+by thinking or by comparison with imaginable things — as a whole existence
+in itself, rather than as accidents or properties of such existences. Among
+bodies, some are compounds, and others are the things compounds are made
+from.
+
+[41] The latter are indivisible and unchangeable — otherwise everything would
+dissolve into nothing, and nothing lasting would remain when compounds break
+up. They are completely solid in nature and can never be dissolved in any
+part. So the first beginnings must be indivisible bodies — atoms.
+
+The universe is boundless. What is bounded has an endpoint, and an endpoint
+is seen against something else. Since it has no endpoint, it has no limit;
+and with no limit, it must be boundless, not bounded.
+
+[42] The infinite is boundless both in the number of bodies and in the extent
+of the void. If the void were boundless but the bodies limited in number, the
+bodies couldn't stay anywhere — they'd be carried about and scattered
+through the infinite void, with no other bodies to support them and hold
+them in place by collisions. But if the void were limited, the infinite
+bodies would have no room to be in.
+
+The indivisible solid bodies — what compounds are made from and dissolve
+into — have too many different shapes to count. Such great variety of things
+couldn't come from the same atomic shapes if they were limited in number. So
+in each shape the atoms are infinite in number; but the differences of shape
+are not quite infinite — only beyond counting.
+
+[43] The atoms move constantly, for all time: some falling straight down,
+some swerving, some bouncing back from collisions. Of the last, some are
+carried on, separating to great distances from one another, while others
+bounce back again whenever they get tangled with others, or fenced in by
+atoms tangled around them.
+
+[44] The void between the atoms makes this possible — it can't offer
+resistance — and the hardness of the atoms makes them bounce back after
+collision to as great a distance as the tangling allows after the collision.
+These motions have no beginning, since atoms and void are their cause.
+
+[45] These brief sayings, if you keep them all in mind, give a sufficient
+outline of the nature of existing things.
+
+There are infinite worlds, both like and unlike this world of ours. The
+atoms, infinite in number as already proved, are carried far out into space.
+The atoms fit to make a world haven't been used up on one world or a limited
+number of worlds — nor on all the worlds that are alike, nor on those
+different from these. So nothing stands in the way of the infinite number of
+worlds.
+
+[^1]: Epicurus's first principle of physics: nothing is ever created out of
+nothing, and nothing is ever destroyed into nothing. "Seeds" here means the
+starting-material each kind of thing needs — wheat doesn't grow from
+nothing, but from wheat seed.
+
+[46] There are also images, like in shape to solid bodies but far finer in
+texture than anything we can perceive. Such outflows can form in what
+surrounds objects; hollow, thin shells can form; and streams can keep the
+relative position and order they had in the solid bodies. These images we
+call *idols*.[^2]
+
+[47] Nothing we perceive contradicts the belief that the images are supremely
+fine in texture — and that's why they also move supremely fast, since all
+their atoms move together, and almost nothing hinders their flight by
+collisions, whereas a body of many or infinite atoms is at once hindered by
+collisions.
+
+[48] Nothing contradicts the belief that the creation of the idols happens as
+quick as thought. The flow of atoms from the surface of bodies never stops,
+yet no shrinking of the object can be detected, because what is lost is
+constantly filled in. The flow of images keeps for a long time the position
+and order of the atoms in the solid body, though it's sometimes confused.
+Compound idols form quickly in the surrounding air, since their substance
+doesn't need to be filled in deep inside; and there are other ways such
+existences are produced. None of these beliefs is contradicted by our
+sensations — if we look at how sensation brings us clear visions from
+external objects, and at the corresponding sequences of qualities and
+movements.
+
+[49] When something enters us from external objects, we not only see but think
+of their shapes. External objects couldn't impress their color and shape on
+us through the air between us and them, nor by rays or outflows of any sort
+passing from us to them — nearly so well as if models, similar in color and
+shape, leave the objects and enter, according to their size, into our sight
+or our mind, moving swiftly, and so reproduce the image of a single
+continuous thing, keeping the order of qualities and movements from the
+original object, through their uniform contact with us, kept up by the
+vibration of the atoms deep inside the solid body.
+
+[50] Every image we get — by the mind's grasp or the sense organs, of shape
+or of properties — is the shape or the properties of the solid object,
+produced by the repeated image or the impression it left. Falsehood and error
+always lie in adding opinion to what is waiting to be confirmed or not
+contradicted — and then it is not confirmed, or is contradicted.[^3]
+
+[51] The likeness between real existing things and the images we receive as
+likenesses of things — in sleep or in any other grasp of the mind or the
+other instruments of judgment — could never be, unless some such outflows
+actually touched our senses. And error wouldn't exist unless another kind of
+movement also arose inside us, closely linked to the grasp of images but
+different from it. When it's not confirmed or is contradicted, falsehood
+arises; when it's confirmed or not contradicted, truth.
+
+[52] Keep this teaching in mind, so the standards of judgment drawn from clear
+visions aren't undermined, and error isn't set up as firmly as truth,
+throwing everything into confusion.
+
+Hearing too comes when a current travels from the thing speaking or sounding
+or making noise, or causing a sensation of hearing in any other way. This
+current splits into particles, each like the whole, which keep a
+correspondence of qualities with one another and a unity stretching right
+back to the object that made the sound. That unity is what in most cases
+brings understanding to the hearer — or if not, at least makes the external
+object's presence known.
+
+[53] Without this carrying-over of corresponding qualities from the object, no
+such understanding could result. We must not suppose the air itself is shaped
+by the voice or other sounds — it's far from being so acted on — but that
+the blow inside us, when we speak, squeezes out certain particles, producing
+a stream of breath that gives us the sensation of hearing.
+
+Smell too, like hearing, could never bring any sensation unless certain
+particles traveled from the object, of the right size to stir the sense
+organ — some in a disorderly way foreign to it, others in a regular way akin
+to it.
+
+[54] The atoms have none of the qualities of perceptible things except shape,
+weight, and size, and whatever goes with shape. Every quality changes; the
+atoms don't change at all — since something solid and indissoluble must
+remain when compounds break up, something that causes changes: not changes
+into nothing or from nothing, but changes from the shifting of some
+particles' position and the addition or departure of others. So the bodies
+that shift position must be imperishable, without a changing nature, but
+with their own parts and arrangement. So much must remain constant.
+
+[55] Even in things we perceive, when shape changes by loss of matter, we see
+that shape remains, whereas the qualities don't remain in the changing object
+the way shape is left behind — they're lost from the whole body. These
+remaining particles are enough to cause the differences in compound bodies,
+since something must be left behind and not destroyed into nothing.
+
+We must not suppose every size exists among atoms, or the evidence of
+phenomena would contradict us — but we must suppose some variety of size.
+That lets us give a better account of what happens in our feelings and
+sensations.
+
+[56] Atoms of every size aren't needed to explain differences of qualities —
+and then some atoms would have to come within our ken and be visible; but
+that's never seen, and we can't imagine how an atom could become visible.
+
+We must not suppose that in a limited body there can be infinite parts, or
+parts of every degree of smallness. We must reject division into smaller and
+smaller parts to infinity — so we don't make everything weak and get forced,
+in building up aggregate bodies, to crush and waste existing things into
+nothing. Nor must we suppose that in limited bodies we could go on to
+infinity toward ever smaller parts.
+
+[57] If you say a body has infinite parts, or parts of any degree of
+smallness, you can't conceive how this should be — indeed, how could the body
+still be limited in size? (Clearly these infinite particles must be of some
+size; and however small they are, the body's size would be infinite too.)
+And since the limited body has an endpoint — distinguishable even if not
+perceptible by itself — you can't conceive that the point after it isn't like
+it, or that going on point to point in your mind, you could keep marking
+such points to infinity.
+
+[58] Notice too: the smallest thing in sensation isn't exactly like what moves
+from part to part, nor wholly unlike it — but it has an affinity with such
+bodies, yet can't be divided into parts. When by comparison we try to divide
+off parts of it, one on one side and another on the other, another point like
+the first meets our view. We look at these points in succession starting from
+the first — not within the same point nor in contact part with part — but by
+their own characteristics measuring the size of bodies: more in a greater
+body, fewer in a smaller.
+
+[59] The least part in the atom bears the same relation to the whole. Though
+in smallness it clearly goes beyond what sensation sees, it has the same
+relations. We've already said, from its relation to sensible bodies, that the
+atom has size — only we placed it far below them in smallness. These least
+indivisible points are like boundary marks, providing in themselves the first
+units to measure atoms by, greater and smaller, when we contemplate these
+unseen bodies by thought. The affinity of the atom's least parts to the
+uniform parts of sensible things is enough to justify this conclusion — but
+that they should ever come together as bodies with motion is impossible.[^4]
+
+[^2]: *Idols* follows Bailey's note on the Greek *eidola* — thin films of atoms constantly
+streaming off the surfaces of objects, which Epicurus says are what carry
+sight (and thought-images) to us.
+
+[^3]: This is Epicurus's rule for truth and error, worth grasping: our
+sensations themselves are always true reports of what struck them; error
+comes only when we *add an opinion* — e.g. "that tower is round" — which then
+either gets confirmed by closer inspection, contradicted by it, or is still
+waiting to be tested. Only the confirmed or the uncontradicted counts as
+true; what is contradicted is false.
+
+[^4]: [58]–[59] are among the hardest passages in the letter even in Bailey:
+Epicurus argues that just as sensation has a smallest perceptible unit, the
+atom has smallest theoretical units — but these can never exist separately
+or combine on their own. The rendering above follows Bailey's sense as
+closely as plain English allows.
+
+[60] In the infinite we must not speak of "up" or "down" as if there were an
+absolute highest or lowest. Though we can go to infinity in the direction
+above our heads from wherever we stand, the absolute highest point will never
+appear to us — nor can what passes below the point we think of, to infinity,
+be at once both up and down relative to the same thing. That's impossible to
+think. So we can consider as one single motion the upward motion to infinity,
+and as another the downward motion — even though what passes from us into the
+regions above our heads arrives countless times at the feet of beings above,
+and what passes down from us at the heads of beings below. Still, the whole
+motions are thought of as opposed to each other, to infinity.
+
+[61] Atoms must move with equal speed when carried through the void with
+nothing colliding with them. The heavy won't move faster than the small and
+light when nothing meets them — nor the small faster than the great, their
+whole course being uniform, when nothing collides with them either. Motion
+upward or sideways from blows isn't quicker, nor motion downward from their
+own weight. As long as either motion prevails, it runs as quick as thought,
+until something checks it — from outside, or from its own weight counteracting
+the force of the blow. Their passage through the void, meeting no colliding
+bodies, covers every comprehensible distance in an inconceivably short time.
+Collision and its absence take the outward appearance of slowness and
+quickness.
+
+[62] It will be said that in compound bodies one atom is faster than another,
+though in fact all are equal in speed. This is said because even in the
+least stretch of continuous time all the atoms in aggregate bodies move
+toward one place — even though in moments perceptible only by thought they
+don't move toward one place but constantly jostle one another, until the
+continuity of their movement comes within the reach of sensation. The added
+opinion about the unseen — that the moments perceptible only by thought will
+also contain continuous motion — isn't true in such cases. Remember: what we
+observe with the senses or grasp with the mind by apprehension is true. Nor
+must we suppose that in moments perceptible only by thought the moving body
+too passes to the several places its component atoms move to (that too is
+unthinkable — and then, when it arrives all together in a sensible stretch of
+time from any point in the infinite void, it wouldn't be departing from the
+place where we apprehend its motion). The motion of the whole body is the
+outward expression of its internal collisions — even though, up to the limits
+of perception, we suppose its speed isn't slowed by collision. Grasp this
+first principle too.[^5]
+
+[63] Referring always to sensations and feelings — the most trustworthy ground
+of belief — consider that the soul is a body of fine particles spread through
+the whole frame, most like wind with a certain mixture of heat, in some
+respects like one of these, in some like the other. There's also a part even
+finer than these, more able to feel in harmony with the rest of the frame.
+All this shows in the soul's activities, the feelings, the quickness of its
+movements and thought processes, and in what we lose at the moment of death.
+
+[64] Grasp that the soul holds the chief cause of sensation — yet it couldn't
+have gained sensation unless enclosed somehow by the rest of the frame. And
+the frame, having given the soul this cause of sensation, gets a share of
+this capacity from the soul. But it doesn't get all the soul's capacities:
+so when the soul is released from the body, the body no longer has
+sensation. It never had this power in itself — it gave opportunity to another
+existence, born together with it; and this existence, by the power now
+completed within itself through motion, spontaneously produced for itself the
+capacity of sensation and then shared it with the body too, by contact and
+correspondence of movement, as I already said.
+
+[65] So as long as the soul stays in the body — even if some other part of
+the body is lost — it never loses sensation. What's more, whatever portions
+of the soul perish too, when what enclosed it is removed in whole or in
+part — if the soul continues to exist at all, it retains sensation. But the
+rest of the frame, though it continues to exist in whole or in part, doesn't
+retain sensation, once it has lost that sum of atoms, however small, that
+together make the soul's nature. And if the whole frame dissolves, the soul
+disperses and no longer has the same powers nor performs its movements — so
+it doesn't have sensation either.
+
+[66] We can't imagine it with sensation if it's not in this organism and
+can't make these movements, when what encloses and surrounds it is no longer
+the same as the surroundings where it now exists and makes these movements.
+
+[67] Understand this clearly too: "incorporeal" in the common sense is applied
+to what could be thought of as existing by itself. But the incorporeal can't
+be conceived as existing apart — except the void. And the void can neither
+act nor be acted on — it only gives bodies the opportunity to move through
+it. So those who say the soul is incorporeal are talking idly. If it were of
+this nature, it couldn't act or be acted on at all. But both these things are
+clearly seen in the soul.
+
+[68] If you refer all these reasonings about the soul to the standards of
+feeling and sensation, and remember what I said at the start, you'll see
+they're sufficiently covered by these general formulas to let you work out
+the details with certainty on this basis.
+
+[69] As for shape and color and size and weight and everything else said of
+body — as though they were properties belonging either to all things or to
+visible things or to things recognized through these qualities — we must not
+suppose they are independent existences (we can't imagine that), nor that
+they absolutely don't exist, nor that they're some other kind of incorporeal
+existence accompanying body, nor that they're material parts of body. Rather,
+the whole body in its totality owes its lasting existence to all these — not
+as composed of properties brought together to form it (as when a larger
+structure is built from its parts, whether first units of size or smaller
+parts), but only, as I say, in owing its lasting existence to all of them.
+
+All these properties have their own ways of being perceived and
+distinguished — provided the aggregate body goes along with them and is never
+torn from them; it gets the name "body" by being comprehended as an aggregate
+of qualities.
+
+[70] Bodies often have *accidents* — things that happen to them without
+permanently accompanying them. We must suppose neither that they don't exist
+at all, nor that they have the nature of a whole body, nor that they can be
+classed among unseen things or as incorporeal. So when in ordinary speech we
+use this name, we make clear that accidents have neither the nature of the
+whole — which we comprehend in its aggregate and call body — nor of the
+qualities that permanently accompany it, without which a given body can't be
+conceived.[^6]
+
+[71] But from certain acts of apprehension, provided the aggregate body goes
+along with them, each may be given this name — but only when each is seen to
+occur, since accidents aren't permanent accompaniments. We must not banish
+this clear vision from existence just because it doesn't have the nature of
+the whole it's joined to or of the permanent accompaniments. Nor must we
+suppose such contingencies exist on their own (that's inconceivable, both of
+them and of the permanent properties). Rather, as it appears in sensation, we
+must think of them all as accidents happening to bodies — not as permanent
+accompaniments, nor as having a place among material existences by
+themselves; they're seen to be just what our actual sensation shows their
+character to be.
+
+[72] Grasp this point firmly too: we must not look for time the way we look
+for other things in an object, by referring to the general conceptions we
+perceive in our minds. We must take the direct intuition by which we speak of
+"a long time" or "a short time," and examine it, applying our intuition to
+time as we do to other things. We must not hunt for better expressions, but
+use just the common words about it.
+
+Nor must we say anything else about time as having the same essential nature
+as this special perception, as some people do — but turn our thoughts to just
+that with which we associate this peculiar perception and by which we measure
+it.
+
+[73] This needs no proof, only reflection, to show that we associate it with
+days and nights and their divisions, and likewise with feelings or lack of
+feeling, and with movements and states of rest. In connection with these last
+we think of this very perception as a peculiar kind of accident — and so we
+call it "time."
+
+Besides what we've said: we must believe that worlds — and indeed every
+limited compound body that keeps showing the same appearance as the things we
+see — were created from the infinite, and that all such things, greater and
+less alike, were separated off from individual masses of matter; and that all
+are dissolved again, some faster, some slower, some from one set of causes,
+others from another.
+
+[74] And we must believe these worlds were neither all made of necessity with
+one shape, nor yet with every kind of shape. We must believe that in all
+worlds there are living creatures and plants and other things we see in this
+world. For no one could prove that in one kind of world the kinds of seeds
+from which living things, plants, and all the rest we see are composed might
+or might not have been included — and that in a world of another kind they
+couldn't have been.
+
+[^5]: [62] is the densest passage in the letter in Bailey's rendering, and
+this modernization follows his sense closely without claiming to resolve
+every clause: the speed of atoms is always equal in the void; the apparent
+differences in the speed of compound bodies come from their atoms' internal
+collisions and jostling.
+
+[^6]: *Accidents* here means passing features — being hot, being in motion,
+being red today — as opposed to permanent properties like shape and weight.
+The word is a technical term, not a mishap.
+
+[75] We must suppose that human nature too was taught and forced by mere
+circumstances to do many things of every kind; and that later reasoning worked
+out what nature suggested and made further inventions — in some matters
+quickly, in others slowly, at some times and epochs making great advances,
+at others less. And so names weren't deliberately given to things at first.
+Men's natures, in their different nations, had their own feelings and
+received their own impressions, and so each in their own way breathed out air
+shaped by each of these feelings and impressions — according to the
+differences the places they lived in made among the different nations.
+
+[76] Then later, by common agreement in each nation, special names were
+deliberately given, to make their meanings less ambiguous to one another and
+more briefly expressed. And sometimes those who knew them brought in things
+hitherto unknown and introduced sounds for them — sometimes naturally forced
+to utter them, sometimes choosing them by reasoning according to the
+prevailing way of forming words — and so made their meaning clear.
+
+[77] The motions of the heavenly bodies — their turnings, eclipses, risings
+and settings, and the like — must not be thought to come from any being who
+controls and ordains them, or has ordained them, while enjoying perfect bliss
+together with immortality. (Trouble and care and anger and kindness don't go
+with a blessed life; they happen where there's weakness and fear and
+dependence on neighbors.) Nor must we believe that these bodies — mere fire
+massed together — possess blessedness and voluntarily take on these
+movements. We must keep their full majesty in every expression we apply to
+such conceptions, so no opinions arise from them contrary to this majesty.
+Otherwise this very contradiction will cause the greatest disturbance in
+human minds. So we must believe it's from the original gathering of matter
+into such masses, during the world's birth, that this law of regular
+succession came about too.
+
+[78] We must believe that discovering the cause of the most essential facts is
+the job of natural science; and our blessedness in knowing the heavens lies
+in this, and in understanding the nature of the things seen there, and
+everything else needed for the exact knowledge our happiness requires — and
+in knowing too that what happens in several ways, or can be otherwise, has
+no place here: nothing doubtful or alarming can be included at all in what is
+naturally immortal and blessed. This we can know for certain by our mind.
+
+[79] But investigating risings and settings and turnings and eclipses and the
+like is no longer any use for the happiness that knowledge brings. People who
+perceive all this but don't know what these things are and what their
+essential causes are still live in fear, as if they didn't know these things
+at all — indeed, their fear may be even greater, since the wonder from
+observing these things can't find any solution or grasp the ordering of the
+essentials.
+
+[80] So even if we discover several causes for turnings, settings, risings,
+eclipses, and the like — as has happened already in our detailed
+investigation — we must not think our inquiry hasn't reached enough accuracy
+to help our peace of mind and happiness. We must carefully consider in how
+many ways a similar phenomenon is produced on earth, when we reason about the
+causes of heavenly phenomena and everything imperceptible to the senses. We
+must despise those who don't recognize either what exists or comes to be in
+only one way, or what may occur in several ways in the case of things we can
+only see from a distance — and who further don't know on what conditions it's
+impossible to have peace of mind. If we think a phenomenon probably happens
+in some particular way, and in circumstances where we can equally be at peace
+by realizing it may happen in several ways — we'll be just as undisturbed as
+if we knew it happened in some particular way.
+
+[81] Above all this we must grasp: the chief disturbance in human minds comes
+from thinking these heavenly bodies are blessed and immortal, yet have wills
+and actions and motives that don't fit those attributes; and from always
+expecting or imagining some everlasting misery, like the legends picture, or
+even fearing the loss of feeling in death as if it would concern them; and
+again, from being brought to this not by reasoned opinion but by some
+irrational presentiment — and so, not knowing the limits of pain, they suffer
+disturbance as great or greater than if they'd reached this belief by
+opinion.
+
+[82] Peace of mind is being delivered from all this, and constantly remembering
+the general, most essential principles.
+
+So we must attend to inner feelings and to outer sensations in general and
+in particular — according to whether the subject is general or particular —
+and to every direct intuition according to each standard of judgment. If we
+attend to these, we'll rightly trace the causes from which our mental
+disturbance and fear arose; and by learning the true causes of heavenly
+phenomena and all other events that come to pass from time to time, we'll
+free ourselves from all that produces the greatest fear in other men.
+
+[83] Here, Herodotus, is my treatise on the main points of the general
+principles, abridged so my account is easy to grasp accurately. Even if you
+can't work through all the details of the system, you'll get from this an
+unrivaled strength compared with other men. You'll clear up many details for
+yourself by reference to our general system, and these very principles, stored
+in your mind, will constantly help you. They're such that even those now
+working out the details to a considerable degree — or completely — can carry
+out most of their investigations into the nature of the whole by analyzing
+with such a survey as this. And as for all who aren't yet fully on the way to
+being perfected, some can get from this summary a quick view of the most
+important matters without oral teaching, so as to secure peace of mind.
+
+---
+---
+
+# II. LETTER TO PYTHOCLES
+
+## Epicurus on the phenomena of the sky
+
+[84] Cleon brought me your letter, Pythocles, in which you keep showing me a
+kind feeling — a fair return for my interest in you — and you do a decent job
+of recalling the arguments that lead to a blessed life. You ask me to send
+you a short argument about the phenomena of the sky, in brief, so you can
+easily remember it. You say what I wrote in my other books is hard to
+remember, even though you always have them in hand. I was glad to get your
+request and felt bound to answer it, from pleasant hopes for the future.
+
+[85] So now that I've finished all my other writings, I'll do what you ask —
+feeling these arguments will help many others too, especially those just
+starting the real study of nature, and those too buried in the business of
+their jobs. So take hold of it, keep it in mind, and go through it
+carefully, along with the rest I sent in the small summary to Herodotus.
+
+First: we must not suppose any other goal for the knowledge of sky-phenomena
+— whether studied with other teachings or on their own — than peace of mind
+and firm confidence, just as in every other branch of study.
+
+[86] We must not force an impossible explanation, nor use a way of inquiring
+like our reasoning about how to live, or about solving other physical
+problems — like "the universe consists of bodies and the intangible," or
+"the elements are indivisible," and such claims, where only one explanation
+fits the phenomena. That's not so with things above us: they allow more than
+one cause of coming into being, and more than one account of their nature
+that fits what we perceive.
+
+[87] We must not do science by empty assumptions and arbitrary rules, but
+follow the lead of phenomena. Our life has no room now for irrational belief
+and groundless imaginings — we must live free from trouble.
+
+Everything goes on without disturbance for each of those things that can be
+explained in several ways that fit what we perceive — when we accept, as we
+must, probable theories about them. But when someone accepts one theory and
+rejects another that fits the phenomenon just as well, he's left the path of
+scientific inquiry and gone back to myth. We can get hints of what happens
+above from some phenomena on earth: we can observe how they happen, though
+we can't observe the sky-phenomena — for they may be produced in several
+ways.
+
+[88] Yet we must never abandon what each phenomenon looks like; and as for
+what's connected with it, we must distinguish those things whose production
+in several ways isn't contradicted by phenomena on earth.
+
+A world is a bounded portion of sky, containing heavenly bodies and an earth
+and all heavenly phenomena; when it dissolves, everything in it falls into
+confusion. It's a piece cut off from the infinite, ending in a boundary
+either thin or dense, either turning or still. Its shape may be round or
+three-cornered or any kind. All such conditions are possible, since no
+phenomenon argues against this in our world, where we can't perceive an
+ending.
+
+[89] That such worlds are infinite in number we can be sure. Such a world may
+come into being inside another world or in an interworld — a space between
+worlds — in a place with much void, not in a huge empty space quite void, as
+some say. This happens when seeds of the right kind have rushed in from one
+world or interworld, or from several: little by little they join and link,
+shift position to another place as it happens, and take in suitable matter,
+until the period of completion and stability — which lasts as long as the
+foundations can keep receiving additions.
+
+[90] A mere gathering of atoms isn't enough, nor just a whirl set in motion
+by necessity in an empty space where a world could come into being — as is
+supposed — nor can a world keep growing until it hits another world, as one
+of the so-called natural philosophers says. That contradicts phenomena.
+
+The sun and moon and the other stars weren't made by themselves and then
+taken into the world — they were formed in it from the first and gradually
+grew by the gathering and whirling of bodies of tiny parts, windy or fiery
+or both — as our sensation suggests.
+
+[91] The sun and moon and the other stars are, for us, as big as they look.
+In reality they're either a bit bigger than we see, or a bit smaller, or the
+same size — just as fires on earth seen from far off look to the senses.
+Every objection here is easily answered if we pay attention to clear vision,
+as I show in my books on nature.
+
+[92] The risings and settings of the sun, moon, and other heavenly bodies may
+be from kindling and going out — the matter around the places of rising and
+setting being such as to produce these results, since nothing in phenomena is
+against it. Or it might be from their appearing over the top of the earth,
+and the earth coming between us and them again — again, nothing in phenomena
+is against it.
+
+Their motions may well come from the whole heaven turning — or the heaven
+may stay still while they turn from a natural push eastward, produced at the
+world's beginning . . . . . by excessive heat from the spreading of fire
+always moving on to the nearest regions.[^7]
+
+[93] The sun's and moon's turnings may come from a tilt of the whole heaven,
+forced into this position in the successive seasons; or equally from an
+outward push of a current of air, or because the right material catches fire
+in turn as the former fails; or from the beginning this particular turning
+may have been assigned to these stars, so they move in a kind of spiral. All
+these and similar explanations don't conflict with any clear facts — if we
+always stick in such inquiries to what's possible, and refer each point to
+what agrees with phenomena, without fearing the slavish tricks of the
+astronomers.
+
+[94] The moon's waning and waxing might be from the turning of its own body,
+or from successive arrangements of the air around it, or from other bodies
+coming between; they can be explained in all the ways earthly phenomena
+invite us to explain such phases — provided we don't fall in love with the
+single-cause method and groundlessly throw out the others, without
+considering what a man can observe and what he can't, and wanting to observe
+what's impossible. The moon may get her light from herself or from the sun.
+
+[95] On earth too we see many things shining with their own light, and many
+with reflected light. No heavenly phenomenon is against these explanations,
+if we always remember the many-causes method, look for hypotheses and
+explanations that fit it, and don't look to inconsistent notions and push
+them without cause, falling back in different ways on the single-cause
+method. The face in the moon may be from the varying of its parts, or from
+interposition, or any of many causes we could observe, all fitting phenomena.
+
+[96] In all heavenly phenomena this way of inquiring must never be abandoned —
+for if you're against clear facts, you can never have any share in true peace
+of mind.
+
+The eclipse of sun and moon may happen both from their going out, as we see
+happen on earth, or from some other bodies coming between — the earth, or
+some unseen body, or something like that. We must consider together the
+causes that fit with one another, and realize it's not impossible for some
+to happen together.
+
+[97] The regularity of the heavenly bodies' periods must be understood the
+same way as regularity in some earthly events. Don't bring the divine nature
+into these considerations at any point — keep it free from burdensome duties
+and in complete blessedness. If this rule isn't kept, the whole discussion of
+causes in heavenly phenomena is wasted — as it already has been for some
+people who didn't stick to the method of possible explanations, but fell back
+on the useless course of thinking things could only happen one way, rejecting
+all other ways that fit what's possible — driven to what's inconceivable and
+unable to compare earthly phenomena, which we must accept as evidence.
+
+[98] The changing length of nights and days may be because the sun's movements
+above the earth go fast then slow again, since he crosses regions of unequal
+length, or crosses some regions faster or slower (or from the faster or slower
+gathering of the fires that make the sun) — as we observe with some things on
+earth, with which we must agree in speaking of heavenly phenomena. But those
+who assume one cause fight the evidence of phenomena and don't ask whether
+men can make such observations.
+
+[^7]: A gap in the text as it has come down to us: Bailey marks a lacuna
+here (". . . . ."). The sentence breaks off and resumes mid-thought; the
+rendering keeps the break rather than filling it in.
+
+[99] Weather signs may come from mere coincidence of timing, as happens with
+animals we can all see on earth, and also through changes and alterations in
+the air. Both fit phenomena. But in what circumstances the cause comes from
+this or that, we can't perceive.
+
+Clouds may be produced and formed by the air thickening when winds squeeze
+it; by atoms tangling together that cling to one another and are fit to
+produce this result; and again by streams gathering from earth and waters.
+There are several other ways such things may well be brought about.
+
+[100] From clouds, rain may be produced when they're squeezed in one part or
+changed in another, or by a downward current of wind moving through the air
+from suitable places — a heavier shower coming from certain masses of atoms
+fit to create such downpours.
+
+Thunder may be produced by wind rushing about in the hollows of clouds, as
+happens in vessels on earth; or by the echoing of fire filled with wind
+inside them; or by clouds tearing and rending; or by clouds rubbing and
+bursting when they've frozen into something like ice. Phenomena demand we say
+this department of sky-events, like them all, may be caused in several ways.
+
+[101] Lightning too is produced in several ways: from clouds rubbing and
+colliding, a formation of atoms that produces fire slips out and gives birth
+to the lightning; from wind, bodies that give rise to this flash are dashed
+from the clouds; or squeezing may be the cause, when clouds are pressed by
+one another or by the wind. Or the light scattered from the heavenly bodies
+may be taken in by the clouds, then driven together by the movement of clouds
+and wind, and fall out through the clouds; or light made of the finest
+particles may filter through the clouds, setting them on fire with the flame,
+and thunder is produced by the movement of the fire.
+
+[102] Or wind may catch fire from the strain of motion and its violent
+spinning; or clouds may be torn by wind and atoms fall out that produce fire
+and cause the appearance of lightning. Several other ways can easily be seen,
+if we always stick to phenomena and compare what's akin to these things.
+Lightning comes before thunder in such a formation of clouds either because,
+when the wind dashes in, the formation of atoms that gives rise to lightning
+is driven out first, and afterward the wind whirls about and produces the
+echo; or because both dash out at the same moment, but lightning moves faster
+toward us, and thunder comes after — as with some things seen at a distance
+that make blows.
+
+[103] Thunderbolts may happen because winds gather often, whirl about, and
+are fanned into fierce flame; then part of it breaks off and rushes violently
+down to the places beneath — the breaking happening because the regions
+approached grow successively denser from the thickening of clouds, or from
+the actual bursting of the whirling fire, the way thunder may be produced,
+when the fire grows too great and is too violently fanned by wind and so
+breaks through the cloud, because it can't retreat to the next regions from
+the constant thickening of clouds one on another.
+
+[104] Thunderbolts may be produced in other ways too. Only superstition must
+be kept out — as it will be, if we successfully follow the lead of seen
+phenomena to get hints about the unseen.
+
+Cyclones may be produced by a cloud driven down to the regions below in the
+form of a pillar — pushed by the wind gathered inside it and driven on by the
+wind's violence, while the wind outside pushes it sideways; or by wind
+forming into circular motion while mist is thrust down from above at the same
+time; or when a great rush of wind takes place and can't pass through
+sideways because of the surrounding thickening of the air.
+
+[105] When the spout comes down onto land, whirlwinds are produced in all the
+various ways their creation can occur from the wind's movement; if it reaches
+the sea, it produces waterspouts.
+
+Earthquakes may be brought about because wind is caught up in the earth, so
+the earth is split into small masses and continually shaken, and that makes
+it sway. The earth takes this wind into itself from outside, or masses of
+ground fall into hollow places in the earth and fan into wind the air trapped
+in them. Earthquakes may also be brought about by the spreading of the
+movement from the fall of many such masses of ground, and the return shock
+when the first motion hits more densely packed bodies of earth.
+
+[106] There are many other ways these motions of the earth may be caused.
+. . .
+Winds may be produced when from time to time some foreign matter keeps
+gradually forcing its way in, or from the gathering of a vast quantity of
+water. The other winds arise when a few currents of air fall into many hollow
+spaces and cause a spreading of wind.[^8]
+
+Hail is produced by a powerful freezing, when certain windy bodies form
+together from all sides and split up; also by a milder freezing of watery
+bodies and their simultaneous dividing, which causes at once their thickening
+and separation, so they cling together as they freeze in their separate parts
+as well as in their whole masses.
+
+[107] Their round shape may come from the corners melting off all around, or
+because at their formation bodies — watery or windy — come together evenly
+from all directions part by part, as is claimed.
+
+Snow may be produced when fine particles of rain pour from the clouds because
+of pores of suitable shape and the strong, constant squeezing by winds of the
+right kind of clouds; then the water freezes in its fall from some formation
+of excessive cold in the lower clouds.
+
+[108] Or from freezing in clouds of uniform thinness, this kind of outpouring
+might arise from watery clouds lying side by side and rubbing against one
+another — for they produce hail by causing thickening, a process most common
+in the air. Or from the rubbing of frozen clouds, these nuclei of snow may
+find occasion to break off. There are many other ways snow may be produced.
+
+Dew may be produced both when particles fit to make this kind of moisture
+issue from the air and meet one another, and when particles rise from moist
+regions or regions with water, where dew is most naturally produced, then
+meet together and cause moisture, and afterward fall back on the ground
+below, as is often seen in earthly phenomena. (Frost is produced by a change
+in the dew-particles, when such particles as described undergo a certain kind
+of freezing from the nearness of cold air.)
+
+[109] Ice is caused both by the squeezing out from the water of round-shaped
+particles and the driving together of the triangular, sharp-angled particles
+already in the water, and again by the adding from outside of particles of
+this kind, which when driven together produce freezing in the water by
+squeezing out a number of the round particles.
+
+The rainbow is caused by light shining from the sun onto watery air; or by a
+peculiar union of light and air that can produce the special qualities of
+these colors, whether all together or separately; from it, as it reflects
+back, the neighboring regions of air can take the tint we see, by the shining
+of the light onto its various parts.
+
+[110] Its round appearance comes because our sight perceives it at equal
+distance from all its points, or because the atoms in the air — or those in
+the clouds derived from the same air — are pressed together this way, and so
+the combination spreads out in a round shape.
+
+A halo round the moon is caused either when air is carried toward the moon
+from all sides, or when the air checks the outflows carried from the moon so
+evenly that it forms them into this cloudy ring all round without gaps or
+differences, or when it checks the air round the moon uniformly on all sides
+so as to make what encircles it round and thick in texture.
+
+[111] This happens in different parts either because some current outside
+forces the air, or because heat blocks the passages so as to produce this
+effect.
+
+Comets happen either when fire gathers in certain regions at certain times in
+the upper air because matter collects there, or when at certain times the
+heaven above us has some peculiar movement, so stars of this kind are
+revealed, or when they themselves at certain seasons start moving from some
+gathering of matter and come into the regions we can see and appear visible.
+Their disappearance comes from the opposite causes.
+
+[112] Some stars "turn in their place" (as Homer says) — which happens not
+only because this part of the world is still while the rest turns round it,
+as some say, but also because a whirl of air forms in a ring round it,
+keeping them from moving about like the other stars; or because there's no
+succession of suitable fuel for them, but only in this place where they're
+seen fixed. There are many other ways this may happen, if we can infer what
+agrees with phenomena.
+
+[113] That some stars wander in their course — if their movements really are
+so — while others don't, may be because from the first, as they moved in
+their circles, they were so constrained by necessity that some move along the
+same regular orbit and others along one with certain irregularities; or
+because among the regions they're carried to, some places have regular tracts
+of air that push them on in the same direction and feed them flame regularly,
+while in other places the tracts are irregular, so the wanderings we observe
+result.
+
+But to assign a single cause for these events, when phenomena demand several
+explanations, is madness — wrongly practiced by people devoted to the foolish
+notions of astrology, who give empty explanations of the causes of certain
+events, and never free the divine nature from the burden of responsibility.
+
+[114] That some stars are seen to be left behind by others comes because,
+though they move in the same orbit, they're carried along more slowly; also
+because they really move in the opposite direction though dragged back by the
+same turning; also because some are carried round through greater space and
+some through less, though all complete the same turning. Giving a single
+explanation of these events suits only those who want to show off to the
+crowd.
+
+[115] Falling stars may be produced partly by stars rubbing against stars,
+with fragments falling out wherever a burst of wind happens, as we explained
+for lightning flashes; or by atoms productive of fire meeting, when kindred
+material gathers to cause this, with movement in the direction of the impulse
+from the original meeting; or by wind gathering in certain dense, misty
+formations, catching fire as it whirls round, then bursting out of what
+encloses it and rushing toward the spot its flight tends to. There are other
+ways this result may be brought about, quite free from superstition.
+
+The weather signs given by certain animals come from mere coincidence of
+timing. The animals don't force winter to end, nor is there some divine
+nature sitting and watching the animals' comings and goings and then
+fulfilling the signs they give.
+
+[116] Not even the lowest animal — even one a little more refined, as the
+saying goes — would be seized by such foolishness, much less one possessed
+of perfect happiness.[^9]
+
+Keep all these things in mind, Pythocles. Then you'll escape superstition in
+most things and be able to understand what's akin to them. Above all, give
+yourself to studying the first beginnings, and infinity, and what's akin to
+them — and the standards of truth, and the feelings, and the purpose for
+which we reason out these things. When these points are thoroughly studied,
+they'll most easily let you understand the causes of the details. But those
+who haven't taken these things to heart can't rightly study them in
+themselves, nor have they made their own the reason for observing them.
+
+[^8]: Bailey's text marks a break here ("....") between the earthquake and
+wind passages; the rendering keeps the break rather than bridging it.
+
+[^9]: Bailey renders the Greek as an allusion to a proverb, "'a small thing
+gives the greater pleasure'"; other translators read the Greek more plainly
+("even if it were a little more refined/sophisticated"). The saying's exact
+force is uncertain; the sentence's point is clear — no being, however lowly,
+would believe the gods sit watching animal behavior to run the weather, let
+alone a perfectly happy (divine) being.
+
+---
+---
+
+# III. LETTER TO MENOECEUS
+
+## Epicurus's ethics in brief
+
+[122] Let no one put off studying philosophy when young, nor grow weary of it
+when old. No one comes too early or too late to secure the health of his
+soul. The man who says the time for philosophy hasn't come yet, or has passed,
+is like the man who says the time for happiness hasn't come yet, or has
+passed. So young and old alike must study philosophy — so that growing old, a
+man may be young in blessings through grateful memory of what has been, and
+in youth may be old as well, since he'll know no fear of what's to come. We
+must think hard about the things that make our happiness: when it's with us
+we have everything, and when it's gone we do everything to win it.
+
+[123] Do and practice the things I always used to urge on you, taking them as
+the first principles of the good life. First: believe god is a being immortal
+and blessed, as the common idea of god is stamped on men's minds. Don't give
+him anything foreign to his immortality or unfitting for his blessedness —
+believe about him everything that upholds his blessedness and immortality.
+For gods there are, since we know them by clear vision. But they're not what
+most people believe them to be — indeed, most people don't consistently
+picture them as they claim to believe. The impious man isn't the one who
+denies the gods of the many, as most people think — it's the one who pins
+the beliefs of the many onto the gods.[^10]
+
+[124] The many's statements about the gods aren't ideas drawn from sensation
+but false suppositions — that the greatest misfortunes fall on the wicked
+and the greatest blessings on the good by the gods' gift. Men, always used to
+their own virtues, welcome those like themselves but treat everything of a
+different nature as foreign.
+
+Get used to believing death is nothing to us. All good and evil lie in
+sensation, but death is the loss of sensation. So rightly understanding that
+death is nothing to us makes our mortal life enjoyable — not by adding an
+endless stretch of time, but by taking away the hunger for immortality.
+
+[125] There's nothing terrible in life for the man who truly understands
+there's nothing terrible in not living. The man speaks idly who says he fears
+death not because it will hurt when it comes, but because it hurts to look
+forward to. What gives no trouble when it comes is an empty pain in
+anticipation. So death, the most terrifying of evils, is nothing to us: while
+we exist, death isn't with us; when death comes, we don't exist. It concerns
+neither the living nor the dead — for the living it isn't, and the dead are
+no more.
+
+[126] Most people at one moment shun death as the greatest of evils, at
+another yearn for it as rest from life's evils. (But the wise man neither
+flees life) nor fears its ending — life doesn't offend him, and the absence
+of life doesn't seem an evil. Just as with food he doesn't seek simply the
+biggest share and nothing else, but the most pleasant, so he seeks to enjoy
+not the longest time but the most pleasant.
+
+The man who tells the young to live well but the old to make a good end is a
+fool — not only because life is worth wanting, but because it's the same
+training that teaches us to live well and to die well. Worse still is the man
+who says it's good never to have been born, but *"once born, hurry through
+the gates of Death."*
+
+[127] If he says this from conviction, why doesn't he leave life? It's open
+to him, if he's firmly made up his mind. But if he speaks in jest, his words
+are idle among men who can't take them that way.
+
+Keep in mind that the future is neither ours nor wholly not ours — so we
+shouldn't expect it as certain to come, nor give up hope of it as certain not
+to come.
+
+Consider that some desires are natural and others empty; of the natural,
+some are necessary and others merely natural; and of the necessary, some are
+necessary for happiness, others for the body's rest, others for life itself.
+
+[128] Rightly understanding these facts lets us refer every choice and
+avoidance to the body's health and the soul's freedom from disturbance —
+since that's the aim of the blessed life. It's to gain this end that we
+always act: to avoid pain and fear. Once this is secured, the whole storm of
+the soul is scattered — the living creature doesn't have to wander as if
+looking for something missing, hunting for something else to complete the
+good of soul and body. We need pleasure only when we feel pain from pleasure's
+absence; (when we don't feel pain), we no longer need pleasure.[^11]
+
+[129] That's why we call pleasure the beginning and end of the blessed life.
+We recognize pleasure as the first good inborn in us; from pleasure we begin
+every act of choice and avoidance, and to pleasure we return, using the
+feeling as the standard to judge every good.
+
+Since pleasure is the first good and natural to us, we don't choose every
+pleasure — sometimes we pass over many pleasures when greater discomfort
+follows from them. Likewise we think many pains better than pleasures, since
+greater pleasure comes to us when we've endured pains a long time. Every
+pleasure, from its natural kinship to us, is good — yet not every pleasure is
+to be chosen; just as every pain is an evil, yet not all are always to be
+avoided.
+
+[130] By weighing and comparing advantages and disadvantages we must judge
+all these matters. On some occasions we treat the good as bad, and the bad
+as good.
+
+Independence of desire we count a great good — not so we may always enjoy
+just a few things, but so that, if we don't have many, we may enjoy the few
+in the real conviction that those who need luxury least enjoy it most, and
+that everything natural is easy to get, while the superfluous is hard. Plain
+flavors bring a pleasure equal to a rich diet, when all the pain of want is
+gone; bread and water give the highest pleasure to the man who needs them
+when he puts them to his lips.
+
+[131] Getting used to a simple, unluxurious diet gives us full health, keeps a
+man alert for life's necessary work, makes us enjoy luxuries more when we
+come to them after long intervals, and fits us to be fearless of fortune.
+
+When we say pleasure is the end, we don't mean the pleasures of wastrels or
+those found in sensuality — as some suppose, from ignorance or disagreement
+or misunderstanding — but freedom from pain in the body and from trouble in
+the mind.
+
+[132] A pleasant life isn't produced by nonstop drinking and partying, nor by
+the satisfaction of lusts, nor by fish and the other luxuries of the rich
+man's table — but by sober reasoning, searching out the reasons for every
+choice and avoidance, and banishing mere opinions, which cause the greatest
+disturbance of the spirit.
+
+Of all this the beginning and the greatest good is prudence. Prudence is more
+precious even than philosophy: from prudence spring all the other virtues,
+and it teaches us we can't live pleasantly without living prudently,
+honorably, and justly — (nor live prudently, honorably, and justly) without
+living pleasantly. The virtues are by nature bound up with the pleasant life,
+and the pleasant life can't be separated from them.
+
+[133] Who do you think is better off than the man who holds reverent opinions
+about the gods, is always free from fear of death, and has reasoned out the
+end nature ordains? He understands that the limit of good things is easy to
+reach and easy to fill, while the course of ills is either short in time or
+slight in pain. He laughs at destiny, which some have made the mistress of
+all things. (He thinks the chief power in deciding events lies with us: some
+happen by necessity) and some by chance, and some are in our control. Necessity
+can't be called to account; chance he sees is inconstant; but what's in our
+control has no master, and praise and blame naturally attach to it.
+
+[134] Indeed, it's better to follow the myths about the gods than to be a
+slave to the fate of the natural philosophers: the myths at least hold out
+hope of soothing the gods by worship, while fate involves a necessity that
+can't be soothed. As for chance, he doesn't treat it as a god, as most men
+do (a god's acts have no disorder in them), nor as an uncertain cause (of all
+things) — he doesn't believe good and evil are dealt to men by chance to make
+a blessed life, but that chance gives the openings for great good and great
+evil.
+
+[135] So he thinks it better to be unlucky in reasonable action than lucky in
+unreason. In a man's actions it's better for what was well chosen (to fail)
+than for what was ill chosen to succeed by chance.
+
+Think about these things, and things like them, night and day, by yourself
+and with a companion like yourself — and you'll never be disturbed waking or
+asleep, but live like a god among men. For a man who lives among immortal
+blessings is not like a mortal being.
+
+[^10]: Epicurus is often called an atheist, but here he says plainly that
+gods exist — known, he claims, by a kind of direct mental vision — while
+rejecting the popular picture of gods who reward, punish, and meddle. His
+"impious man" is the one who drags the gods down to human pettiness, not the
+one who doubts the popular stories. Bailey's commentary treats this as
+evasive; the text itself is given here at face value.
+
+[^11]: A hard saying, rendered as Bailey has it: pleasure is most needed as
+the *removal* of pain and want; where no pain or want is felt, the drive for
+pleasure rests. This is the root of the Epicurean distinction between
+pleasures that fill a lack and the untroubled state that follows.
+# THE FORTY PRINCIPAL DOCTRINES OF EPICURUS
+
+**DRAFT — NOT FOR PUBLICATION, RELEASE, OR CIRCULATION**
+
+> **AI-assistance disclosure:** This draft was produced with the help of an AI assistant (Meta Muse). It is a clear-English modernization of a public-domain English translation — **not** a new translation from the Greek. No part of it should be treated as a finished or publishable text.
+
+## About this draft
+
+The **Forty Principal Doctrines** (*Kyriai Doxai*) are the short sayings of Epicurus (341–270 BC), preserved by Diogenes Laërtius in his *Lives of the Eminent Philosophers* (Book X).
+
+This draft is a **clear-English modernization of the English translation by Cyril Bailey** in *Epicurus: The Extant Remains* (Oxford: Clarendon Press, 1926), a work in the public domain in the United States. Bailey's numbering is kept throughout. Words in square brackets [like this] are Bailey's own insertions where the Greek text is damaged or uncertain. Footnotes mark the places where the working HTML copy at handbook.epicureanfriends.com prints a different wording than Bailey's, and Bailey's own wording has been restored here.
+
+**No primacy is claimed.** Many modern translations of the Principal Doctrines already exist. This is only one plain-English rendering among them, offered for clarity, and it claims nothing: not first, not oldest, not definitive, not complete. It has not been checked against the Greek; anything doubtful is footnoted, never smoothed over by invention.
+
+---
+
+**1.** A blessed and immortal nature gives itself no trouble, and causes trouble to no one else — so it is never driven by anger or by favoritism. Anger and favoritism come only from weakness.
+
+**2.** Death means nothing to us. What has been dissolved away has no feeling, and what has no feeling means nothing to us.
+
+**3.** The most pleasure there can be is when all pain has been taken away. Wherever pleasure is present, and for as long as it lasts, there is no pain — not of the body, not of the mind, not of both at once.
+
+**4.** Bodily pain never lasts without a break. The sharpest pain is over in a very short time, and even pain that is a little stronger than pleasure does not drag on for many days together. But long-lasting illness still leaves more hours of bodily pleasure than of pain.
+
+**5.** You cannot live pleasantly without living wisely, honorably, and justly, [nor again can you live a life of wisdom, honor, and justice] without living pleasantly. Whoever does not have the pleasant life is not living wisely, honorably, and justly, [and whoever does not have the good life] cannot possibly live pleasantly.
+
+**6.** Anything that truly protects you from harm at the hands of other people is a natural good.¹
+
+**7.** Some people set out to be famous and much noticed, thinking this would make them safe from other people. If that kind of life does make them safe, they have got the good that nature was after. But if it does not make them safe, they have not got the thing they were really after in the first place.
+
+**8.** No pleasure is a bad thing in itself — but the roads that lead to some pleasures bring with them disturbances many times greater than the pleasure.
+
+**9.** If every pleasure could be built up to last, and to fill the whole body — or at least the most important parts of our nature — then no pleasure would ever differ from any other.²
+
+**10.** If the wild pleasures of the profligate could drive away our fears about what goes on in the sky, about death and pain, and could teach us the limits of wanting (and of pain), we would have no cause to blame such people. They would be filling themselves full with pleasures from every side, and would have no pain of body or mind — and that is what is evil in life.
+
+**11.** If we were not anxious with guesses about what goes on in the sky, and did not fear that death concerns us, and if we understood the limits of pain and of wanting, we would have no need of natural science.
+
+**12.** A man cannot get rid of his fear about the greatest questions while he does not know what the universe is really like, and can only guess at old myths. Without natural science, our pleasures cannot be pure and unspoiled.
+
+**13.** It is no use making yourself safe from other people if what goes on in the sky above, beneath the earth, and indeed throughout the boundless universe still fills you with fear and suspicion.
+
+**14.** The purest safety from other people — secured in part by the power to shut intruders out — comes from a quiet life, withdrawn from the crowd.
+
+**15.** The wealth that nature demands is limited, and easy to get. The wealth that empty fancy demands runs on without end.
+
+**16.** Luck gets in the wise man's way only in a few things. The greatest and most important matters have been settled by reason — and reason keeps on settling them, all through life.
+
+**17.** The just man lives most free from trouble; the unjust man is most full of trouble.
+
+**18.** Once the pain of want is gone, bodily pleasure is not increased — it is only varied. And the mind's pleasure finds its limit when we come to understand, by reason, these very pleasures, and the feelings that belong with them, which used to cause the mind its greatest fears.
+
+**19.** Endless time holds no greater pleasure than a limited time, once reason has measured the limits of pleasure.
+
+**20.** The body looks on pleasure's limit as if it had no limit, and demands endless time to reach it. But the mind, once it has grasped by reason the true good of the body and its limits, and has scattered its fears about the future, gives us the complete life — and we no longer need endless time. Nor does the mind refuse pleasure; and when the hour comes to depart from life, it does not face its end as if it had somehow missed out on the best life.
+
+**21.** Whoever has learned the limits of life knows that what takes away the pain of want, and makes life complete, is easy to get — so there is no need for the scramble of competing with others.
+
+**22.** We must hold fast to the true goal, and to all the evidence our senses give us directly — the court to which we always bring the verdicts of opinion. Otherwise everything is left full of doubt and confusion.
+
+**23.** If you fight against every sensation, you leave yourself no standard by which to judge even the ones you call false.
+
+**24.** If you throw out even one sensation, and fail to separate what is merely a guess waiting to be confirmed from what sensation, feeling, and the mind's direct grasp actually give you, you will taint all your other sensations with the same groundless guessing, and reject every standard of judgment. And if among the mind's pictures built by your own guessing you cling to both the ones that await proof and the ones that have none, you will not escape error — because you keep alive the root of doubt in every judgment between right and wrong.
+
+**25.** If, each time you make a choice or a refusal, you judge by some nearer standard instead of by nature's goal, your actions will not square with your principles.
+
+**26.** Any desire you can leave unsatisfied without pain is not a necessary desire. It is a craving that melts away easily when the thing is hard to get, or looks likely to do harm.
+
+**27.** Of all the things wisdom wins for us to make life complete and blessed, friendship is by far the greatest.
+
+**28.** The same conviction that assures us nothing dreadful lasts forever — or even for long — has also shown us that, against the bounded evils of this life, friendship's protection is complete in the fullest measure.³
+
+**29.** Among desires, some are natural and necessary; some are natural but not necessary; and others are neither natural nor necessary, but come from empty imagination.
+
+**30.** When a bodily desire would cause no pain if left unmet, yet the longing for it is intense, that pleasure comes from idle imagination. It is not the pleasure's own nature that keeps the longing alive — it is the person's own empty fancies.
+
+**31.** The justice that comes from nature is a pledge of mutual advantage: men agree not to harm one another, and not to be harmed.
+
+**32.** For any creatures that could not make agreements not to harm and not to be harmed, nothing is ever just or unjust — and the same holds for any tribes of men that could not, or would not, make such agreements.
+
+**33.** Justice is not a thing in itself. In men's dealings with one another, in any place whatever and at any time, it is a kind of agreement not to harm and not to be harmed.⁴
+
+**34.** Injustice is not an evil in itself; its evil lies in the fear that comes with knowing you may not escape those set to punish such deeds.
+
+**35.** The man who secretly breaks the agreement not to harm and not to be harmed can never be sure he will get away with it — not even if he gets away a thousand times. Until the day he dies, he cannot be certain he will not be found out.
+
+**36.** Justice in its general shape is the same for all — it is mutual advantage in men's dealings with one another. But with the customs of a country, or any other circumstances, the same rule does not turn out to be just for all.
+
+**37.** Of the actions the law calls just, the one that proves on examination to be of real advantage in men's dealings with one another has justice's seal — whether it is the same for all or not. But if a man makes a law and it turns out to be of no advantage in men's dealings with each other, then it no longer has the nature of justice. And if the advantage in the matter of justice shifts from one side to the other, but for a while still fits the general idea, it is just for that time — in the eyes of those who look at the actual facts, not at empty words.
+
+**38.** If circumstances have not changed, and actions once called just are shown in practice not to fit the idea of justice, then they were never just. But if circumstances have changed, and actions once called just no longer bring advantage, then they were just at the time — when they were of advantage in men's dealings with one another — and they are no longer just now that the advantage is gone.
+
+**39.** The man who has best calmed the disquiet that comes from outside things has made his own the things he could, and made the rest at least not strangers. Whatever he could not do even that with, he keeps out of his life, and shuts the door on all it was wise to shut out.
+
+**40.** Those who are able to make themselves fully safe against their neighbors also live most pleasantly with one another — they hold the surest pledge of security. And after they have enjoyed the fullest friendship, they do not grieve over the earlier departure of a dead friend, as though he were to be pitied.
+
+---
+
+### Footnotes (working-text notes)
+
+1. **PD 6.** The handbook's working copy prints a later substitute ("Whatever you can provide yourself with to secure protection from men is a natural good," after Mensch). This draft keeps Bailey's own wording: "To secure protection from men anything is a natural good by which you may be able to attain this end."
+2. **PD 9.** Bailey's note on the Greek gives "accumulate"; Bailey renders it as "intensified," and the modernization keeps Bailey's sense.
+3. **PD 28.** The handbook's working copy prints Eugene O'Connor's version in place of Bailey. This draft restores Bailey's wording: "The same conviction which has given us confidence that there is nothing terrible that lasts forever, or even for long, has also seen the protection of friendship most fully completed in the limited evils of this life."
+4. **PD 33.** The handbook's working copy prints a substitute (from epicurus.net). This draft restores Bailey's wording, which begins "Justice never is anything in itself..."
+
+---
+
+### G1 self-audit (draft worker's own check)
+
+- [x] All 40 doctrines present, numbered 1–40 in Bailey's order — verified by count.
+- [x] Each doctrine re-checked against Bailey's wording (handbook.epicureanfriends.com working copy; Bailey divergences restored per footnotes 1–4).
+- [x] No doctrine invented or interpolated beyond Bailey's own bracketed insertions.
+- [x] DRAFT banner present at the head of the file.
+- [x] AI-assistance disclosure present at the head of the file.
+- [x] Honestly labeled as a clear-English modernization of Bailey (1926), not a fresh Greek translation.
+- [x] No primacy claims — no "first/oldest/definitive/complete."
+- [x] Plain modern English throughout; no thee/thou/thy, no -eth endings.
+- [x] STOP — auditing ends here. The draft does not cross the G4 read-through gate; nothing published, emailed, uploaded, or pushed. Local file only.
+
+*G1 audit result: PASS. Draft is AUDITED and stops here.*
+# THE EIGHTY-ONE VATICAN SAYINGS OF EPICURUS
+
+**DRAFT — NOT FOR PUBLICATION, RELEASE, OR CIRCULATION**
+
+> **AI-assistance disclosure:** This draft was produced with the help of an AI assistant (Meta Muse). It is a clear-English modernization of a public-domain English translation — **not** a new translation from the Greek. No part of it should be treated as a finished or publishable text.
+
+## About this draft
+
+The **Vatican Sayings** (*Gnomologium Vaticanum Epicureum*) are a collection of eighty-one short sayings attributed to Epicurus (341–270 BC), preserved in a fourteenth-century manuscript found in the Vatican (Vat. gr. 1950). The list was discovered in 1888.
+
+This draft is a **clear-English modernization of the English translation by Cyril Bailey** in *Epicurus: The Extant Remains* (Oxford: Clarendon Press, 1926), a work in the public domain in the United States. The traditional numbering (1–81) is kept throughout. The working HTML copy consulted was the one at handbook.epicureanfriends.com; where that copy's wording differs from Bailey's, Bailey's own wording has been restored here, and the difference is footnoted.
+
+**No primacy is claimed.** Many modern translations of the Vatican Sayings already exist. This is only one plain-English rendering among them, offered for clarity, and it claims nothing: not first, not oldest, not definitive, not complete. It has not been checked against the Greek; anything doubtful is footnoted, never smoothed over by invention.
+
+---
+
+**1.** A blessed and deathless being has no troubles of its own and causes trouble for no one else. That is why it is free of anger and favoritism — all such things come from weakness.
+
+**2.** Death is nothing to us. What has broken apart into its pieces feels nothing, and what feels nothing is nothing to us.
+
+**3.** Pain in the body that goes on without a break does not last long. Extreme pain is only with us a very short time, and even the kind of pain that outweighs the body's pleasure does not drag on for many days at a stretch. Long-lasting illnesses still leave room for more pleasure than pain in the body.
+
+**4.** All bodily pain is easy to set aside: sharp pain does not last long, and pain that stays long in the body is only mild.
+
+**5.** You cannot live a pleasant life unless you live wisely, honorably, and justly — and you cannot live wisely, honorably, and justly without living pleasantly. If any one of these is missing — say a man lives honorably and justly but not wisely — a pleasant life is impossible for him.
+
+**6.** A man who secretly breaks the agreement not to harm others or be harmed can never be confident he will stay hidden, even if he has gotten away with it ten thousand times — until he dies, he can never be sure he will not be found out.
+
+**7.** It is hard for a wrongdoer to escape being found out, and impossible for him to be sure he will keep escaping it.
+
+**8.** The wealth that nature requires is limited and easy to get. The wealth that empty daydreams require has no end.
+
+**9.** Being forced is an evil — but nothing compels you to live as a slave to force.
+
+**10.** Remember that you are mortal, with only a short life to live, yet in studying nature you have taken in all time and eternity, and have seen "things that are, and are to come, and have been before."
+
+**11.** Most men are stuck when they rest, and frantic when they act.
+
+**12.** The just man lives most free of trouble; the unjust man is full of the worst trouble.
+
+**13.** Of the things the law calls just, whatever proves useful in men's dealings with each other carries the mark of justice, whether it is the same everywhere or not. But if a man makes a law that does not prove mutually useful, it is no longer just. And if what is mutually useful changes, and matches our idea of justice only for a time, it is still just for that time — for those who do not fuss over empty words but look at the facts.
+
+**14.** We are born once; we cannot be born a second time, and afterward we are nothing forever. Yet you, who are not master of tomorrow, keep putting off your happiness. Life is eaten up by delay, and each of us dies without ever giving himself a rest.
+
+**15.** We treasure our own character as our own, whether it is good and admired by others or not. In the same way we should treasure the character of others, if they are friendly toward us.
+
+**16.** No one who sees evil chooses it on purpose; he is tricked into it because it looks good next to a greater evil, and so he chases it.
+
+**17.** Do not call the young man happy — call the old man happy who has lived a good life. The young man in his prime is unsteady, tossed this way and that by fortune like a rushing stream. But the old man has dropped anchor in old age as if in harbor, and the good things he once hardly dared hope for he has brought safely in, holding them in thankful memory.
+
+**18.** Take away seeing, company, and touch, and the fever of love comes to an end.
+
+**19.** The day a man forgets the good things of the past, he has grown old that very day.
+
+**20.** Some of our desires are natural and necessary; others are natural but not necessary; and still others are neither natural nor necessary, but come from empty opinion.
+
+**21.** We must not do violence to nature but follow her. We follow her when we satisfy the necessary desires, and also the natural ones that do us no harm — but we must firmly throw out the harmful ones.¹
+
+**22.** Endless time and a short life give the same amount of pleasure, if we measure pleasure's limits with reason.
+
+**23.** All friendship is worth wanting for its own sake, even though it begins from needing help.
+
+**24.** Dreams have nothing divine about them and no power to foretell the future; they come from images streaming in upon us.
+
+**25.** Poverty measured by nature's goal is great wealth; wealth with no limit is great poverty.
+
+**26.** Understand that a talk, whether long or short, aims at the same end.
+
+**27.** In every other line of work, the reward comes only after the job is done, and comes with effort. But in philosophy, pleasure walks hand in hand with learning — enjoyment does not come after understanding; understanding and enjoyment happen at the same time.
+
+**28.** We should not praise those who rush into every friendship, nor those who always hold back — but for friendship's sake we must be willing to take risks.
+
+**29.** In studying nature, I would rather speak plainly, like an oracle giving answers useful to all mankind — even if no one understands me — than agree with popular opinion and win the easy cheers of the crowd.
+
+**30.** Some men spend their whole lives piling up the means of living, because they do not see that the cup we all drink at birth is a cup of death.
+
+**31.** Against everything else we can build defenses, but against death all of us mortals live alike in a city with no walls.
+
+**32.** Honoring the wise man is a great blessing to those who honor him.
+
+**33.** The body cries out to be freed from hunger, thirst, and cold. If a man has this security, and expects to keep it, he could rival even Zeus in happiness.
+
+**34.** What helps us is not so much our friends' help as our confidence that they would help.
+
+**35.** We should not spoil what we have by longing for what we do not have, but remember that what we have was itself a gift of fortune.
+
+**36.** Set beside other men's lives, the gentleness and self-sufficiency of Epicurus' life might be taken for a legend.²
+
+**37.** Nature is weak against evil, not against good — for pleasures save it, and pains destroy it.
+
+**38.** He is a small man in every way who finds many good reasons to leave life.
+
+**39.** He is no friend who is always asking for help, nor he who never connects help with friendship. The first trades kind feeling for a business deal; the second kills hope of good things to come.
+
+**40.** The man who says everything happens by necessity cannot argue with the man who denies it — for he admits that even the denial happens by necessity.
+**41.** We must laugh and do philosophy at the same time, keep up our household work, use our other gifts, and never stop speaking the words of the true philosophy.³
+
+**42.** The greatest blessing is made and enjoyed at the same moment.⁴
+
+**43.** Loving money is a crime against the gods if the money is gained unjustly, and a disgrace if gained justly — for it is ugly to hoard, even when justice is on your side.
+
+**44.** The wise man, when hard times pinch him, knows better how to give than to take — so great is the treasure of self-sufficiency he has found.
+
+**45.** Studying nature does not make men into braggarts and show-offs, parading the learning that crowds compete over. It makes them high-spirited and self-sufficient, proud of the good things in their own minds rather than in their circumstances.
+
+**46.** Let us drive our bad habits out of us completely, as if they were wicked men who have done us great harm for a long time.
+
+**47.** I have gotten ahead of you, Fortune, and dug in against all your secret attacks. I will not surrender myself as your prisoner, nor to any other circumstance. When it is time for me to go, I will spit contempt on life and on those who cling to it in vain, and I will leave life shouting a glorious song of triumph: I have lived well.
+
+**48.** As long as we are on the road, we should try to make the end of the journey better than the beginning. But when we reach the end, we must be glad and content.
+
+**49.** No one can drive away his fears about the greatest things if he does not know the nature of the universe but still half-believes in myths. So without studying nature there is no pure enjoyment of pleasure.
+
+**50.** No pleasure is bad in itself, but the things that bring some pleasures also bring troubles many times greater than the pleasures.
+
+**51.** You tell me the urges of the flesh make you too fond of the pleasures of love. As long as you break no laws or good customs, upset none of your neighbors, harm not your body, and waste not your small store, you may follow your inclination as you please. But you cannot help running into one or another of these walls — for the pleasures of love never did a man any good, and he is lucky if they do him no harm.
+
+**52.** Friendship dances around the whole world, calling us all to wake up and see happiness.
+
+**53.** We must envy no one: the good do not deserve envy, and the wicked, the more they prosper, the more they hurt themselves.
+
+**54.** We must not pretend to study philosophy but really study it — for what we need is not the look of health but real health.
+
+**55.** We must heal our misfortunes by thankfully remembering what has been, and by knowing that what is done cannot be undone.
+
+**56.** The wise man feels no more pain when tortured himself than when his friend is tortured.⁵
+
+**57.** At times a man will die for his friend — for if he betrays his friend, his whole life will be wrecked by distrust and turned upside down.⁵
+
+**58.** We must free ourselves from the prison of schooling and politics.
+
+**59.** It is not the stomach that is never satisfied, as people generally say, but the false belief that the stomach needs an endless amount to fill it.
+
+**60.** Every man leaves life as if he had just been born.
+
+**61.** Beautiful too is the sight of those near and dear to us, when our natural kinship makes us one in mind — for such a sight strongly urges us toward this goal.
+
+**62.** If parents are justly angry with their children, it is useless to fight them and not ask pardon. But if their anger is unjust and senseless, it is ridiculous to feed their senseless fury by nursing your own anger, instead of trying to turn their wrath aside in other ways, with gentleness.
+
+**63.** Even thrift has its limit, and the man who ignores it is like the man who goes wrong by excess.
+
+**64.** Praise from others must come without asking, and we must busy ourselves with healing our own lives.
+
+**65.** It is empty to ask the gods for what a man can provide for himself.
+
+**66.** Let us honor our lost friends not by wailing but by thoughtful remembrance.
+
+**67.** A free life cannot pile up many possessions — that is not easy to do without cringing to crowds or kings — yet it has everything in never-failing abundance. And if it happens to gain many possessions, it is easy to share them out and win the thanks of neighbors.
+
+**68.** Nothing is enough for the man who thinks enough is too little.
+
+**69.** The soul's thankless greed makes the creature forever crave variety in its way of life.⁶
+
+**70.** Do nothing in your life that will make you afraid if your neighbor finds out.
+
+**71.** Meet every desire with this question: what will happen to me if I get what I want — and what if I do not?
+
+**72.** There is no use getting protection from other men as long as we are frightened by things in the sky above or the earth below, or in general by whatever happens in the boundless universe.
+
+**73.** Going through certain bodily pains helps us guard against others like them.
+
+**74.** In a philosophical debate, the one who loses gains more — because he learns more.
+
+**75.** The saying "wait for the end of a long life" shows ingratitude for past good fortune.
+
+**76.** In your old age you are just what I urge you to be, and you have seen the difference between studying philosophy for yourself and preaching it to all of Greece. I rejoice with you.
+
+**77.** The greatest fruit of self-sufficiency is freedom.
+
+**78.** The noble soul busies itself with wisdom and friendship: of these, one is a mortal good, the other immortal.
+
+**79.** The calm man causes no trouble to himself or to anyone else.
+
+**80.** The first step to safety is to watch over your youth and guard against what wrecks everything through maddening desires.
+
+**81.** Trouble in the soul cannot be ended, nor true joy created, by owning the greatest wealth, or by honor and praise from the crowd, or by anything else that comes from unlimited desire.
+
+---
+
+## Notes
+
+1. **VS21.** Bailey's wording is kept here. Some modern renderings (e.g., St. Andre, following DeWitt) read the opening differently: "Nature must be persuaded, not forced." Bailey reads "We must not do violence to nature but obey her."
+2. **VS36.** This saying speaks of Epicurus in the third person, so it is unlikely to be his own words; it is kept because the traditional list includes it.
+3. **VS41.** The manuscript word here can be read as "angry" or — with the common correction that Bailey follows — "true/right." Bailey's reading ("the true philosophy") is kept.
+4. **VS42.** Bailey's reading is kept: "The greatest blessing is created and enjoyed at the same moment." The manuscript at this point is hard to read, and editors disagree about the wording; some read "the release from evil" instead of "enjoyed." The working HTML copy used here prints a different rendering (DeWitt's); Bailey's own wording has been restored.
+5. **VS56, VS57.** The original is unclear at these points; this follows the commonly accepted reconstruction, without inventing beyond it.
+6. **VS69.** Bailey's printed line reads "the creature everlastingly desire varieties of dainty food"; the rendering here follows the plain sense of the sentence.
+
+---
+
+## G1 self-audit (draft worker's own check)
+
+- [x] **All 81 sayings present and numbered** in traditional order, 1 through 81 — counted twice against the Bailey sequence; no gaps, no duplicates.
+- [x] **Re-checked against Bailey:** each saying's modernization traces back to Bailey's English wording as given in *The Extant Remains* (1926) via the working copies; VS42 and VS21 restored to Bailey where the working copy diverged, and the divergences are footnoted.
+- [x] **Nothing invented:** unclear or disputed points (VS36, VS41, VS42, VS56, VS57, VS69) are flagged in footnotes rather than smoothed over.
+- [x] **Banner + AI-assistance disclosure present** at the top of the file.
+- [x] **No primacy claims:** no "first," "oldest," "definitive," or "complete" anywhere; explicitly labeled a modernization of Bailey 1926, not a fresh translation from Greek.
+- [x] **Plain English:** no thee/thou/thy, no -eth endings, no archaic diction.
+
+**Status: AUDITED at G1. STOP — not crossing the G4 read-through gate. Local file only; nothing published, emailed, uploaded, or pushed.**
