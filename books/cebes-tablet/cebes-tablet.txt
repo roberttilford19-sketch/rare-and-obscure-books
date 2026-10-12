@@ -1,0 +1,966 @@
+# THE TABLET (Pinax)
+
+## attributed to Cebes of Thebes
+
+**A plain-English draft rendering**
+
+---
+
+> **DRAFT — NOT FOR RELEASE**
+>
+> This file is a working draft. It has not been proofread by Robert, has not
+> passed his read-through, and must not be published, emailed, uploaded, or
+> shared in any form without his explicit word on that exact action.
+
+> **AI-ASSISTANCE DISCLOSURE:** This draft was produced with the assistance of
+> an AI agent (Awen, built by Meta, running on Muse) working from the
+> public-domain 1910 English translation named below. Every sentence was
+> checked against that base during a self-audit; no material was invented.
+> The rendering, wording choices, and any errors are the draft worker's own
+> and are open to correction.
+
+---
+
+## DEDICATION
+
+This one has no great translator tragedy behind it — its story is the text's
+own. It is dedicated to the unknown.
+
+Some nineteen hundred years ago, somebody — a name lost to history — sat down
+and wrote a small book about a painted tablet showing the whole of human life:
+the gate we all walk through, the drinks we are all given, the wrong roads,
+the steep road, and the mountain at the end. He (or she) signed it, in effect,
+to Cebes of Thebes, the friend of Socrates who sits with the mourners in
+Plato's *Phaedo*. Whether that was homage, a joke, or a marketing decision, we
+will never know; what scholars agree on is that the real Cebes did not write
+it, and the true author is Anonymous.
+
+And yet the book would not die. Century after century, teachers kept copying
+it, printers kept printing it, and readers kept reading it — not because of
+whose name was on it, but because it works. It is, in Kenneth Guthrie's happy
+phrase, the Greek *Pilgrim's Progress*: a road-map of a human life, drawn so
+plainly that schoolchildren and philosophers alike could follow it. This draft
+is offered to the unknown author in thanks — the one whose name did not
+survive, but whose picture did.
+
+---
+
+## A NOTE ON AUTHORSHIP — READ THIS FIRST
+
+This work is **attributed to** Cebes of Thebes, the friend of Socrates who
+appears in Plato's *Phaedo*. That attribution is almost certainly wrong.
+Scholars judge the *Tablet* (Greek *Pinax*) to be **spurious** — most likely
+written in the **1st or 2nd century AD**, some four to five hundred years after
+Cebes lived, by an author whose name is unknown.
+
+Nothing in this draft presents the work as genuinely by Cebes. The title page,
+the running heads, and this note all say "attributed to." The ancient habit of
+putting a famous name on a book does not make the name true, and this project
+does not repeat the claim.
+
+## METHOD STATEMENT
+
+**Base text (exactly one):** Kenneth Sylvan Guthrie's 1910 English translation,
+*The Greek Pilgrim's Progress. Generally known as the Picture, by Kebes*
+(London: Luzac; Philadelphia: the Platonist Press), as transcribed on
+Wikisource. Guthrie translated from the Greek text published by B. G. Teubner
+of Leipzig. The other public-domain English renderings — Hugh Exton Seebohm
+(1906) and R. Thomson Clark (1909) — were consulted for the record but were
+**not** used; this draft follows Guthrie alone. Fitzgerald & White (1983) was
+not touched: it is under copyright.
+
+**Attribution:** the work is *attributed to* Cebes of Thebes; scholars judge the attribution spurious — see the authorship note above.
+
+**Public-domain verification:** Guthrie's translation was published in 1910,
+before 1929; Kenneth Sylvan Guthrie died in 1940. It is in the public domain in
+the United States. The underlying Greek text is some nineteen centuries old.
+
+**What this draft is:** a rendering of Guthrie's English into plain, modern
+English — the kind of wording a humble peasant could understand. No thee, thou,
+or thy. Guthrie's numbered sections (1–41) and his five-part division are
+kept, so every passage can be checked against the base.
+
+**What was changed in the wording:** Guthrie's most awkward coinage,
+"Scientific-Recognition" (Greek *epistêmê*), is rendered here as
+**Understanding** — pure knowledge, real understanding of what is good. His
+"Good Genius" (Greek *daimôn*) is kept as the figure's name and glossed in the
+word list. Capitalized personifications (Delusion, Luck, Opinion, Culture, and
+so on) are kept, because the whole book is an allegory and the capitals are
+the map.
+
+**What was not carried over:** Guthrie's own 1910 introduction is his personal
+commentary, not the ancient text, so it is not reproduced here. Its one point
+worth keeping is noted plainly: Guthrie himself suspected that the closing
+discussion — whether wealth, health, and the like are really good or evil —
+may be a later addition with a Stoic flavor. That suspicion is Guthrie's, not
+this draft's; the closing section is rendered whole, like everything else.
+
+**What this draft does not claim:** This is not a first translation, not the
+oldest, not definitive, and not complete in any scholarly sense. It is a
+working draft of one public-domain rendering, made readable. Nothing more.
+
+---
+
+*End of front matter. The dialogue follows in* `01-the-tablet-DRAFT.md`.
+# THE TABLET (Pinax)
+
+## attributed to Cebes of Thebes
+
+**Part One of the dialogue: the Gate of Life and its Delusions**
+
+---
+
+> **DRAFT — NOT FOR RELEASE**
+>
+> This file is a working draft. It has not been proofread by Robert, has not
+> passed his read-through, and must not be published, emailed, uploaded, or
+> shared in any form without his explicit word on that exact action.
+
+> **AI-ASSISTANCE DISCLOSURE:** This draft was produced with the assistance of
+> an AI agent (Awen, built by Meta, running on Muse) working from Kenneth
+> Sylvan Guthrie's public-domain 1910 English translation of the *Tablet*
+> (Wikisource transcription). The wording is a fresh plain-English rendering;
+> every section was checked against the base in a self-audit, and nothing was
+> invented. Errors, if any, are the draft worker's own. "Attributed to Cebes"
+> throughout: scholars judge this work spurious, probably 1st–2nd century AD,
+> author unknown.
+
+---
+
+## FIRST: THE GATE OF LIFE AND ITS DELUSIONS
+
+**1.** One day we happened to be walking thoughtfully through a temple of
+Saturn, looking with reverence at the offerings people had hung there. Fixed
+prominently to the front of the temple was a strange painted tablet, with
+certain peculiar words on it whose meaning we could not make out.
+
+It did not seem to show a city or an army camp, but a triple ring — three
+circular walled enclosures, one inside the other.
+
+Within the outermost circular wall you could see a crowd of women, while
+outside, around the outer gate, a great mob was pressing forward. An old man
+seemed to be standing in front of the streams of people entering, giving them
+some command by his gestures.
+
+**2.** We stood there a long while, asking each other what the picture could
+mean, when an old man who happened to be passing stopped and spoke to us:
+
+"Strangers, there is nothing unusual in your being puzzled by this picture.
+It is a riddle even to many of the people who live here. This offering did not
+come from this place. Long ago a stranger arrived here — a man full of
+understanding and impressive in his wisdom, who followed with zeal, in word and
+deed, the way of life of Pythagoras or Parmenides. He is the one who
+dedicated both the temple and the picture to Saturn."
+
+"So you saw and knew this man yourself?" I asked.
+
+"Indeed I did!" he said. "And what is more, I admired him for a long time in
+my youth. It was his way to hold many serious conversations, and many is the
+time I have heard him explain this symbolic picture!"
+
+**3.** "By Jupiter!" I cried, "unless you have some pressing business
+elsewhere, please explain the picture to us too! I assure you we are most
+anxious to understand what this symbol means!"
+
+"With pleasure, strangers!" he said. "But first you must hear that such an
+explanation is not without real danger."
+
+"How so?" we all cried.
+
+"If you understand and take in what I tell you," he said, "you will become
+wise and happy. But if not, you will live badly — you will become foolish,
+unlucky, bitter, and ignorant.
+
+"For the explanation is much like the riddle of the Sphinx, which she put to
+all men. Whoever solved it was saved; but the Sphinx destroyed those who could
+not. And this was the Sphinx's question: *In our life, what is a good? What is
+an evil? What is neither?*
+
+"If anyone does not solve this, the Sphinx destroys him — not all at once, as
+in ancient times, but gradually, through his whole life, he wastes away, like
+victims tortured to death.
+
+"But if he understands, he is saved, and gains happiness.
+
+"So pay attention, and make sure you understand!"
+
+**4.** "By Hercules!" I said. "What a fire you have lit in us, if what you say
+is true!"
+
+"Indeed it is!" he said.
+
+"Then start explaining at once! We will listen with a will — especially
+considering the price of failure."
+
+"Well," said the old man, pointing with his staff, "do you see that outer
+circular wall?"
+
+"Yes, indeed!"
+
+"First, you must know that the name of this whole place is **the Life**. This
+countless crowd pressing in front of the gate are those who are about to enter
+into life.
+
+"The old man who holds a scroll in one hand and points with the other is the
+**Good Genius**. He is telling those who are entering what they must do once
+they have entered, and showing them which road they must walk if they intend
+to be saved in the Life."
+
+**5.** "Which way does he tell them to go? And why?" I asked.
+
+"Do you see," he said, "beside the gate where the crowd is to enter, a throne
+on which sits a woman dressed in showy clothes — indeed, overdressed — holding
+in her hands what look like cups? Do you see her?"
+
+"Indeed I do," I answered, "but who is she?"
+
+"Her name is **Delusion**," he answered, "because she deludes and misleads
+every human being."
+
+"But what is her business?"
+
+"She quenches the thirst of every soul that comes into life by making it drink
+of her own essence."
+
+"And what might her drink be, I wonder?"
+
+"**Error and Ignorance**," he said.
+
+"Why so?"
+
+"Because they would not enter into life unless they were under that
+influence."
+
+"I wonder whether all drink of this Delusion, or only some?"
+
+"All drink," he said, "though in different measure — some drink more, others
+less."
+
+**6.** "Then do you not see, inside the gate, a crowd of women dressed in the
+flashy clothes of prostitutes?"
+
+"Indeed I see them!"
+
+"Well, their names are **False Opinion, Desire, and Pleasure**. They fall upon
+the souls as they enter, and each one takes a soul in her arms and leads it
+away."
+
+"And where to? I would like to know!"
+
+"Some to be saved, indeed — but others, alas, to be destroyed by Delusion."
+
+"O Good Genius of ours, how fateful is that drink!"
+
+"Surely, for each of those women promises the soul she has taken in her arms
+that she will lead it to the best things, and to a happy and profitable life.
+And she succeeds — because of that drink, the souls cannot discover which is
+the true road in the Life, but wander around, as you see. For those who have
+already entered drift about as if by chance."
+
+**7.** "I see them indeed," I said.
+
+"But tell me, who can that woman be, who looks both wild and blind, standing
+on a round stone?"
+
+"Her name," he answered, "is **Luck**."
+
+"Not only blind and wild, but deaf too."
+
+"And what might her business be?"
+
+"She goes around everywhere," he said. "From some she takes their goods and
+freely gives them to others. Then again, she suddenly takes back what she has
+given and hands it to others, with no plan and no steadiness. So you see that
+her symbol fits her perfectly."
+
+"Which symbol?" I asked.
+
+"Why, the round stone she stands on."
+
+"And what does that mean, I wonder?"
+
+"That round stone means that none of her gifts is safe or lasting. For whoever
+puts any trust in her is sure to suffer great and grievous misfortune."
+
+**8.** "But what do that great crowd standing around her want, and what are
+they called?"
+
+"Oh! They are known as the **Unthinking** — those who desire whatever Luck
+may throw to them."
+
+"But then how is it that they do not all act the same? Some seem to rejoice,
+while others are in anguish, with their hands stretched out?"
+
+"Well, those who seem to rejoice and laugh are the ones who have received
+something from her — and you may be sure they call her Good Fortune! On the
+other hand, those who seem to weep and stretch out their hands are the ones
+from whom she has taken back what she gave — they call her Misfortune!"
+
+"And what sort of things does she deal in, that those who receive them laugh
+while those who lose them weep?"
+
+"Why, what seems good to the great crowd — of course **wealth**; then fame,
+good birth, children, power, palaces, and the like."
+
+"But are such things not really good?"
+
+"That question, let us put off for later!"
+
+"Willingly," I said.
+
+**9.** "Now, as you enter within the gate, do you see the second circular
+enclosure, and outside it certain women dressed like prostitutes?"
+
+"Clearly!"
+
+"Well, their names are **Lack of Self-Control, Indulgence, Never-Satisfied,
+and Flattery**."
+
+"And why do they stand there?"
+
+"They are watching for those who may have received something from the goddess
+of Luck."
+
+"And then what happens?"
+
+"The women spring upon those souls, take them in their arms, flatter them, and
+coax them not to go away but to stay for a life of comfort, without effort or
+trouble. If any soul lets them persuade him into a life of enjoyment, it seems
+a pleasant pastime until he is sated — but no longer. For when he sobers up,
+he finds that he has not eaten, but that he has been eaten by her, and
+mistreated. So when he has used up all the goods he received from Fortune, he
+is forced to slave for those women, to suffer all things, to be disgraced, and
+on their account to do many pitiable deeds — to steal, to rob temples, to
+swear falsely, to betray, to plunder.
+
+"But when he has sunk himself to utter beggary, then he is handed over to
+**Punishment**."
+
+**10.** "But who is she?"
+
+"Do you not see behind them," he said, "something like a small door, and a
+narrow, damp place?"
+
+"Yes, indeed!"
+
+"And do you notice in it some women — shameful, bedraggled, and ragged?"
+
+"Why, yes!"
+
+"Well, among them, the one holding the whip is called **Punishment**, while
+the one with her head bowed down to her knees is **Sorrow**, and the one
+tearing her own hair is **Grief**."
+
+"But what about that thing standing by them — so ugly, thin, and naked — and
+near it that other shameful female like it? Who is she?"
+
+"Ah," he said, "that is **Lamentation**, and his sister is **Despair**. To
+these, then, the soul is handed over, and is punished by keeping company with
+them. From there he is thrown into another dwelling, into **Unhappiness**,
+where he drags out his life in every misery — unless, indeed, **Repentance**
+should unexpectedly meet him, having planned it."
+
+**11.** "Well, what happens if Repentance chances to meet him?"
+
+"She frees him from his evils and gives him a new companion — another Opinion
+and Desire — who will lead him to true Culture. Though indeed he might just as
+well be misled even then to **Sham Culture**."
+
+"Well, what happens then?"
+
+"If he is taken in hand," he said, "by this Right Opinion, who will lead him
+to true Culture, then, being purified by her, he is saved, and his life grows
+blissful and happy. Otherwise, he wanders again, deceived by Sham Culture."
+
+**12.** "By Hercules! What another great danger is here! Tell me more plainly
+about Sham Culture!"
+
+"Well, do you see, standing by the gate of the inner enclosure, a woman who
+looks neat and well-groomed?"
+
+"She is called **Culture** by the unthinking crowd," he said, "but that is a
+mistake, for she is nothing but a sham.
+
+"Nevertheless, those who are being saved must pass by her in order to reach
+true Culture. There is no other way."
+
+"So there is no other way?"
+
+"No, there is not."
+
+**13.** "And can you tell me who those men are, walking about within the
+second enclosure?"
+
+"Those," he said, "are the deluded followers of Sham Culture — they honestly
+labor under the impression that they are, right now, keeping company with true
+Culture!"
+
+"And what might they be called?"
+
+"Some," he answered, "are poets; some are so-called orators. Some are
+debaters; others are musicians, mathematicians, geometricians, astronomers,
+critics, followers of Aristippus who chase pleasure, and Aristotelian
+walking-and-talking scholars!"
+
+**14.** "But those women who seem to move among them — indeed, they look like
+the first ones, among whom was Pleasure and her companions — who are they?"
+
+"They are the very same," he said.
+
+"But how did they get in?"
+
+"By changing their looks; for here they look needy, and not as before."
+
+"And have those False Opinions stayed the same?" I asked.
+
+"That potion which they drank from Delusion is still working in them — and so
+are Ignorance, Senselessness, Prejudice, and other badness. None of this fades
+from them until they leave Sham Culture, take the right road, and drink the
+purifying medicines. When this cleansing has stripped off all their evils,
+such as Prejudice and Ignorance — then, and not before, shall they be saved.
+
+"But if they choose to stay with Sham Culture, they shall never be released;
+nor shall any science release them from a single evil."
+
+---
+
+## SECOND: THE ROAD UPWARD TO HAPPINESS
+
+**15.** "What then is the road that leads to true Culture?" I asked.
+
+"Do you see up there," he said, "a place where no one lives, and which looks
+like a desert?"
+
+"I do."
+
+"Do you not see a small door, and a path not much traveled — only a few are
+climbing it, for it is almost impassable, rough and rocky?"
+
+"Yes indeed," I said.
+
+"And do you not see something like a steep hill, which can only be climbed by
+a narrow ascent between cliffs?
+
+"That, then, is the road to Culture."
+
+"And hard enough it looks!"
+
+"But it leads up Culture's rock, which is large, high, and inaccessible."
+
+**16.** "Now do you not see further, standing on the rock, two healthy,
+well-built women stretching out their hands invitingly?"
+
+"Yes, but who are they?"
+
+"**Self-Control and Endurance** — two sisters."
+
+"But why are they stretching out their arms so invitingly?"
+
+"They are urging the pilgrims who reach that place not to despair, but to take
+heart — for they will reach a fair road if only they will be brave for a
+little while longer."
+
+"Encouragement is good," I said, "but what use is it? For I see, further up
+the road, a gap where there is no road."
+
+"Those women will themselves come down from the cliff and draw the pilgrims up
+to where they stand. Then the women will let the pilgrims rest; and after a
+little while they will give them **Strength and Courage**, and promise to lead
+them into the presence of true Culture.
+
+"Then the women will show the rested pilgrims the road beyond — which is, as
+you see, fair, level, passable, and free from all evils."
+
+"Clearly, by Jupiter!"
+
+**17.** "Do you not see, in front of that grove, a place that looks fair and
+grassy, lit by a white light?"
+
+"Yes, indeed!"
+
+"Do you see in the middle of the meadow another enclosure, with its gate?"
+
+"It is so, but what is the name of that place?"
+
+"It is the **Dwelling of the Blessed**," he said. "Here live all the Virtues,
+and Happiness."
+
+"Is it possible? How beautiful that place must be!"
+
+**18.** "Now do you see by the gate a woman, fair and calm, middle-aged or
+rather older, dressed in a simple, unadorned robe? She stands, not on a globe,
+but on a solidly founded cube. With her stand two other, younger women who
+seem to be her daughters."
+
+"So it looks."
+
+"Well, the woman standing in the middle is **Culture**; the others are
+**Truth** and **Conviction**, her daughters.
+
+"But why does Culture stand on a cube?"
+
+"As a sign that, for pilgrims approaching her, the road to her is certain and
+safe — as indeed are her gifts."
+
+"And what might her gifts be?"
+
+"**Courage and Fearlessness**!"
+
+"But what do they consist of?" I asked.
+
+"Courage and Fearlessness consist in the realization that nothing that could
+ever happen to us could turn out to be a misfortune."
+
+**19.** "By Hercules," I said, "what fine gifts! But why does she stand
+outside the circle like that?"
+
+"In order to heal the new arrivals," he said. "She gives them the cleansing
+medicine; and when they have been purified, she leads them in to the Virtues."
+
+"But how does this happen? I do not understand that."
+
+"But you will," he said. "It is as if a sick man, ambitious to get well,
+should go to a physician, who first removes the cause of the sickness, and so
+leads him through recovery to health. But if the sick man will not follow the
+prescription, it is only fair that he should be left to the ravages of the
+disease."
+
+"Oh, I understand that," I said.
+
+"Just so acts Culture," our guide went on. "Whenever any pilgrim reaches her,
+she heals him and doses him with her own power, so as first to cleanse him of
+all the evils lodged in him — Ignorance and Error, with which Delusion had
+infected the pilgrim; Arrogance, Lust, Lack of Self-Control, Anger, Love of
+Money, and all the rest of the evils with which the pilgrim was infected in
+the first enclosure."
+
+**20.** "Now when the pilgrim is cleansed, where does she send him?"
+
+"In there, to **Understanding**, and to the other Virtues."
+
+"And which are these?"
+
+He said: "Do you not see within the gate a company of women, who look
+attractive and neat, in simple, unadorned robes? See how sweet they look in
+their simple dress, and not overdressed like the others?"
+
+"I see," I said. "But what are their names?"
+
+"The first is **Understanding**; the others are her sisters: **Fortitude,
+Righteousness, Fairness, Wisdom, Poise, Freedom, Temperance, and
+Gentleness**."
+
+"O kindly guide of ours, what great things we may hope for!"
+
+"Surely! But only on condition that you understand what you see, and take good
+heed of what you have heard from me."
+
+"But we most surely do!" we all cried as if with one voice.
+
+"Then you shall also be saved!" he cried.
+
+**21.** "Now, when they have received the pilgrim, where do they lead him?"
+
+"To their mother **Happiness**," he said.
+
+"But who and where is she?"
+
+"Follow the road up that mountain which stands at the heart of the enclosures,
+and you come to a temple porch, beside which sits on a high throne a glorious
+woman, dressed nobly but simply, and crowned with a splendid wreath of
+flowers. Well, she is Happiness."
+
+**22.** "Now, whenever anyone reaches her, what does she do?"
+
+"Happiness, with all the other Virtues, crowns him as victor in the greatest
+of struggles — namely, against the most terrible beasts, who before had
+enslaved, tormented, and devoured him. All these he has now overcome and
+driven away from himself, holding himself well in hand — so that those whom he
+formerly served must now serve him."
+
+**23.** "I am anxious to know who these wild beasts you mentioned are!"
+
+"**Ignorance**," he said, "and **Error**. Or do you not consider them wild
+beasts?"
+
+"And pretty savage ones too!" I agreed.
+
+"Then **Sorrow, Despair, Love of Money, Lack of Self-Control**, and all other
+badness. All these he now rules, instead of, as before, being ruled by them."
+
+"O glorious deeds," I cried, "and splendid victory! But what is the power of
+the victor's crown?"
+
+"It blesses with unspeakable felicity. He who is crowned with this virtue
+becomes truly happy, resting his hope of gaining happiness, and of keeping it,
+not on others, but on himself."
+
+---
+
+## THIRD: THOSE WHO FAIL, AND WHY
+
+**24.** "Glorious, the victory you speak of! But after the pilgrim is crowned,
+what does he do, and where does he go?"
+
+"The Virtues who welcomed him lead him back to the place he came from, and
+show him how badly off are those who live there so wretchedly — as if
+shipwrecked in their lives, straying and wandering, dragged about by enemies
+such as Lack of Self-Control, Arrogance, Love of Money, Fancies, and other
+such evils.
+
+"These misfortunes keep them from rescuing themselves from this endless
+tossing by reaching the Mountain of Safety.
+
+"They suffer this only because they cannot find the road here — for they have
+forgotten the instructions they received from the Good Genius."
+
+**25.** Then I said, "You seem to speak rightly. But I am not yet quite clear
+on one point: namely, why the Virtues show the pilgrim the place he
+originally came from."
+
+Our guide said: "None of these things could the pilgrim accurately understand
+or grasp while he was in doubt, because of the Ignorance and Error he had
+drunk in — so that he called good what was not good, and evil what was not
+evil. That is why, like those who stayed there, the pilgrim dragged out a
+miserable life.
+
+"But now, since he has gained understanding of what is truly beneficial, he
+lives pleasantly, seeing how badly off those others are."
+
+**26.** "Well, now that he sees all these things, what will he do, and where
+will he go?"
+
+"Wherever he pleases; for now he is as safe anywhere as if he were in the
+Korykian Cave. Wherever he arrives he will live fairly and safely — for just
+as the sick welcome the physician, so all will receive him with pleasure and
+gratitude."
+
+"And he no longer fears suffering anything from those women who, you say, are
+really wild beasts?"
+
+"No, indeed! No more can he be troubled by Grief or Sorrow, by Lack of
+Self-Control or Love of Money, by Need or any other evil — for now he is lord
+over all those by whom he was formerly grieved.
+
+"Just like a snake-charmer, whose snakes kill everyone but him, yet do not
+harm him, because he has an antidote against them — just like this snake-charmer
+who cannot be harmed, the crowned pilgrim is no more grieved by any of them,
+being safe because of the antidote he carries."
+
+**27.** "It seems to me you have spoken well. But tell me further: who are
+they who seem to be coming down from the mountain? For some of them are
+crowned and make joyful gestures, while others are uncrowned, grieved and
+distressed. They seem so weary in head and limb that they truly need to be
+held up by certain women!"
+
+"The crowned are those who were saved by Culture, and they rejoice at having
+reached her. The uncrowned, however, are those whom Culture rejected, and who
+are returning to a miserable, wretched life — or those who, while climbing up
+to Endurance, grew timid and turned back, wandering without a path."
+
+"And who are the women holding them up?"
+
+"**Griefs, Sorrows, Faint-Heartedness, Scorn, and Ignorances**."
+
+**28.** "Why, I thought you said that all the evils went with them?"
+
+"And they all do, by Jupiter! For when they return into the first enclosure,
+to Sensuality and Lack of Self-Control, they do not blame themselves — far
+from it! At once they speak ill of Culture and of those who go to her, saying
+that they are wretched, miserable, and unhappy, and that by leaving their
+accustomed way of life they live badly, enjoying none of the good things —
+that is, none of the things counted as good among themselves."
+
+"And what goods may they be referring to?"
+
+"Why, to debauchery and lack of self-control, to speak plainly — for their
+highest ideal is to feed like cattle."
+
+**29.** "And what about those other women coming down from there, cheerful in
+face and all wreathed in smiles?"
+
+"They are **Opinions**; and whenever they have successfully led any pilgrim to
+Culture and introduced him to the Virtues, they return to lead up others, and
+announce to them the blessedness of those they led up before."
+
+"But why do they not themselves go in among the Virtues, and stay?"
+
+"Because it is not fitting for mere Opinions to enter in to Understanding.
+The most they can do is introduce a pilgrim to Culture. Then all they can do
+is return and bring up others — just as ships, when unloaded, return to be
+loaded again."
+
+---
+
+## FOURTH: THE VALUE OF LEARNING
+
+**30.** "It seems to me you have explained these things very well. But there
+is one thing you have not yet made plain to us — namely, what the Good Genius
+teaches those who are entering into life."
+
+"'Take heart, and be courageous,' he says. So take heart yourselves, for I
+shall explain all things and leave nothing out."
+
+"Well spoken!" I cried.
+
+Then the old man, stretching out his hand again, said: "Look at that figure
+who seems to be blind, standing on the round stone — whose name, as I told
+you before, is Luck."
+
+"We see her."
+
+**31.** "Well, he warns the souls not to trust her. Nothing received from her
+should be counted reliable or safe, nor counted as one's own — for nothing
+stops her from taking it back and giving it to someone else. Why, that is a
+common occurrence. So, he warns, let no man be moved by her gifts — neither to
+joy when receiving them, nor to sorrow when losing them; neither to praise nor
+to blame them. For nothing she does comes from thought — only by chance, just
+as things happen, as I told you before.
+
+"So the Good Genius warns men to pay no attention to anything she does, and
+not to be like bad bankers, who rejoice when they receive money from some man
+and count it as their own, but as soon as they get notice of withdrawal they
+take offense and consider themselves badly wronged — forgetting that they
+received the deposit on this very condition, that the depositor may take it
+back without difficulty.
+
+"The Good Genius advises the same attitude toward the gifts of the goddess of
+Luck: to remember that it is no more than her nature to take back what she
+gave, and soon to give many other gifts again, then to take back again — not
+only what she gave, but whatever a man possessed before. So, he warns, accept
+whatever she may give; and as soon as you have it in hand, take it and go at
+once to the blessings that are reliable and lasting."
+
+**32.** "But what may these be?" I asked.
+
+"What is received from Culture."
+
+"And what may that be?"
+
+"True understanding of what is beneficial — a safe, reliable, lasting gift,"
+he said. "To flee to her at once is his command. And when the pilgrim reaches
+those women who, as I said before, are called Lack of Self-Control and
+Sensuality, he is not to trust them but to leave them and go on to Sham
+Culture. There he should stay a little while, gathering from her whatever
+accomplishments may serve as travel rations to keep him going until he reaches
+true Culture.
+
+"Whoever disobeys this warning, or even only misunderstands it, wastes away
+miserably."
+
+**33.** "Now, strangers, this is the meaning of the picture. Do not hesitate
+to ask any further questions about it; I shall be glad to answer."
+
+"Well then, I will ask you: what sort of accomplishments does the Good Genius
+advise the pilgrim to take from Sham Culture?"
+
+"Whatever a man may think might be useful to him."
+
+"And what is your advice in the matter?"
+
+"Knowledge of languages, first; and then enough of the other sciences to act,
+in Plato's phrase, as a check-rein against eccentricities. Make no mistake —
+they are not necessary, but they are useful for traveling more efficiently.
+Of course, they are no help morally."
+
+"So then you declare flatly that these accomplishments do not help a man
+become better?"
+
+"Not at all. For a man must improve without them, though they have their
+place. We may catch the meaning through an interpreter, yet it is not useless
+to understand the words themselves, if we care about accuracy. Still, nothing
+stops us from becoming better without those accomplishments."
+
+**34.** "Well then, according to what you say, learned men have no advantage
+over other men in becoming better?"
+
+"What advantage could they have, when they are caught in the same delusion
+about the nature of goods as the unlearned, and are still ruled by their
+vices? For nothing stops a man from knowing languages and being an expert in
+every field of science, and still being drunken and lacking self-control, fond
+of money, unjust, treacherous — and even a fool."
+
+"Yes indeed! One can see many such!"
+
+"What advantage, then, could these men have in becoming better, merely because
+of their scientific accomplishments?"
+
+**35.** "Certainly none, according to what you say. But why then do they stay
+within the second enclosure, as if they still wished to approach true
+Culture?"
+
+"And what use to them is that nearness? For how often do you see later
+pilgrims arriving from the first enclosure, with its Lack of Self-Control and
+other evils, and passing them by to enter in to true Culture in the third
+enclosure, leaving those learned men behind! So what advantage have they? Are
+they not rather worse off — less open to impression, and harder to correct?"
+
+"How so?" I asked.
+
+"Why, because what is known by those in the second enclosure is never put
+into practice. As long as they cling to the speculative side of opinion, they
+cannot possibly take any practical step toward true Culture. Do you not see
+that, just as much as the more practical pilgrim, they have the chance to make
+use of the Opinions who lead out of the first enclosure? But are not Opinions
+useless without meeting Repentance, and without the resulting conviction that
+the culture they possess is a sham and a trap? Being satisfied with where they
+live, they never progress to salvation.
+
+"And you also, strangers — you must practice what I said until you have
+grasped its meaning. Often indeed will you have to study my instructions
+afresh, and never give up the sacred quest, putting all other matters second.
+If not, all you hear will remain useless."
+
+---
+
+## FIFTH: WHAT IS GOOD, AND WHAT IS EVIL?
+
+**36.** "Indeed we shall do so. But explain this to us: how is it that the
+things men receive from Luck — namely life, health, wealth, honor, children,
+victory, and more such — are not goods? And again, how is it that lacking them
+is not an evil? For what you have said seems to us to lack common sense and
+reliability."
+
+"Very well, come on!" he said. "Give me your views on what I shall ask you."
+
+"I shall most certainly do so," I said.
+
+"Well, if a man lives badly, is life a good to him?"
+
+"It would seem not," I said. "Rather, an evil."
+
+"How then could life be a good, if to him it is an evil?"
+
+"Well, I should say it was an evil to those who live badly, and a good to
+those who live well."
+
+"So then life might be both an evil and a good?"
+
+"So I said."
+
+**37.** "Come, do not hold such unlikely opinions. For how could anything be
+at the same time good and evil? Did you ever hear of anything at once useful
+and harmful, desired and scorned?"
+
+"That really is unlikely. But if living badly is an evil to the living man,
+why — for such a man — is not life itself an evil?"
+
+"Yes — but life and living badly are not the same thing. Or do you think so?"
+
+Neither do I, answered our guide. "The evil lies in living badly, not in life
+itself. For if life were an evil, it would be evil even to those who live
+righteously, in the degree that they are alive — if it were an absolute evil."
+
+"I agree with you."
+
+**38.** "Since, then, life belongs both to those who live badly and to those
+who live rightly, might it not be that life is neither a good nor an evil —
+just as cutting and burning are in themselves neither harmful nor healing to
+the sick? It all depends on the time and manner in which the patient is cut or
+burned. Is it not the same with life?"
+
+"Yes indeed, so it is."
+
+"Now consider it this way: which would you prefer — to live shamefully, or to
+die honorably, like a man?"
+
+"I would rather die honorably."
+
+"So then even dying can be no evil, since it is often more desirable than
+living?"
+
+"So it is."
+
+"Should we not think the same of health and sickness? For there are times
+when health is unbearable."
+
+"You speak the truth," I said.
+
+**39.** "Good! Let us consider wealth in the same way. As is often seen, there
+are plainly persons who possess wealth yet live badly and shamefully."
+
+"By Jupiter, there are many such! So then wealth does not help them to live
+righteously?"
+
+"Evidently not, for they themselves are evil. Culture, not wealth, gives
+virtue."
+
+"Very probably so — at least, according to your argument," I said grudgingly.
+
+"Surely!" he insisted. "How could wealth be an absolute good, since it does
+not always improve its owners?"
+
+"Clearly not."
+
+"Admit then that wealth is not at all advisable for those who do not know how
+to use it!"
+
+"I must say I think so!"
+
+"Now then, should that whose possession is often unbearable be considered an
+absolute good?"
+
+"By no means!"
+
+"Will not a man live well insofar as he knows how to use wealth well and
+wisely — and badly if not?"
+
+"What you say seems entirely true."
+
+**40.** "Well, it seems to me that this is the cause of men's restlessness and
+harm: they err in honoring things as goods, or scorning things as evils. They
+set value on things, and suppose that through things they can improve — or for
+the sake of things they commit any, even godless, acts. But this comes from
+ignorance of what the real good is. They do not know that no real goods come
+from evil means. Hence many are those who have piled up wealth through evil
+and shameful deeds — treason, robbery, murder, spying, theft, and other
+crimes."
+
+"So it is."
+
+**41.** "If then no good end can come from evil means, as is evident — and if
+wealth can come from evil deeds — then can wealth never be an absolute good?"
+
+"An evident consequence!"
+
+"But then, no one can reach righteousness through any evil action — any more
+than one can reach injustice or folly through good deeds. Besides, opposites
+cannot well live together in one and the same thing. Wealth, fame, victory,
+and other such outward goods do not shut out badness. So these things are
+neither goods nor evils. They are no more than outward applications of the
+inward principle: **wisdom alone is good, while folly is the only evil**."
+
+"It seems to me that you have proved your point."
+
+---
+
+## WORDS USED IN THIS BOOK
+
+A short list of the book's key terms, in plain English. (Guthrie's glossary
+gave the Greek words; the plain meanings below are the draft worker's.)
+
+- **Culture** — the training of character and mind taught in the Greek
+  schools. The book distinguishes *Sham Culture* — book-learning, rhetoric,
+  mathematics, the subjects where education begins — from *true Culture*, the
+  higher training that actually makes a person good.
+- **Delusion** — deceit; the power that misleads every human being.
+- **Good Genius** — a guiding, guardian spirit who watches over each soul.
+- **Happiness** — flourishing; doing and faring well, with a "good spirit."
+- **Luck** — chance, fortune — pictured as a blind goddess on a round stone.
+  Those she favors call her Good Fortune; those she strips call her Misfortune.
+- **Opinion** — belief; what people think. *False Opinions* mislead; *Right
+  Opinion* can lead a soul toward Culture; mere *Opinions* can introduce a
+  pilgrim to Culture but cannot enter Understanding themselves.
+- **Repentance** — remorse, regret; the turning point that can rescue a ruined
+  soul.
+- **Righteousness** — the just and right way of living.
+- **Learning / science** — study, book-knowledge. Useful as travel rations on
+  the road, but it cannot by itself make anyone good.
+- **Understanding** — pure knowledge; real understanding of what is truly
+  beneficial. (Guthrie called this "Scientific-Recognition," from the Greek
+  *epistêmê*.)
+- **Virtue** — excellence; the highest ideals a person can reach.
+
+---
+
+*End of the dialogue. Draft complete — awaiting Robert's G4 read-through.*
