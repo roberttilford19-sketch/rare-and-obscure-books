@@ -1,0 +1,1424 @@
+# DRAFT — NOT FOR PUBLICATION
+
+> **AI-assistance disclosure:** This front matter was produced with AI assistance
+> (Muse). All facts in it — dates, imprint, and edition details — were verified
+> against the named public-domain base below. Status: drafted, G1 self-audit
+> passed; the G4 read-through gate is still ahead. Nothing here has been
+> published, emailed, uploaded, or pushed anywhere.
+
+---
+
+# REFLECTIONS; OR, SENTENCES AND MORAL MAXIMS
+
+**François, Duc de La Rochefoucauld (1613–1680)**
+
+**Book 6 of the Boneyard Philosophy shelf — all 504 Maxims in clear modern English** (this front matter covers maxims 1–252 in file 01 and 253–504 in file 02)
+
+**DRAFT**
+
+---
+
+## Dedication
+
+To **François de La Rochefoucauld (1613–1680)** — French duke, Fronde rebel,
+soldier who watched the aristocratic world he was born into tear itself apart,
+then spent his salon years compressing what he had learned about human vanity
+into sentences sharp enough to cut.
+
+He drew his maxims from the life he had lived among the great, not from books
+alone; the fault he described, he insisted, was in mankind.
+
+---
+
+## Method statement
+
+This is a **draft** — a plain-English rendering, not a finished book.
+
+- **Base.** Every maxim here was rendered from the public-domain English
+  translation by **J. W. Willis Bund, M.A. LL.B., and J. Hain Friswell**,
+  *Reflections; or, Sentences and Moral Maxims* — imprint **Simpson Low, Son,
+  and Marston, 188, Fleet Street, London, 1871**, whose title page states it
+  was "Translated from the Editions of 1678 and 1827, with introduction,
+  notes, and some account of the author and his times." The imprint and year
+  were verified against the archived scan of this same translation on
+  archive.org (identifier `reflectionsorsen00laro`, 1898 reprint by
+  Sampson Low, Marston & Co., whose title page reads "Translated from the
+  Editions of 1678 and 1827"), cross-checked with Project Gutenberg eBook
+  #9105, which transcribes the 1871 title page in full.
+- **French source.** The French text behind the base is the **1678 5th
+  edition** — the last edition the author saw through the press, holding
+  **504 maxims**.
+- **Numbering.** Maxim numbers 1–252 in this file follow the **1678 edition's
+  standard numbering**, carried by the base translation. Maxim numbering varies
+  between editions: the 1665 1st edition carried fewer maxims in a different
+  order, and later editors have shuffled them. Where numbering differs, it is
+  noted — nothing here has been silently renumbered. (The base also prints, as
+  a separate supplement, maxims suppressed from the 1665/1666 editions,
+  numbered I–CXXV in Roman numerals, and prose "Reflections on Various
+  Subjects"; both are outside this file's scope.)
+- **What was done.** Each maxim was rewritten in plain, modern English —
+  clear enough for a humble peasant to read — keeping it as short and sharp
+  as the original. No "thee," "thou," or "thy." The translators' Victorian
+  footnotes, parallel quotations, and commentary were not carried over; only
+  the maxims themselves are rendered. Nothing was invented: every sentence
+  traces to the base text, with the French-checked exceptions noted in the
+  inline marks and the spot-check note below.
+
+- **French spot-check.** The base is Victorian and occasionally misses the 1678
+  French (e.g., rendering *l'intérêt* as "self," *l'ennui* as "indifference,"
+  *la vertu des femmes* as "women chaste"). Fifteen maxims in this file were
+  corrected to follow the 1678 French, each marked with an inline note naming
+  the base's reading and the French reading. The 1678 wording was verified
+  against the archive.org scan of the 5th edition (identifier
+  `bub_gb_R9brb0SKTbgC`, Claude Barbin, Paris, 1678), checked maxim by maxim
+  against its OCR. Where Bund/Friswell and the 1678 French agree, the base was
+  kept. Numbers themselves were also re-checked against the 1678 sequence; no
+  renumbering was needed in the 1–252 range, and no transcriber digit-typos
+  (like the "4ll." seen at 411 in the companion's lane) occur here.
+- **What was not done.** This draft makes no claim of being the first,
+  oldest, definitive, or complete English rendering. Many translations of
+  these maxims exist, and this is simply one more plain-English pass for the
+  shelf. It stops at draft; Robert Tilford's G4 read-through gate has not been
+  crossed, and nothing has been published, emailed, uploaded, or pushed.
+
+## Epigraph (from the 1678 edition, as printed in the base)
+
+*Our virtues are most frequently but vices disguised.*
+# DRAFT — NOT FOR PUBLICATION
+
+> **AI-assistance disclosure:** This draft was produced with AI assistance (Muse).
+> Every maxim was rendered from the public-domain Bund & Friswell 1871 English
+> base and re-checked against it; nothing has been invented. Status: drafted,
+> awaiting G1 self-audit; the G4 read-through gate is still ahead. Nothing here
+> has been published, emailed, uploaded, or pushed anywhere.
+
+# Reflections; or, Sentences and Moral Maxims
+
+**François, Duc de La Rochefoucauld (1613–1680)**
+
+**Maxims 1–252, in clear modern English — DRAFT**
+
+*Numbering follows the 1678 5th edition (504 maxims in all), via the base translation.*
+
+---
+
+**1.** What we call virtue is often just a mix of different deeds and different interests, arranged by luck or by our own effort; and it is not always courage that makes men brave, or chastity that makes women chaste.
+
+**2.** Self-love is the greatest of flatterers.
+
+**3.** Whatever has been discovered in the country of self-love, there are still many lands there that no one has explored.
+
+**4.** Self-love is more cunning than the most cunning man in the world.
+
+**5.** How long our passions last is no more in our power than how long our lives last.
+
+**6.** Passion often turns the cleverest man into a fool, and sometimes turns the biggest fool into a clever man.
+
+**7.** Great, dazzling deeds are painted by politicians as the result of great plans, when they are usually caused by mood and passion. The war between Augustus and Antony, put down to their ambition to rule the world, was probably just jealousy.
+
+**8.** The passions are the only advocates that always persuade. They are a natural art with rules that never fail; the plainest man with passion will persuade better than the most eloquent man without it.
+
+**9.** The passions have a kind of unfairness and self-interest in them that makes it dangerous to follow them; we should distrust them even when they look most trustworthy.
+
+**10.** In the human heart there is a constant making of new passions; the ruin of one is almost always the foundation of another.
+
+**11.** Passions often produce their opposites: miserliness sometimes leads to wastefulness, and wastefulness to miserliness; we are often stubborn from weakness and bold from fear.
+
+**12.** However carefully we hide our passions behind looks of piety and honor, they can always be seen through those veils.
+
+**13.** Our self-love bears the condemnation of our tastes more impatiently than the condemnation of our opinions.
+
+**14.** Men not only tend to forget favors and injuries; they even hate those who have done them a favor, and stop hating those who have injured them. Having to repay a favor or take revenge feels like a slavery they refuse to bear.
+
+**15.** The mercy of princes is often just policy to win the people's love.
+
+**16.** This mercy they make a virtue of often comes from vanity, sometimes from laziness, often from fear, and almost always from all three together.
+
+**17.** The moderation of happy people comes from the calm that good fortune gives their temper.
+
+**18.** Moderation comes from fear of stirring up the envy and contempt deserved by those drunk on good fortune; it is a vain show of strength of mind, and in short, the moderation of men at their highest is only a wish to seem greater than their fortune.
+
+**19.** We all have strength enough to bear the misfortunes of others.
+
+**20.** The steadiness of the wise is only the skill of hiding the turmoil in their hearts.
+
+**21.** Those condemned to death sometimes put on a steadiness and contempt of death that is only fear of facing it; you could say this steadiness and contempt are to their minds what the blindfold is to their eyes.
+
+**22.** Philosophy easily masters evils past and evils to come; but present evils master it.
+
+**23.** Few people know death; we only endure it, usually out of determination, and even out of stupidity and habit; and most men only die because they do not know how to stop themselves dying.
+
+**24.** When great men let themselves be crushed by long misfortune, they show us they were held up only by ambition, not by strength of mind; so that, vanity aside, heroes are made like other men.
+
+**25.** It takes greater virtues to bear good fortune than bad.
+
+**26.** Neither the sun nor death can be stared at without blinking.
+
+**27.** People are often proud of their passions, even the worst of them; but envy is a passion so timid and shamefaced that no one ever dares admit to it.
+
+**28.** Jealousy is in a way just and reasonable, since it aims to keep a good that is ours, or that we believe is ours; envy, on the other hand, is a rage that cannot bear the happiness of others.
+
+**29.** The harm we do does not draw as much persecution and hatred on us as our good qualities do.
+
+**30.** We have more strength than will; and it is often only as an excuse that we say things are impossible.
+
+**31.** If we had no faults, we would not take such pleasure in pointing out those of others.
+
+**32.** Jealousy feeds on doubt; the moment doubt turns to certainty, it ends or turns to rage.
+
+**33.** Pride loses nothing even when it throws vanity away; it always pays itself back.
+
+**34.** If we had no pride ourselves, we would not complain of the pride of others.
+
+**35.** Pride is much the same in all men; the only difference is the manner of showing it.
+
+**36.** It seems that nature, which so wisely fitted the organs of our body for our happiness, also gave us pride to spare us the pain of knowing our faults.
+
+**37.** Pride has a bigger share than kindness in our lectures to those who commit faults; we correct them not so much to mend them as to convince them that we ourselves are free of faults.
+
+**38.** We promise according to our hopes; we perform according to our fears.
+
+**39.** Self-interest speaks every language and plays every part, even the part of being unselfish.
+
+**40.** Self-interest blinds some and opens the eyes of others.
+
+**41.** Those who busy themselves too much with little things often become incapable of great ones.
+
+**42.** We do not have strength enough to follow all our reason.
+
+**43.** A man often thinks himself the leader when he is being led; while his mind aims at one goal, his heart quietly drags him toward another.
+
+**44.** Strength and weakness of mind are wrongly named; they are really only the good or lucky arrangement of our bodily organs.
+
+**45.** The whims of our temper are even more capricious than those of fortune.
+
+**46.** The attachment or indifference that philosophers have shown toward life is only the style of their self-love, which is no more open to argument than a taste in food or in colors.
+
+**47.** Our temper sets the price on every gift we receive from fortune.
+
+**48.** Happiness lies in the taste, not in the things; we are happy from having what we like, not from having what others like.
+
+**49.** We are never as happy or as unhappy as we imagine.
+
+**50.** Those who think they have merit convince themselves they are honored by being unhappy, so as to persuade others and themselves that they are worthy targets of fortune.
+
+**51.** Nothing should take away our satisfaction with ourselves so much as seeing that we disapprove at one time of what we approved at another.
+
+**52.** However different our fortunes look, there is a certain balancing of good and evil that makes them equal.
+
+**53.** Whatever great gifts nature gives, it is not she alone but fortune also that makes the hero.
+
+**54.** The contempt of riches among philosophers was only a hidden desire to get even with fortune for the injustice done to their merit, by despising the very goods fortune had denied them; it was a way to protect themselves from the disgrace of poverty, and a back road to the distinction they could not win by riches.
+
+**55.** Hatred of favorites is only love of favor. Envy at not having it consoles itself and softens its regret by despising those who have it; we refuse them our homage because we cannot take away from them what draws the homage of everyone else.
+
+**56.** To get established in the world, we do everything to look as if we were established.
+
+**57.** Although men pride themselves on their great deeds, those deeds come less often from a great plan than from chance.
+
+**58.** It seems our actions have lucky or unlucky stars, to which they owe much of the blame or praise given them.
+
+**59.** There are no misfortunes so bad that clever men cannot draw some advantage from them, nor good luck so good that fools cannot turn it to their harm.
+
+**60.** Fortune turns everything to the advantage of those she smiles on.
+
+**61.** The happiness or unhappiness of men depends as much on their dispositions as on their fortunes.
+
+**62.** Sincerity is openness of heart; it is found in very few people, and what we usually see is only a clever pretense to win the confidence of others.
+
+**63.** The dislike of lying is often a hidden ambition to make our words carry weight, and to give our conversation an air of religion.
+
+**64.** Truth does not do as much good in the world as its counterfeits do harm.
+
+**65.** There is no praise we have not heaped on prudence, and yet she cannot guarantee us even the smallest event.
+
+**66.** A clever man should manage his interests so that each comes in its turn. Our greed so often troubles us, making us chase so many things at once, that while we eagerly chase the least we miss the greatest.
+
+**67.** What grace is to the body, good sense is to the mind.
+
+**68.** Love is hard to define; all we can say is that in the soul it is a desire to rule, in the mind a sympathy, and in the body a hidden, delicate wish to possess what we love — plus many mysteries.
+
+**69.** If there is a pure love, free of mixture with our other passions, it is the one hidden at the bottom of the heart, of which we ourselves are unaware.
+
+**70.** No disguise can long hide love where it exists, or fake it where it does not.
+
+**71.** Few people would not be ashamed of being loved when they no longer love.
+
+**72.** If we judge love by most of its results, it looks more like hatred than friendship.
+
+**73.** We may find women who have never had an intrigue, but it is rare to find those who have had only one.
+
+**74.** There is only one kind of love, but there are a thousand different copies of it.
+
+**75.** Neither love nor fire can survive without constant movement; both stop living the moment they stop hoping or fearing.
+
+**76.** True love is like real ghosts: everyone talks about it, few have seen it.
+
+**77.** Love lends its name to countless dealings attributed to it, with which it has no more to do than the Doge of Venice has with everything done in Venice.
+
+**78.** The love of justice in most men is simply the fear of suffering injustice.
+
+**79.** Silence is the safest course for a man who distrusts himself.
+
+**80.** What makes us so changeable in our friendships is that the qualities of the soul are hard to know, while those of the mind are easy.
+
+**81.** We can love nothing that does not suit us, and we only follow our taste or pleasure when we put our friends before ourselves; yet only by that putting-first can friendship be true and perfect.
+
+**82.** Making peace with our enemies is only a wish to better our position, weariness of war, and fear of some unlucky accident.
+
+**83.** What men call friendship is merely a partnership of shared interests and an exchange of favors — in fact it is a trade in which self-love always expects to gain something.
+
+**84.** It is more shameful to distrust our friends than to be deceived by them.
+
+**85.** We often talk ourselves into loving people more powerful than we are, yet it is interest alone that makes our friendship; we do not give our hearts for the good we wish to do, but for the good we expect to receive.
+
+**86.** Our distrust of another man gives him license to deceive us.
+
+**87.** Men would not live long together in society if they were not each other's dupes.
+
+**88.** Self-love magnifies or shrinks the good qualities of our friends according to how satisfied we are with them, and we judge their merit by how they treat us.
+
+**89.** Everyone complains of his memory; no one complains of his judgment.
+
+**90.** In daily life we please more by our faults than by our good qualities.
+
+**91.** The biggest ambition looks least like ambition when it meets something utterly impossible.
+
+**92.** To undeceive a man who is full of his own merit does him as bad a turn as was done to the mad Athenian who believed all the ships coming into the harbor were his.
+*[The 1678 French reads "Détromper un homme préoccupé de son mérite" (to undeceive a man full of his own merit); the base's "deceived about his own merit" is looser. Followed the French.]*
+
+**93.** Old men love giving good advice as consolation for no longer being able to set bad examples.
+
+**94.** Great names drag down rather than lift those who do not know how to live up to them.
+
+**95.** The test of extraordinary merit is to see those who envy it most forced to praise it.
+
+**96.** A man may be ungrateful, but often the fault lies less with him than with his benefactor.
+
+**97.** We are wrong to think mind and judgment are two different things: judgment is only the reach of the mind's light. This light gets to the bottom of things; it notices all that can be noticed, and sees what looks invisible. So we must agree that it is the reach of the mind's light that produces all the effects we credit to judgment.
+
+**98.** Everyone praises his own heart; no one dares praise his own understanding.
+
+**99.** Politeness of mind is thinking decent and delicate thoughts.
+*[The 1678 French reads "des choses honnêtes & délicates" (decent things); the base says "chaste." Followed the French.]*
+
+**100.** Gallantry of mind is saying flattering things in an agreeable way.
+*[The 1678 French reads "dire des choses flatteuses" (saying flattering things); the base says "the most empty things." Followed the French.]*
+
+**101.** Ideas often flash into our minds more fully formed than we could make them with much labor.
+
+**102.** The head is always the dupe of the heart.
+
+**103.** Knowing your own mind does not mean knowing your own heart.
+
+**104.** Men and things each have their proper distance; to judge some rightly you must see them close, others you can only judge rightly from afar.
+
+**105.** A man whom chance has given sense is not a reasonable being. Only he is reasonable who understands, who distinguishes, who tests.
+
+**106.** To understand things rightly we must understand their details, and since that knowledge is almost endless, our knowledge is always shallow and imperfect.
+
+**107.** One kind of flirting is to boast that you never flirt.
+
+**108.** The head cannot long play the heart's part.
+
+**109.** Youth changes its tastes with the heat of its blood; age keeps its tastes from habit.
+
+**110.** Nothing is handed out so freely as advice.
+
+**111.** The more we love a woman, the readier we are to hate her.
+
+**112.** The blemishes of the mind, like those of the face, grow with age.
+
+**113.** There may be good marriages, but there are no delightful ones.
+
+**114.** We cannot bear being deceived by our enemies and betrayed by our friends, yet we are often content to be served so by ourselves.
+
+**115.** It is as easy to deceive ourselves without knowing it as to deceive others.
+
+**116.** Nothing is less sincere than the asking and giving of advice. The asker seems to honor his friend's opinion while really thinking of getting his friend to approve his own opinion and take responsibility for his conduct. The giver returns the trust placed in him with eager, unselfish zeal, though he is usually guided only by his own interest or reputation.
+
+**117.** The subtlest thing we do is to pretend blindness to traps we know are set for us. We are never so easily deceived as when we are trying to deceive.
+
+**118.** The resolve never to deceive often leaves us open to deception.
+
+**119.** We grow so used to disguising ourselves to others that at last we are disguised to ourselves.
+
+**120.** We often act treacherously more from weakness than from a settled plan.
+
+**121.** We often do good so that we may do evil without punishment.
+
+**122.** If we conquer our passions, it is more from their weakness than from our strength.
+
+**123.** If we never flattered ourselves, we would have little pleasure.
+
+**124.** The most deceitful people spend their lives denouncing deceit, so that they may use it on some great occasion for some great interest.
+
+**125.** Daily scheming marks a small mind; those who use it to protect themselves on one side usually leave themselves open on another.
+
+**126.** Cunning and treachery are the children of incapacity.
+
+**127.** The surest way to be deceived is to think yourself cleverer than others.
+
+**128.** Too much subtlety is false delicacy; true delicacy is solid subtlety.
+*[The 1678 French reads "La trop grande subtilité est une fausse délicatesse: & la véritable délicatesse est une solide subtilité"; the base twice renders "subtilité" as "cleverness." Followed the French.]*
+
+**129.** Sometimes it is enough to be blunt not to be fooled by a clever man.
+*[The 1678 French reads "Il suffit quelquefois d'être grossier" (to be crude/blunt); the base says "play the fool." Followed the French.]*
+
+**130.** Weakness is the only fault that cannot be cured.
+
+**131.** The least fault of women who give themselves to love is to love.
+
+**132.** It is far easier to be wise for others than to be wise for yourself.
+
+**133.** The only good copies are those that show us the ridiculousness of bad originals.
+*[The 1678 French reads "Les seules bonnes copies"; the base says "examples." Followed the French.]*
+
+**134.** We are never so ridiculous for the qualities we have as for those we pretend to have.
+*[The 1678 French reads "par les qualitez que l'on a" (by the qualities we have); the base says "habits." Followed the French.]*
+
+**135.** We sometimes differ from ourselves more widely than we differ from others.
+
+**136.** Some people would never have loved if they had never heard love talked about.
+
+**137.** When vanity is not prompting us, we say little.
+
+**138.** A man would rather speak ill of himself than say nothing.
+
+**139.** One reason we find so few people sensible and agreeable in conversation is that hardly anyone thinks more about answering what is said than about what he wants to say himself. The cleverest and politest are content to seem attentive, while you can see in their eyes and minds that they are wandering from what is being said and longing to get back to what they want to say. Instead of seeing that the worst way to persuade or please others is to try so hard to please ourselves, and that listening well and answering well are among the greatest charms in conversation.
+
+**140.** If it were not for the company of fools, a witty man would often be at a loss.
+
+**141.** We often boast that we are never bored, yet we are so conceited we do not see how often we bore others.
+
+**142.** As great minds are known by saying much in few words, so small minds are known by using many words to say nothing.
+
+**143.** It is more often our own feelings than their merit that makes us overpraise others, and when we praise them we want to draw their praise.
+
+**144.** We dislike praising, and we never praise without a motive. Praise is flattery — artful, hidden, delicate — which pleases the giver and the receiver differently. The one takes it as the reward of merit; the other gives it to show his fairness and knowledge.
+
+**145.** We often choose poisoned praise which, bouncing back on those we praise, exposes faults we could not have exposed otherwise.
+
+**146.** Usually we only praise to be praised.
+
+**147.** Few are wise enough to prefer useful blame to treacherous praise.
+
+**148.** Some blame is praise; some praise is blame.
+
+**149.** Refusing praise is only wanting to be praised twice.
+
+**150.** The wish to deserve praise strengthens our good qualities, and praise of wit, courage, and beauty tends to increase them.
+
+**151.** It is easier to govern others than to keep from being governed.
+
+**152.** If we never flattered ourselves, the flattery of others would not harm us.
+
+**153.** Nature makes merit, but fortune puts it to work.
+
+**154.** Fortune cures us of many faults that reason could not.
+
+**155.** There are people who disgust us with their abilities, and people who please us even with their faults.
+
+**156.** There are people whose whole merit is saying and doing silly things at the right time, who ruin everything if they change their manners.
+
+**157.** The fame of great men should always be judged by the means used to win it.
+
+**158.** Flattery is base coin, and only our vanity gives it currency.
+
+**159.** It is not enough to have great qualities; we must also know how to manage them.
+
+**160.** However brilliant an action, it should not be counted great unless it is the result of a great design.
+*[The 1678 French reads "l'effet d'un grand dessein" (the result of a great design/plan); the base says "great motive." Followed the French.]*
+
+**161.** A certain harmony should be kept between actions and ideas if we want to judge the effects they produce.
+
+**162.** The art of making the most of modest abilities wins praise, and often earns more reputation than real brilliance.
+
+**163.** Countless crafts look foolish whose secret motives are most wise and weighty.
+
+**164.** It is much easier to look fit for offices we do not hold than for those we do.
+
+**165.** Ability wins us the respect of good judges; luck wins us that of the crowd.
+
+**166.** The world rewards the appearance of merit more often than merit itself.
+
+**167.** Miserliness is more opposed to thrift than to generosity.
+
+**168.** However deceitful hope may be, she carries us pleasantly to the end of life.
+
+**169.** Laziness and fear keep us on the path of duty, but our virtue gets the praise.
+
+**170.** If a man acts rightly and honestly, it is hard to say whether it comes from integrity or from skill.
+
+**171.** As rivers are lost in the sea, so virtues are lost in self-interest.
+*[The 1678 French reads "Les vertus se perdent dans l'intérêt" (virtues are lost in self-interest); the base says "in self." Followed the French.]*
+
+**172.** If we look closely at the effects of boredom, we find it makes us miss more duties than self-interest does.
+*[The 1678 French reads "les divers effets de l'ennui" (the effects of boredom); the base says "indifference." Followed the French.]*
+
+**173.** There are different kinds of curiosity: one comes from interest, which makes us want to know everything that may profit us; another comes from pride, from wanting to know what others do not.
+
+**174.** It is far better to train our minds to bear the ills we have than to brood over those that may come.
+
+**175.** Constancy in love is a constant inconstancy, which fastens our heart on all the qualities of the person we love in turn, preferring now one, now another. This constancy is only inconstancy fixed and confined to the same person.
+
+**176.** There are two kinds of constancy in love: one comes from constantly finding new things to love in the beloved; the other from making constancy a point of honor.
+
+**177.** Perseverance deserves neither blame nor praise, since it is only the continuance of tastes and feelings we can neither make nor destroy.
+
+**178.** What makes us like new studies is not so much weariness of the old or love of change as the wish to be admired by those who know more than we do, and the hope of advantage over those who know less.
+
+**179.** We sometimes complain of our friends' fickleness to excuse our own in advance.
+
+**180.** Our repentance is not so much sorrow for the harm we have done as fear of the harm that may come to us.
+
+**181.** One kind of inconstancy comes from lightness or weakness of mind and makes us take up everyone's opinion; another, more excusable kind comes from being sick of things.
+
+**182.** Vices go into the making of virtues as poison goes into medicines. Prudence gathers and blends the two and makes them useful against the ills of life.
+
+**183.** To do virtue credit, we must admit that the worst misfortunes of men are those they fall into through their crimes.
+
+**184.** We confess our faults to repair, by our sincerity, the damage they have done us in the opinion of others.
+
+**185.** There are heroes of evil as well as heroes of good.
+
+**186.** We do not despise all who have vices, but we do despise all who have no virtues.
+
+**187.** The name of virtue is as useful to our interest as the name of vice.
+
+**188.** The health of the mind is no more certain than that of the body; when the passions seem farthest away we are in as much danger of infection as of falling ill when we are well.
+
+**189.** Nature seems to have fixed, at a man's birth, the limits of his virtues and his vices.
+
+**190.** Great men should not have great faults.
+
+**191.** We may say vices lodge with us through life like innkeepers we stop with in turn, and if we traveled the road twice I doubt our experience would make us avoid them.
+
+**192.** When our vices leave us, we flatter ourselves that we have left them.
+
+**193.** There are relapses in diseases of the mind as in those of the body; what we call a cure is often only a pause or a change of disease.
+
+**194.** Defects of the mind are like wounds of the body. Whatever care we take to heal them, the scars remain, and there is always danger of their reopening.
+
+**195.** The reason we so often fail to give up a single vice is that we have so many.
+
+**196.** We easily forget the faults known only to ourselves.
+
+**197.** There are men of whom we can never believe evil until we have seen it; yet there are very few in whom we would be surprised to see it.
+
+**198.** We exaggerate the glory of some men to lessen that of others; we would praise Conde and Turenne far less if we did not want to blame them both.
+
+**199.** The wish to look clever often keeps us from being so.
+
+**200.** Virtue would not go far if vanity did not walk beside her.
+
+**201.** He who thinks he can satisfy the world deceives himself greatly, but he who thinks the world cannot be satisfied with him deceives himself even more.
+
+**202.** Falsely honest men are those who hide their faults from themselves and others; truly honest men are those who know their faults perfectly and confess them.
+
+**203.** The true gentleman is the man who is ruffled by nothing.
+*[The 1678 French reads "Le vray honneste homme est celuy qui ne se pique de rien" (the true gentleman); the base says "He is really wise." Followed the French.]*
+
+**204.** The sternness of women is a dress and a paint they add to their beauty.
+*[The 1678 French reads "La sévérité des femmes est un ajustement & un fard" (severity — an adornment and a paint); the base says "coldness... a balance and burden." Followed the French.]*
+
+**205.** Virtue in women is often the love of reputation and of a quiet life.
+
+**206.** He is a truly good man who always wants to bear the inspection of good men.
+
+**207.** Folly follows us at every stage of life. If a man looks wise, it is only because his folly suits his age and fortune.
+
+**208.** There are foolish people who know their folly and use it skillfully.
+
+**209.** Whoever lives without folly is not as wise as he thinks.
+
+**210.** Growing old, we become more foolish — and more wise.
+
+**211.** Some people are like farces: praised for a time, however foolish and tasteless.
+
+**212.** Most people judge men only by success or by fortune.
+
+**213.** Love of glory, fear of shame, the plan of making a fortune, the wish to make life pleasant, and the wish to run others down are often the causes of that bravery so praised among men.
+*[The 1678 French reads "le dessein de faire fortune" (the plan to make a fortune); the base says "greed of fortune." Followed the French.]*
+
+**214.** Courage in common soldiers is a dangerous way of earning a living.
+
+**215.** Perfect bravery and sheer cowardice are two extremes rarely found. Between them lies a vast space holding every other kind of courage, as different as faces and tempers. Men will expose themselves freely at the start of a fight and slacken if it lasts. Some are content to satisfy honor and do little more. Some are not always masters of their fear. Some are seized by panic; others charge because they dare not stay at their posts. Some grow bolder in small dangers and are readied for greater ones. Some will face a sword cut and flinch from a bullet; others fear bullets little and dread crossing swords. All these kinds of courage agree in one thing: night, by increasing fear and hiding brave or cowardly deeds, lets men spare themselves. And more generally, we meet no man who does all he would have done if he were sure of escaping unhurt; so the fear of death always takes something from courage.
+
+**216.** Perfect courage is doing without witnesses what you would do before all the world.
+
+**217.** Fearlessness is an extraordinary strength of soul that lifts it above the troubles, disorders, and feelings that the sight of great dangers can stir in it; by this strength heroes keep a calm face and keep their reason and freedom in the most startling and terrible accidents.
+
+**218.** Hypocrisy is the homage vice pays to virtue.
+
+**219.** Most men expose themselves in battle enough to save their honor; few want to do more than enough, or more than is needed to make their plan succeed.
+
+**220.** Vanity, shame, and above all temperament often make the courage of men and the virtue of women.
+*[The 1678 French reads "font souvent la valeur des hommes & la vertu des femmes" (the courage of men and the virtue of women); the base says "men brave and women chaste." Followed the French.]*
+
+**221.** We do not want to lose our lives; we do want to gain glory, and this makes brave men show more skill and cleverness in avoiding death than rogues show in saving their fortunes.
+
+**222.** Few people reach the first approach of old age without showing where body or mind is beginning to fail.
+
+**223.** Gratitude is like the good faith of merchants: it keeps trade going, and we do not pay because it is just to pay our debts, but because it makes it easier to find people who will lend.
+
+**224.** Not all who pay the debts of gratitude can flatter themselves that they are grateful.
+
+**225.** What makes our reckoning of gratitude go wrong is that the pride of the giver and the pride of the receiver cannot agree on the value of the favor.
+
+**226.** Too much hurry to pay off an obligation is a kind of ingratitude.
+
+**227.** Lucky people are bad at correcting their faults; they always think they are right when fortune backs up their vice or folly.
+
+**228.** Pride will not owe; self-love will not pay.
+
+**229.** The good we have received from a man should make us excuse the wrong he does us.
+
+**230.** Nothing is so catching as example, and we never do great good or evil without producing more of the same. We copy good deeds from rivalry, and bad ones from the evil in our nature, which shame keeps locked up until example sets it free.
+
+**231.** It is great folly to want only to be wise.
+
+**232.** Whatever excuse we give for our griefs, it is often only interest or vanity that causes them.
+*[The 1678 French reads "ce n'est souvent que l'intérêt & la vanité" (it is often only self-interest and vanity); the base drops "often." Followed the French.]*
+
+**233.** There are different kinds of hypocrisy in grief. In one, under the pretext of weeping for someone dear to us, we weep for ourselves; we miss her good opinion of us, we mourn the loss of our comfort, our pleasure, our standing. So the dead get the credit for tears shed for the living. I call this a kind of hypocrisy that deceives itself. There is another kind, less innocent because it deceives the whole world: the grief of those who aspire to the glory of a noble and endless sorrow. After time, which swallows all, has worn away the sorrow they had, they still stubbornly display their tears, sighs, and groans, wear a solemn face, and try to convince everyone by all they do that their grief will end only with their life. This sad and painful vanity is commonly found in ambitious women. Since their sex shuts them out of every road to glory, they try to make themselves famous by showing an inconsolable grief. There is yet another kind of tears, from small causes, that flow easily and stop as easily. One weeps to earn a name for tenderness, weeps to be pitied, weeps to be wept for — in short, one weeps to avoid the disgrace of not weeping.
+
+**234.** It is more often from pride than from ignorance that we stubbornly oppose the opinions of the day; we find the first places taken, and we do not want to be last.
+
+**235.** We are easily comforted for our friends' misfortunes when they let us show our tenderness for them.
+
+**236.** It seems even self-love can be the dupe of kindness and forget itself when we work for others. And yet it is only taking the shortest road to its goal — taking interest under the pretense of giving, in fact winning everyone over in a subtle and delicate way.
+
+**237.** No one should be praised for his goodness who has not strength enough to be bad. All other goodness is too often only laziness or weakness of will.
+
+**238.** It is less dangerous to do most men wrong than to do them too much good.
+
+**239.** Nothing flatters our pride so much as the confidence of the great, because we take it as the fruit of our worth, forgetting that it is usually just vanity, or the inability to keep a secret.
+
+**240.** We may say of good looks, as distinct from beauty, that they are a symmetry with no rules, a secret harmony of features with each other and with the color and appearance of the person.
+
+**241.** Flirting is at the bottom of woman's nature, though not all practice it; some are held back by fear, others by sense.
+
+**242.** We often bore others when we think we could not possibly bore them.
+
+**243.** Few things are impossible in themselves; what fails us more often than the means is the will to apply them.
+
+**244.** The highest ability is knowing the value of things.
+
+**245.** There is great ability in knowing how to hide your ability.
+
+**246.** What looks like generosity is often ambition in disguise, scorning small gains to chase bigger ones.
+
+**247.** The loyalty of most men is merely an invention of self-love to win trust: a way to rise above others and become the keeper of important secrets.
+
+**248.** Magnanimity despises all to win all.
+
+**249.** There is as much eloquence in a speaker's voice, eyes, and bearing as in his choice of words.
+
+**250.** True eloquence is saying all that should be said, not all that could be said.
+
+**251.** Some people's faults become them; other people's very virtues disgrace them.
+
+**252.** It is as common to change your tastes as it is rare to change your inclinations.
+
+---
+
+*End of Maxims 1–252. A companion draft covers 253–504.*
+# DRAFT — La Rochefoucauld, *Maxims* 253–504
+
+> **DRAFT — NOT FOR PUBLICATION. REVISION DRAFT ONLY.**
+> Nothing in this file is finished, authorized, or cleared for any use beyond
+> Robert Tilford's own draft shelf. It stops at the G1 self-audit: it must not
+> cross the G4 read-through gate, and it must not be published, emailed,
+> uploaded, or pushed anywhere without Robert's explicit word on that exact action.
+
+**AI-assistance disclosure:** This draft was produced with AI assistance
+(Muse, built by Meta, running on Muse — subagent draft worker). Every maxim
+below is a modern-English rendering of a public-domain source; the assistant
+wrote the renderings and ran the G1 self-audit. No human authorship is claimed
+for the wording here beyond the source text it renders. Any onward use needs
+Robert's explicit word.
+
+**Method note (exact base):**
+- François, duc de La Rochefoucauld, *Reflections; or Sentences and Moral
+  Maxims*, translated by J. W. Willis Bund, M.A. LL.B., and J. Hain Friswell.
+- Imprint verified from the title page reproduced in the source scan:
+  **Simpson Low, Son, and Marston, 188 Fleet Street, London, 1871.** The
+  translators' title page states the work is "Translated from the Editions of
+  1678 and 1827." Source scan: archive.org identifier
+  `reflectionsorsen09105gut` (Project Gutenberg eBook #9105 mirror). A second
+  archive.org item, `reflectionsorsen00laro`, is the 1898 Sampson Low, Marston
+  & Co. reprint of the same translation — the wording used here follows the
+  1871 text.
+- The 1871 Bund & Friswell translation is public domain (published 1871;
+  translators d. 1878 and 1928). The French source is the 1678 5th edition,
+  the author's final edition.
+- **Numbering:** the maxim numbers below are the 1678 edition's standard
+  numbering (the run of 504), as carried by Bund & Friswell. Where the 1871
+  text's numbering had a print/scan artifact — maxim 411 appears in the
+  digital text as "4ll." — the standard number 411 is used and the artifact is
+  noted in the audit log. No silent renumbering anywhere.
+- The translators' footnotes, quotations, and cross-references are omitted;
+  only the maxims themselves are rendered.
+- Rendering rule: clear modern English a humble peasant could understand —
+  no thee/thou/thy, no padding. Each maxim stands as a sharp one-liner (No.
+  504 is the closing essay and is given as one compact paragraph, faithful to
+  the argument's turns).
+- One correction noted at No. 395: Bund & Friswell's English there does not
+  match the 1678 French sense; the rendering follows the French.
+- No claim of first/oldest/definitive/complete is made or implied.
+
+**Scope:** Maxims 253–504 only. A companion draft covers 1–252 with front
+matter.
+
+---
+
+**253.** Self-interest puts every kind of virtue and vice to work.
+
+**254.** Humility is often a fake submission, used to shove others aside. It is
+one of pride's tricks: bring yourself low to raise yourself high. Pride changes
+its shape a thousand ways, and never deceives better than when it hides under
+humility.
+
+**255.** Every feeling has its own tone of voice, its gestures and its looks.
+That fit — good or bad, pleasant or unpleasant — is what makes people agreeable
+or disagreeable.
+
+**256.** In every trade people act a part and put on a look to seem what they
+want to be. The world is nothing but a cast of actors.
+
+**257.** Solemn gravity is a mysterious bearing of the body, invented to hide an
+empty mind.
+
+**258.** Good taste comes more from judgment than from cleverness.
+
+**259.** The joy of love is in loving: we are happier in the passion we feel than
+in the one we inspire.
+
+**260.** Politeness is just a wish to get politeness back, and to be thought
+polite.
+
+**261.** The usual raising of young people is a second self-love planted in them.
+
+**262.** No passion is ruled by self-love as powerfully as love — and we are
+always readier to wreck the peace of the one we love than our own.
+
+**263.** What we call generosity is often just the vanity of giving: we like the
+giving more than what we give.
+
+**264.** Pity is often our own troubles seen in other people's troubles. It is a
+careful preview of the troubles we may fall into ourselves. We help others so
+others will help us when it happens to us — and the favors we do are really
+favors we give ourselves in advance.
+
+**265.** A narrow mind breeds stubbornness, and we don't easily believe what we
+can't see.
+
+**266.** We fool ourselves if we think strong passions like ambition and love
+can beat the rest. Idleness, faint as she looks, rarely fails to become the
+mistress of the house: she quietly takes over every plan and action of life,
+and wears away both passions and virtues without being noticed.
+
+**267.** Jumping to believe the worst without looking into it properly is pride
+and laziness at work. We want to find someone guilty, and we don't want the
+trouble of examining the crime.
+
+**268.** We credit judges with the lowest motives, and yet we stake our name and
+reputation on the judgment of men — men who, from jealousy, bias, or lack of
+sense, are all set against us. And it is only to get these men to decide in our
+favor that we risk our peace and our lives in so many ways.
+
+**269.** No one is clever enough to know all the harm he does.
+
+**270.** One honor won is a pledge for more to come.
+
+**271.** Youth is a constant intoxication — the fever of reason.
+
+**272.** Nothing should humble people who have earned great praise so much as
+the thought of the cheap tricks they used to get it.
+
+**273.** There are people the world approves of whose only merit is the vices
+they put to use in the business of life.
+
+**274.** Novelty is to love what the blossom is to the fruit: it gives a shine
+that fades fast and never comes back.
+
+**275.** Natural goodness, for all its show of being plain to see, is often
+smothered by the smallest self-interest.
+
+**276.** Absence kills small passions and feeds big ones — like wind blowing out
+a candle and blowing up a fire.
+
+**277.** Women often think they love when they don't love. The bustle of a love
+affair, the stir of feeling it brings, the natural pull toward the pleasure of
+being loved, the difficulty of saying no — these persuade them they feel a real
+passion when it's only flirtation.
+
+**278.** What makes us so often fed up with the people who do our business for
+us is that they almost always drop their friends' interest for the business's
+interest — because they want the honor of succeeding at what they took on.
+
+**279.** When we play up how tender our friends are toward us, it's often less
+from gratitude than from wanting to show off our own merit.
+
+**280.** The praise we give newcomers comes from the envy we bear those already
+established.
+
+**281.** Pride, which stirs envy up, often serves to cool it down.
+
+**282.** Some lies wear disguise so well they look like truth — we'd judge badly
+if we didn't let ourselves be fooled.
+
+**283.** Sometimes knowing how to use good advice takes no less skill than
+giving it.
+
+**284.** There are wicked people who would be much less dangerous if they had
+no goodness in them at all.
+
+**285.** The word says it: magnanimity is pride with good sense — the noblest
+way of taking praise.
+
+**286.** You can't love a second time those you have truly stopped loving.
+
+**287.** A quick mind gives us fewer ways to work the same subject than a slow
+mind does: lack of sense makes us stall at every thought imagination offers,
+and keeps us from spotting the best one at first.
+
+**288.** There are troubles and sicknesses that remedies only make worse at
+certain times; true skill is knowing when it's dangerous to use them.
+
+**289.** Studied simplicity is polished fraud.
+
+**290.** There are as many faults of temper as of mind.
+
+**291.** A man's merit, like the crops, has its season.
+
+**292.** You can say of a temper what you can of many buildings: it has different
+faces — some pleasant, some not.
+
+**293.** Moderation can't take credit for standing up to ambition and beating
+it — the two never meet. Moderation is the laziness and sloth of the soul;
+ambition is its fire and heat.
+
+**294.** We always like those who admire us; we don't always like those we
+admire.
+
+**295.** It's just as well we don't know everything we want.
+
+**296.** It's hard to love those we don't respect, but no less hard to love those
+we respect much more than ourselves.
+
+**297.** The body's humors run a common course by a common rule, and work on
+our will without our noticing. They move together, one after another, and
+quietly take over — so that, without our seeing it, they become a large part
+of everything we do.
+
+**298.** Most people's gratitude is just a secret wish for bigger favors.
+
+**299.** Almost everyone enjoys paying small debts; many show gratitude for
+little things, but hardly anyone isn't ungrateful for big favors.
+
+**300.** There are follies as catching as fevers.
+
+**301.** Many people scorn wealth; few know how to give it away.
+
+**302.** Only in small things are we usually bold enough not to trust
+appearances.
+
+**303.** No good quality credited to us surprises us — we already knew.
+
+**304.** We can forgive people who bore us; we can't forgive the people we bore.
+
+**305.** Self-interest, blamed for all our wrongdoing, should often be praised
+for our good deeds.
+
+**306.** We find very few ungrateful people while we still have favors to give.
+
+**307.** It's as proper to boast when alone as it is silly to boast in company.
+
+**308.** Moderation was made a virtue to clip the ambition of the great, and to
+comfort ordinary people for their small fortune and equally small ability.
+
+**309.** Some people are doomed to be fools — they commit follies not only by
+choice, but because fortune forces them to.
+
+**310.** Sometimes life throws accidents at us, and getting out of them neatly
+takes a little folly.
+
+**311.** If some men's folly has never shown, it's because nobody ever looked
+for it closely.
+
+**312.** Lovers never tire of each other — they always talk about themselves.
+
+**313.** How is it our memory is good enough to keep the smallest thing that
+happens to us, but not good enough to remember how often we've told it to the
+same person?
+
+**314.** The huge delight we take in talking about ourselves should warn us that
+our listeners don't share it.
+
+**315.** What usually keeps us from opening our hearts to our friends isn't
+distrust of them — it's distrust of ourselves.
+
+**316.** Weak people can't be sincere.
+
+**317.** It's a small misfortune to do a favor for an ungrateful man; but it's
+unbearable to owe a favor to a scoundrel.
+
+**318.** There are ways to cure a fool of his folly, but none to straighten a
+twisted spirit.
+
+**319.** If we let ourselves dwell on their faults, we can't long keep the
+feelings we owe our friends and benefactors.
+
+**320.** Praising princes for virtues they don't have is just insulting them
+without risk.
+
+**321.** We're closer to loving those who hate us than those who love us more
+than we want.
+
+**322.** Only those who fear being despised are despicable.
+
+**323.** Our wisdom is as much at fortune's mercy as our possessions.
+
+**324.** There's more self-love than love in jealousy.
+
+**325.** We often comfort ourselves with how small our troubles are, when reason
+isn't strong enough to comfort us.
+
+**326.** Ridicule disgraces more than disgrace itself.
+
+**327.** We own up to small faults to convince others we have no big ones.
+
+**328.** Envy is harder to make peace with than hatred.
+
+**329.** We sometimes think we hate flattery — we only hate the way it's done.
+
+**330.** We forgive in proportion to how much we love.
+
+**331.** It's harder to stay faithful to a mistress when you're happy than when
+she treats you badly.
+
+**332.** Women don't know all their powers of flirtation.
+
+**333.** Women can't be fully severe unless they hate.
+
+**334.** Women give up flirtation harder than love.
+
+**335.** In love, lying almost always goes further than distrust.
+
+**336.** There's a kind of love whose very excess forbids jealousy.
+
+**337.** There are good qualities the way there are senses — those who lack them
+can neither see nor understand them.
+
+**338.** When our hatred is too bitter, it puts us below the people we hate.
+
+**339.** We value our luck, good or bad, only in proportion to our self-love.
+
+**340.** Most women's cleverness strengthens their folly more than their reason.
+
+**341.** The fire of youth is no more a threat to our safety than the chill of
+age.
+
+**342.** The accent of our homeland lives in the heart and mind as much as on
+the tongue.
+
+**343.** To be a great man you have to know how to profit from every turn of
+fortune.
+
+**344.** Most men, like plants, have hidden qualities that chance brings to
+light.
+
+**345.** Opportunity shows us to others, but even more to ourselves.
+
+**346.** If a woman can't control her temper, there's no controlling her mind
+or heart.
+
+**347.** We hardly find anyone sensible except those who agree with us.
+
+**348.** When you love, you doubt even what you most believe.
+
+**349.** The greatest miracle of love is wiping out flirtation.
+
+**350.** We hate so bitterly the people who deceive us because they think
+themselves cleverer than we are.
+
+**351.** It's hard work breaking with someone when you're no longer in love.
+
+**352.** We're almost always bored with people we have no reason to be bored
+with.
+
+**353.** A gentleman may love like a madman, but not like a beast.
+
+**354.** Some flaws, well dressed up, shine like virtue itself.
+
+**355.** Sometimes we lose friends and our regret is bigger than our grief;
+sometimes our grief is bigger than our regret.
+
+**356.** As a rule we only praise warmly the people who admire us.
+
+**357.** Small minds are wounded too deeply by small things; great minds see
+everything and aren't even hurt.
+
+**358.** Humility is the true mark of Christian virtues: without it we keep all
+our faults, and pride only covers them — to hide them from others, and often
+from ourselves.
+
+**359.** Cheating should kill love, and we shouldn't be jealous when we have
+real cause to be. Anyone worth loving is bound to give cause for jealousy.
+
+**360.** We're more humiliated by the smallest cheating against us than by our
+biggest cheating against others.
+
+**361.** Jealousy is always born with love, but it doesn't always die with it.
+
+**362.** Most women don't mourn their dead lovers out of love — they mourn to
+show they were worth loving.
+
+**363.** The wrongs we do others hurt us less than the wrongs we do ourselves.
+
+**364.** We know well enough it's bad taste to talk about our wives; we don't
+know as well that it's the same to talk about ourselves.
+
+**365.** Some virtues turn into vices when they come from nature, and others,
+once learned, are never perfect. For example, reason should teach us how to
+manage our money and our trust, while nature should have given us kindness and
+courage.
+
+**366.** However much we distrust the honesty of the people we talk to, we
+always believe they're more honest with us than with anyone else.
+
+**367.** Few virtuous women aren't tired of playing the part.
+
+**368.** Most good women are like buried treasure: safe, because nobody has dug
+for them.
+
+**369.** The violence we do ourselves to escape love is often crueler than the
+cruelty of the ones we love.
+
+**370.** Not many cowards know the full extent of their fear.
+
+**371.** It's usually the loved one's fault for not seeing when love is over.
+
+**372.** Most young people think they're natural when they're only rude and
+boorish.
+
+**373.** Some tears, shed after deceiving others, end up deceiving ourselves.
+
+**374.** If we think we love a woman for her own sake, we're fooling ourselves
+badly.
+
+**375.** Ordinary men usually condemn whatever is beyond them.
+
+**376.** True friendship kills envy; true love kills flirtation.
+
+**377.** The biggest mistake of sharp judgment isn't falling short — it's going
+too far.
+
+**378.** We can give advice, but we can't give people the will to follow it.
+
+**379.** As our merit fades, so does our taste.
+
+**380.** Fortune shows up our virtues and vices the way light shows up objects.
+
+**381.** The struggle to stay faithful to someone we love is barely better than
+cheating.
+
+**382.** Our actions are like a game of end-rhymes: the last words are set, and
+each person fills in the verse to suit himself.
+
+**383.** The urge to talk about ourselves, and to show our faults in the best
+light, makes up a big part of our honesty.
+
+**384.** The only thing we should be surprised at is that we can still be
+surprised.
+
+**385.** It's just as hard to be satisfied with too much love as with too little.
+
+**386.** Nobody is wrong more often than people who won't allow themselves to be
+wrong.
+
+**387.** A fool doesn't have what it takes to be good.
+
+**388.** If vanity doesn't knock all the virtues flat, at least it makes them
+stagger.
+
+**389.** What makes other people's vanity unbearable is that it wounds our own.
+
+**390.** We give up our interests more easily than our tastes.
+
+**391.** Fortune looks blind to no one so much as to those she's done nothing
+for.
+
+**392.** Handle fortune like your health: enjoy it when it's good, be patient
+when it's bad, and never take strong medicine except in an emergency.
+
+**393.** Awkwardness sometimes wears off in camp, never at court.
+
+**394.** A man is often cleverer than one other man, but not cleverer than all
+men put together.
+
+**395.** It hurts less to be fooled by someone we love than to have the wool
+pulled from our eyes. *(Bund & Friswell's English here — "than on being
+deceived" — misses the 1678 French "que d'en être détrompé," being
+undeceived; the rendering follows the French.)*
+
+**396.** We keep our first lover a long time — if we don't get a second.
+
+**397.** We don't have the nerve to say flat out that we have no faults and
+our enemies have no good points — but we're not far from believing it.
+
+**398.** Of all our faults, the one we admit most easily is laziness: we figure
+it ruins all our virtues, and that without killing them outright it at least
+puts them to sleep.
+
+**399.** There's a kind of greatness that doesn't depend on fortune: a certain
+manner that sets us apart and seems to mark us out for great things. It's the
+value we quietly put on ourselves. That's what wins other people's respect,
+and it usually lifts us above them more than birth, rank, or even merit.
+
+**400.** There can be talent without a position, but no position without some
+kind of talent.
+
+**401.** Rank is to merit what clothes are to a pretty woman.
+
+**402.** What you find least in flirtation is love.
+
+**403.** Fortune sometimes uses our faults to lift us up — and there are bores
+whose services would go unrewarded if we didn't pay for their absence.
+
+**404.** Nature seems to have hidden talents and abilities at the bottom of our
+hearts that we don't know about. Only our passions can bring them to light —
+and sometimes they show us things truer and finer than any skill could.
+
+**405.** We come to each stage of life as beginners, and often, for all our
+years, we lack experience.
+
+**406.** Flirts make it a point of honor to be jealous of their lovers — to hide
+their envy of other women.
+
+**407.** The tricksters who caught us never look as foolish to us as we look to
+ourselves when someone else catches us.
+
+**408.** The most dangerous folly of old people who were once lovable is
+forgetting they no longer are.
+
+**409.** We'd often be ashamed of our very best actions if the world could see
+the motives behind them.
+
+**410.** The hardest work of friendship isn't showing our faults to a friend —
+it's showing him his own.
+
+**411.** Few of our faults are as bad as the tricks we use to hide them.
+
+**412.** Whatever disgrace we've earned, it's almost always in our power to
+rebuild our name.
+
+**413.** A man with only one kind of wit can't please for long.
+
+**414.** Fools and madmen see nobody's wit but their own.
+
+**415.** Wit sometimes lets us get away with being rude.
+
+**416.** Liveliness that grows in old age is close kin to folly.
+
+**417.** In love, the fastest cure is always the best.
+
+**418.** Young women who don't want to look like flirts, and old men who don't
+want to look ridiculous, shouldn't talk about love as something they have a
+stake in.
+
+**419.** We can look big in a job beneath us, but we more often look small in a
+job above us.
+
+**420.** We often mistake being beaten down for being steadfast in trouble: we
+take our hits without facing them, like cowards who let themselves be killed
+rather than fight.
+
+**421.** Conceit causes more talk than wit.
+
+**422.** Every passion makes us do wrong things; love alone makes us ridiculous.
+
+**423.** Few people know how to be old.
+
+**424.** We often take credit for the opposite of the vices we have — when weak,
+we boast of our stubbornness.
+
+**425.** Sharp judgment has a hint of fortune-telling in it, and nothing flatters
+our vanity more.
+
+**426.** Novelty and old habit, opposites as they are, both blind us to our
+friends' faults.
+
+**427.** Most friends put us off friendship; most of the devout put us off
+devotion.
+
+**428.** We easily forgive our friends the faults we don't see.
+
+**429.** Women in love forgive big indiscretions more readily than small
+cheatings.
+
+**430.** In the old age of love, as in the old age of life, we go on living for
+the troubles, though no longer for the pleasures.
+
+**431.** Nothing stops us being natural so much as wanting to look natural.
+
+**432.** Praising good deeds warmly is, in a way, taking part in them.
+
+**433.** The surest sign of being born with great qualities is being born
+without envy.
+
+**434.** When our friends have fooled us, we owe their friendship only
+indifference — but we always owe their misfortunes pity.
+
+**435.** Luck and temper rule the world.
+
+**436.** It's far easier to know men than to know man.
+
+**437.** Don't judge a man's worth by his great talents — judge by the use he
+makes of them.
+
+**438.** There's a lively kind of gratitude that not only pays off favors
+received, but by returning the favor like a payment, puts our friends in our
+debt.
+
+**439.** We'd earnestly want very few things if we clearly knew what we wanted.
+
+**440.** Most women are so little drawn to friendship because friendship is flat
+after love.
+
+**441.** In friendship as in love, we're often happier not knowing than knowing.
+
+**442.** We try to make a virtue of the vices we're too lazy to fix.
+
+**443.** The strongest passions give us some rest; vanity never leaves us alone.
+
+**444.** Old fools are bigger fools than young fools.
+
+**445.** Weakness is a worse enemy of virtue than vice.
+
+**446.** What makes the pain of shame and jealousy so sharp is that vanity can't
+help us bear it.
+
+**447.** Propriety is the least of all laws, and the most obeyed.
+
+**448.** A well-trained mind has less trouble obeying an ill-trained mind than
+guiding one.
+
+**449.** When fortune surprises us with a big post — without leading us up to
+it bit by bit, or raising our hopes — it's nearly impossible to fill it well
+and look worthy of it.
+
+**450.** Our pride is often fed by what we cut out of our other faults.
+
+**451.** No fools so tiresome as fools with a little wit.
+
+**452.** Nobody believes he's behind, in every way, the man he calls the
+cleverest man in the world.
+
+**453.** In big matters, don't try so much to make chances as to use the ones
+that come.
+
+**454.** There are few times we'd make a bad bargain by giving up some good, on
+condition that no harm was said of us.
+
+**455.** However ready the world is to judge wrongly, it favors false merit far
+more often than it does justice to true merit.
+
+**456.** Sometimes you meet a fool with wit — never one with good sense.
+
+**457.** We'd gain more by letting the world see what we are than by trying to
+look like what we're not.
+
+**458.** Our enemies are closer to the truth about us than we are about
+ourselves.
+
+**459.** There are many cures for love, but none that never fail.
+
+**460.** It would be good for us to know everything our passions make us do.
+
+**461.** Age is a tyrant who forbids, on pain of death, all the pleasures of
+youth.
+
+**462.** The same pride that makes us blame faults we think we're free of makes
+us scorn the good qualities we don't have.
+
+**463.** There's often more pride than kindness in our grief at our enemies'
+troubles: we show them our pity to show how far above them we are.
+
+**464.** There's an excess of good and evil beyond what we can grasp.
+
+**465.** Innocence is lucky indeed if it gets the same protection as crime.
+
+**466.** Of all the strong passions, love suits a woman best.
+
+**467.** Vanity makes us sin against our taste more than against our reason.
+
+**468.** Some bad qualities make great talents.
+
+**469.** We never burn for what we want only because reason says to.
+
+**470.** All our qualities are uncertain and doubtful, good and bad alike, and
+nearly all are creatures of chance.
+
+**471.** In their first passion women love their lovers; in all the rest they
+love love.
+
+**472.** Like the other passions, pride has its follies: we're ashamed to admit
+we're jealous, yet we're proud of having been jealous and of being able to be.
+
+**473.** True love is rare, but true friendship is rarer.
+
+**474.** Few women's charm outlives their beauty.
+
+**475.** The wish to be pitied or admired often makes up most of what we tell in
+confidence.
+
+**476.** Our envy always outlasts the happiness of the people we envy.
+
+**477.** The same backbone that lets us fight off love lets us keep fighting it
+off for good. Weak people, always worked up by some passion, are rarely truly
+gripped by any.
+
+**478.** Imagination can't dream up as many contradictions as nature puts in
+every heart.
+
+**479.** Only people with backbone can be truly gentle. In those who look
+gentle, it's usually just weakness — which flips easily into harshness.
+
+**480.** Timidity is a fault it's dangerous to scold in people we want to cure
+of it.
+
+**481.** Nothing is rarer than true good nature: people who think they have it
+are usually just soft or weak.
+
+**482.** The mind settles by laziness and habit on whatever is easy or pleasant.
+That habit always fences in our knowledge — and nobody has ever taken the
+trouble to stretch his mind as far as it could go.
+
+**483.** We're usually more cutting from vanity than from malice.
+
+**484.** When the heart is still stirred by the leftovers of a passion, it's
+readier to take up a new one than when it's fully cured.
+
+**485.** People who've had great passions often spend the rest of their lives
+miserable from being cured of them.
+
+**486.** There are more people without self-love than without envy.
+
+**487.** We have more laziness in the mind than in the body.
+
+**488.** The peace or unrest of our mind depends less on the big things of life
+than on handling the little daily things well or badly.
+
+**489.** However wicked men are, they don't dare openly show themselves enemies
+of virtue: when they want to attack her, they either pretend she's fake or pin
+crimes on her.
+
+**490.** We often go from love to ambition, but never come back from ambition to
+love.
+
+**491.** Extreme greed almost always misses its mark: no passion goes wider of
+what it's aiming at, and none lets the present rob the future so much.
+
+**492.** Greed often backfires: countless people throw away what they own
+chasing doubtful, distant hopes, while others trade big future gains for small
+present ones.
+
+**493.** It seems men don't think they have faults enough — they add to the
+count with odd habits they put on and practice so hard that at last they turn
+into natural faults they can't fix.
+
+**494.** What shows men know their faults better than we think is that they're
+never wrong when they talk about how they act: the same self-love that usually
+blinds them lights the way, and shows them so clearly what might be criticized
+that they hide or disguise the smallest thing.
+
+**495.** Young men starting out in life should be either shy or bold; a solemn,
+grave manner usually turns into insolence.
+
+**496.** Quarrels wouldn't last long if the fault were only on one side.
+
+**497.** It's no use to a woman to be young without being pretty, or pretty
+without being young.
+
+**498.** Some people are so flighty and fickle they're as far from real faults as
+from solid qualities.
+
+**499.** We don't usually count a woman's first flirtation until she's had a
+second.
+
+**500.** Some people are so wrapped up in themselves that even in love they find
+a way to be absorbed in the passion without being absorbed in the person they
+love.
+
+**501.** Love, agreeable as it is, pleases more by its manners than by itself.
+
+**502.** A little wit with good sense bores less, in the long run, than a lot of
+wit with a bad temper.
+
+**503.** Jealousy is the worst of all troubles, and the one the people who
+cause it pity least.
+
+**504.** On the hollowness of despising death. The pagans boasted a contempt of
+death drawn from reason alone, with no hope of a life to come — but meeting
+death bravely is common enough; truly despising it is always faked. Everything
+that could be written has been written to convince us death is no evil, and the
+weakest men have given as many noble examples as the bravest — yet I don't
+think any man of sense ever believed it. The trouble we take to convince
+others, and ourselves, shows how far from easy the job is. We may be sick of
+life for many reasons, but we can despise it for none. Not even suicides take
+it lightly — they're as startled as anyone when death comes in a different
+shape than the one they chose. The difference we see in brave men's courage
+comes from meeting death differently than they pictured it, nearer one day
+than another: having scorned death when they didn't know it, they fear it once
+they do. If we could see it stripped of its trappings, we might believe it
+wasn't the greatest of evils. The wisest and bravest are those who best avoid
+thinking about it — anyone who sees it in its true light finds it dreadful.
+The need to die made all the philosophers' fine constancy: they thought it
+right to go gracefully when go they must, and, unable to live forever, set
+about building an undying name and saving what could be saved from the wreck.
+To put a brave face on it, say less than you think, and trust nature more than
+shaky reason — reason that tells us we can face death without a qualm. The
+glory of dying bravely, the hope of being mourned, the wish to leave a good
+name, the certainty of escaping life's miseries and being free of fortune's
+tricks — these are resources not to be scorned. But don't trust them too far:
+they're like a lone shelter to soldiers storming a fort — from far off it looks
+like cover, up close it's flimsy. It's self-deception to think death up close
+will look the same as from far off, or that our feelings — mere weaknesses —
+are strong enough to stand the roughest trial of all. It's just as foolish to
+lean on self-esteem and think it will let us count as nothing what must
+destroy it. And the mind we trust to arm us will prove too weak in the fight —
+it betrays us constantly, and instead of filling us with contempt for death,
+only shows us everything frightful in it. The most it can do is get us to look
+away and fix our eyes elsewhere. Cato and Brutus each chose noble things to
+look at; a lackey not long ago settled for dancing on the scaffold on his way
+to the wheel. Different motives, same result. And whatever gap there is
+between peer and peasant, we've always seen both meet death with the same calm.
+With this difference: the peer's contempt for death is love of fame hiding
+death from his eyes; the peasant's is narrow vision hiding from him how great
+the evil is, and leaving him free to think of other things.
+
+---
+
+## G1 self-audit log
+
+- **Base verified:** Bund & Friswell, *Reflections; or Sentences and Moral
+  Maxims*, London: Simpson Low, Son, and Marston, 188 Fleet Street, **1871**
+  (title-page imprint read in the source scan; translators' note: "Translated
+  from the Editions of 1678 and 1827"). Public domain.
+- **Source scan:** archive.org `reflectionsorsen09105gut`; cross-checked
+  against `reflectionsorsen00laro` (1898 Sampson Low, Marston & Co. reprint of
+  the same translation).
+- **Numbering check (scripted):** all integers 253–504 present exactly once —
+  252/252. No duplicates, no gaps. One scan artifact found and resolved: the
+  source text prints maxim 411 as "4ll." (digit typo); rendered under the
+  correct standard number 411.
+- **Invented content:** none. Every maxim renders the sense of the
+  corresponding Bund & Friswell maxim; one flagged correction at 395 (French
+  sense followed where the 1871 English slips).
+- **Banner + AI disclosure + method note:** present at top.
+- **Lane check:** maxims only, 253–504; no front matter (companion worker's
+  lane), no publishing/uploading — local file only.
+- **STOP at AUDITED.** G4 read-through gate not crossed.
