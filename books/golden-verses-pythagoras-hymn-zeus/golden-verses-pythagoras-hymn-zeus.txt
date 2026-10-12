@@ -1,0 +1,189 @@
+# DRAFT — NOT FOR PUBLICATION
+
+> **AI-assistance disclosure:** This file was drafted with AI assistance (Muse, built by Meta) working under the direction of Robert Tilford. Every line of the ancient text below was rendered from the public-domain sources named here and re-checked against them by the drafting agent. This is a DRAFT, not a finished edition. It must pass further review gates before anything is done with it. Nothing in this file may be published, emailed, uploaded, or shared without Robert Tilford's explicit word on that exact action.
+
+---
+
+# THE GOLDEN VERSES OF PYTHAGORAS
+
+## with Cleanthes' *Hymn to Zeus*
+
+**A clear-English pamphlet rendering — DRAFT**
+
+---
+
+## DEDICATION
+
+To the memory of **Antoine Fabre d'Olivet (1767–1825)**,
+
+a strange and brilliant figure who worked outside every academy of his day — linguist, mystic, and seeker — who in 1813 published these Golden Verses together with his own deep mystical commentary, the *Examinations*, trying to draw from them the hidden agreement of Providence, Destiny, and the will of man. He was mocked by the learned, read by the few, and died, as one account has it, at the foot of his own altar. Whatever one thinks of his visions, he kept these verses alive for us, and this pamphlet stands on his work.
+
+---
+
+## An honest word about who wrote these verses
+
+Read this before you read the verses, because it matters.
+
+**Pythagoras himself almost certainly did not write them.** That is the honest position of the scholars, and it is the position of this pamphlet. The ancient tradition says they were composed by his followers — the old story names **Lysis of Tarentum**, a Pythagorean who survived the burning of the schools at Crotona and set down his master's teaching in verse so it would not be lost. The verses were then handed down through the Pythagorean brotherhood and preserved for us mainly by **Hierocles of Alexandria**, whose long commentary is the reason we have them at all.
+
+So when you read "the Golden Verses of Pythagoras," understand it the way the ancients did: not as a book Pythagoras sat down and wrote, but as the voice of his school — the collected moral teaching of the Pythagoreans, gathered by his disciples from his sayings and kept as their daily rule. The old law of the school, we are told, was that each member should read these verses every morning and every evening, like a creed. Galen the physician is said to have done exactly that.
+
+Nothing is smoothed over here. They are attributed to Pythagoras by tradition, written by his followers in fact, and that is how they are presented.
+
+---
+
+## How this pamphlet was made
+
+This is a **clear-English rendering**, not a scholarly word-for-word translation and not the work of an academic. It was made from the following public-domain sources, which are named here so that anyone can check the work:
+
+1. **The Golden Verses (71 lines):** the Greek text as given in *The Golden Verses of Pythagoras*, explained and translated into French by Fabre d'Olivet, done into English by **Nayán Louise Redfield** (G. P. Putnam's Sons, New York and London, 1917) — Project Gutenberg ebook #69174, marked "Public domain in the USA." The English rendering follows the Greek line order of that edition and its French verse paraphrase, with the meaning of each line checked against Redfield's English *Examinations of the Golden Verses* in the same volume.
+2. **Cleanthes' *Hymn to Zeus* (39 lines):** the Greek text as given in *The Hymn of Cleanthes: Greek Text Translated into English, with Brief Introduction and Notes*, by **E. H. Blakeney, M.A.** (Society for Promoting Christian Knowledge, London / The Macmillan Company, New York, 1921 — *Texts for Students* No. 26), public domain in the USA (published 1921). The English below is a fresh plain-English rendering based on that edition's Greek text and English version.
+
+**Who Cleanthes was:** Cleanthes of Assos (about 331–232 B.C.), the second head of the Stoic school after Zeno. His *Hymn to Zeus* is the one complete poem of his that survives — thirty-nine lines, called by one scholar the noblest piece of pagan devotion Greek literature has kept for us. It is included here because it sings the same note as the Golden Verses: that human beings are of divine kin, that the world's order is one, and that our troubles come from our own turning away.
+
+**A note on the language:** The English here is deliberately plain — the aim is wording any ordinary reader can follow, without the old "thee" and "thou." Nothing has been added that is not in the source lines, and nothing has been taken away that changes the meaning. Where the Greek is obscure, the plainest faithful reading has been chosen.
+
+**No claim of primacy:** Many translations of these verses exist, old and new, and this pamphlet claims none of the crowns — not the first, not the oldest, not the definitive, not the complete. It is one more plain-English door into very old words.
+
+---
+
+*End of front matter. The verses follow in the companion file, `01-golden-verses-hymn-to-zeus-DRAFT.md`.*
+# DRAFT — NOT FOR PUBLICATION
+
+> **AI-assistance disclosure:** This file was drafted with AI assistance (Muse, built by Meta) working under the direction of Robert Tilford. Each verse below was rendered in plain modern English from the public-domain Greek text and checked against the PD English sources named in the front matter (`00-front-matter-DRAFT.md`). This is a DRAFT, not a finished edition. Nothing in this file may be published, emailed, uploaded, or shared without Robert Tilford's explicit word on that exact action.
+
+---
+
+# THE GOLDEN VERSES OF PYTHAGORAS
+
+*Composed by the followers of Pythagoras (tradition names Lysis of Tarentum), preserved by Hierocles — rendered here in clear modern English, line for line from the 71-line Greek text. (Scholars often count 63 hexameter verses; this edition follows Fabre d'Olivet's 71-line lineation, which is the named base.)*
+
+## PREPARATION (verses 1–3)
+
+1. First of all, honor the immortal gods in the way the law lays down.
+2. Keep your oath sacred — then honor the noble heroes.
+3. And honor the spirits of the dead, doing what is right.
+
+## PURIFICATION (verses 4–39)
+
+4. Honor your parents, and those nearest to you by blood.
+5. Of the rest, choose for your friend the one who is best in goodness.
+6. Yield to his gentle words, and to his helpful deeds.
+7. Do not turn against your friend over a small fault,
+8. as long as you can — for our power lives next door to necessity.
+9. Learn this, then. And train yourself to master these things:
+10. your appetite first, then sleep, then lust,
+11. and anger. Never do anything shameful — not with others,
+12. and not alone. Above all, learn to be ashamed before yourself.
+13. Then practice justice, in what you do and in what you say.
+14. Do not get into the habit of doing anything without thinking.
+15. But know this: death is appointed for all of us.
+16. Riches come and go — now they are gained, now they are lost.
+17. And whatever pains come to mortals by the turns of fate,
+18. bear your share of them patiently, and do not grumble.
+19. But try to heal them as far as you can — and think on this:
+20. fate does not hand the good many of these pains.
+21. Many words, both bad and good, fall on people's ears —
+22. do not let them stun you, and do not let them hold you back.
+23. And if a lie is told,
+24. bear it with a calm mind. And let what I now tell you be carried out in all things:
+25. let no one talk you into anything, by word or by deed,
+26. that is not truly better for you.
+27. Think before you act, so that nothing foolish comes of it.
+28. Doing and saying foolish things is the mark of a worthless man.
+29. Do only the things you will not regret afterward.
+30. Do nothing you do not understand — but learn
+31. everything you need to learn, and you will live the happiest life.
+32. Do not neglect the health of your body.
+33. Keep measure in your drink, your food, and your exercise.
+34. By measure I mean the amount that will do you no harm.
+35. Make it your habit to live cleanly, without waste or excess.
+36. And be careful not to do things that breed envy.
+37. Do not spend beyond what the occasion calls for, like someone who does not know what is good.
+38. But do not be stingy either — in all things, measure is best.
+39. Do the things that will do you no harm — and think before you act.
+
+## PERFECTION (verses 40–71)
+
+40. Do not let soft sleep settle on your eyes
+41. until you have gone over each deed of the day three times:
+42. "Where did I go wrong? What did I do? What duty did I leave undone?"
+43. Begin at the beginning and walk through them all. Then
+44. if you did wrong, blame yourself — if you did right, be glad.
+45. Work at these things; study them; let them be your love.
+46. They will set your feet on the path of divine goodness.
+47. Yes — I swear by the one who gave our souls the fourfold number,
+48. the ever-flowing spring of nature. But set to work
+49. only after praying to the gods to bring it to completion. When you have mastered these things,
+50. you will understand how the immortal gods and mortal men are put together —
+51. how all things pass through the world, and how they are governed.
+52. You will learn, as far as is lawful, that nature is alike in all things,
+53. so that you will neither hope for the hopeless nor miss what lies before you.
+54. You will see that people bring suffering on themselves by their own choice —
+55. poor wretches: with good things close at hand, they neither see them
+56. nor hear them, and few understand how to get free of their troubles.
+57. Such is the fate that clouds the minds of mortals — like rollers
+58. they are tossed now this way, now that, carrying endless troubles.
+59. For a cruel strife lives hidden inside them,
+60. born with them — they must not welcome it, but flee it by giving way.
+61. O father Zeus, if only you would free us all from so many troubles!
+62. Or show everyone what kind of spirit they are following!
+63. But take heart — for mortals are of a divine race,
+64. and holy nature holds up everything before them.
+65. If any share of this is yours, you will master what I teach you —
+66. you will heal yourself and save your soul from these pains.
+67. But keep away from the foods I named, in your cleansings
+68. and in the freeing of your soul, judging each thing carefully,
+69. setting your best judgment over all as the charioteer.
+70. And when you leave the body and rise free into the bright air,
+71. you will be an undying god, immortal — no longer mortal.
+
+---
+
+# CLEANTHES' HYMN TO ZEUS
+
+*Cleanthes of Assos (about 331–232 B.C.), second head of the Stoic school. Thirty-nine lines, rendered in plain modern English from the Greek — the public-domain base is E. H. Blakeney's 1921 edition. No thee, no thou.*
+
+1. Most glorious of the undying, called by many names, all-powerful forever —
+2. O Zeus, founder of nature, steering all things by law — hail!
+3. For it is right that all mortals should call upon you.
+4. For we are your children — we alone, of all
+5. things that live and move on earth, have received the image of the One.
+6. So I will sing your praise, and I will always sing of your power.
+7. The whole wide world obeys you, turning around the earth,
+8. going wherever you lead it, gladly ruled by your hand.
+9. You hold such a servant in your unconquered hands —
+10. the double-edged thunderbolt of living fire, that never dies.
+11. Under its blow all of nature trembles;
+12. with it you guide the common Reason that moves through all things,
+13. mingling with the greater and the lesser lights.
+14. So great are you — the highest king of all, forever.
+15. No deed is done on earth apart from you, O divine one —
+16. nor in the holy sky above, nor in the sea —
+17. except what evil men do in their own foolishness.
+18. But you know how to make the crooked straight,
+19. to bring order out of disorder, and what is not dear to you becomes dear.
+20. For this is how you have fitted all things together, good with evil,
+21. so that one everlasting Reason rules them all.
+22. The evil among mortals run from it and leave it behind —
+23. poor wretches, always hungry to get good things,
+24. yet they neither see nor hear God's common law,
+25. which, if they obeyed it with good sense, would give them a good life.
+26. Instead they rush off in vain, each going his own way.
+27. Some chase after fame with bitter rivalry,
+28. some turn to shameless money-making,
+29. others to soft living and the pleasures of the body —
+30. hurrying headlong to do the very opposite of what is good.
+31. But O Zeus, giver of all gifts, dark-clouded, lord of the thunderbolt,
+32. save people from their cruel ignorance!
+33. Scatter it from their souls, O father, and grant them to reach
+34. the understanding by which, trusting in justice, you govern all things —
+35. so that, honored by you, we may pay you honor back,
+36. singing your works without pause, as is fitting
+37. for mortals to do —
+38. for no greater prize falls to mortals
+39. or to gods than to sing forever, with justice, the common law.
+
+---
+
+*End of the verses and the hymn. Draft status: awaiting audit and Robert Tilford's review.*
