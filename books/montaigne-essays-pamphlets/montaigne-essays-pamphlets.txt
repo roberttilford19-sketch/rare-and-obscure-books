@@ -1,0 +1,2379 @@
+# DRAFT — NOT FOR PUBLICATION
+
+**AI-assistance disclosure:** This pamphlet was drafted with the help of an AI assistant (Awen, built by Meta, running on Muse) working from a public-domain English translation, then modernized into plain current English. A human reader has not yet reviewed it. No part of this file is published, offered for sale, or released; it is a working draft awaiting the owner's read-through.
+
+---
+
+# MONTAIGNE
+
+## That to philosophize is to learn how to die
+
+### Essays, Book I
+
+*A pamphlet edition in plain modern English*
+
+---
+
+## DEDICATION
+
+**To the memory of John Florio (1553–1625), presiding spirit of this edition.**
+
+Florio was an Italian-born Englishman: lexicographer, maker of dictionaries (*A Worlde of Wordes*, 1598; *Queen Anna's New World of Words*, 1611), and Italian tutor in the households of the English court. In 1603 he published the first English translation of Montaigne's *Essays* — and that translation reached Shakespeare. The proof is on stage: Gonzalo's daydream of an ideal commonwealth in *The Tempest* (Act II) is built, phrase by phrase, out of Florio's rendering of Montaigne's "Of Cannibals" — a borrowing scholars have traced since the editor Edward Capell first flagged it. A translator's English, poured into the ear of the greatest writer in the language, and coming back out as poetry.
+
+Florio is remembered now mostly in footnotes. The Boneyard rule is that the scholar gets named up front and the human story gets told. So this pamphlet — though its working base is a later Englishing — stands under Florio's name: the man who taught England how Montaigne sounds.
+
+---
+
+## METHOD STATEMENT
+
+This is a **modernization**, not a new translation from the French. The working base is:
+
+**Charles Cotton's translation of Montaigne's *Essays*, as revised by William Carew Hazlitt (1877)** — taken from Project Gutenberg ebook #3600, *The Essays of Montaigne, Complete*, verified before use: its title page reads "Translated by Charles Cotton / Edited by William Carew Hazlitt / 1877," and its preface states the text is Cotton's 1685–86 version corrected by collation with the 1854 Paris variorum edition of the French. The Donald Frame (1957/58) and M.A. Screech (1991) translations were not consulted or used; both are under copyright.
+
+What was done: Cotton/Hazlitt's 19th-century English has been carried into plain current English — no *thee/thou/thy*, no antique spelling, sentences re-cut where the old syntax tangles — while keeping Montaigne's argument, examples, and order of thought intact. Montaigne's Latin quotations are kept, each followed by a plain-English gloss (as Hazlitt's edition supplies). Nothing has been added and nothing removed except archaism; a few of Hazlitt's bracketed editorial identifications are slightly tidied, as noted per essay.
+
+A note on numbering: in the Cotton/Hazlitt edition this essay stands as **Chapter XIX** of Book I, under the heading "THAT TO STUDY PHILOSOPY IS TO LEARN TO DIE" (spelling as printed). Standard modern editions number it differently; the essay is the same — Montaigne's *Que philosopher c'est apprendre à mourir*.
+
+No claim is made that this is the first, oldest, definitive, or complete rendering of the essay. It is one plain-English draft, offered for what it is.
+
+---
+
+*G1 self-audit (drafter): essay checked complete against the Cotton/Hazlitt chapter text; no material invented; banner and disclosure present on both files. Draft stops here — it does not cross the G4 read-through gate.*
+# DRAFT — NOT FOR PUBLICATION
+
+**AI-assistance disclosure:** This essay was drafted with the help of an AI assistant (Awen, built by Meta, running on Muse) as a modernization of a public-domain English translation (see method statement in the front matter). A human reader has not yet reviewed it. Working draft only — not published, sold, or released.
+
+---
+
+# That to philosophize is to learn how to die
+
+## Michel de Montaigne, *Essays*, Book I
+
+Cicero says that studying philosophy is nothing but preparing yourself to die. The reason is that study and reflection pull the soul partway out of the body and set it working on its own — a kind of apprenticeship in death. Or else it is because all the wisdom and reasoning in the world come down in the end to this one point: teaching us not to fear death.
+
+And to tell the truth, either our reason is mocking us, or it has no other goal but our contentment. It should aim at nothing, in the end, but making us live well — and, as Scripture says, at ease. Every school of thought agrees on this: pleasure is our goal, though we take different roads to reach it. Otherwise their teachings would be rejected at first hearing — for who would listen to a man proposing suffering and misery as his goal? The quarrels between the philosophical schools on this point are mere quarrels over words. "Let us skip over those clever trifles" (*Transcurramus solertissimas nugas* — Seneca). There is more stubbornness and contradiction in them than suits so sacred a profession. But whatever role a man takes up, he always mixes something of himself into it.
+
+Let the philosophers say what they like: the thing we all aim at, even in virtue, is pleasure. I enjoy rattling this word in their ears — the word they find so distasteful. And if it means some supreme pleasure and contentment, then it belongs to virtue's assistance more than to any other. This pleasure, for being gayer, stronger, sturdier, and manlier, is only the more seriously delightful. We ought to give the name of pleasure to that which is more gracious, gentle, and natural — not to its cheap rival. The other, lesser pleasure, if it deserves the fine name at all, deserves it only as a competitor, not as the rightful owner. I find it less free of troubles and setbacks than virtue itself. Its enjoyment is momentary, fleeting, fragile — and it has its sleepless nights, its fasts and labors, its sweat and blood. On top of that, it brings its own crowd of sharp, wounding passions, and a dull weariness afterward, that make it equal to the harshest penance.
+
+We are wrong if we think these hardships serve as a spur and seasoning to its sweetness (as in nature one opposite is sharpened by another) — or if we say, when we turn to virtue, that similar hardships and difficulties weigh it down and make it harsh and unreachable. It is just the opposite: far more than in cheap pleasure, they ennoble, sharpen, and heighten the perfect and divine pleasure virtue gives us. Anyone who tries to weigh its cost against its reward makes himself unworthy of it — he neither understands the blessing nor knows how to use it. Those who preach to us that the search for it is rocky, difficult, and painful, but the enjoyment pleasant — what do they mean but to tell us it is always unpleasant? For what human effort will ever fully reach it? The most perfect have had to settle for reaching toward it, approaching it, without ever possessing it. But they are mistaken: of all the pleasures we know, the very pursuit is pleasant. The striving always carries the flavor of the thing it aims at, for it is a good part of the effect, of the same substance as it. The happiness and blessedness that shine in virtue light up everything around it and everything leading to it, right down to the first step and the farthest edge.
+
+Now, of all the gifts virtue gives us, contempt of death is one of the greatest. It is what fits human life with a soft and easy calm, and gives us a pure and pleasant taste of living — without which every other pleasure would die. That is why all the schools' rules center and agree on this one point. And although they all likewise, with one voice, teach us to despise pain, poverty, and the other accidents of human life, they do not press it with the same urgency. For one thing, these accidents are not so unavoidable — most people go through life never knowing poverty, and some never knowing grief or sickness, like Xenophilus the musician, who lived a hundred and six years in perfect, unbroken health. For another, at the worst, death can cut short and end all our other troubles whenever we choose. But death itself is unavoidable:
+
+"We are all driven the same road; sooner or later the lot of all must come out of the urn, and set us sailing into eternal exile." (*Omnes eodem cogimur...* — Horace)
+
+And so, if death frightens us, it is a torment with no relief, and there is no way it cannot reach us. We may turn our heads this way and that, like travelers in dangerous country: "Ever, like the stone of Tantalus, it hangs over us" (*Quae, quasi saxum Tantalo, semper impendet* — Cicero).
+
+Our courts often send condemned criminals to be executed at the place where the crime was committed. But carry them through fine houses on the way; prepare the best entertainment you can: "Sicilian feasts will not tickle their palates, nor will the song of birds and harps bring back sleep" (*Non Siculae dapes / Dulcem elaborabunt saporem...* — Horace). Do you think they can enjoy it — that with the fatal end of their journey always before their eyes, their taste would not be spoiled for such luxuries? "He studies the road, counts the days, measures his life by the length of the journey, and torments himself with the coming blow" (*Audit iter, numeratque dies...* — Claudian).
+
+The end of our race is death. It is the necessary goal we aim at — and if it frightens us, how can we take a step without shaking? The remedy ordinary people use is not to think about it. But what brutish stupidity gives them such gross blindness? They bridle the donkey by the tail: "Who in his folly seeks to walk backward" (*Qui capite ipse suo instituit vestigia retro* — Lucretius). No wonder he often lands in the pit. People frighten each other with the very mention of death, and many cross themselves as if it were the devil's name. And because making a will has to do with dying, no one can be persuaded to pick up a pen for the purpose until the doctor has condemned him and given him up entirely — and then, between fear and terror, God knows what state his understanding is in to do it.
+
+The Romans, finding the poor syllable "death" so harsh to their ears and so ominous, found a way to soften it and spin it out with a roundabout phrase. Instead of saying "such a one is dead," they said "such a one has lived" or "such a one has ceased to live" (Plutarch, *Life of Cicero*). If there was any mention of life in it, even life past, it carried some sound of comfort. From them we borrowed our phrase "the late Mr. So-and-so" (the French *feu Monsieur un tel*). Perhaps, as the saying goes, the phrase "we have lived" is worth what it costs.
+
+I was born between eleven and twelve in the morning on the last day of February 1533, by our reckoning, which begins the year on the first of January. It is now just fifteen days since I turned thirty-nine. I count on living at least as many years more. Meanwhile, troubling yourself over something so far off is folly. But what then? Young and old die on the same terms. No one leaves life any differently than if he had just entered it. There is no man so old and worn out who, having heard of Methuselah, does not think he still has twenty good years ahead. You fool — who promised you your term of life? You trust what the doctors say. Consult facts and experience instead. By the ordinary course of things, you have long been living on borrowed time; you have already outlived the usual span. And to see that it is so, count your acquaintances: how many more died before reaching your age than ever reached it. And among those who made their lives famous, take the tally — I dare bet you will find more who died before thirty-five than after. It is reasonable, and pious too, to take example from the humanity of Jesus Christ himself: he ended his life at thirty-three. The greatest man who was no more than a man, Alexander, died at the same age. How many ways death has to surprise us! "Be as careful as he may, no man can ever guard against the danger that may strike at any hour" (*Quid quisque vitet, nunquam homini satis / Cautum est in horas* — Horace).
+
+To skip fevers and pleurisies — who would have imagined that a Duke of Brittany would be crushed to death in a crowd, as that duke was at the entry of Pope Clement, my neighbor, into Lyons? Have you not seen one of our kings killed at a tournament, and did not one of his ancestors die from being jostled by a hog? Aeschylus, warned of a falling house, took good care to avoid that danger — to no purpose, since he was struck on the head by a tortoise dropped from an eagle's talons in the air. Another choked on a grape pit. An emperor was killed by the scratch of a comb while combing his hair. Aemilius Lepidus died stumbling on his own threshold, and Aufidius from a jostle against the door as he entered the council chamber. And between the very thighs of women died Cornelius Gallus the proctor; Tigillinus, captain of the watch at Rome; Ludovico, son of Guido di Gonzaga, Marquis of Mantua; and — worse example — Speusippus, a Platonic philosopher, and one of our popes. The poor judge Bebius granted an eight-day adjournment in a case; but meanwhile death condemned him, and his own lease on life expired. While Caius Julius the physician was anointing a patient's eyes, death closed his own. And to bring in an example from my own blood: a brother of mine, Captain Saint-Martin, a young man of twenty-three who had already given good proof of his courage, was playing a game of tennis and took a blow from a ball a little above his right ear. It left no sign of wound or bruise, so he thought nothing of it — he did not even sit down to rest. Nevertheless, he died five or six hours later of a stroke brought on by that blow.
+
+With such common examples passing before our eyes every day, how can anyone free himself from the thought of death, or avoid imagining it with its hand on his throat at every moment? What does it matter, you will say, which way it comes, so long as a man does not torment himself expecting it? For my part, that is my own view. If a man could avoid it by any means — even by crawling under a calf's skin — I am one who would not be ashamed of the trick. All I aim at is to pass my time at ease, and I take hold of whatever pastimes contribute most to that, however little glory or example there is in them: "I would rather seem mad and lazy, so long as my faults please me, or at least do not pain me, than be wise and fretting" (*Praetulerim... delirus inersque videri, / Dum mea delectent mala me, vel denique fallant, / Quam sapere, et ringi* — Horace).
+
+But it is folly to think of doing anything that way. They go, they come, they gallop and dance, and not a word of death. All very fine — until it strikes them, their wives, their children, or their friends, catching them unaware and unprepared. Then what torment, what outcries, what madness and despair! Did you ever see anything so crushed, so changed, so undone? A man must make provision for it earlier. And this brutish negligence — if it could possibly lodge in the brain of a sensible man, which I think utterly impossible — sells its goods too dear. If death were an enemy that could be avoided, I would advise borrowing weapons even from cowardice itself. But it is not. It will catch you whether you flee and play the coward or stand your ground like an honest man: "He pursues the fleeing coward, and does not spare the hamstrings of the unwarlike youth who turns his back" (*Nempe et fugacem persequitur virum...* — Horace). And since no armor is proof against him — "Let him hide in fear beneath iron or bronze: death will still drag his head out of its helmet" (*Ille licet ferro cautus, se condat et aere, / Mors tamen inclusum protrahet inde caput* — Propertius) — let us learn to stand our ground bravely and fight him.
+
+To begin stripping him of his greatest advantage over us, let us take a course clean contrary to the common one. Let us disarm him of his novelty and strangeness; let us talk with him, grow familiar with him, and keep nothing so often in our thoughts as death. On every occasion, picture him in every shape: at the stumbling of a horse, at the falling of a tile, at the least prick of a pin, let us at once consider and say to ourselves, "Well — and what if it had been death itself?" And with that, let us take courage and steady ourselves. Even in our feasting and merriment, let us always set the remembrance of our frail condition before our eyes, never letting ourselves be so carried away by pleasure that we do not pause to reflect on how many different ways this merriment of ours leads toward death, and with how many dangers it threatens it. The Egyptians did this: in the height of their feasting and mirth, they had a dried skeleton brought into the room, to remind the guests of themselves. "Believe each day that has dawned on you to be your last; the next day, unexpected, will be all the more welcome" (*Omnem crede diem tibi diluxisse supremum / Grata superveniet, quae non sperabitur, hora* — Horace).
+
+We do not know where death waits for us. Let us expect him everywhere. The premeditation of death is the premeditation of liberty: he who has learned to die has unlearned how to be a slave. There is nothing evil in life for the man who rightly understands that losing life is no evil. Knowing how to die frees us from all subjection and constraint. When the wretched King of Macedon, his prisoner, sent begging Paulus Aemilius not to lead him in his triumph, Aemilius answered, "Let him make that request to himself" (Plutarch, *Life of Paulus Aemilius*; Cicero, *Tusculans*).
+
+Truly, in all things, if nature does not lend a little help, art and effort can do little to any purpose. By my own nature I am not gloomy, but thoughtful — and there is nothing I have entertained myself with more constantly than imaginings of death, even in the most carefree time of my youth: "When my flowering age was enjoying its spring" (*Jucundum quum aetas florida ver ageret* — Catullus). In the company of ladies, at games, some may have thought me troubled by jealousy or some uncertain hope, while I was really entertaining myself with the memory of someone surprised a few days before by a burning fever, of which he died — coming home from an entertainment like this one, his head full of idle fancies of love and merriment, as mine was then — and that, for all I knew, the same fate was waiting for me. "Soon the present will be past, never to be called back" (*Jam fuerit, nec post unquam revocare licebit* — Lucretius).
+
+Yet this thought wrinkled my brow no more than any other. We must feel a sting from such imaginings at first — it is impossible not to. But by turning them over and over in the mind, they at last become so familiar as to be no trouble at all. Otherwise I, for my part, would be in a perpetual fright and frenzy, for no man was ever so distrustful of his life, no man so unsure how long it would last. Neither health — which I have so far enjoyed strong and vigorous, and very seldom interrupted — lengthens my hopes, nor does sickness shorten them. Every minute, it seems to me, I am slipping away, and it is always in my mind that what can be done tomorrow can be done today. Dangers and hazards do little or nothing, in truth, to hasten our end. If we consider how many thousands more hang over our heads besides the accident that threatens us right now, we will find that the healthy and the sick, those at sea and those by the fire, those in battle and those sitting idle at home, are all equally near it. "No man is more fragile than another; no man more certain than another of tomorrow" (*Nemo altero fragilior est; nemo in crastinum sui certior* — Seneca).
+
+For anything I have to do before I die, the longest free time would seem too short, even if it were only an hour's business.
+
+A friend of mine, turning over my notebook the other day, found a memorandum of something I wanted done after my death. I told him — what was really true — that though I was only a league from my own house, and merry and well, yet when the thing came into my head I hurried to write it down there, because I was not certain of living till I got home. As a man forever brooding over his own thoughts and confining them to his own particular concerns, I am at every hour as well prepared as I am ever likely to be, and death, whenever he comes, can bring nothing I did not expect long before. We should always, as nearly as we can, be booted and spurred and ready to go — and above all, at that time, have business with no one but ourselves: "Why, in so short a life, do we aim at so many grand projects?" (*Quid brevi fortes jaculamur aevo / Multa?* — Horace). For we will find work enough to do there, without needing more.
+
+One man complains, more than of death itself, that it robs him of a glorious victory. Another, that he must die before he has married his daughter or raised his children. A third seems troubled only that he must lose his wife's company; a fourth, his son's conversation, as the chief comfort of his life. For my part, I am, thank God, right now in such a condition that I am ready to move out whenever it pleases him, without regret for anything at all. I am disengaging myself entirely from worldly ties; my leave-taking is soon finished, of all but myself. No one ever prepared to say goodbye to the world more completely and without reserve, and to shake hands with every interest in it, than I expect to do. The deadest deaths are the best: "'Wretch that I am,' they cry, 'one fatal day has robbed me of all the prizes of life'" (*'Miser, O miser,' aiunt, 'omnia ademit / Una dies infesta mihi tot praemia vitae'* — Lucretius). And the builder: "The works stand unfinished, the tall towers of the walls unbuilt" (*Manet... opera interrupta, minaeque / Murorum ingentes* — Virgil).
+
+A man should plan nothing that needs a long time to finish — or at least, not with such passionate desire to see it perfected. We are born for action: "When I die, let it be in the middle of the work I had planned" (*Quum moriar, medium solvar et inter opus* — Ovid). I want a man always doing, and, as far as he can, stretching out the duties of life — and then let death take me planting my cabbages, caring nothing for him, and even less for my garden not being finished. I saw a man die who, at his last gasp, complained of nothing so much as that fate was about to cut the thread of a chronicle he was writing, when he had gotten no further than the fifteenth or sixteenth of our kings. "They forget to add this: that in death, we no longer even want the things we wanted" (*Illud in his rebus non addunt: nec tibi earum / jam desiderium rerum super insidet una* — Lucretius).
+
+We must rid ourselves of these common and harmful humors. That is why men first placed burial grounds next to churches, in the busiest parts of the city — to accustom, says Lycurgus, the common people, women, and children not to be startled at the sight of a corpse, and so that the constant sight of bones, graves, and funerals would remind us of our frail condition: "It was once the custom to liven banquets with bloodshed, and to mix with the feast the dreadful sight of men fighting with swords — the dying often falling across the very cups, the tables splashed with blood" (*Quin etiam exhilarare viris convivia caede / Mos olim...* — Silius Italicus). And as the Egyptians after their feasts had a great image of death carried in, with someone crying out, "Drink and be merry, for this is what you will be when you are dead" — so it is my custom to keep death not only in my imagination but constantly on my lips. There is nothing I am so curious about, nothing I so enjoy learning, as how men died — their words, their looks, their bearing. No passages in history hold my attention like these, and it is plain enough, from how I crowd in examples of this kind, that I have a particular liking for the subject. If I were a writer of books, I would put together a register, with notes, of the different deaths of men: whoever taught men to die would at the same time teach them to live. Dicarchus made such a book, and gave it that title — but it was aimed at another, less useful end.
+
+Perhaps someone will object that the pain and terror of dying so far exceed anything we can imagine that the best-prepared fencer will be completely out of his game when it comes to the thrust. Let them say what they like: preparing the mind beforehand is surely a very great advantage. And besides, is it nothing to go that far at least, without panic or flinching? Moreover, nature herself helps and encourages us. If death is sudden and violent, we have no time to fear. If otherwise, I notice that as I sink further into an illness, I naturally slip into a certain weariness and distaste for life. I find I have much more trouble digesting this resolve to die when I am in good health than when I am languishing with a fever. The less I have to do with the comforts of life — as I begin to lose the use and pleasure of them — the less terror death holds for me. Which makes me hope that the further I move from the one and the nearer I approach the other, the more easily I will trade the one for the other. And as I have found in other matters that, as Caesar says, things often look bigger at a distance than up close, I have found that in health I have dreaded illnesses far more than when I was actually suffering them. The strength I have now, the cheerfulness and delight I live in, make the opposite state look so out of proportion to my present condition that in imagination I magnify those hardships by half, and expect them to be much worse than I actually find them when they weigh heaviest on me. I hope to find death the same.
+
+Just observe the ordinary changes and declines we suffer daily, and see how nature robs us of the awareness of our own bodily decay. What remains to an old man of the vigor of his youth and better days? "Alas, what portion of life remains to the old!" (*Heu! senibus vitae portio quanta manet* — Maximian). Caesar, when an old weather-beaten soldier of his guard came asking leave to kill himself, looked at his withered body and shuffling walk and answered pleasantly, "So you fancy you are still alive" (Seneca). If a man fell into that condition all at once, I do not think human nature could bear such a change. But nature leads us by the hand at an easy, almost imperceptible pace, step by step, down to that wretched state — and by that means makes it familiar, so that we do not feel the blow when our youth dies in us, though it is really a harder death than the final dissolving of a worn-out body, than the death of old age. For the fall is not so great from an uneasy existence to nothing at all as it is from a lively and flourishing existence to one that is troublesome and painful. The body, bent and bowed, has less strength to carry a burden — and it is the same with the soul. That is why we must hold her up, firm and upright, against the power of this enemy. For as she can never rest while she fears it, so if she can once make herself sure, she may boast — a thing almost beyond human condition — that no unease, anxiety, fear, or any other disturbance can live or find a place in her: "Not the threatening frown of a tyrant shakes her well-grounded soul, nor the wild south wind, lord of the stormy Adriatic, nor the great hand of thundering Jove" (*Non vultus instantis tyranni / Mente quatit solida, neque Auster / Dux inquieti turbidus Adriae, / Nec fulminantis magna Jovis manus* — Horace).
+
+Then she has become sovereign over all her lusts and passions, mistress of necessity, shame, poverty, and all the other blows of fortune. Let us then, as many of us as can, win this advantage. It is the true and sovereign liberty on this earth: it arms us to defy violence and injustice, and to despise prisons and chains: "I will keep you in handcuffs and fetters, under a cruel guard. — I myself, a god, as soon as I wish, will set me free. This god, I think, is death; death is the final boundary of all things" (*In manicis et / Compedibus saevo te sub custode tenebo. / Ipse Deus, simul atque volam, me solvet. Opinor, / Hoc sentit; moriar; mors ultima linea rerum est* — Horace).
+
+Our very religion has no surer human foundation than contempt of life. Not only does reason argue us into it — for why fear losing a thing which, once lost, cannot be mourned? — but also: since we are threatened by so many kinds of death, is it not infinitely worse to fear them all forever than to undergo one of them once? And what does it matter when it happens, since it is inevitable? When someone told Socrates, "The Thirty Tyrants have sentenced you to death," he answered, "And nature has sentenced them" (Diogenes Laertius — though in fact Socrates was condemned not by the Thirty but by the Athenians). What a ridiculous thing, to trouble ourselves over taking the one step that frees us from all trouble! As our birth brought us the birth of all things, so our death includes the death of all things. To grieve that we will not be alive a hundred years from now is the same folly as grieving that we were not alive a hundred years ago. Death is the beginning of another life. We wept just as much, and it cost us just as much, to enter into this one — and we shed our earlier veil just the same on entering it. Nothing that happens only once can be a grievance. Is it reasonable to fear so long a thing that will be over so soon? Long life and short are made all one by death, for there is no long or short in things that are no more. Aristotle tells us of certain little creatures on the banks of the river Hypanis that live no more than a day: those that die at eight in the morning die in their youth, and those that die at five in the evening die in old age. Who would not laugh to see this moment of life weighed as happiness or misery? The longest and the shortest of our lives, set against eternity — or even against the lifespan of mountains, rivers, stars, trees, and some animals — is no less ridiculous (Seneca, *Consolation to Marcia*).
+
+But nature compels us to it. "Go out of this world," she says, "as you came into it. The same passage you made from death to life, without passion or fear — make it again, in the same way, from life to death. Your death is part of the order of the universe; it is part of the life of the world. Mortals live among themselves by turns, and, like runners in the games, hand the torch of life to the next" (*Inter se mortales mutua vivunt... Et, quasi cursores, vitai lampada tradunt* — Lucretius).
+
+"Would you have me change for you this beautiful order of things? It is the condition of your creation. Death is part of you — and while you try to escape it, you escape yourselves. This very being you now enjoy is divided equally between life and death. The day of your birth is one day's march toward the grave: 'The first hour that gave us life also took an hour away' (*Prima, quae vitam dedit, hora carpsit* — Seneca); 'As we are born we die, and the end hangs on the beginning' (*Nascentes morimur, finisque ab origine pendet* — Manilius).
+
+"All the time you live, you steal from life, and live at life's expense. The perpetual work of your life is only laying the foundation of death. You are in death while you are in life — because you will still exist after death, when you are no longer alive. Or, if you prefer it put this way: you are dead after life, but dying all the while you live. And death handles the dying far more roughly than the dead — more sharply, more truly. If you have made good use of life, you have had enough of it; go your way satisfied. 'Why not leave life like a guest satisfied with the feast?' (*Cur non ut plenus vitae conviva recedis?* — Lucretius).
+
+"If you have not known how to make good use of it — if it was wasted on you — why care about losing it? Why want to keep it longer? 'Why seek to add more life, only to waste it badly again, and die ungrateful for it all?' (*Cur amplius addere quaeris, / Rursum quod pereat male, et ingratum occidat omne?* — Lucretius).
+
+"Life in itself is neither good nor evil; it is the stage of good or evil, as you make it. And if you have lived a day, you have seen it all: one day is equal and like every other day. There is no other light, no other dark; this same sun, this moon, these same stars, this same order of things, is what your ancestors enjoyed, and what your descendants will enjoy: 'Your fathers saw no different world, and your grandchildren will see no different one' (*Non alium videre patres, aliumve nepotes / Aspicient* — Manilius).
+
+"And come the worst that can come — the whole cast and variety of my comedy is performed in a year. If you have watched the turning of my four seasons, they contain the infancy, the youth, the manhood, and the old age of the world. The year has played its part, and knows no art but to begin again; it will always be the same thing: 'We turn in the same circle, forever confined within it' (*Versamur ibidem, atque insumus usque* — Lucretius); 'And the year rolls round on its own footsteps' (*Atque in se sua per vestigia volvitur annus* — Virgil).
+
+"I am not going to invent new amusements for you: 'There is nothing else I can devise or find to please you; it is the same thing over and over' (*Nam tibi praeterea quod machiner, inveniamque / Quod placeat, nihil est; eadem sunt omnia semper* — Lucretius).
+
+"Make room for others, as others made room for you. Equality is the soul of fairness. Who can complain of sharing the fate that includes everyone? Besides, live as long as you can — you will not shorten by one bit the time you will be dead. It is all pointless: you will lie just as long in the state you fear so much as if you had died as a baby: 'Live on, triumphing over as many ages as you will — death will still remain eternal' (*Licet quot vis vivendo vincere secla, / Mors aeterna tamen nihilominus illa manebit* — Lucretius).
+
+"And yet I will put you in a condition you will have no reason to complain of. 'You do not know that in real death there will be no second self left alive to mourn you dead, standing over you where you lie' (*In vera nescis nullum fore morte alium te, / Qui possit vivus tibi te lugere peremptum, / Stansque jacentem* — Lucretius).
+
+"Nor will you even wish for the life you are so anxious about: 'For then no one misses himself or his life... and no longing for ourselves touches us' (*Nec sibi enim quisquam tum se vitamque requirit... Nec desiderium nostri nos afficit ullum* — Lucretius).
+
+"Death is less to be feared than nothing — if anything could be less than nothing: 'We must consider death to be much less a thing to us, if there can be anything less than what we see to be nothing' (*Multo mortem minus ad nos esse putandum, / Si minus esse potest, quam quod nihil esse videmus* — Lucretius).
+
+"It cannot concern you in any way whether you are living or dead: living, because you are still in being; dead, because you are no more. Moreover, no one dies before his hour. The time you leave behind was no more yours than the time that passed before you came into the world — and it concerns you no more. 'Consider how the ages of eternity that passed before us are nothing to us' (*Respice enim, quam nil ad nos anteacta vetustas / Temporis aeterni fuerit* — Lucretius)."
+
+Wherever your life ends, it is all there. The value of living lies not in the length of days but in the use of time. A man may have lived long and yet lived very little. Use the time while you have it. It depends on your will, not on the number of your days, to have lived long enough. Can you really imagine never arriving at the place you are always traveling toward? And yet no journey lacks its end. And if company makes it pleasanter or easier for you — does not the whole world walk the same road? "All things, when your life is over, will follow you" (*Omnia te, vita perfuncta, sequentur* — Lucretius).
+
+Does not the whole world dance the same round as you? Is there anything that does not grow old along with you? A thousand men, a thousand animals, a thousand other creatures die in the same moment that you die: "No night has followed day, no day has followed night, in which sobs and grieving cries were not heard — the companions of death and dark funerals" (*Nam nox nulla diem, neque noctem aurora sequuta est, / Quae non audierit mistos vagitibus aegris / Ploratus, mortis comites et funeris atri* — Lucretius).
+
+"Why try to pull back, if there is no escaping it? You have seen enough examples of people glad to die, as freed from heavy miseries — but have you ever found anyone dissatisfied with dying? It must be utter folly to condemn a thing you have never tried yourself, nor seen tried by anyone else. Why complain of me and of fate? Have we wronged you? Is it for you to govern us, or us to govern you? Though your full age may not be reached, your life is complete: a short man is as much a man as a giant, and neither men nor their lives are measured by the yardstick. Chiron refused immortality when he learned the terms on which he was to have it, from the god of time and duration himself, his father Saturn. Just think seriously how much more unbearable and painful an immortal life would be for man than the one I have given him. If you did not have death, you would curse me forever for depriving you of it. I mixed a little bitterness into it so that, seeing how useful it is, you would not too greedily and recklessly seek and embrace it. And to settle you in this moderation — neither sick of life nor hating death, which I have appointed you to meet once — I blended the two, pleasure and pain. It was I who taught Thales, the greatest of your sages, that living and dying are indifferent — which made him very wisely answer, when asked why he did not die then, 'Because it is indifferent' (Diogenes Laertius).
+
+"Water, earth, air, fire, and the other parts of this creation of mine are no more the instruments of your life than they are of your death. Why fear your last day? It does no more to destroy you than any of the rest. The last step does not cause weariness — it only arrives. Every day travels toward death; the last one only reaches it."
+
+These are the good lessons our mother Nature teaches.
+
+I have often wondered why it is that in war the image of death — whether we see it in ourselves or in others — seems, beyond comparison, less dreadful than at home in our own houses. (If it were not so, an army would be full of doctors and whimpering weaklings.) Death being everywhere the same, why should there be so much more steadiness in peasants and the lower sort of people than in those of better rank? I believe, truly, that it is those terrible ceremonies and preparations we dress it in that frighten us more than the thing itself: a whole new, contrary way of living; the cries of mothers, wives, and children; the visits of stunned and grieving friends; the attendance of pale, blubbering servants; a dark room ringed with burning candles; our bed surrounded by physicians and priests; in short, nothing but gloom and horror all around us. We seem dead and buried already. Children are afraid even of people they know well, when disguised in a mask — and so it is with us. The mask must be taken off things as well as people, and once it is removed we will find underneath nothing but the very same death that a common servant or a poor chambermaid died a day or two ago, without any fear at all. Happy is the death that leaves us no time for preparing such ceremonies.
+
+---
+
+*End of the essay. — DRAFT stops here per house rules; it does not cross the G4 read-through gate.*
+
+*[Note: the Project Gutenberg volume this draft is modernized from carries volume-level editorial appendices (an "APOLOGY" note and an "ETEXT EDITOR'S BOOKMARKS" index). They are the ebook editor's additions, not Montaigne's, and are not part of this chapter.]*
+# OF EXPERIENCE
+
+### Being Essay XIII of the Third Book of the *Essays* of Michel de Montaigne
+
+---
+
+> **DRAFT — NOT FOR PUBLICATION.** This is a working draft only. Nothing in
+> this file is finished, checked, or approved for release. It has not passed
+> Robert Tilford's G4 read-through gate and must not be published, emailed,
+> uploaded, or pushed anywhere. Local file only.
+
+> **AI-ASSISTANCE DISCLOSURE.** This draft was produced with the help of an
+> AI assistant (Awen, built by Meta). It is a modernization of a
+> public-domain translation, not a new translation from Montaigne's French.
+> Every passage below follows the base text named in the Method Note; nothing
+> has been added from other translators.
+
+> **METHOD NOTE.** Base text: Charles Cotton's English translation of
+> Montaigne's *Essays* as revised by William Carew Hazlitt (London, 1877),
+> taken from Project Gutenberg EBook #3599, *Essays of Michel de Montaigne —
+> Volume 19* (which contains only this essay, Book III, Chapter XIII, "Of
+> Experience"). Verified from the ebook's own header: "Translated by Charles
+> Cotton / Edited by William Carew Hazlitt / 1877." Where the base was
+> unclear, the fallback checked was John Florio's 1603 translation; the
+> modern copyrighted renderings of Donald Frame (1957/58) and M.A. Screech
+> (1991) were not consulted at any point. Archaic wording has been recast in
+> plain current English, with no thee/thou/thy. Latin, Greek, and French
+> quotations are kept as Montaigne wrote them, with the plain-English
+> renderings Hazlitt's edition supplies. Bracketed notes are the editor's
+> glosses from the base, slightly tidied. No claim is made that this is a
+> first, oldest, definitive, or complete rendering; it is a plain-English
+> modernization of one old public-domain translation, offered as a draft.
+
+---
+
+## OF EXPERIENCE
+
+There is no desire more natural than the desire for knowledge. We try every
+road that can lead us to it; where reason fails us, we use experience:
+
+> "Per varios usus artem experientia fecit,
+> Exemplo monstrante viam,"
+
+["By various trials experience created art, example showing the
+way."—Manilius, i. 59.]
+
+which is a much weaker and cheaper tool; but truth is so great a thing
+that we should not turn up our nose at any path that can guide us to it.
+Reason comes in so many shapes that we don't know which one to take hold
+of; experience has no fewer. The conclusions we try to draw from comparing
+events are shaky, because events are never alike. There is no quality so
+universal in this picture of things as diversity and variety. Greeks,
+Latins, and we ourselves all use eggs as our favorite example of things
+being alike; and yet there have been men—one at Delphi in particular—who
+could tell eggs apart so well by their markings that he never mistook one
+for another, and with many hens to choose from, could say which hen had
+laid which egg.
+
+Unlikeness forces its way into our works all by itself; no craft can
+achieve perfect likeness. Neither Perrozet nor any other card-maker can
+polish and whiten the backs of his playing cards so carefully that some
+gamblers won't tell them apart just from watching someone else shuffle
+them. Likeness doesn't so much make things one as unlikeness makes them
+different. Nature has bound herself to make nothing that wasn't unlike
+something else.
+
+And yet I'm not much taken with the idea of the man who thought he could
+rein in the power of judges by piling up laws and marking out each judge's
+share for him. He didn't realize there is as much freedom and elbow room
+in interpreting laws as in making them; and they only fool themselves who
+think to cut short our disputes by calling us back to the plain words of
+the Bible—as if our minds found any less room to argue over somebody
+else's meaning than to deliver our own, and as if there were less heat and
+bitterness in commentary than in invention. We can see how wrong he was,
+for we have more laws in France than all the rest of the world put
+together, more than would be needed to govern all of Epicurus's many
+worlds:
+
+> "Ut olim flagitiis, sic nunc legibus, laboramus."
+
+["As we were once weighed down by crimes, so now we are weighed down by
+laws."—Tacitus, Annals, iii. 25.]
+
+And yet we have left so much to the opinions and decisions of our judges
+that there never was fuller freedom or fuller license. What have our
+lawmakers gained by picking out a hundred thousand particular cases and
+applying a hundred thousand laws to them? That number bears no proportion
+at all to the infinite variety of human actions. The multiplying of our
+inventions will never catch up with the variety of examples; add a hundred
+times as many more, and it still won't happen that, among future events,
+one will be found that matches another one, chosen and recorded out of
+that vast number of millions of events, so closely and exactly paired and
+fitted to it that there won't remain some circumstance, some difference,
+calling for a different judgment. There is little relation between our
+actions, which are in perpetual change, and fixed, unchangeable laws. The
+laws most to be wished for are the rarest, simplest, and most general; and
+I'm even of the opinion that we'd be better off with none at all than with
+the monstrous number we have.
+
+Nature always gives us better and happier laws than the ones we make for
+ourselves. Look at the poets' picture of the Golden Age, and at the
+nations we see living with no laws but nature's. Some of them take for
+their only judge the first traveler who comes along their mountain roads
+to settle their disputes; others, on market day, pick someone out from
+among themselves on the spot to decide their quarrels. What danger would
+there be if the wisest among us settled ours the same way—according to
+what comes up, on the spot, without being tied to precedent and
+consequence? Every foot its own shoe. When King Ferdinand sent colonists
+to the Indies, he wisely provided that they should take no law students
+with them, for fear lawsuits would get a footing in that new world—law
+being a science that by its very nature breeds quarrels and division. He
+judged with Plato "that lawyers and doctors are bad institutions for a
+country."
+
+How does it happen that our ordinary language, so easy for every other
+use, becomes obscure and unintelligible in wills and contracts? How does
+it happen that a man who expresses himself so clearly in whatever else he
+says or writes can find no way to state himself in these that doesn't fall
+into doubt and contradiction—unless it's because the masters of that art,
+giving their special attention to picking out impressive-sounding words
+and building artificial sentences, have weighed every syllable so
+carefully and sifted every kind of tricky connection so thoroughly that
+they are now lost and tangled in an infinity of figures and tiny
+divisions, and can no longer be brought under any rule or formula, or any
+certain meaning:
+
+> "Confusum est, quidquid usque in pulverem sectum est."
+
+["Whatever is ground to powder becomes confused and
+indistinguishable."—Seneca, Epistle 89.]
+
+You've seen children trying to divide a blob of quicksilver into a set
+number of pieces: the more they press and work it and try to force it to
+their will, the more they stir up the freedom of that lively metal; it
+slips away from their efforts and scatters into so many separate drops
+that all counting is defeated. It's the same here: by splitting these fine
+distinctions ever finer, we teach men to multiply their doubts; we put
+them on the road to stretching out and diversifying difficulties,
+lengthening them and scattering them. By sowing and peddling questions
+they make the world fruitful and rich in uncertainties and disputes, the
+way the earth is made fertile by being broken up and dug deep.
+
+> "Difficultatem facit doctrina."
+
+["Learning breeds difficulty."—Quintilian, Institutes of Oratory,
+x. 3.]
+
+We had our doubts about Ulpian, and now we're even more tangled up with
+Bartolus and Baldus. We ought to wipe out the traces of this countless
+variety of opinions, not dress ourselves up in it and bequeath a load of
+whimsies to those who come after. I don't know what to say about it; but
+experience makes it plain that so many interpretations scatter truth and
+break it to pieces. Aristotle wrote to be understood; if he couldn't
+manage it, much less will some lesser man who isn't as good at it, and
+still less a third man trying to express the second man's thoughts. We
+open the matter up and spill it in the pouring out; out of one subject we
+make a thousand, and in multiplying and subdividing them we fall back into
+the infinity of Epicurus's atoms. No two men ever judged the same thing
+alike; and it's impossible to find two opinions exactly alike—not only in
+different men, but in the same man at different times. I often find matter
+for doubt in things the commentators haven't bothered to notice; I'm most
+likely to stumble on flat ground, like some horses I've known that trip
+most on the smoothest road.
+
+Who won't admit that glosses increase doubts and ignorance, when there's
+no book to be found, human or divine, that the world busies itself over,
+whose difficulties are cleared up by interpretation? The hundredth
+commentator hands it on to the next, knottier and more tangled than he
+found it. When did we ever agree among ourselves: "This book is done with;
+there's nothing more to be said about it"? It's most obvious in the law:
+we give the authority of law to countless learned doctors, countless
+decrees, and as many interpretations; and yet do we ever reach the end of
+needing interpretation? For all that, is there any progress or advance
+toward peace, or do we need any fewer lawyers and judges than when this
+great mass of law was still in its infancy? On the contrary, we darken and
+bury understanding; we can no longer find it except at the mercy of so
+many fences and barriers. Men don't know the natural sickness of the mind:
+it does nothing but ferret and pry, and goes round and round forever,
+juggling and tangling itself like a silkworm, and then smothers itself in
+its own work—"Mus in pice" ["A mouse in a pitch barrel"]. It thinks it
+sees, far off, some glimmer of light, some imaginary truth; but as it runs
+toward it, so many difficulties, obstacles, and fresh inquiries cross its
+path that it loses its way and gets drunk on the motion—much like Aesop's
+dogs, who, seeing something like a dead body floating in the sea and not
+being able to reach it, set to work drinking the water to lay the channel
+dry, and choked themselves on it. To which what a certain Crates said
+about the writings of Heraclitus fits well enough: "that they needed a
+reader who could swim well," so that the depth and weight of his learning
+wouldn't drag him under and drown him. It's nothing but our own weakness
+that makes us content with what others or we ourselves have found in this
+hunt for knowledge: a better mind won't rest so easily satisfied; there is
+always room for someone to follow—even for ourselves—and another road to
+take; there is no end to our inquiries; our end is in the other world.
+It's a sign the mind has either grown shortsighted, when it's satisfied, or
+grown tired. No generous mind can stop at itself; it will always reach
+farther, beyond its strength; it makes sallies beyond what it can do; if
+it doesn't push forward and press on, pull back, rush and wheel about,
+it's only half alive; its pursuits are without bound or method; its food
+is wonder, the chase, ambiguity—which Apollo made clear enough by always
+speaking to us in double, obscure, sideways meanings: not feeding us, but
+amusing and puzzling us. It's an irregular, perpetual motion, with no
+pattern and no goal; its inventions heat up, chase, and breed one
+another:
+
+Estienne de la Boetie; thus rendered by Cotton:
+
+> "So in a running stream one wave we see
+> After another roll incessantly,
+> And as they glide, each does successively
+> Pursue the other, each the other fly;
+> By this that's evermore pushed on, and this
+> By that continually preceded is:
+> The water still does into water swill,
+> Still the same brook, but different water still."
+
+There is more work in interpreting interpretations than in interpreting
+things, and more books about books than about any other subject; we do
+nothing but comment on one another. Every place swarms with commentaries;
+authors are in short supply. Isn't the chief and most honored knowledge of
+our later age the understanding of the learned? Isn't that the common,
+final end of all study? Our opinions are grafted onto one another: the
+first serves as the stock for the second, the second for the third, and so
+on; step by step we climb the ladder. Which is why the man perched highest
+often has more honor than merit, for he's gotten up only an inch on the
+shoulders of the man just below him.
+
+How often—and maybe how foolishly—have I stretched my book out to make it
+talk about itself; foolishly, if for no other reason than this: it should
+remind me of what I say about others who do the same, that the frequent
+loving glances they cast at their work show their hearts panting with
+self-love, and that even the scornful severity with which they lash their
+work is just the dandling and caressing of a mother's love—like
+Aristotle, whose high opinion and low opinion of himself often spring from
+the same air of arrogance. My excuse is that I ought to have more freedom
+than others in this, since I write expressly about myself and my writings
+as I do about my other actions; my subject turns back on itself. But I
+don't know whether others will accept this excuse.
+
+I noticed in Germany that Luther has left behind as many divisions and
+disputes over doubts about his opinions—more, even—than he himself raised
+over the Holy Scriptures. Our quarrel is about words. I ask what nature
+is, what pleasure is, what a circle is, what substitution is; the question
+is about words, and it's answered with words. A stone is a body; but if a
+man presses further—"And what is a body?" "Substance." "And what is
+substance?" and so on—he'll drive the man answering to the end of his
+Calepin.
+
+> [Calepin (Ambrogio da Calepio), a famous fifteenth-century
+> lexicographer. His polyglot dictionary became so famous that "Calepin"
+> became the common word for any dictionary.]
+
+We trade one word for another, and often for one less understood. I know
+better what a man is than I know what "animal" is, or "mortal," or
+"rational." To settle one doubt they give me three; it's the Hydra's head.
+Socrates asked Meno what virtue was. "There is," says Meno, "the virtue of
+a man and of a woman, of a magistrate and of a private person, of an old
+man and of a child." "Very fine," cried Socrates; "we were looking for one
+virtue, and you've brought us a whole swarm." We ask one question, and
+they hand us back a whole hive. Just as no event and no face entirely
+resembles another, so no two entirely differ: nature mixes things
+cleverly. If our faces weren't alike, we couldn't tell man from beast; if
+they weren't unlike, we couldn't tell one man from another. All things
+hold together by some likeness; every example limps, and the conclusions
+drawn from experience are always faulty and imperfect. Comparisons are
+always hitched at one end or the other: that's how laws serve, fitted to
+each of our cases by some twisted, biased, forced interpretation.
+
+Since the laws of conduct—which concern each man's particular duty to
+himself—are so hard to frame, as we see they are, it's no wonder the ones
+that govern so many particular men are much harder. Just look at the shape
+of this justice that governs us; it's a true witness to human weakness, so
+full is it of error and contradiction. What we call mercy and severity in
+justice—and we find so much of both that I don't know whether the middle
+course is found as often—are sickly, unjust members of the very body and
+essence of justice. Some country people just brought me news in a hurry:
+they'd left in one of my woods a man with a hundred wounds on him, still
+breathing, who begged them for pity's sake for water and to be carried to
+somewhere he could be helped. They tell me they didn't dare go near him,
+but ran off, for fear the officers of justice would catch them there and—as
+happens to those found near a murdered man—they'd be questioned about the
+matter to their utter ruin, having neither money nor friends to defend
+their innocence. What could I have said to these people? It's certain that
+this act of humanity would have landed them in trouble.
+
+How many innocent people have we known punished—and that through no fault
+of the judge—and how many more that never came to our knowledge? This
+happened in my time: certain men were condemned to die for a murder; their
+sentence, if not yet pronounced, was at least settled and decided on. Just
+in time, the judges are told by the officers of a lower court nearby that
+they have some men in custody who have directly confessed the murder and
+given an unquestionable account of every detail of it. Yet it was gravely
+debated whether or not to suspend the execution of the sentence already
+passed on the first accused men. They weighed the novelty of the example
+from the legal point of view, and the consequence of overturning
+judgments—that the sentence had been passed, and the judges could no
+longer go back on it. And in the end, those poor devils were sacrificed to
+the forms of justice. Philip—or some other king—guarded against such a
+mishap in this way: he had condemned a man to pay a heavy fine to another
+by an absolute judgment. The truth coming out some time later, he found he
+had passed an unjust sentence. On one side stood the right of the case; on
+the other, the right of legal forms. He satisfied both as best he could,
+leaving the sentence as it was and paying the condemned man out of his own
+purse. But his was a case that could be repaired; my men were hanged past
+all repair. How many condemnations have I seen more criminal than the
+crimes themselves!
+
+All of which brings to mind the old opinions: "that a man must do wrong in
+the small if he's to do right in the large, and be unjust in little things
+if he's to arrive at justice in great ones; that human justice is shaped on
+the model of medicine, where whatever is useful is also just and right;
+and what the Stoics held, that Nature herself goes against justice in most
+of her works; and what the Cyrenaics received, that nothing is just in
+itself, but customs and laws make justice; and what the Theodorians held,
+that theft, sacrilege, and every kind of impurity are just in a wise man
+if he finds them profitable to him." There's no remedy for it. I'm in the
+same case Alcibiades was in: I will never, if I can help it, put myself in
+the hands of a man who can decide about my head—where my life and honor
+would depend more on my lawyer's skill and diligence than on my own
+innocence. I'd trust myself to a justice that took notice of my good deeds
+as well as my bad, where I had as much to hope for as to fear: being let
+off isn't pay enough for a man who does better than merely avoid doing
+wrong. Our justice shows us only one hand, and the left hand at that; let
+a man be who he may, he's sure to come off with a loss.
+
+In China—a kingdom whose government and arts, without any trade with or
+knowledge of ours, surpass our examples in several excellent points, and
+whose history teaches me how much greater and more various the world is
+than either the ancients or we have been able to grasp—the officers sent
+by the prince to inspect the state of his provinces punish those who
+behave badly in their charge, and in the same way liberally reward those
+who have conducted themselves better than the common run and beyond what
+their duty required. These men come forward not just to be approved but to
+gain; not just to be paid, but to be given a present.
+
+No judge, thank God, has ever yet spoken to me as a judge, on any account
+whatever—my own or another's, criminal or civil; and no prison has ever
+held me, not even to walk through it. Imagination alone makes the very
+outside of a jail hateful to me; I'm so in love with liberty that if I were
+forbidden to set foot in some corner of the Indies, I'd live a little less
+at my ease; and while I can find earth or air open elsewhere, I'll never
+skulk in a place where I have to hide. Good God, how badly I would bear
+the condition I see so many people in—nailed to one corner of the kingdom,
+deprived of the right to enter the great cities and courts and the freedom
+of the public roads, for having quarreled with our laws. If the laws I
+live under so much as shook a finger at me in menace, I'd go looking for
+others at once, wherever they might be. All my little prudence in the civil
+wars we're now in the middle of is spent making sure they don't block my
+freedom to come and go.
+
+Now, laws keep up their credit not because they're just, but because
+they're laws; that's the mystic foundation of their authority—they have
+no other, and it serves their purpose well enough. They're often made by
+fools, still more often by men who, hating equality, fail at fairness, but
+always by men—vain, irresolute authors. There's nothing so faulty, so
+grossly faulty, so ordinarily faulty, as the laws. Whoever obeys them
+because they're just isn't obeying them as he should. Our French laws, by
+their irregularity and deformity, lend a hand in some sort to the disorder
+and corruption so plain in how they're handed down and carried out. The
+command is so tangled and shifting
+
+that it in some sort excuses disobedience and failure alike—in the
+interpreting, the administering, and the observing of it. Whatever fruit we
+may gather from experience, it will do little for our instruction if we
+draw it from foreign examples while making so little profit from our own,
+which is more familiar to us and surely enough to teach us what we need.
+I study myself more than any other subject; that's my metaphysics, my
+physics:
+
+> "Quis deus hanc mundi temperet arte domum:
+> Qua venit exoriens, qua deficit: unde coactis
+> Cornibus in plenum menstrua luna redit
+> Unde salo superant venti, quid flamine captet
+> Eurus, et in nubes unde perennis aqua;
+> Sit ventura dies mundi quae subruat arces...."
+
+["What god governs with skill this dwelling of the world? From where does
+the monthly moon rise, where does she wane? How is it that her horns
+contract and fill out again? Why do winds rule the sea? What does the east
+wind chase with its blasts? And where are the clouds forever supplied with
+water? Is a day to come that will undermine the world?"—Propertius,
+iii. 5, 26.]
+
+> "Quaerite, quos agitat mundi labor."
+
+["Ask those whom the cares of the world trouble."—Lucan, i. 417.]
+
+In this universal order I let myself be led, ignorantly and carelessly,
+by the general law of the world. I'll know it well enough when I feel it;
+my learning can't make it change its course; it won't change itself for
+me. It's folly to hope so, and a greater folly to trouble myself about it,
+since it's necessarily the same for all and common to all. The goodness
+and power of the Governor ought to discharge us entirely from caring about
+the government. Philosophical inquiries and contemplations serve no other
+use but to sharpen our curiosity. The philosophers, with good reason, send
+us back to nature's rules; but they have nothing to do with so lofty a
+knowledge—they falsify the rules and show us nature's face painted with
+too high and too false a coloring, which is why so many different pictures
+get made of so uniform a subject. As nature has given us feet to walk
+with, so she has given us prudence to guide us through life: not as clever
+or strong or showy a prudence as the one of their invention, but an easy,
+quiet, wholesome one that does very well what the other only promises—in
+the man lucky enough to know how to use it sincerely and steadily, that is
+to say, according to nature. The simplest way of trusting yourself to
+nature is the wisest way. Oh, what a soft, easy, wholesome pillow is
+ignorance and incuriosity, for a well-ordered head to rest on!
+
+I'd rather understand myself well in myself than in Cicero. From the
+experience I have of myself, I'd find enough to make me wise, if I were
+only a good student of it. Whoever calls to mind the excess of his past
+anger, and how far that fever carried him, will see the ugliness of this
+passion better than in Aristotle, and conceive a truer hatred of it.
+Whoever remembers the ills he's gone through, those that threatened him,
+and the small occasions that moved him from one state to another, will by
+that prepare himself for future changes and gain knowledge of his
+condition. The life of Caesar is no greater an example to us than our own:
+it's a life of command and renown, but still a life subject to every human
+accident. We have only to listen to our own; we apply to ourselves
+whatever we most need. Whoever calls to mind how many times he's been
+wrong in his own judgment—isn't he a great fool if he doesn't distrust it
+ever after? When I find myself convinced by someone else's reasoning of a
+false opinion I held, I don't so much learn the new thing he told me, or
+that particular bit of ignorance—that would be no great gain—as I learn,
+in general, my own weakness and the treachery of my understanding, and
+from that I draw the reform of the whole mass. I do the same with all my
+other errors, and I find great use for life in this rule. I don't look at
+the kind or the instance, like a stone I've stumbled over; I learn to
+suspect my steps everywhere, and take care to set them right. To learn
+that a man has said or done a foolish thing is nothing; a man must learn
+that he is nothing but a fool—a much fuller and more important lesson.
+The false steps my memory has so often made, even when it was most sure
+and confident of itself, aren't thrown away on me for nothing: it swears
+and assures me in vain— I shake my head; the first objection raised
+against its testimony puts me in suspense, and I dare not rely on it in
+anything of weight, nor vouch for it in someone else's business. And if it
+weren't that what I do for lack of memory, others do more often for lack
+of good faith, I'd always, in matters of fact, rather take the truth from
+another man's mouth than from my own. If everyone pried into the effects
+and circumstances of the passions that sway him, as I've done into the
+ones I'm most subject to, he'd see them coming and would break their force
+and speed a little. They don't always seize us all at once; there's
+warning and degrees:
+
+> "Fluctus uti primo coepit cum albescere vento,
+> Paulatim sese tollit mare, et altius undas
+> Erigit, inde imo consurgit ad aethera fundo."
+
+["As with the first wind the sea begins to whiten and foam, then swells by
+degrees and raises its waves higher and higher, till the ocean rises from
+its depths to the sky."—Virgil, Aeneid, vii. 528.]
+
+Judgment holds the master's seat in me—or at least it tries hard to make
+it so. It leaves my appetites to go their own way: hatred and friendship,
+even the love I bear myself, without change or corruption. If it can't
+reform the other parts after its own pattern, at least it won't let itself
+be corrupted by them; it plays its game apart.
+
+The advice to everyone "to know himself" should carry great weight, since
+that god of wisdom and light had it written on the front of his
+temple—[at Delphi]—as summing up all he had to advise us. Plato says too
+that prudence is nothing but carrying out this command; and Socrates works
+it out in detail in Xenophon. The difficulties and obscurities in any
+science are seen only by those who've gotten inside it; a certain degree
+of understanding is needed to be able to know that a man doesn't know, and
+you have to push against a door to know whether it's bolted against you or
+not. That's where this Platonic subtlety comes from: "neither should those
+who know inquire, since they know; nor those who don't know, since to
+inquire they must know what they're inquiring about." So it is with this
+business of "knowing oneself": that every man is seen so settled and
+satisfied with himself, that every man thinks himself intelligent enough,
+shows that nobody knows anything about the matter—as Socrates lets
+Euthydemus understand. I, who profess nothing else, find in it so infinite
+a depth and variety that all the fruit I've gathered from my learning only
+makes me feel how much I have to learn. To my weakness, so often
+confessed, I owe my bent toward modesty, toward the obedience of the
+beliefs prescribed to me, toward a constant coolness and moderation in my
+opinions, and a hatred of that troublesome, quarrelsome arrogance that
+wholly believes and trusts in itself—the capital enemy of learning and
+truth. Just listen to them laying down the law: the first foolish things
+they utter come out in the style men use to establish religions and laws:
+
+> "Nihil est turpius, quam cognitioni et perceptioni assertionem
+> approbationemque praecurrere."
+
+["Nothing is uglier than for assertion and approval to run ahead of
+knowledge and perception."—Cicero, Academics, i. 13.]
+
+Aristarchus said that in ancient times there were scarcely seven wise men
+to be found in the world, and in his time scarcely so many fools. Don't we
+have more reason than he to say so in our age? Dogmatic assertion and
+obstinacy are plain signs of a lack of sense. This fellow may have knocked
+his nose on the ground a hundred times in a day, yet he'll be at his
+"therefores" as firm and sturdy as ever. You'd think some new soul and
+vigor of understanding had been poured into him since, and that it had
+happened to him as it did to that ancient son of the earth, who took fresh
+courage and strength from his fall:
+
+> "Cui cum tetigere parentem,
+> jam defecta vigent renovata robore membra:"
+
+["Whose failing limbs, when they touched his mother earth, at once took on
+new strength."—Lucan, iv. 599.]
+
+Doesn't this incorrigible blockhead think he's picked up a new
+understanding just by picking up a new dispute? It's from my own
+experience that I accuse human ignorance, which in my opinion is the surest
+lesson in the world's school. Those who won't conclude it in themselves,
+from so lowly an example as mine or their own, let them believe it from
+Socrates, the master of masters. For the philosopher Antisthenes said to
+his pupils, "Let us go hear Socrates; there I will sit as a pupil with
+you"—holding to that Stoic teaching that virtue alone is enough to make a
+life completely happy, needing nothing else whatever, he added, except the
+strength of Socrates.
+
+That long attention I give to studying myself also fits me to judge
+others well enough; and there are few things I speak of better or with
+better excuse. It very often happens that I see and pick out my friends'
+qualities more exactly than they do themselves; I've astonished some of
+them with how on the mark my description was, and given them warning about
+themselves. Having been used from childhood to study my own life in the
+lives of others, I've picked up a studious turn in that line; and once I'm
+set on it, few things about me—faces, humors, talk—that serve the purpose
+escape me. I study everything, both what I'm to avoid and what I'm to
+follow. In my friends, too, I make out their inward leanings from what
+they produce—not by sorting this infinite variety of such different,
+unconnected actions into certain kinds and chapters, and neatly
+distributing my lots and divisions under known heads and classes:
+
+> "Sed neque quam multae species, nec nomina quae sint,
+> Est numerus."
+
+["But of how many kinds there are, and what their names are, there is no
+counting."—Virgil, Georgics, ii. 103.]
+
+The wise set out their fancies more particularly, piece by piece; I, who
+see no further into things than use informs me, present mine in a general
+way, without rule, by trial and error. I deliver my opinion in separate,
+unconnected articles, as something that can't be spoken all at once and in
+the lump. Relation and conformity aren't to be found in low, common souls
+like ours. Wisdom is a solid, whole building, where every piece keeps its
+place and bears its mark:
+
+> "Sola sapientia in se tota conversa est."
+
+["Wisdom alone is wholly turned inward upon itself."—Cicero, On Ends,
+iii. 7.]
+
+I leave it to the professionals—and I don't know whether they'll manage
+it—in so tangled, minute, and chancy a business, to marshal this infinite
+variety of faces into distinct bodies, to fix our inconstancy and set it
+in order. I don't just find it hard to piece our actions together; I find
+it hard besides to mark each one by itself with any chief quality, so
+ambiguous and many-shaped they are in different lights. What's remarked as
+rare in Perseus, king of Macedon—"that his mind, fixing itself to no one
+condition, wandered through every way of living, and showed manners so
+wild and rambling that neither he himself nor anyone else knew what kind
+of man he was"—seems to fit almost everybody; and I've known another man
+of his stamp to whom I think this conclusion might more properly be
+applied: no moderate settledness, always rushing headlong from one extreme
+to the other on occasions no one could guess at, no straight path without
+turns and wonderful contradictions, no one quality simple and unmixed—so
+that the best guess men could make one day would be that he made a study
+of making himself known by being unknowable. A man needs sound ears to
+hear himself frankly criticized; and since there are few who can bear to
+hear it without smarting, those who risk doing it for us show a singular
+proof of friendship—for it is loving sincerely indeed to dare to wound and
+offend us for our own good. I think it harsh to judge a man whose bad
+qualities outweigh his good ones. Plato requires three things in whoever
+would examine another's soul: knowledge, goodwill, and boldness.
+
+I was once asked what I thought myself fit for, if anyone had wanted to
+make use of me when I was of a suitable age:
+
+> "Dum melior vires sanguis dabat, aemula necdum
+> Temporibus geminis canebat sparsa senectus:"
+
+["While better blood gave me strength, and before envious old age
+whitened and thinned my temples."—Virgil, Aeneid, v. 415.]
+
+"For nothing," said I—and I readily excuse myself from knowing anything
+that would enslave me to others. But I would have told my master the
+truth—[Was this Henri VI.? D.W.]—and would have trained his manners, if he
+had pleased, not wholesale by school lessons, which I don't understand and
+from which I see no true reform come in those who do, but by watching him
+at leisure, on every occasion, and judging him plainly and naturally as an
+eyewitness, one point at a time—letting him know how he stood in common
+opinion, as against his flatterers. There's none of us who wouldn't be
+worse than kings if we were as continually corrupted as they are by that
+sort of rabble. What wonder if Alexander, that great king and philosopher,
+couldn't defend himself against them!
+
+I should have had loyalty, judgment, and freedom enough for that office.
+It would have to be a nameless office, or it would lose its grace and its
+effect; and it's a part not fit for all men indifferently. For truth
+itself hasn't the privilege of being spoken at all times and to all
+comers; its use, noble as it is, has its cautions and limits. It often
+happens, as the world goes, that a man slips it into a prince's ear not
+only to no purpose but harmfully and unjustly besides; and no man will
+make me believe that a virtuous remonstrance can't be viciously applied,
+or that the interest of the substance doesn't often have to give way to
+the interest of the form.
+
+For such a purpose I'd want a man content with his own fortune:
+
+> "Quod sit, esse velit, nihilque malit,"
+
+["Who is willing to be what he is, and wishes for nothing more."—Martial,
+x. ii, 18.]
+
+and of middling station. For on the one hand he wouldn't be afraid to
+touch his master's heart to the quick, for fear of losing his preferment
+by it; and on the other, being of no high rank, he'd have easier dealings
+with all sorts of people. I'd have this office limited to a single man;
+for to give the privilege of this freedom and privacy to many would breed
+an inconvenient disrespect. And in that one man, above all things, I'd
+require the loyalty of silence.
+
+A king isn't to be believed when he boasts of his constancy in standing
+the enemy's shock for his glory, if for his profit and improvement he can't
+stand a friend's free advice—which has no power but to pinch his ear, the
+rest of its effect still lying in his own hands. Now, no condition of men
+stands in such great need of true and free advice and warning as kings
+do: they lead a public life and have to satisfy the opinion of so many
+onlookers that, as those around them hide from them whatever might turn
+them from their own way, they find themselves, before they know it,
+wrapped in the hatred and loathing of their people—often on occasions they
+might have avoided, without any loss even to their pleasures, if they'd
+been advised and set right in time. Their favorites commonly think more of
+themselves than of their master; and indeed it suits them, for in truth
+most offices of real friendship, when offered to a sovereign, run a rough
+and dangerous risk—so that there's great need in them not only of very
+great affection and freedom, but of courage too.
+
+In short, all this hotchpotch I'm scribbling here is nothing but a record
+of the essays of my own life—which, for inward soundness, is exemplary
+enough to take lessons from, even against the grain. But as for bodily
+health, no man can supply more profitable experience than I, who present
+it pure, noway corrupted or changed by art or opinion. Experience is
+properly on its own dunghill in the subject of medicine, where reason
+wholly gives it place. Tiberius said that whoever had lived twenty years
+ought to answer for himself in whatever was harmful or wholesome to him,
+and know how to manage himself without medicine;
+
+> [All that Suetonius says in his Life of Tiberius is that he said the man
+> who, having reached sixty, held out his pulse to a physician was a
+> fool.]
+
+and he might have learned it from Socrates, who, advising his pupils to
+make their health their chief study, added that it would be a strange
+thing if a sensible man, attending to his exercise and diet, didn't know
+better than any physician what was good or bad for him. And medicine
+itself always professes to take experience as the test of what it does.
+So Plato had reason to say that to be a proper physician, a man who'd
+become one would first have to have passed through all the diseases he
+claims to cure himself, and through all the accidents and circumstances
+he's to judge of. It's only reasonable they should catch the pox if they
+want to know how to cure it. For my part, I'd put myself in such hands;
+the others only guide us like a man who paints seas and rocks and harbors
+sitting at his table, and there draws the model of a ship sailing in
+perfect safety—but set him to the work itself and he doesn't know which
+end to begin at. They describe our maladies the way a town crier describes
+a lost horse or dog—such a color, such a height, such an ear—but bring the
+beast to him and he doesn't know it, for all that. If medicine should one
+day give me some good, visible relief, then truly I'll cry out in good
+earnest:
+
+> "Tandem effcaci do manus scientiae."
+
+["At last I take efficacious science by the hand."—Horace.]
+
+The arts that promise to keep our bodies and souls healthy promise a great
+deal; but at the same time there are none that keep their promise less.
+And in our time, those who profess these arts among us show the effects
+less than any other sort of men. The most you can say of them is that
+they sell medicinal drugs; that they're physicians, no man can say.
+
+> [The 1588 edition adds: "Judging by themselves, and by those who are
+> ruled by them."]
+
+I've lived long enough to be able to give an account of the custom that's
+carried me so far; for anyone who wants to try it, as his taster I've made
+the experiment. Here are some of the items, as my memory supplies them—I
+have no custom that hasn't varied with circumstances, but I record only
+those I've known best and that have so far had the greatest hold on me.
+
+My way of life is the same in sickness as in health: the same bed, the
+same hours, the same meat, and even the same drink serve me in both states
+alike. I add nothing to them but more or less moderation, according to my
+strength and appetite. My health is keeping my usual state undisturbed. I
+see that sickness puts me off it on one side, and if I let the physicians
+rule me they'll put me off it on the other—so that by fortune and by art
+alike I'm thrown off my course. I believe nothing more firmly than this:
+that I can't be harmed by the use of things I've been so long used to.
+It's for custom to shape a man's life as she pleases; she's everything in
+that. She's Circe's potion, changing our nature as she sees fit. How many
+nations, only three steps from us, think the fear of the night dew—so
+plainly harmful to us—a ridiculous fancy; and our own boatmen and peasants
+laugh at it. You make a German sick if you put him on a mattress, as you
+do an Italian if you put him on a featherbed, and a Frenchman if you give
+him no curtains or fire. A Spanish stomach can't stand eating the way we
+do, nor ours drinking the way the Swiss do. A German at Augsburg made me
+laugh heartily by finding fault with our fireplaces, using the same
+arguments we commonly use to run down their stoves. For to tell the truth,
+the smothered heat, and then the smell of the heated stuff the fire is
+made of, greatly offends those not used to them—not me. And indeed, the
+heat being always equal, constant, and spread everywhere, with no flame,
+no smoke, and none of the wind that comes down our chimneys, theirs may in
+many ways stand comparison with ours. Why don't we copy the Roman way of
+building? They say that in ancient times fires weren't made inside the
+houses but outside, at the foot of them, and the heat was carried through
+the whole building by pipes built into the wall, winding around the rooms
+to be warmed—which I've seen plainly described somewhere in Seneca. This
+German, hearing me praise the conveniences and beauties of his city—and it
+truly deserves it—began to pity me for having to leave it; and the first
+drawback he named was the heaviness of head the chimneys elsewhere would
+give me. He'd heard someone make this complaint and pinned it on us, being
+by custom unable to notice it at home. All heat that comes from fire
+weakens and dulls me. Evenus said fire was the best seasoning of life; I
+choose any other way of warming myself.
+
+We're afraid to drink our wines when we get toward the bottom of the
+cask; in Portugal those fumes are thought delicious, and it's the drink of
+princes. In short, every nation has many customs and ways not only unknown
+to other nations but savage and miraculous in their eyes. What are we to
+do with people who accept no evidence that isn't in print, who don't
+believe men unless they're in a book, nor truth unless it's of a
+respectable age? We dignify our follies by committing them to the press:
+it carries much more weight to say "I've read such a thing" than just to
+say "I've heard such a thing." But I, who no more distrust a man's mouth
+than his pen, and who know men write as indiscreetly as they speak, and
+who look on this age as one already past, quote a friend as readily as
+Aulus Gellius or Macrobius, and what I've seen as readily as what they've
+written. And as it's held of virtue that it's no greater for having lasted
+longer, so I hold of truth that for being older it's none the wiser. I
+often say it's mere folly that makes us run after foreign, book-learned
+examples; their fertility is the same now as in the time of Homer and
+Plato. But isn't it that we seek more honor from the quotation than from
+the truth of the matter in hand—as if it were more to the purpose to
+borrow our proofs from the print shops of Vascosan or Plantin than from
+what's to be seen in our own village? Or else, indeed, that we haven't the
+wit to pick out and make useful what we see before us, and to judge it
+clearly enough to turn it into an example. For if we say we need authority
+to give weight to our testimony, we're wide of the mark; since in my
+opinion, out of the most ordinary, common, well-known things—if we could
+only find their light—the greatest miracles of nature could be formed,
+and the most wonderful examples, especially on the subject of human
+actions.
+
+Now, on this subject—setting aside the examples I've gathered from books,
+and what Aristotle tells of Andron the Argive, that he crossed the burning
+sands of Libya without drinking—a gentleman who has carried himself very
+well in several employments said, in a place where I was, that he'd ridden
+from Madrid to Lisbon in the heat of summer without any drink at all. He's
+very healthy and vigorous for his age, and there's nothing extraordinary in
+his way of life but this: that he sometimes goes two or three months, even
+a whole year, as he's told me, without drinking. He's sometimes thirsty,
+but he lets it pass; and he holds that it's an appetite that easily goes
+away of itself. He drinks more from fancy than from need or pleasure.
+
+Here's another example: not long ago I found one of the most learned men
+in France, a man of no small fortune, studying in a corner of a hall
+they'd screened off for him with tapestry, with a rabble of servants all
+around him making free with their noise. He told me—and Seneca says almost
+the same of himself—that he turned this racket to advantage: beaten on by
+this noise, he collected and drew himself into himself all the more for
+contemplation, and this storm of voices drove his thoughts back inside
+him. When he was a student at Padua, his study stood so long amid the
+rattle of coaches and the tumult of the square that he not only trained
+himself to scorn noise but even to use it in the service of his studies.
+Socrates answered Alcibiades, who wondered how he could stand his wife's
+perpetual scolding: "Why," said he, "as those do who get used to the
+ordinary noise of wheels drawing water." I'm quite the opposite: I have a
+tender head, easily upset; when it's bent on something, the least buzzing
+of a fly kills it.
+
+Seneca in his youth, having warmly taken up the example of Sextius and
+eating nothing that had died, went a whole year without such food and, as
+he said, with pleasure; and he gave it up so as not to be suspected of
+taking up this rule from some new religion that prescribed it. In the same
+way he took from the precepts of Attalus the custom of never lying on any
+bedding that sank under his weight, and even in his old age used only
+beds that wouldn't yield to any pressure. What the usage of his time made
+him count as roughness, ours makes us count as softness.
+
+Just look at the difference between my laborers' way of living and mine;
+the Scythians and Indians have nothing more remote, both from what I can
+do and from my shape. I've taken on charity boys to serve me who soon
+after quit both my kitchen and my livery, just to get back to their old
+way of life; and I found one afterward picking mussels out of the gutter
+for his dinner, whom neither coaxing nor threats could wean from the
+sweetness he found in poverty. Beggars have their splendors and delights
+as well as the rich, and, they say, their dignities and governments. These
+are the effects of custom: she can mold us not only into whatever shape
+she pleases—the wise tell us to apply ourselves to the best, which she'll
+soon make easy for us—but also into change and variety, which is the
+noblest and most useful lesson she teaches us. The best thing about my
+bodily condition is that I'm flexible and not very obstinate: I have
+inclinations of my own, more ordinary and more agreeable than others, but
+I'm turned aside from them with very little ado and slip easily into the
+opposite course. A young man should cross his own rules, to wake up his
+vigor and keep it from growing faint and rusty; and there's no way of life
+so weak and stupid as one carried on by rule and discipline:
+
+> "Ad primum lapidem vectari quum placet, hora
+> Sumitur ex libro; si prurit frictus ocelli
+> Angulus, inspecta genesi, collyria quaerit;"
+
+["When he wants to be carried to the first milestone, the hour is picked
+from the almanac; if the rubbed corner of his eye itches, his horoscope
+examined, he calls for eye-salve."—Juvenal, vi. 576.]
+
+He should often throw himself into excesses too, if he'll take my advice;
+otherwise the smallest spree will ruin him and make him troublesome and
+disagreeable company. The worst quality in a well-bred man is being
+over-particular, tied to one fixed way—and it is fixed, if it isn't
+pliable and supple. It's a kind of reproach not to be able, or not to
+dare, to do what we see those around us doing; let such men stay home. In
+every man it's unbecoming, but in a soldier vicious and intolerable—who,
+as Philopoemen said, ought to accustom himself to every variety and
+unevenness of life.
+
+Though I was brought up, as much as possible, to liberty and
+independence, yet so it is that, growing old and having settled by
+indifference on certain forms—my age is now past instruction and has
+nothing to do henceforth but keep itself up as best it can—custom has
+already, before I knew it, stamped its mark on me in certain things, so
+that I count it a kind of excess to give them up. Without doing myself
+violence, I can't sleep in the daytime, or eat between meals, or take
+breakfast, or go to bed without a good stretch between eating and
+sleeping—[Gastroesophogeal Reflux. D.W.]—about three hours after supper.
+Nor have children except before I sleep, nor have them standing; nor stand
+my own sweat; nor quench my thirst with pure water or pure wine; nor keep
+my head long bare; nor have my hair cut after dinner. And I'd be as uneasy
+without my gloves as without my shirt, or without washing when I rise from
+table or from bed; and I couldn't lie without a canopy and curtains, as if
+they were necessities. I could dine without a tablecloth, but not without a
+clean napkin—after the German fashion—very comfortably; I dirty them more
+than the Germans or Italians do, and make little use of spoon or fork. I'm
+sorry they didn't keep up the fashion, started after the example of kings,
+of changing our napkin at every course, as they do our plate. We're told
+of that hard-working soldier Marius that, growing old, he got particular
+about his drink and would drink only out of a cup of his own. In the same
+way I've let myself fancy a certain shape of glass, and don't willingly
+drink from common glasses, any more than from a strange common hand: all
+metal offends me compared with something clear and transparent—let my eyes
+taste too, according to their capacity. I owe several other such niceties
+to custom. Nature, on the other side, has helped me to some of hers: as,
+not being able to stand more than two full meals in one day without
+overloading my stomach, nor to skip one of those meals entirely without
+filling myself with wind, drying up my mouth, and dulling my appetite; the
+great discomfort I get from too much evening air—for in recent years, on
+night marches, which often last all night, after five or six hours my
+stomach starts to turn, with a violent headache, so that I always throw up
+before daybreak. When the others go to breakfast, I go to sleep; and when
+I get up, I'm as brisk and gay as before. I'd always been told the night
+dew never rises except at the start of the night; but for some years now,
+long and familiar dealings with a lord possessed with the notion that the
+night dew is sharpest and most dangerous as the sun declines, an hour or
+two before it sets—which he carefully avoids, scorning that of the
+night—has almost pressed on me, not so much his reasoning as his
+experience. What! Shall mere doubt and inquiry strike our imagination so
+as to change us? Those who give way to these leanings absolutely and all
+at once draw total ruin on themselves. I'm sorry for several gentlemen
+who, through their physicians' folly, have in their youth and health shut
+themselves up entirely: it would be better to put up with a cough than, by
+disuse, to lose forever the company of common life in things of such great
+use. Malignant science, to bar us from the pleasantest hours of the day!
+Let's keep our possession to the last; for the most part a man hardens
+himself by holding out, and corrects his constitution—as Caesar did his
+falling sickness—by dint of scorning it. A man should attach himself to
+the best rules, but not enslave himself to them—except to such, if any
+there are, where obligation and servitude pay.
+
+Both kings and philosophers go to stool, and ladies too; public lives are
+tied to ceremony; mine, obscure and private, enjoys every natural freedom.
+Soldier and Gascon are also qualities a little given to indiscretion;
+so I'll say of this act of relieving nature that it's good to tie it to
+certain fixed night hours and force yourself to it by custom, as I've
+done—but not to tie yourself, as I've done in my declining years, to one
+particular convenience of place and seat for the purpose, and make it
+troublesome by long sitting. And yet, in the fouler offices, isn't it in
+some measure excusable to ask for more care and cleanliness?
+
+> "Natura homo mundum et elegans animal est."
+
+["Man is by nature a clean and dainty creature."—Seneca, Epistle 92.]
+
+Of all nature's operations, I'm most impatient at being interrupted in
+that one. I've seen many soldiers troubled by unruly bellies; mine and I
+never miss our punctual appointment, which is on leaping out of bed,
+unless some unavoidable business or sickness gets in the way.
+
+I think then, as I said before, that sick men can't place themselves
+anywhere more safely than by sitting still in the course of life they've
+been bred and trained up in; change, whatever it is, disorders and puts a
+man out. Do you think chestnuts can hurt a man of Périgord or of Lucca, or
+milk and cheese the mountain folk? We order them not only a new way of
+life but a contrary one—a change the healthy couldn't stand. Prescribe
+water to a Breton of seventy; shut a sailor up in a hothouse; forbid a
+Basque footman to walk: you'll rob them of motion, and in the end of air
+and light:
+
+> "An vivere tanti est?
+> Cogimur a suetis animum suspendere rebus,
+> Atque, ut vivamus, vivere desinimus...
+> Hos superesse reor, quibus et spirabilis aer
+> Et lux, qua regimur, redditur ipsa gravis."
+
+["Is life worth so much? We're forced to withhold our minds from the
+things we're used to; and, to live, we stop living.... Do I think they
+still live, for whom the very air we breathe, and the light itself that
+governs us, is made oppressive?"—Pseudo-Gallus, Eclogues, i. 155, 247.]
+
+If the physicians do no other good, they do at least this: they prepare
+their patients in good time for death, by little and little undermining
+and cutting off their use of life.
+
+Both well and sick, I've always willingly let myself obey the appetites
+that pressed on me. I give my desires and leanings a long rein; I don't
+like curing one disease with another; I hate remedies more troublesome
+than the disease itself. To be subject to colic and subject to abstaining
+from oysters are two evils instead of one: the disease torments us on one
+side and the remedy on the other. Since we're always in danger of being
+wrong, let's rather run the risk of a mistake after we've had the
+pleasure. The world goes quite the other way, and thinks nothing
+profitable that isn't painful; it has great suspicion of what's easy. My
+appetite, in various things, has of its own accord happily enough fitted
+itself to my stomach's health. Rich, sharp sauces pleased me when I was
+young; my stomach having since taken a dislike to them, my taste promptly
+followed. Wine is bad for sick people, and it's the first thing my mouth
+finds distasteful then, with an unconquerable dislike. Whatever I take
+against my liking does me harm; and nothing hurts me that I eat with
+appetite and delight. I never took harm from anything very pleasant to me;
+and accordingly I've made all medical conclusions give way freely to my
+pleasure. And when I was young,
+
+> "Quem circumcursans huc atque huc saepe Cupido
+> Fulgebat crocink splendidus in tunic."
+
+["When Cupid, fluttering round me here and there, shone bright in his
+saffron tunic."—Catullus, lxvi. 133.]
+
+I gave myself the rein as freely and thoughtlessly to the desire that
+ruled in me as anyone whatever:
+
+> "Et militavi non sine gloria;"
+
+["And I have soldiered not without glory."—Horace, Odes, iii. 26, 2.]
+
+yet more in keeping at it and holding out than in sallying:
+
+> "Sex me vix memini sustinuisse vices."
+
+["I can hardly remember holding out for six rounds in one
+night."—Ovid, Amores, iii. 7, 26.]
+
+It's certainly a misfortune and a marvel at once to confess at what a
+tender age I first came under love's yoke. It was indeed by chance, for it
+was long before the years of choice or knowledge; I can't remember myself
+so far back. And my fortune may well be matched with Quartilla's, who
+couldn't remember when she'd been a maid:
+
+> "Inde tragus, celeresque pili, mirandaque matri
+> Barba meae."
+
+["Thence the smell of the armpits, the early hair, and the beard that
+astonished my mother."—Martial, xi. 22, 7.]
+
+Physicians bend their rules to the strong cravings that come over sick
+people, usually with good success; so great a desire can't be imagined so
+strange and wrong but that nature must have a hand in it. And then, how
+easy it is to satisfy the fancy! In my opinion this part carries it, at
+least, over all the rest. The most grievous and ordinary evils are the
+ones fancy loads us with. This Spanish saying pleases me in several ways:
+
+> "Defenda me Dios de me."
+
+["God defend me from myself."]
+
+I'm sorry, when I'm sick, if I haven't some craving that might give me
+the pleasure of satisfying it; all the rules of medicine would hardly turn
+me from it. I do the same when I'm well; I can see very little more to
+hope or wish for. It would be a pity for a man to be so weak and
+languishing as not to have even wishing left to him.
+
+The art of medicine isn't so settled that we need lack authority for
+whatever we do; it changes with climates and moons, according to Fernel
+and according to Scaliger—[physicians to Henri II]. If your physician
+doesn't think it good for you to sleep, to drink wine, or to eat such and
+such meats, never trouble yourself; I'll find you another who won't be of
+his opinion. The diversity of medical arguments and opinions takes in all
+sorts and shapes. I saw a poor sick man panting and burning with thirst,
+that he might be cured, who was afterward laughed at for his pains by
+another physician, who condemned that advice as harmful to him. Hadn't he
+tormented himself to good purpose? There lately died of the stone a man of
+that profession who'd used extreme abstinence to fight his disease; his
+fellow physicians say that, on the contrary, this abstinence had dried him
+up and baked the gravel in his kidneys.
+
+I've noticed that, both in wounds and in sicknesses, talking upsets and
+hurts me as much as any irregularity I can commit. My voice pains and
+tires me, for it's loud and forced—so that when I've gone aside to whisper
+with some great persons about important business, they've often asked me
+to lower my voice.
+
+This story is worth a digression. Someone in a certain Greek school
+speaking as loud as I do, the master of the ceremonies sent word to him to
+speak softly. "Tell him, then, he must send me," replied the other, "the
+tone he'd have me speak in." To which the other answered, "that he should
+take the tone from the ears of the man he's speaking to." It was well
+said, if it's to be understood as: "Speak according to the matter you're
+speaking of to your hearer." For if it means "'tis enough that he hear
+you," or "govern yourself by him," I don't find it reasonable. The tone
+and movement of my voice carries a great deal of the expression and
+meaning of what I say, and it's for me to govern it, to make myself
+understood: there's a voice to instruct, a voice to flatter, and a voice
+to scold. I want not only that my voice reach him, but, maybe, that it
+strike and pierce him. When I rate my valet in sharp, bitter language, it
+would be very pretty for him to say, "Pray, master, speak lower; I hear
+you very well":
+
+> "Est quaedam vox ad auditum accommodata,
+> non magnitudine, sed proprietate."
+
+["There is a certain voice fitted to the hearing, not by its loudness but
+by its propriety."—Quintilian, xi. 3.]
+
+Speaking is half the speaker's and half the hearer's; the hearer ought to
+prepare himself to receive it according to its drift—just as with
+tennis players, the one who receives the ball shifts and gets ready
+according as he sees the striker move, and according to the stroke itself.
+
+Experience has taught me this besides: that we ruin ourselves by
+impatience. Evils have their life and their limits, their diseases and
+their recovery.
+
+The constitution of maladies is formed on the pattern of the constitution
+of animals: they have their fortune and their days limited from birth. He
+who tries imperiously to cut them short by force in the middle of their
+course lengthens and multiplies them, and provokes instead of calming
+them. I'm of Crantor's opinion: that we should neither obstinately and
+deafly oppose evils nor give in to them for lack of courage, but
+naturally give way to them according to their condition and our own. We
+ought to grant free passage to diseases; I find they stay a shorter time
+with me, who let them alone. And I've lost some, reckoned the most
+tenacious and obstinate, by their own decay, without help and without art,
+and contrary to its rules. Let's allow Nature to take her own way a
+little; she understands her own business better than we do. "But so-and-so
+died of it." And so will you—if not of that disease, of another. And how
+many haven't escaped dying who've had three physicians at their heels?
+Example is a vague, universal mirror, with many different reflections. If
+it's a pleasant medicine, take it: it's always so much present good. I'll
+never balk at the name or the color, if it's pleasant and grateful to the
+palate: pleasure is one of the chief kinds of profit. I've let colds,
+gouty fluxes, looseness, palpitations of the heart, headaches, and other
+ailments grow old and die in time a natural death. I've so lost them when
+I was half inclined to keep them; they're sooner won over by courtesy
+than by bluster. We must patiently bear the laws of our condition; we're
+born to grow old, to grow weak, and to be sick, in spite of all medicine.
+It's the first lesson the Mexicans teach their children; as soon as
+they're born they greet them thus: "You have come into the world, child,
+to endure: endure, suffer, and say nothing." It's unjust to lament what
+has befallen someone when it may befall everyone:
+
+> "Indignare, si quid in te inique proprio constitutum est."
+
+["Be angry, then, only when something is unjustly decreed against you
+alone."—Seneca, Epistle 91.]
+
+Look at an old man begging God to keep his health strong and whole—that is
+to say, to give him back his youth:
+
+> "Stulte, quid haec frustra votis puerilibus optas?"
+
+["Fool, why do you vainly wish these childish wishes?"—Ovid., Trist.,
+111. 8, II.]
+
+Isn't it folly? His condition can't bear it. Gout, the stone, and
+indigestion are the marks of long years, as heat, rains, and winds are of
+long journeys. Plato doesn't believe Aesculapius bothered to prescribe a
+regimen to spin out life in a weak, worn-out body, useless to its country
+and its calling, or to beget healthy, sturdy children; and he doesn't
+think this care suits the divine justice and prudence that directs all
+things to usefulness. My good friend, your business is done; nobody can
+set you up again. At most they can patch you up and prop you a little,
+and by that stretch your misery out an hour or two:
+
+> "Non secus instantem cupiens fulcire ruinam,
+> Diversis contra nititur obicibus;
+> Donec certa dies, omni compage soluta,
+> Ipsum cum rebus subruat auxilium."
+
+["Like one who, wanting to prop up a threatening ruin, sets various
+props against it, till, one fixed day, every joint giving way, the very
+props are buried with the house."—Pseudo-Gallus, i. 171.]
+
+We must learn to suffer what we can't escape; our life, like the harmony
+of the world, is made up of contrary things—of different tones, sweet and
+harsh, sharp and flat, lively and solemn. The musician who'd use only some
+of these—what could he do? He must know how to use them all and mix them;
+and so we should mix the goods and evils that belong to our life with each
+other. Our being can't go on without this mixture, and one part is no less
+necessary to it than the other. To try to fight natural necessity is to
+play the folly of Ctesiphon, who undertook to kick back at his
+mule—[Plutarch, How to Restrain Anger, c. 8].
+
+I consult very little about the changes I feel in myself: for these
+doctors take advantage—once they have you at their mercy, they stuff your
+ears with their forecasts. Once before, catching me weakened by sickness,
+they handled me roughly with their dogmas and schoolmasterly follies—one
+minute threatening me with great pains, the next with approaching death.
+I was indeed moved and shaken by it, but not beaten or knocked off my
+stand; and though my judgment was neither changed nor distracted, it was
+at least disturbed. It's always agitation and combat.
+
+Now I use my imagination as gently as I can, and would rid it, if I
+could, of all trouble and strife; a man must help, flatter, and coax it,
+if he can. My mind is fit for that office; it doesn't need appearances
+all through: if it could persuade as it preaches, it would relieve me
+successfully. Want an example? It tells me "that it's for my good to have
+the stone; that the structure of my age must naturally suffer some decay,
+and it's now time it began to come apart and own to a breach; it's a
+common necessity, and there's nothing miraculous or new in it; in it I
+pay what's due to old age, and I can't expect a better bargain; that
+company should comfort me, having fallen into the most common infirmity of
+my age—I see men everywhere tormented with the same disease, and I'm
+honored by the fellowship, since men of the best quality are most often
+afflicted with it; it's a noble, dignified disease; that of those struck
+with it, few have it with less pain; that these others are put to the
+trouble of a strict diet and the daily taking of nauseous potions, whereas
+I owe my better state purely to my good fortune—for some ordinary broths
+of eryngo or burstwort that I've taken two or three times to oblige the
+ladies, who with more kindness than my pain was sharp insisted on giving
+me half of theirs, seemed to me as easy to take as they were fruitless in
+working; the others have to pay a thousand vows to Aesculapius and as
+many crowns to their physicians for voiding a little gravel, which I
+often do with nature's help alone. Even the composure of my face isn't
+disturbed in company; and I can hold my water ten hours, as long as any
+man in health. The fear of this disease," says my mind, "once frightened
+you when it was unknown to you; the cries and despairing groans of those
+who make it worse by their impatience bred horror in you. It's an
+infirmity that punishes the members you've most offended with. You're a
+conscientious fellow";
+
+> "Quae venit indigne poena, dolenda venit:"
+
+["A punishment we haven't deserved may well be grieved
+over."—Ovid, Heroides, v. 8.]
+
+"consider this chastisement: it's very light compared with others, and
+laid on with a father's tenderness. Just see how late it comes; it seizes
+and troubles only that part of your life which is, one way or another,
+barren and lost—having, as it were by agreement, allowed time for the
+license and pleasures of your youth. The fear and pity people feel for
+this disease serve you as matter for glory—a quality of which, if you've
+purified your judgment of it and your reason has somewhat cured it, your
+friends nonetheless make out some trace in your looks. It's a pleasure to
+hear it said of oneself: what strength of mind, what patience! You're seen
+sweating with pain, turning pale and red, trembling, vomiting blood,
+suffering strange contractions and convulsions, at times letting great
+tears fall from your eyes, passing thick, black, dreadful water, or having
+it stopped by some sharp, jagged stone that cruelly pricks and tears the
+neck of the bladder—while all the while you entertain the company with an
+ordinary face; droning along at intervals with your people; taking your
+part in unbroken talk, now and then excusing your pain and making your
+suffering out less than it is. Do you remember the men of past times who
+so eagerly sought out diseases to keep their virtue in breath and
+exercise? Suppose nature sets you on and drives you into this glorious
+school, which you'd never have entered of your own free will. If you tell
+me it's a dangerous, mortal disease—what others aren't? For it's a
+doctor's trick to make you expect any they say don't go straight to death.
+What does it matter if they get there by accident, or if they easily slide
+and slip into the path that leads us to it? But you don't die because
+you're sick; you die because you're alive. Death kills you without
+sickness's help; and sickness has put death off in some, who've lived
+longer because they always thought themselves dying. To which may be
+added that, as with wounds, so with diseases: some are medicinal and
+wholesome. The stone is often no less long-lived than you; we see men it's
+stayed with from childhood to extreme old age—and if they hadn't parted
+company, it would have stayed longer still. You kill it more often than it
+kills you. And though it shows you the picture of approaching death, isn't
+it doing a good office to a man of your age, to remind him of his end?
+And what's worse, you've no longer anything that should make you want to
+be cured. Whether or no, common necessity will soon call you away. Just
+see how skillfully and gently she puts you out of conceit with life, and
+weans you from the world—not forcing you with tyrannical subjection, like
+so many other infirmities you see old men afflicted with, that hold them
+in continual torment and keep them in perpetual, unbroken weakness and
+pain, but by warnings and lessons at intervals, mixing in long pauses of
+rest, as if to give you time to meditate and chew over your lesson at
+your own ease and leisure. To give you means to judge rightly and take on
+the resolve of a man of courage, she shows you the state of your whole
+condition, in good and evil alike; and one while a very cheerful, another
+an unbearable life, in one and the same day. If you don't embrace death,
+at least you shake hands with it once a month; so you have more reason to
+hope it'll one day catch you unawares, without threatening; and that,
+being so often led to the water's edge but still thinking yourself on the
+usual terms, you and your confidence will one time or another be
+unexpectedly ferried across. A man can't reasonably complain of diseases
+that fairly divide the time
+
+with health."
+
+I'm obliged to Fortune for having so often attacked me with the same kind
+of weapons: she shapes and fashions me by use, hardens and habituates me,
+so that I can tell within a little what it'll cost me to be quit of it.
+For lack of a natural memory, I make one of paper; and whenever any new
+symptom shows up in my disease, I write it down. So it falls out that,
+having now run through almost every kind of example, if anything alarming
+threatens me, I turn over these little loose notes like the Sibyl's
+leaves, and never fail to find matter of comfort in some favorable
+forecast from my past experience. Custom also makes me hope better of the
+time to come: for the working of this clearing-out having gone on so
+long, it's to be believed nature won't change her course, and no worse
+accident will happen than what I already feel. And besides, this disease's
+condition suits my quick, sudden temperament: when it attacks me gently
+I'm afraid, for then it's in for a long stay; but naturally it has brisk,
+vigorous fits—it claws me properly for a day or two. My kidneys held out
+a lifetime without change; and I've now lived almost another lifetime
+since they changed their state. Evils have their periods, like blessings:
+maybe the infirmity is drawing toward its end. Age weakens the heat of my
+stomach, and, its digestion being less perfect, sends this raw matter to
+my kidneys. Why, at some turn, may not the heat of my kidneys abate too,
+so they can no longer bake my phlegm into stone, and nature find some
+other way of purging? Years have plainly helped me drain off certain
+rheums; why not these excrements that supply matter for gravel? But is
+there anything delightful to compare with this sudden change—when from
+extreme pain, by voiding a stone, I recover, like a flash of lightning,
+the beautiful light of health, so free and full, as happens in our sudden,
+sharpest colics? Is there anything in the pain suffered that can balance
+the pleasure of so sudden a mending? Oh, how much pleasanter health seems
+to me after a sickness so near and so close that I can tell them apart
+face to face, in their fullest show—when they stand against each other as
+if to make head and dispute it! As the Stoics say vices are usefully
+brought in to give value to virtue and set it off, we can with better
+reason and less rash guessing say that nature has given us pain for the
+honor and service of pleasure and ease. When Socrates, after his fetters
+were knocked off, felt the pleasure of the itching the weight of them had
+caused in his legs, he rejoiced to consider the close alliance between
+pain and pleasure—how they're linked by a necessary tie, so that by turns
+they follow and beget each other—and cried out to good Aesop that he
+ought, out of this thought, to have made matter for a fine fable.
+
+The worst I see in other diseases is that they're not so grievous in their
+attack as they are in their going: a man spends a whole year recovering,
+all the while full of weakness and fear. There's so much risk, and so many
+steps to reach safety, that there's no end of it before they've unwrapped
+you from a kerchief, and then from a cap, before they let you walk out and
+take the air, drink wine, lie with your wife, eat melons—it's odds you
+fall back into some new distemper. The stone has this privilege: it takes
+itself clean off. Whereas the other maladies always leave some impression
+and change behind that lays the body open to a new disease, and they lend
+a hand to one another. Those are excusable that content themselves with
+possessing us, without spreading further and bringing in their followers;
+but courteous and kind are those whose passing brings us some profitable
+issue. Since I've been troubled with the stone, I find myself freed from
+all other accidents, much more, I think, than before, and I've never had a
+fever since. I argue that the extreme, frequent vomitings I'm subject to
+purge me; and, on the other hand, my distastes for this and that, and the
+strange fasts I'm forced to keep, digest my bad humors, and nature, with
+those stones, voids whatever's superfluous and harmful in me. Let them
+never tell me it's a medicine bought too dear: for what good are so many
+stinking draughts, so many caustics, incisions, sweats, setons, diets, and
+so many other ways of cure which often—because we can't stand their
+violence and insistence—bring us to our graves? So that when I have the
+stone, I look on it as medicine; when I'm free of it, as an absolute
+deliverance.
+
+And here's another particular benefit of my disease: it almost plays its
+game by itself, and lets me play mine, if I only have the courage to do
+it. For in its greatest fury I've endured it ten hours together on
+horseback. Just endure; you need no other regimen. Play, run, dine, do
+this and that, if you can; your spree will do you more good than harm.
+Say as much to a man with the pox, the gout, or a hernia! The other
+diseases lay more universal obligations on us; they rack our actions in
+another fashion, upset our whole order, and engage our whole state of life
+in attending to them. This one only pinches the skin; it leaves
+understanding and will wholly at our own disposal, and tongue, hands, and
+feet. It wakes you up rather than stupefies you. The soul is struck down
+by the heat of a fever, overwhelmed by an epileptic fit, thrown off its
+seat by a sharp headache, and in short astounded by all the diseases that
+hurt the whole mass and the noblest parts. This one never meddles with the
+soul; if anything goes wrong with her, it's her own fault—she betrays,
+unhorses, and abandons herself. Only fools let themselves be persuaded
+that this hard, massive body baked in our kidneys can be dissolved by
+drinks. So once it's on the move, there's nothing to do but give it
+passage; and for that matter, it'll make one for itself.
+
+I notice this particular convenience in it besides: that it's a disease
+where we have little to guess at. We're spared the trouble other diseases
+throw us into by the uncertainty of their causes, conditions, and
+course—a trouble infinitely painful. We've no need of consultations and
+doctoral interpretations; our senses tell us well enough both what it is
+and where it is.
+
+With such arguments, weak and strong—like Cicero with the disease of his
+old age—I try to lull and amuse my imagination, and to dress its wounds.
+If I find them worse tomorrow, I'll come up with new stratagems. That this
+is true: I've lately come to such a pass that the least movement forces
+pure blood out of my kidneys. What of it? I move about nonetheless as
+before, and ride after my hounds with a youthful, reckless eagerness; and
+I count it very good satisfaction for so weighty an accident when it costs
+me nothing more than a dull heaviness and uneasiness in that part. It's
+some great stone wasting and consuming the substance of my kidneys and my
+life, which I evacuate little by little, not without some natural
+pleasure, as an excrement henceforth superfluous and troublesome. Now if I
+feel anything stirring, don't imagine I trouble myself to consult my
+pulse or my urine, to set myself some irksome prevention; I shall feel the
+pain soon enough, without making it more and longer by the disease of
+fear. He who fears he will suffer already suffers what he fears. To which
+may be added that the doubts and ignorance of those who take on themselves
+to lay out nature's designs and her inward workings, and the many false
+forecasts of their art, should make us understand that her ways are
+inscrutable and utterly unknown; there's great uncertainty, variety, and
+obscurity in what she either promises or threatens. Old age excepted,
+which is an unmistakable sign of death's approach, in all other accidents
+I see few signs of the future we can ground our divining on. I judge
+myself only by what I actually feel, not by reasoning—to what end, since
+I'm resolved to bring nothing to it but expectation and patience? Want to
+know how much I gain by this? Look at those who do otherwise, who lean on
+so many different persuasions and counsels—how often imagination presses
+on them with no bodily pain at all. I've many times amused myself, when
+well and safe and quite free from these dangerous attacks, by reporting
+them to the physicians as then just beginning to show themselves in me; I
+underwent the sentence of their dreadful conclusions, all the while quite
+at my ease—and so much the more obliged to God's favor, and the better
+satisfied of the vanity of this art.
+
+There's nothing that ought so much to be pressed on youth as activity and
+watchfulness: our life is nothing but movement. I bestir myself with great
+difficulty, and I'm slow in everything—whether rising, going to bed, or
+eating. Seven o'clock in the morning is early for me, and where I'm
+master, I never dine before eleven, nor sup till after six. I used to lay
+the fevers and other diseases I fell into to the heaviness long sleeping
+brought on me, and I've always been sorry I went back to sleep in the
+morning. Plato is angrier at too much sleeping than at too much drinking.
+I like to lie hard and alone—even without my wife, as kings do—pretty
+well covered with clothes. They never warm my bed; but since I've grown
+old they give me, when needed, cloths to lay to my feet and stomach. They
+found fault with the great Scipio for being a great sleeper—not, in my
+opinion, for any other reason than that men were annoyed that he alone
+should have nothing in him to find fault with. If I'm at all particular
+in my way of living, it's rather in my bed than anything else; but in
+general I give way and fit myself to necessity as well as anyone. Sleeping
+has taken up a great part of my life, and even now, at my age, I still
+sleep eight or nine hours at a stretch. I wean myself from this bent
+toward sloth, to good purpose, and am plainly the better for it. I find
+the change a little hard, indeed, but in three days it's over; and I see
+few men who can do with less sleep when need calls, who take more constant
+exercise, or to whom long journeys are less trouble. My body can stand a
+steady strain, but not a violent or sudden one. Lately I've given up
+violent exercises, and such as make me sweat: my limbs tire before they're
+warm. I can stand a whole day together, and never tire of walking; but
+from my youth I've always preferred to ride on paved roads. On foot I get
+up to the haunches in dirt, and little fellow as I am I'm liable in the
+streets to be elbowed and jostled for lack of presence. I've always loved
+to rest myself, sitting or lying, with my heels as high as my seat or
+higher.
+
+There's no calling as pleasant as the soldier's—a calling noble in its
+doing, for valor is the stoutest, proudest, and most generous of all
+virtues, and noble in its cause: there's no usefulness either more
+universal or more just than protecting the peace and greatness of one's
+country. The company of so many noble, young, active men delights you; the
+everyday sight of so many tragic scenes; the freedom of talk, without art;
+a manly, unceremonious way of living, please you; the variety of a
+thousand different actions; the stirring harmony of martial music that
+ravishes and fires both ears and soul; the honor of this employment—even
+its hardships and difficulties, which Plato holds so light that in his
+Republic he makes women and children share them—are delightful to you. You
+put yourself forward of your own will on particular bold deeds and risks,
+according as you judge their splendor and importance; and as a volunteer,
+find even life itself worthily spent:
+
+> "Pulchrumque mori succurrit in armis."
+
+["And he remembers that it is fine to die in arms."—Virgil, Aeneid,
+ii. 317.]
+
+To fear common dangers shared by so great a multitude of men; not to dare
+do what so many kinds of souls, what a whole people dare—is for a heart
+poor and mean beyond all measure. Company heartens even children. If
+others outdo you in knowledge, in grace, in strength, or in fortune, you
+have other resources to fall back on; but to give way to them in steadiness
+of mind—you can blame no one for that but yourself. Death is more abject,
+more pining and troublesome, in bed than in a fight: fevers and colds as
+painful and mortal as a musket shot. Whoever has stoutly fortified himself
+to bear the accidents of common life needn't screw his courage up to be a
+soldier:
+
+> "Vivere, mi Lucili, militare est."
+
+["To live, my Lucilius, is to be a soldier."—Seneca, Epistle 96.]
+
+I don't remember ever having the itch, and yet scratching is one of
+nature's sweetest pleasures, and so close at hand; but repentance follows
+too close behind. I use it most in my ears, which are apt to itch at
+times.
+
+I came into the world with all my senses whole, even to perfection. My
+stomach is comfortably good, and so are my head and my breath; and for the
+most part they hold up even at the height of fevers. I've passed the age
+to which some nations, not without reason, have set so just a limit of
+life that they wouldn't let men go beyond it; and yet I have respites,
+though short and uncertain, so clean and sound as to be little short of
+the health and pleasantness of my youth. I don't speak of vigor and
+liveliness; it's not reasonable they should follow me past their limits:
+
+> "Non hoc amplius est liminis, aut aquae
+> Coelestis, patiens latus."
+
+["My side can no longer stand waiting at a door in the rain."—Horace,
+Odes, iii. 10, 9.]
+
+My face and eyes soon show my condition; all my changes begin there, and
+show somewhat worse than they really are. My friends often pity me before
+I feel the cause in myself. My looking glass doesn't frighten me; for even
+in my youth it's happened to me more than once to have a sickly, ill-
+boding complexion with no great consequence, so that the physicians,
+finding no inward cause to match that outward change, laid it to my mind
+and some secret passion tormenting me within. But they were wrong. If my
+body would govern itself as well by my rule as my mind does, we'd move a
+little more at our ease. My mind was then not only free from trouble but
+full of joy and contentment besides, as it commonly is—half by its temper,
+half by its design:
+
+> "Nec vitiant artus aegrae contagia mentis."
+
+["Nor do the troubles of a sick mind infect the limbs."—Ovid, Tristia,
+iii. 8, 25.]
+
+I'm of the opinion that this temper of my soul has often lifted my body
+out of its lapses. It's often cast down; if the other isn't brisk and gay,
+it's at least calm and at rest. I had a quartan ague four or five months
+that made me look wretchedly ill; my mind was always, if not calm, at
+least cheerful. If the pain is outside me, weakness and languor don't much
+afflict me. I see various bodily faintings that fill me with horror only
+to name, which yet I'd fear less than a thousand passions and agitations
+of mind I see around me. I've made up my mind to run no more; it's enough
+that I can crawl along. Nor do I complain any more of the natural decay I
+feel in myself:
+
+> "Quis tumidum guttur miratur in Alpibus?"
+
+["Who is surprised to see a swollen throat in the Alps?"—Juvenal,
+xiii. 162.]
+
+any more than I grieve that my life won't be as long and whole as an oak's.
+
+I've no reason to complain of my imagination; I've had few thoughts in my
+life that have even broken my sleep, except those of desire, which have
+waked me without afflicting me. I seldom dream, and then of chimeras and
+fantastic things, commonly born of pleasant thoughts, and more laughable
+than sad; and I believe it's true that dreams are faithful interpreters
+of our leanings. But it takes art to sort and understand them:
+
+> "Res, quae in vita usurpant homines, cogitant, curant, vident,
+> Quaeque agunt vigilantes, agitantque, ea si cui in somno accidunt,
+> Minus mirandum est."
+
+["It's the less to be wondered at if the things men practice, think of,
+care for, see, and do awake—and which stir their feelings—happen to a man
+in sleep."—Attius, quoted in Cicero, On Divination, i. 22.]
+
+Plato says besides that it's prudence's office to draw lessons for
+divining future things from dreams. I don't know about that, but there
+are wonderful instances of it that Socrates, Xenophon, and Aristotle—men
+of unquestionable authority—tell of. Historians say the Atlantes never
+dream; they also, they say, never eat animal food—which I add because it's
+perhaps the reason they never dream, for Pythagoras prescribed a certain
+diet to produce fitting dreams. Mine are very gentle, with no tossing of
+the body or crying out. I've seen several men of my time wonderfully upset
+by theirs. Theon the philosopher walked in his sleep, and so did
+Pericles's servant, and that on the tiles and the roof of the house.
+
+I hardly ever pick my dish at table, but take the next at hand, and change
+it for another unwillingly. A muddle of meats and a clatter of dishes
+displeases me as much as any other muddle. I'm easily content with few
+dishes, and I'm an enemy to Favorinus's opinion that in a
+
+feast they should snatch away the meat you like and set a plate of another
+sort before you—and that it's a poor supper if you don't stuff your guests
+with the rumps of different fowls, the beccafico alone deserving to be
+eaten whole. I usually eat salt meats, yet I prefer bread with no salt in
+it; and my baker never sends any other to my table, contrary to the custom
+of the country. In my childhood, what they had most to correct in me was
+my refusing the things children commonly love best—sugar, sweetmeats, and
+marchpane. My tutor fought this dislike of dainty things as a kind of
+over-nicety; and indeed it's nothing but a difficulty of taste, in
+whatever it fastens on. Whoever cures a child of an obstinate liking for
+brown bread, bacon, or garlic cures him of pampering his palate too. There
+are some who make a show of temperance and plainness by calling for beef
+and ham in the middle of the partridges. It's all very fine: this is the
+daintiness of the dainty; it's the taste of a spoiled fortune that turns
+up its nose at ordinary, familiar things.
+
+> "Per quae luxuria divitiarum taedio ludit."
+
+["Things by which the luxury of wealth plays at weariness."—Seneca,
+Epistle 18.]
+
+Not to make good cheer over what another man is enjoying, and to be fussy
+about what a man eats, is the essence of this vice:
+
+> "Si modica coenare times olus omne patella."
+
+["If you're afraid to sup on plain greens from a modest dish."—Horace,
+Epistles, i. 5, 2.]
+
+There's indeed this difference: that it's better to train your appetite to
+the things easiest to come by. But it's always a vice to tie yourself
+down. I once said a kinsman of mine was overnice who, from serving in our
+galleys, had unlearned the use of beds and of undressing to sleep.
+
+If I had any sons, I'd gladly wish them my fortune. The good father God
+gave me—who has nothing of me but the acknowledgment of his goodness, but
+truly it's a very hearty one—sent me from my cradle to be brought up in a
+poor village of his, and kept me there all the time I was at nurse, and
+longer still, raising me to the meanest, most common way of living:
+
+> "Magna pars libertatis est bene moratus venter."
+
+["A well-governed stomach is a great part of liberty."—Seneca,
+Epistle 123.]
+
+Never take on yourselves—and much less hand over to your wives—the care
+of their upbringing; leave their shaping to fortune, under the common,
+natural laws; leave it to custom to train them to frugality and hardship,
+so they may rather come down from strictness than climb up to it. This
+bent of his aimed at another end besides: to make me at home with the
+people and the condition of men who most need our help—reckoning that I
+should think more of those who stretch out their arms to me than of those
+who turn their backs on me. And for this reason he had me held at the
+christening font by people of the meanest fortune, to oblige and bind me
+to them.
+
+Nor has his design turned out altogether badly; for whether from the
+greater honor in such condescension, or from a natural pity that has very
+great power over me, I lean toward the humbler sort of people. The side
+I'd condemn in our wars, I'd condemn more sharply when it's flourishing
+and winning; it will partly win me over when I see it wretched and
+crushed. How gladly I admire the fine spirit of Cheilonis, daughter and
+wife of kings of Sparta. While her husband Cleombrotus, in the upheaval of
+her city, had the upper hand over Leonidas her father, she, like a good
+daughter, stuck close to her father in all his misery and exile, against
+the conqueror. But as soon as the fortune of war turned, she changed her
+will with the change of fortune, and bravely went over to her husband's
+side, following him wherever his ruin carried him—admitting, as it seems
+to me, no choice but to cling to the side that most needed her, and where
+she could best show her compassion. I'm naturally readier to follow the
+example of Flaminius, who gave his help rather to those who most needed
+him than to those who could do him good, than that of Pyrrhus, whose bent
+was to cringe to the great and lord it over the poor.
+
+Long sittings at table both trouble me and do me harm; for, whether
+because I was used to it as a child, I eat the whole time I sit. So at my
+own house, though the meals there are among the shortest, I usually sit
+down a little after the rest, after Augustus's manner—but I don't copy
+him in rising before the rest too. On the contrary, I love to sit on a
+long time after, and listen to the talk, provided I'm not one of the
+talkers: for I tire and hurt myself talking on a full stomach, as much as
+I find it very wholesome and pleasant to argue and strain my voice before
+dinner.
+
+The ancient Greeks and Romans had more reason than we have in setting
+apart for eating—which is a principal business of life, if they weren't
+kept off by some extraordinary affair—many hours, and the greatest part
+of the night: eating and drinking more deliberately than we do, who do
+everything posthaste; and in stretching this natural pleasure to more
+leisure and better use, mixing it with profitable talk.
+
+Those whose business it is to take care of me can very easily keep me
+from eating anything they think will do me harm; for in such matters I
+never crave or miss what I don't see. But at the same time, once it comes
+in my sight, it's vain to persuade me to hold off. So when I plan to
+fast, I must be kept away from the suppers, and have only so much given
+me as a set light meal requires; for if I sit down to table, I forget my
+resolve. When I tell my cook to change the way of dressing some dish, all
+my household know what it means: that my stomach is out of order, and I
+won't touch it.
+
+I like all meats that can stand it to be very little boiled or roasted,
+and I prefer them very high, and several of them quite gone. Nothing but
+hardness generally offends me—of any other quality I'm as patient and
+easy as any man I know—so that, contrary to the common taste, even with
+fish it often happens I find them both too fresh and too firm. Not for
+lack of teeth, which I always had good, even excellent, and which age
+doesn't yet begin to threaten; I've always been used every morning to rub
+them with a napkin, and before and after dinner. God is kind to those He
+makes die by degrees; it's the one benefit of old age. The last death
+will be that much less painful: it will kill only half a man, or a
+quarter. One tooth lately fell out by itself, without drawing and without
+pain; it was the natural end of its term. In that part of my being, and
+several others, some are already dead, others half dead—of those that
+were most active and in the front rank in my vigorous years. That's how I
+melt and steal away from myself. What folly it would be in my
+understanding to dread the height of this fall, already so far advanced,
+as if it were from the very top! I hope I won't. In truth, I draw a chief
+comfort from meditating on my death: that it will be just and natural,
+and that henceforth I can neither ask nor hope from Destiny for anything
+but an unlawful favor. Men persuade themselves that we used to have
+longer lives as well as greater stature. But they fool themselves; and
+Solon, who lived in those elder times, sets the span of life at seventy
+years. I, who have so much and so everywhere worshipped that "The mean is
+best" of the time past, and who have concluded the most moderate measures
+to be the most perfect—shall I lay claim to an unmeasured, monstrous old
+age? Whatever happens against the course of nature may be troublesome;
+but whatever comes according to her should always be pleasant:
+
+> "Omnia, quae secundum naturam fiunt, sunt habenda in bonis."
+
+["All things done according to nature are to be counted
+good."—Cicero, On Old Age, c. 19.]
+
+And so, says Plato, the death that comes by wounds and diseases is
+violent; but the one that comes on us with old age leading us to it is,
+of all others, the easiest, and in some sort delicious:
+
+> "Vitam adolescentibus vis aufert, senibus maturitas."
+
+["Young men are carried off by violence, old men by ripeness."—Cicero,
+ibid.]
+
+Death mixes and mingles itself all through life; decay comes before its
+hour, and shoulders its way even into the course of our advance. I have
+portraits of myself taken at twenty-five and at thirty-five. I compare
+them with the one lately drawn: how many times over is it no longer me!
+How much more unlike is my present image to the former than to my dying
+one! It's too much to abuse nature—to make her trot so far that she has
+to be forced to leave us, and abandon our bearing, our eyes, teeth, legs,
+and all the rest to the mercy of a strange, worn-out face, and hand us
+over to art, being tired of following us herself.
+
+I'm not very fond either of salads or of fruits, except melons. My father
+hated all kinds of sauces; I love them all. Eating too much hurts me; but
+as to the quality of what I eat, I don't yet know for certain that any
+kind of meat disagrees with me; nor have I noticed that full moon or
+waning, autumn or spring, has any effect on me. We have motions in us that
+are changeable and unknown: for example, I first found radishes agreeable
+to my stomach, then sickening, and now agreeable again. In several other
+things I find my stomach and appetite change the same way; I've gone back
+and forth again and again from white wine to claret, from claret to white.
+
+I'm a great lover of fish, and so I make my fast days feasts and my feast
+days fasts; and I believe what some people say, that fish is easier to
+digest than flesh. As I make it a point of conscience not to eat flesh on
+fish days, so my taste makes it a point of conscience not to mix fish and
+flesh; the difference between them seems to me too wide.
+
+From my youth I've sometimes stayed away from meals: either to sharpen my
+appetite for the next morning—for as Epicurus fasted and ate lean meals to
+get his pleasure used to doing without plenty, I, on the contrary, do it
+to get my pleasure ready to make better and merrier use of plenty—or else
+I fasted to keep my vigor fresh for the service of some action of body or
+mind, for both the one and the other are cruelly dulled in me by
+fullness. And above all I hate that silly pairing of so healthy and
+lively a goddess with that little belching god, bloated with the fumes of
+his liquor—[Montaigne did not approve of coupling Bacchus with
+Venus]—or to settle my sick stomach, or for lack of fit company. For I
+say, as Epicurus did, that you shouldn't so much consider what you eat as
+whom you eat with; and I commend Chilo, who wouldn't promise to dine with
+Periander till he'd first been told who the other guests were to be. No
+dish is so welcome to me, no sauce so appetizing, as the one drawn from
+company. I think it's more wholesome to eat more slowly and less, and to
+eat more often; but I'd have appetite and hunger paid attention to. I'd
+take no pleasure in being fed three or four measly, stinted meals a day,
+in medicinal fashion. Who'll assure me that if I have a good appetite in
+the morning I'll have the same at supper? But we old fellows especially—
+let's seize the first fit time for eating, and leave hopes and forecasts
+to the almanac makers. The utmost fruit of my health is pleasure; let's
+lay hold of the present and known. I steer clear of fixed rules in these
+laws of fasting; let whoever wants one pattern to serve him avoid keeping
+to it. We harden ourselves in it; our strength is stupefied and put to
+sleep there. Six months later you'll find your stomach so used to it that
+all you've gained is the loss of your freedom to do otherwise except to
+your hurt.
+
+I never keep my legs and thighs warmer in winter than in summer; one
+simple pair of silk stockings is all. I've let myself, to ease my colds,
+keep my head warmer, and my belly on account of my colic; in a few days
+my diseases got used to it and scorned my ordinary provisions. We soon go
+from a nightcap to a kerchief over it, from a plain cap to a quilted hat;
+the trimmings of the doublet mustn't just serve for show—there must be a
+hare's skin or a vulture's skin added, and a cap under the hat. Follow
+that ladder and you'll go a fine way to work. I'll do nothing of the
+sort, and would gladly drop what I've started. If you fall into some new
+trouble, all this is labor lost; you're used to it—find something else.
+That's how they ruin themselves who let themselves be pestered with these
+forced, superstitious rules: they must add something more, and something
+more after that. There's no end to it.
+
+For our business and pleasures, it's much more convenient, as the
+ancients did, to skip dinner and put off making good cheer till the hour
+of retiring and rest, without breaking up the day; and that's how I used
+to do. As for health, I've since found by experience, on the contrary,
+that it's better to dine, and that digestion goes better while awake. I'm
+not much given to thirst, well or sick; my mouth is indeed apt to be dry,
+but without thirst. And commonly I never drink except with the thirst
+that eating brings on, well into the meal. I drink pretty well for a man
+of my size: in summer, and at a savory meal, I not only go beyond
+Augustus's limits, who drank exactly three times, but—so as not to offend
+Democritus's rule, which forbade stopping at four as an unlucky
+number—I go on at need to the fifth glass, about three half-pints. For
+the little glasses are my favorites, and I like to drink them off, which
+other people avoid as an unbecoming thing. I mix my wine sometimes with
+half water, sometimes with a third; and when I'm at home, by an old custom
+my father's physician prescribed for him and for himself, they mix what
+I'm to have down in the buttery, two or three hours before it's brought
+in. They say Cranabs, king of Attica, invented this custom of watering
+wine; whether it's useful or not, I've heard disputed. I think it's more
+decent and wholesome for children to drink no wine till after sixteen or
+eighteen. The most usual, common way of living is the most becoming; all
+singularity, in my opinion, is to be avoided. And I'd as soon hate a
+German for mixing water with his wine as a Frenchman for drinking it
+straight. Public custom gives the law in these things.
+
+I'm afraid of mist, and run from smoke as from the plague. The first
+repairs I made in my own house were to the chimneys and the privies, the
+common, unbearable faults of all old buildings; and among the hardships
+of war I count the choking dust they made us ride in a whole day
+together. I breathe free and easy, and my colds for the most part go off
+without troubling my lungs and without a cough.
+
+Summer heat is more an enemy to me than winter cold; for besides the
+discomfort of heat, less remediable than cold, and besides the force of
+the sunbeams striking my head, all glittering light hurts my eyes, so
+that I couldn't now sit at dinner facing a blazing fire.
+
+To soften the whiteness of paper, back when I used to read more, I laid a
+piece of glass on my book, and found my eyes much eased by it. To this
+hour—at fifty-four—I'm still a stranger to spectacles; and I can see as
+far as ever I did, or anyone else. True, in the evening I begin to feel a
+little dimness and weakness in my sight if I read—an exercise I've always
+found troublesome, especially at night. There's one step back, and a very
+plain one; I'll take another: from the second to the third, and so to the
+fourth, so gently that I'll be stone blind before I'm aware of the age
+and decay of my sight. That's how artfully the Fatal Sisters unwind our
+lives. And so I doubt whether my hearing is beginning to grow dull; and
+you'll see I'll have half lost it while I'm still blaming the voices of
+those who speak to me. A man must screw his soul up to a high pitch to
+feel how it's ebbing away.
+
+My walk is quick and firm; and I don't know which of the two, my mind or
+my body, I have most trouble keeping in the same state. That preacher is
+very much my friend who can hold my attention through a whole sermon. In
+places of ceremony, where everyone's face is so starched, where I've seen
+the ladies keep even their eyes so fixed, I could never manage it so that
+some part or other of me didn't break loose; so that though I was seated,
+I was never settled. And as for gesturing, I'm never without a switch in
+my hand, walking or riding. As the philosopher Chrysippus's maid said of
+her master, that he was drunk only in his legs, for it was his way to be
+forever kicking them about wherever he sat—and she said it when the wine
+had made all his companions drunk and he'd found no change in himself at
+all—it might have been said of me from my childhood that I had either
+folly or quicksilver in my feet, so much stirring and restlessness there
+is in them, wherever they're placed.
+
+It's unseemly—besides the harm it does my health, and even to the pleasure
+of eating—to eat greedily as I do; I often bite my tongue, and sometimes
+my fingers, in my haste. Diogenes, meeting a boy eating that way, boxed
+his tutor's ear! There were men at Rome
+
+that taught people to chew, as well as to walk, with a good grace. I lose
+by it the chance of talking, which gives great relish to the table,
+provided the talk is suitable—that is, pleasant and short.
+
+There's jealousy and envy among our pleasures; they cross and hinder one
+another. Alcibiades, a man who well understood how to make good cheer,
+banished even music from the table, so it wouldn't disturb the
+entertainment of talk—for the reason, as Plato tells us, "that it's the
+custom of ordinary people to call in fiddlers and singers to feasts, for
+lack of good talk and pleasant conversation, with which men of
+understanding know how to entertain one another." Varro asks all this in
+entertainments: "people of graceful presence and agreeable talk, neither
+silent nor chattering; neatness and daintiness, both of meat and place;
+and fair weather." The art of dining well is no slight art, the pleasure
+no slight pleasure; neither the greatest captains nor the greatest
+philosophers have scorned the use or knowledge of eating well. My
+imagination has handed three repasts over to my memory's keeping, which
+fortune made sovereignly sweet to me on several occasions in my more
+flourishing age; my present state shuts me out—for everyone, according to
+the good temper of body and mind he's then in, supplies for his own share
+a particular grace and savor. I, who only crawl on the earth, hate this
+inhuman wisdom that would have us despise and hate all care of the body;
+I count it as great an injustice to loathe natural pleasures as to be too
+much in love with them. Xerxes was a blockhead who, ringed with every
+human delight, offered a reward to whoever could find him new ones; but
+he's not much less one who cuts off any of the pleasures nature has
+provided for him. A man should neither chase pleasures nor run from them,
+but receive them. I receive them, I confess, a little too warmly and
+kindly, and easily let myself follow my natural leanings. We've no need to
+exaggerate their emptiness; they'll make us feel it well enough
+themselves, thanks to our sick, wet-blanket mind, which puts us out of
+taste with them as with itself. It treats both itself and all it takes in,
+now better, now worse, according to its insatiable, roving, changeable
+essence:
+
+> "Sincerum est nisi vas, quodcunque infundis, acescit."
+
+["Unless the vessel is clean, whatever you pour into it turns
+sour."—Horace, Epistles, i. 2, 54.]
+
+I, who boast that I so carefully and particularly embrace the comforts of
+life, find them, when I look at them closest, very little more than wind.
+But what of it? We're all wind through and through; and what's more, the
+wind itself, more discreet than we, loves to bluster and shift from corner
+to corner, and contents itself with its proper business without wanting
+steadiness and solidity—qualities not its own.
+
+The pure pleasures, like the pure pains, of the imagination are the
+greatest, say some—as was expressed by the balance of Critolaiis. No wonder: it
+makes them to its own liking, and cuts them out of whole cloth. Of this I
+see notable examples every day, and perhaps to be wished for. But I, who
+am of a mixed and heavy make, can't pounce so quickly on this one simple
+object; instead I carelessly let myself be carried along with the present
+pleasures of the general human law—intellectually sensible, and sensibly
+intellectual. The Cyrenaic philosophers hold that bodily pains, like
+bodily pleasures, are more powerful—both as being double and as being more
+just. There are some, as Aristotle says, who from a savage kind of
+stupidity dislike them; and I know others who do the same from ambition.
+Why don't they forswear breathing too? Why don't they live off
+themselves? Why not refuse light, because it's free and costs them neither
+contriving nor labor? Let Mars, Pallas, or Mercury give them light to see
+by, instead of Venus, Ceres, and Bacchus. These boastful humors may fake
+some contentment—for what won't fancy do? But as for wisdom, there's no
+touch of it. Won't these men seek the squaring of the circle even when
+they're with their wives? I hate being told to keep my mind in the clouds
+when my body's at table; I wouldn't have the mind nailed there, nor
+wallowing there. I'd have it take its place there and sit—but not lie
+down. Aristippus stood up for nothing but the body, as if we had no soul;
+Zeno took in only the soul, as if we had no body: both were wrong.
+Pythagoras, they say, followed a philosophy all of contemplation, Socrates
+one all of conduct and action; Plato found a middle way between the two.
+But they say this just for the sake of talking. The true temperament is
+found in Socrates; and Plato is much more Socratic than Pythagorean, and
+it suits him better. When I dance, I dance; when I sleep, I sleep. Even
+when I walk alone in a beautiful orchard, if my thoughts are some of the
+time taken up with outward things, some of the time I call them back
+again—to my walk, to the orchard, to the sweetness of that solitude, and
+to myself.
+
+Nature has mother-like seen to it that the actions she's laid on us from
+necessity should be pleasurable to us too; and she invites us to them not
+only by reason but by appetite as well. It's unjust to break her laws.
+When I see Caesar—and Alexander too—in the middle of his greatest
+business, so fully enjoying human, bodily pleasures, I don't say he let
+his mind go slack: I say he braced it, by vigor of courage bringing those
+violent employments and laborious thoughts under the ordinary usage of
+life. Wise, had he believed the last was his ordinary calling, the first
+his extraordinary one. We're great fools. "He's spent his life in
+idleness," we say. "I've done nothing today." What? Haven't you lived?
+That's not only the fundamental but the most glorious of your callings.
+"Had I been set to manage great affairs, I'd have shown what I could do."
+"Have you known how to think through and manage your life? You've done
+the greatest work of all." To show and unfold herself, nature needs only
+fortune; she shows herself equally at every stage, behind a curtain as
+well as before one. Have you known how to order your conduct? You've done
+a great deal more than the man who's written books. Have you known how to
+take your rest? You've done more than the man who's taken empires and
+cities.
+
+The glorious masterpiece of man is to live to the purpose; all other
+things—to reign, to heap up treasure, to build—are but little appendages
+and props. I love to see a general, at the foot of a breach he's about to
+storm, give himself up wholly and freely at dinner to talking and making
+merry with his friends. And Brutus, when heaven and earth were leagued
+against him and Roman liberty, stealing some hour of the night from his
+rounds to read and pore over Polybius in all security. It's for little
+souls, buried under the weight of business, never to know how to get
+clear of it—never to know how to lay it down and take it up again:
+
+> "O fortes, pejoraque passi
+> Mecum saepe viri! nunc vino pellite curas
+> Cras ingens iterabimus aequor."
+
+["O brave hearts, who have often suffered worse with me! Now drive away
+care with wine; tomorrow we sail again over the vast sea."—Horace, Odes,
+i. 7, 30.]
+
+Whether in joke or in earnest that the theologians' and Sorbonne men's
+wine and their feasts have become a proverb, I find it reasonable they
+should dine all the more comfortably and pleasantly, as they've spent the
+morning profitably and seriously in the exercises of their schools. The
+consciousness of having well spent the other hours is the just and savory
+sauce of the dinner table. The sages lived that way; and that inimitable
+striving after virtue, which amazes us in the one Cato and the other—that
+humor of theirs, so strict as to be almost tiresome—gently gives way and
+yields to the laws of the human condition, of Venus and Bacchus,
+according to the precepts of their school, which require the perfect sage
+to be as skilled and knowing in the use of natural pleasures as in all
+the other duties of life:
+
+> "Cui cor sapiat, ei et sapiat palatus."
+
+["Let him whose heart is wise have a wise palate too."]
+
+Ease and relaxation, I think, wonderfully honor and become a strong,
+generous soul. Epaminondas didn't think that joining in heartily with the
+young men of his city in songs and sports and dances took anything from
+the honor of his glorious victories and the perfect purity of his conduct.
+And among so many admirable deeds of Scipio the elder—a man worthy to be
+thought of heavenly stock—there's nothing that gives him a greater grace
+than to see him carelessly and childishly pottering about gathering and
+picking cockle shells, and playing at quoits,
+
+> [This game, as the Dictionnaire de Trévoux describes it, is one in which
+> two people vie over which of them will soonest pick up some object.]
+
+amusing and tickling himself by writing comedies that act out the
+meanest, most popular doings of men. And with his head full of that
+wonderful enterprise against Hannibal and Africa, visiting the schools in
+Sicily and sitting through philosophy lectures—to the point of arming the
+blind envy of his enemies at Rome. Nor is there anything more remarkable
+in Socrates than that, old as he was, he found time to have himself taught
+dancing and the lute, and thought it time well spent. This same man was
+seen in a trance, standing on his feet a whole day and night together,
+before the whole Greek army, startled and swallowed up by some profound
+thought. He was the first, among so many brave men of the army, to run to
+the rescue of Alcibiades, hard pressed by the enemy—to shield him with his
+own body and drag him clear of the throng by sheer force of arms. It was
+he who, in the battle at Delium, picked up Xenophon when he'd been thrown
+from his horse and saved him; and who, among all the people of Athens,
+enraged as they were at so shameful a sight, was the first to step forward
+to rescue Theramenes, whom the thirty tyrants were leading off to
+execution with their guards—and didn't give up his bold attempt till
+Theramenes himself begged him to, though only two others followed him in
+all. He was seen, when courted by a beauty he was in love with, to keep
+up a strict abstinence when need was. He was seen always going to the wars
+and walking on ice with bare feet; wearing the same cloak winter and
+summer; outdoing all his comrades in bearing hardships patiently; and
+eating no more at a feast than at his own private dinner. He was seen, for
+twenty-seven years together, putting up with hunger, poverty, his
+children's unruliness, and his wife's claws, with the same face. And in
+the end, slander, tyranny, prison, chains, and poison. But was this man
+bound by any rule of good manners to drink full bumpers? He was also the
+man in the whole army who came off best in drinking. And he never refused
+to play at cobnuts, nor to ride the hobbyhorse with children—and it suited
+him well. For all actions, says philosophy, equally become and equally
+honor a wise man. We've material enough for it, and we should never tire
+of holding up the image of this great man in every pattern and shape of
+perfection. There are very few examples of a full, pure life; and every
+day we wrong our teaching by setting before ourselves those that are weak
+and flawed—hardly good for any one service, and pulling us back
+rather—corrupters of conduct rather than correctors. People fool
+themselves: a man goes much more easily, indeed, by the extremes, where
+the far end serves for a bound, a stop, and a guide, than by the middle
+way, broad and open—and according to art more than according to
+nature—but at the same time much less nobly and commendably.
+
+Greatness of soul lies not so much in climbing and pressing forward as in
+knowing how to govern and bound itself; it counts everything great that is
+enough, and shows itself in preferring moderate things to eminent ones.
+There's nothing so fine and right as to play the man well and duly; nor
+any science so hard as to know well and naturally how to live this life;
+and of all the infirmities we have, the most barbarous is to despise our
+own being.
+
+Whoever wants to cut his spirit off, when his body's ill at ease, to keep
+it from the infection—let him do it by all means, if he can. But
+otherwise, let him on the contrary favor and help his body, and not refuse
+to share its natural pleasures with wedded contentment—bringing to them,
+if he's the wiser, moderation, lest by indiscretion they get mixed up with
+displeasure. Excess is the plague of pleasure; and temperance isn't its
+scourge, but its seasoning. Euxodus, who set up pleasure as the sovereign
+good, and his companions, who set so high a value on it, tasted it in its
+most charming sweetness by means of temperance—which in them was singular
+and exemplary.
+
+I bid my soul look on pain and pleasure with an eye equally steady:
+
+> "Eodem enim vitio est effusio animi in laetitia
+> quo in dolore contractio,"
+
+["For the mind's overflowing in joy comes from the same fault as its
+shrinking in sorrow."—Cicero, Tusculan Disputations, iv. 31.]
+
+and equally firm—but gaily on the one, severely on the other—and, as far
+as it can, to be as careful to quench the one as to feed the other.
+Judging rightly of good brings with it judging soundly of evil: pain has
+something of the unavoidable in its tender beginnings, and pleasure
+something of the avoidable in its excessive end. Plato yokes them
+together, and holds it to be equally fortitude's business to fight against
+pain and against the immoderate, charming coaxings of pleasure. They are
+two fountains; whoever draws from them, when and as much as he needs—be
+he city, man, or beast—is very fortunate. The first is to be taken as
+medicine, and on necessity, and more sparingly; the other to quench
+thirst, but not to drunkenness. Pain, pleasure, love, and hatred are the
+first things a child feels: if, when reason comes, they apply reason to
+these, that is virtue.
+
+I have a vocabulary of my own: I "pass away time" when it's bad and
+uneasy; but when it's good I don't pass it away—I "taste it over again
+and cling to it." We should run over the bad and settle on the good. This
+common phrase—pastime, passing away the time—shows the way of those wise
+folk who think they can't do better with their lives than let them run
+out and slip away, pass them over and balk them, and, as much as they can,
+ignore and shun them as something troublesome and contemptible. But I know
+it for another kind of thing, and find it both precious and serviceable,
+even in its latest decay, in which I now enjoy it; and nature has put it
+in our hands in such favorable circumstances that we have only ourselves
+to blame if it's troublesome to us or slips away unprofitably:
+
+> "Stulti vita ingrata est, trepida est, tota in futurum fertur."
+
+["The fool's life is thankless, fearful, wholly bent on the
+future."—Seneca, Epistle 15.]
+
+Still, I make myself ready to lose mine without regret—but as a thing
+perishable by its condition, not as one that troubles or annoys me. Nor
+does it properly become anyone not to mind dying, except those who are
+glad to live. There's good husbandry in enjoying life: I enjoy it doubly
+what others do, for the measure of its enjoyment depends on our greater or
+lesser application to it. Chiefly, since I feel mine to be so short in
+time, I want to stretch it out in weight; I'll check the swiftness of its
+flight by the swiftness of my grasp, and make up by vigorous use for the
+speed of its running away. In proportion as my possession of life is
+shorter, I must make it so much the deeper and fuller.
+
+Others feel the pleasure of contentment and prosperity; I feel it too, as
+much as they—but not as it passes and slips by. We should study it,
+taste it, and chew it over, to give fit thanks to Him who grants it to
+us. They enjoy the other pleasures the way they do sleep—without knowing
+it. So that even sleep itself shouldn't slip away from me so stupidly, I
+once had myself woken in my sleep, so I might relish and taste it better
+and more sensibly. I ponder over contentment; I don't skim it, I sound
+it; and I bend my reason, now grown wayward and peevish, to entertain it.
+Do I find myself in some calm, settled state? Is there some pleasure
+tickling me? I don't let it trifle with my senses only; I bring my soul
+into it too—not to get entangled, but to take delight; not to lose
+itself, but to be present. And I set it, for its part, to look at itself
+in this prosperous state, to weigh and prize its happiness and swell it.
+It counts up how much it owes to God: that its conscience and inward
+passions are at rest; that it has its body in its natural state, orderly
+and duly enjoying the soft, soothing functions by which He, of His grace,
+is pleased to make up to us the sufferings His justice at His pleasure
+lays on us. It reflects what a great blessing it is to be so sheltered
+that whichever way it turns its eyes the heavens are calm around it. No
+desire, no fear, no doubt troubles the air; no difficulty, past, present,
+or to come, that its imagination can't pass over without offense. This
+thought takes on great brightness from comparing different conditions. So
+I set before my mind, in a thousand lights, those whom fortune or their
+own fault carries off and torments. And then again those who, more like
+me, take their good fortune so carelessly and incuriously. Those are
+people who truly spend their time; they skip over the present and what
+they have, to wait on hope—on shadows and vain images that fancy sets
+before them:
+
+> "Morte obita quales fama est volitare figuras,
+> Aut quae sopitos deludunt somnia sensus:"
+
+["Such shapes as are said to hover about after death, or dreams that
+mock the sleeping senses."—Virgil, Aeneid, x. 641.]
+
+which quicken and stretch out their flight the more they're chased. The
+fruit and end of their chase is to chase—as Alexander said, the end of
+his labor was to labor:
+
+> "Nil actum credens, cum quid superesset agendum."
+
+["Thinking nothing done while anything remained to do."—Lucan,
+ii. 657.]
+
+For my part, then, I love life and tend it, such as it has pleased God
+to give it to us. I don't want it without the necessity of eating and
+drinking; and I'd call it no less pardonable a fault to wish it had been
+twice as long:
+
+> "Sapiens divitiarum naturalium quaesitor acerrimus:"
+
+["The wise man is the keenest seeker after nature's riches."—Seneca,
+Epistle 119.]
+
+Nor that we should keep ourselves alive by putting into our mouths just
+a little of that drug with which Epimenides took away his appetite and
+kept himself going; nor that we should stupidly beget children with our
+fingers or our heels—but rather, with reverence be it spoken, that we
+might delightfully beget them with our fingers and heels; nor that the
+body should be without desire and without thrill. These are ungrateful,
+wicked complaints. I accept, kindly and gratefully, what nature has done
+for me; I'm well pleased with it, and proud of it. A man wrongs that
+great, all-powerful Giver when he refuses, cancels, or disfigures his
+gift: all goodness himself, he has made everything good:
+
+> "Omnia quae secundum naturam sunt, aestimatione digna sunt."
+
+["All things that are according to nature are worthy of esteem."—Cicero,
+On Ends, iii. 6.]
+
+Of philosophical opinions, I take most to the solidest—that is to say,
+the most human and most our own. My talk is, like my conduct, low and
+humble. Philosophy plays the child, to my thinking, when it gets up on
+its "therefores" to preach to us that it's a barbarous match to wed the
+divine to the earthly, the reasonable to the unreasonable, the stern to
+the indulgent, the honorable to the dishonorable. That pleasure is a
+beastly quality, unworthy to be tasted by a wise man; that the only
+pleasure he gets from enjoying a fair young wife is the pleasure his
+conscience takes in doing an act according to order—like putting on his
+boots for a profitable journey. Oh, if its followers had no more right,
+nerves, or vigor in taking their wives' maidenheads than they show in
+their lesson!
+
+This isn't what Socrates says, who is philosophy's master and ours: he
+values bodily pleasure as he should; but he puts the mind's first, as
+having more strength, steadiness, ease, variety, and dignity. This one,
+according to him, by no means goes alone—he's not so fanciful—but only
+it goes first. Temperance with him is pleasure's moderator, not its
+enemy. Nature is a gentle guide—but no more sweet and gentle than prudent
+and just.
+
+> "Intrandum est in rerum naturam, et penitus,
+> quid ea postulet, pervidendum."
+
+["We must search into the nature of things, and look deep into what she
+asks of us."—Cicero, On Ends, v. 16.]
+
+I hunt for her footprint everywhere: we've muddled it with artificial
+tracks. And that Academic and Peripatetic good, which is "to live
+according to nature," gets hard on that account to bound and explain—as
+does the Stoics', next door to it, which is "to consent to nature." Isn't
+it a mistake to count any actions less worthy because they're necessary?
+And yet they won't talk me out of it: that it's a very happy marriage of
+pleasure with necessity, with which, says an ancient, the gods always
+conspire. To what end do we tear apart by divorce a building joined by so
+close and brotherly a fellowship? Let's rather strengthen it by mutual
+services: let the mind rouse and quicken the heaviness of the body, and
+the body check and steady the lightness of the soul:
+
+> "Qui, velut summum bonum, laudat animac naturam, et, tanquam malum,
+> naturam carnis accusat, profecto et animam carnaliter appetit, et
+> carnem carnaliter fugit; quoniam id vanitate sentit humana, non
+> veritate divina."
+
+["He who praises the soul's nature as the supreme good, and blames the
+flesh's nature as evil, at once lusts after the soul carnally and flees
+the flesh carnally—since he feels this from human vanity, not from divine
+truth."—St. Augustine, City of God, xiv. 5.]
+
+In this present God has made us, there's nothing unworthy of our care; we
+stand accountable for it down to a hair. And isn't it man's commission to
+conduct man according to his condition? It's express, plain, and the very
+first of all—and the Creator has laid it on us seriously and strictly.
+Authority carries weight only in matters of common judgment, and counts
+for more in a foreign tongue; so let's charge at it once more in this
+place:
+
+> "Stultitiae proprium quis non dixerit, ignave et contumaciter
+> facere, quae facienda sunt; et alio corpus impellere, alio animum;
+> distrahique inter diversissimos motus?"
+
+["Who wouldn't say it's folly's mark to do what must be done lazily and
+stubbornly—to push the body one way and the mind another, and be torn
+between wholly different motions?"—Seneca, Epistle 74.]
+
+To make this plain, ask anyone some day to tell you what whims and fancies
+he's been turning over in his head, on account of which he's drawn his
+thoughts away from a good meal, and grudges the time he spends eating.
+You'll find there's nothing on all the dishes at your table so tasteless
+as this wise meditation of his—for the most part we'd do better to sleep
+than to wake to the purpose we wake for—and that his discourses and
+notions aren't worth the worst dish there. Though they were the raptures
+of Archimedes himself—what then? I don't here speak of, or mix with the
+rabble of us ordinary men and the vanity of the thoughts and desires that
+distract us, those venerable souls lifted by the fire of devotion and
+religion to a constant, conscientious meditation on divine things—who, by
+the force of a lively, burning hope, tasting beforehand the eternal food,
+the final aim and last step of Christian desires, the one constant,
+incorruptible pleasure, scorn to give themselves to our needy, fleeting,
+doubtful comforts, and easily leave to the body the care and use of
+sensual, temporal fodder. That's a privileged study. Between ourselves,
+I've always found lofty opinions and low conduct to be remarkably good
+company.
+
+Aesop, that great man, saw his master make water as he walked. "What
+then," said he, "must we drop it as we run?" Let's manage our time; there's
+still a great deal of it lying idle and ill spent. The mind hasn't other
+hours enough, willingly, to do its business in, without cutting itself
+loose from the body in the little space it needs for its necessity. They
+want to get out of themselves and escape from being men. It's folly:
+instead of turning themselves into angels, they turn themselves into
+beasts; instead of lifting themselves, they lay themselves low. These
+high-flown humors frighten me, like high, unreachable places; and nothing
+is hard for me to take in the life of Socrates except his trances and his
+dealings with spirits; nothing is so human in Plato as the thing they say
+got him called divine; and of our sciences, the ones that fly highest seem
+to me the most earthbound and low; and I find nothing so humble and mortal
+in Alexander's life as his fancies about his own immortalizing. Philotas
+neatly teased him in his answer: he congratulated him by letter on the
+oracle of Jupiter Ammon, which had set him among the gods. "On your
+account I'm glad of it," he wrote, "but the men are to be pitied who have
+to live with a man, and obey him, who goes beyond and won't be content
+with the measure of a man":
+
+> "Diis to minorem quod geris, imperas."
+
+["Because you carry yourself lower than the gods, you rule."—Horace,
+Odes, iii. 6, 5.]
+
+The pretty inscription with which the Athenians honored Pompey's entry
+into their city matches my feeling: "By so much as you own yourself a
+man, you are a god." It's an absolute, and as it were divine, perfection
+for a man to know how to enjoy his being faithfully. We chase after other
+conditions because we don't understand the use of our own; and we go out
+of ourselves because we don't know how to live there. It's little use
+going on stilts, for on stilts we must still walk with our legs; and when
+seated on the highest throne in the world, we're still seated on our
+backsides. The finest lives, in my opinion, are those that fit themselves
+regularly to the common, human pattern—without miracle, without
+extravagance. Old age stands in a little need of gentler handling. Let's
+commend that to God, the protector of health and wisdom—but let it be gay
+and sociable:
+
+> "Frui paratis et valido mihi
+> Latoe, dones, et precor, integra
+> Cum mente; nec turpem senectam
+> Degere, nec Cithara carentem."
+
+["Grant me, Apollo, to enjoy what I have in good health; and sound, I
+pray, in mind; to spend no shameful old age, nor one without the
+lyre."—Horace, Odes, i. 31, 17.]
+
+Or:
+
+> ["Grant me, Apollo, to enjoy what I have in good health; let me be sound
+> in body and mind; let me live honorably in old age, and let music not be
+> wanting."]
+
+---
+
+*[End of the essay. The Project Gutenberg volume this draft is modernized
+from appends two pieces of modern editorial matter after Montaigne's
+text—an "APOLOGY" note on how the quotations grew across the 1580, 1588,
+and 1595 editions, and an "ETEXT EDITOR'S BOOKMARKS" index of memorable
+phrases. Both are the ebook editor's additions, not Montaigne's, and are
+left out of this draft.]*
