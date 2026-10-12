@@ -1,0 +1,933 @@
+# DRAFT — Pre-Socratic Fragments, Book 3: Front Matter
+
+**Status: DRAFT — not yet audited. Not for publication, email, upload, or push. Local file only.**
+
+> **AI-assistance disclosure.** This book was assembled with AI assistance for Robert Tilford's Boneyard philosophy series. It is a plain-English rendering of English fragment translations already in the public domain — not a new translation from the Greek, and not the work of a human scholar. Every fragment should be checked against a printed scholarly edition before any use beyond the draft shelf.
+
+---
+
+# PRE-SOCRATIC FRAGMENTS
+
+## The Sayings of Heraclitus and Parmenides, with Empedocles, Anaxagoras, Democritus, and the Rest
+
+Rendered in plain modern English from the public-domain translations of John Burnet
+
+**Book 3A** — Heraclitus of Ephesus · Parmenides of Elea
+**Book 3B** — Empedocles · Anaxagoras · Democritus · the Milesians · Xenophanes · Zeno · Melissus · and the rest
+
+---
+
+## DEDICATION
+
+To **Hermann Diels (1848–1922)** and **John Burnet (1863–1928)**.
+
+Diels spent his working life gathering these scattered sentences — quotations tucked into Plato, Aristotle, and the doxographers — and set them in order as *Die Fragmente der Vorsokratiker*: lost books rebuilt, in a literal sense, out of other people's footnotes. Without that patient labour there would be no Heraclitus and no Parmenides on any shelf.
+
+Burnet, the Scots classicist of St Andrews, carried the fragments across into English in *Early Greek Philosophy*, and put them within reach of readers who would never learn Greek. This book stands on both men's shoulders, and claims nothing beside them.
+
+---
+
+## How this book was made (please read)
+
+- **Base text:** John Burnet, *Early Greek Philosophy*, 2nd edition (1908), as printed on Project Gutenberg ebook #67097 (marked not in copyright). Burnet prints the fragments in English, arranged after Diels.
+- **What this is:** Burnet's Edwardian English turned into plain modern English — the kind of plain a humble peasant could understand. No "thee," no "thou," no "thy." The meaning follows Burnet throughout; where his wording was already plain, it is kept close.
+- **What this is not:** It is not translated fresh from the Greek. It is not the work of a classical scholar. Anyone who reads Greek should go to Burnet himself, to Diels-Kranz, or to a modern critical edition.
+- **Numbers:** Every fragment carries its standard **Diels-Kranz (DK)** number, so it can be looked up in any modern edition. Where Burnet's own numbering differs from DK's — as it does throughout his Heraclitus, where he follows Bywater's older numbering — Burnet's number is given alongside in (parentheses). Nothing has been silently renumbered. A handful of fragments could not be matched to a DK number with confidence; those are flagged honestly in the text rather than guessed at.
+- **Gaps and marks:** Burnet's line-count markers and footnote tags have been dropped as clutter. Where Burnet marks a gap with "...", the gap is kept. Burnet's own square-bracket insertions are kept in [brackets]; the drafter's own brief glosses also appear in [brackets] — the two uses are not distinguished, so a bracketed phrase may be Burnet's or the modernizer's.
+- **No crowns:** No claim is made here — none — that this is the first, the oldest, the most complete, or the definitive rendering of these fragments. Heraclitus and Parmenides are among the best-served authors in classical scholarship, with many fine modern translations. This is a draft, nothing more, and it does not compete with any of them.
+
+---
+
+## Contents
+
+**Book 3A**
+1. Heraclitus of Ephesus — the fragments (Bywater's selection as printed by Burnet, with DK 22B numbers where verified; coverage is complete vs. Burnet, not vs. every DK fragment)
+2. Parmenides of Elea — the poem (DK 28B1–B19, in Burnet's order)
+
+**Book 3B**
+3. The Milesians — Thales, Anaximander, Anaximenes
+4. Xenophanes of Colophon
+5. Empedocles of Acragas
+6. Anaxagoras of Clazomenae
+7. The Pythagoreans (a note)
+8. Zeno of Elea and Melissus of Samos
+9. Leucippus and Democritus
+10. Hippon, Diogenes of Apollonia, Archelaus
+
+---
+
+*End of front matter. The fragments follow in 01-heraclitus-parmenides-DRAFT.md (Book 3A) and 02-empedocles-and-others-DRAFT.md (Book 3B).*
+# DRAFT — Pre-Socratic Fragments, Book 3A
+
+## Heraclitus of Ephesus and Parmenides of Elea
+
+**Status: DRAFT — G1 SELF-AUDITED (see audit section at end of file).**
+**Not for publication, email, upload, or push. Local file only.**
+
+> **AI-assistance disclosure.** This is a draft assembled with AI assistance for Robert Tilford's Boneyard philosophy series. It is a plain-English rendering of John Burnet's public-domain English translations — not a new translation from the Greek, and not the work of a human scholar. Every fragment below should be checked against a printed scholarly edition before any use beyond the draft shelf.
+
+## Method note (please read)
+
+- **Base text:** John Burnet, *Early Greek Philosophy*, 2nd edition (1908), Project Gutenberg ebook #67097 (marked not in copyright). Burnet prints the fragments in English after Diels.
+- **What this is:** Burnet's Edwardian English turned into plain modern English a humble peasant could understand. No "thee/thou/thy." The meaning follows Burnet; where his wording was already plain, it is kept close.
+- **What this is not:** It is not translated fresh from the Greek.
+- **Numbers — read this before citing anything:** Every fragment carries its standard **Diels-Kranz (DK)** number first — **DK 22B1** means Heraclitus (DK chapter 22), fragment B1; **DK 28B1** means Parmenides (DK chapter 28), fragment B1. Burnet's own numbering is given alongside in (parentheses), because **for Heraclitus, Burnet follows Bywater's older numbering, which differs from DK throughout** — e.g. Burnet's (2) is the famous opening, which is DK 22B1. Nothing has been silently renumbered: both numbers are shown. Where Burnet prints two DK fragments as one passage, both DK numbers are shown. A few fragments could not be matched to a DK number with confidence; those are flagged **[DK unverified]** rather than guessed at.
+- **Gaps and marks:** Burnet's line-count markers (<<5>>) and footnote tags are dropped. Where Burnet marks a gap with "...", the gap is kept. Burnet's own [bracketed] insertions are kept in [brackets].
+- **No crowns:** No claim is made that this is the first, oldest, most complete, or definitive rendering of anything. Heraclitus and Parmenides are well served by many fine modern translations; this draft competes with none of them.
+
+## Contents
+
+**Part I.** Heraclitus of Ephesus — the fragments
+**Part II.** Parmenides of Elea — the poem
+
+---
+
+# PART I. HERACLITUS OF EPHESUS
+
+Heraclitus of Ephesus (fl. c. 500 BC) wrote a single book — its title is unknown, the book itself is lost — in a dense, oracular prose that earned him the nickname "the Dark." What survives are some 130 quoted scraps, gathered from Plato, Aristotle, Clement, Hippolytus, Plutarch, and others.
+
+Burnet prints the fragments in the arrangement and numbering of Ingram Bywater's edition (1877): three groups — (1)–(90), (91)–(97), (98)–(130). Bywater numbers (9), (63), and (128) do not exist (no fragment was assigned to them); his (33) is a cross-reference, not a fragment; his (56) simply repeats (45). Each entry below gives the **DK number first**, then Burnet's (Bywater) number.
+
+- **DK 22B50** (Burnet 1). It is wise to listen — not to me, but to the Word itself — and to admit that all things are one.
+- **DK 22B1** (Burnet 2). This Word holds true for ever, yet people cannot understand it — not when they first hear it, and not before they have heard it. For though everything happens according to this Word, people behave like beginners when they meet the words and deeds I set out here, where I take each thing apart by its nature and show what it truly is. They do not know what they are doing when awake, just as they forget what they did in sleep.
+- **DK 22B34** (Burnet 3). Fools, when they hear, are like the deaf. The saying fits them: absent though present.
+- **DK 22B107** (Burnet 4). Eyes and ears are poor witnesses for people whose souls do not understand their language.
+- **DK 22B17** (Burnet 5). Most people pay no attention to the things they run into, and do not really learn them when taught — though they think they do.
+- **DK 22B19** (Burnet 6). [There are those who] know neither how to listen nor how to speak.
+- **DK 22B18** (Burnet 7). If you do not look for the unexpected, you will not find it — it is hard to track down and hard to get at.
+- **DK 22B22** (Burnet 8). Those who hunt for gold dig up a great deal of earth and find a little.
+- **DK 22B123** (Burnet 10). Nature loves to hide.
+- **DK 22B93** (Burnet 11). The lord whose oracle is at Delphi neither speaks plainly nor hides his meaning — he gives it by a sign.
+- **DK 22B92** (Burnet 12). And the Sibyl, with raving lips speaking words with no laughter, no decoration, no perfume, reaches across a thousand years with her voice — thanks to the god inside her.
+- **DK 22B55** (Burnet 13). What can be seen, heard, and learned — those are the things I value most.
+- **[DK unverified]** (Burnet 14). ... bringing witnesses that cannot be trusted, to back up disputed claims. *(Burnet prints this scrap without a source reference; no separate DK number has been verified for it. It may belong with the context of DK 22B34.)*
+- **DK 22B101a** (Burnet 15). The eyes are more reliable witnesses than the ears.
+- **DK 22B40** (Burnet 16). Learning many things does not teach understanding — if it did, it would have taught Hesiod and Pythagoras, and Xenophanes and Hecataeus too.
+- **DK 22B129** (Burnet 17). Pythagoras, son of Mnesarchus, went further than any other man in his researches; and picking through [other men's] writings, he claimed as his own wisdom what was only a heap of learning — and a craft of trickery.
+- **DK 22B108** (Burnet 18). Of all the teachings I have ever heard, not one gets as far as understanding this: that wisdom stands apart from everything.
+- **DK 22B41** (Burnet 19). Wisdom is one thing: to know the mind by which all things are steered through all things.
+- **DK 22B30** (Burnet 20). This world-order, the same for all — no god and no man made it. It always was, it is now, and it always will be: an ever-living fire, kindling in measures and going out in measures.
+- **DK 22B31** (Burnet 21). The turnings of fire: first, sea — and half of the sea is earth, half is whirlwind. ...
+- **DK 22B90** (Burnet 22). All things are traded for fire, and fire for all things — just as goods are traded for gold, and gold for goods.
+- **DK 22B31** (Burnet 23). [The fire] pours out as sea, and is measured back in the same amount as before it became earth. *(A second scrap of the same DK fragment as Burnet 21.)*
+- **DK 22B65** (Burnet 24). Fire is need and fullness.
+- **DK 22B76** (Burnet 25). Fire lives the death of air, and air lives the death of fire. Water lives the death of earth, and earth lives the death of water.
+- **DK 22B66** (Burnet 26). Fire, when it comes, will judge and convict all things.
+- **DK 22B16** (Burnet 27). How could anyone hide from what never sets?
+- **DK 22B64** (Burnet 28). It is the thunderbolt that steers all things.
+- **DK 22B94** (Burnet 29). The sun will not step past his appointed measures. If he does, the Furies — the servants of Justice — will find him out.
+- **DK 22B120** (Burnet 30). The Bear marks the limit of East and West, and facing the Bear is the boundary of bright Zeus [the clear sky].
+- **DK 22B99** (Burnet 31). If there were no sun, it would be night — for all the other stars could do about it.
+- **DK 22B6** (Burnet 32). The sun is new every day.
+- **DK 22B100** (Burnet 34). ... the seasons, which bring all things. *(Burnet prints only this scrap.)*
+- **DK 22B57** (Burnet 35). Hesiod is the teacher of most men. They think he knew a great many things — he, who did not know day from night! But day and night are one.
+- **DK 22B67** (Burnet 36). God is day and night, winter and summer, war and peace, hunger and fullness. He changes shape, just as fire, when mixed with spices, is named for the scent of each one.
+- **DK 22B7** (Burnet 37). If everything turned to smoke, our noses could still tell things apart.
+- **DK 22B98** (Burnet 38). Souls can smell in the house of Hades.
+- **DK 22B126** (Burnet 39). Cold things grow warm, and warm things grow cold. Wet things dry out, and parched things get damp.
+- **[DK unverified]** (Burnet 40). It scatters and it gathers; it comes forward and falls back. *(No DK number verified; printed as Burnet gives it.)*
+- **DK 22B91** (Burnet 41, 42). You cannot step twice into the same rivers — fresh waters are always flowing over you.
+- **[DK unverified]** (Burnet 43). Homer was wrong to say: "Would that strife would perish from among gods and men!" He did not see that he was praying for the destruction of the universe — if his prayer were answered, everything would pass away. ... *(No DK B-number verified for this much-quoted passage; it is not listed as a B-fragment in the standard source tables. Burnet prints it as a fragment.)*
+- **DK 22B53** (Burnet 44). War is the father of all and the king of all. Some it has made gods and some men, some slaves and some free.
+- **DK 22B51** (Burnet 45). People do not understand how what fights with itself can agree with itself. It is a harmony of opposing tensions — like the bow and the lyre.
+- **DK 22B8** (Burnet 46). What opposes us is what does us good.
+- **DK 22B54** (Burnet 47). The hidden harmony is better than the one out in the open.
+- **DK 22B47** (Burnet 48). Let us not make wild guesses about the greatest things.
+- **DK 22B35** (Burnet 49). Those who love wisdom must be well acquainted with a great many things.
+- **DK 22B59** (Burnet 50). The fuller's comb: its straight path and its crooked path are one and the same.
+- **DK 22B9** (Burnet 51). Donkeys would rather have straw than gold.
+- **[DK unverified]** (Burnet 51a). Oxen are glad when they find bitter vetch to eat. *(No DK number verified.)*
+- **DK 22B61** (Burnet 52). The sea is the purest water and the foulest. Fish can drink it, and it does them good; for men it is undrinkable and deadly.
+- **DK 22B13** (Burnet 53). Pigs wash in mud, and barnyard hens in dust.
+- **DK 22B13** (Burnet 54). ... to take delight in mud. *(A scrap belonging with the same passage as Burnet 53.)*
+- **DK 22B11** (Burnet 55). Every beast is driven to its pasture with blows.
+- **DK 22B51** (Burnet 56). Same as Burnet 45 above.
+- **[DK unverified]** (Burnet 57). Good and bad are one. *(No DK B-number verified for this as a separate fragment.)*
+- **DK 22B58** (Burnet 58). Doctors who cut, burn, stab, and rack the sick demand a fee for it that they do not deserve.
+- **DK 22B10** (Burnet 59). Joined together: things whole and things not whole, what is pulled together and what is pulled apart, the tuneful and the untuneful. From all things comes the one, and from the one come all things.
+- **DK 22B23** (Burnet 60). People would never have known the name of justice if these [unjust] things did not exist.
+- **DK 22B102** (Burnet 61). To God, all things are beautiful and good and right. But men judge some things wrong and some right.
+- **DK 22B80** (Burnet 62). We must know that war is shared by all, and strife is justice — and that all things come to be, and pass away, through strife.
+- **DK 22B21** (Burnet 64). All we see when awake is death, just as all we see in sleep is sleep.
+- **DK 22B32** (Burnet 65). The wise is one alone. It both refuses and agrees to be called by the name of Zeus.
+- **DK 22B48** (Burnet 66). The bow's name is "life," but its work is death. [In Greek the two words sound alike.]
+- **DK 22B62** (Burnet 67). Mortals are immortals, and immortals are mortals: each living the other's death, and dying the other's life.
+- **DK 22B36** (Burnet 68). For souls, it is death to become water; for water, death to become earth. But from earth comes water, and from water comes soul.
+- **DK 22B60** (Burnet 69). The way up and the way down are one and the same.
+- **DK 22B103** (Burnet 70). On the rim of a circle, beginning and end are the same point.
+- **DK 22B45** (Burnet 71). You will never find the borders of the soul, no matter which road you travel — so deep is its measure.
+- **DK 22B77** (Burnet 72). For souls, it is pleasure — or death — to become damp.
+- **DK 22B117** (Burnet 73). When a man gets drunk, a beardless boy leads him stumbling — he does not know where he is stepping, because his soul is damp.
+- **DK 22B118** (Burnet 74–76). The dry soul is the wisest and best.
+- **DK 22B26** (Burnet 77). A man is lit and put out like a lamp in the night.
+- **DK 22B88** (Burnet 78). It is the same thing in us that is living and dead, awake and asleep, young and old. The first turn into the second, and the second turn back into the first.
+- **DK 22B52** (Burnet 79). A lifetime is a child at play, moving pieces on a board. Kingship belongs to a child.
+- **DK 22B101** (Burnet 80). I went looking for myself.
+- **DK 22B49a** (Burnet 81). We step into the same rivers, and we do not step into them. We are, and we are not.
+- **DK 22B84b** (Burnet 82). It wears you out to work for the same masters and be ruled by them.
+- **DK 22B84a** (Burnet 83). Changing, it finds rest.
+- **DK 22B125** (Burnet 84). Even the barley-drink [posset] separates if you do not keep stirring it.
+- **DK 22B96** (Burnet 85). Corpses are more fit to be thrown out than dung.
+- **DK 22B20** (Burnet 86). When people are born, they want to live and to meet their fated ends — or rather, to rest — and they leave children behind to meet their fated ends in turn.
+- **[DK unverified]** (Burnet 87–89). A man can be a grandfather in thirty years. *(No DK number verified.)*
+- **DK 22B75** (Burnet 90). Those who sleep are fellow-workers [in what goes on in the world]. ...
+- **DK 22B113** (Burnet 91a). Thinking is shared by all.
+- **DK 22B114** (Burnet 91b). Those who speak with sense must hold fast to what is shared by all — as a city holds fast to its law, and even more tightly. For all human laws are fed by the one divine law. It rules as far as it wishes, and it is enough for all things, with plenty to spare.
+- **DK 22B2** (Burnet 92). So we must follow what is shared. Yet most people live as if they had a private wisdom of their own.
+- **DK 22B72** (Burnet 93). They are cut off from what they deal with most constantly [the Word that steers all things].
+- **DK 22B73** (Burnet 94). We should not act or speak like people asleep.
+- **DK 22B89** (Burnet 95). The waking share one common world, but each sleeper turns aside into a world of his own.
+- **DK 22B78** (Burnet 96). The human way of thinking has no wisdom in it, but the divine way does.
+- **DK 22B79** (Burnet 97). A man is called a baby by God, just as a boy is called a baby by a man.
+- **DK 22B82 + 22B83** (Burnet 98, 99). The most beautiful ape is ugly compared to a man [B82], and the wisest man looks like an ape compared to God [B83].
+- **DK 22B44** (Burnet 100). The people must fight for their law as they would fight for their city wall.
+- **DK 22B25** (Burnet 101). Greater deaths win greater rewards.
+- **DK 22B24** (Burnet 102). Gods and men honour those who fall in battle.
+- **DK 22B43** (Burnet 103). Arrogance must be put out even faster than a house on fire.
+- **DK 22B110 + 22B111** (Burnet 104). It is not good for people to get everything they wish for [B110]. It is sickness that makes health pleasant, and bad things that make good things pleasant; hunger makes fullness pleasant, and weariness makes rest pleasant [B111].
+- **DK 22B85** (Burnet 105–107). It is hard to fight against your heart's desire — whatever it wants, it buys at the price of your soul.
+- **[DK unverified — possibly B109]** (Burnet 108, 109). It is best to keep folly hidden — but that is hard when we are relaxed and drinking. *(No DK number verified; DK B109 is a possible match.)*
+- **DK 22B33** (Burnet 110). It is also the law to obey the counsel of one man.
+- **DK 22B104 + 22B29** (Burnet 111). What sense or wisdom do they have? They follow the singers and take the crowd for their teacher, not knowing that most are bad and few are good [B104]. Even the best of them choose one thing above all else — undying glory among mortals — while the common run stuff themselves like cattle [B29].
+- **DK 22B39** (Burnet 112). In Priene lived Bias, son of Teutames, a man of more weight than the rest. (He said: "Most men are bad.")
+- **DK 22B49** (Burnet 113). One man is ten thousand to me, if he is the best.
+- **DK 22B121** (Burnet 114). The grown men of Ephesus would do well to hang themselves, every one, and leave the city to boys not yet grown. For they drove out Hermodorus, the best man among them, saying: "We will have no one best among us — if there is such a man, let him be so somewhere else, among other people."
+- **DK 22B81** (Burnet 115). Dogs bark at everyone they do not know.
+- **DK 22B86** (Burnet 116). ... [the wise one] escapes notice, because people refuse to believe. *(Burnet prints only this scrap.)*
+- **DK 22B87** (Burnet 117). The fool is startled by every word.
+- **DK 22B28** (Burnet 118). Even the most respected among them knows only fancies and guesses. But Justice will catch up with the makers of lies and the false witnesses — that is certain.
+- **DK 22B42** (Burnet 119). Homer should be thrown out of the contests and whipped — and Archilochus too.
+- **DK 22B122** (Burnet 120). One day is like any other day.
+- **DK 22B119** (Burnet 121). A man's character is his fate.
+- **DK 22B27** (Burnet 122). When people die, things await them that they neither hoped for nor imagined.
+- **DK 22B63** (Burnet 123). ... that they rise up and become the watchful guardians of the living and the dead. *(Burnet prints only this scrap.)*
+- **DK 22B14** (Burnet 124). Night-walkers, magicians, priests of Bacchus and priestesses of the wine-vat, peddlers of mysteries — ...
+- **DK 22B14** (Burnet 125). The mysteries celebrated among men are unholy rites. *(The second half of the same DK fragment as Burnet 124.)*
+- **DK 22B5** (Burnet 126). And they pray to these statues as if they were talking to a man's house — knowing nothing of what gods or heroes really are. *(The second half of DK B5; the first half is Burnet 129, 130.)*
+- **DK 22B15** (Burnet 127). If their procession were not for Dionysus, and their song not the shameful phallic hymn, what they do would be utterly shameless. But Hades is the same as Dionysus — the one for whom they rave and hold the wine-vat feast.
+- **DK 22B5** (Burnet 129, 130). They try to cleanse themselves by staining themselves with blood — as if a man who stepped in mud tried to wash the mud off with mud. Anyone who saw him doing that would think him mad. *(The first half of DK B5; the second half is Burnet 126.)*
+
+*(Bywater (33) is a cross-reference in Burnet — "see above, Chap. I" — not a fragment. Bywater numbers (9), (63), and (128) were never assigned to any fragment.)*
+
+---
+
+# PART II. PARMENIDES OF ELEA
+
+Parmenides of Elea (fl. c. 500 BC) was the first philosopher to set out his system in verse — a stern hexameter poem of which the opening survives nearly whole, along with long stretches of its argument. Burnet says he follows Diels's arrangement; but note that **Burnet's numbering of Parmenides (2), (3), (4, 5) does not match the now-standard DK order** — his (2) is DK 28B4, his (3) is DK 28B5, and his (4, 5) are DK 28B2 and 28B3. Both numbers are given below. Burnet omits DK 28B18 (a Latin retranslation, not Greek).
+
+## The Way of Truth
+
+- **DK 28B1** (Burnet 1). *The proem — the journey to the goddess.*
+
+  The car that carries me bore me as far as my heart ever desired, for it brought me and set me on the famed road of the goddess, which alone leads the knowing man through all things. Along that road I was borne — the wise horses drew my car, and maidens showed the way. The axle glowed in its socket, driven round by the whirling wheels at either end, and sang like a pipe — when the daughters of the Sun, hurrying to bring me into the light, drew their veils from their faces and left the house of Night.
+
+  There stand the gates of the roads of Night and Day, with a lintel above and a stone threshold below. The gates themselves tower in the sky, barred by mighty doors — and avenging Justice holds the keys that fit them. The maidens coaxed her with soft words and cleverly persuaded her to slide back the bolted bar from the gates without demur. The doors swung back and opened wide, their bronze posts turning one after another on rivets and pins. Straight through them, along the broad road, the maidens guided horses and car — and the goddess greeted me kindly, took my right hand in hers, and spoke these words to me:
+
+  "Welcome, young man, who come to my house on the car that bears you, tended by immortal charioteers! No ill fate sent you travelling this road — it was right and justice. Far indeed it lies from the beaten track of men. It is right that you should learn all things: both the unshaken heart of well-rounded truth, and the opinions of mortals, in which there is no true belief at all. Yet you shall learn these too — how the things that seem to them should have seemed to them as they do — as you travel through all things on your journey."
+
+  * * * * *
+
+  But hold your thought back from this road of inquiry. Do not let habit, with all its experience, force you to cast a wandering eye, a listening ear, or a tongue along this road. Judge by argument the much-argued proof I have spoken. There is only one road left that can be spoken of. ...
+
+  *(The closing lines of Burnet's (1) — "hold your thought back..." — belong in DK's ordering to the "restrain your thought" passage of DK 28B7, printed again as Burnet's (7) below. The words are given here exactly as Burnet arranges them.)*
+
+- **DK 28B4** (Burnet 2). Look steadily with your mind at things, even when far off, as if they were close at hand. You cannot cut off what-is from clinging to what-is — neither scattering it abroad everywhere in order, nor gathering it together.
+
+- **DK 28B5** (Burnet 3). It is all one to me where I begin, for I shall come back there again.
+
+- **DK 28B2 + 28B3** (Burnet 4, 5). Come now, I will tell you — listen to my saying and carry it away — the only two roads of inquiry there are to think of. The first — that *It is*, and that it cannot *not* be — is the road of belief, for truth goes with it. The other — that *It is not*, and that it must *not* be — this, I tell you, is a path no one can ever learn. For you cannot know what-is-not — that is impossible — nor can you speak of it. [B3:] For thinking and being are the same thing.
+
+- **DK 28B6** (Burnet 6). What can be thought and spoken of must *be* — for it can be, and what-is-nothing cannot be. Ponder this, as I bid you. I hold you back from this first road of inquiry — and from that other one too, on which mortals who know nothing wander two-faced. Helplessness steers their straying thought in their breasts, and they are carried along, dazed, like the deaf and blind. Undiscerning crowds! In their eyes, being and not-being are the same and not the same — and all things travel in opposite directions!
+
+- **DK 28B7** (Burnet 7). For this shall never be proved: that things that are not, are. Hold your thought back from this road of inquiry.
+
+- **DK 28B8** (Burnet 8). One road only is left to speak of: that *It is*. On it there are many signposts, showing that what-is is unborn and undying — for it is whole, unmoved, and without end. It never was and never will be, for it *is* now — all at once, one continuous whole. What birth will you look for? How, and from where, could it have grown? I will not let you say or think it came from what-is-not — for it cannot be thought or spoken that anything *is not*. And if it came from nothing, what need could have made it arise later rather than sooner? So it must either be altogether, or not at all. The force of truth will not let anything arise, besides itself, from what-is-not. That is why Justice does not loosen her chains to let anything come to be or pass away — she holds it fast. Our judgment rests on this: "*Is it, or is it not?*" It is judged, as it must be, that we set aside the one road as unthinkable and nameless (for it is no true road), and that the other road is real and true. How, then, can what-is be going to be in the future? How could it have come to be? If it came to be, it is not — nor is it, if it is going to be in the future. So coming-to-be is silenced, and passing-away is not to be heard of.
+
+  Nor is it divisible, since it is all alike. There is no more of it in one place than in another to keep it from holding together, and no less — everything is full of what-is. So it is wholly continuous, for what-is touches what-is.
+
+  Moreover, it is unmoved in the bonds of mighty chains, without beginning and without end, since coming-to-be and passing-away have been driven far off, and true belief has cast them out. It is the same, and rests in the same place, abiding in itself. So it stays constant in its place, for hard necessity keeps it in the bonds of the limit that holds it fast on every side. What-is may not be boundless — for it needs nothing, while if it were boundless it would need everything.
+
+  The thing that can be thought, and the thought for whose sake it exists, are the same. For you cannot find thought without something that is, which the thought is about. There is not, and never shall be, anything besides what-is, since fate has chained it to be whole and unmoved. So all these things are only names that mortals have given, believing them true: coming-to-be and passing-away, being and not-being, change of place and shift of bright colour.
+
+  Since it has a farthest limit, it is complete on every side, like the bulk of a well-rounded ball, balanced equally from the centre in every direction. For it cannot be greater in one place and smaller in another. There is no nothing that could stop it from reaching out equally, and what-is cannot be more here and less there, since it is all untouchable. From its centre it reaches equally in every direction to the limits.
+
+## The Way of Opinion
+
+Here I close my trustworthy speech and thought about the truth. From here on, learn the opinions of mortals, listening to the deceitful ordering of my words.
+
+Mortals have made up their minds to name two forms — one of which they should not have named — and that is where they stray from the truth. They set them apart as opposites in form, and gave them marks different from each other. To the one they gave the bright fire of heaven — gentle, very light, everywhere the same as itself but not the same as the other. The other is just the opposite: dark night, a dense and heavy body. I tell you the whole arrangement of these as it seems likely, so that no thought of mortals shall ever outrun you.
+
+- **DK 28B9** (Burnet 9). Now that all things have been named light and night, and the names that belong to the power of each have been given to these things and those, everything is full of light and dark night at once — both equal, since neither has anything to do with the other.
+
+- **DK 28B10 + 28B11** (Burnet 10, 11). And you shall know the substance of the sky, and all the signs in the sky, and the shining works of the glowing sun's pure torch, and where they came from. And you shall learn of the wandering deeds of the round-faced moon, and of her substance. You shall know, too, the heaven that surrounds us, where it came from, and how Necessity took it and bound it to keep the limits of the stars ... how the earth and the sun and the moon, and the sky common to all, and the Milky Way, and farthest Olympus, and the burning might of the stars, came to be.
+
+- **DK 28B12** (Burnet 12). The narrower rings are filled with unmixed fire, and those next to them with night, and through the middle of these rushes their share of fire. In the middle of these circles is the goddess who steers the course of all things. For she begins all painful birth and all begetting, driving the female to the embrace of the male, and the male to that of the female.
+
+- **DK 28B13** (Burnet 13). First of all the gods, she devised Love.
+
+- **DK 28B14** (Burnet 14). Shining by night with borrowed light, wandering round the earth. [The moon.]
+
+- **DK 28B15** (Burnet 15). Always looking toward the sun's beams. [The moon.]
+
+- **DK 28B16** (Burnet 16). For as the mixture of its wandering organs stands at any time, so thought comes to men. What thinks is the same thing — the substance of the limbs — in each and every man. For thought is whatever is strongest in them.
+
+- **DK 28B17** (Burnet 17). On the right, boys; on the left, girls. [A scrap of his embryology.]
+
+- **DK 28B19** (Burnet 19). So, in men's opinions, things came to be, and so they are now. In time they will grow and pass away. To each of these things men have given a fixed name.
+
+*(Burnet does not print DK 28B18, noting it survives only as a Latin retranslation.)*
+
+---
+
+## G1 SELF-AUDIT (2026-10-11)
+
+**Result: PASS WITH NOTES.** Checked against John Burnet, *Early Greek Philosophy* (Gutenberg #67097), Heraclitus chapter (§§63–65) and Parmenides chapter (§85).
+
+**Coverage.**
+- Heraclitus: all 118 Burnet fragment entries accounted for (Bywater 1–130, minus unassigned 9/63/128, minus cross-reference 33; combined numbers kept as Burnet prints them). Counted programmatically against the source text: zero missing, zero extra.
+- Parmenides: all 16 Burnet groups accounted for — (1), (2), (3), (4,5), (6), (7), (8), (9), (10,11), (12), (13), (14), (15), (16), (17), (19). DK 28B18 omitted by Burnet himself (Latin retranslation only); noted in text.
+
+**Numbering.**
+- Every fragment carries its DK number first and Burnet's number in (parentheses). Nothing silently renumbered.
+- Heraclitus: Burnet follows Bywater's 1877 numbering, which differs from DK throughout — the concordance was verified fragment-by-fragment against (a) the Dutch Wikipedia source table "Lijst van bronnen voor Heraclitus' fragmenten" (source → DK B-number), and (b) Diels's own German rendering (fragments 70–88) for the ethical fragments. Spot-verified: B1/B50 (Sextus, Hippolytus), B30–B36 (Clement Strom.), B51–B67 (Hippolytus Ref. IX), B82/B83 (Plato Hipp. Maj.), B84a/B84b (Plotinus), B86/B87 (Plutarch, Diels), B110/B111 (Stobaeus), B5 split (Origen), B14 split (Clement Protr.).
+- Parmenides: Burnet's (2)=DK 28B4, (3)=DK 28B5, (4,5)=DK 28B2+28B3 — flagged in the intro, both numbers shown. Burnet's (1) includes the "restrain thy thought" lines that DK places in 28B7; noted in text, words kept as Burnet arranges them.
+- **[DK unverified] flags (7):** Burnet 14, 40, 43, 51a, 57, 87–89, 108–109 (possibly B109). These are printed with Burnet's number and an honest flag — no DK number invented. Burnet 54 and 56 are marked as belonging with B13 and B51 respectively, as Burnet indicates.
+
+**Fidelity.** Renderings paraphrase Burnet into plain modern English; spot-checked against source for B1, B50, B58, B85, B86, B104+B29, B110+B111, B111, B114, B5 (both halves), B14 (both halves), B31 (both halves), and the full Parmenides B8 — no invented content, no dropped sentences, gaps ("...") preserved, Burnet's [bracket] insertions kept.
+
+**House rules.** DRAFT banner + AI disclosure open the file. No thee/thou/thy outside the method note's mention. No first/oldest/definitive/complete claims — the "No crowns" paragraph stands. Plain peasant-clear English throughout.
+
+**Boundary.** G1 complete. STOP — G4 read-through gate not crossed. Nothing published, emailed, uploaded, or pushed. Local files only.
+# DRAFT — Pre-Socratic Fragments, Book 3B
+
+## Empedocles, Anaxagoras, Democritus, and the Rest
+*(Heraclitus and Parmenides are handled by a companion worker and are not duplicated here.)*
+
+**Status: DRAFT — G1 SELF-AUDITED (see audit section at end of file).**
+**Not for publication, email, upload, or push. Local file only.**
+
+> **AI-assistance disclosure.** This is a draft assembled with AI assistance for Robert Tilford's Boneyard philosophy series. It is a plain-English rendering of fragment translations already in the public domain — not a new translation from the Greek, and not the work of a human scholar. Every fragment below should be checked against a printed scholarly edition before any use beyond the draft shelf.
+
+## Method note (please read)
+
+- **Base text:** John Burnet, *Early Greek Philosophy*, 2nd edition (1908), as printed on Project Gutenberg ebook #67097 (marked not in copyright). Burnet prints the fragments in English in the arrangement of Diels's *Fragmente der Vorsokratiker*.
+- **What this is:** Burnet's Victorian/Edwardian English turned into plain modern English a humble peasant could understand. No "thee/thou/thy." The meaning follows Burnet; where Burnet's wording was already plain, it is kept close.
+- **What this is not:** It is not translated fresh from the Greek. Anyone who reads Greek should go to Burnet, to Diels-Kranz, or to a modern critical edition.
+- **Numbers:** Fragment numbers follow Burnet, who follows Diels. These are the same numbers used in the now-standard Diels-Kranz (DK) editions for the fragments given here, except where a note says otherwise. Nothing has been silently renumbered. Where Burnet prints two Diels numbers as one passage, both numbers are shown.
+- **Gaps and marks:** Burnet's line-count markers (<<5>>, <<10>>) and footnote tags have been dropped as clutter. Where Burnet marks a gap with "...", the gap is kept. Square-bracket insertions that were Burnet's own are kept in [brackets].
+- **No crowns:** No claim is made here that this is the first, oldest, most complete, or definitive rendering of anything. It is a draft, nothing more.
+
+## Contents
+
+1. The Milesians — Thales, Anaximander, Anaximenes
+2. Xenophanes of Colophon
+3. Empedocles of Acragas
+4. Anaxagoras of Clazomenae
+5. The Pythagoreans (a note — no genuine fragments in Burnet)
+6. Zeno of Elea and Melissus of Samos
+7. Leucippus and Democritus
+8. Hippon, Diogenes of Apollonia, Archelaus
+
+---
+
+## 1. The Milesians
+
+### Thales of Miletus
+
+Burnet is blunt: strictly speaking, we know nothing of the teaching of Thales at first hand — no line of his survives. What follows is Burnet's own **conjectural** boiling-down of Aristotle's reports, numbered (1)–(3) for convenience. These are not fragments; they are educated guesses, and are labelled as such.
+
+- **(1) [conjectural]** The earth floats on water.
+- **(2) [conjectural]** Water is the material stuff of all things.
+- **(3) [conjectural]** All things are full of gods. The magnet is alive, because it has the power to move iron.
+
+### Anaximander of Miletus
+
+One genuine sentence survives, quoted by Theophrastus (DK 12B1). Burnet gives it in quotation marks inside Theophrastus's report:
+
+- **B1.** "Things pay penalty and make amends to one another for their wrongdoing, according to the fixed order of time" — for they rise out of, and pass back into, the source they came from, as is ordained.
+
+*(Burnet's fuller wording: "And into that from which things take their rise they pass away once more, 'as is ordained; for they make reparation and satisfaction to one another for their injustice according to the appointed time.'")*
+
+### Anaximenes of Miletus
+
+No numbered fragments in Burnet — only reports. The most famous saying, quoted by Aetius (DK 13B2), runs:
+
+- **[B2 — reported saying]** "Just as our soul, being air, holds us together, so breath and air surround the whole world."
+
+The doxographical reports Burnet prints most fully (from Theophrastus via Simplicius, and from Hippolytus) say:
+
+- Air is the one boundless underlying stuff; all things come from it by thinning out and packing together. Thinned, it becomes fire; packed, it becomes wind, then cloud, then water, then earth, then stones.
+- Air is always moving — if it stood still, nothing would change.
+- "From it, he said, the things that are, and have been, and shall be, the gods and things divine, took their rise."
+
+---
+
+## 2. Xenophanes of Colophon
+
+Burnet: "I give all the fragments of any importance according to the text and arrangement of Diels." Numbers below are Diels = DK 21B. Burnet groups (1)–(3) as elegies and the rest as satires (*Silloi*).
+
+**B1.** The floor is clean now, and everyone's hands and cups are clean. One man sets twisted garlands on our heads, another hands round sweet-smelling ointment on a dish. The mixing bowls stand ready, full of cheer, and there is more wine at hand that will never leave us short — soft wine, smelling of flowers in the jars. In the middle the frankincense sends up its holy smoke, and there is cold water, sweet and clean. Brown loaves are set before us, and a lordly table loaded with cheese and rich honey. The altar in the middle is ringed with flowers; song and good cheer fill the hall.
+
+But first, men should hymn the god with glad songs, with holy tales and pure words. Then, after pouring out wine and praying for strength to do right — for that is the better way — it is no sin to drink as much as a man can hold and still get home without a servant to lean on, unless he is old. Honour above all men the one who, after drinking, shows himself at his best in the contest of skill, as far as his memory and his voice will carry him. Let him not sing of Titans and Giants — those old men's fictions — nor of savage party strife, in which there is no good at all. Let him always show thoughtful reverence toward the gods.
+
+**B2.** Suppose a man wins the foot-race at Olympia, or the pentathlon, or wrestling where Zeus's precinct stands by the springs of Pisa — suppose by brutal boxing or the fearsome sport they call the pancration he becomes the talk of the town, wins a seat of honour at the games, free meals from the state, and a prize to hand down to his heirs — suppose he wins the chariot race: he will not deserve it all as much as I do. My art is worth far more than the strength of men and horses. People judge these things without thinking, and it is wrong to put brute strength ahead of wisdom. Even if a mighty boxer rises among a people, or a champion of the pentathlon or wrestling, or the fastest runner of all — and running stands first among the games — the city will be no better governed for it. A city gets little joy when a man wins at Pisa's banks; it does not fill the city's storehouses.
+
+**B3.** They learned soft, useless ways from the Lydians, back when they were free of hateful tyranny. They went to the market-place in cloaks of purple dye, a thousand of them all told, vain and proud of their pretty oiled hair, reeking with perfume from cunning salves.
+
+**B10.** All men from the beginning have learned their lore from Homer....
+
+**B11.** Homer and Hesiod pinned on the gods everything that is shameful and disgraceful among men — stealing, adultery, and cheating one another.
+
+**B12.** They told story after story of the gods' lawless doings — stealing, adultery, and cheating one another.
+
+**B14.** But men suppose the gods are born like themselves, and wear clothes like theirs, and have voice and shape like theirs.
+
+**B15.** If oxen and horses and lions had hands, and could paint with their hands and make works of art the way men do, horses would paint their gods shaped like horses, oxen shaped like oxen, each kind in its own image.
+
+**B16.** The Ethiopians say their gods are black and snub-nosed; the Thracians say theirs have blue eyes and red hair.
+
+**B18.** The gods did not hand everything to men from the beginning. Men find out better things in time, by searching.
+
+**B23.** One god, greatest among gods and men — not like mortals in body, not like them in mind.
+
+**B24.** He sees all over, thinks all over, hears all over.
+
+**B25.** Without any toil, he sways all things by the thought of his mind.
+
+**B26.** He stays forever in the same place, never moving at all. It would not suit him to wander now here, now there.
+
+**B27.** All things come from the earth, and all things end in the earth.
+
+**B28.** The earth's upper limit is here at our feet, where it touches the air; below, it goes down without end.
+
+**B29.** All things that come into being and grow are earth and water.
+
+**B30.** The sea is the source of water and the source of wind. Without the mighty sea there would be no blasts of wind blowing out from the clouds, no rivers flowing, no rain-water from the sky. The mighty sea is the father of clouds and winds and rivers.
+
+**B31.** The sun, swinging over the earth and warming it....
+
+**B32.** What they call Iris (the rainbow) is a cloud too — purple and scarlet and green to look at.
+
+**B33.** We are all born of earth and water.
+
+**B34.** No man ever was or will be who knows for certain about the gods, or about all the things I speak of. Even if he happened to say the exact truth, he himself would not know it was true. Every man has his own fancy.
+
+**B35.** Let these things be taken as fancies, something like the truth.
+
+**B36.** All those things that appear for men to see....
+
+**B37.** And in some caves water drips....
+
+**B38.** If god had not made brown honey, men would think figs far sweeter than they do.
+
+---
+## 3. Empedocles of Acragas
+
+Burnet: "I give the remains as they are arranged by Diels." Numbers below are Diels = DK 31B. Burnet prints the *Poem on Nature* and the *Purifications* together, as Diels did. Burnet prints passages under 141 entries (133 singly-numbered headings including B27a, plus 8 of Burnet's combined printings), covering Diels numbers 1 through 148, except Diels 149 and 150, which he does not quote. Where Burnet prints two Diels numbers as a single passage, both numbers are given (e.g. B11–12).
+
+**B1.** Listen, Pausanias, son of wise Anchitos!
+
+**B2.** The powers spread through men's bodily parts are cramped, and crowds of troubles break in and blunt their careful thinking. They see only a brief stretch of a life that is no life, and, doomed to die quickly, they are lifted and fly off like smoke. Each man is sure only of what he happens to stumble on, as he is hurried back and forth, and idly boasts he has found the whole truth. These things are so hard for men's eyes to see, for their ears to hear, for their minds to grasp! But you — since you have found your way here — will learn no more than a mortal mind can hold.
+
+**B3.** ...to keep it locked in your silent heart.
+
+**B4.** O gods, turn away from my tongue the madness of those men! Make my lips holy and let a pure stream flow from them! And you, much-wanted, white-armed virgin Muse — I beg you, let me hear what is lawful for the children of a day to hear! Set me on my road from the house of Holiness, and drive my willing chariot! Let no garlands of glory and honour from mortal hands tempt you to lift men off the ground on condition that you speak proudly beyond what is lawful and right, just to win a seat on the heights of wisdom.
+
+Come now, use every power you have to see how each thing stands clear. Do not trust your sight more than your hearing, and do not set your echoing ear above the plain teaching of your tongue. Do not hold back trust from any other part of your body that gives understanding an opening. Weigh everything by the way it stands clear.
+
+**B5.** It is always the way of small minds to disbelieve their betters. Learn what my Muse's sure testimony bids you learn, turning the argument over in your heart.
+
+**B6.** Hear first the four roots of all things: shining Zeus, life-giving Hera, Aidoneus, and Nestis, whose tears are a spring of water for mortals. *(Burnet's note: the four elements are introduced here under the names of gods; the ancient commentators themselves disagreed about which god stood for which element.)*
+
+**B7.** ...uncreated....
+
+**B8.** I will tell you something else. Nothing that dies ever comes into being, and death does not end anything. There is only mixing, and changing of what was mixed. "Coming into being" is just a name men give it.
+
+**B9.** When the elements are mixed into the shape of a man and come into the daylight, or into the shape of wild beasts or plants or birds, men say these things "come into being." When they are separated, men call it woeful death. They name it wrongly — but I follow custom too, and call it the same myself.
+
+**B10.** Avenging death.
+
+**B11–12** *(Burnet prints 11 and 12 as one passage.)* Fools! — they have no far-reaching thoughts — who believe that what never was before comes into being, or that anything can die and be utterly destroyed. Nothing can arise from what in no way is, and it is impossible, unheard of, that what *is* should perish. It will always *be*, wherever you keep putting it.
+
+**B13.** In the All there is nothing empty and nothing over-full.
+
+**B14.** In the All there is nothing empty. So where could anything come from to add to it?
+
+**B15.** A man who understands these things would never suppose in his heart that, for as long as mortals live the life they call life, they *are* — with their good and bad fortune — while before they were put together and after they dissolve, they are simply nothing at all.
+
+**B16.** Of a truth, Strife and Love existed before and will exist hereafter. Boundless time, I think, will never be emptied of that pair.
+
+**B17.** I will tell you a twofold tale. At one time it grew to be one alone out of many; at another, it split apart to be many out of one. There is a double coming-into-being of dying things, and a double passing away. The coming together of all things both brings one generation into being and destroys it; the other generation grows up and is scattered as things divide. These things never stop changing places: at one time all uniting into one through Love, at another each carried a different way by Strife's repulsion. Insofar as it is their nature to grow into one out of many, and to become many again when the one is torn apart, they come into being and their life does not last. But insofar as they never stop shifting places, they are forever unmoving as they circle round existence.
+
+* * *
+
+But come, listen to my words — learning is what increases wisdom. As I said before, when I laid out the headings of my discourse, I will tell you a twofold tale. At one time it grew together to be one alone out of many; at another it parted to be many out of one: Fire and Water and Earth and the mighty height of Air; dread Strife too, apart from these, matching each in weight; and Love among them, matching them in length and breadth. Look at her with your mind — do not sit with dazed eyes. She is the one known as planted in mortal frames. She makes men think loving thoughts and do the works of peace. They call her Joy and Aphrodite. No mortal man has yet seen her circling among them — but attend to the straight ordering of my tale.
+
+For all these are equal and the same age, yet each holds a different office and has its own nature. Nothing comes into being besides these, and they do not pass away. If they were always passing away, they would not exist now — and what could add to this All, and where from? How could it perish, when no place is empty of these things? They are what they are; but, running through one another, they become now this, now that, and like things forevermore.
+
+**B18.** Love.
+
+**B19.** Clinging Love.
+
+**B20.** This contest of Love and Strife shows plainly in the mass of mortal limbs. At one time all the limbs that make up the body are brought together by Love in blooming life's high season; at another, torn apart by cruel Strife, they wander each alone along the breakers of life's sea. It is the same with plants, with fish that make their homes in the water, with beasts that den on the hills, and with seabirds that sail on wings.
+
+**B21.** Come now, look at the witnesses to my earlier tale, in case my earlier list fell short in describing their form. See the sun, everywhere bright and warm, and all the undying things bathed in heat and bright radiance. See the rain, everywhere dark and cold. From the earth come things packed tight and solid. When in strife, all these are different in form and separate; but they come together in love and long for one another.
+
+For out of these have sprung all things that were and are and will be — trees and men and women, beasts and birds and fish that live in the water, yes, and the long-lived gods, exalted in honour.
+
+For these things are what they are; but, running through one another, they take different shapes — so much does mixing change them.
+
+**B22.** All of these — sun, earth, sky, sea — are at one with all their parts scattered far and wide in mortal things. And so, things that mix well are like one another and are united in love by Aphrodite. Things that differ most in origin, mixture, and the stamp on each are the most hostile — wholly unused to uniting, and grieving at Strife's command, since Strife made their birth what it is.
+
+**B23.** Just as painters making temple-offerings — men well taught in their art by wisdom — take pigments of many colours in their hands, mix them in due measure, more of some and less of others, and from them make shapes like all things: trees and men and women, beasts and birds and fish that live in the water, yes, and long-lived gods exalted in honour — so let error not master your mind into thinking there is any other source of all the countless dying creatures we see. Know this for certain, for you have heard the tale from a goddess.
+
+**B24.** Climbing from peak to peak — not to walk one path only, to the end....
+
+**B25.** What is right may well be said even twice.
+
+**B26.** They rule in turn as the circle comes round, pass into one another, and grow great each in its appointed turn.
+
+They are what they are; but, running through one another, they become men and the tribes of beasts. At one time they are all brought into one order by Love; at another they are carried each a different way by Strife's repulsion, until they grow into one again and are wholly mastered. So: insofar as they grow into one out of many, and then divide and become more than one, they come into being and their life does not last. But insofar as they never stop shifting, they are forevermore, unmoving in the circle.
+**B27.** There you cannot tell apart the swift limbs of the sun, nor the shaggy earth in its might, nor the sea — so fast was the god bound in Harmony's tight covering: round, spherical, rejoicing in his circling solitude.
+
+**B27a.** There is no quarrelling and no unseemly strife in his limbs.
+
+**B28.** He was equal on every side and without end — round, spherical, rejoicing in his circling solitude.
+
+**B29.** No two branches spring from his back; he has no feet, no swift knees, no organs of birth. He was spherical, equal on every side.
+
+**B30–31** *(printed as one passage by Burnet).* But when Strife grew great in the god's limbs and rose up to claim his rights, in the fullness of the alternate time fixed for them by the mighty oath... for all the god's limbs quaked in turn.
+
+**B32.** The joint binds two things together.
+
+**B33.** As when fig-juice curdles and binds white milk....
+
+**B34.** Binding meal with water....
+
+**B35–36** *(printed as one passage by Burnet).* But now I will travel back over the paths of song I have already walked, drawing a new saying out of my saying. When Strife had sunk to the lowest depth of the whirl, and Love had reached the centre of the vortex, then all things come together in it so as to be one alone — not all at once, but willingly coming together, each from a different quarter. As they mingled, countless tribes of mortal creatures were scattered abroad. Yet many things stayed unmixed, side by side with the things being mixed — all those that Strife, not yet fallen, still held on to, for it had not yet wholly withdrawn from them to the outermost rim of the circle. Some of it still stayed within, and some had passed out from the limbs of the All. But as it kept rushing outward, a soft, undying stream of blameless Love kept running inward — and straightway the things that had been undying became mortal, the things that had been unmixed were mixed, each changing its path. As they mingled, countless tribes of mortal creatures were scattered abroad, endowed with every kind of shape, a wonder to see.
+
+* * *
+
+**B37.** Earth adds to its own bulk, and Air swells the mass of Air.
+
+**B38.** Come, I will tell you first of the sun's beginning, and the sources from which have sprung all the things we now see: the earth and the billowy sea, the damp mist, and the Titan air that binds its circle fast round all things.
+
+**B39.** If the depths of the earth and the vast air were without end — a foolish saying vainly dropped from the lips of many mortals, though they have seen but little of the All....
+
+**B40.** The sharp-darting sun and the gentle moon.
+
+**B41.** But the sunlight is gathered together and circles round the mighty heavens.
+
+**B42.** She cuts off his rays as he passes above her, and casts a shadow on as much of the earth as the pale-faced moon is wide. *(An eclipse.)*
+
+**B43.** So the sunbeam, striking the broad mighty circle of the moon, returns at once, running back to reach the sky.
+
+**B44.** It flashes back to Olympus with untroubled face.
+
+**B45–46** *(printed as one passage by Burnet).* A round borrowed light circles round the earth, as the nave of a wheel circles round the farthest turning-post.
+
+**B47.** For she gazes back at the sacred circle of the lordly sun.
+
+**B48.** It is the earth that makes night, by coming in front of the lights.
+
+**B49.** ...of lonely, blind-eyed night.
+
+**B50.** Iris brings wind or mighty rain from the sea.
+
+**B51.** Fire, swiftly rushing upward....
+
+**B52.** Many fires burn beneath the earth.
+
+**B53.** For as it ran, it met them at that time, though often otherwise.
+
+**B54.** The air sank down on the earth with its long roots.
+
+**B55.** The sea is the sweat of the earth.
+
+**B56.** Salt was hardened by the striking of the sun's beams.
+
+**B57.** On the earth, many heads sprang up without necks, and arms wandered bare, bereft of shoulders. Eyes strayed up and down, wanting foreheads.
+
+**B58.** Lonely limbs wandered, seeking to join.
+
+**B59.** But as divinity mingled still further with divinity, these things joined together however they chanced to meet, and many other things besides kept arising.
+
+**B60.** Lumbering creatures with countless hands.
+
+**B61.** Many creatures were born with faces and breasts looking different ways: some, offspring of oxen with the faces of men; others, offspring of men with the heads of oxen; creatures in which the nature of woman and man was mingled, furnished with unfruitful parts.
+
+**B62.** Come now, hear how Fire, when separated off, caused the night-born shoots of men and tearful women to arise. My tale is to the point and well-informed. First, whole-natured shapes arose from the earth, having a share of both water and fire. Fire, longing to reach its like, sent these up — showing as yet neither the lovely shape of women's limbs, nor the voice and parts that belong to men.
+
+**B63.** ...But the stuff of the child's limbs is divided between the parents — part in the man's body, part in the woman's.
+
+**B64.** Desire came upon him, reminding him through sight.
+
+**B65.** ...It was poured out in the pure parts, and when it met with cold, women arose from it.
+
+**B66.** The divided meadows of Aphrodite.
+
+**B67.** In its warmer part the womb brings forth males — that is why men are dark, and manlier, and shaggy.
+
+**B68.** On the tenth day of the eighth month, the white putrefaction arises. *(Burnet's note: the Greek word means "pus"; Aristotle reports that Empedocles regarded milk as putrefied blood, and there may be a punning allusion to "beestings," the first milk.)*
+
+**B69.** Double bearing. *(Burnet's note: said of women, with reference to births in the seventh and ninth months.)*
+
+**B70.** Sheepskin. *(Burnet's note: the membrane round the unborn child.)*
+
+**B71.** But if your grasp of these things fell short anywhere — of how, out of Water and Earth and Air and Fire mingled together, arose the shapes and colours of all those mortal things fitted together by Aphrodite, and so now come into being....
+
+**B72.** How tall trees and the fishes in the sea....
+
+**B73.** Even as at that time Kypris, making warmth ready, after wetting Earth with water, gave it to swift fire to harden....
+
+**B74.** Leading the songless tribe of fertile fish.
+
+**B75.** All those that are dense within and rare without, having got moisture of this kind at Kypris's hands....
+
+**B76.** You may see this in the heavy-backed shellfish that live in the sea, in sea-snails and stony-skinned turtles. In them you see the earthy part lying on the outermost surface.
+
+**B77–78** *(printed as one passage by Burnet).* It is air that makes evergreen trees flourish with plenty of fruit all year round.
+**B79.** So first of all, tall olive trees bear eggs....
+
+**B80.** That is why pomegranates are late-born, and apples full of juice.
+
+**B81.** Wine is water from the bark, rotted in the wood.
+
+**B82.** Hair and leaves, the thick feathers of birds, and the scales that grow on mighty limbs are the same thing.
+
+**B83.** The hedgehog's hair is sharp-pointed and bristles on its back.
+
+**B84.** As when a man setting out through a stormy night gets ready a lantern — a flame of blazing fire — and fits horn plates round it to keep out every kind of wind: the plates scatter the blast of the winds, but the light leaps out through them and shines across the threshold with unfailing beams, as much of it as is finer. In the same way Love then trapped the primal fire — the round pupil — shut within membranes and delicate tissues, pierced through and through with wondrous passages. They keep out the deep water surrounding the pupil, but let through the fire, as much of it as is finer.
+
+**B85.** The gentle flame of the eye has only a scanty share of earth.
+
+**B86.** Out of these, divine Aphrodite fashioned untiring eyes.
+
+**B87.** Aphrodite fitting these together with rivets of love.
+
+**B88.** One vision comes from both eyes together.
+
+**B89.** Know that streamings-off flow from all things that have come into being.
+
+**B90.** Sweet lays hold of sweet, bitter rushes to bitter; acid comes to acid, and warm couples with warm.
+
+**B91.** Water fits better into wine, but will not mix with oil.
+
+**B92.** Brass mixed with tin.
+
+**B93.** The blue elder's berry is mingled with scarlet.
+
+**B94.** The black colour at a river's bottom comes from the shadow. The same is seen in hollow caves.
+
+**B95.** Since the eyes first grew together in Kypris's hands.
+
+**B96.** Kindly earth took into its broad funnels two parts of gleaming Nestis (water) out of the eight, and four of Hephaistos (fire). So arose white bones, divinely fitted together by the cement of proportion.
+
+**B97.** The spine was broken.
+
+**B98.** Earth, anchoring in Aphrodite's perfect harbours, meets with these in nearly equal measure — with Hephaistos and Water and gleaming Air: either a little more of earth, or less of the others and more of it. From these arose blood and the manifold shapes of flesh.
+
+**B99.** The bell... the fleshy sprout of the ear.
+
+**B100.** This is how all things draw breath in and breathe it out. All have bloodless tubes of flesh stretched over the surface of their bodies, and at the mouths of these the outermost skin is pierced all over with closely packed pores — enough to keep the blood in, while a free passage is cut for air to pass through. When the thin blood ebbs back from these, the bubbling air rushes in with a surging flood; when the blood runs back, the air is breathed out again. It is like a girl playing with a water-clock of shining brass: she puts the pipe's mouth on her pretty hand and dips the clock in the yielding mass of silvery water — the stream does not flow into the vessel then, because the mass of air inside, pressing on the close-packed holes, keeps it out until she uncovers the pinched stream; then air escapes and an equal bulk of water runs in. In the same way, when water fills the depths of the bronze vessel and the opening and passage are stopped by a human hand, the air outside, striving to get in, holds the water back at the gates of the ill-sounding neck, pressing on its surface, until she lets go with her hand. Then — just the opposite of before — the wind rushes in and an equal bulk of water runs out to make room. Even so, when the thin blood surging through the limbs rushes back inward, straightway the stream of air comes in with a rushing swell; but when the blood returns, the air breathes out again in equal measure.
+
+**B101.** The dog with its nostrils tracking the scraps of the beast's limbs, and the scent their feet leave in the soft grass.
+
+**B102.** All things have their share of breath and smell.
+
+**B103–104** *(printed as one passage by Burnet).* So all things have thought, by fortune's will.... And insofar as the rarest things came together as they fell....
+
+**B105.** The heart, dwelling in the sea of blood that runs in opposite directions — that is where men's thought chiefly is, for the blood round the heart is the thought of men.
+
+**B106.** Men's wisdom grows according to what is set before them.
+
+**B107.** Out of these all things are formed and fitted together, and by these men think and feel pleasure and pain.
+
+**B108.** Just as far as they grow different, different thoughts keep coming into their minds — in dreams.
+
+**B109.** With earth we see Earth, with water Water; by air we see bright Air, by fire destroying Fire. By love we see Love, and Hate by grievous hate.
+
+**B110.** If, standing on your steadfast mind, you will look on these things with good intent and faultless care, you will have all these things in plenty throughout your life, and gain many others besides. For these things grow of themselves into your heart, where each man's true nature lies. But if you strain after other things, as men do, ten thousand woes will wait to blunt your careful thoughts. Soon these things will desert you when the time comes round, for they long to return to their own kind. Know that all things have wisdom and a share of thought.
+
+**B111.** You will learn all the drugs that defend against ills and old age — for you alone I will accomplish all this. You will check the rush of the tireless winds that rise and sweep the earth; and when you wish, you will bring back their blasts with a rush. You will make for men a timely drought after the dark rains, and turn the summer drought into tree-feeding streams pouring from the sky. You will bring back from Hades the life of a dead man.
+
+**B112.** Friends, who live in the great town looking down on Akragas's yellow rock, up by the citadel, busy in goodly works — havens of honour for the stranger, men unskilled in meanness — all hail! I go about among you an undying god, no mortal now, honoured by all as is fitting, crowned with fillets and flowery garlands. Straightway, whenever I enter the flourishing towns with these in my train, men and women, reverence is done me. They follow me in countless throngs, asking the way to gain: some wanting oracles, while others, pierced for many a weary day by the grievous pangs of every kind of sickness, beg to hear from me the word of healing.
+
+**B113.** But why harp on these things, as if it were any great matter to surpass mortal, dying men?
+
+**B114.** Friends, I know the truth is in the words I will speak — but it is hard for men, and they resent belief's assault on their souls.
+**B115.** There is an oracle of Necessity, an ancient ordinance of the gods, eternal, sealed fast by broad oaths: whenever one of the spirits, whose portion is length of days, has sinfully stained his hands with blood, or followed strife and forsworn himself, he must wander thirty thousand years far from the blessed ones, being born through all that time in every kind of mortal shape, trading one toilsome path of life for another. For the mighty Air drives him into the Sea, and the Sea spews him out on the dry Earth; Earth tosses him into the beams of the blazing Sun, and the Sun flings him back to the eddies of Air. One takes him from another, and all reject him. One of these I am now — an exile and wanderer from the gods, because I put my trust in senseless strife.
+
+**B116.** Grace loathes unbearable Necessity.
+
+**B117.** I have been before now a boy and a girl, a bush and a bird, and a dumb fish in the sea.
+
+**B118.** I wept and wailed when I saw the unfamiliar land.
+
+**B119.** From what honour, from what a height of bliss, have I fallen to wander among mortals here on earth!
+
+**B120.** We have come under this roofed-in cave. *(Burnet's note, from Porphyry: these words were spoken by the powers that conduct the soul down into the world; the "cave" image is Orphic, not originally Plato's.)*
+
+**B121.** ...the joyless land, where Death and Wrath live, and troops of Dooms besides; where parching Plagues and Rottings and Floods roam in darkness over the meadow of Ruin.
+
+**B122–123** *(printed as one passage by Burnet).* There were Earth-goddess and far-seeing Sun-maid, bloody Discord and gentle-faced Harmony, Fair-and-Foul, Speed and Delay, lovely Truth and dark-haired Uncertainty, Birth and Decay, Sleep and Waking, Movement and Standstill, crowned Majesty and Meanness, Silence and Voice.
+
+**B124.** Alas, O wretched race of mortals, twice unblessed! Such are the strifes and groanings you were born from!
+
+**B125.** From living creatures he made them dead, changing their shapes.
+
+**B126.** The goddess clothing them with a strange garment of flesh.
+
+**B127.** Among beasts they become lions that den on the hills and couch on the ground; among trees, laurels with goodly leaves.
+
+**B128.** They had no Ares for a god, nor Battle-Din — no King Zeus, nor Kronos, nor Poseidon — but Kypris the Queen.... They worshipped her with holy gifts: with painted figures and perfumes of cunning fragrance, with offerings of pure myrrh and sweet-smelling frankincense, casting libations of brown honey on the ground. The altar did not reek with the blood of bulls; men held it the greatest abomination to tear out the life and eat the goodly limbs.
+
+**B129.** Among them was a man of rare knowledge, most skilled in every kind of wise work — a man who had won the utmost wealth of wisdom. Whenever he strained with all his mind, he easily saw everything there is, in ten, yes twenty lifetimes of men. *(Timaios already referred these lines to Pythagoras; others referred them to Parmenides — the poem itself gives no name.)*
+
+**B130.** All things were tame and gentle toward man — beasts and birds alike — and friendly feelings were kindled everywhere.
+
+**B131.** If ever, for the things of a day, undying Muse, you cared for my striving, stand by me once more as I pray to you, Kalliopeia, while I speak a pure discourse about the blessed gods.
+
+**B132.** Blessed is the man who has won the riches of divine wisdom; wretched is he who holds a dim opinion of the gods in his heart.
+
+**B133.** We cannot set God before our eyes, nor lay hold of him with our hands — the broadest road of persuasion into a man's heart.
+
+**B134.** He has no human head on his body; no two branches sprout from his shoulders; he has no feet, no swift knees, no hairy parts. He is only a sacred, unspeakable mind, flashing through the whole world with swift thoughts.
+
+**B135.** This is not lawful for some and unlawful for others. The law for all runs everywhere — through the wide-ruling air and heaven's boundless light.
+
+**B136.** Will you never stop this ill-sounding slaughter? Do you not see you are devouring one another in the thoughtlessness of your hearts?
+
+**B137.** The father lifts up his own son, in changed shape, and slays him with a prayer. Blind fool! They crowd to the sacrifice begging mercy, while he, deaf to their cries, slaughters them in his halls and readies the evil feast. Likewise the son seizes his father, children seize their mother, tear out their life and eat their kindred flesh.
+
+**B138.** Draining their life with bronze.
+
+**B139.** Ah, woe is me that the pitiless day did not kill me before I ever worked evil deeds of devouring with my lips!
+
+**B140.** Keep wholly away from laurel leaves.
+
+**B141.** Wretches, utter wretches — keep your hands off beans!
+
+**B142.** The roofed palace of aegis-bearing Zeus will never welcome him, nor the house of....
+
+**B143.** Wash your hands, drawing water from the five springs in unyielding bronze.
+
+**B144.** Fast from wickedness!
+
+**B145.** So you are distraught with grievous wickednesses, and will not unburden your souls of wretched sorrows.
+
+**B146–147** *(printed as one passage by Burnet).* But at the last they appear among mortal men as prophets, song-writers, physicians, and princes. From there they rise as gods exalted in honour, sharing the hearth and table of the other gods — free from human woes, safe from fate, beyond harm.
+
+**B148.** ...Earth, that wraps the man round.
+
+---
+## 4. Anaxagoras of Clazomenae
+
+Burnet prints the fragments in Diels's arrangement. Numbers are Diels = DK 59B.
+
+**B1.** All things were together, infinite in number and in smallness — for the small too was infinite. When all things were together, none could be told apart for smallness. Air and aether overpowered all things, both of them infinite — for among all things these are the greatest in amount and size.
+
+**B2.** Air and aether are separated off from the mass surrounding the world, and the surrounding mass is infinite in amount.
+
+**B3.** There is no smallest among the small — there is always a smaller. What *is* cannot cease to be by being cut. But there is always something greater than the great, and it matches the small in amount. Compared with itself, each thing is both great and small.
+
+**B4.** Since things are so, we must suppose that in the things coming together there are many things of all sorts contained: seeds of all things, with all sorts of shapes and colours and savours. Men have been formed in them, and the other living animals; these men have built cities and tilled fields, as we do; they have a sun and moon and the rest, as we do; their earth brings forth for them many things of all kinds, and they gather the best into their houses and use them. I have said this much about the separating-off, to show that things are separated off not only where we are, but elsewhere too.
+
+But before they were separated off, when all things were together, not even colour could be told apart — the mixing of all things prevented it: moist and dry, warm and cold, light and dark, much earth in it, and a multitude of countless seeds, none like another. None of these things is like any other. Things being so, we must hold that all things are in the whole.
+
+**B5.** These things being settled, we must know that all of them are neither more nor less — for they cannot be more than all, and all are always equal.
+
+**B6.** Since the portions of the great and the small are equal in amount, all things will be in everything for this reason too. They cannot stand apart — all things have a portion of everything. Since there can be no smallest thing, they cannot be separated, nor come to be by themselves. They must be now, as in the beginning, all together. In all things many things are contained, and an equal number in the greater and the smaller of the things separated off.
+
+**B7.** ...So we cannot know the number of the things separated off, either in speech or in deed.
+
+**B8.** The things in one world are not split or cut off from one another with a hatchet — not the warm from the cold, nor the cold from the warm.
+
+**B9.** ...as these things whirl round and are separated out by force and swiftness. The swiftness makes the force. Their swiftness is not like the swiftness of anything now among men — it is in every way many times swifter.
+
+**B10.** How can hair come from what is not hair, or flesh from what is not flesh?
+
+**B11.** In everything there is a portion of everything — except Mind. And there are some things in which there is Mind too.
+
+**B12.** All other things have a share of everything, but Mind is boundless and self-ruled, mixed with nothing — alone, itself by itself. If it were not by itself but mixed with anything else, it would share in all things if mixed with any — for in everything there is a portion of everything, as I said before — and what was mixed with it would hold it back, so it would rule nothing the way it does now, alone by itself. It is the thinnest of all things and the purest. It knows all about everything and has the greatest strength. Mind rules all things, greater and smaller, that have life. Mind ruled the whole whirling, so it began to whirl in the beginning. It began whirling first from a small start; now the whirling covers a wider space, and will cover a wider one still. All the things mingled together, separated off, and marked out are all known by Mind. Mind set in order all things that were to be, all that were and are not now, and all that are — and this whirling in which the stars, the sun and moon, the air and the aether that are separated off now whirl round. This whirling caused the separating-off: the rare was separated from the dense, the warm from the cold, the bright from the dark, the dry from the moist. Many portions are in many things. But nothing is wholly separated off or marked out from anything else — except Mind. All Mind is alike, greater and smaller alike. Nothing else is like anything else; each single thing is, and was, most plainly those things of which it has most in it.
+
+**B13.** When Mind began to move things, separating-off took place from everything that was moved, and as far as Mind set in motion, all was separated. As things were moved and separated, the whirling made them separate much more.
+
+**B14.** Mind, which ever is, is surely present wherever everything else is — in the surrounding mass, in what has joined with it, and in what has been separated off from it.
+
+**B15.** The dense, the moist, the cold, and the dark gathered where the earth now is; the rare, the warm, the dry, and the bright went out toward the farthest part of the aether.
+
+**B16.** From these, as they are separated off, earth is hardened: from mists, water is separated off, and from water, earth. From earth, stones are hardened by the cold, and these rush outward more than water.
+
+**B17.** The Greeks misuse words when they speak of coming into being and passing away. Nothing comes into being or passes away — there is only mingling and separation of things that are. They would be right to call coming into being "mixture," and passing away "separation."
+
+**B18.** It is the sun that puts brightness into the moon.
+
+**B19.** We call the rainbow the sun's reflection in the clouds. It is a sign of storm — for the water flowing round the cloud makes wind, or pours down as rain.
+
+**B20.** When the Dogstar rises, men begin the harvest; when it sets, they begin ploughing. It is hidden for forty days and nights.
+
+**B21.** Our senses are too weak to judge the truth.
+
+**B21a.** What appears is a glimpse of the unseen.
+
+**B21b.** We can make use of the lower animals, because we use our own experience, memory, wisdom, and craft.
+
+**B22.** What is called "birds' milk" is the white of the egg.
+
+### Anaxagoras's cosmology, as summed up by Hippolytus
+
+Burnet quotes this passage from Hippolytus (*Refutation* i. 8) to show the cosmology, numbering its sentences (3)–(12) himself — these are his sentence numbers, not Diels fragments:
+
+- **(3)** The earth is flat, and stays suspended because of its size and because there is no empty space. So the air underneath is very strong and holds up the earth riding on it.
+- **(4)** The sea arose from the moisture on the earth's surface — from the waters inside the earth (when these evaporated, what was left turned salt) — and from the rivers that flow into it.
+- **(5)** Rivers come both from the rains and from the waters inside the earth, for the earth is hollow and holds waters in its hollows. The Nile rises in summer from the water coming down from the snows in Ethiopia.
+- **(6)** The sun, the moon, and all the stars are fiery stones carried round by the wheeling of the aether. Below the stars are the sun and moon, and also certain bodies that wheel with them but are invisible to us.
+- **(7)** We do not feel the stars' heat because of their great distance from the earth; also they are not as hot as the sun, since they occupy a colder region. The moon is below the sun and nearer to us.
+- **(8)** The sun is bigger than the Peloponnese. The moon has no light of her own but gets it from the sun. The stars' course passes under the earth.
+- **(9)** The moon is eclipsed when the earth screens the sun's light from it, and sometimes when the bodies below the moon come in front of it. The sun is eclipsed at new moon, when the moon screens it from us. Sun and moon turn in their courses because the air pushes them back. The moon turns often, because it cannot master the cold.
+- **(10)** Anaxagoras was the first to work out about eclipses and the lighting of the sun and moon. He said the moon is earthy, with plains and ravines in it. The Milky Way is the reflection of the light of stars not lit by the sun. Shooting stars are sparks leaping out from the motion of the sky's vault.
+- **(11)** Winds arise when the sun thins the air, and when burnt things make their way up to the vault of heaven and are carried off. Thunder and lightning come from heat striking clouds.
+- **(12)** Earthquakes happen when the air above strikes the air beneath the earth — the movement of the lower air makes the earth, floating on it, rock.
+
+---
+## 5. The Pythagoreans
+
+**A note, not fragments.** Burnet's third edition prints no genuine fragments of Pythagoras or the early Pythagoreans. The sayings that go under the name of Philolaus he treats as doubtful — "the doctrine of 'Philolaus'" is cited only in footnotes, and he warns that the famous passages have "a suspicious resemblance" to later ideas. The Pythagorean wisdom in Burnet comes through Aristotle's reports (things are numbers; the heavens are harmony and number), not through quoted fragments. So this section is honestly left empty: there is nothing here Burnet vouches for as their own words.
+
+---
+
+## 6. Zeno of Elea and Melissus of Samos
+
+Burnet: "I give them according to the arrangement of Diels." Zeno's numbers are Diels = DK 29B; Melissus's are Diels = DK 30B.
+
+### Zeno of Elea
+
+**B1.** You cannot get to the end of a race-course. You cannot cross an endless number of points in a finite time. You must cross half of any distance before you cross the whole, and half of that half before you can cross it. This goes on forever — so there are endlessly many points in any stretch of space, and you cannot touch endless points one by one in a finite time.
+
+**B2.** Achilles will never catch the tortoise. He must first reach the spot the tortoise started from. By then the tortoise will have gone a little way ahead. Achilles must then make up that bit, and again the tortoise will be ahead. He keeps getting nearer but never catches up.
+
+**B3.** The arrow in flight stands still. If everything is at rest when it fills a space equal to itself, and what is flying always, at any given moment, fills a space equal to itself — then it cannot move.
+
+**B4.** Half the time can equal double the time. Suppose three rows of bodies: one row (A) stands still, while the other two (B, C) move at equal speed in opposite directions.
+
+Row A: four bodies standing still.
+Row B: four bodies moving right.
+Row C: four bodies moving left.
+
+By the time all are lined up together, B will have passed twice as many bodies in C as in A. So the time it takes to pass C is twice as long as the time to pass A. But B and C take the same time to reach A's position. Therefore double the time equals the half.
+
+### Melissus of Samos
+
+**B1a** *(Burnet's (1a): the sentence Melissus opened his treatise with, per Burnet §166 — Simplicius's paraphrase, note 900.)* If nothing exists, what can be said of it as if it were something real?
+
+**B1.** What was, ever was, and ever shall be. If it had come into being, it must have been nothing before it came into being. But if it were nothing, nothing could ever have arisen out of nothing.
+
+**B2.** Since it has not come into being — since it is, ever was, and ever shall be — it has no beginning or end; it is without limit. If it had come into being, it would have a beginning (it would have started coming into being at some time) and an end (it would have stopped coming into being at some time). But if it never began nor ended, and ever was and ever shall be, it has no beginning or end. Nothing can be forever without being wholly so.
+
+**B3.** As it ever is, so it must ever be boundless in size.
+
+**B4.** Nothing that has a beginning or end is either eternal or boundless.
+
+**B5.** If it were not one, it would be bounded by something else.
+
+**B6.** If it is boundless, it must be one. If it were two, it could not be boundless — the two would bound each other.
+
+**B6a** *(Burnet brackets this as Simplicius's own filling-in, not Melissus's words.)* And since it is one, it is alike all through. If it were unlike, it would be many, not one.
+
+**B7.** So it is eternal, boundless, one, and all alike. It cannot perish or grow greater, nor does it feel pain or grief. If any of these happened to it, it would no longer be one. If it changed, the real would have to stop being all alike: what was before would pass away, and what was not would come into being. If it changed by a single hair in ten thousand years, it would all perish in the whole of time.
+
+Its order cannot change either. The order it had before does not perish, and no order that was not comes into being. Since nothing is added to it, nothing passes away, and nothing changes — how could any real thing have its order changed? If anything became different, that would change its order.
+
+It feels no pain. A thing in pain could not be wholly itself — a thing in pain could not be forever, nor have the same power as what is whole. It would not be alike, if it were in pain: only by adding or taking away something could it feel pain, and then it would no longer be alike. What is whole cannot feel pain — for then what was whole and real would pass away, and what was not would come into being. The same argument holds for grief as for pain.
+
+Nothing is empty. What is empty is nothing, and what is nothing cannot be.
+
+It does not move: it has nowhere to go, but is full. If there were anything empty, it would move into the empty. Since there is nothing empty, it has nowhere to go.
+
+It cannot be dense and rare. What is rare cannot be as full as what is dense — what is rare is at once emptier than what is dense.
+
+Here is how to tell full from not-full: if a thing has room for something else and takes it in, it is not full; if it has no room and takes nothing in, it is full.
+
+So it must be full, since there is nothing empty; and if it is full, it does not move.
+
+**B8.** This argument is the greatest proof that it is one alone — but here are further proofs. If there were many things, they would have to be of the same kind as I say the one is. Take earth and water, air and iron, gold and fire; take living and dead, black and white, and all the things men say really are. If that is so — if we see and hear aright — each of these must be what we first decided, unable to change or alter; each must be just as it is. But as it is, we say we see and hear and understand aright, and yet we believe the warm becomes cold and the cold warm, the hard soft and the soft hard, the living dies and things are born from the lifeless. We think all these things change, and that what they were and what they are now are nowise alike. We think iron, though hard, is worn away by a finger's touch — and so with gold and stone and everything we fancy strong — and that earth and stone are made from water. It turns out we neither see nor know realities. These beliefs do not agree with one another. We said there were many eternal things, each with its own form and strength — yet we fancy they all suffer change, altering from what we see each time. Clearly we did not see aright after all, and we are wrong to believe all these things are many. They would not change if they were real; each thing would be just what we believed it to be — for nothing is stronger than true reality. But if it has changed, what was has passed away and what was not has come into being. So if there were many things, they would all have to be of the same nature as the one.
+
+**B9.** If it were to exist, it must be one. But if it is one, it cannot have body — if it had body, it would have parts, and would no longer be one.
+
+**B10.** If what is real is divided, it moves; but if it moves, it cannot *be*.
+
+---
+## 7. Leucippus of Miletus and Democritus of Abdera
+
+Burnet treats the two together and rebuilds their system from Aristotle and Theophrastus. He prints only one verbatim fragment of Leucippus, and almost nothing verbatim of Democritus — the famous ethical sayings are not translated in this edition. What follows is everything Burnet actually quotes word-for-word, with the gaps honestly marked.
+
+### Leucippus
+
+**B2 (DK 67B2).** "Nothing happens for nothing — everything happens for a reason and by necessity." *(Burnet's words: "The only fragment of Leukippos which has survived is an express denial of chance. 'Naught happens for nothing,' he said, 'but everything from a ground and of necessity.'" Quoted from Aetius, who cites Leucippus's* On Mind*.)*
+
+### Democritus
+
+Burnet quotes a single sentence of Democritus verbatim, in his Introduction, on Greek geometry (DK 68B299):
+
+**B299.** "I have listened to many learned men, but no one has yet beaten me at building figures out of lines with proof — not even the Egyptian rope-stretchers, as they call them." *(Burnet's note: the Greek word means "cord-fastener"; the boast concerns the 3-4-5 triangle and the right angle.)*
+
+*Note.* Burnet does not translate Democritus's ethical fragments in this edition, so they are not rendered here. Any future worker adding them must work from a proper critical text, not from this draft.
+
+---
+
+## 8. Hippon, Diogenes of Apollonia, Archelaus
+
+### Hippon of Samos (or Croton)
+
+One fragment, recovered from the Geneva scholia on Homer; Burnet prints it without a Diels number:
+
+- **[Unnumbered]** "All the water we drink comes from the sea. If wells were deeper than the sea, we would not drink from the sea — the water would come from somewhere else, not the sea. But as it is, the sea is deeper than the well-waters, so all the waters above the sea come from it." *(Directed against the old belief in "waters under the earth" as a separate source.)*
+
+### Diogenes of Apollonia
+
+Burnet: "I give them as they are arranged by Diels." Numbers are Burnet's = Diels 64B, with one honest shift noted below.
+
+**B1.** When beginning any discourse, it seems to me one should start from something no one disputes, and speak plainly and with dignity.
+
+**B2.** My view, to sum it all up, is that all things are different forms of the same thing — are the same thing. This is obvious. Take the things now in this world — earth, water, air, fire, and the other things we see existing in this world: if any one of them were different from any other — different by having a stuff of its own — and if it were not the same thing, changed and differentiated over and over, then things could not mix with one another at all, nor help or harm one another. No plant could grow out of the earth, no animal nor anything else could come into being, unless things were put together so as to be the same. But all these things arise from the same thing; they are differentiated, take different shapes at different times, and return again to the same thing.
+
+**B3.** It could not be divided up as it is — keeping the measures of all things, of winter and summer, day and night, rains and winds and fair weather — without intelligence. Anyone who cares to think will find everything else arranged in the best possible way.
+
+**B4.** Here are further great proofs. Men and all other animals live on air by breathing it. Air is their soul and their intelligence, as will be shown plainly in this work. When it is taken away, they die and their intelligence fails.
+
+**B5.** My view is that what has intelligence is what men call air, and that all things are steered by it — it has power over all things. This very thing I hold to be a god: it reaches everywhere, arranges everything, is in everything, and nothing fails to share in it. Yet no single thing shares in it just like another — there are many forms of air and of intelligence. It goes through many changes: warmer and colder, drier and moister, steadier and swifter in motion, with many other differences in it, and countless colours and savours. The soul of all living things is the same — air, warmer than the air outside us and around us, but much colder than the air near the sun. This warmth is not the same in any two kinds of living creatures — nor, for that matter, in any two men — but it does not differ much, only so far as they can still be alike. And none of the differentiated things can be exactly like another until they all become the same again.
+
+**B6** (Burnet's numbering; = DK 64B7). *(Numbering note: Burnet omits Diels's fr. 6 — the long passage about the veins — as belonging to the history of medicine, not philosophy. What Burnet numbers (6), (7), (8) are therefore Diels/Kranz B7 and B8, the latter printed by Burnet as two items.)* Since differentiation takes many forms, living creatures take many forms and are many; they are like one another neither in looks nor in intelligence, because of the multitude of differentiations. Yet they all live, see, and hear by the same thing, and all get their intelligence from the same source.
+
+**B7.** *(= DK 64B8, first half, as Burnet divides it.)* This itself is an everlasting and undying body; but of those other things, some come into being and some pass away.
+
+**B8.** *(= DK 64B8, second half, as Burnet divides it.)* This too seems obvious to me: that it is great and mighty, everlasting and undying, and knows a great deal.
+
+### Archelaus of Athens
+
+No fragments in Burnet — only Hippolytus's second-hand summary of his cosmology (Anaxagorean mixture plus warm/cold as the two moving causes; Nous planted in all animals). With no words of his own quoted, there is nothing to render; this note stands so no one goes looking for a section that is not there.
+
+---
+
+## G1 self-audit (done by the drafting worker, 2026-10-11)
+
+Checked against the Gutenberg text of Burnet (ebook #67097), section by section:
+
+- [x] **Banner + AI disclosure + method note** present at the top of the file. No primacy language anywhere ("first/oldest/definitive/complete" claims: none).
+- [x] **Xenophanes:** 26 fragments re-checked against lines 5320–5485 of the source. Numbers 1, 2, 3, 10, 11, 12, 14, 15, 16, 18, 23–38 all present, in order, none invented. Wording follows Burnet's sense throughout.
+- [x] **Empedocles:** 141 entries re-checked against the extracted source blocks (133 singly-numbered incl. B27a + 8 combined printings). Every fragment's text verified against Burnet's wording; combined printings (B11–12, B27a, B30–31, B35–36, B45–46, B77–78, B103–104, B122–123, B146–147) labelled as Burnet's joint printings. Diels 149 and 150 honestly marked as not quoted by Burnet. Spot-checks: B1 ("Pausanias, son of Anchitos"), B6 (four roots with divine names + Burnet's identification note), B100 (water-clock passage), B111 (drugs/winds), B115 (thirty-thousand-year wandering), B134 (mind flashing through the world) — all match the source.
+- [x] **Anaxagoras:** B1–B22 plus B21a/B21b re-checked against lines 12618–12757. Hippolytus sentences (3)–(12) verified at lines 13215–13260 and explicitly flagged as Burnet's sentence numbers, not Diels fragments.
+- [x] **Zeno:** B1–B4 verified against lines 15381–15697. **Melissus:** B1a (Burnet's (1a), opening sentence per §166) + B1–B10 + bracketed B6a verified against lines 15697–16037.
+- [x] **Leucippus B2** verified at line ~16633 ("Naught happens for nothing..."). **Democritus B299** verified at line 1027 in the Introduction; the absence of the ethical fragments in Burnet is stated outright.
+- [x] **Thales (1)–(3)** labelled conjectural, per Burnet's own warning ("speaking strictly, we do not know anything about the teaching of Thales at all"). **Anaximander B1** and **Anaximenes B2** given as reported sayings with sources named. **Hippon** fragment verified at line 17188, marked unnumbered. **Diogenes B1–B8** verified against lines 17306–17415, with the B6-omission/B7–B8 shift noted honestly. **Archelaus** and **Pythagoreans** marked as no-fragments-in-Burnet rather than silently skipped.
+- [x] **No thee/thou/thy** anywhere in the renderings (checked). Plain-English pass complete.
+- [x] Nothing published, emailed, uploaded, or pushed. Local file only.
+
+**Flags for the parent:**
+1. Burnet's Empedocles follows Diels's joint arrangement of the two poems; a future G2/G3 checker with Greek should confirm the DK B-number mapping (it is standard, but I worked from English only).
+2. The Diogenes numbering shift (Burnet drops Diels B6) is the one place a careless reader could mis-cite; the note is in the file, but a G2 checker should keep it.
+3. Democritus is thin here by Burnet's own design — the ethical fragments will need a different public-domain base (e.g. a PD translation of Stobaeus/DK) if Robert ever wants them; not attempted here.
+4. Heraclitus and Parmenides were excluded per instructions (companion worker's lane).
+
+**Status: AUDITED (G1). Stopped here — did not cross the G4 read-through gate.**
