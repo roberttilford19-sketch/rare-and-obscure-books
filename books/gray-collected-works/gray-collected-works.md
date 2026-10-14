@@ -1,0 +1,1138 @@
+DRAFT — LOCAL ONLY. NOT PUBLISHED, NOT SHELVED, NOT SENT.
+This draft was prepared with AI assistance under the editorial direction of Robert Tilford (Rare & Obscure Books — the Boneyard). Do not quote as final.
+
+The Collected Works of Stephen Gray
+
+*His Philosophical Papers and Scientific Hypotheses in Electricity, Astronomy, Optics, and the Natural World, 1696–1736*
+
+[Title settled by the editor, Robert Tilford, 2026-10-13.]
+
+This series issues each rescued work under its author's own name. Robert Tilford is the editor of this volume.
+
+# DEDICATION
+
+To STEPHEN GRAY of Canterbury (baptised 26 December 1666 — died London, 15 February 1735/6), dyer by trade and, in his last years, a pensioner of the Charterhouse. He won the Royal Society's Copley Medal in 1731 and 1732, and was elected a Fellow of the Society on 25 January 1732/3. He published no book. He showed that the electrical virtue could be conveyed far beyond the body that had been rubbed. This gathering of his printed writings is dedicated under his own name.
+
+# EDITOR'S INTRODUCTION
+
+Stephen Gray was a Canterbury dyer — a tradesman with no university post — who came to science late and poor, and was helped only late and partially. By the time the Royal Society printed his first paper in 1696 he was nearly thirty, writing about microscopes — one of them a drop of water — and about specula, barometers, mock suns, fossils, and the spots on the Sun. He was still writing about those things, as a sideline, nearly forty years later.
+
+The breadth is not a miscellaneous list. Read together, the papers justify the word *polymath*: Gray works across at least four fields of inquiry, and electricity makes a fifth. In optics and microscopy, he fashions globules and water microscopes, makes water serve for near and distant objects, and experiments toward concave specula of nearly parabolic figure. In astronomy, he draws a meridian line and finds the hour by the Pole Star; observes parhelia and a halo; follows the spots of the Sun; and records an eclipse. For the barometer, he joins microscope to micrometer so that minute variations in the mercury may be measured. At Reculver Cliffe, his subject becomes the fossils of the place. These are not bare records of sights. Gray conjectures, reasons, and frames hypotheses, then contrives an instrument or trial by which an idea may be examined. That recurrence is his interdisciplinary breadth: close looking, exact measurement, and inference pass from lens to sky, from weather glass to cliff, and at length to electricity.
+
+What made him immortal was done in his sixties, as a pensioner of the Charterhouse in London. In 1729 Gray communicated a discovery he had lately made: the "electrical virtue" of a rubbed glass tube could be conveyed to other bodies, and to bodies many feet away. At Granville Wheler's house at Otterden Place that summer, Gray and Wheler carried the effect horizontally. Gray explained an earlier attempt that had failed; Wheler proposed supporting the line of communication on silk. The virtue travelled along packthread and was communicated to cork and ivory bodies. The silk supports kept it from leaking away; when brass wire was used as a support instead, the virtue passed into the timber and went no farther. Gray's account expressly credits Wheler's proposal and "apt Method," the pains Wheler took, and the help of his servants. The printed letters that followed carry the inquiry through water, through hundreds of feet of line, and to a boy made attractive while suspended — first by hair-lines, and in later experiments on silk lines. They reach, in the letter of 6 February 1735/6, small bodies made to circle larger ones "as the Planets do round the Sun". The experiments he could no longer perform he dictated to the Society's secretary, Cromwell Mortimer, on 14 February 1735/6, the day before he died. That dictation closes this book, as it closed his work.
+
+He never published a book. The twenty items gathered here are those located in the *Philosophical Transactions* between 1696 and 1736. The searches described in the Note on the Text found no collected edition of his printed writings — **none found after research**. A commented Portuguese translation of his electricity articles appeared in 2012 (Boss, Assis & Caluzi); it is named in full in the apparatus. This edition prints the twenty items in full, in English, from the original journal printings, with the editorial apparatus kept out of the text.
+
+One modern interpretation should be labelled for what it is. David H. Clark and Stephen P. H. Clark argue, in *Newton's Tyranny: The Suppressed Scientific Discoveries of Stephen Gray and John Flamsteed* (W. H. Freeman, 2000; paperback 2001), that Isaac Newton and his circle suppressed recognition and preferment due to Gray and Flamsteed, including, in their account, Gray's delayed admission to the Charterhouse. That thesis is **contested** — contemporary reviewers already noted professional historians' wariness of adversarial histories of this kind — and this edition records it only as a contested tradition, never as fact. Its chronology also needs care: Newton died in 1727, before the conduction work of 1729, so the claim concerns Gray's earlier recognition and preferment, not that later discovery.
+
+What is not contested is the record in his own words, and it follows.
+
+# A NOTE ON THE TEXT
+
+The texts are transcribed from the Royal Society's journal printings as preserved in the Internet Archive scans of *Philosophical Transactions* vols. 19–23, 31, 37–39, and 41. Where a machine-readable copy differs from the printed page, the printed page governs.
+
+The corpus consists of the twenty items by Gray located in those journal volumes. The search for any wider printed corpus covered the Royal Society catalogue and archive, WorldCat and VIAF, Open Library, the English Short Title Catalogue, Google Books, the Internet Archive, and HathiTrust. It found no standalone Gray imprint and no printed item outside the *Philosophical Transactions*. The Royal Society's archive records likewise place his manuscripts behind these journal printings.
+
+The two parts are arranged by subject, not in strict chronological order. Part I gathers the early and observational papers and therefore closes with the eclipse letter of 1733; Part II gathers the electrical papers, beginning in 1720. Their date ranges overlap.
+
+The treatment is conservative:
+
+- The long s (ſ) is resolved to s throughout; ligatures are expanded; words hyphen-split across lines or pages are rejoined; running heads, printed page numbers, catchwords, and signature marks are dropped.
+- Spelling, capitalisation, and punctuation are Gray's (and each item's compositors') as printed — including their inconsistencies, which are features of the record, not errors to be harmonised. Printed misprints are kept and, where they might mislead, noted in the apparatus.
+- No wording is modernised. The only interventions are the typographical ones listed above, every class of them declared here; none is silent, and none touches sense.
+- Italics are reproduced where the print's italics were verified against the page images; no complete italic pass has been made.
+- Each item is headed by its journal citation (volume, number, pages, and DOI). Old-style dates are printed as they stand (e.g. 1735/6); the apparatus explains the convention and, at Textual Note x, the authorities for Gray's death date.
+- A reading the transcribers could not settle is marked [?] in the text and registered in the apparatus. There is exactly one in the corpus.
+- Headnotes of one line before each item are editorial helps, written for this edition; they are labelled as such by their placement and are not part of Gray's text.
+
+# CONTENTS
+
+Front matter — Dedication; Editor's Introduction; A Note on the Text
+
+Part I — The Early Papers, 1696–1733: Items 1–11
+
+Part II — The Electrical Papers, 1720–1736: Items 12–20
+
+Appendix — Granville Wheler and Cromwell Mortimer, 1740: the collaborator's testimony
+
+Apparatus — Source notes; Textual notes; Prior partial gatherings; Register of uncertainties
+
+* * *
+
+# PART I — THE EARLY PAPERS, 1696–1733
+
+## ITEM 1 — III. Several Microscopical Observations and Experiments, made by Mr. Stephen Gray
+
+Philosophical Transactions 19, no. 221 (1696), pp. 280–287. DOI: 10.1098/rstl.1695.0040
+
+*Editorial headnote — His first paper: microscopical observations and experiments — see the attribution note in the apparatus (Textual Note i).*
+
+Having not long since attempted to make some of these Microscopes, which Mr. _Butterfield_ describes and instructs to make, in the Philosophical Transactions, Nº 141. _P._ 1026. of the manner then lately brought out of _Holland_ by Mr. _Hugens_; but for want of such a Lamp, as the before-named Person mentions, I proceeded after a somewhat different Method.
+
+_Experiment_ 1. I took a small Particle of Glass, about the bigness I designed my Globule, and laying it on the end of a Charcoal, I could, by the help of a blast Pipe, with the Flame of a Candle, soon melt it into a Spherule, and by this means I could make them indifferently cleer, and the smallest very round, and I could make them much larger, then by the unassisted heat of the Candle; but these latter were attended with an inconvenience, they were on that side that rested on the Coal flated, and received a rough Impression from it; nor were they without those Improperties (for which, or rather) to Remedy which, the ingenious Person above-said, substituted his spirituous Lamp, for a Wax or Tallow-Candle, _viz._ small Specks or Opacous Particles lodged within them: To remedy the inconvenience of the former, I was wont to Grind them and Polish them on a brass Plane, and so reduce them to Hemispherules, but I found the clear small Globules, not to mention that they magnifie more, shew Objects more distinctly.
+
+Those Congruous Properties, known to be in small Drops of Water, _viz._ Transparency, Refrection and Spherility, led me to Conjecture, that they might, if aptly Disposed, be not unfit for Microscopes, since they have the Requisits above-mentioned, that make the Glass Globules excellent ones, and accordingly, Experience informs me, that tho' the latter are to be preferred, yet the Water, upon a necessity, may be very well used, as a _Succedaneum_ to Glass Microscopes, which I have sometimes made Tryal of in manner following.
+
+_Experiment_ 2. I take a thin piece of Brass, Filing it into the Form Fig. 7. _A. B._ (but this every one may please themselves in) making a small hole at _A._ this serves for an Aperture; then holding it by the other end _B._ I pour a few Drops of Water on the Table, taking up a small Globule thereof with a Pin, which I lay on the hole _A._ then removing the Pin, the Water will remain on the Aperture, in form of an Hemispher, or to speak with _Opticians_, a _Plano Convex_ lens. But if I have a mind to make a double Convex of Water, I thrust the Pin (which must be less then the hole) through the hole, till the Water be entred therein; then with drawing the Pin Perpendicularly to the plane of the Aperture, the Water remains there in form of an _Aqueous_ double Convex _lens_. Then that which I have a mind to see I take upon a Pin or a piece of Glass, according to the Nature of the Object; and taking up this natural Microscope by the end _B._ I move the Object to and fro, till it be in the _focus_ thereof, and by this means I can see Objects little less distinctly, then by Glass Microscopes, especially by Candle, which I find much better then Day-light.
+
+_Experiment_ 3. But I observed, that those Irregular Particles, which were inherent in the Globules of Glass, mentioned in the first Experiment, were seen distinctly and prodigiously magnified, as was easie to imagine, both from their nearness to the Eye, and that they did not hinder the Globules either by Day or Candle-light, from appearing throughout Transparent, being so minute as not to be discernable, except held close to the Eye, as in time of Observation, and not then neither, if too near the light, but at a Competent distance, they appeared as above-said. I knew not well how at that time to account for this strange Phenomenon, that an Object should be placed so far within the Focus of a Spherule, as to be within the Glass, and yet seen distinctly to the Eye so near it; but since by matter of fact, I found it was so, I made this Inference, and concluded, that if I conveyed a small Globule of Water to my Eye, and that there were any opacous or less transparent Particles then the Water therein, I might see them distinctly.
+
+_Experiment_ 4. Having by me a small Bottle of Water, which I knew to have in it some of those Minute Insects, which the deservedly famous Observator Mr. _Leewenhoek_ Discovered, by the help of Excellent Microscopes: Having seen them with the common Glass Microscopes, and with the first _Aqueous_, as above-mentioned, I poured a few Drops of this Water on the Table, and taking a small Portion thereof on a Pin, I laid it on the end of a small piece of Brass Wire (there lay then by me) of about one tenth of an Inch Diameter; I continued to lay on two or three Portions of Water, till there was formed somewhat more then an Hemispherule of Water; then keeping the Wire Erect, I applied it to my Eye, and standing at a proper distance from the light, I saw them and some other Irregular Particles, as I had predicted, but most Enormously Magnified; for whereas they are scarce discernable by the Glass Microscopes, or the first _Aqueous_, one within the Globule, they appeared not much different both in their form, nor less in Magnitude then ordinary Peas. They cannot well be seen by Day-light, except the Room be Darkned, after the manner of the famous Dioptrical Experiment, but most distinctly by Candle-light; they may be very well seen by the full Moon Light.
+
+The Pin sometimes takes up the Water round enough to shew its Objects distinct.
+
+The Insects I have as yet this way observed, are of two sorts, Globular and Eliptical; I shall first describe the former.
+
+They are of a Globular Form, they are but a little less Transparent then the Water they swim in; they have sometimes two Dark spots Diametrically opposite, but these are rarely seen; there are sometimes two of these Globular Insects sticking together; where they are joyned 'tis opacous, possibly they may be in the act of Generation; they have a twofold motion, a swift Progressive Irregular one; and at the same time a Rotation on their Axes at Right Angles to the Diameter that has the dark Spots, but this is seen only when they move slowly. They are almost of an incredible Minuteness. Mr. _Leewenhoek_ is moderate enough in his Computation, when he tells us (Philosophical _Transactions_, _Nº 213. Page 198._) he saw Insects in Water, so small, that 30000 could not more then equal a Course Sand; but I believe it will seem a Paradox to him, when one that tells him so, shall at the same time say, that he can see them only by applying the bare Eye, to a Portion of Water wherein they are contained.
+
+I have Examined many Transparent Fluids, as Water, Wine, Brandy, Vinegar, Beer, Spittle, Urine, &c. and doe not remember to have found any of these without more or less of the Bodies of these Insects; but I have not seen any in motion except in common Water, that has stood for sometimes a longer, at others a shorter time, as has been observed by Mr. _Leewenhoek_; tho' I do not remember he has observed that they are existent in she Water, before they revive. In the River, after the Water has been thickned by Rain, there are such infinite numbers of them, that the Water seems in great part to owe its Opacity and Whiteness to these Globules. Rain Water, so soon as it falls has many, and Snow Water has more of these Globules: The Dew that stands on Glass-Windows has them; and forasmuch as Rains and Dews are continually Ascending or Descending, I believe we may say the Air is full of them, they seem to be of the same specifick Gravity with the Water they Swim in, the Dead remaining in all parts of the Water; of many thousands that I have seen, I could discern no sensible difference in their Diameters, they appearing of equal bigness in Water that has been boyled; they retain their shapes, and will sometimes revive.
+
+There is another sort of Insects I have this way seen, but these are not so frequently (at least this Winter Season) to be found, they are much longer then the former; they can Transform themselves into many shapes; they are for the most part Eliptical, but sometimes they contract themselves so as to be almost Globular; and sometimes they extend themselves so, as to be twice or three times longer then broad, these sometimes turn themselves round on their _axes_ and Diameters as they go, they consist of Transparent and Opacous Parts.
+
+The first of these natural Microscopes performs its effects by the same Laws, _viz._ by the Refraction of the Rays of Light, as do the Glass ones, and differs from them in nothing but its material Water: But when I began to attempt to satisfie my self how Objects are distinctly seen in a Spherule of Water; I found it at first somewhat difficult to explain, for whereas (_Molineux_, _S. R. S._ _Dioptrica Nova_ Prop. XXXII.) Objects being placed in the Focus of a Convex Glass (and consequently of Water) are seen distinctly to the Eye, on the other side the Glass, and so the Reason of the former is obvious enough; but 'tis as certain (_Dioptrica Nova_, Prop. XLI. Confered with Prop. XXVIII.) that if an Object be placed so much nigher to the Eye then the focus of a Spher, as to be within its Surface, the Rays of Light must come too much Diverging to shew the Objects they come from distinctly.
+
+But at length, that other known Property, if I may so call it, of light falling on different Mediums coming into my thought, _viz._ Reflection, I found there might be a very easie and natural Reason given of its Performance, which I shall now endeavour to demonstrate, upon supposition that the inferior Surface of the Spher is Reflective.
+
+Let the Circle in Figure 8. represent a Spher of Water, _A_ an Object placed in its Focus, sending forth a Cone of Rays, two of which are _A B_ _A B_ which Opticians know coming into the Water at _B_ and _B_, will be Refracted from their direct Course and become _B D_ at _D_, they will, at their passing into the Air, be again Refracted into _D E_ _D E_, and so run Parallel to one another, and to the axis of the Sphear _A E C G_ now 'tis a known and fundamental Principle in Opticks, that the Angle of Refraction is equal to the Angle of Incidence; wherefore let the Rays _B D_ _B D_ be imagined to come from some point of an Object placed within a Spher of Water, by being Reflected from the interior Surface of the Spher at _B B_ _C B D_ is the Angle of Reflection, to which making _C B E_ equal, so will _F_ be the place where an Object sending forth a Cone of Rays, two of which are _F B_ _F B_, which are Reflected into the Rays _B D_ _B D_, and then coming to the other side, the Sphear at _D_ and _D_, they are Refracted into _D E_ _D E_ as before, and consequently be as fit for distinct Vision, whether the Object be placed in _F_ within or in _A_ without the Spher, if its interior Surface be considered as a Concave Reflecting _Speculum_.
+
+That the interior Surface of Glass, and consequently of Water is Reflecting, common Experience shews; but whether any Body have before taken Notice, that the Air is Specular is to me unknown: But I have, a very few Days since, as I was endeavouring to improve this natural Catadioptrick Microscope stumbled upon an Aereal Concave _Speculum_ which I shall now describe.
+
+A Darkned Room being somewhat troublesome to make, I thought it proper to try, if this Inconvenience might not be remedied; so I took a stiff piece of brown Paper, pricking a small hole therein, then applied the Drop of Water to my Eye, and holding the Paper with the hole at a little distance before me, I could see the Globules therein little less distinctly then in a Darkned Rome: But before I had removed the Water, there appeared to me a very strange and surprising Appearance; I saw the Needles point together, with the Water inverted, I could scarce at first believe my Eyes; to be farther satisfied, I removed the Water and found, that whether I held the Needle Perpendicular Horizontal, or inclined to all these postures it was inverted, I then made many holes, and in every one I saw the inverted Picture of the Needle; the nearer the Needles was to the Holes, 'twas so much the more Magnified, but less distinct, if the Needles point were so held, as that its Image were near the edge of the Hole, its point seemed Crooked: So that it seems these small Holes, or somewhat in them, performs the _Effects_ of a Concave Speculum, and so I take leave to call them aereal Speculums; but how the Rays of Light can be Reflected, before they come to a _Medium_ of a different Densitie, or how, or by what means the Air remains in small Holes, in a Concave Spherical Form, I must leave to the Consideration of the Learned to Determine.
+
+## ITEM 2 — IV. A Letter from Mr. Stephen Gray, giving a further Account of his Water Microscope
+
+Philosophical Transactions 19, no. 223 (1696), pp. 353–356. DOI: 10.1098/rstl.1695.0058
+
+*Editorial headnote — A further account of his water microscope.*
+
+_SIR_,
+
+My Experiments and Observations Microscopical, having been thought worthy to be incerted in your Philosophical Transactions, I presume the Additions and Improvement I have now made to the Water Microscope may be no less acceptable, I therefore herein send you its Description and Use according to my last Contrivance whereby it not only renders Objects more distinct, but is much more Commodious for Observation.
+
+It consists of Five parts or pieces of Brass, whose Form and Combination is according to my rude Draught, Expressed by the annexed: Figure _Fig_. 2. _A. B._ I call the Frame of the Microscope, it may be about half one eighth part of an Inch in thickness; at _A._ there is a small hole, near one thirtieth of an Inch Diameter, this serve for the Aperture of the Water, being in the Center of a larger Spherical Cavity, about one eighth of an Inch Diameter, and in depth, somewhat more than half the thickness of the Brass; opposite to this, at the other side, there is an other Concave but half the breadth of the former; which is so deep, as to reduce the Circumference of the small Hole in the Center, to almost a sharp edge; in these Cavities the Water is to be placed, being taken upon a Pin or large Needle, and conveyed into them, till there be formed a double Convex Lens of Water; which, by the Concaves being of different Diameters, will be equivolent to a double Convex, of unequal Convexeties; by this means I find the Object is rendred more distinct than by a Plano Convex of Water, or by a double one, formed on the plain Surface of the Metal; beside the Water is now better secured in its Spherical Form.
+
+_C. D. E._ is the supporter, whereon to place the Object; if it be Water in the Hole _G._ if a solid Object on the Point _F._ this is fixed to the Frame of the Microscope, by the Screw _E._ where 'tis bent upwards, that its upper part may stand at a distance from the Frame; 'tis moveable on the Skrew, as a Center to the end, that either the Hole _C._ or the Point _F._ may be exposed before the Microscope; and that the Object may be brought to, and fixed in its Focus: There is another Skrew, about half an Inch in length, which goes through the round Plate into the Frame of the Microscope _A. E._ the Skrew and Plate taking hold of the Supporter about _D._ where there is a slit somewhat larger then the Diameter of the Skrew, which is requisite for the admission of the Hole _C._ or Point _F._ according to the nature of the Object, into the Focus of the Glass; for by turning the Skrew _G._ the Supporter is carried to or from the same, which may be sooner done, if whilst one turn the Skrew with ones Hand, the other hold the Microscope by the end _B._ and one continue looking through the Water till the Object be seen most distinctly.
+
+The Supporter must be made of a thin piece of Brass well Hammered, that by its Spring it may the better follow the motion of the Skrew. I chose rather to fix the Supporter by the Skrew _E._ then by a Rivet, because it may now, by help of a Knife be unskrewed, and by the other Skrew _G._ be brought close to the Frame of the Microscope without weakning its Spring, and so become more conveniently portable.
+
+At _B._ there is a hole, about one tenth of an Inch Diameter, which serves to Convey the Water in, when one has a mind to see the Minute Objects or Animals contained therein, by having their Images reflected, from the opposite interior Surface of the Drop, after the manner of the fourth Experiment, the frame of the Microscope being held by the other end _A._ in time of Observation; for I find, that if the Plate be of some thickness, the Objects are seen more distinctly, then by only taking the Water on a Pin Wire, or the like: Besides, the Water is now better secured, and one may with more ease give it to others to observe, without so much danger of spoiling the Spherical Form, whereon I need not tell you, Sir, the distinctness of its Objects depend.
+
+The Spherical Form of the Cavities adds but little, if any thing, to the Form of the Water as a Microscope, they are chiefly for the better Conservation of it, so that they must be more then filled to the end, the Water may Spontaneously receive its adapted Figure.
+
+If the Hole in the Supporter be filled with Water, but not so as to be Spherical; all Objects that will bear it, are seen therein more distinctly.
+
+The best proportion for the Hole at _B._ is, to be somewhat less then half the thickness of the Metal in its Diameter, and to be so filled with Water, till there remain near an Hemispher of Water on each side the Hole; and it will not be amiss to have this end somewhat thicker then the other.
+
+Thus, Sir, you have the natural Microscope in all its parts described, which, though I do not pretend to be altogether so commodious for Observation, as those of Glass, yet, whether in case they are wanting, those of Water may be not ineffectually succedaneous (or whether Water have been before taken Notice of to be its own Microscope) I shall leave to decided by competent and impartial Judges, such as I esteem your self.
+
+## ITEM 3 — VI. A Letter from Mr. Stephen Gray, from Canterbury, May the 12th 1697, Concerning making Water subservient to the viewing both near and distant Objects, with the Description of a Natural reflecting Microscope
+
+Philosophical Transactions 19, no. 228 (1697), pp. 539–542. DOI: 10.1098/rstl.1695.0092
+
+*Editorial headnote — Making water serve for viewing near and distant objects, with the description of a natural reflecting microscope.*
+
+I send you here a short Account of what has been the success of my attempts, to make small Portions of Water subservient to the viewing both near and distant Objects, together with the Discription of a Natural Reflecting Microscope.
+
+Drops of Fair Water being let fall on a piece of Plain Glass, form themselves into _Plano Convexes_, having a Convexity proportionable to the heights, from which they descend, from a greater height, a less, from a less, a greater degree of Convexity. I applied some of these as Reading Glasses for single Words of small Letters, as on the Globes and Maps, and found no other Inconveniency, then that the Fluidity of the Water obliges one to keep the Glass Horizontal, which I after devised a way to Remedy.
+
+I took a sufficient quantity of Izing-Glass and dissolved it in Water over the Fire, and whilst 'twas warm I dipt a stick into the Solution, and let some Drops of it fall on the Glass as before, and in a Quarter of an Hour they acquire a Consistency, that permits them to be held in any Position, and tho' they are not altogether so transparent, yet this is little or no impediment to their use. The drops of this Solution are more exactly defined then those of Common Water, having their edges exactly Circular, and one may make them of a much longer Focus then those. I applied some of these lentes to a hole in a darkned Room, and found they rendred the Images of Objects with but an indifferent distinctness.
+
+A thin flat Ring of Brass, not exceeding 4 Tenths of an Inch Diameter in its interior Circle being cemented to a plain Piece of Glass, and filled with Water or the Solution now mentioned, then by pressing the Finger into it, till what is superfluous be taken off; there will be formed a plano Concave which may serve as an Eye Glass to a Prospective, or to any other optical use Concave Glasses are applicable.
+
+I have tried what would be the success of Combining Portions of Water by the help of Brass Rings, and plain pieces of Glass, to give them their true Figure and requisite apertures, and inserted them at the ends of Tubes of sevearl lengths; and find, that tho' these natural lentes may serve as Eye Glasses, yet when used as Object ones either to Teliscopes or double Miscroscopes: their Effects will not compensate the trouble there is in using them.
+
+I shall now proceed to give you the Descrption of my Natural Reflecting Microlcope.
+
+_A_ _Fig_ 3. Represents a small flat Ring of Brass, whose rior[?] Circle must not much exceed 4 Tenths of an Inch Diameter, and about one thirtieth of an Inch thick; this we may call the Frame or Cell of the Glass, it must be prepared for use after the following manner. Take a small Globule of Quicksilver and dissolve it in a few drops of _Aquafortis_, to which you may add ten parts of common Water, dip the end of a stick in this Liquor and rub the inward Circle of the Ring with it, so it will have acquired a Mercurial _Tincture_, and being wiped dry, be fit for use. Then let it be laid on the Table, and pour a drop of Quicksilver within it, which press gently with the ball of the Finger, and it will adhear to the Ring, then cleanse it with a Hares foot, and you will have a _Convex_ _Speculum_. Take up the Ring and Speculum carrying it Horizontal, and lay it on the brims of the hollow Cilinder _B._ so will the Mercury become a Concave Reflecting _Speculum_, which from the smallness of the Sphære of which it seems to be a Section, may be used as a Microscope. The Cilindrick Vessel _B._ has a Screw hole at bottom, by which it is screwed to the top of the Pedestal _C D_, _C E F G_, is the Supporter of the Object Plate, which as you see may be raised higher, or let lower as there is occasion by the screw on the Pedestal: The Object Plate must be of Glass cemented to the Ring _G._
+
+This Instrument with a little variation may be made a Reflecting Microscope of Water, if instead of the Ring _G_ there be only a small Arm with a hole in it to receive a drop of Water, and the Cylindrick Vessel _B_ be either taken away or screwed on with its bottom upwards, so as to make an Object Plate, and this will be found more convenient for viewing the Textures of Opacous Object, then that described in Nº 223 of the Transactions, which is more fit for Fluid and Transparent ones.
+
+I have begun some Experiments towards a way of making a large Concave _Speculum_ for Burning Glasses, and have proceeded so far, as to find Materials that will naturally receive their true Figure, though of many Feet in Diameter, but have not yet overcome the difficulties of giving them a good Polish.
+
+## ITEM 4 — VI. A Letter from Mr. Stephen Gray, dated Canterbury, Dec. 8. 1697. relating some Experiments about making Concave Specula nearly of a Parabolick Figure
+
+Philosophical Transactions 19, no. 235 (1697), pp. 787–790. DOI: 10.1098/rstl.1695.0146
+
+*Editorial headnote — Experiments about making concave specula nearly of a parabolick figure.*
+
+I Had before this time communicated the Experiments I mentioned in the end of my Letter of the 12th of _May_ last, had I not expected an Opportunity to have made some farther Progress than I have yet done, I shall not spend time to tell you how I have been obstructed in having my Thoughts diverted by other Affairs, yet I think it convenient to let the Society know how far I have proceeded toward the way to make the Concave Specula nearly of a Parabolick Figure, which they will naturally receive, or at least with a very little Assistance of Art, having the Ambition to think, that if any ingenious Person shall think fit to prosecute the Inquiry, these Experiments may prove not altogether useless hints, and so ought not to be forgotten.
+
+A Linnen Cloth being first wet in fair Water, and then laid on a Concave Cylinder, as the Verge of a Seive, Keeler, or the like, its central Parts will descend so as to form a very regular Concave Superficies, which I suspected to be Parabolical, well known to be the best of Figures, could it be obtained for Burning Glasses; in which I was not greatly deceived.
+
+A Thread being first wet in common Water, and then suspended with its Two Ends, or any Two Points nearer than their utmost extent; so as it might touch the Center of the suspended Cloth and its Two opposite Points on the the Ring was found to have the same Curvature, as indeed could scarce be doubted, since the Cloth is but a number of Threads suspended in the Posture of this single one. My Business then was to examine the Figure of a Line suspended with its Two Ends nearer than their utmost Extent, which I did in manner following:
+
+On the Side of a Wall I described Parabolas of several Species, whose Axes were Perpendicular and Perimeter Horizontal, to which the Line being applied so as it might touch the Vertex, past very nearly through all the intermediate Points of the Parabola, much nearer than the Portion of a Circle which past through the Extremity of the Perimeter, and _Latus Rectum_ would do.
+
+But to make what I have said more intelligible, see Figure 2. where A B is the Perimiter C D the Axis C the Focus and D the Vertex 1, 2, 3, 4, 5, the several Points in the Parabola A F D B G, the form of the suspended Line, A H D I B, a portion of a Circle, which though it pass through the Points A D B, is more remote from the other Points of the Parabola than the suspended Line.
+
+From hence I conclude, that a ponderous and pliable Substance being suspended on a Ring or hollow Cylinder, so as that its Central Parts my descend, will form it self into a Figure that is more commodius for Burning-Glasses than the Sphærical, of which they are now made, being much nearer their most absolute Figure the Parabola.
+
+Now if there may be a way found to give to Cloth or Leather a Metalline Surface, or a Varnish that may bear a good Pollish; or if this be found impracticable, perhaps Plates of Metal may be beat out so thin, as being suspended on a large Ring, will by their own Gravity receive their true Figure, one may make Speculums of what Largeness he pleaseth, and there will be another Property in them, which makes it very desirable, that one and the same Speculum will be mutable into all Degrees of Concavity, and so have its focal Length increased or diminished, according to the Purpose 'tis designed for.
+
+Not long after I had made these Observations, I devised the following Experiment.
+
+There was taken a sufficient Quantity of Potters-Clay, of which there was formed a plain Circular Plate, by help of an Iron Ring about 13 Inches Diameter. This was laid on a lesser Ring, which was supported by Four Feet, and it immediately became of a very regular Concave on its upper, and Convex on its under Superficies: but notwithstanding 'twas set to drie in the Shade, yet before it was dry enough, its Central Parts extended so as to become almost plain, not without some Defects; if it had continued in its Regularity, I designed to have burned and glazed it in a Potters Furnace. But I have since had a Concave Plate of Clay, which I formed by hand and glazed, but found the Glass to flow more inequally than I expected, though the Potter tells me 'twas caused by the Foulness of the Earth I used.
+
+## ITEM 5 — III. Part of a Letter from Mr. Stephen Gray, about a Way of Measuring the Heighth of the Mercury in the Barometer more exactly
+
+Philosophical Transactions 20, no. 240 (1698), pp. 176–178. DOI: 10.1098/rstl.1698.0027
+
+*Editorial headnote — A way of measuring the height of the mercury in the barometer more exactly.*
+
+SINCE I saw Mr. _Derham's_ Contrivance for measuring the Minute Variations of the Mercury in the Barometer, I have had some Thoughts on that Subject: I esteemed the Way he mentions (_Numb._ 237. of your _Philosophical Transactions_) with a toothed Ruler and Circle on the Weather-Plate, very ingenious; yet I conceived 'twould be more accurate, if there were added somewhat to assist the Eye in setting the Index to the Surface of the Mercury. This put me upon thinking how to adapt a Microscope to the Barometer, and tho' I could not, presently, propose to my self the most convenient way to effect it; yet upon re-assuming these Thoughts, I overcame the Difficulty, as you will find by the Description I herein give of a double Microscope, furnished with a Micrometer; by which the Mercury's Variations may be observed to the Thousandth Part of an Inch.
+
+A (_Fig._ 6.) A long square Table towards one End is erected a square Column, BB. Upon which there slides a square Socket. C, From one Side whereof proceeds a crooked Arm, D E. At D there is a Screw-Hole to receive the Screw, and at E a Ring to support the Tube of the Microscope, F. From the other Side the Socket, comes a Short Arm G, having a Screw Hole to receive the long Screw I I, whose length may be about Six or Seven Inches: its lower End, by a small Hole in its Center, rests on the End of a small Screw, that comes through the Screw-Hole, in the Arm H; which is fixed on the back Side of the Column; the upper End of the Screw is filed less than the Body of the Screw, and goes through the Center of the Round Plate without shaking; and to prevent its doing so, either upwards or downwards, there is added a springing Plate N, which keeps the Shoulder of the Screw close to the under side of the Plate K; over this Plate there goes an Index O, and over that an Handle L, upon the End of the Screw which comes through the Center of the Plate, which I should before have told you, is riveted to the Top of the Column B B. The Teeth of the Screw must be of that Size, as to have just Ten in an Inch. The fore side of the Column must be divided into Inches and Tenths, beginning about the Height of the Socket H, where the lower end of the Screw rests, and so continue to the Top of the Column. The Limb of the Round Plate must be divided into an Hundred Parts. In the Focus of the Eye-Glass of the Microscope is fixed an Hair, or very fine Silver Wire, in a Horizantal Position.
+
+I come now to shew the Use of the Instrument combined with the Barometer, in which I shall be very brief, its Use being easily apprehended by the Description.
+
+Take hold of the Handle, and, looking through the Microscope, turn the Screw, till you have brought the Hair to touch, as it were, the Surface of the Mercury M; then observe what Divisions are cut on the Column, by the upper or under Edge of the Socket, which are Tenths of an Inch. See likewise to what Parts the Index points on the Limb of the Round Plate, which are Hundreds of a Tenth, or Thousand Parts of an Inch; when you perceive the Mercury varied, raise or depress the Microscope, till the Hair be brought to its Surface, as before; then by substracting the lesser from the greater of the Two observed Numbers, you will have the Variation in Inches and Thousand Parts.
+
+This Instrument becomes a Micrometer on the same Principles, tho' I was obliged to alter its Structure from that used with the Telescope, which was first invented by Mr. _Gascoign_, improved by Mr. _Townly_, and described by Dr. _Hook_, as appears by _Numb._ 25. and 29. of Mr. _Oldenburg's_ _Philosophical Transactions_; to which Description, it I did not acknowledge my self beholden, were to do great Injustice to the Authors of that excellent Invention.
+
+The Thermometer is capable of the like Improvement, but then the Screw of the Micrometer must be much longer, and the Microscope will require a longer Tube, to the End the Body of the Observer be not too near the Thermometer, and by its warm Effluvia deceive his Judgment in the Air's Temperature.
+
+_Canterbury, May 2. 1698._
+
+## ITEM 6 — IV. An Observation of some Parelii seen at Canterbury. By Mr. Stephen Gray.
+
+Philosophical Transactions 21, no. 251 (1699), pp. 126–127. DOI: 10.1098/rstl.1699.0026
+
+*Editorial headnote — Parhelia — mock suns — seen at Canterbury.*
+
+February the 26th, 1698/9. being _Sunday_, about half an Hour after Three in the Afternoon, chancing to look out of a Window that faced South-East, I saw not far from the South to the Westward, an Appearance of somewhat not much unlike the Sun, when seen through Clouds, _viz._ with its _Periphery_ not exactly defined, from which it likewise differed, in that one half of it was coloured deep Red and Yellow, the other White. I went immediately into the Garden, taking a _Theodolite_ with me, in order to take its distance from the Sun, which the room would not permit; but was then presented with an Appearance exactly like the former, but on the opposite side of the Sun; I took the distance of this from the Sun, which was 23 degrees to the Westward; but before I could take the distance of the Eastern one, it Vanished, but soon after Re-appear'd, and then I perceived manifestly, that they were both situate in the extremities of a Semi-circle whose Center was the Sun, passing betwixt it and the Zenith. This Appearance continued about half an Hour.
+
+_Des Cartes_ in his Book of Meteor, calls such Phenomena _Parhelia_, or Mock Suns, and gives us the History of Five seen at _Rome_, in the year 1629. _March_ the 20th, and Demonstrates, that there may sometimes, according to the Laws of Refraction and Reflection, appear Six at one time, _viz._ Five mock Suns, and the true one.
+
+I chanced to be at home alone, and saw no Body to whom I could impart what I saw, till after the Mock-Suns vanished, nor do I hear of any, but my self, that saw them; yet may you be certain, that I have not deceived my self or you.
+
+## ITEM 7 — IV. Part of a Letter from Mr Gray, concerning an unusual Parhelion and Halo.
+
+Philosophical Transactions 22, no. 262 (1700), p. 535. DOI: 10.1098/rstl.1700.0021
+
+*Editorial headnote — An unusual parhelion and halo.*
+
+_Canterbury, May 4th, 1699._
+
+SIR,
+
+I Had scarce thought the account I sent you of the _Parhelia_ I observ'd the 26th of _February_ last, worth your notice, had I not been prompted to think so by the instigation of my friends, for I find they are frequently seen, tho this is the first I ever saw. But what I am now going to relate, is that which so rarely happens, that I cannot think it unworthy your cognizance.
+
+_April_ the 7th, 1699. between 4 and 5 of the clock, I first perceived, and afterwards shewed to several others the following Phænomena.
+
+There appeared on each side the Sun a _Parhelion_, connected by an _Halo_ of the usual diameter; they had each of them a tail of a whitish colour, extended opposite to the Sun, of about 15 or 20 degrees in length; the upper part of the _Halo_ was touched by the arch of a Circle, whose ends were turned towards the Zenith; it had the colours of the Iris but faintly, betwixt this and the Zenith was another portion of a Circle, which had the colours of the Iris with greater vivacity than the former; the appearance may not be altogether unfitly represented by figure 2. where A is to be supposed the Sun, B C the _Parthelia_ with their trains, D the coloured arch touching the Halo B D C, E the more vivid arch that past betwixt D and the Zenith Z.
+
+## ITEM 8 — VIII. Part of a Letter from Mr Stephen Gray to the Publisher, containing his observations on the Fossils of Reculver Cliffe, and a new way of drawing the Meridian Line, with a Note on this letter by the Publisher.
+
+Philosophical Transactions 22, no. 268 (1700), pp. 762–764. DOI: 10.1098/rstl.1700.0068
+
+*Editorial headnote — Observations on the fossils of Reculver Cliff, and a new way of drawing the meridian line; the publisher's printed note follows the letter.*
+
+SIR, _Canterbury, Jan. 13. 1701._
+
+I Received the Transaction for the months of September and October, 1700. most gratefully. I was extremely satisfied with the account Mr _De La Prime_ gives us of his Observations on the Shells in the Quarries near _Broughton_, especially with the agreeable notions he has conceived of the Deluge of _Noah_.
+
+To the many instances the Earth gives us of the great and violent mutations she has suffer'd, be pleased to take a remarkable one of those I have observed in _Kent_.
+
+About half a mile from _Reculver_, towards _Herm_, there appears in the Cliff a _Strata_ of Shells in a greenish Sand; they seem to be firm, and some of them are entire, but when you go to take them from their beds they crumble to Powder between your fingers; but that which is most remarkable is, that in the lower part of the _Strata_, where the Shells are more thickly dispersed, there lies scatter'd up and down portions of Trunks, Roots and Branches of Trees; the Wood is become as black as Coal, and so rotten that large pieces of it are easily broken with ones fingers. I know not what depth these may lye, the _Strata's_ surface not appearing above 2 foot from the Beach, but I judge it from the superficies or top of the Cliff about 12 foot. I saw the stump of one Tree standing upright broken off about a foot from the ground. I should have given a more particular account, but cannot at present find the note I took upon the place. I shall only add, that the Shells were of the White Conchites.
+
+Give me leave to conclude the remaining part of this Paper on another subject. I have lately thought of a new contrived Instrument for Drawing a Meridian line, which, for any thing I know to the contrary, is my own; 'tis easie in its use, and sufficiently exact: I believe you will understand its structure without a Figure. Take the Gnomon of an Horizontal Dial for the Latitude of the place, and to the _Hypothenusa_ fix two Sights, whose centers may be parallel to the same; let the Eye-sight be a small hole, but the others diameter must be equal to the Tangent of the double distance of the North Star, from the Pole the distance of the Sights being made Radius, let the Stile be rivetted to the end of a straight Ruler; then when you would make use of it, lay the Ruler on an Horizontal Plane, so that the end to which the Stile is fixed may over-hang, then look through the Eye-sight, moving the Instrument till you see the North Star appears to touch the circumference of the hole in the other Sight, on the same hand with the Girdle of _Cassiopea_, or on the opposite side to that whereon the Star in the Great Bears Rump is, at that time then draw a line by the edge of the Ruler, and it will be a true Meridian line, as 'tis very easie to demonstrate.
+
+I do not hear that any of the Occultations of _Aldebaran_ by the Moon were observed last year. I expected several, but was always hindred by the weather from observing any. I hope to have better success this year, before the Moons visible way leaves that Star.
+
+_A Note on this Letter by the Publisher._
+
+It is very likely that the Black Wood mentioned in this Letter is Oak, which has lain so long as to be turn'd of that colour by the Vitriolick juices of the earth in which it has lain, as galls and a solution of Vitriol turn of that colour. I never saw any Oak that had lain any time in any kind of earth, where water came to soak into it, that was not turned of that colour: and I have seen many Trees of Black Wood of great bigness, taken up (as well as lesser pieces) and all of it was Oak. It looks at first taking up like Ebony, is very ponderous, but as it dries, it splits, grows friable, light, and comes to be good for little.
+
+## ITEM 9 — V. A Letter from Mr Stephen Gray, concerning drawing the Meridian Line by the Pole-Star, and finding the hour by the same.
+
+Philosophical Transactions 22, no. 270 (1701), pp. 815–819. DOI: 10.1098/rstl.1700.0079
+
+*Editorial headnote — Drawing the meridian line by the pole star, and finding the hour by the same.*
+
+_Canterbury, May 5. 1701._
+
+_Sir,_
+
+I Have sent some farther thoughts upon the Instrument for Drawing a Meridian line, which you had an account of in my last, and have improved it so far, as that at the first mentioning it may perhaps seem a Paradox even to Astronomers, when they shall hear that no other Star will be made use of than the Polar one to obtain the hour and minute of the day or night; but it will soon cease to be so when I have described the Instrument.
+
+Let there be taken a Telescope of about 16 foot, or longer if you please, in the Plane of its focus place a Ring of Brass at right angles to the axis of the Glass, the Diameter of the inward Circle equal to the double Tangent of the Pole-Star from the Pole, the focal length of the Object Glass being made Radius, as was said in the Description of the Meridian Instrument; let the Ring be divided into 24 hours, with their minutes number'd from the right hand towards the left, as in our common Nocturnals; the Eye Glass must be equal in its diameter to the Horary Ring: but this perhaps will be thought too chargeable, especially for such large Telescopes as I am speaking of, which has made me think of this contrivance; the Eye Glass must lye in a broad Index towards one end, this is to turn on a Center Pin, that lies in the Center of the Glass, and consequently over the Center of the Horary Ring, from which it must be equal to the distance of the focus of the Eye Glass, then let the Tube be elevated to the height of the Pole, and directed to the Pole Star, till by turning the Index through the Eye Glass, you perceive the Star to touch the Horary Ring on that side the Star in the Great Bears Rump lyes, or on the opposite to that in the Hip of _Cassiopeia_; but the contrary, had not the Glass inverted the Object, then bring one of the 12s to be in a perpendicular to the other by a Plum line, so will the Star stand at its Horary distance from the Meridian; or if the Latitude of the Place be unknown by the Right Ascention of the Sun and Star, the line of its coming to the Meridian will be easily obtained, and then the Hour of the night found, will as easily give the Stars horary distance from the Meridian; then elevate the Tube towards the Star, bringing the Meridian, or 12 and 12 into the plain of the perpendicular, turn the Glass about till you see the Pole Star stand at its Horary distance from the Meridian; so will the Instrument when fixed, shew the Horary distance throughout the whole day, or as long as it remains in this position, by the apparent motion of the Star in the Ring. The best time to fix the Instrument, will be when this, or any of the other two Stars above-mentioned, are about 6 hours from the Meridian. You may be pleased, Sir, to take notice, that the Latitude of the place is now given with the utmost Preciseness, for the axis of the Glass lies now in the axis of the World, and if one of the sides of the Tube be parallel thereto, as it ought to be at the upper end, hang a Line and Plumet from the point of the suspension; find another point equal in distance to the length of the Line, or a knot towards the lower end, the distance from this knot to the former point will be but the Chord of the latitude, and if from the same edge of the Index, another Line and Plumet be hung towards the lower end of the Tube, these two lines, when at rest, will be in the plain of the Meridian.
+
+This Instrument may be made to shew the hour with as much facility, as a Clock or Sun-dial, if the Horary Ring be made to move within a larger fixed one, and the outward Circle of the former be divided into the days of the month, respect being had to the Right Ascension of the Sun and Star; then by bringing the 2 opposite points in the fixed Circle to the Perpendicular, which is done at the fixing the Instrument, move the Circle till the day of the month come to any of these, and the Ring is rectified for that day, and if the air be clear, you will see the Star stand at the true time of the day or night.
+
+It may be objected, that in few years by the Annual increase of its declination, the Pole-Star will by moving in a lesser Circle be brought too far from the edge of the Ring, that the exact hour and minute cannot well be distinguish'd; but this inconveniency, when it is one, may be easily remedied several ways, either by making a lesser Ring, or by extending a fine thread of Silk cross the Ring, till it cuts the Star, and at the same time it gives the hour, or, which will yet make this Instrument commodious for other purposes, there may be made an Index to move on the Center of the Hour-wheel, which being brought to cut the Star with the edge that proceeds from the Center, it will at the same time cut the hour: and now we need not be sollicitous about the exact Diameter of the Ring, provided it do but a little exceed the distance of the Pole-Star from the Pole, the focal length of the Glass being made Radius.
+
+That most Learned Accurate, and Judicious Astronomer Mr _John Flamsteed_, Mat. Reg. and F. R. S. has lately discovered, that there is a Paralaxis of the Earths Annual orbit at the Pole-Star of about 40 or 45 Seconds, whereby the Diameter of the Stars Parallel is greater in _June_ than in _December_ by about 1 Min. 2 Seconds, which he has evinced from 7 years successive observations, whereby the Earths Motion is indubitably demonstrated, as appears from his Learned Letter to Dr _Wallis_ on that subject.
+
+Now if on the edge of this Index there be drawn a Scale of Degrees, Minutes and Seconds, to the Radius of the Glass, we shall not only have a very accurate Instrument for the hour, but be furnished with one whereby we shall see the truth of the Earths motion, confirmed by the access and recess of our Star, towards and from the Pole, according to the Earths place in the Ecliptick, as that Learned person above-mentioned has discovered; and that not only when the Star Transits the Meridian, but in clear air at any time of the day; one shall likewise observe that Annual increase of the Pole Stars declination, caused by the Precession of the Equinox.
+
+My own observations assure me, that the Pole-Star may be seen in the day time with a Telescope of 16 foot, for with one of this length I saw that Star on the 26th of _April_, this present year 1701. from 4 a Clock in the morning till 7, and cou'd have seen it longer, had not Clouds interposed; and again the 1st of _May_, I did not look for the Star till the Sun had been up more than half an hour, _viz._ at 5 in the morning, yet I soon found it, and saw it afterwards as oft as I pleased, till half an hour after 9 the same Morning, so that I doubt not this Star may be seen in a clear day, throughout the whole year.
+
+The Declination of the Pole-Star for the year 1700, is 87 42 51, as I find it by Ricciolus his Catalogue of fixed Stars in the Appendix to Sir Edward _Sherbourn_ his Sphear of _Manilius_, &c. Hence its distance from the Pole at this time may be assumed 2 17. the focal length of my object Glass is 15 foor 6 inches, so that the Diameter of the Ring will be 14 inches, and 84 hundred parts of an inch, which is the natural tangent of the former arch 2. 17. doubled, a circle large enough to be divided into Minutes and halves, which will be so magnified by the Eye Glass, that it will be easy to distinguish the time to a few seconds.
+
+I must confess there is some difficulty in fixing up this Instrument, and when it is so, to keep it from varying from its true position, yet 'tis not insuperable; but for small instruments of about 2 or 3 foot long, there cannot be, I think, a more accurate, facile, and expeditious way than this for the drawing a Meridian Line. Now whether the many benefits that may accrue to Astronomy, do not make the larger one worthy of the charge and trouble that there may be in compleating it, I shall leave, Sir, to yours and the rest of the Illustrious Society's consideration; to whose service I am most humbly devoted.
+
+_Stephen Gray._
+
+## ITEM 10 — II. Part of two Letters from Mr Stephen Gray, concerning the Spots of the Sun, observ'd by him in June last.
+
+Philosophical Transactions 23, no. 288 (1703), pp. 1502–1504. DOI: 10.1098/rstl.1702.0066
+
+*Editorial headnote — The spots of the Sun, observed in June last (1703).*
+
+SIR,
+
+Spots in the Sun being so rarely seen, I presume it may not be unacceptable to you or some others of the Royal Society to hear of one that has been observed by me this present _June_, tho it have at this time left the Suns visible Disk, yet by the sequel of this account, you will find it may probably return in a few days.
+
+_June_ the 15th, 1703. between 4 and 5 a Clock in the Afternoon I saw a Spot in the Sun, by placing a white Paper so far behind the Telescope of 6 Foot, as to give the image of the Sun 9 inches diameter; the Spot was in the lower Right hand Quadrant of the Suns Disk, its form was almost round, inclining to an Ellipsis, it was distant from the limb of the Sun about 6 or 7 minutes, and its diameter I judg'd to be about 10 or 12 Seconds, a little before the Sun set I saw the Spot with a 16 Foot Telescope, and could perceive that it was environ'd with a Mistiness; the 16th I saw the Spot again about 2 in the Afternoon, and found it advanced nearer to the Western limb of the Sun, but the 17th was Cloudy, and so was the Night, which hinder'd me from observing the Eclipse of the Moon; the 18th in the Afternoon it clear'd up, and a little before 5 I saw the Spot with the 16 Foot Glass through thin Clouds, and found it was now very near the limb of the Sun, little more than half a minute, 'twas much contracted in its breadth, so as to be 4 or 5 times longer than broad, the 19th in the Morning I look'd for it again, but could not see it; so I concluded it was then either gone off the Disk of the Sun, or if it adhered to the limb, the great Tremulation of the Atmosphere hinder'd me from seeing it.
+
+Astronomers have by these Spots found, that the Sun revolves on its Axis, so as that in 27 days the same point in the Suns Disk returns to the same place seen from the Earth, hence its Semirevolution in 13½ days, and consequently the Spot going off the Suns Disk, the 19th of _June_ may be expected to return the 2d of _July_ next to the Eastern limb of the Suns visible Hemisphere, if it be not dissolv'd before that time. I have in the following Figure endeavoured to express the appearance, but had not the conveniency of measuring the angle of the Spots way, with the Vertical, which is only guess'd at.
+
+_June_ the 26, 1703. In the Evening I look'd to see whether there were generated any new Spots in the Sun, but found none; but on the 27th about half an hour after 8 in the Morning, by receiving the Suns image on white Paper from the 6 Foot Glass, I saw a Spot near the Vertical of the Sun towards the lower limb, betwixt 9 and 10 I elevated the 16 Foot Tube, the Clouds now being of a convenient thickness to let me see the Sun without prejudice to my Eyes, and found that this Spot was of a triangular form, and that it was accompanied with 2 other lesser ones, as is exprest in Figure the 1st, the sides of the great Spot were curvilinear, this with 2 lesser ones made an Equicrural Triangle at 4 in the Afternoon the Triangular Spot had a small fragment separated from it, and it self was now become Elliptical, the Spot b. d. was much augmented, but the Spot c. diminished, and become longish, as in Figure 2, at half an hour after 5 the fragment from the great Spot was it self divided into 2, and the Spot c. was so narrow as scarce to be seen, as at Fig. 3, at 6 a Clock, and 30 minutes there was a small fragment separated from the lower end of the great Spot, as at Figure 4, at 7 a Clock the Spot b. was much encreas'd, but c. was vanish'd; the observations made this Afternoon with the 16 Foot Glass, were when the Air was clear and so to secure my Eye, the Eye Glass was smoak'd with a Wax Candle.
+
+The 28th about 7 in the Morning, I saw that the great Spot was much augmented, but the lesser ones that yesterday attended it, were vanish'd, and that there were two new ones generated at about 1½ minutes distance from the great one below, and towards the left hand of it the great one was a paralellogram, with a very black diagonal crossing it, see Fig. 5. at 10 a Clock there was another diagonal crossing the former, and the two lesser Spots which before were longish, had now taken a round form, the Spot c. being much larger than the other at b.
+
+I am not yet furnish'd with proper Instruments to find the position of the Suns Spots, with respect to Longitude and Latitude on the Suns Disk, so I contented my self with observing the position and variation of the Spots among themselves, which afforded me a most strange and wonderful variety.
+
+## ITEM 11 — V. A Letter from Mr. Stephen Gray, F. R. S. to the Publisher, containing an Account of the same Eclipse of the Sun, as observed by himself at Norton-Court: and at Otterden-Place, By Granville Wheler Esq; F. R. S. both in Kent.
+
+Philosophical Transactions 38, no. 429 (1733), pp. 114–116. DOI: 10.1098/rstl.1733.0021
+
+*Editorial headnote — The eclipse of the Sun, 2 May 1733 — Gray observing at Norton Court, Granville Wheler at Otterden Place. It closes Part I because it belongs to the observer's trade, though written in the electrical years.*
+
+_Norton-Court, May 19, 1733._
+
+SIR,
+
+Having observed the late Eclipse of the Sun, at Norton-Court, near _Feversham_ in _Kent_, the Seat of my Honoured Friend _John Godfrey_, Esq; and the Week following being with my Honoured Friend _Granville Wheler_, Esq; at _Otterden-Place_, he was pleased to communicate to me his Observations of the said Eclipse. I presume, an Account of them may not be altogether unacceptable to the _Royal Society_.
+
+_The Eclipse of the Sun on May 2, 1733, observed at Norton-Court, near Feversham in Kent._
+
+| Observat. | Appar. Time (h. m. s.) | |
+|---|---|---|
+| 1 | 5. 49. 15 | Beginning |
+| 2 | 5. 53. 15 | 1 Digit |
+| 3 | 5. 57. 30 | 2 Digits |
+| 4 | 6. 2. 55 | 3¾ |
+| 5 | 6. 11. 50 | 5 |
+| 6 | 6. 16. 43 | 6 |
+| 7 | 6. 21. 7 | 7 |
+| 8 | 6. 27. 0 | 8 |
+| 9 | 6. 32. 45 | 9 |
+| 10 | 6. 37. 30 | 9½ |
+| 11 | 6. 40. 0 | 9⅞ Greatest |
+| 12 | 6. 56. 56 | 8 |
+| 13 | 7. 0. 35 | 7⅝ |
+| 14 | 7. 7. 0 | 6 |
+| 15 | 7. 11. 55 | 5 |
+| 16 | 7. 17. 0 | 4 |
+| 17 | 7. 21. 15 | 3 |
+| 18 | 7. 25. 55 | 2 |
+| 19 | 7. 32. 30 | End |
+
+Our Observations were made with an Helioscope, or Instrument consisting of a Telescope and Box with a Digit Scheme at the End of it. The Telescope was 6 Feet, the Box two Feet in length, and the Sun's Image on the Scheme was 6 Inches and 8 Tenths in Diameter. The Clock was rectified on the Day of the Eclipse, and proved to need no Correction for several Days afterwards, by Observations of the Sun on the Meridian. The Sun's Transit was taken by the Passage of its Rays through a Hole made in a Brass Plate, the Center of which Hole was at 6 Feet and 3 Inches perpendicular Height, above the horizontal Plane on which the Meridian Line was drawn.
+
+Mr. _Wheler_, at _Otterden-Place_, near _Lenham_ in _Kent_, observed the Beginning at 5h 49′ 0″, and the End at 7h 31′ 49″. His Observations were made with a Telescope of 15 Feet in length, and his Time was also rectified by a Meridian Line; but it was done by a Transit of the Rays through an Hole at a much greater Height. For the Brass Plate in which the Hole was made was fix'd to a Window in the Roof of his Hall, at the Height of 27 Feet above the Meridian Line on the Floor.
+
+With my humble Duty to the _Royal Society_, I remain,
+
+_Sir,_
+_Your humble Servant,_
+Stephen Gray.
+
+* * *
+
+# PART II — THE ELECTRICAL PAPERS, 1720–1736
+
+## ITEM 12 — V. An account of some new electrical experiments. By Mr. Stephen Gray
+
+Philosophical Transactions 31, no. 366 (1720), pp. 104–107. DOI: 10.1098/rstl.1720.0025
+
+*Editorial headnote — New electrical experiments — in print eleven years before the famous letters.*
+
+HAVING often observed in the Electrical Experiments made with a Glass Tube, and a Down Feather tied to the end of a small Stick, that after its Fibres had been drawn towards the Tube, when that has been withdrawn, most of them would be drawn to the Stick, as if it had been an Electrick Body, or as if there had been some Electricity communicated to the Stick or Feather; this put me upon thinking, whether if a Feather were drawn through my Fingers, it might not produce the same Effect, by acquiring some degree of Electricity. This succeeded accordingly upon my first trial, the small downy Fibres of the Feather next the Quill being drawn by my Finger when held near it: and sometimes the upper part of the Feather, with its Stem, would be attracted also, but not always with the same Success. I then proceeded to try whether Hair might not have the same Property, by taking one from my Wig, and drawing it 3 or 4 times through my Fingers, or rather between my Thumb and Fore-Finger, and soon found it would come to my Finger at the distance of half an Inch, and soon after I found that the fine Hair of a Dog's Ear was strongly Electrical; for upon taking the Ear and drawing it through my Fingers, great numbers of them would be attracted to my Fingers at once. I was at this time in the Country, and made no further trial till my return to _London_ (which I did about the middle of _November_ last) and having repeated what I had before mentioned, the next thing which I thought of, was threads of Silk of several colours, and of several finenesses, which I found to be all Electrical, but sometimes I could not succeed; the reason of which I afterwards found, as will appear in the sequel of this Discourse.
+
+Having succeeded so well in these, I proceeded to larger quantities of the same Materials, as pieces of Ribband both of coarse and fine Silk of several colours, and found that by taking a piece of either of these of about half a yard long, and by holding the end in one Hand, and drawing it through my other Hand between my Thumb and Fingers, it would acquire an Electricity, so that if the Hand were held near the lower end of it, it would be attracted by it at the distance of 5 or 6 Inches; but at some times the Electricity would be much weaker than at others, the reason of which I conjectur'd to be, that the Ribband might have imbibed some aqueous Particles from the moist Air, which I found to be upon trial the occasion of it; for when I had well warmed the Ribband by the Fire, it never failed to be strongly, Electrical.
+
+After this I made trial of several other Bodies, as Linnen of several sorts, _viz._ Holland, Musling, &c. and Woollen, as of several sorts of Cloth and other Stuffs of the same Materials. From these I proceeded to Paper, both white and brown, finding them, after they had been well heated before rubbing, to emit copiously their Electrick Effluvia. The next Body that I found the same Property in, was thin shavings of Wood; I have only as yet tried the Fir Shavings, which are strongly Electrical. The three last Substances which I found to have the same Property, are Leather, Parchment, and those thin Guts wherein Leaf-Gold is beaten.
+
+All these Bodies will not only by their Electricity be drawn to the Hand, or any other solid Body that is near them; but they will, as other Electrick Bodies do, draw all small Bodies to them, and that to the distance of sometimes 8 or 10 Inches. Heating them by the Fire before rubbing very much increases their Force.
+
+There is another Property in some of these Bodies, which is common to Glass, that when they are rubbed in the dark, there is a Light follows the Fingers through which they are drawn; this holds both in Silk and Linnen, but is strongest in Pieces of white pressing Papers, which are much the same with Card Paper; this not only yields a Light as above, but when the Fingers are held near it, there proceeds a Light from them with a crackling Noise like that produced by a Glass Tube, though not at so great a distance from the Fingers; to perform this, the Paper before rubbing must be heated as hot as the Fingers can well bear.
+
+A Down Feather being tied to the end of a fine thread of Raw Silk, and the other end to a small Stick, which was fixed to a Foot, that it might stand upright on the Table; there was taken a piece of brown Paper, which by the above-mentioned method was made to be strongly Electrical, which being held near the Feather, it came to the Paper, and I carried it with the same till it came near the Perpendicular of the Stick; then lifting up my Hand till the Paper was got beyond the Feather, the Thread was extended and stood upright in the Air, as if it had been a piece of Wire, though the Feather was distant from the Paper near an Inch. If the Finger were held near the Feather in this Position, the greatest part of the Fibres next the Paper would be repelled, when at the same time if a Finger were held to the Fibres that were more remote from the Paper, they would be drawn by it.
+
+I then repeated this Experiment without the Feather, _viz._ by a single thread of Silk only of about 5 or 6 Inches long, which was made to stand extended upright as above-mentioned, without touching the Paper; then placing my Finger near the end, it wou'd avoid, or was repelled by it, but when I had placed my Finger at about the same distance from a part of the Thread, that was about two Inches from the end, it was then attracted by it.
+
+An Enumeration of the several Bodies mentioned herein, that are found to be Electrical.
+
+1. Feathers, 2. Hair, 3. Silk, 4. Linnen, 5. Woollen, 6. Paper, 7. Leather, 8. Wood, 9. Parchment, 10. Ox-Guts, wherein Leaf-Gold is beaten.
+
+## ITEM 13 — V. A letter to Cromwell Mortimer, M. D. Secr. R. S. containing several experiments concerning electricity by Mr. Stephen Gray
+
+Philosophical Transactions 37, no. 417 (1731), pp. 18–44. DOI: 10.1098/rstl.1731.0005
+
+*Editorial headnote — The 1731 letter: the electrical virtue conveyed to cork and ivory, and carried along packthread.*
+
+SIR,
+
+IN the Year 1729 I communicated to Dr. _Desaguliers_, and some other Gentlemen, a Discovery I had then lately made, shewing that the Electrick Vertue of a Glass Tube may be conveyed to any other Bodies, so as to give them the same Property of attracting and repelling light Bodies, as the Tube does, when excited by rubbing; that this attractive Vertue might be carried to Bodies that were many Feet distant from the Tube. On _May_ the 1st Dr _Desaguliers_ made a Report of the Experiments he had seen, to the _Royal Society_; I then promised to communicate a more particular Account of these Experiments to the _Society_; but as I was the next Day to go into the Country, where I knew that I should have the Opportunity of carrying on the Experiments much farther than I had yet done, for want of Room in my Chamber, which was not large enough for carrying on several other Experiments I had in View; I was willing, as I had begun the Discovery, to carry it on as much farther as I could, before I communicated it to the _Royal Society_, which I now humbly offer to their Consideration.
+
+In _February_ 1729/30, I repeated some of the Experiments I had formerly made, in the first Discovery of an Electrical Attraction in many Bodies, not before known to have that Property, which I communicated to the _Royal Society_. An Account of those Experiments is given in the _Philosophical Transactions_, N° 366. I made several Attempts on the Metals, to see whether they might not be made attractive by the same Method as other Bodies were, _viz._ by heating, rubbing and hammering, but without any Success: I then resolved to procure me a large Flint-Glass Tube, to see if I could make any farther Discovery with it, having called to Mind a Suspicion which some Years ago I had, that as the Tube communicated a Light to Bodies, when it was rubbed in the Dark, whether it might not at the same Time communicate an Electricity to them, though I never till now tried the Experiment, not imagining the Tube could have so great and wonderful an Influence, as to cause them to attract with so much Force, or that the Attraction would be carried to such prodigious Distances, as will be found in the Sequel of this Discourse.
+
+Before I proceed to the Experiments, it may be necessary to give a Description of the Tube: Its Length is three Feet five Inches, and near one Inch two Tenths in Diameter: I give the mean Dimensions, the Tube being larger at each End than in the Middle, the Bore about one Inch. To each End I fitted a Cork, to keep the Dust out when the Tube was not in use.
+
+The first Experiment I made, was to see if I could find any Difference in its Attraction, when the Tube was stopped at both Ends by the Corks, or when left open, but could perceive no sensible Difference; but upon holding a Down-Feather over against the upper End of the Tube, I found that it would go to the Cork, being attracted and repelled by it, as by the Tube when it had been excited by rubbing. I then held the Feather over against the flat End of the Cork, which attracted and repelled many Times together; at which I was much surprized, and concluded that there was certainly an attractive Vertue communicated to the Cork by the excited Tube.
+
+Having by me an Ivory Ball of about one Inch three Tenths Diameter, with a Hole through it, this I fixed upon a Fir-Stick about four Inches long, thrusting the other End into the Cork, and upon rubbing the Tube, found that the Ball attracted and repelled the Feather with more Vigour than the Cork had done, repeating its Attractions and Repulsions for many Times together: I then fixed the Ball on longer Sticks, first upon one of eight Inches, and afterwards upon one of twenty-four Inches long, and found the Effect the same. Then I made use of first Iron, and then Brass Wire, to fix the Ball on, inserting the other End of the Wire in the Cork, as before, and found that the Attraction was the same as when the Fir-Sticks were made use of, and that when the Feather was held over against any Part of the Wire, it was attracted by it; but though it was then nearer the Tube, yet its Attraction was not so strong as that of the Ball. When the Wire of two or three Feet long was used, its Vibrations, caused by rubbing the Tube, made it somewhat troublesome to be managed: This put me upon thinking, whether if the Ball was hung by a Packthread, and suspended by a Loop on the Tube, the Electricity would not be carried down the Line to the Ball: I found it to succeed accordingly; for upon suspending the Ball on the Tube by a Packthread about three Feet long, when the Tube had been excited by rubbing, the Ivory Ball attracted and repelled the Leaf-Brass, over which it was held, as freely as it had done, when it was suspended on Sticks, or Wire; as did also a Ball of Cork, and another of Lead that weighed one Pound and a quarter.
+
+After I had found that the several Bodies above-mentioned had an Electricity communicated to them, I then went on to see upon what other Bodies the Tube would have the same Effect, beginning with the Metals, suspending them on the Tube by the Method above-mentioned; first in small Pieces, as with a Guinea, a Shilling, a Half-penny, a Piece of Block-Tin, a Piece of Lead; then with larger Quantities of Metal, suspending them on the Tube by Packthread. Here I made use of a Fire-Shovel, Tongs, and Iron Poker, a Copper Tea-Kettle, which succeeded the same, whether empty, or full of either cold or hot Water; a Silver Pint Pot; all which were strongly Electrical, attracting the Leaf-Brass to the Hight of several Inches. After I had found that the Metals were thus Electrical, I went on to make Trials on other Bodies, as Flint-Stone, Sand-Stone, Load-Stone, Bricks, Tiles, Chalk; and then on several vegetable Substances, as well green as dry, and found that they had all of them an Electrick Vertue communicated to them, either by being suspended on the Tube by a Line, or fixed on the End of it by the Method above-mentioned.
+
+I next proceeded to try at what greater Distances the Electrick Vertue might be carried, and having by me Part of a hollow walking Cane, which I suppose was Part of a Fishing-Rod, two Feet seven Inches long; I cut the great End of it, to fit it into the Bore of the Tube, into which it went about five Inches; then when the Cane was put into the End of the Tube, and this excited, the Cane drew the Leaf-Brass to the Hight of more than two Inches, as did also the Ivory Ball, when by a Cork and Stick it had been fixed to the End of the Cane. A solid Cane had the same Effect, when inserted in the Tube after the same Manner as the hollow one had been. I then took the two upper Joints of a large Fishing-Rod, the one of Spanish Cane, the other partly Wood and the upper End Whale-bone, which, together with the Tube, made a Length of more than fourteen Feet. Upon the lesser End of the Whale-bone was fixed a Ball of Cork of about an Inch and quarter Diameter; then the great End of the Rod being inserted in the Tube, the Leaf-Brass laid on the Table, and the Tube excited, the Ball attracted the Leaf-Brass to the Hight of about three Inches by Estimation. With several Pieces of Spanish Cane and Fir-Sticks I afterwards made a Rod, which, together with the Tube, was somewhat more than eighteen Feet long, which was the greatest Length I could conveniently use in my Chamber, and found the Attraction very nearly, if not altogether as strong, as when the Ball was placed on shorter Rods. Thus far I proceeded before I went into the Country, which I did the 2d of May, 1729, taking with me several Glass Canes, and such other Materials I thought would be necessary, and could not well be procured there. I shall now give an Account of the Experiments I then made, some of which were made at Norton-Court near Feversham in Kent, at my honoured Friend's John Godfrey's, Esq; the other at Otterden-Place, at my honoured Friend's Granvil Wheler's, Esq; a worthy Member of the Royal Society, with whom I have had the Honour to be lately acquainted. I shall set down each Experiment in the Order of the Time and Place they were made, as I find it in my Notes.
+
+The first Experiment was made at Norton-Court, May 14th, 1729, between six and seven o'Clock in the Evening. Having provided a Rod of about twenty-four Feet, that consisted of a Fir-Pole, of Cane, and the Top of Reed, upon the End of which the Ball of Cork was placed, and the great End of the Rod put into the Tube about seven or eight Inches: then the Leaf-
+Leaf-Brass being laid down, and the Tube rubbed, the Ball attracted and repelled the Leaf-Brass with Vigour; so that it was not at all to be doubted, but with a longer Pole the Electricity would have been carried much farther.
+
+May the 16th, I made a Rod thirty-two Feet long, including the Tube; the bigger Part of it was a Fir-Staff about six Feet and a half long, the rest was of Cane, and Reed for the top Part of it. All Things being prepared, as before, the Effect was the same as in the last Experiment, only the Pole bending so much, and vibrating by rubbing the Tube, made it more troublesome to manage the Experiment. This put me upon making the following Experiments.
+
+May the 19th, about six in the Morning, the Ivory Ball being suspended on the Tube, by a Line of Packthread twenty-six Feet long, which was the Hight I stood at in the Balcony, from the Court where he stood, that held the Board with the Leaf-Brass on it; then the Tube being rubbed, attracted the Leaf-Brass to the Hight of near two Inches, as he that assisted informed me. This was repeated with the Cork Ball with the same Success.
+
+May the 31st, in the Morning, to a Pole of eighteen Feet there was tied a Line of thirty-four Feet in Length; so that the Pole and Line together were fifty-two Feet. With the Pole and Tube I stood in the Balcony, the Assistant below in the Court, where he held the Board with the Leaf-Brass on it; then the Tube being excited as usual, the Electrick Vertue passed from the Tube up the Pole, and down the Line to the Ivory Ball, which attracted the Leaf-Brass, and as the Ball passed over it in its Vibrations, the Leaf-Brass would follow it, till it was carried off the Board: But these Experiments are difficult to make in the open Air, the least Wind that is stirring, carrying away the Leaf-Brass.
+
+Some Time after I made several Attempts to carry the Electrick Vertue in a Line horizontally, since I had not the Opportunity here of carrying it from greater Hights perpendicularly, but without Success, for want of then making use of proper Materials, as will appear from what follows. The first Method I made Trial of, was by making a Loop at each End of a Line, and hanging it on a Nail drove into a Beam, the other End hanging downwards, through the Loop at this End the Line with the Ivory Ball was put; the other End of this Line was by a Loop hung on the Tube; so that that Part of the Line next the Ball hung Perpendicular, the rest of the Line Horizontal: Then the Leaf-Brass being laid under the Ball, and the Tube rubbed, yet not the least Sign of Attraction was perceived. Upon this I concluded, that when the Electrick Vertue came to the Loop that was suspended on the Beam, it went up the same to the Beam; so that none, or very little of it at least, came down to the Ball, which was afterwards verified, as will appear by the Experiments that will be mentioned hereafter. Upon this I gave over making any farther Attempts of carrying the Electricity horizontally, designing at my Return to London, if I could get Assistance, to have tried the Experiment from the Top of the Cupola of St. Paul's, not doubting but the Electrick Attraction would be carried down perpendicular, from thence to the Ground.
+
+June the 30th, 1729, I went to Otterden-Place, to wait on Mr. Wheler, carrying with me a small solid Glass Cane of about eleven Inches long, and seven eighth Parts of an Inch in Diameter, with some other requisite Materials, designing only to give Mr. Wheler a Specimen of my Experiments. The first was from the Window in the Long Gallery that opened into the Hall, the Hight about sixteen Feet; the next from the Battlements of the House down into the fore Court, twenty-nine Feet; then from the Clock-Turret to the Ground, which was thirty-four Feet, this being the greatest Hight we could come at; and notwithstanding the Smallness of the Cane, the Leaf-Brass was attracted and repelled beyond what I expected. As we had no greater Hights here, Mr. Wheler was desirous to try whether we could not carry the Electrick Vertue horizontally. I then told him of the Attempt I had made with that Design, but without Success, telling him the Method and Materials made use of, as mentioned above. He then proposed a Silk Line to support the Line, by which the Electrick Vertue was to pass. I told him it might do better upon the Account of its Smallness; so that there would be less Vertue carried from the Line of Communication, with which, together with the apt Method Mr. Wheler contrived, and with the great Pains he took himself, and the Assistance of his Servants, we succeeded far beyond our Expectation.
+
+The first Experiment was made in the matted Gallery July 2, 1729, about Ten in the Morning. About four Feet from the End of the Gallery there was a cross Line that was fixed by its Ends to each Side of the Gallery by two Nails; the middle Part of the Line was Silk, the rest at each End Packthread; then the Line to which the Ivory Ball was hung, and by which the Electrick Vertue was to be conveyed to it from the Tube, being eighty Feet and a half in Length, was laid on the cross Silk Line, so as that the Ball hung about nine Feet below it: Then the other End of the Line was by a Loop suspended on the Glass Cane, and the Leaf-Brass held under the Ball on a Piece of white Paper; when the Tube being rubbed, the Ball attracted the Leaf-Brass, and kept it suspended on it for some Time.
+
+This Experiment succeeding so well, and the Gallery not permitting us to go any farther in one Length, Mr. Wheler thought of another Expedient, by which we might encrease the Length of our Line, which was by putting up another cross Line near the other End of the Gallery; and over the Silk Part of both the Lines there was laid a Line that was long enough to be returned to the other End, where the Ball hung; and though now both Ends of the Line were at the same End of the Gallery, yet Care was taken that the Tube was far enough off from having any Influence upon the Leaf-Brass, except what passed by the Line of Communication: Then the Cane being rubbed, and the Leaf-Brass held under the Ivory Ball, the Electrick Vertue passed by the Line of Communication to the other End of the Gallery, and returned back again to the Ivory Ball, which attracted the Leaf-Brass, and suspended it as before. The whole Length of the Line was 147 Feet.
+
+We then thought of trying whether the Attraction would not be stronger without doubling or returning the Line, which we found Means of doing in the Barn, where we had a Line of 114 Feet long, fourteen Feet of which hung perpendicular from the Silk Line; and now the Attraction was, as we then concluded, stronger than when the Line was returned, as in the matted Gallery.
+
+July 3, having now brought with me the great Glass Tube, between Ten and Eleven in the Morning we went again into the Barn, carrying with us the solid Cane, and repeated the last mentioned Experiment with both the Tube and Cane; but the Attraction was not so strong as in the preceding Evening, nor was there so great a Difference in the Attraction communicated by the solid Cane and Glass Tube, as one would have expected, considering the Difference of their Lengths and Diameters.
+
+We then proceeded farther, by adding so much more Line as would make a Return to the other End of the Barn, the whole Length of the Line being now 293 Feet; and though the Line was so much lengthened, we found no perceivable Difference in the Attraction, the Ball attracting as strongly as before. This encouraged us to add another Return; but upon beginning to rub the Tube, our Silk Lines broke, being not strong enough to bear the Weight of the Line, when shaken by the Motion given it by rubbing the Tube. Upon this, having brought with me both Brass and Iron Wire, instead of the Silk we put up small Iron Wire; but this was too weak to bear the Weight of the Line. We then took Brass Wire of a somewhat larger Size than that of Iron. This supported our Line of Communication; but though the Tube was well rubbed, yet there was not the least Motion or Attraction given by the Ball, neither with the great Tube, which we made use of when we found the small solid Cane to be ineffectual: By which we were now convinced, that the Success we had before, depended upon the Lines that supported the Line of Communication, being Silk, and not upon their being small, as before Trial I imagined it might be; the same Effect happening here as it did when the Line that is to convey the Electrick Vertue is supported by Packthread; viz. that when the Effluvia come to the Wire or Packthread that supports the Line, it passes by them to the Timber, to which each End of them is fixed, and so goes no farther forward in the Line that is to carry it to the Ivory Ball.
+
+Finding that our Silk Threads were too weak to bear many Returns of Line, Mr. Wheler thought of another Way of managing them, so that fewer Returns might be upon each Silk Line; which was by placing two other cross Lines some Feet below the upper ones; so that every other Turn of Line was suspended by the lower cross Line. By this Means there was but half the Weight of Line upon each Silk, of what there was when only two cross Lines were made use of as before. By this Contrivance, we could add a much greater Length of Line, without Danger of breaking our Silk. We then put up a Line that was 666 Feet in Length, by eight Returns: Then the Leaf-Brass being held on a Piece of white Paper under the Ivory Ball, and the Tube, with the other End of the Line suspended
+on it, being rubbed for some Time, the Leaf-Brass was attracted as manifestly as it had been with much shorter Lines. We then repeated the Experiment with the little short solid Cane, and found there was somewhat of an Attraction, but not near so great as with the large Tube.
+
+Though the going and returning of the Electrick Effluvia was very surprising, yet we were willing to try how far the attractive Vertue might be carried in a continued right Line; the Method of doing which was thus: That End of the Line where the Attraction was to be made, was suspended on a Silk Line that was fixed cross the Garret Window on the North-side of the House, which was by Estimation about forty Feet high; at about an hundred Feet from hence two Rods or Poles of about ten Feet long, and at two Feet distance from each other, were drove into the Ground, so as that they stood nearly perpendicular. These were in the great Garden. Beyond these, in the great Field, that is separated from the Garden by a deep Foss, about the same Distance from the first, were another Pair of Poles fixed; then four others at a like Distance. Upon the Ends of these Poles were tied the cross Lines of Silk, to support the Line of Communication, which being laid on the Silk Lines, the Ivory Ball hanging in the Garret Window, and the other End of the Line being hung by a Loop on the Tube, the Leaf-Brass was held under the Ball, and after the Tube had been rubbed for some Time, they called to me to let me know that there was an Attraction of the Leaf-Brass. This was several Times repeated with Success; then Mr. Wheler came into the Field, and rubbed the Tube himself, that I might see there was an Attraction, which I saw, though I perceived it not to be so strong, as when the Attraction was carried by a longer Line, by returning it, as in the Experiments above-mentioned. The Length of the Line was 650 Feet. This was several Times repeated, but the Experiment being made in the Evening, at length the Dew began to fall. We began about Seven o'Clock, or some little Time after, but before Eight the Attraction ceased: But whether this was caused by the Dew falling, or by my being very hot, we could not positively say, but I rather impute it to the latter. This Experiment was made July 14, 1729.
+
+Note, That though we call the carrying the Electrick Vertue by the Lines in this Position Horizontal, you are not to understand it in a strict Sense, as may be easily perceived by the Description of the Method; and That as the Line swagged down much below the Silk Lines that supported it, in the middle Part between those Lines, it was some Feet longer than the Distance of the Poles.
+
+Some Days after this Experiment was repeated from the Turret Closet Window, when the Line was 765 Feet, and the Attraction was no less perceivable than in the Experiment above-mentioned.
+
+_More Experiments made at Mr. Wheler's, shewing that large Surfaces may be impregnated with Electrical Effluvia._
+
+A large Map of the World, that had twenty-seven square Feet in it; a Table-Cloth containing fifty-nine square Feet; these suspended on the Tube by Packthreads, became Electrical. An Umbrello, suspended by a Packthread tied to the Handle of it, became strongly Electrical.
+
+_An Experiment proposed by Mr. Wheler, to see whether the Electrick Vertue would be any Ways hindred by the magnetical Effluvia of a Load-Stone._
+
+This had a small Key hung by one of its arming Irons, and the Stone, together with the Key hung to it, were suspended on the Tube by a Packthread; then the Tube being rubbed, the Key and Stone both attracted the Leaf-Brass, the Attraction being the same as that of other Bodies.
+
+_An Experiment made to shew that the Electrick Vertue is carried several Ways at the same Time, and may be conveyed to considerable Distances._
+
+There was made three Stands, each composed of two upright Pieces of Fir, fixed perpendicular, near the Ends of a long square Board, distant from each other near a Foot and a half. Upon the Tops of these were tied Threads of Silk to support the Lines of Communication with the Tube and the attracting Bodies. One of these Stands was placed in the great Parlour, near the farther End; another in the little Parlour, and a third in the Hall, which was between the two Parlours: As the other two were one of them to the right, the other to the left Hand, this last was placed near the Hall-Window forwards; the two first were about fifty Feet, the other about twenty Feet from the Place where the Tube was held; then there were taken three small square Pieces of Wood, that were tied to three Lines of Packthread. These were of about the Lengths above-mentioned. They were laid on the Silk Lines, and by Loops at the other Ends were suspended on the Tube; then the Leaf-Brass being held under the Pieces of Wood, and the Tube rubbed, they all of them attracted the Leaf-Brass at the same Time.
+
+Some Time after, in my Absence, Mr. Wheler tried a red hot Poker, and found that the Attraction was the same as when cold. He also suspended a live Chick upon the Tube, by the Legs, and found that the Breast of the Chick was strongly Electrical.
+
+_At Mr. Godfrey's I made the following Experiments; shewing that the Electrick Vertue may be carried from the Tube, without touching the Line of Communication, by only being held near it._
+
+The first of these Experiments was made the 5th of August, 1729. I shall here mention some of the most considerable ones; but as I did not always set down the Day of the Month, some of them may not be related in the Order of Time they were made; nor did I always mention the Length of the Lines, these not being thought to be absolutely necessary.
+
+I took a Piece of a Hair-Line, such as Linnen-Cloaths are dried on, of about eleven Feet in Length; which, by a Loop at the upper End of it, was suspended on a Nail, that was drove into one of the Rafters in the Garret; and had at its lower End a leaden Weight of fourteen Pounds hung to it by an Iron Ring: then the Leaf-Brass was laid under the Weight, and the Tube rubbed, and being held near the Line without touching it, the Lead-Weight attracted and repelled the Leaf-Brass for several times together, to the Hight of at least three, if not four Inches. If the Tube was held three or four Feet above the Weight, there would be an Attraction; but if it were held higher up, so as to be near the Rafter where the Weight was hung by the Hair-Line, there would be no Attraction.
+
+_An Experiment shewing that the Electrick Vertue may be carried several Ways at the same Time, by a Line of Communication, without touching the said Line._
+
+There were taken two Hair-Lines, of between four and five Feet long; to each of these was tied a square Piece of Cork, by Packthread; the Lines were suspended by Loops at their upper Ends, upon two Nails; near the lower Ends there was tied to the Hair-Lines a Piece of Packthread, by which there was a Communication between the two Hair-Lines; then the Leaf-Brass laid under the Corks, the Tube being rubbed, and held near one of the Lines, both the Corks attracted; but that which was farthest, much stronger than that, near which the Tube was held. About the Middle of the Line of Communication they both drew with equal Force.
+
+Some Time after, at Mr. Wheler's, we made the following Experiment, in order to try whether the Electrick Attraction be proportional to the Quantity of Matter in Bodies.
+
+There were made two Cubes of Oak, of about six Inches Square, the one solid, the other hollow: These were suspended by two Hair-Lines, nearly after the same Manner as in the Experiment above-mentioned; the Distance of the Cubes from each other, was by Estimation, about fourteen or fifteen Feet; the Line of Communication being tied to each Hair-Line, and the Leaf-Brass placed under the Cubes, the Tube was rubbed and held over the Middle of the Line, and as near as could be guessed, at equal Distances from the Cubes, when both of them attracted and repelled the Leaf-Brass at the same Time, and to the same Hight; so that there seemed to be no more Attraction in the solid than in the hollow Cube; yet I am apt to think that the Electrick Effluvia pass through all the interior Parts of the solid Cube, though no Part but the Surface attracts, for from several Experiments it appears, that if any other Body touches that which attracts, its Attraction ceases till that Body be removed, and the other be again excited by the Tube.
+
+_A Continuation of the Experiments made at Mr. Godfrey's._
+
+I next went on with an Experiment, to see if the Electrick Vertue might not be conveyed to a Rod, without inserting it into the Bore of the Tube, or without touching the Rod, which I found to succeed,
+by suspending the Rod either by Lines of Silk, or by Pieces of Horse-Hair Fishing-Lines, placing a Ball of Cork on the lesser End of the Rod.
+
+August 13, I took a large Pole that was twenty-seven Feet long, two Inches and a half Diameter at the great End, and at the lesser about half an Inch. It was that Sort of Wood they call Horse-Beech, with the Rind on. This was suspended by two Hair-Lines of about four Feet and a half in Length; the first Line was about two Feet from the great End of the Pole, the other about eight Feet from the lesser End; so that the Pole hung horizontal. At the little End of the Pole was hung a Ball of Cork about an Inch and a half Diameter by a Packthread about a Foot long, and a small leaden Ball upon the Cork to keep the Packthread extended: Then the Leaf-Brass being laid under the Cork, the Tube rubbed and held near the great End of the Pole, the Cork Ball drew the Leaf-Brass strongly to the Hight of an Inch, if not more: Then the Leaf-Brass being held under several Parts of the Pole, it was attracted by it, as Mr. Godfrey observed, but not near so strongly as the Cork did.
+
+About the Beginning of September I made the following Experiment, which shews that the Electrick Effluvia will be carried in a Circle, and be communicated from one Circle to another.
+
+There was taken a Hoop of about two Feet two Inches Diameter; this I suspended by a Hair-Line upon a Nail drove into a Beam; the Line was about four Feet long; then the Leaf-Brass being laid under the Hoop, the Tube was rubbed, and held within the Hoop, near the upper Side of it, without touching it by several Inches. Then the lower Part of the Hoop attracted and repelled the Leaf-Brass strongly; but when held near the lower Part, there was very little, if any Attraction. If the Tube was held near the outside of the Hoop, it attracted; but strongest, when at the same Time it was held near the Knot of the Hair-Line the Hoop was suspended by. To this Hoop there was tied a lesser Hoop of about a Foot and a half Diameter: It was tied to it by Packthread, so as to hang below it about two Inches; they were suspended together by the Hair-Line; then the Leaf-Brass and the Tube being prepared, as hath been mentioned before, the Tube being held near the upper Hoop, the lower Part of the lower Hoop attracted strongly, and when held near the upper Part of the lower Hoop, but very weakly; but when held near the lower Part of the lower Hoop, there was no Attraction.
+
+On the 15th of September I made the following Experiment, which shews, that the Electrick Effluvia have the same Effect in a Circle, when its Position is horizontal.
+
+I took a large Hoop, of somewhat more than three Feet Diameter, and Breadth of about two Inches and a half; to this was tied at near equal Distances, four Lines: They were what they call Twine, which is of three Threads of Packthread twisted together, each about two Feet eight Inches long. These were tied with their Ends together to a Hair-Line of about two Feet and a half long, by which the Hoop was hung on a Nail, as in the other Experiments, so that the Hoop hung now in an horizontal Position. Then the Leaf-Brass being laid under the Edge of the Hoop, at between two and three Inches below it, the Tube being rubbed, and held between the Cords without touching them, the Leaf-Brass was attracted and repelled for several times together; but when held near the outside of the Hoop, opposite to that Part where the Leaf-Brass lay, the Attraction was much stronger.
+
+About the latter End of Autumn, and the Beginning of the Winter in 1729, I resumed my Enquiry after other Electrick Bodies, to see what Addition I could make to the Catalogue of those mentioned above, in Pages 21, 22, and found many more that have the same Property, and may be excited to attract by the same Method. As for Instance, the dry withered Leaves of Reeds and Flags, Grass and Corn, both Leaves and Straw; the Leaves of Trees, as those of the Laurel, the Oak, the Walnut, the Chesnut, Hazle-nut, Apple and Pear-tree Leaves; so that we may conclude, that the Leaves of all Vegetables have this Attractive Vertue.
+
+_I shall now give an Account of the Experiments made at my Chamber in the Year 1730._
+
+March the 23d, I dissolved Soap in the Thames-Water, then I suspended a Tobacco-Pipe by a Hair-Line, so as that it hung nearly horizontal, with the Mouth of the Bowl downwards; then having dipped it in the Soap-Liquor, and blown a Bubble, the Leaf-Brass laid on a Stand under it, the Tube being rubbed, the Brass was attracted by the Bubble, when the Tube was held near the Hair-Line. Then I repeated the Experiment with another Bubble, holding the Tube near the little End of the Pipe, and the Attraction was now much greater, the Leaf-Brass being attracted to the Hight of near two Inches.
+
+March the 25th, I repeated this Experiment after a somewhat different Manner: The Pipe was now suspended by two Lines of white sewing Silk, of about five Feet and a half long; these were hung upon two Nails drove into the Beam of my Chamber, distant from each other about a Foot, by Loops at the other End of the Lines, by which the Pipe was suspended; then the Bubble being blown, by holding the Tube to the little End of the Pipe, the Bubble attracted the Leaf-Brass to the Hight of near four Inches. This Experiment was made to see whether fluid Bodies would not have an Electricity communicated to them.
+
+April 8, 1730, I made the following Experiment on a Boy between eight and nine Years of Age. His Weight, with his Cloaths on, was forty-seven Pounds ten Ounces. I suspended him in a horizontal Position, by two Hair-Lines, such as Cloaths are dried on: They were about thirteen Feet long, with Loops at each End. There was drove into the Beam of my Chamber, which was a Foot thick, a Pair of Hooks opposite to each other, and two Feet from these another Pair in the same manner. Upon these Hooks the Lines were hung by their Loops, so as to be in the Manner of two Swings, the lower Parts hanging within about two Feet of the Floor of the Room: Then the Boy was laid on these Lines with his Face downwards, one of the Lines being put under his Breast, the other under his Thighs: Then the Leaf-Brass was laid on a Stand, which was a round Board of a Foot Diameter, with white Paper pasted on it, supported on a Pedestal of a Foot in Hight, which I often made use of in other Experiments, though not till now mentioned: Upon the Tube's being rubbed, and held near his Feet, without touching them, the Leaf-Brass was attracted by the Boy's Face with much Vigour, so as to rise to the Hight of eight, and sometimes ten Inches. I put a great many Pieces on the Board together, and almost all of them came up together at the same Time. Then the Boy was laid with his Face upwards, and the hind Part of his Head, which had short Hair on, attracted, but not at quite so great a Hight as his Face did. Then the Leaf-Brass was placed under his Feet, his Shoes and Stockings being on, and the Tube held near his Head, his Feet attracted, but not altogether at so great a Hight as his Head: Then the Leaf-Brass was again laid under his Head, and the Tube held over it, but there was then no Attraction, nor was there any when the Leaf-Brass was laid under his Feet, and the Tube held over them.
+
+April the 16th, I repeated the Experiment with the Boy, but now the Attraction was not quite so strong as at the first, the Brass not rising higher than to about six Inches. His Hands being stretched nearly horizontal, I placed a small Stand with Leaf-Brass under each Hand, and under his Face the great one, furnished as the others; when the excited Tube being held near his Feet, there was an Attraction by his Hands and Face at the same Time. I then gave him the Top of a Fishing-Rod to hold in his Hand; there was a Ball of Cork stuck on the little End of it, under which the Leaf-Brass being laid, and the Tube rubbed and held near his Feet, the Ball attracted the Leaf-Brass to the Hight of two Inches, and repelled it, and attracted for several Times together with great Vigour.
+
+April 21, I again repeated the Experiment on the Boy; and now he attracted much stronger than at the first: The Leaf-Brass rose to his Face at the Hight of more than twelve Inches. Then I gave the Boy to hold in each Hand the Tops of two Fishing-Rods, with a Ball of Cork on each of their lesser Ends; then a small Stand being set under each Ball, with the Leaf-Brass on it, the Tube being rubbed, and held near his Feet, both the Corks attracted and repelled together strongly. The Length of the Poles were each of them about seven Feet. Then the Boy was laid on his left Side, and a Fishing-Rod, of near twelve Feet in Length, given him to hold with both his Hands; there was a small Ball of Cork at the End of the Rod, that was an Inch and three quarters Diameter: Then all Things being prepared, the Tube held near the Boy's Feet, the Cork Ball attracted and repelled the Leaf-Brass with Force to the Hight of at least two Inches.
+
+Note, That when I speak of holding the Tube near the Boy's Feet, I mean over against the Soles of his Feet; and when near his Head, is to be understood the Crown of his Head; for when the Tube is held above, or over his Legs, the Attraction is not so strongly communicated to the other Parts of his Body.
+
+By these Experiments we see that Animals receive a greater Quantity of Electrick Effluvia, and that they may be conveyed from them several Ways at the same Time to considerable Distances, wherever they meet with a Passage proper for their Conveyance, and there exert their Attracting Power.
+
+In these Experiments, besides the large Stand above-mentioned, I made use of two small ones, which, as I found them very useful, it may not be improper to describe them. The Tops of them were three Inches Diameter; they were supported by a Column of about a Foot in Hight, their Bases of about four Inches and a half: They were turned of Lignum vitae; their Tops and Bases made to skrew on for Convenience of Carriage. Upon the Tops were pasted white Paper. When the Leaf-Brass is laid on any of these Stands, I find it is attracted to a much greater Hight than when laid on a Table, and at least three Times higher than when laid on the Floor of a Room.
+
+_June 20, I made the following Experiment, shewing that the Attraction and Repulsion is as strong, if not stronger, and that the Effluvia may be carried to great Lengths, without touching the Line by the Tube._
+
+There was taken a Line of Packthread 131 Feet in Length; it was supported on two cross Lines of blue Silk; the Distance of these Lines was near eighteen Feet. About four Feet below one of these Lines, was put up another Silk Line of the same Colour. To this, was tied one End of the Packthread; at the other End the Ivory Ball hung; the Line was returned over the cross Lines thirteen times; then the Leaf-Brass being laid under the Ball, upon one of the small Stands, and the Tube excited, the Ball attracted and repelled to the Hight of one of its Diameters, which was about an Inch and a quarter.
+
+I have, by several Trials lately made, found that rubbing the Tube, and putting it up between the Returns of the Line in several Places, before I go with the Tube to the End of the Line, much facilitates, and causes the Attraction much sooner than when one stands with the Tube and applies it to the End of the Line only.
+
+About the middle of July I went into the Country, and August 1, at Mr. Wheler's, we made the following Experiment; being an Attempt to see how far the Electrick Vertue might be carried forward in a Line, without touching the same.
+
+This Experiment was made by carrying the Line out of the Great Parlour Window into the Garden, and down the great Field before it. The Line was supported by fifteen Pair of Poles; each Pair had a Line of blue Silk tied from one Pole to the other, the Length of about four Feet, equal to the Distance of the two Poles: About ten Feet from the Window there was a Silk Line put up cross the Room, upon which that Part of the Line hung that had the Ivory Ball upon it. Below the cross Line of the farthest Pair of Poles was placed another cross Line, four Feet from the Ground, to which was fastened the other End of the communicating Line, as mentioned in the Experiment above. Then the Leaf-Brass and Tube being prepared as usual, the Tube being held over the Line at several Distances, beginning towards that End where the Ball hung, and so proceeding towards the farther End of the Line, the Leaf-Brass was attracted at the Stations not exceeding two or three hundred Feet, pretty strongly; but still grew weaker as we came towards the farther End of the Line: Yet even at the End of the Line the Leaf-Brass would be lifted by the Ball, when the Tube touched the Line, whose Length was 886 Feet.
+
+I should now have given some Account of the Discovery I made the last Year concerning the Attraction of coloured Bodies, shewing that they attract more or less, according to what Colours they are of, though the Substance be the same, and of equal Weight and Bigness; only I shall observe, that I find the Red, Orange or Yellow, attract at least three or four times stronger than Green, Blue or Purple: But having very lately found out a new and more accurate Method of making these Experiments, I must beg Leave to proceed farther with them, before I communicate them. I am,
+
+SIR,
+
+Your Humble Servant,
+
+Charter-House, Feb. 8, 1730/1.
+
+Stephen Gray.
+
+## ITEM 14 — II. A letter concerning the electricity of water, from Mr. Stephen Gray to Cromwell Mortimer, M. D. Secr. R. S.
+
+Philosophical Transactions 37, no. 422 (1732), pp. 227–230, with Addenda p. 260. DOI: 10.1098/rstl.1731.0040
+
+*Editorial headnote — The electricity of water. Gray's Addenda, printed at the end of the issue (p. 260), stands at the foot of this item.*
+
+SIR,
+
+THE Approbation the former Communication of my Electrical Experiments (Transact. Numb. 417.) to the Royal Society did meet with, by their most generous Encouragement, hath been a great Inducement to me to go on with them, to see what farther Discoveries I can make upon the Subject of this Species of Attraction. I shall at present communicate only two Experiments; the first shewing that Water may have an Attractive Vertue communicated to it from an Electrick Body; the other, that Water is not only attracted by the Tube, or any other absolutely Electrick Body, but that this Attraction is attended with several remarkable Circumstances.
+
+I. In the former Account of my Experiments, I described the manner of communicating an Attraction to a Bubble of soaped Water; but I have now found, that even a Body of Water receives an Attractive Vertue, and also a Repelling one, by applying the excited Tube near it, after the same manner as solid Bodies do. To perform this Experiment, I caused a wooden Dish to be turned, with a Screw-hole at the Bottom, but not so far as to come through the Wood: This was screwed on to the upper End of one of the Stands I have mentioned in the other Experiments, the other Top being taken off: The Dish was about four Inches Diameter, and one Inch deep. Then the Stand was set on a Cake of Rosin, or a Plate of Glass, or the Brims of a Drinking-Glass, or of a Cylindrick one, such as are used for Water Glasses. The Glass must be first warmed, then the Dish being filled with Water, the Tube rubbed, and moved both under the Dish and over the Water three or four times, without touching them. After it has been excited, not only the Dish, but the Water also, becomes Electrical; and if a small Piece of Thread, or a narrow Slip of thin Paper, or a Piece of Sheet-Brass, commonly called Tinsel, be held over the Water in an horizontal Position, within about an Inch or sometimes more, any of the said Bodies will be attracted to the Surface of the Water, and be repelled, but not so often as by Solids. If a pendulous Thread be held at some Distance from the outside of the Dish, it will be attracted and repelled by it many times together with a very quick Motion, but not at so great a Distance as when the Dish is empty.
+
+II. _An Experiment shewing, that Water is attracted by the Tube, and that the Attraction is attended with several remarkable and surprising Phenomena._
+
+This Experiment being to be made with small Quantities of Water, I at first made use of some of the Brass Concave little Dishes in which I formerly ground Microscopes; but have since caused to be made a more convenient Apparatus, which consists of a small Pedestal of about four Inches and a half long, the Base of Ivory about two Inches Diameter. Upon the upper End, as in the larger Stand, there is a Screw, upon which is screwed on one of the little Dishes, which are made of Ivory: Of these I have several Sizes, from three Quarters to one Tenth of an Inch Diameter. When any one of these little Vessels is filled with Water, so as that it may stand above the Brims of the Cup, and has acquired a Spherical Surface (as it will do in the smallest Cups) let it be set on the Table with the little Stand to which it had before been screwed, or, which is better, upon the larger Stand mentioned above, the great Dish being taken off, and the small plain Top screwed on; being thus prepared, let the Tube be excited, and held over the Water at the Distance of about an Inch or more. If it be a large Tube, there will first arise a little Mountain of Water from the Top of the Drop, of a conical Form, from the Vertex of which there proceeds a Light (very visible when the Experiment is performed in a dark Room) and a snapping Noise, almost like that when the Fingers are held near the Tube, but not quite so loud, and of a more flat Sound: Upon this immediately the Mountain, if I may so call it, falls into the rest of the Water, and puts it into a tremulous and waving Motion. I have now a few Days since repeated this Experiment in the Day-time, where the Sun shined: I perceived that there were small Particles of Water thrown out of the Top of the Mount, and that sometimes there would arise a very fine Stream of Water from the Vertex of the Cone, in the manner of a Fountain, from which there issued a fine Steam, or Vapour, whose Particles were so small as not to be seen; yet it is certain that it must be so, since the under Side of the Tube was wet, as I found when I came to rub the Tube again; and I have since found, that though there does not always arise that Cylinder of Water, yet there is always a Steam of invisible Particles thrown on the Tube, and sometimes to that Degree as to be visible on it. When some of the larger Cups are made use of, they are to be filled as high as may be without running over: The Surface will be flat about the middle Part, but when the Tube is held over it, the middle Part will be depressed into a Concave, and the Parts towards the Edge be raised; and when the Tube is held over against the Side of the Water, the little conical Protuberance of Water issues out with its Axis horizontally, and after the crackling Noise, returns to the rest of the Water, and sometimes there will be thrown out of it small Particles of the same, as from the smaller Portions of Water above mentioned. I am,
+
+SIR,
+
+Charter-House, Jan. 20, 173½.
+
+The Society's and Your most Obedient Servant,
+
+Stephen Gray.
+
+ADDENDA Page 230.
+
+THE last Experiment was repeated with hot Water; when the Water was attracted much stronger, and at a much greater Distance: The Steam arising from the Vertex was in this Case visible, and the Tube was sprinkled with large Drops of Water. I tried the Experiment in the same Manner upon Quicksilver, which was likewise raised up; but by reason of its great Weight, not to so great an Height as the Water: The snapping Noise was louder, and lasted much longer than in the Water.
+
+## ITEM 15 — IV. A letter from Mr. Stephen Gray to Dr. Mortimer, Secr. R. S. Containing a farther account of his experiments concerning electricity
+
+Philosophical Transactions 37, no. 423 (1732), pp. 285–291. DOI: 10.1098/rstl.1731.0050
+
+*Editorial headnote — A farther account of his experiments, with his Catalogue of electrical bodies.*
+
+_Charter-House, June 7th, 1732._
+
+SIR,
+
+SINCE my last (N° 422) wherein I gave an Account of my Experiments, shewing Water will be attracted by Electrick Bodies, and that it may have an Electrick Vertue communicated to it, so as to attract solid ones, I have been upon another Enquiry; Whether there might not be a Way found to make this Property of Electrical Attraction more permanent in Bodies? How far I have succeeded in this Attempt, will appear by the Experiments I have made on the several Bodies mentioned in the following Catalogue; and as they were all of them prepared after the same manner, excepting Numb. 18 and 19, which shall be described afterwards, a general Description of the Method of preparing and preserving them in a State of Attraction, may suffice.
+
+The Bodies on which the Experiments were made, were Rosin both black and white, Stone-Pitch, Shell or Gum-Lac, Bees-Wax, and Sulphur. I procured three Iron Ladles of several Sizes, in which I melted these Substances, making use of that which I thought most convenient for the Quantity I designed to melt. When any of these Bodies were melted, they were taken off the Fire, and set by in the Ladle to cool and harden; then it was returned to the Fire, where it remained 'till it was melted about the Bottom and Sides of the Ladle, so as to be moveable, so that by inverting the Ladle, it might be taken out; having the Form of nearly the Section of a Sphere, the Convex Surface, as also the Plain one, being naturally (if I may so say) polished, excepting the Sulphur, which cools without retaining its Polish, except when cast in Glass Vessels, as shall be shewed hereafter. I shall now proceed to the Experiments and Observations made on these Electrick Bodies.
+
+When any of them were taken out of the Ladle, and their Convex Surface hardened, they would not at first attract, 'till the Heat was abated, or 'till they came to a certain Degree of Warmth, and then there was a small Attraction; which Warmth I estimated to be nearly that of a Hen's Egg when just laid: The Attraction encreasing so, as when cold, to attract at least ten times farther than at first.
+
+The manner of preserving them in a State of Attraction, was by wrapping them up in any thing that would keep them from the external Air; as at first for the smaller Bodies I use'd white Paper, but for the larger ones white Flannel; but afterwards found that black Worsted Stockings would do as well. Being thus clothed, they were put into a large Fir Box, there to remain 'till I had Occasion to make use of them.
+
+The Cylinder of Sulphur, Numb. 18, was made by melting the Sulphur, and pouring it into a Cylindrick Glass Vessel, which had first been heated, to prevent its cracking. When the Sulphur was hardened, it was somewhat less than the Glass; so that by inverting the Glass, it came out easily, and had a polished Surface almost as smooth as the Glass in which it was cast. The large Cone of Sulphur, Numb. 19, was made after the same manner, by being cast in a large Drinking-Glass.
+
+I am now to give an Account of the Observations made on the several Bodies mentioned in the Catalogue, but must first give a Description of the Catalogue. The first Column contains the Number, which in a small Piece of Paper is fixed on each of the several Bodies, the Name of which is given in the second Column, whether they are single or compound Substances. The third Column shews of what Weight they were of when melted, in Ounces and Drachms of Avoirdupois Weight. In the fourth Column you have the Days of the Month when the Body was melted and received its Form, and consequently when it first began to attract.
+
+I did for thirty Days continue to observe every one of these Bodies, and found that at the End of the said Time they attracted as vigorously as at the first or second Day, as they do now at the writing hereof. By the Times mentioned in the Catalogue, being subtracted from any Time after, will be shewed how long any of the Bodies have continued their Attractive Vertue; by which it will appear, that some of them have not lost their Attraction for more than four Months: So that we have some Reason to believe, that we have now discovered that there is a perpetual attractive Power in all Electrick Bodies, without exciting by either rubbing, beating, &c. or any other Attrition. But this will further appear by the Account I am now to give of the two last Bodies mentioned in the Catalogue. The Cone of Sulphur, Numb. 19, that was cast in a large Drinking-Glass, in about two Hours after it was taken out of the Glass, attracted, and the Glass attracted too, but at a small Distance. Next Day the Sulphur was taken out of the Glass, and then it attracted strongly, but there was now no perceivable Attraction of the Glass. Then the Cone of Sulphur was set with its Base upon the Lid of the Fir Box, wherein the other Electrick Bodies lay, and the Glass whelmed over it. I examined it every Day after, and still found it to attract; but finding the Place not so convenient, having Occasion to look into the Box often, I removed it to the Table that stands between the two Windows of my Chamber, where it has continued to this Time, and whenever the Glass is taken off, attracts at near as great a Distance as the Sulphur that is clothed and shut up in the Box abovementioned. And though at first there was no Attraction, when the Glass was taken off, yet I now find, that in fair Weather the Glass also attracts, but not at so great a Distance as the Sulphur, which never fails to attract, let the Wind or Weather be never so variable, as do all the other Bodies mentioned in the Catalogue; only in wet Weather the Attractions are not made at so great a Distance as in fair Weather.
+
+Number 20 is a Cake of Sulphur that was melted; and as the other Bodies have taken the Form of a Convex Section of a Sphere, this, when cold, was laid, with its flat Side downwards, on the same Table with the Cone of Sulphur. They were both placed so near the Wall, as to prevent the Sun shining on them. This was, as the Catalogue shews, on the 18th of April; and though it had no manner of Clothing or Covering, has attracted ever since. And in this, as in the other Bodies, the Attraction will be according to the Weather; but when it attracts the strongest, it is not more than the tenth Part of what the Cone of Sulphur, that is covered, attracts.
+
+The manner of observing these Attractions is best performed by holding the Attracting Body in one Hand, and a fine white Thread tied to the End of a Stick, in the other; by this means far less Degrees of Attraction will be perceived, than by making use of Leaf-Brass. When the Thread is held at the utmost Distance, it may be attracted; the Motion of it is at first very slow, but still accelerating as it approaches nearer to the attracting Body.
+
+I am now on the Subject of permanent Attraction in Glass, then in the other Bodies, but have not yet compleated those Experiments, meeting with more Interruption by the Weather.
+
+With a small Hand Air-Pump that was lent me by a Friend, I have made Experiments on several Bodies, and find that they will attract _in vacua_, and that at very nearly the same Distance as _in pleno_, provided that the Experiment be made in the same Receiver filled with Air; as will appear by the following Experiments.
+
+There was taken a hollow Glass Sphere, of somewhat more than 2½ Inches Diameter, being first excited. It was suspended by a Loop of Silk, that went through a small Cork, with which the Hole in the Glass Ball, by which it was blown, was stopped, and by the Loop suspended on a small Hook that was skrewed on to the Brass Wire that came through the Collar of Leather in the Brass-Plate that covered the Top of the open Receiver; as in the Experiment of letting fall the Guinea and Feather in vacuo. Then the Ball was drawn up to the Top of the Receiver, and the Top of the small Stand, covered with Paper, was laid on the wet Leather on the Plate of the Pump, and Leaf-Brass laid on the same. Then the Air was exhausted, when the Glass Ball was let down to about an Inch, or somewhat more, towards the Pieces of Leaf-Brass. Many of them were attracted by it. Then the Air was let into the Receiver, and the Leaf-Brass laid on the Stand, the Ball being, as before, suspended, was let down to about the same Distance from the Leaf-Brass as before, and there seemed to be very little Difference in the Attraction.
+
+I have made the same Experiments with Sulphur, Shell-Lac, Rosin, and white Bees-Wax. These would be attracted to the Height of an Inch and a half by Estimation; and when the Experiment was made with the Receiver full of Air, there was very little, if any Difference in the Height of the Attraction, when there was the same Time spent before the Attraction was begun in pleno, as there was required to exhaust the Receiver.
+
+_A CATALOGUE of the several Electrick Bodies mentioned in the foregoing Discourse._
+
+N° — Names of the several Bodies — Weight (Ounces, Drachms) — Month — Days.
+
+1. Fine black Rosin — 2 oz. 0 dr. — January 31
+2. Stone Pitch and black Rosin — 2 oz. 2 dr. — January 31
+3. Fine Rosin and Bees-Wax — 2 oz. 1 dr. — February 1
+4. Stone Pitch — 1 oz. 7 dr. — February 1
+5. Stone Sulphur — 3 oz. 6 dr. — February 4
+6. Shell-lac — 10 oz. 0 dr. — February 10
+7. Fine black Rosin — 10 oz. 4 dr. — February 11
+8. Bees-Wax and Rosin — 9 oz. 0 dr. — February 12
+9. Rosin 4, and Gum-lac 1 part — 10 oz. 0 dr. — February 12
+10. Sulphur — 18 oz. 0 dr. — February 15
+11. Stone Pitch — 10 oz. 12 dr. — February 16
+12. Black Rosin — 23 oz. 0 dr. — February 23
+13. White Rosin — 7 oz. 12 dr. — February 25
+14. Gum-lac — 11 oz. 14 dr. — February 26
+15. Gum-lac and black Rosin ana — 9 oz. 12 dr. — February 26
+16. Gum-lac 4 parts, Rosin 1 pt. — 17 oz. 8 dr. — February 28
+17. Shell-lac, fine black Rosin ana — 28 oz. 4 dr. — March 2
+18. A Cylinder of Stone Sulphur — 19 oz. 4 dr. — March 20
+19. A large Cone of Stone Sulphur — 30 oz. 0 dr. — March 29
+20. A Cake of Sulphur — 11 oz. 4 dr. — April 29
+
+SIR,
+
+Be pleased to communicate these to the _Royal Society_, to whom I hope they will be no less acceptable than some of my former Discoveries from me, who am,
+
+SIR,
+
+_Theirs, and your most Obedient Servant_,
+
+Stephen Gray.
+
+## ITEM 16 — I. Two letters from Mr. Stephen Gray, F. R. S. to C. Mortimer, M. D. Secr. R. S. containing farther accounts of his experiments concerning electricity
+
+Philosophical Transactions 37, no. 426 (1732), pp. 397–407. DOI: 10.1098/rstl.1731.0067
+
+*Editorial headnote — Two letters: experiments with the conveying line carried on silk supports, with Wheler at Otterden.*
+
+LETTER I.
+
+SIR,
+
+ACCORDING to my Promise, I herein give an Account of what farther I have discover'd relating to Electrical Attraction, which I should have done sooner, but was willing to see what farther Improvement I could make to those Experiments, at my Return to London, which were begun in the Country.
+
+About the latter End of _August_, being at Mr. Wheler's, after having repeated the Experiment of making Sulphur attract Leaf-Brass in vacuo, Mr. Wheler having a very good Air-Pump of the larger Sort, made by Mr. Hauksbee, we suspended from the Top of a Receiver, which was first exhausted of Air, a white Thread that hung down to about the Middle of the same: Then the Receiver being well rubbed, the Thread was attracted by it vigorously. When it was at rest, and hung perpendicular, the Tube was rubbed, and being held near the Receiver, the Thread was attracted towards that Side of it; if the Tube was removed slowly, the Thread returned to the Centre of the Receiver, but when moved swiftly, the Thread was attracted by the opposite Side of the Receiver: If the Hand was held near the Receiver, and moved hastily from it, the Thread was attracted by the opposite Side, as before. This seemed at first difficult to account for; but upon farther Consideration, we concluded it proceeded from the Motion of the Air made by the Tube, and in the other Case by that of the Hand, which took off the Attraction from that Side, and not on the other Side; so that, as Mr. Wheler very well expressed it, by this Means the Balance of the Attraction was taken off.
+
+We made another Experiment by suspending a Thread on the Top of a small Receiver, and whelming a large one over it; then by first rubbing this, and holding the rubbed Tube near it, the Thread in the middle Receiver was attracted to that Side of it where the Tube was held.
+
+_An Experiment shewing that Attraction is communicated through opacous as well as transparent Bodies, not in vacuo._
+
+There was taken a large Hand-Bell, the Clapper being first taken out, and a Cork suspended by a Thread from the Top of the Bell, the Cork being smeared over with Honey: Then the Bell was set on a Piece of Coach-Glass, which had been well rubbed, on which the Leaf-Brass was laid; then the Tube being rubbed, and held near the Handle of the Bell, and afterwards near the Top and Side of the same, the Bell being taken off, there were several Pieces of the Leaf-Brass sticking to the honey'd Cork that had been attracted by it: It appeared also that some others of them had been attracted by the Bell, being removed from the Places they were left in when covered by it.
+
+Some time after Mr. Wheler told me of an Experiment he had made in vacuo when I was gone from him. He took a small Receiver, and in it suspended a Thread, and over this four other Receivers, all exhausted, and the Thread was attracted through all the five Receivers, and he thought the Attraction was rather stronger than before, when a single Receiver only was made use of; but instead of wet Leather, he made use of a Cement I had recommended to him, viz. Bees-Wax and Turpentine, which was what Mr. Boyle made use of in his Experiments with the Air-Pump, and that, as I had told him, it was my Opinion the Attractions would be much stronger, the Steams of the wet Leather taking off some of the attracting Force.
+
+I shall now proceed to give some Account of the Experiments made at Mr. Godfrey's; the first of which was giving an Attraction by the Tube to a Boy suspended on Hair-Lines, and that by the Intervention of a Line of Communication, the attractive Vertue passes to another Boy that stands at several Feet distant from him. But before I go any farther, it may not be improper to give an Account of that Experiment of the attractive Power that is communicated to the Boy standing on Rosin, which though the Society have seen the Experiment, I have not given you any Account of it in Writing.
+
+June the 16th, 1731, in the Morning, I made the following Experiment on the Boy mentioned, causing him to become Attractive by suspending him on Hair-Lines. There was taken two Pieces of white Rosin made into round flat Cakes of somewhat more than eight Inches Diameter, and two Inches thick. These were laid down on the Floor of my Chamber, so near together, that the Boy might stand with one Foot upon one, and the other upon the other Cake of Rosin: Then the Leaf-Brass being laid under his Hands, the Tube rubb'd and held near his Legs, caused both his Hands to attract and repel the Leaf-Brass to the Height of several Inches: Or if there was laid Leaf-Brass under one Hand, and the Tube held near the other Hand, there was an Attraction communicated to the farther one; and when the Tube was applied either to his Hands or Feet, there was an Attraction given to his Cloaths; so that a Piece of white Thread being held by one End, the other End would be attracted at near the Distance of a Foot; so that the Attraction is altogether as strong, if not stronger, than when the Boy was suspended on Hair-Lines.
+
+I come now to the above-mentioned Experiment: One of the Boys being suspended on the Hair-Lines, and the other standing upon the two Cakes of Rosin, the Boys holding Hands with each other, under the Boy's Hand that stood on the Rosin was laid the Leaf-Brass; then the Tube being rubb'd, and held near the Boy's Feet that hung on the Hair-Lines, the Hand of the Boy that stood on the Rosin attracted strongly. Then there was taken a four Foot Rule, and given to the Boys to hold by each End, and there was the same Vertue of Attraction given to the other Boy as before. After this a Line of Packthread was given them to take hold of by the Ends, and there was an Attraction communicated from one End to the other, with as much Vigour as by any of the other Methods before mentioned. This Experiment was made September 13, 1732.
+
+September 14 I first made the following Experiment. There was taken a Rod which was composed partly of Wood and partly Cane: It was twenty-four Feet in Length, and in Form not unlike two Fishing-Rods supposed joined together at their bigger Ends. This Rod was suspended Horizontal by two Threads of Silk: Over this, at about two Feet from the End, was suspended a small hazel Wand, about five Feet long, at right Angles to it, but not touching the Rod: Then going to the other End of the Rod, the Tube being excited and held near it, repeating the same three or four times as usual, and going to the hazel Wand with a small white Thread, I found that it was attracted to it when held near to any Part thereof. The next Day Mr. Wheler came to Mr. Godfrey's, and now, by their Assistance, I repeated the Experiment, and we found that by suspending the Wand at several Heights, we could perceive there was an Attraction, when it was at the Height of more than twelve Inches. I shall now give some Account of my repeating, and what farther Improvements I have made to some of these Experiments since my Return to London.
+
+September 29th I repeated the Experiment on two Boys, first setting one of them on Cakes of Rosin, and the other being suspended on the Hair-Lines, and the Effect was the same as hath been above related. I then caused both the Boys to stand on Cakes of Rosin, giving them to hold a Part of a Spanish Cane-Fishing-Rod that was eight Foot long, one Boy holding one, and the other Boy the other End of the Rod; then the Leaf-Brass being laid on the Stand, and one of the Boys holding his Hand over it, I went to the other Boy, and the excited Tube being held near the Palm of his Hand, the first Boy's Hand attracted and repelled the Leaf-Brass strongly. Then there was a Piece of Packthread given them to hold by each End, about the same Length with the Rod, viz. eight Feet long. Under each of their Hands was laid Leaf-Brass; then going to the middle of the Line, holding the Tube near it, the farther Hand of both the Boys attracted the Leaf-Brass with so much Vigour, that it is not to be doubted that had the Line been much longer, they would have attracted at a far greater Distance. I then caused the Boys to stand on the Cakes of Rosin, so as to let the Flaps of their Coats touch, and then by holding the Tube to one of their Hands, the other Hand attracted, but not with more Force than when they were distant the Length of the Line. Then they stood so much farther as not to let their Coats touch by about an Inch, and then exciting one of them to attract, the other received not the least Degree of Attraction. I then bid one Boy put his Finger upon the other Boy's Wrist, and then he immediately became Electrical.
+
+October the 4th I made the following Experiment. A Fishing-Rod of about ten Feet eight Inches long, being horizontal, and over it, towards the lesser End, a small Rod, being the Top End of another Fishing Rod, at the lesser End, which was Whale-Bone, there was put on a Ball of Cork two Inches Diameter, the small Rod touching the great one; then the Tube being excited, and held near the great End of the great Rod, applying it as usual; then going to the Cork with a pendulous Thread, I found it attracted it at the Distance of at least two Inches. Then the Rod was moved higher, so as not to touch the End of the long Rod, by Estimation about an Inch, and after several Trials, there was a visible Attraction, when the little Rod that carried the Ball was above the great one thirty-four Inches.
+
+October the 5th, I took a Line of Packthread seventeen Feet four Inches long, with silk Lines tied to the Ends of the Packthread, one of them about four, the other two Feet long, near two of the opposite Corners of my Chamber, where in each of them was drove a Hook at about three Foot and a half high, to which the Ends of the Silk were fastened, drawn so tight as to bear the Packthread nearly Horizontal. Then the small Part of the Fishing-Rod was suspended over the Packthread at about four Feet from the End; then the Tube being applied to the other End of the Packthread, the Cork Ball at the End of the little Rod was attractive, and at several Removes, to the Height of forty-seven Inches, there was a visible Attraction of the pendulous Thread.
+
+October the 6th, instead of the small Rod, I took a Packthread about four Feet long, and having tied silk Threads to each End, by which the Thread was suspended over the longer Line Horizontal, and at right Angles nearly to the said Line, which was by tying the Ends to perpendicular Lines of Packthread that were fastened to Hooks at each End, and had sliding Knots on them, so that the cross Line might be moved higher or lower as there was Occasion for it; upon one End of this Line I put a Ball of Cork, and found, that when the first Line had been excited the Vertue was carried up to the second Line, and caused the Cork Ball to attract. I then took off the Cork Ball, and put one of Ivory in its Place, and this attracted after the same manner; and afterwards I hung two Ivory Balls, one at one End, and the other at the other End of the Line, and found there was a sensible Attraction when the Line that supported them was raised thirty-eight Inches above the Line of Communication.
+
+October the 30th I repeated this Experiment, and now when the Line that supports the Ivory Balls was elevated about an Inch above the communicating Line, either Ball attracted the Thread at the Distance of more than a Semi-diameter of the Ball, and at the Height of ten Inches, at least half the same Distance.
+
+By these Experiments we find, that the Electrick Vertue may not only be carried from the Tube by a Rod or Line to distant Bodies, but that the same Rod or Line will communicate that Vertue to another Rod or Line that is at a Distance from it, and by that other Rod or Line the Attractive Force may be carried to other distant Bodies. I am,
+
+SIR,
+
+Yours, and the Royal Society's, Most Obedient Humble Servant,
+
+Charter-House, Oct. 15, 1732.
+
+Stephen Gray.
+
+LETTER II.
+
+SIR,
+
+THE Subject of Electrical Attraction at a Distance, without any Contact of the Line of Communication either by the Tube, or the said Line not touching the Attracting Body, being so very surprizing, I presume the following Account of the Experiments I have since my last made on that Subject, may not be unacceptable to the Society.
+
+A small Hoop of about twenty Inches Diameter, and an Inch and a half in Breadth, being suspended by two Threads of Silk, so as that it hung perpendicular, and in a Plane at right Angles to the horizontal Line of Communication, which pass'd through, or at least very near to the Center of the Hoop, I went to the End of the said Line, and applying the excited Tube near it, there was an attractive Influence communicated to the Hoop in all Parts of it. Then by a Skrew-Hole made in the Side of the Hoop for that Purpose, I skrewed it upon the Top of a Pedestal that was about two Feet and a half in Height, setting it upon a Cake of Rosin, so as that the before mentioned Line might pass through the Center of the Hoop, and found that whether the Hoop was placed so as its Plane was at right Angles, or in any other Angle with the Line of Communication, the Hoop attracted after the same manner as it had done when suspended on the silk Lines.
+
+Some time after I made the following Experiment. Into the Nose of a Glass Funnel I put the larger End of the Top of a small Fishing-Rod, and upon the lesser End a Ball of Cork; then the Funnel was set on the Floor of the Room so as that the Rod was at some Inches distance from the Line of Communication; then the Tube being excited, and applied near the End of the Line, the Electrick Vertue was conveyed by it to the Cork Ball, and it attracted strongly when the Ball was, by Estimation, not less than two Feet Distance from the aforesaid Line.
+
+December 11, there being a hard Frost, and a fair Day, I repeated the Experiment, making use of a large Hoop that was about forty Inches Diameter, and setting it perpendicular upon a hollow Cylinder of Glass, which was six Inches long, and five Inches and a half Diameter, so placing the Hoop that the Line of Communication might pass through, or at least very near to the Center of the Hoop; then applying the Tube to the End of the Line, there was an Attraction communicated to all Parts of the Hoop, attracting a pendulous white Thread at the Distance, by Estimation, of about half an Inch. I then set the Hoop so as the inward Surface of the Hoop might touch the Line, and then communicating an Attraction by the excited Tube to the Packthread, the attractive Vertue was carried by it to the Hoop, and caused it to attract with that Force, as with the remotest Part of the Hoop to attract the Thread at a Distance, by Estimation, of about four Inches.
+
+Some time after the foregoing, I made the following Experiment. The large Hoop being set upon the Glass Cylinder, and the Packthread, passing through, or near its Center, the Tube being applied near the Hoop, gave it a strong Attraction, so that it would attract a Thread at the Distance of seven or eight Inches, and at the same time there was an Attraction communicated to the Packthread. Then I suspended an Ivory Ball, of two Inches Diameter, at the other End of the Packthread, and applying the Tube to the Hoop, there was an Attractive Vertue carried to the Ball, and it would attract the pendulous Thread at the Distance of near an Inch. I then placed the Ball in or near the Center of the Hoop, and now it was so far from being attracted, that it was repelled by the Ball, but was attracted by the Packthread passing to it in the Arch of a Circle, whose Center seem'd to be that of the Ball.
+
+This is all that I have at present to communicate, who am,
+
+SIR,
+
+The Society's, and your Most humble Servant,
+
+Stephen Gray.
+
+## ITEM 17 — V. Experiments and Observations upon the Light that is produced by communicating Electrical Attraction to animal or inanimate Bodies, together with some of its most surprising Effects; communicated in a Letter from Mr. Stephen Gray, F. R. S. to Cromwell Mortimer, M. D. R. S. Secr.
+
+Philosophical Transactions 39, no. 436 (1735), pp. 16–24. DOI: 10.1098/rstl.1735.0006
+
+*Editorial headnote — On the light produced by communicating electrical attraction to bodies. Letter dated Charterhouse, 28 January 1734/5.*
+
+SIR,
+
+Charter-House, Jan. 28th, 1734-5.
+
+IT is now some Months ago that I promised to give the _Society_ an Account of what Experiments I had then made; but soon after there occurr'd to my Thoughts several others, which I was willing to try the Success of; which Experiments requiring an Addition to the _Apparatus_, that I might make them more compleat, I hope will be a sufficient Apology for this Delay.
+
+I see you have published Mr. _Dufay's_ Letter to the Duke of _Richmond_, in the _Philosophical Transactions_, Nº 431. 'tis no small Satisfaction to me, that my Electrical Discoveries have not only been confirmed by so judicious a Philosopher as Mr. _Dufay_; but that he has made several new ones of his own, more especially that important luciferous one, which put me upon making the Experiments I am now going to relate.
+
+I shall first give some Account of the Experiments made the last _Spring_, soon after I received the Translation of Mr. _Dufay's_ Letter; then of those we made at my honoured Friend's, _Granvill Wheler, Esq; F. R. S._ in the Months of _July_ and _August_; and lastly proceed to those I have made since my Return to _London_, which was in _September_ last.
+
+As I had not any silk Lines by me strong enough to bear the Boy, I caused him to stand on some of the Electric Bodies; and, as I concluded, found the Effect the same as mentioned by Mr. _Dufay_. I shall not need to mention the Particulars of that Experiment, but proceed to those that were suggested to me upon Mr. _Dufay's_ saying, that these Snappings or Sparks are not excited, if a Piece of Wood, or any other Substance than a living Body, be passed over the Person suspended on the Lines, unless it be a Piece of Metal: From thence I concluded, that if I suspended the Metal upon silk Lines, or laid it upon any of the Electric Bodies, the Effect must be the same, when the Metal had been made Electrical by the Tube, and the Hand of any one was held near it, and found it succeeded accordingly. I began first with some common Utensils that were at Hand, such as the Iron Poker, Tongs, and Fire Shovel; any of these being suspended upon Lines of the largest sewing Silk then the excited Tube, being applied first to the Knob of the Poker, and after it the Hand, there was the Snap and Pricking felt, as I expected; and the Effect was the same, when the Tube was first applied to the other End of the Poker. I had by me a three pronged Iron Instrument, which was made many Years ago; its Use was designed for propping up the Observatory Table, when I observed the Spots in the Sun; the Prongs were about half an Inch Diameter, two of them about 22 Inches, and the third about 8 Inches long; they were tapering towards the Ends, and pointed: this being laid either upon Cylinders of Glass, Cakes of Rosin and Bees Wax, or on a Cake of Sulphur, the Tube being applied to the End of any of the Legs, the Hand or Cheek being applied near the other, both the other Legs had the same Effect as that to which the Tube had been applied; but by holding my Cheek near any of the Points of the Legs, the pricking or burning Pain was much more sensibly felt, and was sometimes felt for several Minutes after. I was not so inquisitive at that Time about making the Experiment in the Dark, that I might see the Light proceeding from the Iron, not thinking the Electricity communicated to the Metals would have produced so surprising Phænomena, as by the following Account of the Experiments will be described.
+
+1. I come now to give some Account of the Experiments we made at Mr. _Wheler's_, beginning first with the Success we had in repeating Mr. _Dufay's_ Experiment. Mr. _Wheler_, soon after my coming to him, procured silk Lines strong enough to bear the Weight of his Footboy, a good stout Lad; then having suspended him upon the Lines, the Tube being applied to his Feet or Hands, and the Finger of any one that stood by held near his Hands or Face, he found himself pricked or burnt, as it were by a Spark of Fire, as Mr. _Dufay_ had related, and the snapping Noise was heard at the same Time; but it did not succeed with us, when we applied our Hands to any part of his Body through his Cloaths, except upon his Legs, upon which he felt the Pain through his Stockings, although they were very thick ones.
+
+2. Being desirous to make the Experiment upon another Species of Animals, we took a large white Cock, and suspended him upon the Lines first alive, and the Effect was the same as on the Boy, whether we applied our Fingers to any Part of his Body, or our Cheek to his Beak, Comb or Claws; then the Cock was killed, and put on the Lines again, and we found very little, if any, Difference, from the Effect it had on us when the Cock was living: We then caused the Cock to be stripped of his Feathers, and the Difference from what has been said before was not very great.
+
+3. We took a large Sirloin of Beef, that came from an Ox that had been killed two Days before, and suspended it on the silk Lines; then the Fingers held near any Part of it, there was a Snapping, and the Fingers were pushed or pricked; but the Snapping was thought not to be quite so loud as when the Experiment was made on the Cock.
+
+4. We caused to be made an Iron Rod, 4 Foot long, and about half an Inch Diameter, pointed at each End, but not sharp, being left about the Bigness of a Pin's Head, this being suspended on the Lines; then the Tube being rubb'd, and held near one End of the Rod, and then the Finger or Cheek being put near either End of the Rod, the Effect was the same as when an Animal had been suspended on the Lines, with respect to the pricking Pain we felt.
+
+5. At Night we made the luminous Part of the Experiment, suspending the Iron Rod on the silk Lines; then applying one End of the Tube to one End of the Rod, not only that End had a Light upon it, but there proceeded a Light at the same Time from the other, extending in Form of a Cone, whose Vertex was at the End of the Rod, and we could plainly see that it consisted of Threads, or Rays of Light, diverging from the Point of the Rod, and the exterior Rays being incurvated. This Light is attended with a small hissing Noise; every Stroke we give the Tube, causes the Light to appear: the Hissing seems to begin at that End of the Rod next the Tube, and as it comes, increases in its Loudness, but it is so small as not to be heard without good Attention, and by those only that stand at that End of the Rod from whence the said Light proceeds.
+
+Mr. _Godfrey_ being desirous to see these Experiments, I repeated them, by laying a Rod of Iron upon a Cake of Shell-Lake, which was laid upon a Glass Vessel; but the Effects being much the same with what has been above-mentioned, I shall not need to mention any other Particulars.
+
+1. I shall now proceed to give some Account of the Experiments I have made since my Return to _London_, which was in _September_ last. I caused three Iron Rods to be made, one of four Feet long, two, each three Feet in Length; one of these was made tapering toward the Ends, and pointed as that of four Feet was; the other pointed at one End, and the other End not pointed, the Diameter of the Rods about half an Inch; they were first forged, then filed and burnished. With these I made the following Experiments: When any of them were laid either upon the Brims of hollow Cylinders of Glass well warmed, or upon Cakes of Rosin and Bees Wax, or upon those of Sulphur, the Phænomenon was the same as when they had been suspended on Silk Lines: But now I discover'd another very surprising one, _viz._ that after the Tube had been applied, and the Light seen at both Ends, upon my going to the other End of the Rod, when there was no Light to be seen, upon holding my Hand at some distance from it, then moving my Hand towards it with a pretty swift Motion, there issued from that Point of the Rod a Cone of Light, as when the Tube had been applied to the other End; and upon repeating this Motion of my Hand, the same Phænomenon appear'd for five or six times successively, only the Rays were each time shorter than the other; these Lights are also attended with a hissing Noise: That Light which appears upon that End next the Tube, when it is held obliquely to the Axis of the Rod, has its Rays tending towards it: All the Time I am rubbing the Tube, these Flashes of Light appear upon every Motion of my Hand up or down the Tube, but the largest Flashes are produced by the Motion of my Hand downwards.
+
+2. When two or three Rods are laid either in a right Line, or making any Angle with each other, or either touch, or are at a small Distance from one another, the Tube being applied to one of their Ends, the furthest End of the further Rod, exhibits the same Phænomena as one single.
+
+3. An Experiment with the Rod that was pointed at but one of its Ends. When the Tube is applied to the other End of the Rod, the Point gives the same Appearance and alike Effect with the Rods, that are pointed at each End; but the great End of the Rod, when the Hand or Cheek is applied near it, gives but one single Snap; but this is much louder than the greatest of those from the Point of the Rod, and one feels a little more Pain by it.
+
+4. I caused an Iron Ball to be forged, and then turned and burnished; 'twas two Inches Diameter, which being placed on a wooden Stand, that had a small Concave at the Top, in which the Ball was placed; the Stand being set upon a Cylindrick Glass, then the excited Tube being applied near the Ball, there proceeded a Stream of Light from it, with a small hissing Noise; then putting my Finger or Cheek near the Ball, there was no Snapping, nor any Pain felt, yet there appeared a very bright Light.
+
+5. The Rod of four Feet long, being placed upon a Stand, that had a cross Arm with a Groove in it to receive the Rod; then the Stand being placed on the Glass Cylinder, they were set at such a Distance, as that one of the Points of the Rod might just touch the Ball over against its Centre; then going to the other End of the Rod with the prepared Tube, and applying it as usual, when I came to the Ball, the Hand or Cheek being near it, caused a loud Snap, compared to those made by the Points of the Rods, and the Pain of pricking or burning was more strongly felt, the Light also was brighter and more contracted: I then placed the Rod with its Point at an Inch distance from the Ball, and applying the Rod as before, I came to the Ball, and touching it with my Hand or Finger, there not only appeared a Light on the Ball, but there also proceeded a Brush of Light from the Point of the Rod after the same manner as when the Experiments had been made with the Rods only.
+
+6. An Experiment made with the four Feet Rod, and a Brass Plate four Feet square. This was placed upon a Stand, so that the Plate stood perpendicular, the Stand being set on the Cylindrick Glass; then the Rod with its Stand and Glass was set so as that one Point of it was about an Inch from the Centre of the Plate; then the Tube being applied to the other End of the Rod, and after going to the Plate, on striking it gently with my Finger on the back Side, a Light appeared upon the Plate, and at the same time the Brush of Light came out from the Point of the Rod; and when my Hand or Cheek was held near any of the Angles of the Plate, there was a Light came from thence with a small hissing Noise, and the Pricking was felt as when the Experiments were made with the pointed Rods.
+
+7. A Pewter Plate being laid upon the Stand, which had been set upon a Glass Cylinder, the Tube first, and then the Finger applied, there appeared a Light upon the Plate, and the End of the Finger was pushed; and when the Cheek was held near the Edge of the Plate, there was a Snapping heard, but not so loud as when the Iron Rods were used. I then filled the Plate with Water, and applying the Tube and Finger as before, there was the same Light, pushing of the Finger, and Snapping, as when the Experiment was made with the empty Plate. When the Experiment is made with Water by Day-light, by applying the End of the Finger near the Surface of the Water, it appears to rise in a little Hill, and upon the snapping Noise falls down again, putting the Water into a waving Motion near the Place where the Water had risen.
+
+8. I then took a wooden Dish, and placed it upon the Stand first empty; then applying the Tube, and the Finger held near the Dish, there appeared a Light, but no pushing of the Finger nor Snapping: I then filled the Dish with Water, and the Tube being held over the Surface of the Water, there appeared a greater Light than when the Finger had been applied to the empty Dish, but no Snapping, till by holding the Tube after it had been well rubbed, within two or three Inches of the Finger that was held near the Surface of the Water, and then the Finger was pushed, and a snapping Noise heard, as when the Experiment was made with the Pewter Plate.
+
+By these Experiments we see, that an actual Flame of Fire, together with an Explosion, and an Ebullition of cold Water, may be produced by Communicative Electricity; and altho' these Effects are at present but in _minimis_, it is probable, in Time there may be found out a Way to collect a greater Quantity of it; and consequently to increase the Force of this Electrick Fire, which, by several of these Experiments (_Si licet magnis componere parva_) seems to be of the same Nature with that of Thunder and Lightning.
+
+SIR,
+
+Your's and the Society's Most Obedient Humble Servant,
+
+Stephen Gray.
+
+## ITEM 18 — VI. A Letter from Stephen Gray, F. R. S. to Dr. Mortimer, Secr. R. S. containing some Experiments relating to Electricity
+
+Philosophical Transactions 39, no. 439 (1735), pp. 166–170. DOI: 10.1098/rstl.1735.0028
+
+*Editorial headnote — Experiments relating to electricity, June 1735.*
+
+THE following Lines contain an account of what Electrical Experiments I have made since those I last communicated to the Society which was in _February_ last. _February_ the 18th, I tried what Effect would be produced on several Sorts of Wood with respect to the luminous Part of Electricity: the Wood was made into Rods of the same Form with those Iron Ones mentioned in my former Letter upon this Subject; the Woods made use of were Fir, Ash and Holly; these being successively disposed upon Electrick Bodies, after the same manner as the Iron Rods had been, the Tube being applied to one End, there appeared a Light on it, but not with so great a Force, nor did the Light extend to so great a length; neither was the Form of it Conical, but rather Cylindrical; but the Extremity of it seemed to consist of a short Fringe of Light; when the Light, that was given to the Rod by the application of the Tube, did cease, upon a motion of my Hand towards the Point of the Rod, the Light came out again, as has been mentioned of the Iron Rods; but when the Hand or Finger was held near the Point of these wooden Rods, there was no pricking or pushing of the Finger felt, as when the Iron Rods were made use of. I had some of these Rods made much bigger at one End than the other, and now applying my Finger to the larger End, there not only appeared a Light, but the Finger was pushed, more especially when the Holly Rod was made use of, and the Cheek was a little prick'd, but the Smart was not near so great, as when the Iron Rods were used; the great End of the Rod was pointed with a much larger Angle then the lesser one, yet there was very little, if any difference, in the form, or bigness of the Light that proceeded from either End.
+
+Having procured me two pair of Lines made of Worsted Yarn, one of them of a Mazareen Blew, the other of a Scarlet Colour; on the 3d of _April_, I suspended the Boy first on the Blew Lines, and found that all the Effects were the same, as when he was suspended on Lines of Blew Silk. I then suspended him upon the Scarlet Lines, but now though the Tube were as well excited, and the Experiment often repeated, yet there was no Effect produced on him, either of attraction of a pendulous Thread, nor of pricking or burning, by applying one's Hand near him; I then laid one of the Iron Rods first upon the Blew Lines, and all the same Effects were exhibited, as when the same Rod had been laid on Silk Lines of that Colour; but upon laying the same Rod upon the Scarlet Lines, no manner of attraction, &c. was perceived.
+
+In the Philosophical Transactions, _Numb. 422._ I gave an Account of the Experiments I made upon the communicative Electricity of Water, and that Water is attracted by the Tube, together with several remarkable Circumstances with which this attraction is attended; but I have now found, that when the Stand with those little Ivory Cups there mentioned, be set upon any Electrick Body, the same Phænomena are produced, not only by holding the Tube near the Water, but when that is removed, and the Tip of the Finger placed over the Water, _viz._ there is a little Hill, or Protuberance of Water of a Conical Form, from the Vertex of which proceeded a Light and a small Snapping.
+
+_May_ the 6th, we made the following Experiment. The Boy being suspended on the Silk Lines, and the Tube being applied near his Feet as usual; upon his holding the End of his Finger near a Gentleman's Hand, that stood on a Cake made of Shell Lack and black Rosin; at the same time another Gentleman stood at the other side of the Boy with the pendulous Thread; then the Boy was bid to hold his Finger near the first Gentleman's Hand, upon which it was prick'd, and the snapping Noise was heard; and at the same time, the Thread which was by its attraction going towards the Boy fell back, the Boy having lost a great part of his attraction, upon a second moving his Finger to the Gentleman's Hand, the attraction ceased: then the Thread being held near that Gentleman, he was found to attract very strongly; but having since repeated this Experiment, I find that though the attraction of the Boy is much diminished, yet he does not quite lose it, till 2, 3, and sometimes 4 applications of his Finger to the hand of him that stands on the Electrick Body, but without touching him. At another time I caused three Persons to stand, one of them upon a Cake of Shell Lack, &c. the other upon one of Sulphur, the third upon a Cake of Bees-Wax and Rosin; the Persons all holding Hands, the Boy applying his Finger near the first Man's Hand, they all three became Electrical, as appeared by the attraction of the Thread, when held near to any of them.
+
+POSTSCRIPT.
+
+_A Repetition of some of these Experiments, and an Addition of some others made June the 10th._
+
+_June_ the 10th in the Morning, I repeated the Experiments with the Wooden Rods, the most material Ones of which were made with the Holly Rod: This being laid on the Glass Cylinder, and a Fir Board about a Foot Square and three tenths of an Inch thick being placed erect upon a Stand, that was set on another Glass Cylinder, so that the Center of the Board was placed near the Point of the Rod, but not to touch it by near half an Inch; then the Tube being held near the great End of the Rod, there issued out a Light from the little End of the Rod, which was that next the Board; and, as the Boy told me, it came along with a hissing Noise, and struck against the Board: When he touched the Board, there was a Light; and, at the same time, another on the End of the Rod, but he heard no snapping nor pricking of his Finger, as when the Brass Plate and Iron Rod were made use of.
+
+_Experiments with the Scarlet and Blue Worsted Yarn repeated._
+
+When the Boy was suspended upon the Scarlet Lines, he attracted the white Thread at a very small Distance, but the Attraction ceased in about 6 or 7 Seconds of Time. Then the Boy being taken off, an Iron Rod was laid on the Lines, but there was no attraction of the Thread by the Body of the Rod; but when the Thread was held near either of the pointed Ends of it, there was a small Repulsion of it, and in the Dark a very small Light was seen at each End of the Rod.
+
+When the Boy was suspended upon the Blue Lines, he attracted the Thread to him when it was held at least a Foot distance from him, and continued his attraction to near 75 Seconds, the Iron Rod continued its attraction not more than 36 Seconds.
+
+_Experiments made in the Afternoon upon the Boy when he was suspended upon Silk Lines of several Colours._
+
+When he was suspended on the Blue Lines, he continued his Attraction 50 Minutes, on the Scarlet Lines 25 Minutes, on the Orange coloured Lines 21 Minutes.
+
+By these Experiments we see the Efficacy of Electricity upon Bodies suspended upon Lines of the same Substance, but of different Colours, and also that the Attraction continues much longer upon Silk than upon Yarn, and consequently Silk is the properest Body we can make use of to suspend those Bodies upon, to which we would communicate an Electricity: But of this Subject more when I shall reassume the Experiments concerning the Influence of Colours upon Electricity; who am,
+
+SIR,
+
+Charter House, June 12, 1735.
+
+Your's and the Society's most Humble and obedient Servant,
+
+Stephen Gray.
+
+## ITEM 19 — II. Mr. Stephen Gray, F. R. S. his last Letter to Granville Wheler, Esq; F. R. S. concerning the Revolutions which small pendulous Bodies will, by Electricity, make round larger ones from West to East as the Planets do round the Sun
+
+Philosophical Transactions 39, no. 441 (1736), p. 220. DOI: 10.1098/rstl.1735.0044
+
+*Editorial headnote — His last letter: small bodies made to revolve round larger ones by electricity, as the planets do round the Sun. Dated London, 6 February 1735/6.*
+
+I HAVE lately made several new Experiments upon the projectile and pendulous Motion of small Bodies by Electricity, by which small Bodies may be made to move about larger ones, either in Circles or Ellipses, and that either concentrical or excentrical to the Center of the larger Bodies about which they move, so as to make many Revolutions about them; and this Motion will be constantly the same Way that the Planets move about the Sun, _viz._ from the Right to the Left, or from West to East: But these little _Planets_, if I may so call them, move much faster in their _Apogeon_, then in the _Perigeon_ Parts of their Orbits; which is, as you very well know, directly contrary to the Motion of the Planets about the Sun. I have not yet communicated these Experiments to the Royal Society, being in hopes of making some farther Discovery, or at least of shewing them after somewhat more elegant a manner than I make them at present, when you may expect to hear a farther Account of them from
+
+SIR,
+
+London, Feb. 6th, 1735/6.
+
+Your most Obedient Humble Servant,
+
+Stephen Gray.
+
+## ITEM 20 — VIII. An Account of some Electrical Experiments intended to be communicated to the Royal Society by Mr. Stephen Gray, F. R. S. taken from his Mouth by Cromwell Mortimer, M. D. R. S. Secr. on Feb. 14, 1735-6. being the Day before he died
+
+Philosophical Transactions 39, no. 444 (1736), pp. 400–403. DOI: 10.1098/rstl.1735.0082
+
+*Editorial headnote — The deathbed dictation: experiments taken from his mouth by Cromwell Mortimer on 14 February 1735/6, the day before he died. The book's text closes here, as his work did.*
+
+EXPERIMENT I.
+
+TAKE a small Iron Globe of an Inch or Inch and half Diameter, which set on the Middle of a Cake of Rosin of about seven or eight Inches Diameter, having first excited the Cake by gently rubbing it, clapping it three or four times with the Hands, or warming it a little before the Fire; then fasten a light Body, as a small Piece of Cork, or Pith of Elder, to an exceeding fine Thread, five or six Inches long, which hold between your Finger and Thumb, exactly over the Globe, at such an Height, that the Cork, or other light Body, may hang down about the Middle of the Globe: This light Body will of itself begin to move round the Iron Globe, and that constantly from West to East, being the same Direction which the Planets have in their Orbits round the Sun. If the Cake of Rosin be circular, and the Iron Globe placed exactly in the Centre of it, then the light Body will describe an Orbit round the Iron Globe, which will be a Circle; but if the Iron Globe be placed at any Distance from the Centre of the circular Cake, then the light Body will describe an [_Elliptical_] Orbit, which will have the same Excentricity as the Distance of the Globe from the Centre of the Cake.
+
+If the Cake of Rosin be of an Elliptic Form, and the Iron Globe be placed in the Centre of it, the light Body will describe an Elliptical Orbit of the same Excentricity as the Form of the Cake.
+
+If the Iron Globe be placed in or near one of the _Focus's_ of the Elliptic Cake, the light Body will move much swifter in the _Apogeè_ Part of the Orbit, than in the _Perigeè_ Part, contrary to what is observed of the Planets.
+
+EXPERIMENT II.
+
+Take the same or such another Iron Globe, and having fasten'd it on an Iron Pedestal about one Inch high, set it on a Table, then set round it a Glass Hoop or Portion of an hollow Glass Cylinder of seven or eight Inches Diameter, and two or three Inches high: This Hoop must be first excited by warming and gently rubbing it, then hold the light Body suspended as in the first Experiment, and it will of itself move round the Iron Globe from West to East in a circular Orbit, if the Hoop be circular and the Globe stand over the Centre of it, but in an Elliptic Orbit with the same Excentricity, if the Globe does not stand in the Centre of the Hoop, as in the first Experiment, when the Globe does not stand on the Centre of the Cake.
+
+[What will happen if the Hoop be Elliptic, he did not mention; I suppose, he had not an oval Glass Hoop by him.]
+
+EXPERIMENT III.
+
+This same Iron Globe being set on the bare Table, without either the Cake of Rosin or Glass Hoop, the small light Body being suspended as in Experiments I, II. will make Revolutions round it, but slower and nearer to it than when it is placed on a Cake of Rosin, or within a Glass-hoop.
+
+REMARKS.
+
+He had not yet found that these Experiments would succeed, if the Thread, by which the light Body was suspended, was supported by any other Thing than an Human Hand; but he imagin'd it might happen the same, if the Thread should be supported or fasten'd to any animal Substance whatever; and he intended to have tried the Foot of a Chicken, a Piece of raw Flesh, or the like.
+
+He imagin'd to explain the foregoing Particular, by the following odd Phænomenon, of which, he assur'd me, he was very certain, having often observ'd it, _viz._ If a Man resting his Elbows on his Knees, places his Hands at some small Distance from each other, they will gradually accede to each other, without any Will or Intention of the Man to bring them together; and they will again recede of themselves. In the like manner, the Hand will be attracted by the Body; or the Face of a Man, if he stand near a Wall, will be attracted to the Wall, and be again repelled by it.
+
+He told me, he had thought of these Experiments only a very short Time before his falling sick, that he had not yet tried them with variety of Bodies, but that from what he had already seen of them, which struck him with new Surprize every Time he repeated them, he hoped, if God would spare his Life but a little longer, he should, from what these Phænomena point out, bring his Electrical Experiments to the greatest Perfection; and he did not doubt but in a short Time to be able to astonish the World with a new Sort of _Planetarium_ never before thought of, and that from these Experiments might be established a certain Theory for accounting for the Motions of the Grand _Planetarium_ of the Universe.
+
+In trying these Experiments since his Death, I have found that the small light Body will make Revolutions round a Body of various Shapes and Substances, as well as round the Iron Globe, if set on the Cake of Rosin; thus I tried with a Globe of black Marble, a Silver Sand-dish, a small Chip-box, and a large Cork. I observed that the Cake, if nothing stood upon it, would in any Part strongly attract the light Body, as held suspended by the Thread; but when the Globe, or other Body, was set upon it, the Edges of the Cake attracted the strongest, and so gradually the Attraction seem'd as it approached the Centre to grow less, till at a certain Distance it was changed into a Repulsion, which proceeded from the Globe, or other Body placed upon the Cake, which very strongly repels the light Body, unless it be held very near it, and then it attracts it strongly. While the light Body is suspended, as in the foregoing Experiments, if you approach the Finger of the other Hand near it, it will fly from the Finger, or be repelled by it with great Vigour.
+
+* * *
+
+# APPENDIX — THE COLLABORATOR'S TESTIMONY, 1740
+
+*Editorial note — The appendix prints, in page order, the whole of the testimony in Philosophical Transactions no. 453 (1740): Wheler's letter (pp. 98–111), Mortimer's account of Wheler's experiments of 11 May 1737 (pp. 112–117), and Wheler's letter of remarks on Gray's electrical circular experiment (pp. 118–125). The number's own contents misnumbers the second of these; see Textual Note iv in the apparatus.*
+
+## APPENDIX — III. Some Electrical Experiments, chiefly regarding the Repulsive Force of Electrical Bodies; communicated in a Letter from Granvile Wheler, Esq; F. R. S. to Cromwell Mortimer, M. D. R. S. Secr.
+Philosophical Transactions 41, no. 453 (1740), pp. 98–111. DOI: 10.1098/rstl.1739.0011
+
+SIR,
+
+THE following Experiments I made in the Autumn of the Year 1732. and repeated them to Mr. _Grey_ the following Summer, when he came into the Country. I had then Thoughts of communicating them to you through his Hands, to whom they owe their Being, and drew them up with a Letter to him prefixed: But, unwilling to be an Author, I deferred the Communication from time to time, till the second Summer came, when I was informed, that Mr. _Dufay_ had written a Letter to his Grace the Duke of _Richmond_, dated _Dec. 27. 1733._* wherein he takes Notice of the same Solution of the Repulsive Force, a Copy of which Letter I received the _September_ following, inclosed in one from Mr. _Grey_. All Thoughts of publishing them were then laid aside, but meeting some time since with a fuller Account of them in the Memoirs of the Academy of Sciences for the Year 1735. by which it appeared Mr. _Dufay's_ Experiments were not the same with my own, and having since received the Commands of our worthy President to communicate them, I take the Liberty at last of sending them to you, as I intended they should have passed through Mr. _Grey's_ Hands, if Mr. _Dufay_ had not appeared upon the same Subject, in three Propositions, and a few Corollaries. I am, Sir, with a very great Regard,
+
+_Ottesden-Place, Jan. 17. 1737-8._
+
+_Your much obliged, humble Servant,_
+
+Granv. Wheler.
+
+* _Philosophical Transactions, Nº 431. p. 258._
+
+PROPOSITION I.
+
+_Bodies made Electrical, by communicating with an Electrical Body excited by Friction, are in a State of Repulsion with regard to such excited Bodies._
+
+EXPERIMENT I.
+
+I hung a fine white Thread by a Loop, to an horizontal blue Silk Line, about four Feet long, tied at each End, and at about a Foot distance from it, placed a Glass Tube two Feet and a half long nearly, and one Inch and quarter Diameter, fixed in the Centre of a circular Piece of Wood supported upon three brass Skrews, so that the Tube and pendulous Thread were parallel to each other. The Tube being rubbed, the Thread was attracted and repelled Seven or Eight times (in very good Weather, I have observed it move to and from the Tube Twelve times, at above one Foot Distance). I then tied a Piece of new smooth Packthread to the Top of the Tube, and to the Loop of the Thread hanging down as before, and again excited the Tube: The Thread, without coming once towards the Tube, went into and continued in a State of Repulsion; but if I only touched the communicating Packthread with my Finger, the white Thread immediately hastened to the Tube: And upon hanging another long Piece of Packthread, which reached the Ground, to the communicating Packthread, and again rubbing the Tube, the pendulous white Thread was so far from going into a State of Repulsion, that it became attracted to the Tube, and continued so, without shewing the least Tendency to a State of Repulsion, as long as the Virtue of the Tube lasted.
+
+EXPERIMENT II.
+
+I tied a Piece of small Cane about sixteen Inches long, and one fourth of an Inch Diameter at one End, and a little more at the other, at right Angles to the Top of my Tube, fixed in the same Pedestal as before, and making unequal Arms with it; and at the End of the larger Arm, a Piece of Stick traversly, about six Inches long, so as it might slide backwards and forwards to and from the Tube: This moveable short Stick at one End supported a very fine white Thread, at the other a very fine blue Silk, by which means we had now a Silk and a Thread at the same time hanging parallel to the Tube. The Thread, after the Tube was rubbed, first was attracted, but then immediately repelled, and continued a considerable time in a State of Repulsion; but upon tying to the End of the shorter Arm of Cane, a Piece of long Packthread, which reached down upon the Table, and rubbing the Tube again, the Thread continued in a State of Attraction, without being once repelled during the whole Virtue of the Tube, as in the preceding Experiment. Yet the Silk, whether the long Packthread was added or not to the shorter Arm of the Cane, continued constantly attracted towards the Tube; but upon putting a short Silk only six Inches long, in the same Circumstances, it would, after some time rubbing the Tube, turn into a State of Repulsion, the upper Part first bending from the Tube, and the lower Part towards it, the upper Bending still increasing till the Whole was repelled; and, which is remarkable, the upper Part or Bending, upon the Approach of the Finger, or any Body not impregnated with Electrical _Effluvia_, flying towards it, and the under Part or Bending rather seeming to fly from it, till the Whole was saturated, and in a State of Repulsion with regard to the Tube, and then any Part of it would come to the Finger, or any other Body, not made Electrical. It is proper to add here one more Difference remarkable between the Thread and Silk: The Thread in a State of Repulsion touched with the Finger, would immediately fly towards the Tube; but the Silk in the same State, after touching several times, still continued in a State of Repulsion, and would not be attracted till squeezed from Top to Bottom between the Finger and Thumb, once, and sometimes two or three times. And farther, the Thread would immediately turn again into a State of Repulsion, whereas the Silk, after the Violence committed by the Thumb and Finger, being attracted to the Tube, would not without a good deal of rubbing the Tube, be repelled again.
+
+_N. B._ The Silk was untwisted, and about one fourth part of the Thickness made use of.
+
+COROLLARY I.
+
+From the different State of the pendulous Silk and Threads at the same time under the same Circumstances, the former being attracted while the latter is repelled, it follows, that a mere Vibration of the Parts of the Tube is not sufficient to account for the Electrical _Phænomena_; which appears farther from the two contrary States continuing some time, and from the same Piece of Silk being at once part in a State of Repulsion, part in a State of Attraction.
+
+COROLLARY II.
+
+That some Bodies immediately receive and immediately part with the Electric _Effluvia_, but that others are some time before they receive it, or receive enough of it; and when they have received enough of it, part with it more unwillingly.
+
+COROLLARY III.
+
+That any light Body, as a Feather, after touching or nearly approaching the Tube, must fly from it: Upon Contact or a near Approach, it saturates itself with the Electric _Effluvia_, and by this means becomes itself Electrical (as is plain from its coming to all other Bodies too large to come to it); and consequently, from the foregoing Experiments, is in a State of Repulsion with regard to the Tube. As soon as it touches any other Body, it loses its acquired Electricity, and therefore may be attracted as at first.
+
+PROPOSITION II.
+
+_Two or more Bodies made electrical by communicating with an Electrical Body, excited by Friction, are in a State of Repulsion with regard to one another; or Bodies made electrical by Communication, repel one another._
+
+EXPERIMENT I.
+
+I suspended two Pieces of white Thread, each about one Foot long, by Loops, upon an horizontal blue silk Line four Feet long, about half an Inch asunder from each other; and upon holding the excited Tube over them at a little Distance, the two Threads immediately receded from each other considerably at the Bottom. I then removed one of the Threads, and held the Tube over the other, in the same manner as before. The single Thread was not observed to move to either Side; consequently the moving of the Threads side-ways was occasioned neither by the Attraction of the cross Line, nor that of the Tube, nor by the Frame of Wood, to which the cross Line was tied at each End, but only by their Action upon each other.
+
+I then added a third String, at the same Distance from the second, that the second was from the first, and upon holding the excited Tube over the middle one, at the same Distance from the cross Silk I did before, if the Strings continued in the same Plane, the middle one stood still, and the String on each side of it receded considerably at the bottom Part, which in this Case must necessarily happen upon a Supposition, that they repel one another equally; for the two contrary Forces of the outer Threads destroy each other, and consequently the middle one must remain quiet; but there was nothing to hinder the middle one from repelling the two outer on each hand side-ways. If, as it often happened, the three pendulous Threads did not remain in the same Plane, they then all receded from one another equally, and formed nearly a triangular Prism; the three Threads being the three Edges, or rather a triangular Pyramid with the Top cut off.
+
+Upon suspending four Threads at the same Distance as before from one another, if they continued in the same Plane, they all parted, but the two outermost more from their Neighbours, than the two in the middle from each other.
+
+If they moved out of the Plane they were first in, they formed two Prisms, each extreme with the two in the middle forming one, or rather a Parallelopepid, less at Top than at Bottom.
+
+When five Strings were suspended, either the middlemost continued Stationary when the Plane was not altered, or if it was, they formed three Prisms.
+
+EXPERIMENT II.
+
+I afterwards placed two cross blue Silks, of the same Length as before, about half an Inch asunder from one another horizontally, and tied at each End; and upon each of these, at different times, hung two, three, four, and five Threads, at the same Distances as before, when every thing succeeded, as it ought to have done, upon a Supposition of their mutually repelling one another.
+
+EXPERIMENT III.
+
+To each of the Ends of two Threads, suspended as at first, a Feather being tied, the two Feathers manifestly receded from each other: And when three Threads had each a Feather at their Extremities, the middlemost became Stationary, and the two outer went off on each hand.
+
+EXPERIMENT IV.
+
+I suspended afterwards two, three, four and five blue silk Strings by Loops, upon one cross blue Silk, and found the several Experiments succeed in the same manner as in Threads; except that they remained a longer time before they appeared in a State of Repulsion, receded from one another more slowly, and continued much longer in the repulsive State, after the Tube was removed.
+
+EXPERIMENT V.
+
+This done, I made several Experiments, by mixing Silks of different Colours, and Silks and Threads of different Colours, and suspended them by Turns upon Silks of different Colours, whence arose several different _Phænomena_, which I shall not take Notice of here; but I must not omit mentioning, that upon suspending two black Silks at the before-mentioned Distances from each other, upon a scarlet cross Silk, they did not only open and recede from each other at the Bottom considerably, but when the Tube was held under, ran or jump'd away from each other, to the very Ends of the cross red Silk that supported them, taking two, three, or more Jumps from each other. I observed the same of two white Silks suspended upon red Silk, but think they did not move away so briskly as the Black.
+
+EXPERIMENT VI.
+
+I tried whether Threads hanging parallel, as above, from a cross blue silk Line, and joined with one or more transverse Threads, so that the perpendicular Threads remained nearly parallel, would mutually repel when the Tube was held over them; they seemed to repel each other full as strongly as before. When they were joined by only one cross Thread towards the Top, the lower Parts separated considerably; when joined by two cross Threads, one towards the Top, and one towards the Bottom, they separated both in the middle Parts between the two cross Threads, and at their lower Ends under the second or lowest cross Thread. When several were tied together at the Top and Bottom, and about a Foot long, not by transverse Threads, but in a Knot at each End, they all bellied out from one another, describing a Figure generated by an Ellipsis, revolved about its greater Axis; approaching nearer to a Sphere, the stronger the repulsive Force was. And, though it was only a necessary Consequence, I could not without some Pleasure observe the Knot at the Bottom, as the Strings swelled out, sensibly rising up. I could scarce forbear imagining my Bundle of Silks, a Bundle of muscular Fibres.
+
+EXPERIMENT VII.
+
+I suspended two brass and afterwards two iron Wires upon a cross blue Silk, in the same manner as the Threads and Silks before-mentioned, and found the Experiments succeed as in Threads of the same Number, except that they did not recede so far from one another, which must necessarily follow from their greater Weight.
+
+_N. B._ These Experiments were made sometimes with the Tube held over, sometimes held under the cross Line; but they generally succeeded best when the Tube was held under the Extremities of the pendulous Wires, which in this Case separated much farther, and kept their repulsive Force much longer.
+
+EXPERIMENT VIII.
+
+I must not omit here, that I hung up two Fragments of Barometer Tubes, each about a Foot long, by blue silk Lines going through each, so that they hung parallel, horizontal, at equal Heights, and about one quarter of an Inch asunder; upon holding the excited Tube above and under them, they manifestly receded from each other.
+
+I suspended the same Fragments of Tubes by blue silk Lines of equal Length, from a cross blue Silk in a perpendicular Posture, each having a little red Sealing-wax at the upper End, to hinder the Strings from slipping off: The excited Tube being brought near them, they receded manifestly, especially at the lower Ends; the Distance from one another, when at Rest, being about a quarter of an Inch.
+
+COROLLARY I.
+
+From the repulsive State of the pendulous Threads tied transversly with two or more Threads, and bending out from each other, where at Liberty, it follows that all the Threads of a Table-cloth, or other large Piece of Linen, when made Electrical, (as has been often done all over) have a Desire to fly from each other; and consequently, was the repulsive Force strong enough, the Whole would be dissolved, or torn in Pieces. A short Thread of black Silk, by repeated Applications of the Tube, I have separated into its smallest Fibres: Whence is suggested more plainly, than from any other known Experiment, a Reason for the Dissolution of Bodies in their respective Menstruums, _viz._ That the Particles of the Solvend having imbibed the Particles of the Menstruum, so as to be saturated with them, the saturated Particles become repulsive of each other, separate, and fly to Pieces.
+
+And hence, perhaps, arises a Reason, why Particles of Bodies specifically heavier than the Menstruums in which they are dissolved, are, after the Dissolution and Dispersion, suspended all over the Menstruum, _viz._ That they repel each other. Attraction is insufficient; for Parts attracted equally in all Directions, are, in Effect, not attracted at all, and the Imperfection of the Fluid will not do; for if this occasioned the Suspension, striking or jogling the Vessel would make them subside.
+
+COROLLARY II.
+
+Hence we plainly see how Heat may divide the Particles of Water with greater or less Force, in Proportion to the Degree of Saturation, and throw them into the Air; where they may continue to ascend, if at the same time they are divided, they are expanded into little Shells or Bubbles, of a Diameter large enough to be specifically lighter than the lower Air, as the great _Halley_ has sagaciously conjectured. Or if the upper Parts of the Air, as being less saturated than the lower Parts, may be able to draw them upwards, till the Excess of Weight, which is constantly increasing, is equal to the Excess of Attraction.
+
+PROPOSITION III.
+
+_Bodies, made Electrical by rubbing, do themselves repel one another, or the electrical excited Bodies themselves repel one another._
+
+EXPERIMENT I.
+
+The two Fragments of Tubes before-mentioned *, being suspended horizontally, and in a Posture parallel to each other, I held in one Hand, and with the other rubbed some time; then gently letting them go so as to be at Rest, I could plainly perceive them recede from each other towards that End which had not been taken hold of.
+
+But as upon repeated Trials I found it difficult to make this Experiment succeed unexceptionably, the Tubes generally having some reciprocating Motion of their own, after quitting the Hand, I made use of the following Method.
+
+I suspended a single little Tube about a Foot long, by a long blue silk Line, perpendicularly, and upon a Table placed my great Tube fixed in a Stand as before, excited each alternately, two or three times; then gently moved the Tube with the Stand it was fixed in, near the suspended little one: The little Tube manifestly receded so much, that a cross blue silk Line stretched horizontally at about an Inch Distance on the opposite Side, would sometimes, upon the first Approach of the great Tube, be touched by it.
+
+* Prop. II. Exper. VIII.
+
+EXPERIMENT II.
+
+Three scarlet Silks, pendulous each by Loops from a cross silk Line, and close together, being rubbed downwards two or three times, between the Finger and Thumb, shewed a considerable repulsive Force with regard to each other, forming themselves immediately into a triangular Pyramid, and continuing in this State of Separation some time, and which shews their Attraction at the same time, with regard to other Bodies not excited, coming to them when brought near them.
+
+I observed the same repulsive Force in three yellow and three green Silks, under the same Circumstances, and excited in the same manner, but not in so great a Degree as in Scarlet. In Blue the repulsive Force was scarce discernible after several times rubbing.
+
+SCHOLIUM.
+
+The Revd Dr. Stephen _Hales_, in his 12th Article of his 13th Experiment, in his second Volume of _Statical Essays_, observes, "That if a Piece of one of the _Bronchiæ_ or Gills of the _Muscle Shell-Fish_, be cut off, and put into a small concave Glass, with three or four Drops of its Liquor, and be then placed under a double Microscope, the Blood may be seen greatly agitated in the fine Vessels; and at the cut Edge of the Piece of Gill, may with great Pleasure be seen many Blood-globules, repelled from the cut Orifices of the Blood-vessels, and attracted by other adjoining Vessels; also other Globules rolling round their Centre, and repelling each other; whence (as he says) it is plain, that Bodies, by brisk rubbing and twirling about, may acquire, in a watry Fluid, both attractive and repulsive Virtue or Electricity."
+
+From our last Experiments we are led to think, that the Globules of the Blood, if by Friction they acquire an electrical attractive Virtue, must of necessity repel one another; and that Electricity is not so properly called an attractive and repulsive Virtue, as a Virtue attractive of those Bodies that are not attractive themselves, and repulsive of those that are; and that this repulsive Force of the electrical Blood-globules, excited by Friction, as they flow in their Chanels (and particularly in the small ones, and perhaps more so in those of the Lungs, where the refrigerating Power of the Air may assist, as Dr. _Hales_ has observed); this repulsive Force of the Blood-globules, I say, may be the great Cause that hinders the Blood from coagulating as it circulates; may be the great Cause of the constant Perspiration in an healthy State, and of the Increase of it, _cæteris paribus_, in Proportion as the Velocity and Friction of the Blood increases.
+
+If these things are so, the Necessity of Exercise appears more plainly than ever, in order to keep the Body in an healthy State, as we may observe here the very Steps that Nature makes use of to free herself from her Suppressions.
+
+_Granv. Wheler._
+
+## APPENDIX (continued) — III. An Account of some of the Electrical Experiments made by Granvile Wheler, Esq; at the Royal Society's House, on May 11. 1737. drawn up by C. Mortimer, M. D. R. S. Secr.
+Philosophical Transactions 41, no. 453 (1740), pp. 112–117. DOI: 10.1098/rstl.1739.0011
+
+EXPERIMENT I.
+
+A Large Octavo Book was placed horizontally upon silk Lines, and the upper Surface strewed with several Pieces of leaf Brass, all or the greatest Part of which flew upwards, from one another, and off the Book, upon holding an excited Tube at a little Distance underneath the Book.
+
+EXPERIMENT II.
+
+Two Lines were extended horizontally the whole Length of the Library being between 30 and 40 Feet, distant from one another about two Feet at one End, and meeting together in a Knot at their other Ends, the whole Lines being Packthread, except five Feet of silk Line tied at each of the separated Extremities, as well as at the Knot where the other Ends united, in order to stop the Current of the _Effluvia._ Upon the united Extremities was placed horizontally a Piece of Card about two Inches square, on which were strewed Pieces of leaf Brass: The excited Tube being held at a little Distance under the separated Extremities of the Packthread, the leaf Brass on the Card at the other End flew upwards, and off the Card.
+
+EXPERIMENT III.
+
+Five glass Receivers placed one within another upon an electrical Cement of Bees-wax and _Venice_ Turpentine, were all exhausted: In the innermost a fine white Thread about five Inches long, was suspended from the Crown of it, by the Assistance of a little Cement made of Bees-wax and Oil. Upon moving the excited Tube up and down near the Side of, and horizontally to and from the outward Receiver, the suspended Thread manifestly made many Vibrations corresponding to the Motions of the Tube.
+
+EXPERIMENT IV.
+
+An electrical circular Cake of Bees-wax and Rosin, ten Inches in Diameter, was placed horizontally upon a tall glass Receiver near three Feet high, such as is made use of for the dropping the Feather and Guinea. This Cake being, the preceding Evening about Eight o'Clock, warmed with an hot Iron held over it, and then struck perpendicularly all over its Surface with the Hands in parallel Directions, and so left cover'd with a thin Pasteboard, was about Twelve o'Clock next Day at Noon gently uncover'd, and an ivory Ball about one Inch and half Diameter placed in the Centre, a fine white Thread about ten Inches long, with a small Piece of Cork, the Size of a Pin's Head, at the End of it, being held between the Finger and Thumb, was gently let down upon the Vertex of the Ball; it first flew off at some Distance, and then made several pretty regular Revolutions from West to East about it, in the Form of a Circle.
+
+EXPERIMENT V.
+
+The Ball was removed, and the Cake again warmed and excited as before; after which the Ball was replaced at a little Distance from the Centre, nearer to Mr. _Wheler_; the Consequence of which was, that the pendulous little Body moved with a direct Motion as before, but in an Orbit that resembled an Ellipse, having the Ball in one of its _Foci._
+
+EXPERIMENT VI.
+
+Two Bullets fixed on little Stands of Cork about one quarter of an Inch high, were placed upon the Cake, each about an Inch distant from the Centre of it, and in a Line with the Centre and Mr. _Wheler_; the pendulous Body described an Orbit resembling an Ellipse, having the two Bullets for its _Foci,_ and the Motion was direct from West to East.
+
+EXPERIMENT VII.
+
+Instead of the Cork, another pendulous Body of a cylindrical Form was made use of, tied to a fine white Thread about twenty Inches long; the Cylinder consisted of two circular Bases of Paper half an Inch Diameter, but all cut away except a Ring and a small Bar cross the Middle, through which Basis six equal fine Threads passed at equal Distances from one another, knotted at the lower Base separately, and joined together in one Knot at about half an Inch Distance from the upper Base, from which Knot proceeded the long Thread. This Body moved from West to East about the central Ball, and at the same time discover'd a Motion about its own Axis in the same Direction; but after two or three Turns generally stopt, and turn'd the contrary Way, which seem'd to arise from the untwisting of the Thread.
+
+EXPERIMENT VIII.
+
+A Thread about a Foot long, was suspended from an horizontal Line of Packthread, parallel to it an excited Tube placed erect in a Stand, the Thread approached the Tube, and continued in a State of Attraction: A Thread of the same Length, suspended from a silk Line, vibrated backward and forwards two or three times, being first attracted, and then repelled, and continuing some time repelled; but upon joining the Top of the Tube, by a Packthread going round it, to the Loop of the Thread, the Thread continued constantly in a State of Repulsion, shewing no Tendency to Attraction.
+
+EXPERIMENT IX.
+
+Two black Silks, about the same Length with the Thread in the preceding Experiment, were suspended by Loops from an horizontal red silk Line, at the Distance of about half an Inch from each other; upon holding the excited Tube under them, the Silks swelled out from one another, and then jump'd away on each Hand to the Distance of two Feet.
+
+EXPERIMENT X.
+
+A circular Board of nearly the same Diameter with the electric Cake, was suspended horizontally by six silk Lines, tied to one silk Line which was brought over a Pulley at the Top of a Frame of Wood, so as to be moved up and down. From the Board hung six fine white Threads about eighteen Inches long, fixed by a little Cement at equal Distances from each other. The Board being let down till the Ends of the Threads were about an Inch distant from the electric Cake, which was directly under, and had the ivory Ball on its Centre; the Threads all approached towards the Centre of the Cake, both when the Ball was in the Centre, and when taken away, keeping an equal Distance from the Centre, and from one another, as long as a Packthread joined the Circle of Board and the Frame to keep it steady; and upon removing the Ball out of the Centre towards the Circumference, the Figure lengthen'd, the Threads next the Ball advancing nearer the Circumference; when the Ball was placed at about an Inch Distance from the Circumference, the Thread that was before nearest the Circumference, whipp'd between the Ball and the Centre, so as to be almost in the same Plane with its two neighbouring Threads, the Figure form'd by the Extremities resembling an Ellipse with one End cut off: But when instead of the Packthread that join'd the Board to the Frame, a blue silk Line was tied in the same manner in all respects, the Threads, instead of coming towards the Centre, all flew away at a great Distance from the Cake, and from one another.
+
+It ought to be observed in the Experiments of the circular Motion of the pendulous Body, that Mr. _Wheler's_ Hand seem'd as steady as possible, except in the first Experiment, when a little Trembling appear'd; Mr. _George Graham_ taking a very good Method to observe it, by keeping his Eye fix'd upon a Point at a considerable Distance, in the same Line with the End of Mr. _Wheler's_ Finger, and his own Eye.
+
+Yet when Mr. _Wheler_ had finish'd the Experiments to the Satisfaction of all present, Mr. _Hawskbee,_ Mr. _George Graham,_ and Dr. _Mortimer,_ held the Thread with the pendulous Body over the Cake with the Ball on its Centre, after the Cake had been excited by Mr. _Wheler_; but they had no regular Revolutions at all, though several very manifest Motions were made with the Hand, to try if a projectile Motion might by that means be given to the pendulous Body. Mr. _Wheler_ had tried the same thing with his Servant; from whence it is reasonable to conclude, that it is necessary, that the same Person who excited the Cake should likewise hold the Thread; as if there were some Analogy between the _Effluvia_ excited by the clapping of the Hand on the Cake, and the _Effluvia_ which may be communicated along from the Hand which holds the Thread to the Piece of Cork at the End of it. And this seems to be the Reason of what the late Mr. _Grey_ told me, _viz._ That there was something in the human Hand essential to the Experiment, which he had not yet found in any other Supporter of the Thread.
+
+## APPENDIX (continued) — IV. A Letter from Granvile Wheler, Esq; to Dr. Mortimer, Secr. R. S. containing some Remarks on the late Stephen Gray, F. R. S. his Electrical Circular Experiment.
+Philosophical Transactions 41, no. 453 (1740), pp. 118–125. DOI: 10.1098/rstl.1739.0011
+
+SIR,
+
+SOME odd Circumstances led me to make Mr. _Gray's_ circular Experiment in the following Manner. While I excited a Cake of Rosin and Bees-wax ten Inches Diameter, by clapping with my Hand, I let my ivory Ball continue in a Basin of Water; then shaking off the Drops, placed it in the Centre, and with my right Hand held a fine Thread, about eight or nine Inches long, having one End rolled up into a little Ball, and the other, for about an Inch, reduced to its greatest Fineness, to only one Fibre, myself and Hand being supported on the Back of a Chair. The Success was, I had a great many Revolutions, to the Number of Fifty, from West to East; but at first not so regular as towards the last, at first describing only about one third Part of the Circumference at a time, and after standing still a little, describing another third Part. I might probably have had a great many more Revolutions, but being tired, I was forced to rest myself, which I did for ten Minutes, then took up the Thread again. The Thread stood repelled at some Distance, without making any Revolutions, and at last only made half an one the contrary way to what it did before; but upon wetting it, by drawing it two or three times over the Surface of the Water, it made again twenty more Revolutions from West to East, only at a smaller Distance from the Ball, (for the Water must make it heavier) but full as regular as before, and rather quicker: The Virtue of the Cake must now have lasted about three quarters of an Hour. After resting about six Minutes, I tried again with the String fresh wetted, the Ball and Cake continuing as before; and had, to my great Surprize, one hundred Revolutions in the Space of about twelve Minutes, the Revolutions being still quicker, and more regular, and nearer the Ball; and at the sixth Revolution of this last Hundred, the Thread was attracted to the Surface of the Ball, and, being wet, did not disengage itself, till pulled away; yet after this, described the remaining Ninety-four Revolutions of the Hundred, and seemed inclined to describe a great many more, but that I was forced to rest my Arm again, which I did for about eight Minutes, then tried again, the Thread being fresh wetted, and had seventy Revolutions at nearly the same Distance from the Ball in less than nine Minutes, all very regular, and without any Attraction of the Thread to the Ball. I rested again sixteen Minutes, wet the Thread again, and held it as usual; it was repelled at about half an Inch Distance from the Ball, but seemed to have no Tendency to a circular Motion; yet after continuing stationary about a Minute, I perceived a Motion about its Axis, about which it took several Turns; but still had little or no progressive Motion, till about a Minute longer, when it began to move forward, and continued doing so from West to East, for about thirty-three Revolutions, very regular, but slower than in the two last Cases, the String having been held about ten Minutes, and the Revolutions performed in about seven or eight of them. I observed each of these three last times, it was rather longer before the progressive Motion began than usual; and in all the Trials of this Experiment, I frequently perceived a Motion about the Axis, which was generally from West to East, though now-and-then the contrary Way. The Virtue of the Cake must now have lasted near two Hours; about three quarters of an Hour after, I tried again, and had sixty Revolutions from West to East, in about ten Minutes, the Distance from the Ball being still less than before, hardly one quarter of an Inch, scarce any Revolution about the Axis appeared, and at the Beginning the Thread was twice attracted to the Ball. About an Hour and half after, the Virtue of the Ball was not quite gone, the wet Thread being repelled, and making three or four Revolutions from West to East, as well as moving a little about its Axis the same Way. But as it was reasonable to suppose the Ball itself in the Centre of the Cake was now dry, with a Feather dipp'd in Water I wet its Surface; yet found no Increase of Virtue, rather a Diminution of it, the pendulous Body seeming scarce at all repelled; but it is to be observed, that the Ball, as it was wetting, twice tumbled over, and rolled upon the Surface of the Cake; by which means the Virtue of the Cake might be much diminished.
+
+* _See Philosophical Transactions, n. 441, p 220. and n. 444, p. 400. of the Revolutions of pendulous Bodies by Electricity._
+
+It is not improper too to take Notice here, that during the Revolutions of the wet String, I have frequently observed a kind of Oscillatory Motion, as if there was an alternate Intention and Remission of the repulsive Force. As also that I have often tock Notice of little Plucks, and convulsive Motions, in the pendulous Body, and sometimes thought I have felt something like it in my Arm that held it, though at no other time have I ever been sensible of any such thing.
+
+I have several times since repeated this Experiment with the Thread and Ball both wet, and found it succeed much better than when they were both dry; and once I find by my Notes I had two hundred and twenty Revolutions before I rested my Arm. I have tried too with the Ball dry, and the String only made wet; but the Virtue did not continue so long, as when both were wet.
+
+I now flattered myself with Hopes of Success, if the Thread was suspended from an undoubted fixed Point, which therefore I proceeded again to try with the greatest Care and Caution, but in vain; the Revolutions were uncertain.
+
+This Difference naturally led me to reflect upon the Cause of it. The Tremor of the Hand would not account for it; for this being both ways backward as well as forward, must as often hinder as promote a continual Motion one way: And though in two opposite Parts of a Circle, the Motion is really in contrary Directions, and therefore the contrary Impulses of a Tremor may promote a Revolution applied at opposite Places of the Orbit; yet as these Tremors are irregular, and succeed much quicker than the Revolutions are perform'd, they seem insufficient to account for the Motions of the pendulous Body, performed with any Degree of Regularity.
+
+A Stream of Air in my Room might impel along the Tangent the pendulous Body, kept at a Distance from the Ball by its repulsive Force; and then Gravity, taking place, might with the first Motion compound a Curve; but still the Resistance of the Air would soon destroy the original Impulse, could a few Revolutions be performed; and besides, one Revolution could not be performed, because the same Stream of Air that began the Motion, must be contrary to it in its Return.
+
+A Finger held on the right Hand near the pendulous Body, when suspended from a fixed Point, will make it revolve from West to East; but then it must be applied and removed alternately: The repulsive Force therefore which the Arm may acquire, by being held in the Sphere of the _Effluvia,_ is insufficient; for, as it is in one Place, it must impel only one way, and constantly the same way; and therefore, like a Stream of Air in the Room, though it might create the Beginning, it must hinder the Completion of a Revolution.
+
+Sometimes I have doubted, whether the Pulse of the Arm might not be assisting in giving a projectile Motion. When one Leg is laid over the Knee of the other, a Motion and Heaving of the Leg that lies over, answering to every Stroke of the Pulse, is very apparent at a Distance: The Arm therefore in some Postures, in which its great Artery meets with a proportionable Pressure or Resistance, may have a constant Motion, though less perceivable.
+
+What seemed the most probable Solution, was this: When the Arm is extended, the Posture being uneasy, there must be a Reaction of the Muscles, or a continual pulling of the Arm towards the Body. When therefore the right Arm is made use of, the pulling will be from Right to Left; and consequently the Motion produced in the Body held by it in the same Direction, or from West to East. When the left Arm is made use of, the Reaction of the Muscles will be from Left to Right, and therefore the Motion of the pendulous Body from East to West. And, agreeably to this, I have observed, (as I formerly took Notice, though this Reason did not then occur to me) when I used my left Hand, all other Circumstances continuing the same, the Motion of the pendulous Body was from Left to Right, or from East to West, contrary to what was observed when held by the right Hand.
+
+Yet still neither of these Solutions would account for the Variety of Oddnesses I have met with under various Circumstances.
+
+I proceeded therefore to try with Rests for my Arm of different Heights, having an Arm of Wood, about two Feet long, fixed to a Rest for my Telescopes, which I could raise to any Height I wanted; and I found the Experiment succeed only well, when the Rest was lower than the electric _Area,_ and the Arm was supported upon its Elbow, which was the Posture constantly made use of, when rested upon a Chair, the Chair being lower than the electric _Area,_ that it might less affect the _Effluvia,_ as was then thought.
+
+I began now to think with myself, whether it was not possible, that an Inclination to a Motion one way in the Person that holds the Body, might not have such an Influence upon the Arm, and consequently the String and pendulous Body, as to determine them the same way by some Pressure or Byass put upon it, though no Motion sensible even to himself, was produced in the Hand. If so, I might, by a contrary Inclination, produce a Motion the contrary way. Having therefore a fine Day, and my circular Cake being well excited, I tried if I could not produce a regular Motion from East to West, about the Ball in the Centre, having my Hand supported, as usual, upon the Back of a Chair. I found I could produce a very regular one from East to West for many Revolutions, and change from one Motion to another, without being sensible I moved my Hand at all.
+
+I then wet the Ball and String, as in the Experiment before-mentioned, and found I could tire myself with a Motion either from East to West, or from West to East, as I pleased, without giving any Motion, that I could perceive, to my Hand or Fingers. Hence many odd Experiments that please, may, when repeated, succeed.
+
+Since therefore the Motion of the pendulous Body from a Point undoubtedly fixed, is irregular, as I have found by many different Experiments, repeated with the greatest Care and Caution; and since I am convinced from these last-mentioned Trials, the Motion from West to East, and from East to West, must generally have been determined by myself; I am inclined to think, that a Desire of producing a Motion from West to East, was the secret Cause that determined the pendulous Body to that Direction, by some Impression from Mr. _Gray's_ Hand, as well as my own, though I am persuaded at the same time, he was not sensible of giving any Motion to his Hand himself: And I the rather think this was the Case, from the Instance Mr. _Gray_ gives, by way of Explanation, of a Man resting his Elbows upon his Knees, this implying that he rested his Arm upon his Elbow, as I did myself.
+
+But though upon the Whole it does at last appear, that this Motion from West to East in a pendulous Body, applied to another in the Centre of an electric _Area,_ is to be ascribed to the Hand that holds it, and not solely to the Nature of the electric _Effluvia,_ or the Figure of the central Body; yet still, perhaps, it may not be improper for Astronomers to consider, whether or no a Medium with this Property, that all Bodies immersed in it, are repulsive of one another, ought not to be joined with Gravity to explain the heavenly _Phænomena_; especially since the _Phænomena_ of Fire, and our electric _Effluvia,_ have a great Affinity to each other; and since many of the heavenly _Phænomena_ are to be accounted for, upon this Supposition, with great Simplicity; and some of them, that have not yet perhaps been fully accounted for, seem necessarily to follow.
+
+I am, Sir, with a very great Regard,
+
+_Otterden-Place, Feb. 20. 1737-8._
+
+_Your much obliged, humble Servant,_
+
+Granv. Wheler.
+
+_P S._ This was intended to have been sent eleven Days ago.
+
+_Mar. 3. 1737-8._
+
+* * *
+
+# APPARATUS
+
+## SOURCE NOTES — every item, as printed
+
+All items are from the *Philosophical Transactions of the Royal Society of London*, transcribed from the Internet Archive scans of the Society's journal set. Royal Society archive references are to the manuscripts behind the printings; the printings govern.
+
+**Part I — The Early Papers, 1696–1733**
+
+1. PT 19, no. 221 (1696), pp. 280–287. DOI 10.1098/rstl.1695.0040. Archive: CLP/2/15; EL/G1/49 (letter to Henry Hunt, 3 Feb. 1695/6). See Textual Note i on the attribution question.
+2. PT 19, no. 223 (1696), pp. 353–356. DOI 10.1098/rstl.1695.0058.
+3. PT 19, no. 228 (1697), pp. 539–542. DOI 10.1098/rstl.1695.0092.
+4. PT 19, no. 235 (1697), pp. 787–790. DOI 10.1098/rstl.1695.0146.
+5. PT 20, no. 240 (1698), pp. 176–178. DOI 10.1098/rstl.1698.0027.
+6. PT 21, no. 251 (1699), pp. 126–127. DOI 10.1098/rstl.1699.0026.
+7. PT 22, no. 262 (1700), p. 535. DOI 10.1098/rstl.1700.0021.
+8. PT 22, no. 268 (1700), pp. 762–764. DOI 10.1098/rstl.1700.0068.
+9. PT 22, no. 270 (1701), pp. 815–819. DOI 10.1098/rstl.1700.0079.
+10. PT 23, no. 288 (1703), pp. 1502–1504. DOI 10.1098/rstl.1702.0066.
+11. PT 38, no. 429 (1733), pp. 114–116. DOI 10.1098/rstl.1733.0021. Archive: EL/G1/64 (letter to Mortimer, Norton Court, 19 May 1733). It closes Part I because it belongs to the observer's trade, though written in the electrical years.
+
+**Part II — The Electrical Papers, 1720–1736**
+
+12. PT 31, no. 366 (1720), pp. 104–107. DOI 10.1098/rstl.1720.0025. Archive: RBO/11/15 (manuscript read 15 Dec. 1720, under a different title).
+13. PT 37, no. 417 (1731), pp. 18–44. DOI 10.1098/rstl.1731.0005. Archive: EL/G1/59.
+14. PT 37, no. 422 (1732), pp. 227–230, with the author's Addenda printed at the issue's end, p. 260. DOI 10.1098/rstl.1731.0040. Archive: RBO/16/51 (original letter dated 20 Jan. 1731/2); EL/G1/60. See Textual Note ii — catalogue records giving this item as pp. 227–260 are recording the issue span, not the letter.
+15. PT 37, no. 423 (1732), pp. 285–291. DOI 10.1098/rstl.1731.0050.
+16. PT 37, no. 426 (1732), pp. 397–407. DOI 10.1098/rstl.1731.0067. Archive: EL/G1/62 (letter of 15 Oct. 1732).
+17. PT 39, no. 436 (1735), pp. 16–24. DOI 10.1098/rstl.1735.0006. Letter dated Charterhouse, 28 Jan. 1734/5.
+18. PT 39, no. 439 (1735), pp. 166–170. DOI 10.1098/rstl.1735.0028. Archive: EL/G2/32 (letter of 9 June 1735).
+19. PT 39, no. 441 (1736), p. 220. DOI 10.1098/rstl.1735.0044. Letter dated London, 6 Feb. 1735/6. Archive: EL/G2/33. See Textual Note iii on the page range.
+20. PT 39, no. 444 (1736), pp. 400–403. DOI 10.1098/rstl.1735.0082. Archive: EL/G2/31 (Mortimer's transcript, 14 Feb. 1736).
+
+**Appendix** — PT 41, no. 453 (1740): Wheler's letter on the repulsive force, pp. 98–111; Mortimer's account of Wheler's Royal Society experiments of 11 May 1737, pp. 112–117; Wheler's letter containing remarks on Gray's electrical circular experiment, pp. 118–125. DOI 10.1098/rstl.1739.0011. See Textual Note iv on the number's misnumbering.
+
+## TEXTUAL NOTES
+
+**i. Item 1 — the attribution question (unresolved, printed as printed).** The journal heads the microscope observations as Gray's, and this edition prints them under Stephen Gray's name as the journal did. The Royal Society's manuscript catalogue (CLP/2/15) brackets the paper as "by [Matthias Gray]" — Stephen's brother, Alderman of Canterbury — "communicated by Stephen Gray", while calling the instrument's design Stephen's; the Society's own modern blog says the diagram was sent in by Matthias. The question is laid out here and deliberately not resolved: the text is Stephen's as printed; the hand behind the manuscript may be his brother's.
+
+**ii. Item 14 — the true extent of the water letter.** The letter occupies pp. 227–230 of no. 422 and signs off on p. 230. The remainder of the issue (pp. 231–259) is other authors' items. Gray returns at the issue's end with an "ADDENDA Page 230" on p. 260, printed at the foot of item 14 in this edition. Citations of this letter as "pp. 227–260" (as some catalogue and DOI records give it) describe the span of the issue, not of the letter.
+
+**iii. Item 19 — the last letter's pages.** Catalogue records give the last letter as pp. 220–221, but the range is wrong for the text: in the journal printing the letter is complete on p. 220 alone, closing with Gray's signature and the dateline "London, Feb. 6th, 1735/6", and p. 221 is wholly occupied by another item (De l'Isle to Machin, on a quicksilver thermometer). This edition cites p. 220. Comparison with the journal pages shows the letter complete there.
+
+**iv. The appendix number's misnumbering.** No. 453's own contents leaf lists two successive items as "III." — Wheler's repulsive-force letter (pp. 98–111) and Mortimer's account of Wheler's 1737 experiments (pp. 112–117, itself headed "III." in the body) — before "IV." for Wheler's circular-experiment letter (pp. 118–125). The appendix prints all three stretches in page order, so that the collaborator's testimony stands whole; the number's confusion is the journal's, and is recorded here rather than tidied away.
+
+**v. Item 8 — the publisher's note and a misprinted page head.** The fossils letter carries a printed note by the publisher, transcribed in place after Gray's text. The middle page of the item is misprinted "( 639 )" for 763 in the journal itself. The errata and imprint matter following on p. 764 are issue matter, not Gray's, and are excluded.
+
+**vi. Item 11 — two observers.** The eclipse account is dual: Gray's observations at Norton Court (a 19-row table of contacts and measures, fractions as printed) and Wheler's at Otterden Place (a single reported paragraph). The parts are kept distinct as printed. "Feversham" is the period spelling of Faversham.
+
+**vii. Item 15 — an internal disagreement, kept.** The letter's text dates the N° 20 cake experiment to "the 18th of April"; Gray's own Catalogue at the item's end (p. 291) dates it April 29. Both stand as printed.
+
+**viii. Spelling splits between issues.** No. 417 (item 13) prints "Hight" throughout; nos. 422, 423, and 426 print "Height". Each item keeps its own issue's spelling. Item 17 prints "Shell-Lake" where item 18 prints "Shell Lack"; items 17–19 print "then" for "than" in places; the appendix prints "tock" for "took" once (p. 120) and "took" correctly later. Item 15 prints "_in vacua_" once (p. 289) where the same letter elsewhere has "_in vacuo_"; both stand as printed. All kept.
+
+**ix. Names as printed.** The collaborator appears as "Granvill" (item 17), "Granville" (item 19's heading), and "Granvile" (Wheler's own heading in the appendix); Mortimer's appendix paragraph prints "Mr. Grey" where item IV prints "Gray". Each form stands where it was printed. In item 5 the names are Derham, Gascoign, and Townly, as the scans show (machine-read copies elsewhere garble all three).
+
+**x. Old-style dates and Gray's death.** Until 1752 the English year began on 25 March; dates between 1 January and 24 March were often written with both years, as fractions — 1735/6 is February 1736 by modern reckoning. Gray's deathbed dictation was taken on 14 Feb. 1735/6. Item 20's printed heading calls that "the day before he died," which supports 15 February in the same dating; this edition therefore gives his death as 15 February 1735/6. Authorities do not all agree: the Royal Society's person record gives "15 or 25 February 1736" and notes that the *Dictionary of Scientific Biography* gives 15 February. A Linda Hall Library essay gives 7 February 1736, but no corroborating authority for that day was found. The 25 February date is not explained by the usual Old Style–New Style conversion, which in 1736 amounted to eleven days, and is not presented here as a conversion. Item 6's parhelia were seen in 1698/9.
+
+**xi. Item 20 — bracketed matter in the dictation.** Square brackets in item 20 are Mortimer's own, printed in the original: his italic "[_Elliptical_]" in the first experiment, and his closing interpolation about the glass hoop. They are part of the printed record of the dictation and are kept.
+
+**xii. Figures and plates.** The journal's engraved figures (the microscope plates of items 1–3, the electrical figures of Part II) are not reproduced in this text edition. The texts refer to them as printed ("Fig. 3", etc.).
+
+**xiii. Italics.** Italics are reproduced where verified against the page images during transcription (apparatus names, emphasis, the appendix headings). No complete italic pass over the corpus's 113 journal pages has been made, and no claim of complete italic fidelity is made.
+
+## PRIOR PARTIAL GATHERINGS — the honest list
+
+- **Sérgio Luiz Bragatto Boss, André Koch Torres Assis, and João José Caluzi (2012)** — *Stephen Gray e a descoberta dos condutores e isolantes: tradução comentada de seus artigos sobre eletricidade e reprodução de seus principais experimentos* (São Paulo: Cultura Acadêmica, Editora Unesp, 2012; 464 pp.; ISBN 978-85-7983-374-8): a commented Portuguese translation of Gray's articles on electricity, with instructions for reproducing his principal experiments. The one real predecessor: partial (electricity only), not English, commentary interleaved. Named here so this edition's claim never outruns the record.
+- **Spark Museum (web)** — facsimile excerpts of part of one item (no. 426), honestly labelled as excerpts.
+- **Priestley (1767)** — *The History and Present State of Electricity*: a third-person narrative digest of the electrical work; paraphrase, not text.
+- **Lowthorp's abridgement (1705)** and successors — the pre-1701 items, cut down and rewritten; stops before every electrical item.
+- **Chipman (1958)** — a calendar of 63 *manuscript* letters (*Isis* 49); reprints nothing.
+- A modern facsimile anthology of Phil. Trans. electricity papers carries one extract (item 17) among 43 papers by many hands.
+
+The primacy verdict of this edition, in house wording: **no collected edition of Stephen Gray's printed writings found — none found after research** (check dated 2026-10-13).
+
+## REGISTER OF UNCERTAINTIES
+
+Exactly one unresolved reading stands in the corpus:
+
+- **Item 3, p. 541:** the line begins "rior Circle" in the printing; the opening syllable (presumably of "interior", cf. "interior Circle", p. 540) is absent in the scan/print and has NOT been supplied. Transcribed "rior[?]".
+
+Everything else doubtful in transcription was settled against the page images. Printed anomalies kept deliberately — misprints, the item 15 date disagreement, spelling splits — are registered in the Textual Notes above, not in this register: they are features of the record, not uncertainties of transcription.
+
+## COLOPHON
+
+Assembled from the journal scans listed in the source notes and transcribed from the original printings. The transcriptions were independently checked against those printings.
