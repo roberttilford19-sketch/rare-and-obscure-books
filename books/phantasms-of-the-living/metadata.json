@@ -1,0 +1,22 @@
+{
+  "title": "Phantasms of the Living",
+  "slug": "phantasms-of-the-living",
+  "creator": "Edmund Gurney (1847–1888); Frederic W. H. Myers (1843–1901); Frank Podmore (1856–1910)",
+  "basis": "Reading text of Phantasms of the Living by Edmund Gurney, Frederic W. H. Myers, and Frank Podmore (London, 1886, two volumes complete; Internet Archive phantasmsoflivin001gurn and phantasmsoflivin02gurn), taken from the IA OCR; spelling and wording original. Signature marks removed in a 2026 repair; the Table of Numbered Cases is omitted as an honest labeled note (its columns were shredded in the scan's text layer). OCR errors corrected where found, but no full proofreading has been done",
+  "original_language": "English",
+  "subjects": [
+    "Telepathy",
+    "Hallucinations",
+    "Apparitions",
+    "Psychical research",
+    "Society for Psychical Research"
+  ],
+  "source_ia_ids": [
+    "phantasmsoflivin001gurn",
+    "phantasmsoflivin02gurn"
+  ],
+  "word_count": 744727,
+  "rights": "Public domain source text; modern edition (c) editor, free redistribution",
+  "rights_flag": "PARENT RULING NEEDED: interim rights line used; final license decision pending",
+  "status": "packaged, upload-ready (upload is parent step)"
+}

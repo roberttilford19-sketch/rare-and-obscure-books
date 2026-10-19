@@ -1,0 +1,22 @@
+{
+  "title": "Psychical Research",
+  "slug": "psychical-research-barrett",
+  "creator": "Barrett, W. F. (William Fletcher) — Tilford reading edition",
+  "basis": "W. F. Barrett's Psychical Research (Home University Library, 1911), worked from the Internet Archive scan (psychicalresear00barr). The source file was raw OCR; it has been corrected line by line against the scan, with running headers, page numbers, printer's signature marks and scanner noise removed. Spelling and wording follow the 1911 printing, including its period spellings; any passage that could not be verified against the scan is marked [unverified].",
+  "original_language": "English",
+  "subjects": [
+    "Psychical research",
+    "Telepathy",
+    "Hypnotism and suggestion",
+    "Divining rod / dowsing",
+    "Pendulum (pendule explorateur)",
+    "Society for Psychical Research"
+  ],
+  "source_ia_ids": [
+    "psychicalresear00barr"
+  ],
+  "word_count": 58336,
+  "rights": "Public domain source text; modern rendering (c) editor, free redistribution",
+  "rights_flag": "PARENT RULING NEEDED: rights wording for this edition (CC0 vs (c) editor, free redistribution) not yet ruled by Robert",
+  "status": "packaged, upload-ready (upload is parent step)"
+}
