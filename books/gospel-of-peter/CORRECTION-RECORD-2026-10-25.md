@@ -29,3 +29,7 @@ Repairs follow the desk check's six enumerated faults only. The desk check compa
 ## The push gate
 
 Not committed, not pushed. What remains is Robert's eyeball of the staged diff and his separate push word; then a single commit of this folder (this record rides with it), push, and live verification.
+
+## Post-push conform — the verse 26 word (ruled 2026-10-25)
+
+The judgment call flagged at Fault 1 — James's printed "would have hid" against this file's modernised "would have hidden" — is now settled by Robert's ruling at the desk (widget tap and his sentence in his own words, 2026-10-25 08:32 CDT): conform to James's exact words. One word changed at verse 26 (file line 31): "we would have hidden ourselves" now reads "we would have hid ourselves," as James 1924 prints it. The desk's ground, stated when the choice was served: the file names James alone as its basis, so it carries James's word. This conform rides as its own commit after the repair push (2d8936a), on the Testament line-42 precedent.
