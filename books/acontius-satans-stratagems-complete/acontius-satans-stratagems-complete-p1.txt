@@ -1,8 +1,10 @@
-SATAN'S STRATAGEMS — THE COMPLETE EIGHT BOOKS
+STATUS — CORRECTED 25 OCTOBER 2026. This shelf copy is a PARTIAL DRAFT, and this note corrects its earlier presentation. Books I–IV reproduce the English translation printed at London in 1648. Books V–VIII are an abridged draft carrying roughly forty percent of a full rendering, with marked summary bridges where passages are passed over. Earlier versions of these files claimed that the eight books stood complete here and that Books V–VIII were Englished for the first time; both claims were false and are withdrawn — a complete English translation by Walter T. Curtis has existed since 1940 (Sutro Branch, California State Library). A complete translation made fresh from the Latin of 1631 was commissioned on 25 October 2026 and will supersede this draft. The correction record is kept with this book (CORRECTION-RECORD-2026-10-25.md).
+
+SATAN'S STRATAGEMS — THE EIGHT BOOKS IN PART (1648 ENGLISH, I–IV · ABRIDGED DRAFT, V–VIII)
 
 By Jacobus Acontius (d. 1566)
 
-Books I–IV Englished at London, 1648 · Books V–VIII here Englished for the first time
+Books I–IV Englished at London, 1648 · Books V–VIII Englished in abridged draft, 2026
 
 Rare & Obscure Books · Tilford Edition
 
@@ -25,11 +27,11 @@ Translations half-finished, then abandoned for a hundred years, two hundred, mor
 
 Let me tell you about two such men who died tragically.
 
-In 1565, an Italian named Jacobus Acontius published a book called Satan's Stratagems — the devil's oldest trick, he said, was getting God's own people to devour each other over opinions. In 1648 an Englishman translated the first four books and promised the world the rest. He died with the promise unkept. For 378 years, half of Acontius's book had no English.
+In 1565, an Italian named Jacobus Acontius published a book called Satan's Stratagems — the devil's oldest trick, he said, was getting God's own people to devour each other over opinions. In 1648 an Englishman translated the first four books and promised the world the rest. He died with the promise unkept. For 292 years, half of Acontius's book had no English; a complete translation came at last in 1940, and then fell out of sight.
 
 In 1854, the great French chemist Chevreul published the experiments that explained how the divining rod and the pendulum really move — by the trembling of the human hand itself. The pendulum world has quoted him ever since, without ever being able to read him. One hundred seventy-one years.
 
-This week, both men got their books back. Complete. In English. Under their own names — and Acontius's 1648 translator stands honored on the dedication page of the book he never lived to finish. They're up on archive.org, free to anyone on earth, forever.
+This week, both men got their books back. In English. Under their own names — and Acontius's 1648 translator stands honored on the dedication page of the book he never lived to finish. They're up on archive.org, free to anyone on earth, forever.
 
 That's what you do in the Boneyard. You don't curse the darkness of it. You prophesy over the bones, and watch them stand.
 
@@ -42,9 +44,9 @@ That's what you do in the Boneyard. You don't curse the darkness of it. You prop
 
 DEDICATION
 
-In the year 1648, in a London torn by civil war, an English translator — whose name his own title page does not give us, and whom later catalogues have sometimes called John Goodwin — took up the first four books of Jacobus Acontius's Stratagematum Satanae and rendered them into English as Satan's Stratagems, or the Devil's Cabinet-Counsel Discovered. In his own day the undertaking stopped halfway: he announced that he would finish if the work found favour, and no more of it was ever published. The last four books of Acontius have waited three hundred and seventy-eight years for an English voice.
+In the year 1648, in a London torn by civil war, an English translator — whose name his own title page does not give us, and whom later catalogues have sometimes called John Goodwin — took up the first four books of Jacobus Acontius's Stratagematum Satanae and rendered them into English as Satan's Stratagems, or the Devil's Cabinet-Counsel Discovered. In his own day the undertaking stopped halfway: he announced that he would finish if the work found favour, and no more of it was ever published. The last four books of Acontius waited until 1940 for a complete English voice — Walter T. Curtis's — which the world then let fall out of sight.
 
-This edition is therefore dedicated to the anonymous translator of 1648, sometimes attributed to John Goodwin: to his monumental, half-finished labour, completed here in his spirit and after his manner — the mountain his, the finishing rope ours. May the favour he asked of his first readers be granted him at last by ours.
+This edition is therefore dedicated to the anonymous translator of 1648, sometimes attributed to John Goodwin: to his monumental, half-finished labour, taken up here in his spirit and after his manner — the mountain his, the next length of rope ours. May the favour he asked of his first readers be granted him at last by ours.
 
 
 * * *
@@ -57,11 +59,11 @@ What this book is, in plain words:
 
 Books I–IV reproduce the English translation printed at London in 1648 (Satans stratagems, John Macock for G. Calvert; Wing A443A), in the text of the Early English Books Online Text Creation Partnership keyed transcription. The spelling has been lightly modernised to ease reading; the translator's words, renderings, arguments, and order are otherwise untouched. His front matter of 1648 — the dedication to the Lords and Commons, the epistles of John Goodwin and of John Dury to Samuel Hartlib, and the testimonies to Acontius's worth — is printed as he issued it. Jacobus Acontius died in 1566; his birth year is unsettled and is not asserted here.
 
-Books V–VIII are here translated into English from the Latin of the Oxford edition of 1631 (Stratagematum Satanae libri octo, for W. Webb; 426 pages), the last four books left untranslated in 1648. After research, no complete English translation of these books has been found; this is, so far as that research reaches, the first Englishing of the second half of Satan's Stratagems. The translation is a workman's rendering, paragraph for paragraph, from a difficult 17th-century scan; where the scan's impression is too broken for certainty, bracketed editorial bridges are supplied and are marked as such. The 1631 volume's printed index of chapters, and the marginal heads of the Latin, are noted in the text. One leaf of the Latin copy (pp. 193–194, in Book IV) is wanting in the scan; it does not touch the translation, which rests on Books V–VIII complete.
+Books V–VIII are here translated into English from the Latin of the Oxford edition of 1631 (Stratagematum Satanae libri octo, for W. Webb; 426 pages), the last four books left untranslated in 1648. A complete English translation of these books exists: Walter T. Curtis's, published at San Francisco by the Sutro Branch of the California State Library in 1940. An earlier version of this note claimed that none had been found and that this draft was the first Englishing of the second half; both claims were false, and they are withdrawn. The Books V–VIII translation in this draft is abridged: it carries roughly forty percent of a full rendering, and where passages are passed over, bracketed summary bridges stand in their place, marked as such. A complete translation, made fresh from the 1631 Latin entire, was commissioned on 25 October 2026 and will supersede this draft. The 1631 volume's printed index of chapters, and the marginal heads of the Latin, are noted in the text. The Archive's scan notes one leaf of the Latin copy (pp. 193–194, in Book IV) as wanting; the desk's inspection found those pages present in the item, and the point stands flagged for re-inspection. Nothing in this edition rests on Books V–VIII being complete in this draft: they are not.
 
 Acontius, an Italian exile for the Gospel's sake in Elizabeth's England, wrote this book to show how Satan makes his surest war not by open unbelief but by turning Christians' zeal, fear, pride, and love of being right into the walls of his own kingdom. Books V–VIII contain his searching anatomy of self-deception, of feigned sanctity and the censorious spirit; his plea for a modest liberty of opinions in religion; his counsel that errors once detected need not make truth hateful; his proposed common symbol of faith built of Scripture's own words; and his closing portrait of Satan himself, with the charge to shake off security and stand armed. The argument was hot in 1565. It has not cooled.
 
-The edition stands or falls on that argument, not on the editors. What the 1648 translator left unfinished, this edition finishes; what he printed, it keeps.
+The edition stands or falls on that argument, not on the editors. What the 1648 translator left unfinished, this draft takes up in part; what he printed, it keeps.
 
 
 * * *
