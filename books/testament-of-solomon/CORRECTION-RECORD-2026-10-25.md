@@ -33,3 +33,10 @@ File: testament-of-solomon.txt — SHA-256 before `2be2b157a7da986604b6709171ccf
 ## State left for the push gate
 
 The changes are staged in the clone only (this book's text file and this record). Nothing is committed and nothing is pushed; Robert's eyeball and push word are the next gate, as ruled. No other folder was touched: the Gospel of Peter folder (repair staged by its own crew) stands exactly as its crew left it, as do the pre-existing unrelated items in the clone — the modified BOOKS-INDEX.md and the untracked books/bombelli-algebra/, books/gray-electrical-papers/, books/mutien-marie-letters/, books/sefer-hasidim/, and books/thomas-clear-english/FACEBOOK-POST-thomas-DRAFT.md.
+
+## Follow-on conform — the (old) line 42 paragraph labelled (2026-10-25, after the push)
+
+The repair above was pushed as staged (commit `b434dbf`; live text SHA-256 `65227f88ab2b13410339c90d2bf7bf2f22372e8eacf46da1ec8d103d9708a388`). As a separate follow-on act, the flagged editorial paragraph under "The Catalogue of Demons" has now been conformed: it stands bracketed and labelled "[Editor's note — …]" — the same convention this repair applied at line 218 — with its wording verbatim inside the brackets and nothing else in the text changed.
+
+- **Basis:** the desk check's own observation, carried flagged in this record above, and this repair's standing principle that editorial matter stands labelled as editorial, never as text.
+- **Authority:** a delegated desk decision under Robert's maxim, ruled by him 2026-10-25 ("AWEN gets the final choice"); the desk chose CONFORM, both gates named in the chat record — the logic gate (a recorded note establishes the ground: the desk check's observation and this record's flag) and the love filter (nothing hidden; the losing course — leaving it flagged and unmended — is preserved in this record above, challengeable).
