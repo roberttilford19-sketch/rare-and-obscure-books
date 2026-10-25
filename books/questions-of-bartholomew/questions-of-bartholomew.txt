@@ -1,10 +1,20 @@
 The Questions of Bartholomew
 
-Rare & Obscure Books series — No. ___
+Rare & Obscure Books series
 
-Original language: Greek/Slavonic tradition, via James's English
+Original language: Greek, with Slavonic and Latin recensions, via James's English
 
-Basis: This rendering was made from M. R. James's English translation in The Apocryphal New Testament (Oxford, 1924), which is based chiefly on the Greek and Slavonic texts with additions from the Latin, modernized into plain present-day English.
+Basis: This rendering was made from M. R. James's English translation in The Apocryphal New Testament (Oxford, 1924), modernized into plain present-day English. James's version rests chiefly on the Greek text (the manuscripts of Vienna and Jerusalem), with the Slavonic text and the two Latin texts (Latin 1, fragments; Latin 2, complete) drawn in where he prints them.
+
+Recensions: James does not fuse the recensions into one narrative, and neither does this edition. The Greek is the main text. Passages that stand in another recension are set in square brackets and labelled with their source where they occur: the threefold opening of chapter 1, in which the opening verses are given from the Greek, the Slavonic, and Latin 2 separately, as James gives them; the descent passage in chapter 1, which the Slavonic and Latin 2 continue; the passage of the angel who would not go up, in chapter 1, which is Slavonic (verses 25-27 in that recension); and the sign-of-the-cross verse in chapter 4, which stands in the Greek (Jerusalem manuscript) and Latin 1 and is bracketed by James. Where Latin 2 gives a different form of part of the text (as in Bartholomew's prayer in chapter 4), that form is given in brackets and labelled, after the Greek form and not in place of it.
+
+Marks preserved from James: James's own square brackets are kept where he sets them, including bracketed variant readings, as at "Hardly fifty [three]" in chapter 1. A word he supplies is printed in angle brackets, as <not> in the openings of chapter 1. Words that stand corrupt in his text are printed between daggers (†...†) just as he marks them, and his tentative glosses are printed after them in parentheses with his own question mark; they are not silently resolved, and his gloss is never silently put in the text in place of his reading. Where the text breaks off into a lacuna, it is shown as †…†.
+
+Numbering: The chapters follow James's chapters I-V. The verse numbers are this edition's own and do not correspond to the verse numbers in James; in James, for example, chapter I runs to verse 35.
+
+Extent: This edition contains the Questions of Bartholomew only. The Coptic Book of the Resurrection of Christ by Bartholomew, which James prints after it in analysis, is not included, and no completeness beyond the Questions is claimed.
+
+Repair note: This file was repaired on 25 October 2026, after an audit found faults in its earlier state: an inverted bracket that reversed "fifty" and "three"; James's obeli silently resolved or dropped; the recensions fused without labels; a passage in chapter 4 rewritten, with its speaker changed; small referent and wording changes; and an unfilled template line. Every repair and its basis is recorded in CORRECTION-RECORD-2026-10-25.md in this folder. The pre-repair file is preserved with the audit record.
 
 Clear modern English edition — Tilford edition
 
@@ -15,55 +25,69 @@ Questions of Bartholomew
 
 Chapter 1
 
-1. After the Lord Jesus Christ rose from the dead, Bartholomew came to the Lord and questioned him, saying, "Lord, show me the mysteries of heaven."
+1. The opening verses are given from each of the three texts, as James gives them.
 
-Jesus answered him, "If I do not put off this body of flesh, I will not be able to tell them to you."
+Greek: After the Lord Jesus Christ rose from the dead, Bartholomew came to the Lord and questioned him, saying, "Lord, show me the mysteries of heaven."
 
-2. But after he was buried and had risen again, the apostles did not dare to question him, because they could hardly look at him — the fullness of his divine power was now seen in him.
+Jesus answered him, "If I do <not> put off this body of flesh, I will not be able to tell them to you."
 
-3. Bartholomew therefore came near to the Lord and said, "Lord, I have something to ask you."
+(In the Greek there is no third verse.)
+
+Slavonic: Before the Lord Jesus Christ rose from the dead, the apostles said, "Let us question the Lord. Lord, show us the wonders."
+
+And Jesus said to them, "If I do <not> put off this body of flesh, I cannot tell them to you."
+
+But after he was buried and had risen again, they all did not dare to question him, because they could hardly look at him — the fullness of his divine power was now seen in him.
+
+Latin 2: At that time, before the Lord Jesus Christ suffered, all the disciples were gathered together and questioned him, saying, "Lord, show us the mystery in the heavens."
+
+But Jesus answered and said to them, "If I do not put off the body of flesh, I cannot tell you."
+
+But after he had suffered and risen again, all the apostles, looking at him, did not dare to question him, because his face was not as it had been before, but showed the fullness of power.
+
+2. Bartholomew therefore came near to the Lord and said, "Lord, I have something to ask you."
 
 Jesus said to him, "I know what you are about to say. Say what you want, and I will answer you."
 
-4. Bartholomew said, "Lord, when you went to be hanged on the cross, I followed you from far off. I saw you hung on the cross, and the angels coming down from heaven and worshipping you. And when darkness came, I looked, and I saw that you had vanished from the cross. I heard only a voice in the places under the earth, and suddenly great wailing and gnashing of teeth. Tell me, Lord, where did you go from the cross?"
+3. Bartholomew said, "Lord, when you went to be hanged on the cross, I followed you from far off. I saw you hung on the cross, and the angels coming down from heaven and worshipping you. And when darkness came, I looked, and I saw that you had vanished from the cross. I heard only a voice in the places under the earth, and suddenly great wailing and gnashing of teeth. Tell me, Lord, where did you go from the cross?"
 
-5. Jesus answered, "Blessed are you, Bartholomew, my beloved, because you saw this mystery. Now I will tell you everything you ask me. When I vanished from the cross, I went down into Hades to bring up Adam and all who were with him, because Michael the archangel had begged me to do so."
+4. Jesus answered, "Blessed are you, Bartholomew, my beloved, because you saw this mystery. Now I will tell you everything you ask me. When I vanished from the cross, I went down into Hades to bring up Adam and all who were with him, because Michael the archangel had begged me to do so."
 
-6. Bartholomew said, "Lord, what was the voice that was heard?"
+5. Bartholomew said, "Lord, what was the voice that was heard?"
 
 Jesus said to him, "Hades said to Beliar, 'As I can tell, a God is coming here.'
 
-"And the angels cried to the powers, 'Lift up your gates, you rulers; lift up the everlasting doors, for look — the King of glory is coming down.'
+[Slavonic and Latin 2 continue: "And the angels cried to the powers, 'Lift up your gates, you rulers; lift up the everlasting doors, for look — the King of glory is coming down.'
 
 "Hades said, 'Who is the King of glory, who is coming down from heaven to us?'
 
-"And when I had gone down five hundred steps, Hades was in distress, saying, 'I hear the breathing of the Most High, and I cannot bear it.' But the devil answered, 'Do not give in, Hades; be strong. God himself has not come down to earth.' But when I had gone down another five hundred steps, the angels and the powers cried out, 'Take them away! Remove the doors, for look — the King of glory is coming down.' And Hades said, 'Woe is me, for I hear the breath of God.'"
+"And when I had gone down five hundred steps, Hades was in distress, saying, 'I hear the breathing of the Most High, and I cannot bear it.' But the devil answered, 'Do not give in, Hades; be strong. God himself has not come down to earth.' But when I had gone down another five hundred steps, the angels and the powers cried out, 'Take them away! Remove the doors, for look — the King of glory is coming down.' And Hades said, 'Woe is me, for I hear the breath of God.'"]
 
-7. Beliar said to Hades, "Look carefully who it is that [comes]. It seems to me this must be Elijah, or Enoch, or one of the prophets."
+6. Beliar said to Hades, "Look carefully who it is that [comes]. It seems to me this must be Elijah, or Enoch, or one of the prophets."
 
-But Hades answered, "Six thousand years are not yet finished. And where would these come from, Beliar? The count of the number is in my hands."
+But Hades answered Death and said, "Not yet are six thousand years accomplished. And where would these come from, Beliar? The count of the number is in my hands."
 
-8. [Beliar said to Hades:] "Do not be troubled. Make your gates safe and strengthen your bars. Think of it — God does not come down to earth."
+7. [Beliar said to Hades:] "Do not be troubled. Make your gates safe and strengthen your bars. Think of it — God does not come down to earth."
 
 Hades said to him, "These are no good words I hear from you. My belly is torn open, and my insides hurt me. It must be that God is coming here. Alas, where shall I flee before the face of the great King? Let me go inside myself — for I was formed before you."
 
-9. Jesus said, "Then I went in, and I beat him and bound him with chains that cannot be loosed. And I brought out all the forefathers from there, and came back to the cross."
+8. Jesus said, "Then I went in, and I beat him and bound him with chains that cannot be loosed. And I brought out all the forefathers from there, and came back to the cross."
 
-10. Bartholomew said to him, "Tell me, Lord — who was the man the angels carried up in their hands, the man who was very great in size? And what did you say to him, that he sighed so deeply?"
+9. Bartholomew said to him, "Tell me, Lord — who was the man the angels carried up in their hands, the man who was very great in size? And what did you say to him, that he sighed so deeply?"
 
-11. Jesus answered, "That was Adam, the first man formed, for whose sake I came down from heaven to earth. I said to him, 'I was hung on the cross for you and for your children's sake.' And when he heard it, he groaned and said, 'So was your good pleasure, O Lord.'"
+10. Jesus answered, "That was Adam, the first man formed, for whose sake I came down from heaven to earth. I said to him, 'I was hung on the cross for you and for your children's sake.' And when he heard it, he groaned and said, 'So was your good pleasure, O Lord.'"
 
-12. Bartholomew said again, "Lord, I saw the angels going up before Adam and singing praises. But one of the angels, who was very great, greater than the rest, would not go up with them. He held a sword of fire in his hand, and he kept looking steadily at you alone. And all the angels begged him to go up with them, but he would not. But when you commanded him to go up, I saw a flame of fire come out of his hands and go all the way to the city of Jerusalem."
+11. Bartholomew said again, "Lord, I saw the angels going up before Adam and singing praises. But one of the angels, who was very great, greater than the rest, would not go up with them. He held a sword of fire in his hand, and he kept looking steadily at you alone. [Slavonic: And all the angels begged him to go up with them, but he would not. But when you commanded him to go up, I saw a flame of fire come out of his hands and go all the way to the city of Jerusalem."
 
-Jesus said to him, "Blessed are you, Bartholomew, my beloved, because you saw these mysteries. That was one of the angels of vengeance who stand before my Father's throne. My Father sent this angel to me. He would not go up because he wanted to destroy all the powers of the world. But when I commanded him to go up, a flame went out of his hand and tore the veil of the temple in two, as a witness to the children of Israel concerning my suffering, because they crucified me."
+Jesus said to him, "Blessed are you, Bartholomew, my beloved, because you saw these mysteries. That was one of the angels of vengeance who stand before my Father's throne. My Father sent this angel to me. He would not go up because he wanted to destroy all the powers of the world. But when I commanded him to go up, a flame went out of his hand and tore the veil of the temple in two, as a witness to the children of Israel concerning my suffering, because they crucified me." (Latin 1: But the flame that you saw come out of his hands struck the house of the synagogue of the Jews, as a testimony of me, in that they crucified me.)]
 
-13. When he had said this, he said to the apostles, "Wait for me in this place, for today a sacrifice is offered in paradise."
+12. When he had said this, he said to the apostles, "Wait for me in this place, for today a sacrifice is offered in paradise."
 
 Bartholomew answered, "Lord, what is the sacrifice offered in paradise?"
 
 Jesus said, "There are souls of righteous people who have left the body today and are going to paradise. Unless I am present, they cannot enter paradise."
 
-14. Bartholomew said, "Lord, how many souls leave the world every day?"
+13. Bartholomew said, "Lord, how many souls leave the world every day?"
 
 Jesus said to him, "Thirty thousand."
 
@@ -71,19 +95,19 @@ Bartholomew said to him, "Lord, when you were with us teaching the word, did you
 
 Jesus answered, "Truly I tell you, my beloved, that I both taught the word with you and continually sat with my Father, and received the sacrifices in paradise every day."
 
-15. Bartholomew said, "Lord, if thirty thousand souls leave the world every day, how many of them are found righteous?"
+14. Bartholomew said, "Lord, if thirty thousand souls leave the world every day, how many of them are found righteous?"
 
-Jesus said to him, "Hardly [fifty] three, my beloved."
+Jesus said to him, "Hardly fifty [three], my beloved."
 
 Bartholomew said again, "And how do only three enter paradise?"
 
 Jesus said to him, "The [fifty] three enter paradise or are laid up in Abraham's bosom. But the others go into the place of the resurrection, for the three are not like the fifty."
 
-16. Bartholomew said to him, "Lord, how many souls are born into the world every day, over and above the number?"
+15. Bartholomew said to him, "Lord, how many souls are born into the world every day, over and above the number?"
 
 Jesus said to him, "Only one soul more is born than the number of those who depart."
 
-17. When he had said this, he gave them peace and vanished from them.
+16. When he had said this, he gave them peace and vanished from them.
 
 Chapter 2
 
@@ -167,7 +191,9 @@ But Jesus looked at him and said, "You bold heart! You ask for something you are
 
 4. Bartholomew was troubled and fell at Jesus' feet and began to speak:
 
-"O lamp that cannot be put out, Lord Jesus Christ, maker of the eternal light, who gave to those who love you the grace that makes all things beautiful, and who gave us the eternal light by your coming into the world — who confirmed the eternal word of the Father; who turned the shame of Adam into joy; who did away with the sorrow of Eve and gave her a cheerful face by your birth from a virgin: do not hold evil against me, but grant me the word I ask for."
+"O lamp that cannot be put out, Lord Jesus Christ, maker of the eternal light, who gave to those who love you the grace that makes all things beautiful, and who gave us the eternal light by your coming into the world; who †…† the heavenly essence by a word, †…† accomplished the work of the Father; who turned the shame of Adam into joy; who did away with the sorrow of Eve and gave her a cheerful face by your birth from a virgin: do not hold evil against me, but grant me the word I ask for."
+
+[Latin 2 gives this part of the prayer thus: who came down into the world, who confirmed the eternal word of the Father, who called the sadness of Adam to joy, who made the shame of Eve glad, and restored her, in that you were contained in the womb.]
 
 5. As he spoke, Jesus raised him up and said to him, "Bartholomew, do you want to see the adversary of men? I tell you, when you see him, not you only, but the rest of the apostles and Mary will fall on your faces and become like dead corpses."
 
@@ -197,9 +223,9 @@ Bartholomew said, "Lord, I am afraid he may swallow me up also, just as he did n
 
 Jesus said to him, "Were not all things made by my word? And by the will of my Father, were not the spirits made subject to Solomon? You, therefore, being commanded by my word, go in my name and ask him whatever you want."
 
-Bartholomew made the sign of the cross and prayed to Jesus and went to him. Jesus said to him, "Draw near." And as Bartholomew drew near, fire was kindled on every side, so that his garments looked fiery.
+[From the Greek (Jerusalem manuscript) and Latin 1: Bartholomew made the sign of the cross and prayed to Jesus and went behind him. Jesus said to him, "Draw near." And as Bartholomew drew near, fire was kindled on every side, so that his garments looked fiery.
 
-Jesus said to Bartholomew, "As I told you: tread on his neck and ask him what his power is."
+Jesus said to Bartholomew, "As I told you: tread on his neck and ask him what his power is."]
 
 Bartholomew went and trod on his neck and pressed his face down into the earth as far as his ears.
 
@@ -233,7 +259,7 @@ Beliar said to him, "I swear to you by the power of the glory of God that even i
 
 10. Bartholomew said to him, "How do you punish the souls of men?"
 
-Beliar said to him, "Do you want me to declare the punishment of the hypocrites, the backbiters, the jesters, the idolaters, the covetous, the adulterers, the sorcerers, the fortune-tellers, and those who believe in us, and all whom I deceive?"
+Beliar said to him, "Do you want me to declare the punishment of the hypocrites, the backbiters, the jesters, the idolaters, the covetous, the adulterers, the sorcerers, the fortune-tellers, and those who believe in us, and all whom I †look upon† (deceive?)"
 
 Bartholomew said to him, "I want you to declare it in a few words."
 
@@ -251,19 +277,17 @@ Satan said, "If I were able to go out by myself, I would have destroyed the whol
 
 13. Bartholomew said, "Be still, you dragon of the pit."
 
-Beliar said, "Many things will I tell you about the angels. Those who run together through the heavenly places and the earthly are these: Mermeoth, Onomatath, Douth, Melioth, Charouth, Graphathas, Oethra, Nephonos, Chalkatoura. With them the things in heaven and on earth and under the earth are governed."
+Beliar said, "Many things will I tell you about the angels. Those who run together through the heavenly places and the earthly are these: Mermeoth, Onomatath, Douth, Melioth, Charouth, Graphathas, Oethra, Nephonos, Chalkatoura. With them †do fly† (are administered?) the things in heaven and on earth and under the earth."
 
 Bartholomew said to him, "Be still and lie low, so that I may beg my Lord."
 
 14. Bartholomew fell on his face and threw earth on his head and began to say:
 
-"O Lord Jesus Christ, the great and glorious Name. All the choirs of the angels praise you. Hearken to me, and have mercy on the sinners."
+"O Lord Jesus Christ, the great and glorious Name. All the choirs of the angels praise you, O Master, and I, who am unworthy, with my lips †…† do praise you, O Master. Hearken to me, your servant; as you chose me from the receipt of custom and did not suffer me to go on in my former deeds to the end, O Lord Jesus Christ, hearken to me and have mercy on the sinners."
 
-When he had said this, the Lord said to him, "Rise up. Let him who was cast down declare this to you."
+When he had said this, the Lord said to him, "Rise up. Let him who groans arise; I will declare the rest to you."
 
-Then Bartholomew raised up Satan and said to him, "Go to your place, with your angels."
-
-But the Lord said, "Have mercy on all his world."
+Then Bartholomew raised up Satan and said to him, "Go to your place, with your angels; but the Lord has mercy on all his world."
 
 15. But the devil said, "Let me stay, and I will tell you how I was cast down into this place, and how the Lord made man.
 
@@ -331,13 +355,13 @@ Jesus said to him, "Truly I tell you that hypocrisy and backbiting are heavier t
 
 Jesus said to him, "Whoever speaks against any man who has served my holy Father has blasphemed against the Holy Spirit. For every man who serves God in worship is worthy of the Holy Spirit, and he who speaks anything evil against him will not be forgiven."
 
-3. "Woe to him who swears by the head of God — yes, woe to him who swears falsely by him. For there are twelve heads of God the Most High, for he is the truth, and in him there is no lie and no false swearing.
+3. "Woe to him who swears by the head of God — yes, woe to him who swears falsely by him †truly†. For there are twelve heads of God the Most High, for he is the truth, and in him there is no lie and no false swearing.
 
 "Therefore go and preach the word of truth to all the world. And you, Bartholomew, preach this word to everyone who desires it. As many as believe in it will have eternal life."
 
 4. Bartholomew said, "O Lord, if anyone sins with a sin of the body, what is their reward?"
 
-Jesus said, "It is good if he who is baptized presents his baptism blameless. But the pleasure of the flesh will make him a lover of pleasure. A single marriage belongs to sober living. For truly I tell you, he who sins after the third marriage is unworthy of God."
+Jesus said, "It is good if he who is baptized presents his baptism blameless. But the pleasure of the flesh will †become a lover†. A single marriage belongs to sober living. For truly I tell you, he who sins after the third marriage is unworthy of God."
 
 5. "But you — preach to every man that they keep themselves from such things. For I do not depart from you, and I supply you with the Holy Spirit."
 
@@ -349,7 +373,7 @@ Notes: A cubit is about 18 inches (the length from elbow to fingertip). A myriad
 
 Sources
 
-- M. R. James, The Apocryphal New Testament (Oxford, 1924). Internet Archive identifier: JAMESApocryphalNewTestament1924. Used as the sole basis for this rendering: James's English translation, based chiefly on the Greek and Slavonic texts with additions from the Latin, modernized into plain present-day English.
+- M. R. James, The Apocryphal New Testament (Oxford, 1924). Internet Archive identifier: JAMESApocryphalNewTestament1924. Used as the sole basis for this rendering: James's English translation, based chiefly on the Greek text with the Slavonic and Latin recensions printed distinctly, modernized into plain present-day English, with his brackets, angle brackets, obeli, and queried glosses preserved as described in the front matter. Repaired 25 October 2026; see CORRECTION-RECORD-2026-10-25.md in this folder.
 
 The source texts are in the public domain.
 
