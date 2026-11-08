@@ -13120,3 +13120,10 @@ A checksum does not make a book true. It makes a book accountable. These fingerp
 When a reader's correction or contribution is verified against the sources and entered into this edition on the editor's ruling, the contributor's name is entered in this ledger with the date and the substance of the contribution in one line — permanently associated with the translation. A certificate of contribution is sent to the contributor by the editor.
 
 No reader contributions have yet been entered. The first names will stand here.
+
+## Addendum — Re-issue of 2026-11-07: the chapter 91 page markers
+
+—— pp. 225–228 ——
+—— pp. 232–234 ("The Last Three Weeks") ——
+
+These two Charles print page-range marker lines stood in the reader edition at the head of the chapter 91 material until the re-issue of 2026-11-07, when they were lifted out of the reader into this apparatus on the editor's ruling of 2026-11-07; Gemini is credited as the finder who first flagged them standing unexplained in the reader body.
